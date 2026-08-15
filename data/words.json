@@ -1501,5 +1501,315 @@
       ]
     }
   }
+},
+{
+  "id": "fare",
+  "sid": "2026-00007",
+  "word": "fare",
+  "ipa": "/ˈfare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞・使役動詞",
+      "it": "verbo transitivo, intransitivo e causativo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "fatto",
+    "gerundPresent": "facendo",
+    "pattern": "fare + nome / fare + infinito / fare + aggettivo"
+  },
+
+  "usage": {
+    "register": ["neutral"],
+    "medium": ["spoken", "written"],
+    "situations": [
+      "conversation",
+      "business",
+      "academic"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "する、行う、実施する",
+      "作る、製作する、準備する",
+      "ある状態・結果を生じさせる",
+      "人に何かをさせる",
+      "天候・時間・距離などを表す"
+    ],
+    "it": [
+      "Compiere o svolgere un’azione.",
+      "Creare, produrre o preparare qualcosa.",
+      "Provocare un effetto o rendere qualcuno o qualcosa in un determinato stato.",
+      "Con l’infinito, far compiere un’azione a qualcuno.",
+      "In costruzioni impersonali, indicare tempo atmosferico, durata o distanza."
+    ]
+  },
+
+  "nuance": {
+    "ja": "非常に意味範囲が広く、英語のdoとmakeの両方に相当する。単独の意味よりも、fare una domanda、fare attenzione、fare una passeggiataのような名詞との結びつきで覚えることが重要である。fare + 不定詞では「～させる」という使役を表す。また、fa caldoやdue anni faのように、天候や過去の時間も表す。",
+    "it": "È uno dei verbi più generici e produttivi dell’italiano. Il significato concreto dipende spesso dal nome o dall’aggettivo che lo accompagna. Con l’infinito forma una costruzione causativa; in espressioni impersonali indica anche il tempo atmosferico e il tempo trascorso."
+  },
+
+  "etymology": {
+    "ja": "ラテン語facere（作る、行う）に由来する。イタリア語では語中音の脱落によってfacereからfareへ短縮されたが、faccio、facevo、facendoなどの活用形には古い語幹fac-が残っている。",
+    "it": "Dal latino facere. La forma dell’infinito si è ridotta da facere a fare, mentre numerose forme della coniugazione conservano l’antica radice fac-, come faccio, facevo e facendo."
+  },
+
+  "minimal": [
+    {
+      "word": "fare",
+      "ja": "行為・作成・結果の発生を広く表す一般的な動詞",
+      "it": "indicare in modo generale un’azione, una produzione o un risultato"
+    },
+    {
+      "word": "svolgere",
+      "ja": "任務・活動・役割などを組織的に遂行する",
+      "it": "eseguire in modo organizzato un’attività, un compito o una funzione"
+    },
+    {
+      "word": "rendere",
+      "ja": "人や物をある状態にする、または返却する",
+      "it": "far diventare qualcuno o qualcosa in un certo modo oppure restituire"
+    }
+  ],
+
+  "synonyms": [
+    "compiere",
+    "eseguire",
+    "realizzare",
+    "produrre",
+    "svolgere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "do",
+      "make"
+    ],
+    "de": [
+      "machen",
+      "tun"
+    ],
+    "fr": [
+      "faire",
+      "effectuer"
+    ],
+    "es": [
+      "hacer",
+      "realizar"
+    ]
+  },
+
+  "collocations": [
+    "fare una domanda",
+    "fare una scelta",
+    "fare shopping",
+    "fare la spesa",
+    "fare spese"
+    "fare attenzione",
+    "fare un errore",
+    "fare un tentativo",
+    "fare una ricerca",
+    "fare un viaggio",
+    "fare una passeggiata",
+    "fare colazione",
+    "fare il possibile",
+    "fare del proprio meglio",
+    "fare finta di",
+    "fare a meno di",
+    "avere a che fare con",
+    "fare sapere",
+    "fare vedere",
+    "fare caldo",
+    "fare freddo",
+    "due anni fa"
+  ],
+
+  "examples": [
+    {
+      "it": "Che cosa fai questo fine settimana?",
+      "ja": "今週末は何をしますか。"
+    },
+    {
+      "it": "Vorrei fare una domanda.",
+      "ja": "質問をしたいのですが。"
+    },
+    {
+      "it": "Ho fatto un errore nel documento.",
+      "ja": "私は書類で誤りを犯した。"
+    },
+    {
+      "it": "Questa notizia mi ha fatto molto piacere.",
+      "ja": "この知らせを聞いて私はとてもうれしかった。"
+    },
+    {
+      "it": "Il medico mi ha fatto aspettare per un’ora.",
+      "ja": "医師は私を1時間待たせた。"
+    },
+    {
+      "it": "Oggi fa molto caldo.",
+      "ja": "今日はとても暑い。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "faccio",
+        "fai",
+        "fa",
+        "facciamo",
+        "fate",
+        "fanno"
+      ],
+
+      "Imperfetto": [
+        "facevo",
+        "facevi",
+        "faceva",
+        "facevamo",
+        "facevate",
+        "facevano"
+      ],
+
+      "Passato prossimo": [
+        "ho fatto",
+        "hai fatto",
+        "ha fatto",
+        "abbiamo fatto",
+        "avete fatto",
+        "hanno fatto"
+      ],
+
+      "Passato remoto": [
+        "feci",
+        "facesti",
+        "fece",
+        "facemmo",
+        "faceste",
+        "fecero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo fatto",
+        "avevi fatto",
+        "aveva fatto",
+        "avevamo fatto",
+        "avevate fatto",
+        "avevano fatto"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi fatto",
+        "avesti fatto",
+        "ebbe fatto",
+        "avemmo fatto",
+        "aveste fatto",
+        "ebbero fatto"
+      ],
+
+      "Futuro semplice": [
+        "farò",
+        "farai",
+        "farà",
+        "faremo",
+        "farete",
+        "faranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò fatto",
+        "avrai fatto",
+        "avrà fatto",
+        "avremo fatto",
+        "avrete fatto",
+        "avranno fatto"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "faccia",
+        "faccia",
+        "faccia",
+        "facciamo",
+        "facciate",
+        "facciano"
+      ],
+
+      "Imperfetto": [
+        "facessi",
+        "facessi",
+        "facesse",
+        "facessimo",
+        "faceste",
+        "facessero"
+      ],
+
+      "Passato": [
+        "abbia fatto",
+        "abbia fatto",
+        "abbia fatto",
+        "abbiamo fatto",
+        "abbiate fatto",
+        "abbiano fatto"
+      ],
+
+      "Trapassato": [
+        "avessi fatto",
+        "avessi fatto",
+        "avesse fatto",
+        "avessimo fatto",
+        "aveste fatto",
+        "avessero fatto"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "farei",
+        "faresti",
+        "farebbe",
+        "faremmo",
+        "fareste",
+        "farebbero"
+      ],
+
+      "Passato": [
+        "avrei fatto",
+        "avresti fatto",
+        "avrebbe fatto",
+        "avremmo fatto",
+        "avreste fatto",
+        "avrebbero fatto"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "fa’ / fai",
+        "faccia",
+        "facciamo",
+        "fate",
+        "facciano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "fare",
+        "avere fatto",
+        "facente",
+        "fatto",
+        "facendo",
+        "avendo fatto"
+      ]
+    }
+  }
 }
 ]
