@@ -14173,5 +14173,2628 @@
       ]
     }
   }
+},
+{
+  "id": "uscire",
+  "sid": "2026-00050",
+  "word": "uscire",
+  "ipa": "/uʃˈʃire/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞",
+      "it": "verbo intransitivo"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "uscito",
+    "gerundPresent": "uscendo",
+    "pattern": "uscire da o di + luogo / uscire con + persona / uscire per + scopo / uscire a + infinito"
+  },
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "social",
+      "business"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "出る、外へ出る",
+      "外出する、出かける",
+      "人と会う、交際する",
+      "乗り物・道路などから出る",
+      "出版・発売・公開される",
+      "結果として現れる、判明する"
+    ],
+    "it": [
+      "Passare dall'interno di un luogo verso l'esterno.",
+      "Lasciare la propria abitazione per svolgere un'attività.",
+      "Incontrare o frequentare una persona.",
+      "Abbandonare un mezzo, una strada o una determinata situazione.",
+      "Essere pubblicato, distribuito o reso disponibile.",
+      "Emergere come risultato di un esame, un calcolo o un sorteggio."
+    ]
+  },
+  "nuance": {
+    "ja": "場所の内部から外部へ移動することが基本で、entrareと対になる。uscire di casaとuscire da casaはどちらも使われるが、前者は「外出する」、後者は場所から離れる動きを意識させやすい。uscire con qualcunoは、単に一緒に出かける場合と、恋愛関係で交際する場合の両方がある。",
+    "it": "Il significato fondamentale è il passaggio dall'interno verso l'esterno, in opposizione a entrare. Sono possibili uscire di casa e uscire da casa: il primo richiama spesso l'atto abituale di uscire, il secondo sottolinea maggiormente il luogo di provenienza. Uscire con qualcuno può significare incontrarlo socialmente oppure frequentarlo sentimentalmente."
+  },
+  "etymology": {
+    "ja": "ラテン語exire（外へ出る）に由来する。これはex-（外へ）とire（行く）から成る。音韻変化を経てイタリア語uscireとなった。同じラテン語要素はイタリア語esito、フランス語issue、英語exitなどにも見られる。",
+    "it": "Dal latino exire, formato da ex-, «fuori», e ire, «andare». Attraverso l'evoluzione fonetica popolare si è sviluppata la forma italiana uscire. Alla stessa base sono collegate parole come esito ed exit."
+  },
+  "minimal": [
+    {
+      "word": "uscire",
+      "ja": "場所の内部から外へ移動する、または外出する",
+      "it": "passare dall'interno verso l'esterno o lasciare casa per un'attività"
+    },
+    {
+      "word": "partire",
+      "ja": "ある場所を離れ、別の目的地への移動を開始する",
+      "it": "lasciare un luogo per iniziare un viaggio verso una destinazione"
+    },
+    {
+      "word": "andarsene",
+      "ja": "その場から立ち去る、帰る",
+      "it": "lasciare il luogo in cui ci si trova e andare via"
+    }
+  ],
+  "synonyms": [
+    "andare fuori",
+    "allontanarsi",
+    "partire",
+    "andarsene",
+    "emergere"
+  ],
+  "equivalents": {
+    "en": [
+      "go out",
+      "exit",
+      "come out"
+    ],
+    "de": [
+      "hinausgehen",
+      "ausgehen",
+      "verlassen"
+    ],
+    "fr": [
+      "sortir",
+      "paraître"
+    ],
+    "es": [
+      "salir",
+      "publicarse"
+    ]
+  },
+  "collocations": [
+    "uscire di casa",
+    "uscire da casa",
+    "uscire dall'ufficio",
+    "uscire da scuola",
+    "uscire dal lavoro",
+    "uscire dalla macchina",
+    "uscire dall'autostrada",
+    "uscire con gli amici",
+    "uscire con qualcuno",
+    "uscire insieme",
+    "uscire da solo",
+    "uscire la sera",
+    "uscire a cena",
+    "uscire a fare una passeggiata",
+    "uscire per lavoro",
+    "uscire allo scoperto",
+    "uscire di scena",
+    "uscire dai binari",
+    "uscire sul mercato",
+    "uscire su un giornale",
+    "far uscire qualcuno"
+  ],
+  "examples": [
+    {
+      "it": "A che ora esci di casa la mattina?",
+      "ja": "朝は何時に家を出ますか。"
+    },
+    {
+      "it": "Ieri sera sono uscito con alcuni amici.",
+      "ja": "昨晩、私は友人たちと出かけた。"
+    },
+    {
+      "it": "Dobbiamo uscire dall'autostrada alla prossima uscita.",
+      "ja": "次の出口で高速道路を降りなければならない。"
+    },
+    {
+      "it": "È uscita dall'ufficio pochi minuti fa.",
+      "ja": "彼女は数分前に事務所を出た。"
+    },
+    {
+      "it": "Il nuovo libro uscirà il mese prossimo.",
+      "ja": "新しい本は来月刊行される。"
+    },
+    {
+      "it": "Dall'indagine è uscito un risultato interessante.",
+      "ja": "その調査から興味深い結果が明らかになった。"
+    }
+  ],
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "esco",
+        "esci",
+        "esce",
+        "usciamo",
+        "uscite",
+        "escono"
+      ],
+      "Imperfetto": [
+        "uscivo",
+        "uscivi",
+        "usciva",
+        "uscivamo",
+        "uscivate",
+        "uscivano"
+      ],
+      "Passato prossimo": [
+        "sono uscito/a",
+        "sei uscito/a",
+        "è uscito/a",
+        "siamo usciti/e",
+        "siete usciti/e",
+        "sono usciti/e"
+      ],
+      "Passato remoto": [
+        "uscii",
+        "uscisti",
+        "uscì",
+        "uscimmo",
+        "usciste",
+        "uscirono"
+      ],
+      "Trapassato prossimo": [
+        "ero uscito/a",
+        "eri uscito/a",
+        "era uscito/a",
+        "eravamo usciti/e",
+        "eravate usciti/e",
+        "erano usciti/e"
+      ],
+      "Trapassato remoto": [
+        "fui uscito/a",
+        "fosti uscito/a",
+        "fu uscito/a",
+        "fummo usciti/e",
+        "foste usciti/e",
+        "furono usciti/e"
+      ],
+      "Futuro semplice": [
+        "uscirò",
+        "uscirai",
+        "uscirà",
+        "usciremo",
+        "uscirete",
+        "usciranno"
+      ],
+      "Futuro anteriore": [
+        "sarò uscito/a",
+        "sarai uscito/a",
+        "sarà uscito/a",
+        "saremo usciti/e",
+        "sarete usciti/e",
+        "saranno usciti/e"
+      ]
+    },
+    "Congiuntivo": {
+      "Presente": [
+        "esca",
+        "esca",
+        "esca",
+        "usciamo",
+        "usciate",
+        "escano"
+      ],
+      "Imperfetto": [
+        "uscissi",
+        "uscissi",
+        "uscisse",
+        "uscissimo",
+        "usciste",
+        "uscissero"
+      ],
+      "Passato": [
+        "sia uscito/a",
+        "sia uscito/a",
+        "sia uscito/a",
+        "siamo usciti/e",
+        "siate usciti/e",
+        "siano usciti/e"
+      ],
+      "Trapassato": [
+        "fossi uscito/a",
+        "fossi uscito/a",
+        "fosse uscito/a",
+        "fossimo usciti/e",
+        "foste usciti/e",
+        "fossero usciti/e"
+      ]
+    },
+    "Condizionale": {
+      "Presente": [
+        "uscirei",
+        "usciresti",
+        "uscirebbe",
+        "usciremmo",
+        "uscireste",
+        "uscirebbero"
+      ],
+      "Passato": [
+        "sarei uscito/a",
+        "saresti uscito/a",
+        "sarebbe uscito/a",
+        "saremmo usciti/e",
+        "sareste usciti/e",
+        "sarebbero usciti/e"
+      ]
+    },
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "esci",
+        "esca",
+        "usciamo",
+        "uscite",
+        "escano"
+      ]
+    },
+    "Forme indefinite": {
+      "Forme": [
+        "uscire",
+        "essere uscito/a/i/e",
+        "uscente",
+        "uscito",
+        "uscendo",
+        "essendo uscito/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "partire",
+  "sid": "2026-00051",
+  "word": "partire",
+  "ipa": "/parˈtire/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞",
+      "it": "verbo intransitivo"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "partito",
+    "gerundPresent": "partendo",
+    "pattern": "partire da + origine / partire per + destinazione / partire a + ora / partire da + idea o presupposto"
+  },
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "business",
+      "academic"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "出発する、旅立つ",
+      "ある場所を離れる",
+      "乗り物が発車する",
+      "ある地点・考え・前提から始める",
+      "機械などが始動する",
+      "合図・音・攻撃などが突然発せられる"
+    ],
+    "it": [
+      "Lasciare un luogo per dirigersi verso una destinazione.",
+      "Iniziare un viaggio o uno spostamento.",
+      "Mettersi in movimento, riferito a un mezzo di trasporto.",
+      "Prendere un elemento come punto di origine o presupposto.",
+      "Mettersi in funzione, riferito a una macchina o a un meccanismo.",
+      "Essere emesso o prodotto improvvisamente."
+    ]
+  },
+  "nuance": {
+    "ja": "現在いる場所を離れて、目的地への移動を開始することに焦点を置く。出発地にはpartire da Roma、目的地にはpartire per Roma、時刻にはpartire alle noveを用いる。uscireが場所の内部から外へ出ることを表すのに対し、partireは旅程や移動の開始を強調する。",
+    "it": "Mette in rilievo l'inizio di un viaggio o l'allontanamento da un luogo verso una destinazione. L'origine è introdotta da da, la destinazione da per e l'ora da a. Uscire indica soprattutto il passaggio dall'interno all'esterno, mentre partire sottolinea l'avvio dello spostamento."
+  },
+  "etymology": {
+    "ja": "ラテン語partireまたはpartiri（分ける、分かれる）に由来し、その基礎にはpars、partis（部分）がある。「全体から分かれる」ことから「その場を離れる、出発する」という意味が発達した。",
+    "it": "Dal latino partire o partiri, «dividere o separare», derivato da pars, partis, «parte». Dall'idea di separarsi da un insieme si è sviluppato il significato di lasciare un luogo e iniziare un viaggio."
+  },
+  "minimal": [
+    {
+      "word": "partire",
+      "ja": "場所を離れ、目的地への移動・旅行を開始する",
+      "it": "lasciare un luogo per iniziare un viaggio verso una destinazione"
+    },
+    {
+      "word": "uscire",
+      "ja": "建物・部屋などの内部から外へ出る",
+      "it": "passare dall'interno di un luogo verso l'esterno"
+    },
+    {
+      "word": "andarsene",
+      "ja": "現在いる場所から立ち去る、帰る",
+      "it": "lasciare il luogo in cui ci si trova e andare via"
+    }
+  ],
+  "synonyms": [
+    "andarsene",
+    "lasciare",
+    "avviarsi",
+    "mettersi in viaggio",
+    "decollare"
+  ],
+  "equivalents": {
+    "en": [
+      "leave",
+      "depart",
+      "set off"
+    ],
+    "de": [
+      "abfahren",
+      "abreisen",
+      "aufbrechen"
+    ],
+    "fr": [
+      "partir",
+      "quitter"
+    ],
+    "es": [
+      "partir",
+      "salir",
+      "marcharse"
+    ]
+  },
+  "collocations": [
+    "partire da casa",
+    "partire da Roma",
+    "partire per l'Italia",
+    "partire per un viaggio",
+    "partire per lavoro",
+    "partire per le vacanze",
+    "partire in treno",
+    "partire in macchina",
+    "partire in aereo",
+    "partire alle otto",
+    "partire presto",
+    "partire tardi",
+    "partire domani",
+    "partire insieme",
+    "essere pronto a partire",
+    "stare per partire",
+    "decidere di partire",
+    "partire da zero",
+    "partire da un'idea",
+    "partire dal presupposto che",
+    "far partire una macchina"
+  ],
+  "examples": [
+    {
+      "it": "Domani parto per l'Italia.",
+      "ja": "明日、私はイタリアへ出発する。"
+    },
+    {
+      "it": "A che ora parte il treno per Firenze?",
+      "ja": "フィレンツェ行きの列車は何時に出発しますか。"
+    },
+    {
+      "it": "Siamo partiti da Roma alle sette.",
+      "ja": "私たちは7時にローマを出発した。"
+    },
+    {
+      "it": "È già partita per il lavoro.",
+      "ja": "彼女はもう仕事へ出かけた。"
+    },
+    {
+      "it": "Per risolvere il problema dobbiamo partire dai fatti.",
+      "ja": "問題を解決するには事実から出発しなければならない。"
+    },
+    {
+      "it": "La macchina non vuole partire.",
+      "ja": "その車はどうしてもエンジンがかからない。"
+    }
+  ],
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "parto",
+        "parti",
+        "parte",
+        "partiamo",
+        "partite",
+        "partono"
+      ],
+      "Imperfetto": [
+        "partivo",
+        "partivi",
+        "partiva",
+        "partivamo",
+        "partivate",
+        "partivano"
+      ],
+      "Passato prossimo": [
+        "sono partito/a",
+        "sei partito/a",
+        "è partito/a",
+        "siamo partiti/e",
+        "siete partiti/e",
+        "sono partiti/e"
+      ],
+      "Passato remoto": [
+        "partii",
+        "partisti",
+        "partì",
+        "partimmo",
+        "partiste",
+        "partirono"
+      ],
+      "Trapassato prossimo": [
+        "ero partito/a",
+        "eri partito/a",
+        "era partito/a",
+        "eravamo partiti/e",
+        "eravate partiti/e",
+        "erano partiti/e"
+      ],
+      "Trapassato remoto": [
+        "fui partito/a",
+        "fosti partito/a",
+        "fu partito/a",
+        "fummo partiti/e",
+        "foste partiti/e",
+        "furono partiti/e"
+      ],
+      "Futuro semplice": [
+        "partirò",
+        "partirai",
+        "partirà",
+        "partiremo",
+        "partirete",
+        "partiranno"
+      ],
+      "Futuro anteriore": [
+        "sarò partito/a",
+        "sarai partito/a",
+        "sarà partito/a",
+        "saremo partiti/e",
+        "sarete partiti/e",
+        "saranno partiti/e"
+      ]
+    },
+    "Congiuntivo": {
+      "Presente": [
+        "parta",
+        "parta",
+        "parta",
+        "partiamo",
+        "partiate",
+        "partano"
+      ],
+      "Imperfetto": [
+        "partissi",
+        "partissi",
+        "partisse",
+        "partissimo",
+        "partiste",
+        "partissero"
+      ],
+      "Passato": [
+        "sia partito/a",
+        "sia partito/a",
+        "sia partito/a",
+        "siamo partiti/e",
+        "siate partiti/e",
+        "siano partiti/e"
+      ],
+      "Trapassato": [
+        "fossi partito/a",
+        "fossi partito/a",
+        "fosse partito/a",
+        "fossimo partiti/e",
+        "foste partiti/e",
+        "fossero partiti/e"
+      ]
+    },
+    "Condizionale": {
+      "Presente": [
+        "partirei",
+        "partiresti",
+        "partirebbe",
+        "partiremmo",
+        "partireste",
+        "partirebbero"
+      ],
+      "Passato": [
+        "sarei partito/a",
+        "saresti partito/a",
+        "sarebbe partito/a",
+        "saremmo partiti/e",
+        "sareste partiti/e",
+        "sarebbero partiti/e"
+      ]
+    },
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "parti",
+        "parta",
+        "partiamo",
+        "partite",
+        "partano"
+      ]
+    },
+    "Forme indefinite": {
+      "Forme": [
+        "partire",
+        "essere partito/a/i/e",
+        "partente",
+        "partito",
+        "partendo",
+        "essendo partito/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "traslocare",
+  "sid": "2026-00052",
+  "word": "traslocare",
+  "ipa": "/trazloˈkare/",
+  "level": "A2",
+  "frequency": "common",
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "traslocato",
+    "gerundPresent": "traslocando",
+    "pattern": "traslocare da + luogo / traslocare in o a + luogo / traslocare + oggetti, uffici o attività"
+  },
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "housing",
+      "business"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "引っ越す、住居を移す",
+      "事務所・店舗・活動拠点などを移転する",
+      "家具・物品などを別の場所へ移す",
+      "人を別の勤務地・部署へ異動させる"
+    ],
+    "it": [
+      "Cambiare casa o trasferire la propria residenza.",
+      "Spostare la sede di un ufficio, un negozio o un'attività.",
+      "Trasportare mobili, oggetti o materiali in un altro luogo.",
+      "In un uso meno comune, trasferire una persona in un'altra sede."
+    ]
+  },
+  "nuance": {
+    "ja": "日常語では主に住居や事務所を別の場所へ移すことを表す。単なる移動ではなく、生活・業務の拠点を移すことと、それに伴う家具や物品の運搬を含みやすい。自動詞としても助動詞はavereを用い、abbiamo traslocatoと言う。",
+    "it": "Nell'uso comune indica soprattutto il cambiamento di abitazione o di sede, spesso comprendendo anche il trasporto di mobili e oggetti. Non esprime un semplice spostamento momentaneo, ma il trasferimento di un centro stabile di vita o di attività. Anche nell'uso intransitivo forma i tempi composti con avere."
+  },
+  "etymology": {
+    "ja": "ラテン語locus（場所）に、越えて・向こうへという意味を持つ接頭辞tras-が付いて成立した語である。文字どおりには「別の場所へ移す」という構成を持つ。",
+    "it": "È formato con il prefisso tras-, che indica passaggio o trasferimento, e il latino locus, «luogo». Il significato letterale è quindi quello di spostare in un altro luogo."
+  },
+  "minimal": [
+    {
+      "word": "traslocare",
+      "ja": "住居・事務所とその家財を別の場所へ移す",
+      "it": "cambiare abitazione o sede trasferendo anche mobili e materiali"
+    },
+    {
+      "word": "trasferirsi",
+      "ja": "別の都市・国・住居・職場などへ生活や活動の拠点を移す",
+      "it": "spostare la propria residenza o attività in un altro luogo"
+    },
+    {
+      "word": "spostarsi",
+      "ja": "場所や位置を変えることを広く表す",
+      "it": "cambiare posizione o recarsi da un luogo a un altro in senso generale"
+    }
+  ],
+  "synonyms": [
+    "trasferirsi",
+    "cambiare casa",
+    "cambiare sede",
+    "spostarsi",
+    "andare ad abitare altrove"
+  ],
+  "equivalents": {
+    "en": [
+      "move",
+      "relocate"
+    ],
+    "de": [
+      "umziehen",
+      "verlegen"
+    ],
+    "fr": [
+      "déménager",
+      "transférer"
+    ],
+    "es": [
+      "mudarse",
+      "trasladarse"
+    ]
+  },
+  "collocations": [
+    "traslocare in una nuova casa",
+    "traslocare in un altro appartamento",
+    "traslocare in centro",
+    "traslocare in periferia",
+    "traslocare a Roma",
+    "traslocare da Roma a Milano",
+    "traslocare all'estero",
+    "traslocare con la famiglia",
+    "traslocare in un nuovo ufficio",
+    "traslocare la sede",
+    "traslocare gli uffici",
+    "traslocare un'attività",
+    "traslocare i mobili",
+    "decidere di traslocare",
+    "dover traslocare",
+    "aiutare qualcuno a traslocare",
+    "stare per traslocare",
+    "finire di traslocare",
+    "ditta di traslochi",
+    "spese di trasloco"
+  ],
+  "examples": [
+    {
+      "it": "Il mese prossimo traslochiamo in una casa più grande.",
+      "ja": "来月、私たちはもっと大きな家へ引っ越す。"
+    },
+    {
+      "it": "Abbiamo traslocato due anni fa.",
+      "ja": "私たちは2年前に引っ越した。"
+    },
+    {
+      "it": "L'azienda ha traslocato in un nuovo ufficio.",
+      "ja": "その会社は新しい事務所へ移転した。"
+    },
+    {
+      "it": "Dobbiamo traslocare tutti i mobili entro sabato.",
+      "ja": "土曜日までに家具をすべて移さなければならない。"
+    },
+    {
+      "it": "Mi aiuti a traslocare?",
+      "ja": "引っ越しを手伝ってくれますか。"
+    },
+    {
+      "it": "Il negozio rimarrà chiuso mentre traslochiamo.",
+      "ja": "移転作業中、その店は休業する。"
+    }
+  ],
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "trasloco",
+        "traslochi",
+        "trasloca",
+        "traslochiamo",
+        "traslocate",
+        "traslocano"
+      ],
+      "Imperfetto": [
+        "traslocavo",
+        "traslocavi",
+        "traslocava",
+        "traslocavamo",
+        "traslocavate",
+        "traslocavano"
+      ],
+      "Passato prossimo": [
+        "ho traslocato",
+        "hai traslocato",
+        "ha traslocato",
+        "abbiamo traslocato",
+        "avete traslocato",
+        "hanno traslocato"
+      ],
+      "Passato remoto": [
+        "traslocai",
+        "traslocasti",
+        "traslocò",
+        "traslocammo",
+        "traslocaste",
+        "traslocarono"
+      ],
+      "Trapassato prossimo": [
+        "avevo traslocato",
+        "avevi traslocato",
+        "aveva traslocato",
+        "avevamo traslocato",
+        "avevate traslocato",
+        "avevano traslocato"
+      ],
+      "Trapassato remoto": [
+        "ebbi traslocato",
+        "avesti traslocato",
+        "ebbe traslocato",
+        "avemmo traslocato",
+        "aveste traslocato",
+        "ebbero traslocato"
+      ],
+      "Futuro semplice": [
+        "traslocherò",
+        "traslocherai",
+        "traslocherà",
+        "traslocheremo",
+        "traslocherete",
+        "traslocheranno"
+      ],
+      "Futuro anteriore": [
+        "avrò traslocato",
+        "avrai traslocato",
+        "avrà traslocato",
+        "avremo traslocato",
+        "avrete traslocato",
+        "avranno traslocato"
+      ]
+    },
+    "Congiuntivo": {
+      "Presente": [
+        "traslochi",
+        "traslochi",
+        "traslochi",
+        "traslochiamo",
+        "traslochiate",
+        "traslochino"
+      ],
+      "Imperfetto": [
+        "traslocassi",
+        "traslocassi",
+        "traslocasse",
+        "traslocassimo",
+        "traslocaste",
+        "traslocassero"
+      ],
+      "Passato": [
+        "abbia traslocato",
+        "abbia traslocato",
+        "abbia traslocato",
+        "abbiamo traslocato",
+        "abbiate traslocato",
+        "abbiano traslocato"
+      ],
+      "Trapassato": [
+        "avessi traslocato",
+        "avessi traslocato",
+        "avesse traslocato",
+        "avessimo traslocato",
+        "aveste traslocato",
+        "avessero traslocato"
+      ]
+    },
+    "Condizionale": {
+      "Presente": [
+        "traslocherei",
+        "traslocheresti",
+        "traslocherebbe",
+        "traslocheremmo",
+        "traslochereste",
+        "traslocherebbero"
+      ],
+      "Passato": [
+        "avrei traslocato",
+        "avresti traslocato",
+        "avrebbe traslocato",
+        "avremmo traslocato",
+        "avreste traslocato",
+        "avrebbero traslocato"
+      ]
+    },
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "trasloca",
+        "traslochi",
+        "traslochiamo",
+        "traslocate",
+        "traslochino"
+      ]
+    },
+    "Forme indefinite": {
+      "Forme": [
+        "traslocare",
+        "avere traslocato",
+        "traslocante",
+        "traslocato",
+        "traslocando",
+        "avendo traslocato"
+      ]
+    }
+  }
+},
+{
+  "id": "stampare",
+  "sid": "2026-00053",
+  "word": "stampare",
+  "ipa": "/stamˈpare/",
+  "level": "A2",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "stampato",
+    "gerundPresent": "stampando",
+    "pattern": "stampare + documento, immagine o opera / stampare su + materiale / stampare in + formato, colore o numero"
+  },
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "technology",
+      "publishing"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "印刷する、プリントする",
+      "本・新聞などを刷る、刊行する",
+      "文字・図柄・形などを押しつけて付ける",
+      "表面に模様や跡を刻む",
+      "記憶・心などに強く刻みつける"
+    ],
+    "it": [
+      "Riprodurre testi o immagini su carta o altro supporto mediante una stampante.",
+      "Produrre libri, giornali o altre opere attraverso un procedimento tipografico.",
+      "Imprimere una figura, una scritta o una forma su una superficie.",
+      "Lasciare un segno o fissare profondamente qualcosa nella memoria."
+    ]
+  },
+  "nuance": {
+    "ja": "現代の日常語では、コンピューターやスマートフォンから文書・画像を紙に出力することを表すのが中心である。出版物については「印刷する」という製造工程を示し、「公に刊行する」ことに重点を置くpubblicareとは区別される。形容詞stampatoは「印刷された」のほか、名詞として「印刷物」も表す。",
+    "it": "Nell'uso quotidiano moderno indica soprattutto la riproduzione su carta di un documento digitale. Riferito a un libro, richiama il processo materiale di produzione e si distingue da pubblicare, che mette in rilievo la diffusione dell'opera. Stampato può essere anche un sostantivo con il significato di modulo o materiale a stampa."
+  },
+  "etymology": {
+    "ja": "ゲルマン語系の語根に由来し、「踏みつける、押しつける」を意味する再建形stampjanなどと関連するとされる。物に力を加えて跡を残すことから、型を押すこと、さらに文字や画像を印刷することへ意味が発達した。",
+    "it": "È collegato a una radice germanica con il significato di premere o pestare, rappresentata da forme ricostruite come stampjan. Dall'idea di lasciare un'impronta mediante pressione si è sviluppato il significato tipografico moderno."
+  },
+  "minimal": [
+    {
+      "word": "stampare",
+      "ja": "文字・画像を紙などに機械的に複製する",
+      "it": "riprodurre materialmente testi o immagini su carta o altro supporto"
+    },
+    {
+      "word": "pubblicare",
+      "ja": "作品・記事・情報などを公衆が利用できる状態にする",
+      "it": "rendere un'opera o un'informazione disponibile al pubblico"
+    },
+    {
+      "word": "imprimere",
+      "ja": "圧力などにより表面・記憶・心に跡を刻み込む",
+      "it": "lasciare un segno materiale o figurato mediante pressione o forte impressione"
+    }
+  ],
+  "synonyms": [
+    "imprimere",
+    "riprodurre",
+    "pubblicare",
+    "tipografare",
+    "incidere"
+  ],
+  "equivalents": {
+    "en": [
+      "print",
+      "imprint"
+    ],
+    "de": [
+      "drucken",
+      "aufdrucken"
+    ],
+    "fr": [
+      "imprimer",
+      "estamper"
+    ],
+    "es": [
+      "imprimir",
+      "estampar"
+    ]
+  },
+  "collocations": [
+    "stampare un documento",
+    "stampare un file",
+    "stampare una pagina",
+    "stampare una fotografia",
+    "stampare un biglietto",
+    "stampare una ricevuta",
+    "stampare un modulo",
+    "stampare un libro",
+    "stampare un giornale",
+    "stampare un articolo",
+    "stampare a colori",
+    "stampare in bianco e nero",
+    "stampare fronte-retro",
+    "stampare su carta",
+    "stampare su tessuto",
+    "stampare in formato A4",
+    "stampare più copie",
+    "mandare in stampa",
+    "essere stampato in Italia",
+    "stampare nella memoria",
+    "stampare un bacio sulla guancia"
+  ],
+  "examples": [
+    {
+      "it": "Puoi stampare questo documento, per favore?",
+      "ja": "この書類を印刷してもらえますか。"
+    },
+    {
+      "it": "Ho stampato due copie del contratto.",
+      "ja": "私は契約書を2部印刷した。"
+    },
+    {
+      "it": "La stampante non riesce a stampare a colori.",
+      "ja": "そのプリンターはカラー印刷ができない。"
+    },
+    {
+      "it": "Il libro è stato stampato in Italia.",
+      "ja": "その本はイタリアで印刷された。"
+    },
+    {
+      "it": "Vorrei stampare il biglietto prima del viaggio.",
+      "ja": "旅行前に切符を印刷しておきたい。"
+    },
+    {
+      "it": "Quell'immagine mi è rimasta stampata nella memoria.",
+      "ja": "その光景は私の記憶に深く刻み込まれた。"
+    }
+  ],
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "stampo",
+        "stampi",
+        "stampa",
+        "stampiamo",
+        "stampate",
+        "stampano"
+      ],
+      "Imperfetto": [
+        "stampavo",
+        "stampavi",
+        "stampava",
+        "stampavamo",
+        "stampavate",
+        "stampavano"
+      ],
+      "Passato prossimo": [
+        "ho stampato",
+        "hai stampato",
+        "ha stampato",
+        "abbiamo stampato",
+        "avete stampato",
+        "hanno stampato"
+      ],
+      "Passato remoto": [
+        "stampai",
+        "stampasti",
+        "stampò",
+        "stampammo",
+        "stampaste",
+        "stamparono"
+      ],
+      "Trapassato prossimo": [
+        "avevo stampato",
+        "avevi stampato",
+        "aveva stampato",
+        "avevamo stampato",
+        "avevate stampato",
+        "avevano stampato"
+      ],
+      "Trapassato remoto": [
+        "ebbi stampato",
+        "avesti stampato",
+        "ebbe stampato",
+        "avemmo stampato",
+        "aveste stampato",
+        "ebbero stampato"
+      ],
+      "Futuro semplice": [
+        "stamperò",
+        "stamperai",
+        "stamperà",
+        "stamperemo",
+        "stamperete",
+        "stamperanno"
+      ],
+      "Futuro anteriore": [
+        "avrò stampato",
+        "avrai stampato",
+        "avrà stampato",
+        "avremo stampato",
+        "avrete stampato",
+        "avranno stampato"
+      ]
+    },
+    "Congiuntivo": {
+      "Presente": [
+        "stampi",
+        "stampi",
+        "stampi",
+        "stampiamo",
+        "stampiate",
+        "stampino"
+      ],
+      "Imperfetto": [
+        "stampassi",
+        "stampassi",
+        "stampasse",
+        "stampassimo",
+        "stampaste",
+        "stampassero"
+      ],
+      "Passato": [
+        "abbia stampato",
+        "abbia stampato",
+        "abbia stampato",
+        "abbiamo stampato",
+        "abbiate stampato",
+        "abbiano stampato"
+      ],
+      "Trapassato": [
+        "avessi stampato",
+        "avessi stampato",
+        "avesse stampato",
+        "avessimo stampato",
+        "aveste stampato",
+        "avessero stampato"
+      ]
+    },
+    "Condizionale": {
+      "Presente": [
+        "stamperei",
+        "stamperesti",
+        "stamperebbe",
+        "stamperemmo",
+        "stampereste",
+        "stamperebbero"
+      ],
+      "Passato": [
+        "avrei stampato",
+        "avresti stampato",
+        "avrebbe stampato",
+        "avremmo stampato",
+        "avreste stampato",
+        "avrebbero stampato"
+      ]
+    },
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "stampa",
+        "stampi",
+        "stampiamo",
+        "stampate",
+        "stampino"
+      ]
+    },
+    "Forme indefinite": {
+      "Forme": [
+        "stampare",
+        "avere stampato",
+        "stampante",
+        "stampato",
+        "stampando",
+        "avendo stampato"
+      ]
+    }
+  }
+},
+{
+  "id": "riuscire",
+  "sid": "2026-00054",
+  "word": "riuscire",
+  "ipa": "/rjuʃˈʃire/",
+  "level": "A2",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞",
+      "it": "verbo intransitivo"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "riuscito",
+    "gerundPresent": "riuscendo",
+    "pattern": "riuscire a + infinito / riuscire in + attività o impresa / riuscire bene o male"
+  },
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "education",
+      "business",
+      "academic"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "うまくできる、成し遂げる",
+      "成功する",
+      "困難を越えて目的を達成する",
+      "出来上がりがよい・悪い",
+      "結果として～になる",
+      "人にとって理解・実行しやすい"
+    ],
+    "it": [
+      "Portare a compimento un'azione, spesso superando una difficoltà.",
+      "Ottenere il risultato desiderato in un'attività o in un'impresa.",
+      "Avere un esito positivo o negativo.",
+      "Risultare in un determinato modo al termine di una preparazione o di un processo.",
+      "Essere possibile o agevole per qualcuno."
+    ]
+  },
+  "nuance": {
+    "ja": "potereが能力・許可・状況による一般的な可能性を表すのに対し、riuscire aは試みた行為を実際に達成できたか、困難を乗り越えられたかに焦点を置く。否定形non riuscire aは「試みたができない、どうしても～できない」という含みを持つ。複合時制ではessereを用いる。",
+    "it": "A differenza di potere, che indica una possibilità generale, riuscire a mette in rilievo l'effettivo raggiungimento di un risultato, spesso dopo uno sforzo o una difficoltà. Non riuscire a suggerisce normalmente che il soggetto ha tentato, senza ottenere il risultato. Nei tempi composti usa essere."
+  },
+  "etymology": {
+    "ja": "接頭辞ri-（再び、外へ）とuscire（出る）から成る。もともとは「再び外へ出る、結果として現れる」を意味し、そこから「よい結果に到達する、成功する」という意味が発達した。",
+    "it": "È formato dal prefisso ri- e da uscire. Il significato originario era quello di uscire nuovamente o giungere a un esito; da qui si è sviluppato il senso moderno di ottenere un risultato o avere successo."
+  },
+  "minimal": [
+    {
+      "word": "riuscire a",
+      "ja": "困難や努力を伴う行為を実際に成し遂げる",
+      "it": "portare effettivamente a termine un'azione, spesso superando una difficoltà"
+    },
+    {
+      "word": "potere",
+      "ja": "能力・許可・時間・状況などにより行為が可能である",
+      "it": "avere la possibilità di agire per capacità, permesso o circostanze"
+    },
+    {
+      "word": "sapere",
+      "ja": "習得した知識・技能によって～することができる",
+      "it": "essere capaci di fare qualcosa grazie a una conoscenza o abilità acquisita"
+    }
+  ],
+  "synonyms": [
+    "farcela",
+    "avere successo",
+    "ottenere un risultato",
+    "essere capace di",
+    "giungere a"
+  ],
+  "equivalents": {
+    "en": [
+      "manage to",
+      "succeed",
+      "turn out"
+    ],
+    "de": [
+      "es schaffen",
+      "gelingen",
+      "Erfolg haben"
+    ],
+    "fr": [
+      "réussir à",
+      "parvenir à"
+    ],
+    "es": [
+      "lograr",
+      "conseguir",
+      "salir bien"
+    ]
+  },
+  "collocations": [
+    "riuscire a fare qualcosa",
+    "riuscire a capire",
+    "riuscire a parlare",
+    "riuscire a dormire",
+    "riuscire a finire",
+    "riuscire a trovare",
+    "riuscire a risolvere",
+    "riuscire a convincere qualcuno",
+    "riuscire a ottenere qualcosa",
+    "riuscire nell'impresa",
+    "riuscire negli studi",
+    "riuscire nel lavoro",
+    "riuscire bene",
+    "riuscire male",
+    "riuscire perfettamente",
+    "non riuscire affatto",
+    "non riuscire più a",
+    "cercare di riuscire",
+    "essere riuscito a",
+    "se tutto riesce bene"
+  ],
+  "examples": [
+    {
+      "it": "Non riesco a capire questa frase.",
+      "ja": "この文をどうしても理解できない。"
+    },
+    {
+      "it": "Sei riuscito a finire il lavoro?",
+      "ja": "その仕事を終えることができましたか。"
+    },
+    {
+      "it": "Siamo riusciti a prendere l'ultimo treno.",
+      "ja": "私たちは何とか最終列車に乗ることができた。"
+    },
+    {
+      "it": "Non sono riuscita a dormire bene.",
+      "ja": "私はよく眠ることができなかった。"
+    },
+    {
+      "it": "La torta è riuscita molto bene.",
+      "ja": "そのケーキはとても上手に出来上がった。"
+    },
+    {
+      "it": "Con un po' di pazienza riuscirai a risolvere il problema.",
+      "ja": "少し辛抱すれば、その問題を解決できるでしょう。"
+    }
+  ],
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "riesco",
+        "riesci",
+        "riesce",
+        "riusciamo",
+        "riuscite",
+        "riescono"
+      ],
+      "Imperfetto": [
+        "riuscivo",
+        "riuscivi",
+        "riusciva",
+        "riuscivamo",
+        "riuscivate",
+        "riuscivano"
+      ],
+      "Passato prossimo": [
+        "sono riuscito/a",
+        "sei riuscito/a",
+        "è riuscito/a",
+        "siamo riusciti/e",
+        "siete riusciti/e",
+        "sono riusciti/e"
+      ],
+      "Passato remoto": [
+        "riuscii",
+        "riuscisti",
+        "riuscì",
+        "riuscimmo",
+        "riusciste",
+        "riuscirono"
+      ],
+      "Trapassato prossimo": [
+        "ero riuscito/a",
+        "eri riuscito/a",
+        "era riuscito/a",
+        "eravamo riusciti/e",
+        "eravate riusciti/e",
+        "erano riusciti/e"
+      ],
+      "Trapassato remoto": [
+        "fui riuscito/a",
+        "fosti riuscito/a",
+        "fu riuscito/a",
+        "fummo riusciti/e",
+        "foste riusciti/e",
+        "furono riusciti/e"
+      ],
+      "Futuro semplice": [
+        "riuscirò",
+        "riuscirai",
+        "riuscirà",
+        "riusciremo",
+        "riuscirete",
+        "riusciranno"
+      ],
+      "Futuro anteriore": [
+        "sarò riuscito/a",
+        "sarai riuscito/a",
+        "sarà riuscito/a",
+        "saremo riusciti/e",
+        "sarete riusciti/e",
+        "saranno riusciti/e"
+      ]
+    },
+    "Congiuntivo": {
+      "Presente": [
+        "riesca",
+        "riesca",
+        "riesca",
+        "riusciamo",
+        "riusciate",
+        "riescano"
+      ],
+      "Imperfetto": [
+        "riuscissi",
+        "riuscissi",
+        "riuscisse",
+        "riuscissimo",
+        "riusciste",
+        "riuscissero"
+      ],
+      "Passato": [
+        "sia riuscito/a",
+        "sia riuscito/a",
+        "sia riuscito/a",
+        "siamo riusciti/e",
+        "siate riusciti/e",
+        "siano riusciti/e"
+      ],
+      "Trapassato": [
+        "fossi riuscito/a",
+        "fossi riuscito/a",
+        "fosse riuscito/a",
+        "fossimo riusciti/e",
+        "foste riusciti/e",
+        "fossero riusciti/e"
+      ]
+    },
+    "Condizionale": {
+      "Presente": [
+        "riuscirei",
+        "riusciresti",
+        "riuscirebbe",
+        "riusciremmo",
+        "riuscireste",
+        "riuscirebbero"
+      ],
+      "Passato": [
+        "sarei riuscito/a",
+        "saresti riuscito/a",
+        "sarebbe riuscito/a",
+        "saremmo riusciti/e",
+        "sareste riusciti/e",
+        "sarebbero riusciti/e"
+      ]
+    },
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "riesci",
+        "riesca",
+        "riusciamo",
+        "riuscite",
+        "riescano"
+      ]
+    },
+    "Forme indefinite": {
+      "Forme": [
+        "riuscire",
+        "essere riuscito/a/i/e",
+        "riuscente",
+        "riuscito",
+        "riuscendo",
+        "essendo riuscito/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "trovare",
+  "sid": "2026-00055",
+  "word": "trovare",
+  "ipa": "/troˈvare/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・代名動詞の基礎となる動詞",
+      "it": "verbo transitivo e base di usi pronominali"
+    },
+    "auxiliary": "avere; essere nella forma pronominale trovarsi",
+    "pastParticiple": "trovato",
+    "gerundPresent": "trovando",
+    "pattern": "trovare + persona o cosa / trovare qualcosa + aggettivo / trovare che + frase / trovarsi in, a + luogo o situazione"
+  },
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "business",
+      "academic"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "見つける、発見する",
+      "探していた人・物を見つける",
+      "解決策・時間・仕事などを得る",
+      "人や物をある状態だと感じる、評価する",
+      "偶然出会う、目にする",
+      "代名形で、ある場所・状況にいる"
+    ],
+    "it": [
+      "Scoprire o individuare qualcuno o qualcosa.",
+      "Riuscire a ottenere ciò che si cercava.",
+      "Elaborare una soluzione, una risposta o un'idea.",
+      "Giudicare qualcuno o qualcosa in un determinato modo.",
+      "Incontrare casualmente una persona o una situazione.",
+      "Nella forma trovarsi, essere situato o trovarsi in una determinata condizione."
+    ]
+  },
+  "nuance": {
+    "ja": "cercareが「探す」という過程を表すのに対し、trovareは探した結果や偶然による発見を表す。trovare qualcosa + 形容詞では「何かを～だと思う」という評価になる。trovarsiは場所を表すほか、trovarsi in difficoltàのように状況・状態も表す。",
+    "it": "Cercare indica il tentativo o il processo della ricerca, mentre trovare esprime il risultato o una scoperta casuale. Nella costruzione trovare qualcosa seguito da un aggettivo, il verbo introduce una valutazione. Trovarsi può indicare sia la posizione sia una situazione o condizione."
+  },
+  "etymology": {
+    "ja": "俗ラテン語の再建形tropareと関係するとされ、これはギリシア語由来のラテン語tropus（言葉の比喩・修辞表現）に結びつく。もともと表現や旋律を「作り出す」ことから、考え出す、発見するという意味へ発展したと考えられている。",
+    "it": "È generalmente collegato al latino medievale tropare, derivato da tropus, termine di origine greca relativo a una figura o composizione. Dal significato di comporre o inventare si sarebbe sviluppato quello di scoprire o trovare."
+  },
+  "minimal": [
+    {
+      "word": "trovare",
+      "ja": "探索・思考・偶然の結果として人・物・答えなどを見つける",
+      "it": "individuare o ottenere qualcuno, qualcosa o una soluzione"
+    },
+    {
+      "word": "cercare",
+      "ja": "見つけるために人・物・情報などを探す",
+      "it": "compiere un tentativo per individuare o ottenere qualcosa"
+    },
+    {
+      "word": "scoprire",
+      "ja": "それまで知られていなかった事実・場所・物などを発見する",
+      "it": "venire a conoscenza di qualcosa che prima era ignoto o nascosto"
+    }
+  ],
+  "synonyms": [
+    "rintracciare",
+    "individuare",
+    "scoprire",
+    "incontrare",
+    "reperire"
+  ],
+  "equivalents": {
+    "en": [
+      "find",
+      "discover",
+      "consider"
+    ],
+    "de": [
+      "finden",
+      "entdecken"
+    ],
+    "fr": [
+      "trouver",
+      "découvrir"
+    ],
+    "es": [
+      "encontrar",
+      "hallar"
+    ]
+  },
+  "collocations": [
+    "trovare qualcuno",
+    "trovare qualcosa",
+    "trovare le chiavi",
+    "trovare un lavoro",
+    "trovare una casa",
+    "trovare un posto",
+    "trovare il tempo",
+    "trovare una soluzione",
+    "trovare una risposta",
+    "trovare un accordo",
+    "trovare il modo di",
+    "trovare difficile",
+    "trovare interessante",
+    "trovare strano",
+    "trovare per caso",
+    "cercare di trovare",
+    "riuscire a trovare",
+    "farsi trovare pronto",
+    "trovarsi a casa",
+    "trovarsi in difficoltà",
+    "trovarsi d'accordo"
+  ],
+  "examples": [
+    {
+      "it": "Non riesco a trovare le chiavi.",
+      "ja": "鍵がどうしても見つからない。"
+    },
+    {
+      "it": "Ho trovato un buon ristorante vicino all'albergo.",
+      "ja": "ホテルの近くに良いレストランを見つけた。"
+    },
+    {
+      "it": "Dobbiamo trovare una soluzione al problema.",
+      "ja": "私たちはその問題の解決策を見つけなければならない。"
+    },
+    {
+      "it": "Trovo questo libro molto interessante.",
+      "ja": "私はこの本をとても興味深いと思う。"
+    },
+    {
+      "it": "Dove si trova la stazione?",
+      "ja": "駅はどこにありますか。"
+    },
+    {
+      "it": "Ci siamo trovati in una situazione difficile.",
+      "ja": "私たちは困難な状況に陥った。"
+    }
+  ],
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "trovo",
+        "trovi",
+        "trova",
+        "troviamo",
+        "trovate",
+        "trovano"
+      ],
+      "Imperfetto": [
+        "trovavo",
+        "trovavi",
+        "trovava",
+        "trovavamo",
+        "trovavate",
+        "trovavano"
+      ],
+      "Passato prossimo": [
+        "ho trovato",
+        "hai trovato",
+        "ha trovato",
+        "abbiamo trovato",
+        "avete trovato",
+        "hanno trovato"
+      ],
+      "Passato remoto": [
+        "trovai",
+        "trovasti",
+        "trovò",
+        "trovammo",
+        "trovaste",
+        "trovarono"
+      ],
+      "Trapassato prossimo": [
+        "avevo trovato",
+        "avevi trovato",
+        "aveva trovato",
+        "avevamo trovato",
+        "avevate trovato",
+        "avevano trovato"
+      ],
+      "Trapassato remoto": [
+        "ebbi trovato",
+        "avesti trovato",
+        "ebbe trovato",
+        "avemmo trovato",
+        "aveste trovato",
+        "ebbero trovato"
+      ],
+      "Futuro semplice": [
+        "troverò",
+        "troverai",
+        "troverà",
+        "troveremo",
+        "troverete",
+        "troveranno"
+      ],
+      "Futuro anteriore": [
+        "avrò trovato",
+        "avrai trovato",
+        "avrà trovato",
+        "avremo trovato",
+        "avrete trovato",
+        "avranno trovato"
+      ]
+    },
+    "Congiuntivo": {
+      "Presente": [
+        "trovi",
+        "trovi",
+        "trovi",
+        "troviamo",
+        "troviate",
+        "trovino"
+      ],
+      "Imperfetto": [
+        "trovassi",
+        "trovassi",
+        "trovasse",
+        "trovassimo",
+        "trovaste",
+        "trovassero"
+      ],
+      "Passato": [
+        "abbia trovato",
+        "abbia trovato",
+        "abbia trovato",
+        "abbiamo trovato",
+        "abbiate trovato",
+        "abbiano trovato"
+      ],
+      "Trapassato": [
+        "avessi trovato",
+        "avessi trovato",
+        "avesse trovato",
+        "avessimo trovato",
+        "aveste trovato",
+        "avessero trovato"
+      ]
+    },
+    "Condizionale": {
+      "Presente": [
+        "troverei",
+        "troveresti",
+        "troverebbe",
+        "troveremmo",
+        "trovereste",
+        "troverebbero"
+      ],
+      "Passato": [
+        "avrei trovato",
+        "avresti trovato",
+        "avrebbe trovato",
+        "avremmo trovato",
+        "avreste trovato",
+        "avrebbero trovato"
+      ]
+    },
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "trova",
+        "trovi",
+        "troviamo",
+        "trovate",
+        "trovino"
+      ]
+    },
+    "Forme indefinite": {
+      "Forme": [
+        "trovare",
+        "avere trovato",
+        "trovante",
+        "trovato",
+        "trovando",
+        "avendo trovato"
+      ]
+    }
+  }
+},
+{
+  "id": "perdere",
+  "sid": "2026-00056",
+  "word": "perdere",
+  "ipa": "/ˈpɛrdere/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞・代名動詞の基礎となる動詞",
+      "it": "verbo transitivo, intransitivo e base di usi pronominali"
+    },
+    "auxiliary": "avere; essere nella forma pronominale perdersi",
+    "pastParticiple": "perso; anche perduto",
+    "gerundPresent": "perdendo",
+    "pattern": "perdere + cosa o persona / perdere tempo a + infinito / perdersi in, tra o per + luogo"
+  },
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "business",
+      "sports"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "失う、なくす",
+      "道に迷う、人とはぐれる",
+      "列車・バス・機会などを逃す",
+      "試合・競争・議論などに負ける",
+      "時間・金銭・労力を無駄にする",
+      "能力・状態・性質などを失う"
+    ],
+    "it": [
+      "Non avere più il possesso o la disponibilità di qualcosa.",
+      "Non riuscire più a individuare una persona, un oggetto o la strada.",
+      "Non riuscire a prendere un mezzo o a sfruttare un'occasione.",
+      "Essere sconfitto in una gara, una partita o una competizione.",
+      "Consumare inutilmente tempo, denaro o energie.",
+      "Cessare di avere una capacità, una qualità o una condizione."
+    ]
+  },
+  "nuance": {
+    "ja": "所有物だけでなく、人・時間・機会・試合・能力など、以前持っていたものや到達できた可能性を失うことを広く表す。乗り物に乗り遅れる場合もperdere il trenoと言う。物をどこかに置き忘れて見つけられない場合はsmarrireも使える。perdersiは「道に迷う、失われる」を表す。",
+    "it": "Può avere come oggetto beni, persone, tempo, occasioni, competizioni e capacità. Anche il mancato utilizzo di un mezzo si esprime con perdere, come in perdere il treno. Smarrire si riferisce soprattutto a un oggetto che non si riesce più a localizzare. La forma perdersi indica frequentemente lo smarrimento della strada."
+  },
+  "etymology": {
+    "ja": "ラテン語perdere（失う、破壊する）に直接由来する。これは完遂・徹底を表すper-とdare（与える）から成り、もともとは「完全に手放す、消滅させる」という意味を持った。",
+    "it": "Dal latino perdere, formato da per-, con valore intensivo o completivo, e dare. Il significato originario era quello di lasciare andare completamente o causare la distruzione di qualcosa."
+  },
+  "minimal": [
+    {
+      "word": "perdere",
+      "ja": "所有物・機会・時間・試合・能力などを失う",
+      "it": "cessare di possedere qualcosa o non riuscire a sfruttare un'occasione"
+    },
+    {
+      "word": "smarrire",
+      "ja": "物・道・方向感覚などを失って見つけられなくなる",
+      "it": "non riuscire più a localizzare un oggetto, una strada o un orientamento"
+    },
+    {
+      "word": "mancare",
+      "ja": "目標・交通機関・機会などに届かない、または不足する",
+      "it": "non raggiungere un obiettivo o essere assente o insufficiente"
+    }
+  ],
+  "synonyms": [
+    "smarrire",
+    "mancare",
+    "sprecare",
+    "cedere",
+    "essere sconfitto"
+  ],
+  "equivalents": {
+    "en": [
+      "lose",
+      "miss",
+      "waste"
+    ],
+    "de": [
+      "verlieren",
+      "verpassen",
+      "verschwenden"
+    ],
+    "fr": [
+      "perdre",
+      "rater"
+    ],
+    "es": [
+      "perder",
+      "desperdiciar"
+    ]
+  },
+  "collocations": [
+    "perdere qualcosa",
+    "perdere le chiavi",
+    "perdere il portafoglio",
+    "perdere una persona",
+    "perdere il treno",
+    "perdere l'autobus",
+    "perdere un'occasione",
+    "perdere una partita",
+    "perdere una gara",
+    "perdere il lavoro",
+    "perdere denaro",
+    "perdere tempo",
+    "perdere peso",
+    "perdere la pazienza",
+    "perdere la memoria",
+    "perdere conoscenza",
+    "perdere interesse",
+    "perdere di vista",
+    "avere tutto da perdere",
+    "non avere tempo da perdere",
+    "perdersi per strada"
+  ],
+  "examples": [
+    {
+      "it": "Ho perso le chiavi di casa.",
+      "ja": "私は家の鍵をなくした。"
+    },
+    {
+      "it": "Se non corriamo, perderemo il treno.",
+      "ja": "急がなければ列車に乗り遅れる。"
+    },
+    {
+      "it": "La nostra squadra ha perso la partita.",
+      "ja": "私たちのチームは試合に負けた。"
+    },
+    {
+      "it": "Non voglio perdere questa occasione.",
+      "ja": "この機会を逃したくない。"
+    },
+    {
+      "it": "Abbiamo perso molto tempo ad aspettare.",
+      "ja": "私たちは待つことで多くの時間を無駄にした。"
+    },
+    {
+      "it": "Ci siamo persi nel centro storico.",
+      "ja": "私たちは歴史地区で道に迷った。"
+    }
+  ],
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "perdo",
+        "perdi",
+        "perde",
+        "perdiamo",
+        "perdete",
+        "perdono"
+      ],
+      "Imperfetto": [
+        "perdevo",
+        "perdevi",
+        "perdeva",
+        "perdevamo",
+        "perdevate",
+        "perdevano"
+      ],
+      "Passato prossimo": [
+        "ho perso",
+        "hai perso",
+        "ha perso",
+        "abbiamo perso",
+        "avete perso",
+        "hanno perso"
+      ],
+      "Passato remoto": [
+        "persi",
+        "perdesti",
+        "perse",
+        "perdemmo",
+        "perdeste",
+        "persero"
+      ],
+      "Trapassato prossimo": [
+        "avevo perso",
+        "avevi perso",
+        "aveva perso",
+        "avevamo perso",
+        "avevate perso",
+        "avevano perso"
+      ],
+      "Trapassato remoto": [
+        "ebbi perso",
+        "avesti perso",
+        "ebbe perso",
+        "avemmo perso",
+        "aveste perso",
+        "ebbero perso"
+      ],
+      "Futuro semplice": [
+        "perderò",
+        "perderai",
+        "perderà",
+        "perderemo",
+        "perderete",
+        "perderanno"
+      ],
+      "Futuro anteriore": [
+        "avrò perso",
+        "avrai perso",
+        "avrà perso",
+        "avremo perso",
+        "avrete perso",
+        "avranno perso"
+      ]
+    },
+    "Congiuntivo": {
+      "Presente": [
+        "perda",
+        "perda",
+        "perda",
+        "perdiamo",
+        "perdiate",
+        "perdano"
+      ],
+      "Imperfetto": [
+        "perdessi",
+        "perdessi",
+        "perdesse",
+        "perdessimo",
+        "perdeste",
+        "perdessero"
+      ],
+      "Passato": [
+        "abbia perso",
+        "abbia perso",
+        "abbia perso",
+        "abbiamo perso",
+        "abbiate perso",
+        "abbiano perso"
+      ],
+      "Trapassato": [
+        "avessi perso",
+        "avessi perso",
+        "avesse perso",
+        "avessimo perso",
+        "aveste perso",
+        "avessero perso"
+      ]
+    },
+    "Condizionale": {
+      "Presente": [
+        "perderei",
+        "perderesti",
+        "perderebbe",
+        "perderemmo",
+        "perdereste",
+        "perderebbero"
+      ],
+      "Passato": [
+        "avrei perso",
+        "avresti perso",
+        "avrebbe perso",
+        "avremmo perso",
+        "avreste perso",
+        "avrebbero perso"
+      ]
+    },
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "perdi",
+        "perda",
+        "perdiamo",
+        "perdete",
+        "perdano"
+      ]
+    },
+    "Forme indefinite": {
+      "Forme": [
+        "perdere",
+        "avere perso",
+        "perdente",
+        "perso",
+        "perdendo",
+        "avendo perso"
+      ]
+    }
+  }
+},
+{
+  "id": "vincere",
+  "sid": "2026-00057",
+  "word": "vincere",
+  "ipa": "/ˈvintʃere/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "vinto",
+    "gerundPresent": "vincendo",
+    "pattern": "vincere + gara, partita o premio / vincere contro + avversario / vincere per + punteggio o vantaggio"
+  },
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "sports",
+      "business",
+      "academic"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "勝つ、勝利する",
+      "試合・競争・選挙などで勝つ",
+      "賞・金銭などを獲得する",
+      "相手を打ち負かす",
+      "困難・恐怖・抵抗などを克服する",
+      "人を説得・魅了して味方につける"
+    ],
+    "it": [
+      "Ottenere la vittoria in una gara, una partita o una competizione.",
+      "Conseguire un premio, una somma o un riconoscimento.",
+      "Superare o sconfiggere un avversario.",
+      "Dominare una difficoltà, una paura, una resistenza o un ostacolo.",
+      "Conquistare il favore o il consenso di qualcuno."
+    ]
+  },
+  "nuance": {
+    "ja": "試合・競争・賞などを目的語に取ってvincere una partita、vincere un premioと言う。対戦相手を打ち負かすことに焦点を置く場合はbattere qualcunoがより一般的である。抽象的には恐怖・誘惑・抵抗などを乗り越える意味にも使われる。",
+    "it": "Ha normalmente come oggetto una partita, una gara, un premio o una difficoltà. Quando si mette in rilievo la sconfitta di una persona o di una squadra è spesso più naturale usare battere qualcuno. In senso figurato può indicare il superamento di paure, resistenze e ostacoli."
+  },
+  "etymology": {
+    "ja": "ラテン語vincere（征服する、勝つ）に直接由来する。同じ語根はイタリア語vittoria、vincitore、convincere、フランス語vaincre、スペイン語vencer、英語victoryやconvinceなどにも見られる。",
+    "it": "Dal latino vincere, «sconfiggere o conquistare». Alla stessa famiglia appartengono vincitore, vittoria, convincere, il francese vaincre, lo spagnolo vencer e numerose parole internazionali."
+  },
+  "minimal": [
+    {
+      "word": "vincere",
+      "ja": "試合・競争に勝つ、賞を得る、困難を克服する",
+      "it": "ottenere una vittoria, conseguire un premio o superare una difficoltà"
+    },
+    {
+      "word": "battere",
+      "ja": "対戦相手を打ち負かす。相手を直接目的語に取りやすい",
+      "it": "sconfiggere direttamente una persona o una squadra avversaria"
+    },
+    {
+      "word": "superare",
+      "ja": "試験・障害・限界・相手などを越える",
+      "it": "andare oltre un ostacolo, un limite, una prova o un concorrente"
+    }
+  ],
+  "synonyms": [
+    "trionfare",
+    "prevalere",
+    "battere",
+    "superare",
+    "conquistare"
+  ],
+  "equivalents": {
+    "en": [
+      "win",
+      "defeat",
+      "overcome"
+    ],
+    "de": [
+      "gewinnen",
+      "besiegen",
+      "überwinden"
+    ],
+    "fr": [
+      "gagner",
+      "vaincre",
+      "surmonter"
+    ],
+    "es": [
+      "ganar",
+      "vencer",
+      "superar"
+    ]
+  },
+  "collocations": [
+    "vincere una partita",
+    "vincere una gara",
+    "vincere una competizione",
+    "vincere un torneo",
+    "vincere un campionato",
+    "vincere le elezioni",
+    "vincere un premio",
+    "vincere una medaglia",
+    "vincere alla lotteria",
+    "vincere una somma",
+    "vincere contro qualcuno",
+    "vincere per due a zero",
+    "vincere facilmente",
+    "vincere meritatamente",
+    "vincere la paura",
+    "vincere la timidezza",
+    "vincere una difficoltà",
+    "vincere la resistenza",
+    "cercare di vincere",
+    "riuscire a vincere",
+    "vincere o perdere"
+  ],
+  "examples": [
+    {
+      "it": "La nostra squadra ha vinto la partita.",
+      "ja": "私たちのチームは試合に勝った。"
+    },
+    {
+      "it": "Chi ha vinto le elezioni?",
+      "ja": "誰が選挙に勝ちましたか。"
+    },
+    {
+      "it": "Ha vinto il primo premio.",
+      "ja": "彼女は一等賞を獲得した。"
+    },
+    {
+      "it": "Spero che vincano il campionato.",
+      "ja": "彼らが選手権で優勝することを願っている。"
+    },
+    {
+      "it": "È riuscito a vincere la paura di volare.",
+      "ja": "彼は飛行機への恐怖を克服することができた。"
+    },
+    {
+      "it": "Non importa vincere, ma partecipare.",
+      "ja": "大切なのは勝つことではなく、参加することだ。"
+    }
+  ],
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "vinco",
+        "vinci",
+        "vince",
+        "vinciamo",
+        "vincete",
+        "vincono"
+      ],
+      "Imperfetto": [
+        "vincevo",
+        "vincevi",
+        "vinceva",
+        "vincevamo",
+        "vincevate",
+        "vincevano"
+      ],
+      "Passato prossimo": [
+        "ho vinto",
+        "hai vinto",
+        "ha vinto",
+        "abbiamo vinto",
+        "avete vinto",
+        "hanno vinto"
+      ],
+      "Passato remoto": [
+        "vinsi",
+        "vincesti",
+        "vinse",
+        "vincemmo",
+        "vinceste",
+        "vinsero"
+      ],
+      "Trapassato prossimo": [
+        "avevo vinto",
+        "avevi vinto",
+        "aveva vinto",
+        "avevamo vinto",
+        "avevate vinto",
+        "avevano vinto"
+      ],
+      "Trapassato remoto": [
+        "ebbi vinto",
+        "avesti vinto",
+        "ebbe vinto",
+        "avemmo vinto",
+        "aveste vinto",
+        "ebbero vinto"
+      ],
+      "Futuro semplice": [
+        "vincerò",
+        "vincerai",
+        "vincerà",
+        "vinceremo",
+        "vincerete",
+        "vinceranno"
+      ],
+      "Futuro anteriore": [
+        "avrò vinto",
+        "avrai vinto",
+        "avrà vinto",
+        "avremo vinto",
+        "avrete vinto",
+        "avranno vinto"
+      ]
+    },
+    "Congiuntivo": {
+      "Presente": [
+        "vinca",
+        "vinca",
+        "vinca",
+        "vinciamo",
+        "vinciate",
+        "vincano"
+      ],
+      "Imperfetto": [
+        "vincessi",
+        "vincessi",
+        "vincesse",
+        "vincessimo",
+        "vinceste",
+        "vincessero"
+      ],
+      "Passato": [
+        "abbia vinto",
+        "abbia vinto",
+        "abbia vinto",
+        "abbiamo vinto",
+        "abbiate vinto",
+        "abbiano vinto"
+      ],
+      "Trapassato": [
+        "avessi vinto",
+        "avessi vinto",
+        "avesse vinto",
+        "avessimo vinto",
+        "aveste vinto",
+        "avessero vinto"
+      ]
+    },
+    "Condizionale": {
+      "Presente": [
+        "vincerei",
+        "vinceresti",
+        "vincerebbe",
+        "vinceremmo",
+        "vincereste",
+        "vincerebbero"
+      ],
+      "Passato": [
+        "avrei vinto",
+        "avresti vinto",
+        "avrebbe vinto",
+        "avremmo vinto",
+        "avreste vinto",
+        "avrebbero vinto"
+      ]
+    },
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "vinci",
+        "vinca",
+        "vinciamo",
+        "vincete",
+        "vincano"
+      ]
+    },
+    "Forme indefinite": {
+      "Forme": [
+        "vincere",
+        "avere vinto",
+        "vincente",
+        "vinto",
+        "vincendo",
+        "avendo vinto"
+      ]
+    }
+  }
+},
+{
+  "id": "cantare",
+  "sid": "2026-00058",
+  "word": "cantare",
+  "ipa": "/kanˈtare/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "cantato",
+    "gerundPresent": "cantando",
+    "pattern": "cantare + canzone o parte / cantare in + gruppo o lingua / cantare a o per + persona"
+  },
+  "usage": {
+    "register": [
+      "neutral",
+      "literary",
+      "colloquial"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "music",
+      "social",
+      "literary"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "歌う、歌を歌う",
+      "歌手として歌唱する",
+      "鳥などがさえずる、鳴く",
+      "詩や作品で人・物・理念などをたたえる",
+      "口語で、秘密を白状する"
+    ],
+    "it": [
+      "Produrre con la voce una successione musicale di suoni.",
+      "Eseguire vocalmente una canzone o una parte musicale.",
+      "Emettere richiami melodiosi, riferito soprattutto agli uccelli.",
+      "Celebrare poeticamente una persona, un luogo, un sentimento o un ideale.",
+      "In uso colloquiale, confessare o rivelare informazioni."
+    ]
+  },
+  "nuance": {
+    "ja": "声によって旋律を表現することを表し、楽器を演奏するsuonareと区別される。曲・歌・役などは直接目的語に取る。鳥についてもcantareを用いる。文学では「詩によってたたえる」、俗語では取り調べなどで「すべて白状する」という意味になる。",
+    "it": "Indica l'esecuzione musicale mediante la voce e si distingue da suonare, riferito normalmente agli strumenti. Una canzone, un'opera o una parte musicale può essere complemento oggetto diretto. In letteratura può significare celebrare; nel linguaggio colloquiale può indicare la confessione di informazioni."
+  },
+  "etymology": {
+    "ja": "ラテン語cantare（繰り返し歌う）に直接由来し、これはcanere（歌う、音を奏でる）の反復・強意形である。同じ語根はイタリア語canto、cantante、incantesimo、フランス語chanter、スペイン語cantar、英語chantなどにも見られる。",
+    "it": "Dal latino cantare, forma intensiva o frequentativa di canere, «cantare o produrre suoni». Alla stessa famiglia appartengono canto, cantante, incantesimo, il francese chanter, lo spagnolo cantar e l'inglese chant."
+  },
+  "minimal": [
+    {
+      "word": "cantare",
+      "ja": "声を使って旋律や歌詞を音楽として表現する",
+      "it": "eseguire una melodia o un testo musicale mediante la voce"
+    },
+    {
+      "word": "suonare",
+      "ja": "楽器を演奏する、または音を鳴らす",
+      "it": "eseguire musica con uno strumento o produrre un suono"
+    },
+    {
+      "word": "canticchiare",
+      "ja": "小声で軽く歌う、鼻歌を歌う",
+      "it": "cantare sottovoce, senza particolare impegno o precisione"
+    }
+  ],
+  "synonyms": [
+    "intonare",
+    "vocalizzare",
+    "canticchiare",
+    "celebrare",
+    "confessare"
+  ],
+  "equivalents": {
+    "en": [
+      "sing",
+      "chant"
+    ],
+    "de": [
+      "singen",
+      "besingen"
+    ],
+    "fr": [
+      "chanter",
+      "célébrer"
+    ],
+    "es": [
+      "cantar",
+      "celebrar"
+    ]
+  },
+  "collocations": [
+    "cantare una canzone",
+    "cantare una melodia",
+    "cantare un'opera",
+    "cantare una parte",
+    "cantare bene",
+    "cantare male",
+    "cantare ad alta voce",
+    "cantare sottovoce",
+    "cantare da solo",
+    "cantare insieme",
+    "cantare in coro",
+    "cantare in italiano",
+    "cantare a qualcuno",
+    "cantare per qualcuno",
+    "cantare dal vivo",
+    "imparare a cantare",
+    "mettersi a cantare",
+    "sentire cantare",
+    "far cantare qualcuno",
+    "cantare vittoria",
+    "cantare le lodi di qualcuno",
+    "cantare come un usignolo"
+  ],
+  "examples": [
+    {
+      "it": "Mi piace cantare sotto la doccia.",
+      "ja": "私はシャワーを浴びながら歌うのが好きだ。"
+    },
+    {
+      "it": "Ha cantato una canzone italiana.",
+      "ja": "彼女はイタリアの歌を歌った。"
+    },
+    {
+      "it": "I bambini cantano insieme.",
+      "ja": "子どもたちは一緒に歌っている。"
+    },
+    {
+      "it": "Gli uccelli hanno iniziato a cantare all'alba.",
+      "ja": "鳥たちは夜明けにさえずり始めた。"
+    },
+    {
+      "it": "Il poeta canta la bellezza della natura.",
+      "ja": "その詩人は自然の美しさをうたっている。"
+    },
+    {
+      "it": "È ancora presto per cantare vittoria.",
+      "ja": "勝利を宣言するにはまだ早い。"
+    }
+  ],
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "canto",
+        "canti",
+        "canta",
+        "cantiamo",
+        "cantate",
+        "cantano"
+      ],
+      "Imperfetto": [
+        "cantavo",
+        "cantavi",
+        "cantava",
+        "cantavamo",
+        "cantavate",
+        "cantavano"
+      ],
+      "Passato prossimo": [
+        "ho cantato",
+        "hai cantato",
+        "ha cantato",
+        "abbiamo cantato",
+        "avete cantato",
+        "hanno cantato"
+      ],
+      "Passato remoto": [
+        "cantai",
+        "cantasti",
+        "cantò",
+        "cantammo",
+        "cantaste",
+        "cantarono"
+      ],
+      "Trapassato prossimo": [
+        "avevo cantato",
+        "avevi cantato",
+        "aveva cantato",
+        "avevamo cantato",
+        "avevate cantato",
+        "avevano cantato"
+      ],
+      "Trapassato remoto": [
+        "ebbi cantato",
+        "avesti cantato",
+        "ebbe cantato",
+        "avemmo cantato",
+        "aveste cantato",
+        "ebbero cantato"
+      ],
+      "Futuro semplice": [
+        "canterò",
+        "canterai",
+        "canterà",
+        "canteremo",
+        "canterete",
+        "canteranno"
+      ],
+      "Futuro anteriore": [
+        "avrò cantato",
+        "avrai cantato",
+        "avrà cantato",
+        "avremo cantato",
+        "avrete cantato",
+        "avranno cantato"
+      ]
+    },
+    "Congiuntivo": {
+      "Presente": [
+        "canti",
+        "canti",
+        "canti",
+        "cantiamo",
+        "cantiate",
+        "cantino"
+      ],
+      "Imperfetto": [
+        "cantassi",
+        "cantassi",
+        "cantasse",
+        "cantassimo",
+        "cantaste",
+        "cantassero"
+      ],
+      "Passato": [
+        "abbia cantato",
+        "abbia cantato",
+        "abbia cantato",
+        "abbiamo cantato",
+        "abbiate cantato",
+        "abbiano cantato"
+      ],
+      "Trapassato": [
+        "avessi cantato",
+        "avessi cantato",
+        "avesse cantato",
+        "avessimo cantato",
+        "aveste cantato",
+        "avessero cantato"
+      ]
+    },
+    "Condizionale": {
+      "Presente": [
+        "canterei",
+        "canteresti",
+        "canterebbe",
+        "canteremmo",
+        "cantereste",
+        "canterebbero"
+      ],
+      "Passato": [
+        "avrei cantato",
+        "avresti cantato",
+        "avrebbe cantato",
+        "avremmo cantato",
+        "avreste cantato",
+        "avrebbero cantato"
+      ]
+    },
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "canta",
+        "canti",
+        "cantiamo",
+        "cantate",
+        "cantino"
+      ]
+    },
+    "Forme indefinite": {
+      "Forme": [
+        "cantare",
+        "avere cantato",
+        "cantante",
+        "cantato",
+        "cantando",
+        "avendo cantato"
+      ]
+    }
+  }
 }
 ]
