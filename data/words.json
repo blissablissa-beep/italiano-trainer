@@ -1,0 +1,323 @@
+[
+  {
+    "id": "accorgersi",
+    "sid": "2026-00001",
+    "word": "accorgersi",
+    "ipa": "/akkorˈdʒersi/",
+    "level": "B1",
+    "frequency": "very_common",
+
+    "grammar": {
+      "pos": "verb",
+      "label": {
+        "ja": "代名動詞",
+        "it": "verbo pronominale"
+      },
+      "auxiliary": "essere",
+      "pastParticiple": "accorto",
+      "gerundPresent": "accorgendosi",
+      "pattern": "accorgersi di + nome / che + frase"
+    },
+
+    "usage": {
+      "register": ["neutral"],
+      "medium": ["spoken", "written"],
+      "situations": ["conversation"]
+    },
+
+    "meaning": {
+      "ja": ["気づく、認識する"],
+      "it": [
+        "Notare o prendere coscienza di qualcosa."
+      ]
+    },
+
+    "nuance": {
+      "ja": "見聞きしたことなどをきっかけに、ある事実に気づく。気づきの瞬間を含む。",
+      "it": "Mette in rilievo il momento in cui si prende coscienza di un fatto."
+    },
+
+    "etymology": {
+      "ja": "古イタリア語 accorgere を経て、ラテン語の ad- と corrigere にさかのぼる。",
+      "it": "Dall'antico italiano accorgere, risalente al latino ad- e corrigere."
+    },
+
+    "minimal": [
+      {
+        "word": "accorgersi",
+        "ja": "知覚や出来事をきっかけに気づく",
+        "it": "notare un fatto"
+      },
+      {
+        "word": "rendersi conto",
+        "ja": "状況を理解・認識する",
+        "it": "comprendere una situazione"
+      }
+    ],
+
+    "synonyms": [
+      "rendersi conto",
+      "notare",
+      "avvedersi"
+    ],
+
+    "equivalents": {
+      "en": ["notice", "realize"],
+      "de": ["bemerken", "merken"]
+    },
+
+    "collocations": [
+      "accorgersi di qualcosa",
+      "accorgersi di aver fatto qualcosa",
+      "accorgersi che…",
+      "non accorgersi di nulla"
+    ],
+
+    "examples": [
+      {
+        "it": "Mi sono accorto di aver lasciato le chiavi a casa.",
+        "ja": "鍵を家に置いてきたことに気づいた。"
+      },
+      {
+        "it": "Non si è accorta di nulla.",
+        "ja": "彼女は何も気づかなかった。"
+      }
+    ],
+
+    "conjugations": {
+      "Indicativo": {
+        "Presente": [
+          "mi accorgo",
+          "ti accorgi",
+          "si accorge",
+          "ci accorgiamo",
+          "vi accorgete",
+          "si accorgono"
+        ],
+
+        "Imperfetto": [
+          "mi accorgevo",
+          "ti accorgevi",
+          "si accorgeva",
+          "ci accorgevamo",
+          "vi accorgevate",
+          "si accorgevano"
+        ],
+
+        "Passato prossimo": [
+          "mi sono accorto/a",
+          "ti sei accorto/a",
+          "si è accorto/a",
+          "ci siamo accorti/e",
+          "vi siete accorti/e",
+          "si sono accorti/e"
+        ],
+
+        "Passato remoto": [
+          "mi accorsi",
+          "ti accorgesti",
+          "si accorse",
+          "ci accorgemmo",
+          "vi accorgeste",
+          "si accorsero"
+        ],
+
+        "Trapassato prossimo": [
+          "mi ero accorto/a",
+          "ti eri accorto/a",
+          "si era accorto/a",
+          "ci eravamo accorti/e",
+          "vi eravate accorti/e",
+          "si erano accorti/e"
+        ],
+
+        "Trapassato remoto": [
+          "mi fui accorto/a",
+          "ti fosti accorto/a",
+          "si fu accorto/a",
+          "ci fummo accorti/e",
+          "vi foste accorti/e",
+          "si furono accorti/e"
+        ],
+
+        "Futuro semplice": [
+          "mi accorgerò",
+          "ti accorgerai",
+          "si accorgerà",
+          "ci accorgeremo",
+          "vi accorgerete",
+          "si accorgeranno"
+        ],
+
+        "Futuro anteriore": [
+          "mi sarò accorto/a",
+          "ti sarai accorto/a",
+          "si sarà accorto/a",
+          "ci saremo accorti/e",
+          "vi sarete accorti/e",
+          "si saranno accorti/e"
+        ]
+      },
+
+      "Congiuntivo": {
+        "Presente": [
+          "mi accorga",
+          "ti accorga",
+          "si accorga",
+          "ci accorgiamo",
+          "vi accorgiate",
+          "si accorgano"
+        ],
+
+        "Imperfetto": [
+          "mi accorgessi",
+          "ti accorgessi",
+          "si accorgesse",
+          "ci accorgessimo",
+          "vi accorgeste",
+          "si accorgessero"
+        ],
+
+        "Passato": [
+          "mi sia accorto/a",
+          "ti sia accorto/a",
+          "si sia accorto/a",
+          "ci siamo accorti/e",
+          "vi siate accorti/e",
+          "si siano accorti/e"
+        ],
+
+        "Trapassato": [
+          "mi fossi accorto/a",
+          "ti fossi accorto/a",
+          "si fosse accorto/a",
+          "ci fossimo accorti/e",
+          "vi foste accorti/e",
+          "si fossero accorti/e"
+        ]
+      },
+
+      "Condizionale": {
+        "Presente": [
+          "mi accorgerei",
+          "ti accorgeresti",
+          "si accorgerebbe",
+          "ci accorgeremmo",
+          "vi accorgereste",
+          "si accorgerebbero"
+        ],
+
+        "Passato": [
+          "mi sarei accorto/a",
+          "ti saresti accorto/a",
+          "si sarebbe accorto/a",
+          "ci saremmo accorti/e",
+          "vi sareste accorti/e",
+          "si sarebbero accorti/e"
+        ]
+      },
+
+      "Imperativo": {
+        "Presente": [
+          "—",
+          "accorgiti",
+          "si accorga",
+          "accorgiamoci",
+          "accorgetevi",
+          "si accorgano"
+        ]
+      },
+
+      "Forme indefinite": {
+        "Forme": [
+          "accorgersi",
+          "essersi accorto/a/i/e",
+          "accorgente",
+          "accorto",
+          "accorgendosi",
+          "essendosi accorto/a/i/e"
+        ]
+      }
+    }
+  },
+
+  {
+    "id": "svolta",
+    "sid": "2026-00002",
+    "word": "svolta",
+    "ipa": "/ˈzvɔlta/",
+    "level": "B2",
+    "frequency": "common",
+
+    "grammar": {
+      "pos": "noun",
+      "label": {
+        "ja": "女性名詞",
+        "it": "nome femminile"
+      },
+      "gender": "f",
+      "plural": "svolte"
+    },
+
+    "usage": {
+      "register": ["neutral", "journalistic"],
+      "medium": ["spoken", "written"],
+      "situations": ["news", "business"]
+    },
+
+    "meaning": {
+      "ja": ["曲がり角；転機、重大な変化"],
+      "it": [
+        "Cambiamento decisivo; punto in cui una strada cambia direzione."
+      ]
+    },
+
+    "nuance": {
+      "ja": "物理的な曲がり角から、状況を大きく変える転機まで表す。報道でも頻出する。",
+      "it": "Indica sia un cambio di direzione concreto sia un mutamento decisivo in senso figurato."
+    },
+
+    "etymology": {
+      "ja": "動詞 svolgere の過去分詞 svolto の女性形が名詞化したもの。",
+      "it": "Sostantivazione del femminile del participio passato di svolgere."
+    },
+
+    "minimal": [
+      {
+        "word": "svolta",
+        "ja": "方向や情勢が大きく変わる転機",
+        "it": "cambiamento decisivo"
+      },
+      {
+        "word": "cambiamento",
+        "ja": "大小を問わない一般的な変化",
+        "it": "modifica in senso generale"
+      }
+    ],
+
+    "synonyms": [
+      "cambiamento decisivo",
+      "punto di svolta",
+      "virata"
+    ],
+
+    "equivalents": {
+      "en": ["turning point", "turn"],
+      "de": ["Wendepunkt", "Wende"]
+    },
+
+    "collocations": [
+      "una svolta decisiva",
+      "segnare una svolta",
+      "punto di svolta",
+      "svolta politica"
+    ],
+
+    "examples": [
+      {
+        "it": "Quella decisione ha segnato una svolta nella sua carriera.",
+        "ja": "その決断は彼の経歴の転機となった。"
+      }
+    ]
+  }
+]
