@@ -4228,5 +4228,325 @@
       ]
     }
   }
+},
+{
+  "id": "bisognare",
+  "sid": "2026-00075",
+  "word": "bisognare",
+  "ipa": "/bizoɲˈɲare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "非人称動詞",
+      "it": "verbo impersonale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "bisognato",
+    "gerundPresent": "bisognando",
+    "pattern": "bisogna + infinito / bisogna che + congiuntivo / bisognerebbe + infinito"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "instructions"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "～する必要がある、～しなければならない",
+      "～することが求められる",
+      "～したほうがよい",
+      "ある目的のために物・時間などが必要である"
+    ],
+    "it": [
+      "Essere necessario o indispensabile fare qualcosa.",
+      "Indicare che una determinata azione è richiesta dalle circostanze.",
+      "Al condizionale, esprimere un consiglio o una necessità attenuata.",
+      "Indicare che qualcosa occorre per raggiungere uno scopo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "現代イタリア語では主に三人称単数の非人称形で用いられる。bisogna + 不定詞は、行為者を特定せず「一般に～する必要がある」と述べる。行為者を明示する場合はbisogna cheの後に接続法を置く。条件法のbisognerebbeは「～したほうがよい」「本来は～する必要がある」という控えめな助言に適している。dovereが特定の主語に義務を課すのに対し、bisognareは状況から生じる一般的・非人称的な必要性を示す。",
+    "it": "Nell’italiano moderno si usa principalmente alla terza persona singolare in costruzioni impersonali. Bisogna seguito dall’infinito presenta una necessità generale senza indicarne il soggetto. Se il soggetto dell’azione viene espresso, si usa normalmente bisogna che seguito dal congiuntivo. Il condizionale bisognerebbe attenua la necessità e introduce spesso un consiglio."
+  },
+
+  "etymology": {
+    "ja": "名詞bisogno（必要、必要なもの）から作られた動詞である。bisognoは古フランス語besoinを経てイタリア語に入ったとされ、さらにフランク語などのゲルマン系の語にさかのぼる。フランス語besoinとも同語源である。",
+    "it": "Deriva dal sostantivo bisogno, entrato in italiano attraverso l’antico francese besoing o besoin e riconducibile probabilmente a una base germanica. È quindi imparentato con il francese besoin."
+  },
+
+  "minimal": [
+    {
+      "word": "bisognare",
+      "ja": "行為者を中心にせず、一般的・状況的な必要性を表す",
+      "it": "esprimere una necessità generale o determinata dalle circostanze"
+    },
+    {
+      "word": "dovere",
+      "ja": "特定の主語に課された義務・必要性を表す",
+      "it": "attribuire un obbligo o una necessità a un soggetto determinato"
+    },
+    {
+      "word": "occorrere",
+      "ja": "目的の達成に物・時間・行為などが必要であることを表す",
+      "it": "indicare ciò che serve per raggiungere un determinato scopo"
+    },
+    {
+      "word": "avere bisogno di",
+      "ja": "特定の人が物・人・行為を必要としていることを表す",
+      "it": "indicare che una persona necessita di qualcosa o di qualcuno"
+    }
+  ],
+
+  "synonyms": [
+    "essere necessario",
+    "occorrere",
+    "dovere",
+    "servire",
+    "essere indispensabile"
+  ],
+
+  "equivalents": {
+    "en": [
+      "it is necessary",
+      "one must",
+      "need to"
+    ],
+    "de": [
+      "es ist nötig",
+      "man muss",
+      "es bedarf"
+    ],
+    "fr": [
+      "il faut",
+      "être nécessaire",
+      "avoir besoin de"
+    ],
+    "es": [
+      "hay que",
+      "ser necesario",
+      "hacer falta"
+    ]
+  },
+
+  "collocations": [
+    "bisogna fare qualcosa",
+    "bisogna andare",
+    "bisogna aspettare",
+    "bisogna decidere",
+    "bisogna scegliere",
+    "bisogna vedere",
+    "bisogna sapere",
+    "bisogna capire",
+    "bisogna ricordare",
+    "bisogna fare attenzione",
+    "bisogna avere pazienza",
+    "bisogna che",
+    "bisogna che tu venga",
+    "bisogna che sia pronto",
+    "non bisogna dimenticare",
+    "non bisogna avere fretta",
+    "bisognerebbe provare",
+    "bisognerebbe pensarci",
+    "quanto bisogna aspettare?"
+  ],
+
+  "examples": [
+    {
+      "it": "Bisogna studiare ogni giorno per imparare bene una lingua.",
+      "ja": "言語をしっかり習得するには、毎日勉強する必要がある。"
+    },
+    {
+      "it": "Bisogna che tu finisca questo lavoro entro domani.",
+      "ja": "あなたは明日までにこの仕事を終える必要がある。"
+    },
+    {
+      "it": "Non bisogna avere paura di sbagliare.",
+      "ja": "間違えることを恐れるべきではない。"
+    },
+    {
+      "it": "Bisognerebbe parlare con il responsabile.",
+      "ja": "責任者と話したほうがよいだろう。"
+    },
+    {
+      "it": "Per entrare bisognerà mostrare un documento d’identità.",
+      "ja": "入場するには身分証明書を提示する必要があるだろう。"
+    },
+    {
+      "it": "È bisognato aspettare più di due ore.",
+      "ja": "2時間以上待たなければならなかった。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "—",
+        "—",
+        "bisogna",
+        "—",
+        "—",
+        "—"
+      ],
+
+      "Imperfetto": [
+        "—",
+        "—",
+        "bisognava",
+        "—",
+        "—",
+        "—"
+      ],
+
+      "Passato prossimo": [
+        "—",
+        "—",
+        "è bisognato",
+        "—",
+        "—",
+        "—"
+      ],
+
+      "Passato remoto": [
+        "—",
+        "—",
+        "bisognò",
+        "—",
+        "—",
+        "—"
+      ],
+
+      "Trapassato prossimo": [
+        "—",
+        "—",
+        "era bisognato",
+        "—",
+        "—",
+        "—"
+      ],
+
+      "Trapassato remoto": [
+        "—",
+        "—",
+        "fu bisognato",
+        "—",
+        "—",
+        "—"
+      ],
+
+      "Futuro semplice": [
+        "—",
+        "—",
+        "bisognerà",
+        "—",
+        "—",
+        "—"
+      ],
+
+      "Futuro anteriore": [
+        "—",
+        "—",
+        "sarà bisognato",
+        "—",
+        "—",
+        "—"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "—",
+        "—",
+        "bisogni",
+        "—",
+        "—",
+        "—"
+      ],
+
+      "Imperfetto": [
+        "—",
+        "—",
+        "bisognasse",
+        "—",
+        "—",
+        "—"
+      ],
+
+      "Passato": [
+        "—",
+        "—",
+        "sia bisognato",
+        "—",
+        "—",
+        "—"
+      ],
+
+      "Trapassato": [
+        "—",
+        "—",
+        "fosse bisognato",
+        "—",
+        "—",
+        "—"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "—",
+        "—",
+        "bisognerebbe",
+        "—",
+        "—",
+        "—"
+      ],
+
+      "Passato": [
+        "—",
+        "—",
+        "sarebbe bisognato",
+        "—",
+        "—",
+        "—"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "—",
+        "—",
+        "—",
+        "—",
+        "—"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "bisognare",
+        "essere bisognato",
+        "bisognante (raro)",
+        "bisognato",
+        "bisognando",
+        "essendo bisognato"
+      ]
+    }
+  }
 }
 ]
