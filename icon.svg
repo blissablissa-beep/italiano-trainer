@@ -1,0 +1,42 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 512 512"
+>
+  <rect
+    width="512"
+    height="512"
+    rx="112"
+    fill="#176b5b"
+  />
+
+  <path
+    d="M110 102h292v308H110z"
+    fill="#fffdf8"
+  />
+
+  <path
+    d="M110 102h44v308h-44z"
+    fill="#bd5d3c"
+  />
+
+  <path
+    d="M193 174h165v25H193zm0 60h124v25H193zm0 60h165v25H193z"
+    fill="#176b5b"
+  />
+
+  <circle
+    cx="337"
+    cy="360"
+    r="48"
+    fill="#bd5d3c"
+  />
+
+  <path
+    d="m316 360 15 15 28-34"
+    fill="none"
+    stroke="#ffffff"
+    stroke-width="14"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>
