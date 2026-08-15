@@ -1,0 +1,18 @@
+{
+  "name": "Italiano Trainer",
+  "short_name": "Italiano",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#176b5b",
+  "description": "語感・語源・コロケーション・活用を学ぶイタリア語語彙トレーナー",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
