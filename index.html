@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#176b5b">
+
+  <title>Italiano Trainer</title>
+
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./icon.svg">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="flag" aria-hidden="true">
+        <i></i><i></i><i></i>
+      </span>
+      <span><b>Italiano</b> Trainer</span>
+    </div>
+
+    <div class="header-actions">
+      <button id="langBtn" class="pill" type="button"
+              aria-label="表示言語を切り替える">
+        JA
+      </button>
+
+      <button id="themeBtn" class="icon-btn" type="button"
+              aria-label="配色を切り替える">
+        ◐
+      </button>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="intro">
+      <p class="eyebrow">IL TUO LESSICO, UN PO’ ALLA VOLTA</p>
+
+      <h1>
+        言葉の輪郭まで、<br>
+        <em>一枚で。</em>
+      </h1>
+
+      <p id="introText">
+        意味だけでなく、語感・語源・結びつき・活用まで。
+        使えるイタリア語を静かに積み上げます。
+      </p>
+    </section>
+
+    <section class="controls" aria-label="カード操作">
+      <nav class="tabs" aria-label="学習モード">
+        <button class="tab active" data-mode="today" type="button">
+          Today <span id="todayCount">0</span>
+        </button>
+
+        <button class="tab" data-mode="review" type="button">
+          Review <span id="reviewCount">0</span>
+        </button>
+
+        <button class="tab" data-mode="bookmarks" type="button">
+          ★ <span id="bookmarkCount">0</span>
+        </button>
+      </nav>
+
+      <div class="tools">
+        <label class="search">
+          <span>⌕</span>
+          <input
+            id="searchInput"
+            type="search"
+            placeholder="単語・意味・例文を検索"
+            autocomplete="off"
+          >
+        </label>
+
+        <button id="shuffleBtn" class="tool-btn" type="button">
+          ↝ <span>Shuffle</span>
+        </button>
+      </div>
+    </section>
+
+    <div id="status" class="status" aria-live="polite"></div>
+
+    <section id="cards" class="cards" aria-label="語彙カード"></section>
+  </main>
+
+  <template id="emptyTemplate">
+    <div class="empty">
+      <div>◇</div>
+      <h2>該当するカードがありません</h2>
+      <p>検索条件または表示モードを変更してください。</p>
+    </div>
+  </template>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>
