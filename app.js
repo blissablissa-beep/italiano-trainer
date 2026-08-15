@@ -609,14 +609,22 @@ $("#searchInput").addEventListener("input", event => {
   render();
 });
 
-fetch("./data/words.json")
-  .then(response => {
-    if (!response.ok) {
-      throw new Error("data");
-    }
+Promise.all(
+  [
+    "./data/words.json",
+    "./data/words2.json"
+  ].map(path =>
+    fetch(`${path}?v=2`, { cache: "no-store" })
+      .then(response => {
+        if (!response.ok) {
+          throw new Error(`データを読み込めません: ${path}`);
+        }
 
-    return response.json();
-  })
+        return response.json();
+      })
+  )
+)
+  .then(groups => groups.flat())
   .then(validateWords)
   .then(words => {
     state.words = words;
