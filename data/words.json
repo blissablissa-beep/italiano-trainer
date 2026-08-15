@@ -321,5 +321,1185 @@
         "ja": "その決断は彼の経歴の転機となった。"
       }
     ]
+  },
+  {
+  "id": "avere",
+  "sid": "2026-00003",
+  "word": "avere",
+  "ipa": "/aˈvere/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・助動詞",
+      "it": "verbo transitivo e ausiliare"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "avuto",
+    "gerundPresent": "avendo",
+    "pattern": "avere + nome / avere + participio passato"
+  },
+
+  "usage": {
+    "register": ["neutral"],
+    "medium": ["spoken", "written"],
+    "situations": [
+      "conversation",
+      "business",
+      "academic"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "持っている、所有している",
+      "ある状態・感覚・年齢などを有する",
+      "複合時制を作る助動詞"
+    ],
+    "it": [
+      "Possedere o disporre di qualcosa.",
+      "Provare una sensazione o trovarsi in una determinata condizione.",
+      "Come ausiliare, formare i tempi composti di numerosi verbi."
+    ]
+  },
+
+  "nuance": {
+    "ja": "英語の have に近いが、所有以外にも avere fame（空腹である）、avere paura（怖い）、avere trent’anni（30歳である）のように、英語や日本語では be に相当する状態も表す。助動詞としては、主に他動詞および一部の自動詞の複合時制を作る。",
+    "it": "Oltre al possesso, esprime sensazioni, condizioni, età e necessità. Come ausiliare forma i tempi composti soprattutto dei verbi transitivi e di alcuni verbi intransitivi."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 habēre（持つ、所有する）に由来する。フランス語 avoir、スペイン語 haber と同語源である。",
+    "it": "Dal latino habēre, con il significato di possedere o tenere. È imparentato con il francese avoir e lo spagnolo haber."
+  },
+
+  "minimal": [
+    {
+      "word": "avere",
+      "ja": "所有・状態・感覚を有する、または助動詞として用いる",
+      "it": "possedere, trovarsi in una condizione o fungere da ausiliare"
+    },
+    {
+      "word": "tenere",
+      "ja": "手元に保持する、一定の状態や位置に保つ",
+      "it": "mantenere qualcosa presso di sé o in una determinata condizione"
+    },
+    {
+      "word": "esserci",
+      "ja": "何かが存在する、そこにある",
+      "it": "indicare la presenza o l’esistenza di qualcosa"
+    }
+  ],
+
+  "synonyms": [
+    "possedere",
+    "disporre di",
+    "detenere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "have",
+      "possess"
+    ],
+    "de": [
+      "haben",
+      "besitzen"
+    ],
+    "fr": [
+      "avoir",
+      "posséder"
+    ],
+    "es": [
+      "tener",
+      "haber"
+    ]
+  },
+
+  "collocations": [
+    "avere fame",
+    "avere sete",
+    "avere sonno",
+    "avere freddo",
+    "avere caldo",
+    "avere paura",
+    "avere bisogno di",
+    "avere voglia di",
+    "avere ragione",
+    "avere torto",
+    "avere fretta",
+    "avere tempo",
+    "avere luogo",
+    "avere a che fare con",
+    "avere qualcosa da fare"
+  ],
+
+  "examples": [
+    {
+      "it": "Ho due fratelli e una sorella.",
+      "ja": "私には兄弟が二人と姉妹が一人いる。"
+    },
+    {
+      "it": "Abbiamo molta fame.",
+      "ja": "私たちはとてもお腹が空いている。"
+    },
+    {
+      "it": "Mia moglie ha trentacinque anni.",
+      "ja": "私の妻は35歳である。"
+    },
+    {
+      "it": "Non ho avuto il tempo di rispondere.",
+      "ja": "返事をする時間がなかった。"
+    },
+    {
+      "it": "Hai mai visitato la Sicilia?",
+      "ja": "シチリアを訪れたことがありますか。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "ho",
+        "hai",
+        "ha",
+        "abbiamo",
+        "avete",
+        "hanno"
+      ],
+
+      "Imperfetto": [
+        "avevo",
+        "avevi",
+        "aveva",
+        "avevamo",
+        "avevate",
+        "avevano"
+      ],
+
+      "Passato prossimo": [
+        "ho avuto",
+        "hai avuto",
+        "ha avuto",
+        "abbiamo avuto",
+        "avete avuto",
+        "hanno avuto"
+      ],
+
+      "Passato remoto": [
+        "ebbi",
+        "avesti",
+        "ebbe",
+        "avemmo",
+        "aveste",
+        "ebbero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo avuto",
+        "avevi avuto",
+        "aveva avuto",
+        "avevamo avuto",
+        "avevate avuto",
+        "avevano avuto"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi avuto",
+        "avesti avuto",
+        "ebbe avuto",
+        "avemmo avuto",
+        "aveste avuto",
+        "ebbero avuto"
+      ],
+
+      "Futuro semplice": [
+        "avrò",
+        "avrai",
+        "avrà",
+        "avremo",
+        "avrete",
+        "avranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò avuto",
+        "avrai avuto",
+        "avrà avuto",
+        "avremo avuto",
+        "avrete avuto",
+        "avranno avuto"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "abbia",
+        "abbia",
+        "abbia",
+        "abbiamo",
+        "abbiate",
+        "abbiano"
+      ],
+
+      "Imperfetto": [
+        "avessi",
+        "avessi",
+        "avesse",
+        "avessimo",
+        "aveste",
+        "avessero"
+      ],
+
+      "Passato": [
+        "abbia avuto",
+        "abbia avuto",
+        "abbia avuto",
+        "abbiamo avuto",
+        "abbiate avuto",
+        "abbiano avuto"
+      ],
+
+      "Trapassato": [
+        "avessi avuto",
+        "avessi avuto",
+        "avesse avuto",
+        "avessimo avuto",
+        "aveste avuto",
+        "avessero avuto"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "avrei",
+        "avresti",
+        "avrebbe",
+        "avremmo",
+        "avreste",
+        "avrebbero"
+      ],
+
+      "Passato": [
+        "avrei avuto",
+        "avresti avuto",
+        "avrebbe avuto",
+        "avremmo avuto",
+        "avreste avuto",
+        "avrebbero avuto"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "abbi",
+        "abbia",
+        "abbiamo",
+        "abbiate",
+        "abbiano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "avere",
+        "avere avuto",
+        "avente",
+        "avuto",
+        "avendo",
+        "avendo avuto"
+      ]
+    }
   }
+},
+{
+  "id": "essere",
+  "sid": "2026-00004",
+  "word": "essere",
+  "ipa": "/ˈɛssere/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・助動詞",
+      "it": "verbo intransitivo e ausiliare"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "stato",
+    "gerundPresent": "essendo",
+    "pattern": "essere + nome / aggettivo / participio passato"
+  },
+
+  "usage": {
+    "register": ["neutral"],
+    "medium": ["spoken", "written"],
+    "situations": [
+      "conversation",
+      "business",
+      "academic"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "～である、～という存在である",
+      "存在する、ある、いる",
+      "場所・時・状態などを表す",
+      "受動態や複合時制を作る助動詞"
+    ],
+    "it": [
+      "Indicare identità, qualità, condizione o esistenza.",
+      "Indicare la posizione o la presenza di qualcuno o qualcosa.",
+      "Come ausiliare, formare tempi composti e costruzioni passive."
+    ]
+  },
+
+  "nuance": {
+    "ja": "英語の be におおむね対応する最重要動詞。人物・物の同一性、性質、状態、存在、場所、時刻などを表す。助動詞としては、移動・状態変化を表す一部の自動詞、再帰動詞、代名動詞などの複合時制を作り、過去分詞は主語の性・数に一致する。また、過去分詞と組み合わせて受動態を作る。",
+    "it": "È il verbo fondamentale per esprimere identità, qualità, stato, esistenza, luogo e tempo. Come ausiliare forma i tempi composti di numerosi verbi intransitivi, riflessivi e pronominali; il participio passato concorda con il soggetto. Con il participio passato forma anche la voce passiva."
+  },
+
+  "etymology": {
+    "ja": "俗ラテン語 essereを経て、ラテン語esse（存在する）に由来する。活用体系は複数の語幹から成る補充法的なもので、過去分詞statoはラテン語stare（立つ、一定の状態にある）に由来する。",
+    "it": "Dal latino esse, attraverso il latino volgare essere. Il paradigma è suppletivo e riunisce forme provenienti da radici diverse; il participio stato deriva dal latino stare."
+  },
+
+  "minimal": [
+    {
+      "word": "essere",
+      "ja": "本質・同一性・性質・存在・場所などを表す",
+      "it": "indicare identità, qualità, esistenza o posizione"
+    },
+    {
+      "word": "stare",
+      "ja": "一時的な状態、具合、姿勢、一定の場所への滞在を表す",
+      "it": "indicare una condizione, una permanenza o un modo di stare"
+    },
+    {
+      "word": "esserci",
+      "ja": "人や物の存在・不在を「～がある／いる」と提示する",
+      "it": "presentare la presenza o l’esistenza di qualcuno o qualcosa"
+    }
+  ],
+
+  "synonyms": [
+    "esistere",
+    "trovarsi",
+    "consistere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "be",
+      "exist"
+    ],
+    "de": [
+      "sein",
+      "existieren"
+    ],
+    "fr": [
+      "être",
+      "exister"
+    ],
+    "es": [
+      "ser",
+      "estar"
+    ]
+  },
+
+  "collocations": [
+    "essere felice",
+    "essere stanco",
+    "essere sicuro di",
+    "essere d’accordo",
+    "essere in grado di",
+    "essere a favore di",
+    "essere contro qualcosa",
+    "essere in ritardo",
+    "essere in anticipo",
+    "essere presente",
+    "essere assente",
+    "essere responsabile di",
+    "essere composto da",
+    "essere fatto di",
+    "essere sul punto di"
+  ],
+
+  "examples": [
+    {
+      "it": "Sono italiano, ma vivo in Giappone.",
+      "ja": "私はイタリア人だが、日本に住んでいる。"
+    },
+    {
+      "it": "Oggi siamo molto stanchi.",
+      "ja": "今日は私たちはとても疲れている。"
+    },
+    {
+      "it": "La riunione è alle dieci.",
+      "ja": "会議は10時である。"
+    },
+    {
+      "it": "I documenti sono stati inviati ieri.",
+      "ja": "書類は昨日送付された。"
+    },
+    {
+      "it": "Mi sono accorto dell’errore troppo tardi.",
+      "ja": "私はその誤りに気づくのが遅すぎた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "sono",
+        "sei",
+        "è",
+        "siamo",
+        "siete",
+        "sono"
+      ],
+
+      "Imperfetto": [
+        "ero",
+        "eri",
+        "era",
+        "eravamo",
+        "eravate",
+        "erano"
+      ],
+
+      "Passato prossimo": [
+        "sono stato/a",
+        "sei stato/a",
+        "è stato/a",
+        "siamo stati/e",
+        "siete stati/e",
+        "sono stati/e"
+      ],
+
+      "Passato remoto": [
+        "fui",
+        "fosti",
+        "fu",
+        "fummo",
+        "foste",
+        "furono"
+      ],
+
+      "Trapassato prossimo": [
+        "ero stato/a",
+        "eri stato/a",
+        "era stato/a",
+        "eravamo stati/e",
+        "eravate stati/e",
+        "erano stati/e"
+      ],
+
+      "Trapassato remoto": [
+        "fui stato/a",
+        "fosti stato/a",
+        "fu stato/a",
+        "fummo stati/e",
+        "foste stati/e",
+        "furono stati/e"
+      ],
+
+      "Futuro semplice": [
+        "sarò",
+        "sarai",
+        "sarà",
+        "saremo",
+        "sarete",
+        "saranno"
+      ],
+
+      "Futuro anteriore": [
+        "sarò stato/a",
+        "sarai stato/a",
+        "sarà stato/a",
+        "saremo stati/e",
+        "sarete stati/e",
+        "saranno stati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "sia",
+        "sia",
+        "sia",
+        "siamo",
+        "siate",
+        "siano"
+      ],
+
+      "Imperfetto": [
+        "fossi",
+        "fossi",
+        "fosse",
+        "fossimo",
+        "foste",
+        "fossero"
+      ],
+
+      "Passato": [
+        "sia stato/a",
+        "sia stato/a",
+        "sia stato/a",
+        "siamo stati/e",
+        "siate stati/e",
+        "siano stati/e"
+      ],
+
+      "Trapassato": [
+        "fossi stato/a",
+        "fossi stato/a",
+        "fosse stato/a",
+        "fossimo stati/e",
+        "foste stati/e",
+        "fossero stati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "sarei",
+        "saresti",
+        "sarebbe",
+        "saremmo",
+        "sareste",
+        "sarebbero"
+      ],
+
+      "Passato": [
+        "sarei stato/a",
+        "saresti stato/a",
+        "sarebbe stato/a",
+        "saremmo stati/e",
+        "sareste stati/e",
+        "sarebbero stati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "sii",
+        "sia",
+        "siamo",
+        "siate",
+        "siano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "essere",
+        "essere stato/a/i/e",
+        "essente (raro)",
+        "stato",
+        "essendo",
+        "essendo stato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "vivere",
+  "sid": "2026-00005",
+  "word": "vivere",
+  "ipa": "/ˈvivere/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "avere; anche essere in alcuni usi",
+    "pastParticiple": "vissuto",
+    "gerundPresent": "vivendo",
+    "pattern": "vivere in/a + luogo / vivere una vita o un’esperienza"
+  },
+
+  "usage": {
+    "register": ["neutral"],
+    "medium": ["spoken", "written"],
+    "situations": [
+      "conversation",
+      "business",
+      "academic"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "生きる、生存する",
+      "暮らす、生活する",
+      "ある場所に住む",
+      "人生・時代・経験などを生きる、体験する"
+    ],
+    "it": [
+      "Essere in vita e continuare a esistere.",
+      "Condurre la propria vita in un determinato modo o luogo.",
+      "Sperimentare direttamente un periodo, una situazione o un’esperienza."
+    ]
+  },
+
+  "nuance": {
+    "ja": "生命を保つという意味から、ある場所で暮らす、特定の生活を送る、時代や経験を身をもって体験するという意味まで広く使われる。住居の所在地を述べる場合にも使えるが、abitareよりも生活全体に焦点がある。複合時制では現代語ではavereが一般的だが、人の生涯や過去の存在を叙述する場合にはessereも見られる。",
+    "it": "Può indicare l’esistenza biologica, il modo di condurre la propria vita, la permanenza in un luogo o l’esperienza diretta di una situazione. Rispetto ad abitare, mette maggiormente in rilievo la vita nel suo complesso. Nei tempi composti prevale avere, ma essere ricorre soprattutto in usi biografici o letterari."
+  },
+
+  "etymology": {
+    "ja": "ラテン語vīvere（生きる）に直接由来する。フランス語vivre、スペイン語vivirと同語源であり、英語のvital、vivacious、surviveなどとも印欧語根を共有する。",
+    "it": "Dal latino vīvere, con continuità diretta di forma e significato. È imparentato con il francese vivre, lo spagnolo vivir e parole come vitale e sopravvivere."
+  },
+
+  "minimal": [
+    {
+      "word": "vivere",
+      "ja": "生きることや生活全体に焦点を当てる",
+      "it": "mettere in rilievo l’esistenza o la vita nel suo complesso"
+    },
+    {
+      "word": "abitare",
+      "ja": "住所・居住場所としてどこに住んでいるかに焦点を当てる",
+      "it": "indicare soprattutto il luogo in cui si ha la propria abitazione"
+    },
+    {
+      "word": "sopravvivere",
+      "ja": "危険・困難・死を免れて生き残る",
+      "it": "continuare a vivere nonostante un pericolo o una difficoltà"
+    }
+  ],
+
+  "synonyms": [
+    "abitare",
+    "risiedere",
+    "esistere",
+    "trascorrere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "live",
+      "experience"
+    ],
+    "de": [
+      "leben",
+      "erleben"
+    ],
+    "fr": [
+      "vivre",
+      "habiter"
+    ],
+    "es": [
+      "vivir",
+      "experimentar"
+    ]
+  },
+
+  "collocations": [
+    "vivere bene",
+    "vivere male",
+    "vivere a lungo",
+    "vivere da solo",
+    "vivere insieme",
+    "vivere in città",
+    "vivere in campagna",
+    "vivere all’estero",
+    "vivere con qualcuno",
+    "vivere di qualcosa",
+    "vivere per qualcosa",
+    "vivere una vita felice",
+    "vivere un’esperienza",
+    "vivere un momento difficile",
+    "vivere alla giornata",
+    "lasciar vivere"
+  ],
+
+  "examples": [
+    {
+      "it": "Vivo a Tokyo con la mia famiglia.",
+      "ja": "私は家族と東京で暮らしている。"
+    },
+    {
+      "it": "I miei nonni hanno vissuto a lungo in campagna.",
+      "ja": "私の祖父母は長い間、田舎で暮らしていた。"
+    },
+    {
+      "it": "Vorrei vivere un giorno in Italia.",
+      "ja": "いつかイタリアで暮らしてみたい。"
+    },
+    {
+      "it": "Abbiamo vissuto un’esperienza indimenticabile.",
+      "ja": "私たちは忘れられない経験をした。"
+    },
+    {
+      "it": "Dante visse tra il Duecento e il Trecento.",
+      "ja": "ダンテは13世紀から14世紀にかけて生きた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "vivo",
+        "vivi",
+        "vive",
+        "viviamo",
+        "vivete",
+        "vivono"
+      ],
+
+      "Imperfetto": [
+        "vivevo",
+        "vivevi",
+        "viveva",
+        "vivevamo",
+        "vivevate",
+        "vivevano"
+      ],
+
+      "Passato prossimo": [
+        "ho vissuto",
+        "hai vissuto",
+        "ha vissuto",
+        "abbiamo vissuto",
+        "avete vissuto",
+        "hanno vissuto"
+      ],
+
+      "Passato remoto": [
+        "vissi",
+        "vivesti",
+        "visse",
+        "vivemmo",
+        "viveste",
+        "vissero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo vissuto",
+        "avevi vissuto",
+        "aveva vissuto",
+        "avevamo vissuto",
+        "avevate vissuto",
+        "avevano vissuto"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi vissuto",
+        "avesti vissuto",
+        "ebbe vissuto",
+        "avemmo vissuto",
+        "aveste vissuto",
+        "ebbero vissuto"
+      ],
+
+      "Futuro semplice": [
+        "vivrò",
+        "vivrai",
+        "vivrà",
+        "vivremo",
+        "vivrete",
+        "vivranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò vissuto",
+        "avrai vissuto",
+        "avrà vissuto",
+        "avremo vissuto",
+        "avrete vissuto",
+        "avranno vissuto"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "viva",
+        "viva",
+        "viva",
+        "viviamo",
+        "viviate",
+        "vivano"
+      ],
+
+      "Imperfetto": [
+        "vivessi",
+        "vivessi",
+        "vivesse",
+        "vivessimo",
+        "viveste",
+        "vivessero"
+      ],
+
+      "Passato": [
+        "abbia vissuto",
+        "abbia vissuto",
+        "abbia vissuto",
+        "abbiamo vissuto",
+        "abbiate vissuto",
+        "abbiano vissuto"
+      ],
+
+      "Trapassato": [
+        "avessi vissuto",
+        "avessi vissuto",
+        "avesse vissuto",
+        "avessimo vissuto",
+        "aveste vissuto",
+        "avessero vissuto"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "vivrei",
+        "vivresti",
+        "vivrebbe",
+        "vivremmo",
+        "vivreste",
+        "vivrebbero"
+      ],
+
+      "Passato": [
+        "avrei vissuto",
+        "avresti vissuto",
+        "avrebbe vissuto",
+        "avremmo vissuto",
+        "avreste vissuto",
+        "avrebbero vissuto"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "vivi",
+        "viva",
+        "viviamo",
+        "vivete",
+        "vivano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "vivere",
+        "avere vissuto",
+        "vivente",
+        "vissuto",
+        "vivendo",
+        "avendo vissuto"
+      ]
+    }
+  }
+},
+{
+  "id": "venire",
+  "sid": "2026-00006",
+  "word": "venire",
+  "ipa": "/veˈnire/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・受動態の助動詞",
+      "it": "verbo intransitivo e ausiliare del passivo"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "venuto",
+    "gerundPresent": "venendo",
+    "pattern": "venire a/in/da + luogo / venire per + infinito / venire + participio passato"
+  },
+
+  "usage": {
+    "register": ["neutral"],
+    "medium": ["spoken", "written"],
+    "situations": [
+      "conversation",
+      "business",
+      "academic"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "来る、こちらへ移動する",
+      "ある場所・人・物に由来する",
+      "生じる、思い浮かぶ、ある状態になる",
+      "過去分詞とともに動作性のある受動態を作る"
+    ],
+    "it": [
+      "Muoversi verso il luogo in cui si trova o si troverà chi parla o chi ascolta.",
+      "Provenire o avere origine da un luogo, una persona o una causa.",
+      "Sopraggiungere, manifestarsi o prodursi.",
+      "Con il participio passato, formare una costruzione passiva."
+    ]
+  },
+
+  "nuance": {
+    "ja": "基本的には話者または聞き手がいる場所・基準点へ近づく移動を表し、andareと方向が対立する。ただし、聞き手の側へ向かう場合や、相手と行動を共にする場合にも使われる。venire daは出身・由来を、venire perは目的を表す。venire + 過去分詞は、essereによる受動態よりも動作・反復・進行中の処理を強く意識させる。",
+    "it": "Indica normalmente un movimento verso il centro deittico del parlante o dell’interlocutore e si contrappone ad andare. Venire da esprime provenienza, mentre venire per introduce spesso lo scopo. Con il participio passato forma un passivo che mette in rilievo l’azione o il procedimento."
+  },
+
+  "etymology": {
+    "ja": "ラテン語venīre（来る）に直接由来する。フランス語venir、スペイン語venirと同語源であり、英語のadvent、convene、interveneなどにも同じラテン語語根が含まれる。",
+    "it": "Dal latino venīre, con continuità diretta di forma e significato. È imparentato con il francese venir, lo spagnolo venir e parole italiane come avvenire, convenire e intervenire."
+  },
+
+  "minimal": [
+    {
+      "word": "venire",
+      "ja": "話者・聞き手・基準となる場所の方向へ来る",
+      "it": "muoversi verso il parlante, l’interlocutore o un luogo assunto come riferimento"
+    },
+    {
+      "word": "andare",
+      "ja": "現在の基準点から別の場所へ行く",
+      "it": "muoversi dal luogo di riferimento verso un’altra destinazione"
+    },
+    {
+      "word": "arrivare",
+      "ja": "移動の方向よりも目的地への到着に焦点を当てる",
+      "it": "mettere in rilievo il raggiungimento della destinazione"
+    }
+  ],
+
+  "synonyms": [
+    "arrivare",
+    "giungere",
+    "provenire",
+    "sopraggiungere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "come",
+      "originate"
+    ],
+    "de": [
+      "kommen",
+      "stammen"
+    ],
+    "fr": [
+      "venir",
+      "provenir"
+    ],
+    "es": [
+      "venir",
+      "provenir"
+    ]
+  },
+
+  "collocations": [
+    "venire a casa",
+    "venire in Italia",
+    "venire da Roma",
+    "venire dall’estero",
+    "venire con qualcuno",
+    "venire a trovare qualcuno",
+    "venire per lavoro",
+    "venire a sapere",
+    "venire in mente",
+    "venire voglia di",
+    "venire bene",
+    "venire male",
+    "venire meno",
+    "venire incontro a qualcuno",
+    "venire considerato",
+    "venire approvato"
+  ],
+
+  "examples": [
+    {
+      "it": "Vieni a cena da noi domani sera?",
+      "ja": "明日の晩、私たちの家へ夕食に来ませんか。"
+    },
+    {
+      "it": "Vengo dal Giappone e vivo a Tokyo.",
+      "ja": "私は日本出身で、東京に住んでいる。"
+    },
+    {
+      "it": "Domani verrò in ufficio un po’ più tardi.",
+      "ja": "明日は少し遅れて事務所へ来ます。"
+    },
+    {
+      "it": "Mi è venuta un’idea interessante.",
+      "ja": "面白い考えが浮かんだ。"
+    },
+    {
+      "it": "La domanda viene esaminata dall’ufficio competente.",
+      "ja": "その申請は管轄部署によって審査される。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "vengo",
+        "vieni",
+        "viene",
+        "veniamo",
+        "venite",
+        "vengono"
+      ],
+
+      "Imperfetto": [
+        "venivo",
+        "venivi",
+        "veniva",
+        "venivamo",
+        "venivate",
+        "venivano"
+      ],
+
+      "Passato prossimo": [
+        "sono venuto/a",
+        "sei venuto/a",
+        "è venuto/a",
+        "siamo venuti/e",
+        "siete venuti/e",
+        "sono venuti/e"
+      ],
+
+      "Passato remoto": [
+        "venni",
+        "venisti",
+        "venne",
+        "venimmo",
+        "veniste",
+        "vennero"
+      ],
+
+      "Trapassato prossimo": [
+        "ero venuto/a",
+        "eri venuto/a",
+        "era venuto/a",
+        "eravamo venuti/e",
+        "eravate venuti/e",
+        "erano venuti/e"
+      ],
+
+      "Trapassato remoto": [
+        "fui venuto/a",
+        "fosti venuto/a",
+        "fu venuto/a",
+        "fummo venuti/e",
+        "foste venuti/e",
+        "furono venuti/e"
+      ],
+
+      "Futuro semplice": [
+        "verrò",
+        "verrai",
+        "verrà",
+        "verremo",
+        "verrete",
+        "verranno"
+      ],
+
+      "Futuro anteriore": [
+        "sarò venuto/a",
+        "sarai venuto/a",
+        "sarà venuto/a",
+        "saremo venuti/e",
+        "sarete venuti/e",
+        "saranno venuti/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "venga",
+        "venga",
+        "venga",
+        "veniamo",
+        "veniate",
+        "vengano"
+      ],
+
+      "Imperfetto": [
+        "venissi",
+        "venissi",
+        "venisse",
+        "venissimo",
+        "veniste",
+        "venissero"
+      ],
+
+      "Passato": [
+        "sia venuto/a",
+        "sia venuto/a",
+        "sia venuto/a",
+        "siamo venuti/e",
+        "siate venuti/e",
+        "siano venuti/e"
+      ],
+
+      "Trapassato": [
+        "fossi venuto/a",
+        "fossi venuto/a",
+        "fosse venuto/a",
+        "fossimo venuti/e",
+        "foste venuti/e",
+        "fossero venuti/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "verrei",
+        "verresti",
+        "verrebbe",
+        "verremmo",
+        "verreste",
+        "verrebbero"
+      ],
+
+      "Passato": [
+        "sarei venuto/a",
+        "saresti venuto/a",
+        "sarebbe venuto/a",
+        "saremmo venuti/e",
+        "sareste venuti/e",
+        "sarebbero venuti/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "vieni",
+        "venga",
+        "veniamo",
+        "venite",
+        "vengano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "venire",
+        "essere venuto/a/i/e",
+        "veniente (raro)",
+        "venuto",
+        "venendo",
+        "essendo venuto/a/i/e"
+      ]
+    }
+  }
+}
 ]
