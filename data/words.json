@@ -1811,5 +1811,2149 @@
       ]
     }
   }
+},
+{
+  "id": "prendere",
+  "sid": "2026-00008",
+  "word": "prendere",
+  "ipa": "/ˈprɛndere/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "preso",
+    "gerundPresent": "prendendo",
+    "pattern": "prendere + nome / prendere parte a / prendere qualcosa da qualcuno"
+  },
+
+  "usage": {
+    "register": ["neutral"],
+    "medium": ["spoken", "written"],
+    "situations": [
+      "conversation",
+      "business",
+      "academic"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "取る、つかむ、手に入れる",
+      "受け取る、選ぶ、採用する",
+      "交通機関に乗る",
+      "飲食物・薬などを摂る",
+      "決定・措置・態度などを取る",
+      "人や物を迎えに行く、連れてくる"
+    ],
+    "it": [
+      "Afferrare, ricevere o ottenere qualcosa.",
+      "Scegliere o utilizzare qualcosa.",
+      "Servirsi di un mezzo di trasporto.",
+      "Consumare cibi, bevande o medicinali.",
+      "Adottare una decisione, una misura o un atteggiamento.",
+      "Andare a prendere una persona o una cosa."
+    ]
+  },
+
+  "nuance": {
+    "ja": "英語のtakeに近い非常に多義的な動詞で、具体的に物を手に取る場合から、交通機関に乗る、薬を飲む、決定を下す、休憩を取るなどの抽象的な行為まで広く使われる。日本語訳を一つに固定せず、名詞との組み合わせで覚えることが重要である。",
+    "it": "È un verbo estremamente polisemico, vicino all’inglese take. Può indicare un’azione fisica, una scelta, l’uso di un mezzo di trasporto, il consumo di qualcosa o l’adozione di una decisione. Il significato dipende spesso dal sostantivo che lo accompagna."
+  },
+
+  "etymology": {
+    "ja": "俗ラテン語prendereを経て、古典ラテン語prehendere（つかむ、捕らえる）に由来する。イタリア語のcomprendere、apprendere、sorprendereなども同じ語根を含む。",
+    "it": "Dal latino volgare prendere, riduzione del latino classico prehendere, con il significato di afferrare o catturare. La stessa radice compare in comprendere, apprendere e sorprendere."
+  },
+
+  "minimal": [
+    {
+      "word": "prendere",
+      "ja": "物を取る、受け取る、選ぶ、利用する",
+      "it": "afferrare, ricevere, scegliere o utilizzare qualcosa"
+    },
+    {
+      "word": "portare",
+      "ja": "物や人をある場所へ持っていく、連れていく",
+      "it": "trasferire una persona o una cosa verso un altro luogo"
+    },
+    {
+      "word": "ricevere",
+      "ja": "他者から送られた物・情報・人などを受け取る",
+      "it": "ottenere qualcosa che viene dato, inviato o comunicato"
+    }
+  ],
+
+  "synonyms": [
+    "afferrare",
+    "ricevere",
+    "ottenere",
+    "scegliere",
+    "assumere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "take",
+      "get"
+    ],
+    "de": [
+      "nehmen",
+      "holen"
+    ],
+    "fr": [
+      "prendre",
+      "saisir"
+    ],
+    "es": [
+      "tomar",
+      "coger (Spagna)"
+    ]
+  },
+ "collocations": [
+   "prendere una decisione",
+   "prendere un caffè",
+   "prendere una medicina",
+   "prendere l’autobus",
+   "prendere il treno",
+   "prendere un taxi",
+   "prendere un appuntamento",
+   "prendere una pausa",
+   "prendere tempo",
+   "prendere nota",
+   "prendere atto di",
+   "prendere in considerazione",
+   "prendere parte a",
+   "prendere posizione",
+   "prendere sul serio",
+   "prendersi cura di",
+   "prendere qualcuno per mano",
+   "prendere freddo",
+   "prendere il sole"
+  ],
+
+  "examples": [
+    {
+      "it": "Ogni mattina prendo il treno per andare al lavoro.",
+      "ja": "私は毎朝、仕事へ行くために電車に乗る。"
+    },
+    {
+      "it": "Vorrei prendere un caffè.",
+      "ja": "コーヒーを飲みたいです。"
+    },
+    {
+      "it": "Dobbiamo prendere una decisione entro domani.",
+      "ja": "私たちは明日までに決定を下さなければならない。"
+    },
+    {
+      "it": "Prenda questa medicina dopo i pasti.",
+      "ja": "この薬を食後に服用してください。"
+    },
+    {
+      "it": "La proposta sarà presa in considerazione.",
+      "ja": "その提案は検討されるだろう。"
+    },
+    {
+      "it": "Vorrei prendermi una breve pausa.",
+      "ja": "少し休憩を取りたい。"
+    },
+    {
+      "it": "Vado a prendere mia moglie alla stazione.",
+      "ja": "妻を駅へ迎えに行く。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "prendo",
+        "prendi",
+        "prende",
+        "prendiamo",
+        "prendete",
+        "prendono"
+      ],
+
+      "Imperfetto": [
+        "prendevo",
+        "prendevi",
+        "prendeva",
+        "prendevamo",
+        "prendevate",
+        "prendevano"
+      ],
+
+      "Passato prossimo": [
+        "ho preso",
+        "hai preso",
+        "ha preso",
+        "abbiamo preso",
+        "avete preso",
+        "hanno preso"
+      ],
+
+      "Passato remoto": [
+        "presi",
+        "prendesti",
+        "prese",
+        "prendemmo",
+        "prendeste",
+        "presero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo preso",
+        "avevi preso",
+        "aveva preso",
+        "avevamo preso",
+        "avevate preso",
+        "avevano preso"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi preso",
+        "avesti preso",
+        "ebbe preso",
+        "avemmo preso",
+        "aveste preso",
+        "ebbero preso"
+      ],
+
+      "Futuro semplice": [
+        "prenderò",
+        "prenderai",
+        "prenderà",
+        "prenderemo",
+        "prenderete",
+        "prenderanno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò preso",
+        "avrai preso",
+        "avrà preso",
+        "avremo preso",
+        "avrete preso",
+        "avranno preso"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "prenda",
+        "prenda",
+        "prenda",
+        "prendiamo",
+        "prendiate",
+        "prendano"
+      ],
+
+      "Imperfetto": [
+        "prendessi",
+        "prendessi",
+        "prendesse",
+        "prendessimo",
+        "prendeste",
+        "prendessero"
+      ],
+
+      "Passato": [
+        "abbia preso",
+        "abbia preso",
+        "abbia preso",
+        "abbiamo preso",
+        "abbiate preso",
+        "abbiano preso"
+      ],
+
+      "Trapassato": [
+        "avessi preso",
+        "avessi preso",
+        "avesse preso",
+        "avessimo preso",
+        "aveste preso",
+        "avessero preso"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "prenderei",
+        "prenderesti",
+        "prenderebbe",
+        "prenderemmo",
+        "prendereste",
+        "prenderebbero"
+      ],
+
+      "Passato": [
+        "avrei preso",
+        "avresti preso",
+        "avrebbe preso",
+        "avremmo preso",
+        "avreste preso",
+        "avrebbero preso"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "prendi",
+        "prenda",
+        "prendiamo",
+        "prendete",
+        "prendano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "prendere",
+        "avere preso",
+        "prendente (raro)",
+        "preso",
+        "prendendo",
+        "avendo preso"
+      ]
+    }
+  }
+},
+{
+  "id": "volere",
+  "sid": "2026-00009",
+  "word": "volere",
+  "ipa": "/voˈlere/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・法助動詞",
+      "it": "verbo transitivo e servile"
+    },
+    "auxiliary": "avere; con un infinito anche l’ausiliare del verbo retto",
+    "pastParticiple": "voluto",
+    "gerundPresent": "volendo",
+    "pattern": "volere + nome / infinito / che + congiuntivo"
+  },
+
+  "usage": {
+    "register": ["neutral"],
+    "medium": ["spoken", "written"],
+    "situations": [
+      "conversation",
+      "business",
+      "academic"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "欲しい、望む",
+      "～したい、～する意志がある",
+      "人に～してほしいと望む",
+      "意味する、必要とする",
+      "人を大切に思う、愛情を持つ"
+    ],
+    "it": [
+      "Desiderare qualcosa.",
+      "Avere l’intenzione o la volontà di compiere un’azione.",
+      "Desiderare che qualcuno faccia qualcosa.",
+      "In alcune espressioni, significare o richiedere.",
+      "Nell’espressione voler bene, provare affetto per qualcuno."
+    ]
+  },
+
+  "nuance": {
+    "ja": "強い意志から単純な希望まで表す最重要法助動詞。直説法現在のvoglioは文脈によって直接的・強圧的に響くことがあるため、店やレストランで希望を丁寧に伝える場合は条件法のvorreiが広く使われる。volere cheの後には原則として接続法を用いる。voler bene a qualcunoは恋愛に限らない愛情を表す。",
+    "it": "Esprime desiderio, intenzione o volontà. Voglio può risultare diretto o categorico, mentre vorrei attenua la richiesta ed è molto comune nelle situazioni cortesi. Volere che richiede normalmente il congiuntivo. Voler bene a qualcuno indica affetto e non necessariamente amore romantico."
+  },
+
+  "etymology": {
+    "ja": "ラテン語velle（望む、意志する）に由来する。俗ラテン語で不定詞が規則的な形volēreへ作り直された。不規則活用のvoglio、vuoi、vorròなどには、ラテン語以来の複数の語幹が残っている。",
+    "it": "Dal latino velle, attraverso la forma analogica del latino volgare volēre. L’irregolarità di forme come voglio, vuoi e vorrò riflette la presenza storica di più temi verbali."
+  },
+
+  "minimal": [
+    {
+      "word": "volere",
+      "ja": "欲求・希望・意志を直接表す",
+      "it": "esprimere direttamente un desiderio o una volontà"
+    },
+    {
+      "word": "desiderare",
+      "ja": "より意識的・改まった願望を表す",
+      "it": "esprimere un desiderio spesso più consapevole o formale"
+    },
+    {
+      "word": "avere bisogno di",
+      "ja": "欲しいという希望ではなく、必要性を表す",
+      "it": "esprimere una necessità anziché un semplice desiderio"
+    }
+  ],
+
+  "synonyms": [
+    "desiderare",
+    "voler ottenere",
+    "avere intenzione di",
+    "pretendere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "want",
+      "wish"
+    ],
+    "de": [
+      "wollen",
+      "möchten"
+    ],
+    "fr": [
+      "vouloir",
+      "souhaiter"
+    ],
+    "es": [
+      "querer",
+      "desear"
+    ]
+  },
+
+  "collocations": [
+    "volere qualcosa",
+    "volere fare qualcosa",
+    "volere che qualcuno faccia qualcosa",
+    "volere a tutti i costi",
+    "volere fortemente",
+    "volere davvero",
+    "non volere più",
+    "voler dire",
+    "voler bene a qualcuno",
+    "volerne a qualcuno",
+    "voler sapere",
+    "voler vedere",
+    "voler provare",
+    "volerci",
+    "come Dio vuole",
+    "che cosa vuoi dire?"
+  ],
+
+  "examples": [
+    {
+      "it": "Voglio imparare a parlare italiano meglio.",
+      "ja": "私はイタリア語をもっと上手に話せるようになりたい。"
+    },
+    {
+      "it": "Vorrei un caffè, per favore.",
+      "ja": "コーヒーを一杯いただきたいのですが。"
+    },
+    {
+      "it": "Voglio che tu mi dica la verità.",
+      "ja": "私はあなたに本当のことを言ってほしい。"
+    },
+    {
+      "it": "Che cosa vuol dire questa parola?",
+      "ja": "この単語はどういう意味ですか。"
+    },
+    {
+      "it": "Voglio molto bene alla mia famiglia.",
+      "ja": "私は家族をとても大切に思っている。"
+    },
+    {
+      "it": "Ci vuole molto tempo per imparare una lingua.",
+      "ja": "言語を習得するには長い時間が必要だ。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "voglio",
+        "vuoi",
+        "vuole",
+        "vogliamo",
+        "volete",
+        "vogliono"
+      ],
+
+      "Imperfetto": [
+        "volevo",
+        "volevi",
+        "voleva",
+        "volevamo",
+        "volevate",
+        "volevano"
+      ],
+
+      "Passato prossimo": [
+        "ho voluto",
+        "hai voluto",
+        "ha voluto",
+        "abbiamo voluto",
+        "avete voluto",
+        "hanno voluto"
+      ],
+
+      "Passato remoto": [
+        "volli",
+        "volesti",
+        "volle",
+        "volemmo",
+        "voleste",
+        "vollero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo voluto",
+        "avevi voluto",
+        "aveva voluto",
+        "avevamo voluto",
+        "avevate voluto",
+        "avevano voluto"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi voluto",
+        "avesti voluto",
+        "ebbe voluto",
+        "avemmo voluto",
+        "aveste voluto",
+        "ebbero voluto"
+      ],
+
+      "Futuro semplice": [
+        "vorrò",
+        "vorrai",
+        "vorrà",
+        "vorremo",
+        "vorrete",
+        "vorranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò voluto",
+        "avrai voluto",
+        "avrà voluto",
+        "avremo voluto",
+        "avrete voluto",
+        "avranno voluto"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "voglia",
+        "voglia",
+        "voglia",
+        "vogliamo",
+        "vogliate",
+        "vogliano"
+      ],
+
+      "Imperfetto": [
+        "volessi",
+        "volessi",
+        "volesse",
+        "volessimo",
+        "voleste",
+        "volessero"
+      ],
+
+      "Passato": [
+        "abbia voluto",
+        "abbia voluto",
+        "abbia voluto",
+        "abbiamo voluto",
+        "abbiate voluto",
+        "abbiano voluto"
+      ],
+
+      "Trapassato": [
+        "avessi voluto",
+        "avessi voluto",
+        "avesse voluto",
+        "avessimo voluto",
+        "aveste voluto",
+        "avessero voluto"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "vorrei",
+        "vorresti",
+        "vorrebbe",
+        "vorremmo",
+        "vorreste",
+        "vorrebbero"
+      ],
+
+      "Passato": [
+        "avrei voluto",
+        "avresti voluto",
+        "avrebbe voluto",
+        "avremmo voluto",
+        "avreste voluto",
+        "avrebbero voluto"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "vogli (raro)",
+        "voglia",
+        "vogliamo",
+        "vogliate",
+        "vogliano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "volere",
+        "avere voluto",
+        "volente",
+        "voluto",
+        "volendo",
+        "avendo voluto"
+      ]
+    }
+  }
+},
+{
+  "id": "potere",
+  "sid": "2026-00010",
+  "word": "potere",
+  "ipa": "/poˈtere/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "法助動詞・他動詞",
+      "it": "verbo servile e transitivo"
+    },
+    "auxiliary": "avere; con un infinito anche l’ausiliare del verbo retto",
+    "pastParticiple": "potuto",
+    "gerundPresent": "potendo",
+    "pattern": "potere + infinito / può darsi che + congiuntivo"
+  },
+
+  "usage": {
+    "register": ["neutral"],
+    "medium": ["spoken", "written"],
+    "situations": [
+      "conversation",
+      "business",
+      "academic"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "～できる、～することが可能である",
+      "～してもよい、許可されている",
+      "～かもしれない、～であり得る",
+      "～する力・権限を持つ"
+    ],
+    "it": [
+      "Avere la possibilità o la capacità di compiere un’azione.",
+      "Avere il permesso di fare qualcosa.",
+      "Indicare che qualcosa è possibile o verosimile.",
+      "Disporre dell’autorità o dei mezzi necessari per agire."
+    ]
+  },
+
+  "nuance": {
+    "ja": "能力だけでなく、時間・状況・許可などを含む広い意味での「可能」を表す。実際に行為を達成したことを強調する場合はriuscire a、習得した技能を表す場合はsapere + 不定詞が適する。条件法のpotreiは、提案・控えめな可能性・丁寧な依頼によく使われる。",
+    "it": "Esprime una possibilità generale derivante da capacità, circostanze, permesso o autorità. Per sottolineare che un’azione è stata effettivamente portata a termine si usa spesso riuscire a; per un’abilità acquisita si usa sapere seguito dall’infinito. Il condizionale potrei attenua richieste, proposte e possibilità."
+  },
+
+  "etymology": {
+    "ja": "ラテン語posse（～できる）に由来する。posse自体はpotis（力のある）とesse（存在する）の結合から生じた。イタリア語では後期ラテン語・俗ラテン語のpotēreを経て、規則的な不定詞potereが形成された。",
+    "it": "Dal latino posse, nato dall’unione di potis, «capace, potente», ed esse, «essere». L’infinito italiano deriva dalla forma analogica tardo-latina potēre."
+  },
+
+  "minimal": [
+    {
+      "word": "potere",
+      "ja": "能力・事情・許可などによって行為が可能である",
+      "it": "avere la possibilità di agire per capacità, circostanze o permesso"
+    },
+    {
+      "word": "riuscire a",
+      "ja": "困難を越えて実際に行為を成し遂げる",
+      "it": "portare effettivamente a termine un’azione, spesso superando una difficoltà"
+    },
+    {
+      "word": "sapere",
+      "ja": "学習して身につけた技能として～できる",
+      "it": "essere capaci di fare qualcosa grazie a un’abilità acquisita"
+    }
+  ],
+
+  "synonyms": [
+    "essere in grado di",
+    "avere la possibilità di",
+    "essere autorizzato a",
+    "riuscire a"
+  ],
+
+  "equivalents": {
+    "en": [
+      "can",
+      "be able to",
+      "may"
+    ],
+    "de": [
+      "können",
+      "dürfen"
+    ],
+    "fr": [
+      "pouvoir",
+      "être capable de"
+    ],
+    "es": [
+      "poder",
+      "ser capaz de"
+    ]
+  },
+
+  "collocations": [
+    "potere fare qualcosa",
+    "non poter fare qualcosa",
+    "poter scegliere",
+    "poter decidere",
+    "poter entrare",
+    "poter partecipare",
+    "poter contare su qualcuno",
+    "potere assoluto",
+    "potere politico",
+    "potere economico",
+    "può essere",
+    "può darsi",
+    "può darsi che",
+    "per quanto possibile",
+    "il prima possibile",
+    "non poterne più",
+    "fare tutto il possibile",
+    "se possibile"
+  ],
+
+  "examples": [
+    {
+      "it": "Posso entrare?",
+      "ja": "入ってもよいですか。"
+    },
+    {
+      "it": "Non posso venire alla riunione domani.",
+      "ja": "明日の会議には出席できない。"
+    },
+    {
+      "it": "Sai nuotare, ma oggi non puoi nuotare a causa del maltempo.",
+      "ja": "あなたは泳げるが、今日は悪天候のため泳ぐことができない。"
+    },
+    {
+      "it": "Potrebbe piovere nel pomeriggio.",
+      "ja": "午後には雨が降るかもしれない。"
+    },
+    {
+      "it": "Potresti inviarmi il documento entro domani?",
+      "ja": "明日までにその書類を送っていただけますか。"
+    },
+    {
+      "it": "Non ne posso più.",
+      "ja": "もう耐えられない。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "posso",
+        "puoi",
+        "può",
+        "possiamo",
+        "potete",
+        "possono"
+      ],
+
+      "Imperfetto": [
+        "potevo",
+        "potevi",
+        "poteva",
+        "potevamo",
+        "potevate",
+        "potevano"
+      ],
+
+      "Passato prossimo": [
+        "ho potuto",
+        "hai potuto",
+        "ha potuto",
+        "abbiamo potuto",
+        "avete potuto",
+        "hanno potuto"
+      ],
+
+      "Passato remoto": [
+        "potei / potetti",
+        "potesti",
+        "poté / potette",
+        "potemmo",
+        "poteste",
+        "poterono / potettero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo potuto",
+        "avevi potuto",
+        "aveva potuto",
+        "avevamo potuto",
+        "avevate potuto",
+        "avevano potuto"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi potuto",
+        "avesti potuto",
+        "ebbe potuto",
+        "avemmo potuto",
+        "aveste potuto",
+        "ebbero potuto"
+      ],
+
+      "Futuro semplice": [
+        "potrò",
+        "potrai",
+        "potrà",
+        "potremo",
+        "potrete",
+        "potranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò potuto",
+        "avrai potuto",
+        "avrà potuto",
+        "avremo potuto",
+        "avrete potuto",
+        "avranno potuto"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "possa",
+        "possa",
+        "possa",
+        "possiamo",
+        "possiate",
+        "possano"
+      ],
+
+      "Imperfetto": [
+        "potessi",
+        "potessi",
+        "potesse",
+        "potessimo",
+        "poteste",
+        "potessero"
+      ],
+
+      "Passato": [
+        "abbia potuto",
+        "abbia potuto",
+        "abbia potuto",
+        "abbiamo potuto",
+        "abbiate potuto",
+        "abbiano potuto"
+      ],
+
+      "Trapassato": [
+        "avessi potuto",
+        "avessi potuto",
+        "avesse potuto",
+        "avessimo potuto",
+        "aveste potuto",
+        "avessero potuto"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "potrei",
+        "potresti",
+        "potrebbe",
+        "potremmo",
+        "potreste",
+        "potrebbero"
+      ],
+
+      "Passato": [
+        "avrei potuto",
+        "avresti potuto",
+        "avrebbe potuto",
+        "avremmo potuto",
+        "avreste potuto",
+        "avrebbero potuto"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "—",
+        "—",
+        "—",
+        "—",
+        "—"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "potere",
+        "avere potuto",
+        "potente (oggi aggettivo)",
+        "potuto",
+        "potendo",
+        "avendo potuto"
+      ]
+    }
+  }
+},
+{
+  "id": "dovere",
+  "sid": "2026-00011",
+  "word": "dovere",
+  "ipa": "/doˈvere/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "法助動詞・他動詞",
+      "it": "verbo servile e transitivo"
+    },
+    "auxiliary": "avere; con un infinito anche l’ausiliare del verbo retto",
+    "pastParticiple": "dovuto",
+    "gerundPresent": "dovendo",
+    "pattern": "dovere + infinito / dovere qualcosa a qualcuno / dovere essere"
+  },
+
+  "usage": {
+    "register": ["neutral"],
+    "medium": ["spoken", "written"],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "legal"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "～しなければならない、～する必要がある",
+      "～すべきである",
+      "～に違いない、～のはずである",
+      "金銭・恩義・結果などを人に負っている"
+    ],
+    "it": [
+      "Essere obbligati o avere la necessità di fare qualcosa.",
+      "Indicare ciò che è opportuno o consigliabile fare.",
+      "Esprimere una supposizione considerata molto probabile.",
+      "Essere tenuti a dare qualcosa a qualcuno o essere debitori."
+    ]
+  },
+
+  "nuance": {
+    "ja": "義務・必要性を表す最重要法助動詞。直説法現在は現実の義務を、条件法現在は控えめな助言や道徳的な義務を表すことが多い。dovere essereは根拠のある強い推量を表す。過去条件法avrebbe dovutoは「～すべきだったのに」という、実現しなかった義務・後悔・批判を示す。",
+    "it": "Esprime obbligo, necessità, opportunità o forte probabilità. L’indicativo presenta normalmente un obbligo concreto, mentre il condizionale attenua l’enunciato e introduce spesso un consiglio. Dovere essere può esprimere una deduzione. Il condizionale passato indica frequentemente un obbligo non adempiuto."
+  },
+
+  "etymology": {
+    "ja": "ラテン語dēbēre（負っている、義務がある）に由来する。dēbēreはde-とhabēre（持つ）の結合から生じ、もともとは「他人から受け取ったものを保持している」、すなわち返す義務があることを表した。",
+    "it": "Dal latino dēbēre, formato storicamente da de- e habēre. Il significato originario era quello di trattenere qualcosa ricevuto da altri e quindi essere obbligati a restituirlo."
+  },
+
+  "minimal": [
+    {
+      "word": "dovere",
+      "ja": "主語に課された義務・必要性・強い推量を表す",
+      "it": "esprimere un obbligo, una necessità o una forte supposizione riferiti al soggetto"
+    },
+    {
+      "word": "bisognare",
+      "ja": "特定の主語よりも、一般的・非人称的な必要性を表す",
+      "it": "esprimere soprattutto una necessità generale o impersonale"
+    },
+    {
+      "word": "avere bisogno di",
+      "ja": "行為の義務ではなく、人や物を必要としていることを表す",
+      "it": "indicare la necessità di una persona, una cosa o un’azione"
+    }
+  ],
+
+  "synonyms": [
+    "essere obbligato a",
+    "essere tenuto a",
+    "avere la necessità di",
+    "essere debitore di"
+  ],
+
+  "equivalents": {
+    "en": [
+      "must",
+      "have to",
+      "should",
+      "owe"
+    ],
+    "de": [
+      "müssen",
+      "sollen",
+      "schulden"
+    ],
+    "fr": [
+      "devoir",
+      "être obligé de"
+    ],
+    "es": [
+      "deber",
+      "tener que"
+    ]
+  },
+
+  "collocations": [
+    "dovere fare qualcosa",
+    "dover andare",
+    "dover partire",
+    "dover lavorare",
+    "dover aspettare",
+    "dover scegliere",
+    "dover decidere",
+    "dover ammettere",
+    "dover essere",
+    "dovere qualcosa a qualcuno",
+    "dovere molto a qualcuno",
+    "non dover fare qualcosa",
+    "come dovrebbe essere",
+    "quanto dovuto",
+    "a tempo debito",
+    "per senso del dovere",
+    "compiere il proprio dovere",
+    "venire meno al proprio dovere"
+  ],
+
+  "examples": [
+    {
+      "it": "Devo finire questo lavoro entro domani.",
+      "ja": "私は明日までにこの仕事を終えなければならない。"
+    },
+    {
+      "it": "Dovresti riposarti un po’.",
+      "ja": "少し休んだほうがよい。"
+    },
+    {
+      "it": "Devono essere già arrivati.",
+      "ja": "彼らはもう到着しているはずだ。"
+    },
+    {
+      "it": "Ti devo dieci euro.",
+      "ja": "私はあなたに10ユーロ借りている。"
+    },
+    {
+      "it": "Avrei dovuto rispondere prima.",
+      "ja": "もっと早く返事をすべきだった。"
+    },
+    {
+      "it": "La decisione è dovuta a diversi fattori.",
+      "ja": "その決定はいくつかの要因によるものである。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "devo / debbo",
+        "devi",
+        "deve",
+        "dobbiamo",
+        "dovete",
+        "devono / debbono"
+      ],
+
+      "Imperfetto": [
+        "dovevo",
+        "dovevi",
+        "doveva",
+        "dovevamo",
+        "dovevate",
+        "dovevano"
+      ],
+
+      "Passato prossimo": [
+        "ho dovuto",
+        "hai dovuto",
+        "ha dovuto",
+        "abbiamo dovuto",
+        "avete dovuto",
+        "hanno dovuto"
+      ],
+
+      "Passato remoto": [
+        "dovetti / dovei",
+        "dovesti",
+        "dovette / dové",
+        "dovemmo",
+        "doveste",
+        "dovettero / doverono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo dovuto",
+        "avevi dovuto",
+        "aveva dovuto",
+        "avevamo dovuto",
+        "avevate dovuto",
+        "avevano dovuto"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi dovuto",
+        "avesti dovuto",
+        "ebbe dovuto",
+        "avemmo dovuto",
+        "aveste dovuto",
+        "ebbero dovuto"
+      ],
+
+      "Futuro semplice": [
+        "dovrò",
+        "dovrai",
+        "dovrà",
+        "dovremo",
+        "dovrete",
+        "dovranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò dovuto",
+        "avrai dovuto",
+        "avrà dovuto",
+        "avremo dovuto",
+        "avrete dovuto",
+        "avranno dovuto"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "debba",
+        "debba",
+        "debba",
+        "dobbiamo",
+        "dobbiate",
+        "debbano"
+      ],
+
+      "Imperfetto": [
+        "dovessi",
+        "dovessi",
+        "dovesse",
+        "dovessimo",
+        "doveste",
+        "dovessero"
+      ],
+
+      "Passato": [
+        "abbia dovuto",
+        "abbia dovuto",
+        "abbia dovuto",
+        "abbiamo dovuto",
+        "abbiate dovuto",
+        "abbiano dovuto"
+      ],
+
+      "Trapassato": [
+        "avessi dovuto",
+        "avessi dovuto",
+        "avesse dovuto",
+        "avessimo dovuto",
+        "aveste dovuto",
+        "avessero dovuto"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "dovrei",
+        "dovresti",
+        "dovrebbe",
+        "dovremmo",
+        "dovreste",
+        "dovrebbero"
+      ],
+
+      "Passato": [
+        "avrei dovuto",
+        "avresti dovuto",
+        "avrebbe dovuto",
+        "avremmo dovuto",
+        "avreste dovuto",
+        "avrebbero dovuto"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "devi (raro come vero imperativo)",
+        "debba",
+        "dobbiamo",
+        "dovete",
+        "debbano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "dovere",
+        "avere dovuto",
+        "dovente (raro)",
+        "dovuto",
+        "dovendo",
+        "avendo dovuto"
+      ]
+    }
+  }
+},
+{
+  "id": "sapere",
+  "sid": "2026-00012",
+  "word": "sapere",
+  "ipa": "/saˈpere/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・法助動詞的用法を持つ動詞",
+      "it": "verbo transitivo con uso affine ai verbi servili"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "saputo",
+    "gerundPresent": "sapendo",
+    "pattern": "sapere + nome / che + indicativo / interrogativa indiretta / infinito / sapere di"
+  },
+
+  "usage": {
+    "register": ["neutral"],
+    "medium": ["spoken", "written"],
+    "situations": [
+      "conversation",
+      "business",
+      "academic"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "事実・情報・答えなどを知っている",
+      "～であることを知っている",
+      "方法を習得していて～できる",
+      "知る、聞き知る",
+      "～の味・匂いがする"
+    ],
+    "it": [
+      "Essere a conoscenza di un fatto, un’informazione o una risposta.",
+      "Conoscere il modo in cui si compie un’azione.",
+      "Venire a conoscenza di qualcosa.",
+      "Avere il sapore o l’odore di qualcosa."
+    ]
+  },
+
+  "nuance": {
+    "ja": "事実・情報・方法についての知識を表し、人・場所・作品などに直接なじみがあることを表すconoscereと区別される。sapere + 不定詞は、学習・経験によって身につけた技能として「～できる」を意味する。一方、potereは能力だけでなく、時間・許可・状況による可能性も表す。",
+    "it": "Indica la conoscenza di fatti, informazioni o procedimenti e si distingue da conoscere, che riguarda soprattutto la familiarità diretta con persone, luoghi, opere o argomenti. Sapere seguito dall’infinito esprime un’abilità acquisita; potere indica invece una possibilità determinata anche dalle circostanze o dal permesso."
+  },
+
+  "etymology": {
+    "ja": "ラテン語sapereに由来する。もともとは「味がする、味を見分ける」を意味し、そこから「判断力がある」「賢明である」「知っている」へ意味が発展した。この古い意味は、現代イタリア語のsapere di～（～の味・匂いがする）にも残っている。",
+    "it": "Dal latino sapere, che significava originariamente «avere sapore» e poi «avere discernimento, essere saggio, conoscere». Il significato più antico sopravvive ancora nella costruzione sapere di."
+  },
+
+  "minimal": [
+    {
+      "word": "sapere",
+      "ja": "事実・情報・方法を知っている",
+      "it": "conoscere un fatto, un’informazione o il modo di fare qualcosa"
+    },
+    {
+      "word": "conoscere",
+      "ja": "人・場所・作品・分野などを直接知っている、なじみがある",
+      "it": "avere familiarità o esperienza diretta di una persona, un luogo o un argomento"
+    },
+    {
+      "word": "potere",
+      "ja": "能力・許可・時間・状況などによって行為が可能である",
+      "it": "avere la possibilità di agire per capacità, permesso o circostanze"
+    }
+  ],
+
+  "synonyms": [
+    "essere a conoscenza di",
+    "essere informato",
+    "conoscere",
+    "apprendere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "know",
+      "know how to"
+    ],
+    "de": [
+      "wissen",
+      "können"
+    ],
+    "fr": [
+      "savoir",
+      "savoir faire"
+    ],
+    "es": [
+      "saber",
+      "saber hacer"
+    ]
+  },
+
+  "collocations": [
+    "sapere qualcosa",
+    "sapere tutto",
+    "non sapere nulla",
+    "sapere che",
+    "sapere chi",
+    "sapere dove",
+    "sapere quando",
+    "sapere come",
+    "sapere perché",
+    "sapere fare qualcosa",
+    "sapere parlare italiano",
+    "sapere a memoria",
+    "sapere per certo",
+    "far sapere",
+    "voler sapere",
+    "venire a sapere",
+    "che io sappia",
+    "a quanto ne so",
+    "non saperne nulla",
+    "sapere di",
+    "saperne di più"
+  ],
+
+  "examples": [
+    {
+      "it": "Sai dove si trova la stazione?",
+      "ja": "駅がどこにあるか知っていますか。"
+    },
+    {
+      "it": "So che domani l’ufficio sarà chiuso.",
+      "ja": "明日は事務所が閉まっていることを知っている。"
+    },
+    {
+      "it": "Sai parlare italiano molto bene.",
+      "ja": "あなたはイタリア語をとても上手に話せる。"
+    },
+    {
+      "it": "Non sapevo che fosse già arrivato.",
+      "ja": "彼がすでに到着していたとは知らなかった。"
+    },
+    {
+      "it": "Ho saputo la notizia questa mattina.",
+      "ja": "私は今朝その知らせを知った。"
+    },
+    {
+      "it": "Questa salsa sa di aglio.",
+      "ja": "このソースはニンニクの味がする。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "so",
+        "sai",
+        "sa",
+        "sappiamo",
+        "sapete",
+        "sanno"
+      ],
+
+      "Imperfetto": [
+        "sapevo",
+        "sapevi",
+        "sapeva",
+        "sapevamo",
+        "sapevate",
+        "sapevano"
+      ],
+
+      "Passato prossimo": [
+        "ho saputo",
+        "hai saputo",
+        "ha saputo",
+        "abbiamo saputo",
+        "avete saputo",
+        "hanno saputo"
+      ],
+
+      "Passato remoto": [
+        "seppi",
+        "sapesti",
+        "seppe",
+        "sapemmo",
+        "sapeste",
+        "seppero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo saputo",
+        "avevi saputo",
+        "aveva saputo",
+        "avevamo saputo",
+        "avevate saputo",
+        "avevano saputo"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi saputo",
+        "avesti saputo",
+        "ebbe saputo",
+        "avemmo saputo",
+        "aveste saputo",
+        "ebbero saputo"
+      ],
+
+      "Futuro semplice": [
+        "saprò",
+        "saprai",
+        "saprà",
+        "sapremo",
+        "saprete",
+        "sapranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò saputo",
+        "avrai saputo",
+        "avrà saputo",
+        "avremo saputo",
+        "avrete saputo",
+        "avranno saputo"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "sappia",
+        "sappia",
+        "sappia",
+        "sappiamo",
+        "sappiate",
+        "sappiano"
+      ],
+
+      "Imperfetto": [
+        "sapessi",
+        "sapessi",
+        "sapesse",
+        "sapessimo",
+        "sapeste",
+        "sapessero"
+      ],
+
+      "Passato": [
+        "abbia saputo",
+        "abbia saputo",
+        "abbia saputo",
+        "abbiamo saputo",
+        "abbiate saputo",
+        "abbiano saputo"
+      ],
+
+      "Trapassato": [
+        "avessi saputo",
+        "avessi saputo",
+        "avesse saputo",
+        "avessimo saputo",
+        "aveste saputo",
+        "avessero saputo"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "saprei",
+        "sapresti",
+        "saprebbe",
+        "sapremmo",
+        "sapreste",
+        "saprebbero"
+      ],
+
+      "Passato": [
+        "avrei saputo",
+        "avresti saputo",
+        "avrebbe saputo",
+        "avremmo saputo",
+        "avreste saputo",
+        "avrebbero saputo"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "sappi",
+        "sappia",
+        "sappiamo",
+        "sappiate",
+        "sappiano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "sapere",
+        "avere saputo",
+        "sapiente (oggi aggettivo)",
+        "saputo",
+        "sapendo",
+        "avendo saputo"
+      ]
+    }
+  }
+},
+{
+  "id": "conoscere",
+  "sid": "2026-00013",
+  "word": "conoscere",
+  "ipa": "/koˈnoʃʃere/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "conosciuto",
+    "gerundPresent": "conoscendo",
+    "pattern": "conoscere + persona / luogo / lingua / opera / argomento"
+  },
+
+  "usage": {
+    "register": ["neutral"],
+    "medium": ["spoken", "written"],
+    "situations": [
+      "conversation",
+      "business",
+      "academic"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人を知っている、面識がある",
+      "場所・作品・言語・分野などを知っている",
+      "経験を通じて理解している、熟知している",
+      "人と知り合う、初めて会う",
+      "ある状態・時代・現象を経験する"
+    ],
+    "it": [
+      "Avere familiarità o rapporti con una persona.",
+      "Avere esperienza diretta o conoscenza di un luogo, una lingua, un’opera o un argomento.",
+      "Comprendere qualcosa attraverso lo studio o l’esperienza.",
+      "Incontrare qualcuno e fare la sua conoscenza.",
+      "Sperimentare una determinata condizione o fase."
+    ]
+  },
+
+  "nuance": {
+    "ja": "人・場所・作品・言語・学問分野などを、接触・経験・学習を通じて知っていることを表す。事実・答え・方法を知っている場合は通常sapereを用いる。完了過去のho conosciutoは、文脈によって「知っていた」ではなく「知り合った、初めて会った」という出来事を表す。",
+    "it": "Indica familiarità o conoscenza diretta acquisita attraverso contatto, esperienza o studio. Per fatti, informazioni, risposte e procedimenti si usa normalmente sapere. Al passato prossimo, ho conosciuto significa spesso «ho incontrato per la prima volta» o «ho fatto conoscenza»."
+  },
+
+  "etymology": {
+    "ja": "ラテン語cognōscere（知る、認識する）に由来する。これは接頭辞co(n)-と、知ることを表す語根gnō-から成る。同じ語根はイタリア語riconoscere、英語cognition、recognizeなどにも見られる。",
+    "it": "Dal latino cognōscere, formato dal prefisso co(n)- e dalla radice gnō-, legata all’idea del conoscere. La stessa radice compare in riconoscere, cognizione e conoscenza."
+  },
+
+  "minimal": [
+    {
+      "word": "conoscere",
+      "ja": "人・場所・作品・言語・分野などを経験的に知っている",
+      "it": "avere familiarità o esperienza diretta di persone, luoghi, opere o argomenti"
+    },
+    {
+      "word": "sapere",
+      "ja": "事実・情報・答え・方法を知っている",
+      "it": "essere a conoscenza di fatti, informazioni, risposte o procedimenti"
+    },
+    {
+      "word": "riconoscere",
+      "ja": "以前の知識や記憶に基づいて、何者・何物であるか分かる",
+      "it": "identificare qualcuno o qualcosa sulla base di una conoscenza precedente"
+    }
+  ],
+
+  "synonyms": [
+    "essere a conoscenza di",
+    "avere familiarità con",
+    "frequentare",
+    "comprendere",
+    "incontrare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "know",
+      "be acquainted with"
+    ],
+    "de": [
+      "kennen",
+      "kennenlernen"
+    ],
+    "fr": [
+      "connaître",
+      "faire connaissance avec"
+    ],
+    "es": [
+      "conocer",
+      "estar familiarizado con"
+    ]
+  },
+
+  "collocations": [
+    "conoscere qualcuno",
+    "conoscere una persona",
+    "conoscere di persona",
+    "conoscere bene",
+    "conoscere poco",
+    "conoscere da tempo",
+    "conoscere a fondo",
+    "conoscere una città",
+    "conoscere un paese",
+    "conoscere una lingua",
+    "conoscere la legge",
+    "conoscere un argomento",
+    "conoscere la verità",
+    "conoscere il mondo",
+    "conoscere i propri limiti",
+    "farsi conoscere",
+    "dare a conoscere",
+    "imparare a conoscere"
+  ],
+
+  "examples": [
+    {
+      "it": "Conosci questa persona?",
+      "ja": "この人を知っていますか。"
+    },
+    {
+      "it": "Conosco abbastanza bene Roma.",
+      "ja": "私はローマをかなりよく知っている。"
+    },
+    {
+      "it": "Lei conosce molto bene il diritto italiano.",
+      "ja": "彼女はイタリア法を非常によく知っている。"
+    },
+    {
+      "it": "Ho conosciuto mia moglie molti anni fa.",
+      "ja": "私は何年も前に妻と知り合った。"
+    },
+    {
+      "it": "Vorrei conoscere meglio la cultura italiana.",
+      "ja": "イタリア文化をもっとよく知りたい。"
+    },
+    {
+      "it": "L’azienda ha conosciuto un periodo di rapida crescita.",
+      "ja": "その会社は急速な成長期を経験した。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "conosco",
+        "conosci",
+        "conosce",
+        "conosciamo",
+        "conoscete",
+        "conoscono"
+      ],
+
+      "Imperfetto": [
+        "conoscevo",
+        "conoscevi",
+        "conosceva",
+        "conoscevamo",
+        "conoscevate",
+        "conoscevano"
+      ],
+
+      "Passato prossimo": [
+        "ho conosciuto",
+        "hai conosciuto",
+        "ha conosciuto",
+        "abbiamo conosciuto",
+        "avete conosciuto",
+        "hanno conosciuto"
+      ],
+
+      "Passato remoto": [
+        "conobbi",
+        "conoscesti",
+        "conobbe",
+        "conoscemmo",
+        "conosceste",
+        "conobbero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo conosciuto",
+        "avevi conosciuto",
+        "aveva conosciuto",
+        "avevamo conosciuto",
+        "avevate conosciuto",
+        "avevano conosciuto"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi conosciuto",
+        "avesti conosciuto",
+        "ebbe conosciuto",
+        "avemmo conosciuto",
+        "aveste conosciuto",
+        "ebbero conosciuto"
+      ],
+
+      "Futuro semplice": [
+        "conoscerò",
+        "conoscerai",
+        "conoscerà",
+        "conosceremo",
+        "conoscerete",
+        "conosceranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò conosciuto",
+        "avrai conosciuto",
+        "avrà conosciuto",
+        "avremo conosciuto",
+        "avrete conosciuto",
+        "avranno conosciuto"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "conosca",
+        "conosca",
+        "conosca",
+        "conosciamo",
+        "conosciate",
+        "conoscano"
+      ],
+
+      "Imperfetto": [
+        "conoscessi",
+        "conoscessi",
+        "conoscesse",
+        "conoscessimo",
+        "conosceste",
+        "conoscessero"
+      ],
+
+      "Passato": [
+        "abbia conosciuto",
+        "abbia conosciuto",
+        "abbia conosciuto",
+        "abbiamo conosciuto",
+        "abbiate conosciuto",
+        "abbiano conosciuto"
+      ],
+
+      "Trapassato": [
+        "avessi conosciuto",
+        "avessi conosciuto",
+        "avesse conosciuto",
+        "avessimo conosciuto",
+        "aveste conosciuto",
+        "avessero conosciuto"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "conoscerei",
+        "conosceresti",
+        "conoscerebbe",
+        "conosceremmo",
+        "conoscereste",
+        "conoscerebbero"
+      ],
+
+      "Passato": [
+        "avrei conosciuto",
+        "avresti conosciuto",
+        "avrebbe conosciuto",
+        "avremmo conosciuto",
+        "avreste conosciuto",
+        "avrebbero conosciuto"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "conosci",
+        "conosca",
+        "conosciamo",
+        "conoscete",
+        "conoscano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "conoscere",
+        "avere conosciuto",
+        "conoscente",
+        "conosciuto",
+        "conoscendo",
+        "avendo conosciuto"
+      ]
+    }
+  }
+},
+{
+  "id": "piacere",
+  "sid": "2026-00014",
+  "word": "piacere",
+  "ipa": "/pjaˈtʃere/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・間接目的語を取る動詞",
+      "it": "verbo intransitivo con complemento di termine"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "piaciuto",
+    "gerundPresent": "piacendo",
+    "pattern": "piacere a qualcuno / mi piace + singolare o infinito / mi piacciono + plurale"
+  },
+
+  "usage": {
+    "register": ["neutral"],
+    "medium": ["spoken", "written"],
+    "situations": [
+      "conversation",
+      "business"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人に好まれる、気に入られる",
+      "人に喜び・好感を与える",
+      "～することが好きである",
+      "丁寧な希望・願望を表す"
+    ],
+    "it": [
+      "Risultare gradevole o attraente a qualcuno.",
+      "Procurare piacere, soddisfazione o interesse.",
+      "Con l’infinito, indicare che qualcuno gradisce compiere un’azione.",
+      "Al condizionale, esprimere cortesemente un desiderio."
+    ]
+  },
+
+  "nuance": {
+    "ja": "日本語の「好きだ」や英語のlikeとは構文の向きが異なり、好まれる物・人・行為が文法上の主語、好む人が間接目的語になる。単数名詞または不定詞にはpiace、複数名詞にはpiaccionoを用いる。過去形ではessereを使い、過去分詞は好まれた対象の性・数に一致する。",
+    "it": "La persona che prova il gradimento è espressa da un complemento di termine, mentre la cosa, la persona o l’azione gradita è il soggetto grammaticale. Si usa piace con un soggetto singolare o un infinito e piacciono con un soggetto plurale. Nei tempi composti il participio concorda con il soggetto."
+  },
+
+  "etymology": {
+    "ja": "ラテン語placēre（喜ばせる、気に入られる）に由来する。同じ語源からイタリア語piacereという名詞、フランス語plaire、英語please、pleasure、pleasantなどが生じた。",
+    "it": "Dal latino placēre, «essere gradito, soddisfare». Dalla stessa radice derivano il sostantivo piacere, il francese plaire e parole inglesi come please e pleasure."
+  },
+
+  "minimal": [
+    {
+      "word": "piacere",
+      "ja": "物・人・行為が好みに合い、好感を与える",
+      "it": "risultare gradevole o attraente a qualcuno"
+    },
+    {
+      "word": "amare",
+      "ja": "人や物に強い愛情・情熱を抱く",
+      "it": "provare un sentimento intenso di amore o una forte passione"
+    },
+    {
+      "word": "volere",
+      "ja": "何かを欲する、または行為をする意志を持つ",
+      "it": "desiderare qualcosa o avere intenzione di agire"
+    }
+  ],
+
+  "synonyms": [
+    "essere gradito",
+    "attrarre",
+    "interessare",
+    "soddisfare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "like",
+      "be pleasing to"
+    ],
+    "de": [
+      "gefallen",
+      "mögen"
+    ],
+    "fr": [
+      "plaire",
+      "aimer"
+    ],
+    "es": [
+      "gustar",
+      "agradar"
+    ]
+  },
+
+  "collocations": [
+    "piacere a qualcuno",
+    "mi piace",
+    "mi piacciono",
+    "mi piace molto",
+    "mi piace da morire",
+    "non mi piace affatto",
+    "mi piace fare qualcosa",
+    "mi piacerebbe",
+    "ti piacerebbe",
+    "essere piaciuto a qualcuno",
+    "fare piacere",
+    "far molto piacere",
+    "avere il piacere di",
+    "con piacere",
+    "per piacere",
+    "piacere di conoscerti",
+    "il piacere è mio"
+  ],
+
+  "examples": [
+    {
+      "it": "Mi piace la cucina italiana.",
+      "ja": "私はイタリア料理が好きだ。"
+    },
+    {
+      "it": "Mi piacciono molto questi libri.",
+      "ja": "私はこれらの本がとても好きだ。"
+    },
+    {
+      "it": "A mia moglie piace viaggiare.",
+      "ja": "私の妻は旅行することが好きだ。"
+    },
+    {
+      "it": "Ti è piaciuto il film?",
+      "ja": "その映画は気に入りましたか。"
+    },
+    {
+      "it": "Mi sono piaciute tutte le proposte.",
+      "ja": "私はすべての提案が気に入った。"
+    },
+    {
+      "it": "Mi piacerebbe visitare Firenze.",
+      "ja": "フィレンツェを訪れてみたい。"
+    },
+    {
+      "it": "Mi ha fatto molto piacere conoscerla.",
+      "ja": "あなたにお会いできて大変うれしかったです。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "piaccio",
+        "piaci",
+        "piace",
+        "piacciamo",
+        "piacete",
+        "piacciono"
+      ],
+
+      "Imperfetto": [
+        "piacevo",
+        "piacevi",
+        "piaceva",
+        "piacevamo",
+        "piacevate",
+        "piacevano"
+      ],
+
+      "Passato prossimo": [
+        "sono piaciuto/a",
+        "sei piaciuto/a",
+        "è piaciuto/a",
+        "siamo piaciuti/e",
+        "siete piaciuti/e",
+        "sono piaciuti/e"
+      ],
+
+      "Passato remoto": [
+        "piacqui",
+        "piacesti",
+        "piacque",
+        "piacemmo",
+        "piaceste",
+        "piacquero"
+      ],
+
+      "Trapassato prossimo": [
+        "ero piaciuto/a",
+        "eri piaciuto/a",
+        "era piaciuto/a",
+        "eravamo piaciuti/e",
+        "eravate piaciuti/e",
+        "erano piaciuti/e"
+      ],
+
+      "Trapassato remoto": [
+        "fui piaciuto/a",
+        "fosti piaciuto/a",
+        "fu piaciuto/a",
+        "fummo piaciuti/e",
+        "foste piaciuti/e",
+        "furono piaciuti/e"
+      ],
+
+      "Futuro semplice": [
+        "piacerò",
+        "piacerai",
+        "piacerà",
+        "piaceremo",
+        "piacerete",
+        "piaceranno"
+      ],
+
+      "Futuro anteriore": [
+        "sarò piaciuto/a",
+        "sarai piaciuto/a",
+        "sarà piaciuto/a",
+        "saremo piaciuti/e",
+        "sarete piaciuti/e",
+        "saranno piaciuti/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "piaccia",
+        "piaccia",
+        "piaccia",
+        "piacciamo",
+        "piacciate",
+        "piacciano"
+      ],
+
+      "Imperfetto": [
+        "piacessi",
+        "piacessi",
+        "piacesse",
+        "piacessimo",
+        "piaceste",
+        "piacessero"
+      ],
+
+      "Passato": [
+        "sia piaciuto/a",
+        "sia piaciuto/a",
+        "sia piaciuto/a",
+        "siamo piaciuti/e",
+        "siate piaciuti/e",
+        "siano piaciuti/e"
+      ],
+
+      "Trapassato": [
+        "fossi piaciuto/a",
+        "fossi piaciuto/a",
+        "fosse piaciuto/a",
+        "fossimo piaciuti/e",
+        "foste piaciuti/e",
+        "fossero piaciuti/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "piacerei",
+        "piaceresti",
+        "piacerebbe",
+        "piaceremmo",
+        "piacereste",
+        "piacerebbero"
+      ],
+
+      "Passato": [
+        "sarei piaciuto/a",
+        "saresti piaciuto/a",
+        "sarebbe piaciuto/a",
+        "saremmo piaciuti/e",
+        "sareste piaciuti/e",
+        "sarebbero piaciuti/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "piaci (raro)",
+        "piaccia",
+        "piacciamo",
+        "piacete",
+        "piacciano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "piacere",
+        "essere piaciuto/a/i/e",
+        "piacente (raro)",
+        "piaciuto",
+        "piacendo",
+        "essendo piaciuto/a/i/e"
+      ]
+    }
+  }
 }
 ]
