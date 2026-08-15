@@ -60,10 +60,11 @@
       "notare",
       "avvedersi"
     ],
-
     "equivalents": {
-      "en": ["notice", "realize"],
-      "de": ["bemerken", "merken"]
+    "en": ["notice", "realize"],
+    "de": ["bemerken", "merken"],
+    "fr": ["s’apercevoir", "se rendre compte"],
+    "es": ["darse cuenta", "percatarse"]
     },
 
     "collocations": [
@@ -300,10 +301,11 @@
       "punto di svolta",
       "virata"
     ],
-
     "equivalents": {
-      "en": ["turning point", "turn"],
-      "de": ["Wendepunkt", "Wende"]
+     "en": ["turning point", "turn"],
+    "de": ["Wendepunkt", "Wende"],
+    "fr": ["tournant", "virage"],
+    "es": ["punto de inflexión", "giro"]
     },
 
     "collocations": [
