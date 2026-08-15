@@ -1609,7 +1609,7 @@
     "fare una scelta",
     "fare shopping",
     "fare la spesa",
-    "fare spese"
+    "fare spese",
     "fare attenzione",
     "fare un errore",
     "fare un tentativo",
@@ -3952,6 +3952,308 @@
         "piaciuto",
         "piacendo",
         "essendo piaciuto/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "mancare",
+  "sid": "2026-00015",
+  "word": "mancare",
+  "ipa": "/maŋˈkare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "mancato",
+    "gerundPresent": "mancando",
+    "pattern": "mancare a qualcuno / mancare di qualcosa / mancare a un impegno"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "いなくて寂しく思われる、恋しく思われる",
+      "不足している、欠けている",
+      "欠席する、約束や義務を果たさない",
+      "残りがある、あと～だけ必要である",
+      "的や目標を外す"
+    ],
+    "it": [
+      "Essere assente e suscitare nostalgia in qualcuno.",
+      "Essere insufficiente o non essere presente.",
+      "Non partecipare a un appuntamento o non adempiere un obbligo.",
+      "Essere ancora necessario per completare qualcosa.",
+      "Non raggiungere un bersaglio o un obiettivo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "mi manchi型では、いなくて寂しく思われる人や物が文法上の主語となり、その不在を感じる人は間接目的語で表される。そのため、単数の対象にはmanca、複数の対象にはmancanoを用いる。自動詞用法の複合時制ではessereを使うが、mancare il bersaglioのように直接目的語を取る他動詞用法ではavereを使う。",
+    "it": "Nella costruzione mi manchi, la persona o la cosa assente è il soggetto grammaticale, mentre chi ne sente la mancanza è espresso da un complemento di termine. Negli usi intransitivi si usa essere; negli usi transitivi, come mancare il bersaglio, si usa avere."
+  },
+
+  "etymology": {
+    "ja": "俗ラテン語mancareに由来し、その基礎にはラテン語mancus（欠けた、不完全な、弱い）がある。もともとの「欠けている」という意味から、不足・不在・失敗などの意味が発達した。",
+    "it": "Dal latino volgare mancare, collegato al latino mancus, che significava incompleto, mutilo o debole."
+  },
+
+  "minimal": [
+    {
+      "word": "mancare",
+      "ja": "必要な人や物が不在または不足している",
+      "it": "indicare l'assenza o l'insufficienza di qualcuno o qualcosa"
+    },
+    {
+      "word": "perdere",
+      "ja": "持っていた物を失う、乗り物や機会を逃す",
+      "it": "non avere più qualcosa o non riuscire a cogliere un'occasione"
+    },
+    {
+      "word": "dimenticare",
+      "ja": "記憶していたことを忘れる、物を置き忘れる",
+      "it": "non ricordare qualcosa o lasciare involontariamente una cosa"
+    }
+  ],
+
+  "synonyms": [
+    "essere assente",
+    "essere insufficiente",
+    "difettare di",
+    "essere privo di"
+  ],
+
+  "equivalents": {
+    "en": [
+      "miss",
+      "lack",
+      "be missing"
+    ],
+    "de": [
+      "fehlen",
+      "vermissen"
+    ],
+    "fr": [
+      "manquer",
+      "être absent"
+    ],
+    "es": [
+      "faltar",
+      "echar de menos"
+    ]
+  },
+
+  "collocations": [
+    "mancare a qualcuno",
+    "mi manchi",
+    "mi manca qualcosa",
+    "mancare di qualcosa",
+    "mancare di esperienza",
+    "mancare di rispetto",
+    "mancare di coraggio",
+    "mancare all'appuntamento",
+    "mancare alla riunione",
+    "mancare al proprio dovere",
+    "mancare il bersaglio",
+    "mancare l'obiettivo",
+    "mancare per poco",
+    "mancare poco a",
+    "mancare da casa",
+    "non far mancare nulla",
+    "venire a mancare"
+  ],
+
+  "examples": [
+    {
+      "it": "Mi manchi molto.",
+      "ja": "あなたがいなくてとても寂しい。"
+    },
+    {
+      "it": "Mi manca l'Italia.",
+      "ja": "イタリアが恋しい。"
+    },
+    {
+      "it": "Mi mancano i miei amici.",
+      "ja": "友人たちがいなくて寂しい。"
+    },
+    {
+      "it": "Mancano due giorni alla partenza.",
+      "ja": "出発まであと2日だ。"
+    },
+    {
+      "it": "Il progetto manca di chiarezza.",
+      "ja": "その計画には明確さが欠けている。"
+    },
+    {
+      "it": "È mancato alla riunione senza avvisare.",
+      "ja": "彼は連絡せずに会議を欠席した。"
+    },
+    {
+      "it": "Il giocatore ha mancato il bersaglio.",
+      "ja": "その選手は標的を外した。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "manco",
+        "manchi",
+        "manca",
+        "manchiamo",
+        "mancate",
+        "mancano"
+      ],
+      "Imperfetto": [
+        "mancavo",
+        "mancavi",
+        "mancava",
+        "mancavamo",
+        "mancavate",
+        "mancavano"
+      ],
+      "Passato prossimo": [
+        "sono mancato/a",
+        "sei mancato/a",
+        "è mancato/a",
+        "siamo mancati/e",
+        "siete mancati/e",
+        "sono mancati/e"
+      ],
+      "Passato remoto": [
+        "mancai",
+        "mancasti",
+        "mancò",
+        "mancammo",
+        "mancaste",
+        "mancarono"
+      ],
+      "Trapassato prossimo": [
+        "ero mancato/a",
+        "eri mancato/a",
+        "era mancato/a",
+        "eravamo mancati/e",
+        "eravate mancati/e",
+        "erano mancati/e"
+      ],
+      "Trapassato remoto": [
+        "fui mancato/a",
+        "fosti mancato/a",
+        "fu mancato/a",
+        "fummo mancati/e",
+        "foste mancati/e",
+        "furono mancati/e"
+      ],
+      "Futuro semplice": [
+        "mancherò",
+        "mancherai",
+        "mancherà",
+        "mancheremo",
+        "mancherete",
+        "mancheranno"
+      ],
+      "Futuro anteriore": [
+        "sarò mancato/a",
+        "sarai mancato/a",
+        "sarà mancato/a",
+        "saremo mancati/e",
+        "sarete mancati/e",
+        "saranno mancati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "manchi",
+        "manchi",
+        "manchi",
+        "manchiamo",
+        "manchiate",
+        "manchino"
+      ],
+      "Imperfetto": [
+        "mancassi",
+        "mancassi",
+        "mancasse",
+        "mancassimo",
+        "mancaste",
+        "mancassero"
+      ],
+      "Passato": [
+        "sia mancato/a",
+        "sia mancato/a",
+        "sia mancato/a",
+        "siamo mancati/e",
+        "siate mancati/e",
+        "siano mancati/e"
+      ],
+      "Trapassato": [
+        "fossi mancato/a",
+        "fossi mancato/a",
+        "fosse mancato/a",
+        "fossimo mancati/e",
+        "foste mancati/e",
+        "fossero mancati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mancherei",
+        "mancheresti",
+        "mancherebbe",
+        "mancheremmo",
+        "manchereste",
+        "mancherebbero"
+      ],
+      "Passato": [
+        "sarei mancato/a",
+        "saresti mancato/a",
+        "sarebbe mancato/a",
+        "saremmo mancati/e",
+        "sareste mancati/e",
+        "sarebbero mancati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "manca",
+        "manchi",
+        "manchiamo",
+        "mancate",
+        "manchino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "mancare",
+        "essere mancato/a/i/e",
+        "mancante",
+        "mancato",
+        "mancando",
+        "essendo mancato/a/i/e"
       ]
     }
   }
