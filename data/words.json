@@ -16796,5 +16796,585 @@
       ]
     }
   }
+},
+{
+  "id": "vendere",
+  "sid": "2026-00059",
+  "word": "vendere",
+  "ipa": "/ˈvendere/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・代名動詞の基礎となる動詞",
+      "it": "verbo transitivo e base di usi pronominali"
+    },
+    "auxiliary": "avere; essere nella forma pronominale vendersi",
+    "pastParticiple": "venduto",
+    "gerundPresent": "vendendo",
+    "pattern": "vendere + cosa / vendere qualcosa a + persona / vendere qualcosa per + prezzo"
+  },
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "shopping",
+      "business",
+      "legal"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "売る、販売する",
+      "金銭と引き換えに所有物を譲る",
+      "商品・サービスを取り扱う",
+      "権利・会社・不動産などを譲渡する",
+      "人・秘密・信念などを裏切って売り渡す",
+      "代名形で、商品が売れる"
+    ],
+    "it": [
+      "Cedere un bene o un servizio in cambio di denaro.",
+      "Commerciare o offrire prodotti al pubblico.",
+      "Trasferire la proprietà di un immobile, un'azienda o un diritto.",
+      "Tradire una persona, un segreto o un ideale in cambio di un vantaggio.",
+      "Nella forma vendersi, essere acquistato o compromettersi per interesse."
+    ]
+  },
+  "nuance": {
+    "ja": "商品・所有物・権利などを代金と引き換えに相手へ譲ることを表し、comprareと対になる。買い手はa、価格はperで示す。si vendeやvendersiは商品が「売られている・売れる」ことを表すほか、人については否定的な「金や利益のために自分を売る」という意味にもなる。",
+    "it": "Indica il trasferimento di un bene, un servizio o un diritto in cambio di denaro ed è l'opposto di comprare. Il compratore è introdotto normalmente da a e il prezzo da per. Si vende e vendersi possono indicare che un prodotto trova acquirenti; riferiti a una persona possono assumere un valore negativo."
+  },
+  "etymology": {
+    "ja": "ラテン語vendereに由来する。この語はvenum（販売、売り物）とdare（与える）から成立し、文字どおりには「売り物として与える」を意味した。同じ語根はイタリア語vendita、venditore、フランス語vendre、スペイン語venderなどにも見られる。",
+    "it": "Dal latino vendere, formato storicamente da venum, «vendita o merce», e dare, «dare». Il significato letterale era quindi quello di dare qualcosa in vendita. Alla stessa famiglia appartengono vendita e venditore."
+  },
+  "minimal": [
+    {
+      "word": "vendere",
+      "ja": "商品・サービス・権利などを代金と引き換えに譲る",
+      "it": "cedere un bene, un servizio o un diritto in cambio di denaro"
+    },
+    {
+      "word": "cedere",
+      "ja": "所有物・権利・地位などを他者に譲り渡す",
+      "it": "trasferire ad altri un bene, un diritto o una posizione"
+    },
+    {
+      "word": "commerciare",
+      "ja": "継続的な事業として商品を売買する",
+      "it": "comprare e vendere merci come attività economica"
+    }
+  ],
+  "synonyms": [
+    "commerciare",
+    "cedere",
+    "distribuire",
+    "alienare",
+    "piazzare"
+  ],
+  "equivalents": {
+    "en": [
+      "sell",
+      "market"
+    ],
+    "de": [
+      "verkaufen",
+      "veräußern"
+    ],
+    "fr": [
+      "vendre",
+      "commercialiser"
+    ],
+    "es": [
+      "vender",
+      "comercializar"
+    ]
+  },
+  "collocations": [
+    "vendere qualcosa",
+    "vendere un prodotto",
+    "vendere una casa",
+    "vendere una macchina",
+    "vendere un terreno",
+    "vendere un'azienda",
+    "vendere un servizio",
+    "vendere online",
+    "vendere al dettaglio",
+    "vendere all'ingrosso",
+    "vendere a buon prezzo",
+    "vendere a basso prezzo",
+    "vendere qualcosa a qualcuno",
+    "vendere qualcosa per cento euro",
+    "comprare e vendere",
+    "mettere in vendita",
+    "riuscire a vendere",
+    "vendere bene",
+    "vendere rapidamente",
+    "vendere come il pane",
+    "vendere l'anima al diavolo"
+  ],
+  "examples": [
+    {
+      "it": "Questo negozio vende prodotti italiani.",
+      "ja": "この店はイタリア製品を販売している。"
+    },
+    {
+      "it": "Ho venduto la mia vecchia macchina.",
+      "ja": "私は古い車を売った。"
+    },
+    {
+      "it": "Vorrebbero vendere la casa per trecentomila euro.",
+      "ja": "彼らはその家を30万ユーロで売りたいと考えている。"
+    },
+    {
+      "it": "A chi hai venduto il computer?",
+      "ja": "そのコンピューターを誰に売りましたか。"
+    },
+    {
+      "it": "I biglietti si vendono anche online.",
+      "ja": "切符はオンラインでも販売されている。"
+    },
+    {
+      "it": "Il nuovo prodotto ha venduto molto bene.",
+      "ja": "その新商品は非常によく売れた。"
+    }
+  ],
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "vendo",
+        "vendi",
+        "vende",
+        "vendiamo",
+        "vendete",
+        "vendono"
+      ],
+      "Imperfetto": [
+        "vendevo",
+        "vendevi",
+        "vendeva",
+        "vendevamo",
+        "vendevate",
+        "vendevano"
+      ],
+      "Passato prossimo": [
+        "ho venduto",
+        "hai venduto",
+        "ha venduto",
+        "abbiamo venduto",
+        "avete venduto",
+        "hanno venduto"
+      ],
+      "Passato remoto": [
+        "vendetti",
+        "vendesti",
+        "vendette",
+        "vendemmo",
+        "vendeste",
+        "vendettero"
+      ],
+      "Trapassato prossimo": [
+        "avevo venduto",
+        "avevi venduto",
+        "aveva venduto",
+        "avevamo venduto",
+        "avevate venduto",
+        "avevano venduto"
+      ],
+      "Trapassato remoto": [
+        "ebbi venduto",
+        "avesti venduto",
+        "ebbe venduto",
+        "avemmo venduto",
+        "aveste venduto",
+        "ebbero venduto"
+      ],
+      "Futuro semplice": [
+        "venderò",
+        "venderai",
+        "venderà",
+        "venderemo",
+        "venderete",
+        "venderanno"
+      ],
+      "Futuro anteriore": [
+        "avrò venduto",
+        "avrai venduto",
+        "avrà venduto",
+        "avremo venduto",
+        "avrete venduto",
+        "avranno venduto"
+      ]
+    },
+    "Congiuntivo": {
+      "Presente": [
+        "venda",
+        "venda",
+        "venda",
+        "vendiamo",
+        "vendiate",
+        "vendano"
+      ],
+      "Imperfetto": [
+        "vendessi",
+        "vendessi",
+        "vendesse",
+        "vendessimo",
+        "vendeste",
+        "vendessero"
+      ],
+      "Passato": [
+        "abbia venduto",
+        "abbia venduto",
+        "abbia venduto",
+        "abbiamo venduto",
+        "abbiate venduto",
+        "abbiano venduto"
+      ],
+      "Trapassato": [
+        "avessi venduto",
+        "avessi venduto",
+        "avesse venduto",
+        "avessimo venduto",
+        "aveste venduto",
+        "avessero venduto"
+      ]
+    },
+    "Condizionale": {
+      "Presente": [
+        "venderei",
+        "venderesti",
+        "venderebbe",
+        "venderemmo",
+        "vendereste",
+        "venderebbero"
+      ],
+      "Passato": [
+        "avrei venduto",
+        "avresti venduto",
+        "avrebbe venduto",
+        "avremmo venduto",
+        "avreste venduto",
+        "avrebbero venduto"
+      ]
+    },
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "vendi",
+        "venda",
+        "vendiamo",
+        "vendete",
+        "vendano"
+      ]
+    },
+    "Forme indefinite": {
+      "Forme": [
+        "vendere",
+        "avere venduto",
+        "vendente",
+        "venduto",
+        "vendendo",
+        "avendo venduto"
+      ]
+    }
+  }
+},
+{
+  "id": "sedere",
+  "sid": "2026-00060",
+  "word": "sedere",
+  "ipa": "/seˈdere/",
+  "level": "A2",
+  "frequency": "common",
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞",
+      "it": "verbo intransitivo"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "seduto",
+    "gerundPresent": "sedendo",
+    "pattern": "sedere su, a, in + luogo / sedere accanto a qualcuno / sedere in un organo o assemblea"
+  },
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "institutional",
+      "literary"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "座っている、腰掛けている",
+      "席・椅子などに着いている",
+      "議会・委員会などの構成員を務める",
+      "ある地位・座に就いている",
+      "建物・都市などが位置する"
+    ],
+    "it": [
+      "Stare appoggiati con il corpo su una sedia, un sedile o un'altra superficie.",
+      "Occupare un determinato posto a tavola, in una sala o in un mezzo.",
+      "Fare parte di un parlamento, un consiglio, un comitato o un altro organo.",
+      "Occupare una carica, un seggio o una posizione.",
+      "In uso letterario, essere situato o avere sede in un luogo."
+    ]
+  },
+  "nuance": {
+    "ja": "現代語では、座った状態にはessere sedutoまたはstare seduto、座る動作にはsedersiが特に一般的である。単純形のsedereは、文章語や「議会・委員会に席を持つ」といった制度的文脈でもよく使われる。現在形にはsiedoのほか、文語的なseggoもある。",
+    "it": "Nell'italiano contemporaneo, essere seduto o stare seduto sono molto comuni per indicare la posizione, mentre sedersi esprime normalmente l'atto di prendere posto. Sedere ricorre anche in registri formali per indicare la partecipazione a un'assemblea o l'occupazione di una carica. Accanto a siedo esiste la variante più letteraria seggo."
+  },
+  "etymology": {
+    "ja": "ラテン語sedere（座る）に直接由来する。同じ印欧語根はイタリア語sedia、sedile、sede、presiedere、フランス語s'asseoir、スペイン語sentarse、英語sitやseatなどにも見られる。",
+    "it": "Dal latino sedere, «stare seduto». Alla stessa famiglia appartengono sedia, sedile, sede, presiedere e numerose parole collegate all'idea del sedersi o dell'occupare una posizione."
+  },
+  "minimal": [
+    {
+      "word": "sedere",
+      "ja": "座った姿勢・位置にあることを表す",
+      "it": "trovarsi o rimanere in posizione seduta"
+    },
+    {
+      "word": "sedersi",
+      "ja": "立った状態などから腰を下ろして座る",
+      "it": "passare dalla posizione eretta alla posizione seduta"
+    },
+    {
+      "word": "stare seduto",
+      "ja": "座った状態を保っていることを日常的に表す",
+      "it": "rimanere in posizione seduta, in una costruzione molto comune"
+    }
+  ],
+  "synonyms": [
+    "stare seduto",
+    "essere seduto",
+    "occupare un posto",
+    "avere sede",
+    "risiedere"
+  ],
+  "equivalents": {
+    "en": [
+      "sit",
+      "be seated"
+    ],
+    "de": [
+      "sitzen",
+      "einen Sitz haben"
+    ],
+    "fr": [
+      "être assis",
+      "siéger"
+    ],
+    "es": [
+      "estar sentado",
+      "tener un escaño"
+    ]
+  },
+  "collocations": [
+    "sedere su una sedia",
+    "sedere su una panchina",
+    "sedere a tavola",
+    "sedere al tavolo",
+    "sedere in prima fila",
+    "sedere in fondo",
+    "sedere accanto a qualcuno",
+    "sedere di fronte a qualcuno",
+    "sedere comodamente",
+    "sedere in silenzio",
+    "sedere per ore",
+    "sedere in parlamento",
+    "sedere in consiglio",
+    "sedere in commissione",
+    "sedere in tribunale",
+    "sedere sul trono",
+    "sedere alla presidenza",
+    "far sedere qualcuno",
+    "rimanere seduto",
+    "essere seduto"
+  ],
+  "examples": [
+    {
+      "it": "Siedo accanto alla finestra.",
+      "ja": "私は窓のそばに座っている。"
+    },
+    {
+      "it": "Era seduta al tavolo con alcuni colleghi.",
+      "ja": "彼女は同僚数人とテーブルに座っていた。"
+    },
+    {
+      "it": "Il deputato siede in parlamento da dieci anni.",
+      "ja": "その議員は10年間、国会議員を務めている。"
+    },
+    {
+      "it": "Vorrei sedere vicino al corridoio.",
+      "ja": "通路の近くに座りたいのですが。"
+    },
+    {
+      "it": "Fate sedere gli ospiti, per favore.",
+      "ja": "お客さま方を座らせてください。"
+    },
+    {
+      "it": "Quando sono entrato, erano già tutti seduti.",
+      "ja": "私が入ったときには、全員がすでに座っていた。"
+    }
+  ],
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "siedo",
+        "siedi",
+        "siede",
+        "sediamo",
+        "sedete",
+        "siedono"
+      ],
+      "Imperfetto": [
+        "sedevo",
+        "sedevi",
+        "sedeva",
+        "sedevamo",
+        "sedevate",
+        "sedevano"
+      ],
+      "Passato prossimo": [
+        "sono seduto/a",
+        "sei seduto/a",
+        "è seduto/a",
+        "siamo seduti/e",
+        "siete seduti/e",
+        "sono seduti/e"
+      ],
+      "Passato remoto": [
+        "sedetti",
+        "sedesti",
+        "sedette",
+        "sedemmo",
+        "sedeste",
+        "sedettero"
+      ],
+      "Trapassato prossimo": [
+        "ero seduto/a",
+        "eri seduto/a",
+        "era seduto/a",
+        "eravamo seduti/e",
+        "eravate seduti/e",
+        "erano seduti/e"
+      ],
+      "Trapassato remoto": [
+        "fui seduto/a",
+        "fosti seduto/a",
+        "fu seduto/a",
+        "fummo seduti/e",
+        "foste seduti/e",
+        "furono seduti/e"
+      ],
+      "Futuro semplice": [
+        "sederò",
+        "sederai",
+        "sederà",
+        "sederemo",
+        "sederete",
+        "sederanno"
+      ],
+      "Futuro anteriore": [
+        "sarò seduto/a",
+        "sarai seduto/a",
+        "sarà seduto/a",
+        "saremo seduti/e",
+        "sarete seduti/e",
+        "saranno seduti/e"
+      ]
+    },
+    "Congiuntivo": {
+      "Presente": [
+        "sieda",
+        "sieda",
+        "sieda",
+        "sediamo",
+        "sediate",
+        "siedano"
+      ],
+      "Imperfetto": [
+        "sedessi",
+        "sedessi",
+        "sedesse",
+        "sedessimo",
+        "sedeste",
+        "sedessero"
+      ],
+      "Passato": [
+        "sia seduto/a",
+        "sia seduto/a",
+        "sia seduto/a",
+        "siamo seduti/e",
+        "siate seduti/e",
+        "siano seduti/e"
+      ],
+      "Trapassato": [
+        "fossi seduto/a",
+        "fossi seduto/a",
+        "fosse seduto/a",
+        "fossimo seduti/e",
+        "foste seduti/e",
+        "fossero seduti/e"
+      ]
+    },
+    "Condizionale": {
+      "Presente": [
+        "sederei",
+        "sederesti",
+        "sederebbe",
+        "sederemmo",
+        "sedereste",
+        "sederebbero"
+      ],
+      "Passato": [
+        "sarei seduto/a",
+        "saresti seduto/a",
+        "sarebbe seduto/a",
+        "saremmo seduti/e",
+        "sareste seduti/e",
+        "sarebbero seduti/e"
+      ]
+    },
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "siedi",
+        "sieda",
+        "sediamo",
+        "sedete",
+        "siedano"
+      ]
+    },
+    "Forme indefinite": {
+      "Forme": [
+        "sedere",
+        "essere seduto/a/i/e",
+        "sedente",
+        "seduto",
+        "sedendo",
+        "essendo seduto/a/i/e"
+      ]
+    }
+  }
 }
 ]
