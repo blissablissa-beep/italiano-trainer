@@ -1,1 +1,582 @@
-[]
+[
+  {
+    "id": "sedersi",
+    "sid": "2026-00061",
+    "word": "sedersi",
+    "ipa": "/seˈdersi/",
+    "level": "A1",
+    "frequency": "very_common",
+    "grammar": {
+      "pos": "verb",
+      "label": {
+        "ja": "代名動詞",
+        "it": "verbo pronominale"
+      },
+      "auxiliary": "essere",
+      "pastParticiple": "seduto",
+      "gerundPresent": "sedendosi",
+      "pattern": "sedersi su, a, in + luogo / sedersi accanto o di fronte a + persona / sedersi a + infinito"
+    },
+    "usage": {
+      "register": [
+        "neutral"
+      ],
+      "medium": [
+        "spoken",
+        "written"
+      ],
+      "situations": [
+        "conversation",
+        "travel",
+        "business",
+        "social"
+      ]
+    },
+    "meaning": {
+      "ja": [
+        "座る、腰を下ろす",
+        "席に着く",
+        "食卓・机などの前に座る",
+        "話し合い・交渉などの席に着く",
+        "落ち着いて何かに取りかかる"
+      ],
+      "it": [
+        "Passare dalla posizione eretta alla posizione seduta.",
+        "Prendere posto su una sedia, una panchina o un altro sostegno.",
+        "Mettersi a tavola, alla scrivania o davanti a qualcuno.",
+        "Partecipare a un incontro, una discussione o una trattativa.",
+        "Disporsi con calma a svolgere un'attività."
+      ]
+    },
+    "nuance": {
+      "ja": "立っている状態などから腰を下ろす動作を表す。座った状態そのものにはsedere、essere sedutoまたはstare sedutoを用いる。命令形では、親しい相手への「座って」はsiediti、丁寧な「お掛けください」はSi siedaとなる。複合時制ではessereを使い、過去分詞は主語の性・数に一致する。",
+      "it": "Indica il passaggio alla posizione seduta. Per descrivere lo stato si usano sedere, essere seduto o stare seduto. L'imperativo informale è siediti, mentre la forma di cortesia è Si sieda. Nei tempi composti usa essere e il participio concorda con il soggetto."
+    },
+    "etymology": {
+      "ja": "sedereに代名詞siが結びついて成立した。sedereはラテン語sedere（座る）に由来する。同じ語根はイタリア語sedia、sedile、sede、presiedereや、英語sit、seatなどにも見られる。",
+      "it": "È formato da sedere con il pronome si. Sedere deriva dal latino sedere, «stare seduto». Alla stessa famiglia appartengono sedia, sedile, sede e presiedere."
+    },
+    "minimal": [
+      {
+        "word": "sedersi",
+        "ja": "立った状態などから腰を下ろして座る",
+        "it": "passare dalla posizione eretta alla posizione seduta"
+      },
+      {
+        "word": "sedere",
+        "ja": "座った姿勢・位置にある",
+        "it": "trovarsi o rimanere in posizione seduta"
+      },
+      {
+        "word": "accomodarsi",
+        "ja": "楽な姿勢を取る、席に着くことを丁寧に表す",
+        "it": "mettersi comodi o prendere posto, spesso in un invito cortese"
+      }
+    ],
+    "synonyms": [
+      "accomodarsi",
+      "prendere posto",
+      "mettersi a sedere",
+      "assidersi",
+      "piazzarsi"
+    ],
+    "equivalents": {
+      "en": [
+        "sit down",
+        "take a seat"
+      ],
+      "de": [
+        "sich setzen",
+        "Platz nehmen"
+      ],
+      "fr": [
+        "s'asseoir",
+        "prendre place"
+      ],
+      "es": [
+        "sentarse",
+        "tomar asiento"
+      ]
+    },
+    "collocations": [
+      "sedersi su una sedia",
+      "sedersi su una panchina",
+      "sedersi a tavola",
+      "sedersi al tavolo",
+      "sedersi alla scrivania",
+      "sedersi per terra",
+      "sedersi in poltrona",
+      "sedersi sul divano",
+      "sedersi accanto a qualcuno",
+      "sedersi di fronte a qualcuno",
+      "sedersi vicino alla finestra",
+      "sedersi in prima fila",
+      "sedersi comodamente",
+      "sedersi in silenzio",
+      "sedersi a mangiare",
+      "sedersi a parlare",
+      "sedersi a discutere",
+      "sedersi al tavolo delle trattative",
+      "invitare qualcuno a sedersi",
+      "alzarsi e sedersi"
+    ],
+    "examples": [
+      {
+        "it": "Posso sedermi qui?",
+        "ja": "ここに座ってもよいですか。"
+      },
+      {
+        "it": "Si sieda, per favore.",
+        "ja": "どうぞお掛けください。"
+      },
+      {
+        "it": "Mi sono seduto vicino alla finestra.",
+        "ja": "私は窓の近くに座った。"
+      },
+      {
+        "it": "Ci siamo seduti a tavola alle otto.",
+        "ja": "私たちは8時に食卓に着いた。"
+      },
+      {
+        "it": "Sediamoci e parliamo con calma.",
+        "ja": "座って落ち着いて話しましょう。"
+      },
+      {
+        "it": "Le due parti si sono sedute al tavolo delle trattative.",
+        "ja": "双方は交渉の席に着いた。"
+      }
+    ],
+    "conjugations": {
+      "Indicativo": {
+        "Presente": [
+          "mi siedo",
+          "ti siedi",
+          "si siede",
+          "ci sediamo",
+          "vi sedete",
+          "si siedono"
+        ],
+        "Imperfetto": [
+          "mi sedevo",
+          "ti sedevi",
+          "si sedeva",
+          "ci sedevamo",
+          "vi sedevate",
+          "si sedevano"
+        ],
+        "Passato prossimo": [
+          "mi sono seduto/a",
+          "ti sei seduto/a",
+          "si è seduto/a",
+          "ci siamo seduti/e",
+          "vi siete seduti/e",
+          "si sono seduti/e"
+        ],
+        "Passato remoto": [
+          "mi sedetti",
+          "ti sedesti",
+          "si sedette",
+          "ci sedemmo",
+          "vi sedeste",
+          "si sedettero"
+        ],
+        "Trapassato prossimo": [
+          "mi ero seduto/a",
+          "ti eri seduto/a",
+          "si era seduto/a",
+          "ci eravamo seduti/e",
+          "vi eravate seduti/e",
+          "si erano seduti/e"
+        ],
+        "Trapassato remoto": [
+          "mi fui seduto/a",
+          "ti fosti seduto/a",
+          "si fu seduto/a",
+          "ci fummo seduti/e",
+          "vi foste seduti/e",
+          "si furono seduti/e"
+        ],
+        "Futuro semplice": [
+          "mi sederò",
+          "ti sederai",
+          "si sederà",
+          "ci sederemo",
+          "vi sederete",
+          "si sederanno"
+        ],
+        "Futuro anteriore": [
+          "mi sarò seduto/a",
+          "ti sarai seduto/a",
+          "si sarà seduto/a",
+          "ci saremo seduti/e",
+          "vi sarete seduti/e",
+          "si saranno seduti/e"
+        ]
+      },
+      "Congiuntivo": {
+        "Presente": [
+          "mi sieda",
+          "ti sieda",
+          "si sieda",
+          "ci sediamo",
+          "vi sediate",
+          "si siedano"
+        ],
+        "Imperfetto": [
+          "mi sedessi",
+          "ti sedessi",
+          "si sedesse",
+          "ci sedessimo",
+          "vi sedeste",
+          "si sedessero"
+        ],
+        "Passato": [
+          "mi sia seduto/a",
+          "ti sia seduto/a",
+          "si sia seduto/a",
+          "ci siamo seduti/e",
+          "vi siate seduti/e",
+          "si siano seduti/e"
+        ],
+        "Trapassato": [
+          "mi fossi seduto/a",
+          "ti fossi seduto/a",
+          "si fosse seduto/a",
+          "ci fossimo seduti/e",
+          "vi foste seduti/e",
+          "si fossero seduti/e"
+        ]
+      },
+      "Condizionale": {
+        "Presente": [
+          "mi sederei",
+          "ti sederesti",
+          "si sederebbe",
+          "ci sederemmo",
+          "vi sedereste",
+          "si sederebbero"
+        ],
+        "Passato": [
+          "mi sarei seduto/a",
+          "ti saresti seduto/a",
+          "si sarebbe seduto/a",
+          "ci saremmo seduti/e",
+          "vi sareste seduti/e",
+          "si sarebbero seduti/e"
+        ]
+      },
+      "Imperativo": {
+        "Presente": [
+          "—",
+          "siediti",
+          "si sieda",
+          "sediamoci",
+          "sedetevi",
+          "si siedano"
+        ]
+      },
+      "Forme indefinite": {
+        "Forme": [
+          "sedersi",
+          "essersi seduto/a/i/e",
+          "sedentesi",
+          "seduto",
+          "sedendosi",
+          "essendosi seduto/a/i/e"
+        ]
+      }
+    }
+  },
+{
+  "id": "sbagliare",
+  "sid": "2026-00062",
+  "word": "sbagliare",
+  "ipa": "/zbaʎˈʎare/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞・代名動詞の基礎となる動詞",
+      "it": "verbo intransitivo, transitivo e base di usi pronominali"
+    },
+    "auxiliary": "avere; essere nella forma pronominale sbagliarsi",
+    "pastParticiple": "sbagliato",
+    "gerundPresent": "sbagliando",
+    "pattern": "sbagliare + cosa / sbagliare a + infinito / sbagliarsi su, in, di + cosa"
+  },
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "education",
+      "business",
+      "travel"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "間違える、誤る",
+      "誤った判断・選択をする",
+      "答え・計算・道などを間違える",
+      "狙い・標的などを外す",
+      "人・物を別のものと取り違える",
+      "代名形で、思い違いをする"
+    ],
+    "it": [
+      "Commettere un errore di valutazione, giudizio o comportamento.",
+      "Eseguire un'azione in modo inesatto.",
+      "Scegliere una risposta, una strada, un numero o una persona non corretti.",
+      "Non colpire un bersaglio o non raggiungere un obiettivo.",
+      "Nella forma sbagliarsi, formulare una valutazione non corrispondente alla realtà."
+    ]
+  },
+  "nuance": {
+    "ja": "自動詞として「誤る」、他動詞として「答え・道・番号などを間違える」の両方に使える。sbagliare a + 不定詞は、ある行為や判断をしたこと自体が誤りだったと評価する。sbagliarsiは思い違い・判断違いを強調し、複合時制ではessereを用いる。",
+    "it": "Può essere usato senza oggetto nel senso generale di commettere un errore oppure transitivamente con elementi come risposta, strada e numero. Sbagliare a seguito dall'infinito presenta un comportamento o una decisione come errati. Sbagliarsi sottolinea un errore di valutazione e nei tempi composti usa essere."
+  },
+  "etymology": {
+    "ja": "語源は完全には確定していない。一般に接頭辞s-と、混乱・見当違い・目のくらみなどに関係する古い語要素との結合と考えられている。「正しい方向や判断から外れる」という意味が基本にある。",
+    "it": "L'origine remota non è del tutto certa. La parola viene generalmente analizzata in relazione al prefisso s- e a un'antica base connessa all'idea di confusione, abbaglio o deviazione. Il valore fondamentale è quello di allontanarsi dalla scelta o dalla valutazione corretta."
+  },
+  "minimal": [
+    {
+      "word": "sbagliare",
+      "ja": "判断・答え・行為・選択などに誤りを犯す",
+      "it": "commettere un errore in un giudizio, una risposta, un'azione o una scelta"
+    },
+    {
+      "word": "fallire",
+      "ja": "試みた目標を達成できず、失敗に終わる",
+      "it": "non raggiungere l'obiettivo di un tentativo o di un progetto"
+    },
+    {
+      "word": "confondersi",
+      "ja": "複数の人・物・情報を取り違えたり、考えが混乱したりする",
+      "it": "scambiare elementi diversi o perdere chiarezza nel ragionamento"
+    }
+  ],
+  "synonyms": [
+    "errare",
+    "confondersi",
+    "equivocare",
+    "fallire",
+    "prendere un abbaglio"
+  ],
+  "equivalents": {
+    "en": [
+      "make a mistake",
+      "be wrong",
+      "get wrong"
+    ],
+    "de": [
+      "sich irren",
+      "einen Fehler machen",
+      "falsch machen"
+    ],
+    "fr": [
+      "se tromper",
+      "faire une erreur"
+    ],
+    "es": [
+      "equivocarse",
+      "cometer un error"
+    ]
+  },
+  "collocations": [
+    "sbagliare qualcosa",
+    "sbagliare una risposta",
+    "sbagliare un calcolo",
+    "sbagliare un nome",
+    "sbagliare un numero",
+    "sbagliare persona",
+    "sbagliare strada",
+    "sbagliare indirizzo",
+    "sbagliare treno",
+    "sbagliare giorno",
+    "sbagliare scelta",
+    "sbagliare bersaglio",
+    "sbagliare un tiro",
+    "sbagliare completamente",
+    "sbagliare di grosso",
+    "sbagliare a fare qualcosa",
+    "avere paura di sbagliare",
+    "cercare di non sbagliare",
+    "se non sbaglio",
+    "chiunque può sbagliare",
+    "imparare sbagliando"
+  ],
+  "examples": [
+    {
+      "it": "Ho sbagliato la risposta.",
+      "ja": "私は答えを間違えた。"
+    },
+    {
+      "it": "Scusi, ho sbagliato numero.",
+      "ja": "すみません、電話番号を間違えました。"
+    },
+    {
+      "it": "Abbiamo sbagliato strada.",
+      "ja": "私たちは道を間違えた。"
+    },
+    {
+      "it": "Hai sbagliato a non accettare la proposta.",
+      "ja": "その提案を受け入れなかったのは間違いだった。"
+    },
+    {
+      "it": "Se non sbaglio, il museo è chiuso il lunedì.",
+      "ja": "私の記憶違いでなければ、その美術館は月曜日が休館だ。"
+    },
+    {
+      "it": "Mi sono sbagliato: la riunione è domani.",
+      "ja": "私の勘違いでした。会議は明日です。"
+    }
+  ],
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "sbaglio",
+        "sbagli",
+        "sbaglia",
+        "sbagliamo",
+        "sbagliate",
+        "sbagliano"
+      ],
+      "Imperfetto": [
+        "sbagliavo",
+        "sbagliavi",
+        "sbagliava",
+        "sbagliavamo",
+        "sbagliavate",
+        "sbagliavano"
+      ],
+      "Passato prossimo": [
+        "ho sbagliato",
+        "hai sbagliato",
+        "ha sbagliato",
+        "abbiamo sbagliato",
+        "avete sbagliato",
+        "hanno sbagliato"
+      ],
+      "Passato remoto": [
+        "sbagliai",
+        "sbagliasti",
+        "sbagliò",
+        "sbagliammo",
+        "sbagliaste",
+        "sbagliarono"
+      ],
+      "Trapassato prossimo": [
+        "avevo sbagliato",
+        "avevi sbagliato",
+        "aveva sbagliato",
+        "avevamo sbagliato",
+        "avevate sbagliato",
+        "avevano sbagliato"
+      ],
+      "Trapassato remoto": [
+        "ebbi sbagliato",
+        "avesti sbagliato",
+        "ebbe sbagliato",
+        "avemmo sbagliato",
+        "aveste sbagliato",
+        "ebbero sbagliato"
+      ],
+      "Futuro semplice": [
+        "sbaglierò",
+        "sbaglierai",
+        "sbaglierà",
+        "sbaglieremo",
+        "sbaglierete",
+        "sbaglieranno"
+      ],
+      "Futuro anteriore": [
+        "avrò sbagliato",
+        "avrai sbagliato",
+        "avrà sbagliato",
+        "avremo sbagliato",
+        "avrete sbagliato",
+        "avranno sbagliato"
+      ]
+    },
+    "Congiuntivo": {
+      "Presente": [
+        "sbagli",
+        "sbagli",
+        "sbagli",
+        "sbagliamo",
+        "sbagliate",
+        "sbaglino"
+      ],
+      "Imperfetto": [
+        "sbagliassi",
+        "sbagliassi",
+        "sbagliasse",
+        "sbagliassimo",
+        "sbagliaste",
+        "sbagliassero"
+      ],
+      "Passato": [
+        "abbia sbagliato",
+        "abbia sbagliato",
+        "abbia sbagliato",
+        "abbiamo sbagliato",
+        "abbiate sbagliato",
+        "abbiano sbagliato"
+      ],
+      "Trapassato": [
+        "avessi sbagliato",
+        "avessi sbagliato",
+        "avesse sbagliato",
+        "avessimo sbagliato",
+        "aveste sbagliato",
+        "avessero sbagliato"
+      ]
+    },
+    "Condizionale": {
+      "Presente": [
+        "sbaglierei",
+        "sbaglieresti",
+        "sbaglierebbe",
+        "sbaglieremmo",
+        "sbagliereste",
+        "sbaglierebbero"
+      ],
+      "Passato": [
+        "avrei sbagliato",
+        "avresti sbagliato",
+        "avrebbe sbagliato",
+        "avremmo sbagliato",
+        "avreste sbagliato",
+        "avrebbero sbagliato"
+      ]
+    },
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "sbaglia",
+        "sbagli",
+        "sbagliamo",
+        "sbagliate",
+        "sbaglino"
+      ]
+    },
+    "Forme indefinite": {
+      "Forme": [
+        "sbagliare",
+        "avere sbagliato",
+        "sbagliante",
+        "sbagliato",
+        "sbagliando",
+        "avendo sbagliato"
+      ]
+    }
+  }
+}
+]
