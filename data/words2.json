@@ -578,5 +578,3655 @@
       ]
     }
   }
+},
+{
+  "id": "sbagliarsi",
+  "sid": "2026-00063",
+  "word": "sbagliarsi",
+  "ipa": "/zbaʎˈʎarsi/",
+  "level": "A2",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "代名動詞",
+      "it": "verbo pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "sbagliato",
+    "gerundPresent": "sbagliandosi",
+    "pattern": "sbagliarsi su + argomento / sbagliarsi di + quantità o valutazione / sbagliarsi nel + infinito"
+  },
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "education",
+      "travel"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "思い違いをする、勘違いする",
+      "判断・予測を誤る",
+      "人・物・日時などを取り違える",
+      "量・程度などを見誤る",
+      "自分の考えが正しくない"
+    ],
+    "it": [
+      "Formulare un giudizio o una valutazione non corrispondente alla realtà.",
+      "Interpretare erroneamente una persona, una situazione o un'informazione.",
+      "Confondere una persona, una cosa, una data o un altro elemento con qualcosa di diverso.",
+      "Valutare in modo inesatto una quantità, una distanza o un grado."
+    ]
+  },
+  "nuance": {
+    "ja": "sbagliareが行為・答え・計算など具体的な誤りにも広く使われるのに対し、sbagliarsiは特に主観的な判断・認識・予測の誤りを強調する。Mi sono sbagliatoは「私の勘違いだった」、Se non mi sbaglioは「私の記憶違いでなければ」を意味する。複合時制ではessereを使う。",
+    "it": "Rispetto a sbagliare, che può indicare anche l'esecuzione errata di un'azione, sbagliarsi mette soprattutto in rilievo un errore soggettivo di giudizio, interpretazione o previsione. Mi sono sbagliato ammette l'errore; Se non mi sbaglio introduce un'affermazione con prudenza. Nei tempi composti usa essere."
+  },
+  "etymology": {
+    "ja": "sbagliareに代名詞siが結びついて成立した。sbagliare自体の古い語源は完全には確定していないが、接頭辞s-と、混乱・見当違い・目のくらみなどに関係する古い語要素との結合と考えられている。",
+    "it": "È formato da sbagliare con il pronome si. L'origine remota di sbagliare non è del tutto certa; la parola viene generalmente collegata al prefisso s- e a un'antica base riferibile all'idea di confusione, deviazione o abbaglio."
+  },
+  "minimal": [
+    {
+      "word": "sbagliarsi",
+      "ja": "判断・認識・予測が現実と一致せず、思い違いをする",
+      "it": "formulare una valutazione o previsione non corrispondente alla realtà"
+    },
+    {
+      "word": "sbagliare",
+      "ja": "行為・回答・計算・選択などに具体的な誤りを犯す",
+      "it": "commettere un errore in un'azione, una risposta, un calcolo o una scelta"
+    },
+    {
+      "word": "confondersi",
+      "ja": "複数の人・物・情報を取り違えたり、考えが混乱したりする",
+      "it": "scambiare elementi diversi o perdere chiarezza nel ragionamento"
+    }
+  ],
+  "synonyms": [
+    "confondersi",
+    "equivocare",
+    "errare",
+    "prendere un abbaglio",
+    "fare confusione"
+  ],
+  "equivalents": {
+    "en": [
+      "be mistaken",
+      "be wrong"
+    ],
+    "de": [
+      "sich irren",
+      "falschliegen"
+    ],
+    "fr": [
+      "se tromper",
+      "faire erreur"
+    ],
+    "es": [
+      "equivocarse",
+      "estar equivocado"
+    ]
+  },
+  "collocations": [
+    "sbagliarsi su qualcosa",
+    "sbagliarsi su qualcuno",
+    "sbagliarsi di grosso",
+    "sbagliarsi completamente",
+    "sbagliarsi facilmente",
+    "sbagliarsi nel giudicare",
+    "sbagliarsi nel valutare",
+    "sbagliarsi di persona",
+    "sbagliarsi di data",
+    "sbagliarsi di giorno",
+    "sbagliarsi di numero",
+    "sbagliarsi di indirizzo",
+    "sbagliarsi di poco",
+    "sbagliarsi di molto",
+    "potersi sbagliare",
+    "ammettere di essersi sbagliato",
+    "rendersi conto di essersi sbagliato",
+    "se non mi sbaglio",
+    "salvo che mi sbagli",
+    "non essersi sbagliato"
+  ],
+  "examples": [
+    {
+      "it": "Mi sono sbagliato: la riunione è domani.",
+      "ja": "私の勘違いでした。会議は明日です。"
+    },
+    {
+      "it": "Se non mi sbaglio, il museo apre alle nove.",
+      "ja": "私の記憶違いでなければ、美術館は9時に開館する。"
+    },
+    {
+      "it": "Ti sbagli se pensi che sia facile.",
+      "ja": "それが簡単だと思っているなら、あなたは間違っている。"
+    },
+    {
+      "it": "Ci siamo sbagliati sul prezzo.",
+      "ja": "私たちは価格について勘違いしていた。"
+    },
+    {
+      "it": "Mi sono sbagliata di persona.",
+      "ja": "私は人違いをしました。"
+    },
+    {
+      "it": "Potrei sbagliarmi, ma credo che abbia ragione.",
+      "ja": "間違っているかもしれないが、彼の言うことが正しいと思う。"
+    }
+  ],
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi sbaglio",
+        "ti sbagli",
+        "si sbaglia",
+        "ci sbagliamo",
+        "vi sbagliate",
+        "si sbagliano"
+      ],
+      "Imperfetto": [
+        "mi sbagliavo",
+        "ti sbagliavi",
+        "si sbagliava",
+        "ci sbagliavamo",
+        "vi sbagliavate",
+        "si sbagliavano"
+      ],
+      "Passato prossimo": [
+        "mi sono sbagliato/a",
+        "ti sei sbagliato/a",
+        "si è sbagliato/a",
+        "ci siamo sbagliati/e",
+        "vi siete sbagliati/e",
+        "si sono sbagliati/e"
+      ],
+      "Passato remoto": [
+        "mi sbagliai",
+        "ti sbagliasti",
+        "si sbagliò",
+        "ci sbagliammo",
+        "vi sbagliaste",
+        "si sbagliarono"
+      ],
+      "Trapassato prossimo": [
+        "mi ero sbagliato/a",
+        "ti eri sbagliato/a",
+        "si era sbagliato/a",
+        "ci eravamo sbagliati/e",
+        "vi eravate sbagliati/e",
+        "si erano sbagliati/e"
+      ],
+      "Trapassato remoto": [
+        "mi fui sbagliato/a",
+        "ti fosti sbagliato/a",
+        "si fu sbagliato/a",
+        "ci fummo sbagliati/e",
+        "vi foste sbagliati/e",
+        "si furono sbagliati/e"
+      ],
+      "Futuro semplice": [
+        "mi sbaglierò",
+        "ti sbaglierai",
+        "si sbaglierà",
+        "ci sbaglieremo",
+        "vi sbaglierete",
+        "si sbaglieranno"
+      ],
+      "Futuro anteriore": [
+        "mi sarò sbagliato/a",
+        "ti sarai sbagliato/a",
+        "si sarà sbagliato/a",
+        "ci saremo sbagliati/e",
+        "vi sarete sbagliati/e",
+        "si saranno sbagliati/e"
+      ]
+    },
+    "Congiuntivo": {
+      "Presente": [
+        "mi sbagli",
+        "ti sbagli",
+        "si sbagli",
+        "ci sbagliamo",
+        "vi sbagliate",
+        "si sbaglino"
+      ],
+      "Imperfetto": [
+        "mi sbagliassi",
+        "ti sbagliassi",
+        "si sbagliasse",
+        "ci sbagliassimo",
+        "vi sbagliaste",
+        "si sbagliassero"
+      ],
+      "Passato": [
+        "mi sia sbagliato/a",
+        "ti sia sbagliato/a",
+        "si sia sbagliato/a",
+        "ci siamo sbagliati/e",
+        "vi siate sbagliati/e",
+        "si siano sbagliati/e"
+      ],
+      "Trapassato": [
+        "mi fossi sbagliato/a",
+        "ti fossi sbagliato/a",
+        "si fosse sbagliato/a",
+        "ci fossimo sbagliati/e",
+        "vi foste sbagliati/e",
+        "si fossero sbagliati/e"
+      ]
+    },
+    "Condizionale": {
+      "Presente": [
+        "mi sbaglierei",
+        "ti sbaglieresti",
+        "si sbaglierebbe",
+        "ci sbaglieremmo",
+        "vi sbagliereste",
+        "si sbaglierebbero"
+      ],
+      "Passato": [
+        "mi sarei sbagliato/a",
+        "ti saresti sbagliato/a",
+        "si sarebbe sbagliato/a",
+        "ci saremmo sbagliati/e",
+        "vi sareste sbagliati/e",
+        "si sarebbero sbagliati/e"
+      ]
+    },
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "sbagliati",
+        "si sbagli",
+        "sbagliamoci",
+        "sbagliatevi",
+        "si sbaglino"
+      ]
+    },
+    "Forme indefinite": {
+      "Forme": [
+        "sbagliarsi",
+        "essersi sbagliato/a/i/e",
+        "sbagliantesi",
+        "sbagliato",
+        "sbagliandosi",
+        "essendosi sbagliato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "tagliare",
+  "sid": "2026-00064",
+  "word": "tagliare",
+  "ipa": "/taʎˈʎare/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞・代名動詞の基礎となる動詞",
+      "it": "verbo transitivo, intransitivo e base di usi pronominali"
+    },
+    "auxiliary": "avere; essere nella forma pronominale tagliarsi",
+    "pastParticiple": "tagliato",
+    "gerundPresent": "tagliando",
+    "pattern": "tagliare + cosa / tagliare qualcosa in o a + parti o misura / tagliarsi + parte del corpo"
+  },
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "cooking",
+      "business",
+      "technology"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "切る、切断する",
+      "食材・紙・布などを切り分ける",
+      "髪・ひげ・草木などを短く整える",
+      "費用・人員・時間などを削減する",
+      "文章・映像などの一部を削除する",
+      "道・進路などを横切る、遮る",
+      "通信・会話などを中断する"
+    ],
+    "it": [
+      "Dividere o incidere qualcosa mediante uno strumento affilato.",
+      "Ridurre un alimento, un materiale o un oggetto in parti.",
+      "Accorciare capelli, barba, erba o rami.",
+      "Ridurre spese, personale, tempi o risorse.",
+      "Eliminare una parte di un testo, un film o una registrazione.",
+      "Attraversare o interrompere una strada, un percorso o una comunicazione."
+    ]
+  },
+  "nuance": {
+    "ja": "刃物などで物を分割・短縮することが基本で、切断の結果や切り方はtagliare in due、a fette、a pezziのように示す。抽象的には予算・人員・文章などを削減する意味にも使う。tagliarsiは自分の身体を切る場合だけでなく、髪を切ってもらう場合にも使われる。",
+    "it": "Il significato fondamentale è dividere o accorciare qualcosa con uno strumento. Il risultato o il modo del taglio si esprime con costruzioni come tagliare in due, a fette o a pezzi. In senso figurato può indicare una riduzione. Tagliarsi può riferirsi a una ferita oppure al farsi tagliare i capelli."
+  },
+  "etymology": {
+    "ja": "後期ラテン語taliare（切る、枝を切り取る）に由来し、その基礎にはラテン語talea（切り取った枝、挿し木）がある。同じ語根はイタリア語taglio、taglia、dettaglio、フランス語taillerなどにも見られる。",
+    "it": "Dal latino tardo taliare, «tagliare o recidere», derivato da talea, «ramo tagliato o talea». Alla stessa famiglia appartengono taglio, taglia, dettaglio e il francese tailler."
+  },
+  "minimal": [
+    {
+      "word": "tagliare",
+      "ja": "刃物などで物を分割・切断・短縮する",
+      "it": "dividere, recidere o accorciare qualcosa con uno strumento"
+    },
+    {
+      "word": "ritagliare",
+      "ja": "紙・布などから特定の形や部分を切り抜く",
+      "it": "tagliare una figura o una parte determinata da un materiale"
+    },
+    {
+      "word": "troncare",
+      "ja": "物・話・関係などを途中で断ち切る",
+      "it": "interrompere bruscamente qualcosa prima della sua conclusione"
+    }
+  ],
+  "synonyms": [
+    "recidere",
+    "dividere",
+    "affettare",
+    "accorciare",
+    "ridurre"
+  ],
+  "equivalents": {
+    "en": [
+      "cut",
+      "slice",
+      "reduce"
+    ],
+    "de": [
+      "schneiden",
+      "kürzen",
+      "reduzieren"
+    ],
+    "fr": [
+      "couper",
+      "tailler",
+      "réduire"
+    ],
+    "es": [
+      "cortar",
+      "recortar",
+      "reducir"
+    ]
+  },
+  "collocations": [
+    "tagliare il pane",
+    "tagliare la carne",
+    "tagliare le verdure",
+    "tagliare una torta",
+    "tagliare a fette",
+    "tagliare a pezzi",
+    "tagliare a metà",
+    "tagliare in due",
+    "tagliare con un coltello",
+    "tagliare i capelli",
+    "tagliare la barba",
+    "tagliare l'erba",
+    "tagliare un ramo",
+    "tagliare la carta",
+    "tagliare il tessuto",
+    "tagliare i costi",
+    "tagliare le spese",
+    "tagliare il personale",
+    "tagliare una scena",
+    "tagliare la strada",
+    "tagliare corto",
+    "tagliare i ponti",
+    "tagliare la linea"
+  ],
+  "examples": [
+    {
+      "it": "Taglia il pane a fette, per favore.",
+      "ja": "パンを薄切りにしてください。"
+    },
+    {
+      "it": "Ho tagliato le verdure a pezzi piccoli.",
+      "ja": "私は野菜を小さく切った。"
+    },
+    {
+      "it": "Domani mi taglio i capelli.",
+      "ja": "明日、髪を切ってもらう。"
+    },
+    {
+      "it": "L'azienda deve tagliare i costi.",
+      "ja": "その会社は経費を削減しなければならない。"
+    },
+    {
+      "it": "Il regista ha tagliato alcune scene dal film.",
+      "ja": "監督は映画からいくつかの場面を削除した。"
+    },
+    {
+      "it": "Mi sono tagliato un dito mentre cucinavo.",
+      "ja": "料理中に指を切ってしまった。"
+    }
+  ],
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "taglio",
+        "tagli",
+        "taglia",
+        "tagliamo",
+        "tagliate",
+        "tagliano"
+      ],
+      "Imperfetto": [
+        "tagliavo",
+        "tagliavi",
+        "tagliava",
+        "tagliavamo",
+        "tagliavate",
+        "tagliavano"
+      ],
+      "Passato prossimo": [
+        "ho tagliato",
+        "hai tagliato",
+        "ha tagliato",
+        "abbiamo tagliato",
+        "avete tagliato",
+        "hanno tagliato"
+      ],
+      "Passato remoto": [
+        "tagliai",
+        "tagliasti",
+        "tagliò",
+        "tagliammo",
+        "tagliaste",
+        "tagliarono"
+      ],
+      "Trapassato prossimo": [
+        "avevo tagliato",
+        "avevi tagliato",
+        "aveva tagliato",
+        "avevamo tagliato",
+        "avevate tagliato",
+        "avevano tagliato"
+      ],
+      "Trapassato remoto": [
+        "ebbi tagliato",
+        "avesti tagliato",
+        "ebbe tagliato",
+        "avemmo tagliato",
+        "aveste tagliato",
+        "ebbero tagliato"
+      ],
+      "Futuro semplice": [
+        "taglierò",
+        "taglierai",
+        "taglierà",
+        "taglieremo",
+        "taglierete",
+        "taglieranno"
+      ],
+      "Futuro anteriore": [
+        "avrò tagliato",
+        "avrai tagliato",
+        "avrà tagliato",
+        "avremo tagliato",
+        "avrete tagliato",
+        "avranno tagliato"
+      ]
+    },
+    "Congiuntivo": {
+      "Presente": [
+        "tagli",
+        "tagli",
+        "tagli",
+        "tagliamo",
+        "tagliate",
+        "taglino"
+      ],
+      "Imperfetto": [
+        "tagliassi",
+        "tagliassi",
+        "tagliasse",
+        "tagliassimo",
+        "tagliaste",
+        "tagliassero"
+      ],
+      "Passato": [
+        "abbia tagliato",
+        "abbia tagliato",
+        "abbia tagliato",
+        "abbiamo tagliato",
+        "abbiate tagliato",
+        "abbiano tagliato"
+      ],
+      "Trapassato": [
+        "avessi tagliato",
+        "avessi tagliato",
+        "avesse tagliato",
+        "avessimo tagliato",
+        "aveste tagliato",
+        "avessero tagliato"
+      ]
+    },
+    "Condizionale": {
+      "Presente": [
+        "taglierei",
+        "taglieresti",
+        "taglierebbe",
+        "taglieremmo",
+        "tagliereste",
+        "taglierebbero"
+      ],
+      "Passato": [
+        "avrei tagliato",
+        "avresti tagliato",
+        "avrebbe tagliato",
+        "avremmo tagliato",
+        "avreste tagliato",
+        "avrebbero tagliato"
+      ]
+    },
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "taglia",
+        "tagli",
+        "tagliamo",
+        "tagliate",
+        "taglino"
+      ]
+    },
+    "Forme indefinite": {
+      "Forme": [
+        "tagliare",
+        "avere tagliato",
+        "tagliante",
+        "tagliato",
+        "tagliando",
+        "avendo tagliato"
+      ]
+    }
+  }
+},
+{
+  "id": "dipingere",
+  "sid": "2026-00065",
+  "word": "dipingere",
+  "ipa": "/diˈpindʒere/",
+  "level": "A2",
+  "frequency": "common",
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "dipinto",
+    "gerundPresent": "dipingendo",
+    "pattern": "dipingere + persona, soggetto o superficie / dipingere con + materiale / dipingere in o di + colore"
+  },
+  "usage": {
+    "register": [
+      "neutral",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "art",
+      "work",
+      "literary"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "絵の具で絵を描く",
+      "人・風景・物などを絵に表現する",
+      "壁・表面などに色を塗る",
+      "人・状況などを言葉で生き生きと描写する",
+      "比喩的に、ある印象やイメージを作り出す"
+    ],
+    "it": [
+      "Rappresentare qualcuno o qualcosa mediante colori applicati su una superficie.",
+      "Realizzare un quadro o un'opera pittorica.",
+      "Ricoprire una parete o un oggetto con uno o più colori.",
+      "Descrivere vivamente una persona, una scena o una situazione mediante le parole.",
+      "Presentare qualcuno o qualcosa in un determinato modo."
+    ]
+  },
+  "nuance": {
+    "ja": "絵の具や色彩を使って対象を表現することが中心で、線を中心に描くdisegnareと区別される。建物・家具などへ塗料を塗る場合にも使えるが、保護・仕上げのための塗装にはverniciareがより具体的である。比喩的には人物や状況を言葉で描き出す。",
+    "it": "Mette in rilievo la rappresentazione mediante colori e si distingue da disegnare, che si basa soprattutto sulle linee. Può riferirsi anche alla colorazione di pareti e oggetti; verniciare è più specifico quando si tratta di un rivestimento protettivo o tecnico. In senso figurato significa descrivere in modo vivido."
+  },
+  "etymology": {
+    "ja": "ラテン語depingere（詳しく描く、彩色する）に由来する。これは強意・完成を表すde-とpingere（描く、彩色する）から成る。同じ語根はイタリア語pittore、pittura、dipinto、英語paintやpictureなどにも見られる。",
+    "it": "Dal latino depingere, formato da de-, con valore intensivo o completivo, e pingere, «dipingere o colorare». Alla stessa famiglia appartengono pittore, pittura, dipinto e numerose parole internazionali."
+  },
+  "minimal": [
+    {
+      "word": "dipingere",
+      "ja": "絵の具・色彩を使って絵を描く、または表面に色を塗る",
+      "it": "rappresentare qualcosa mediante colori o colorare una superficie"
+    },
+    {
+      "word": "disegnare",
+      "ja": "鉛筆・ペンなどの線によって形や図を描く",
+      "it": "rappresentare forme e figure principalmente mediante linee"
+    },
+    {
+      "word": "verniciare",
+      "ja": "保護・装飾・仕上げのため表面に塗料を塗る",
+      "it": "applicare una vernice a una superficie per proteggerla o rifinirla"
+    }
+  ],
+  "synonyms": [
+    "raffigurare",
+    "ritrarre",
+    "colorare",
+    "verniciare",
+    "descrivere"
+  ],
+  "equivalents": {
+    "en": [
+      "paint",
+      "portray",
+      "depict"
+    ],
+    "de": [
+      "malen",
+      "streichen",
+      "darstellen"
+    ],
+    "fr": [
+      "peindre",
+      "dépeindre"
+    ],
+    "es": [
+      "pintar",
+      "retratar"
+    ]
+  },
+  "collocations": [
+    "dipingere un quadro",
+    "dipingere un ritratto",
+    "dipingere un paesaggio",
+    "dipingere una scena",
+    "dipingere una persona",
+    "dipingere dal vero",
+    "dipingere a memoria",
+    "dipingere a olio",
+    "dipingere ad acquerello",
+    "dipingere con un pennello",
+    "dipingere su tela",
+    "dipingere su legno",
+    "dipingere una parete",
+    "dipingere una stanza",
+    "dipingere di bianco",
+    "dipingere di rosso",
+    "imparare a dipingere",
+    "mettersi a dipingere",
+    "dipingere con le parole",
+    "dipingere un quadro della situazione",
+    "essere dipinto da qualcuno"
+  ],
+  "examples": [
+    {
+      "it": "Mi piace dipingere paesaggi.",
+      "ja": "私は風景画を描くのが好きだ。"
+    },
+    {
+      "it": "Ha dipinto questo quadro molti anni fa.",
+      "ja": "彼は何年も前にこの絵を描いた。"
+    },
+    {
+      "it": "Vincent van Gogh dipinse numerosi autoritratti.",
+      "ja": "フィンセント・ファン・ゴッホは多くの自画像を描いた。"
+    },
+    {
+      "it": "Abbiamo dipinto le pareti di bianco.",
+      "ja": "私たちは壁を白く塗った。"
+    },
+    {
+      "it": "Il soffitto è stato dipinto da un artista locale.",
+      "ja": "その天井は地元の画家によって描かれた。"
+    },
+    {
+      "it": "Lo scrittore dipinge con precisione la società dell'epoca.",
+      "ja": "その作家は当時の社会を正確に描写している。"
+    }
+  ],
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "dipingo",
+        "dipingi",
+        "dipinge",
+        "dipingiamo",
+        "dipingete",
+        "dipingono"
+      ],
+      "Imperfetto": [
+        "dipingevo",
+        "dipingevi",
+        "dipingeva",
+        "dipingevamo",
+        "dipingevate",
+        "dipingevano"
+      ],
+      "Passato prossimo": [
+        "ho dipinto",
+        "hai dipinto",
+        "ha dipinto",
+        "abbiamo dipinto",
+        "avete dipinto",
+        "hanno dipinto"
+      ],
+      "Passato remoto": [
+        "dipinsi",
+        "dipingesti",
+        "dipinse",
+        "dipingemmo",
+        "dipingeste",
+        "dipinsero"
+      ],
+      "Trapassato prossimo": [
+        "avevo dipinto",
+        "avevi dipinto",
+        "aveva dipinto",
+        "avevamo dipinto",
+        "avevate dipinto",
+        "avevano dipinto"
+      ],
+      "Trapassato remoto": [
+        "ebbi dipinto",
+        "avesti dipinto",
+        "ebbe dipinto",
+        "avemmo dipinto",
+        "aveste dipinto",
+        "ebbero dipinto"
+      ],
+      "Futuro semplice": [
+        "dipingerò",
+        "dipingerai",
+        "dipingerà",
+        "dipingeremo",
+        "dipingerete",
+        "dipingeranno"
+      ],
+      "Futuro anteriore": [
+        "avrò dipinto",
+        "avrai dipinto",
+        "avrà dipinto",
+        "avremo dipinto",
+        "avrete dipinto",
+        "avranno dipinto"
+      ]
+    },
+    "Congiuntivo": {
+      "Presente": [
+        "dipinga",
+        "dipinga",
+        "dipinga",
+        "dipingiamo",
+        "dipingiate",
+        "dipingano"
+      ],
+      "Imperfetto": [
+        "dipingessi",
+        "dipingessi",
+        "dipingesse",
+        "dipingessimo",
+        "dipingeste",
+        "dipingessero"
+      ],
+      "Passato": [
+        "abbia dipinto",
+        "abbia dipinto",
+        "abbia dipinto",
+        "abbiamo dipinto",
+        "abbiate dipinto",
+        "abbiano dipinto"
+      ],
+      "Trapassato": [
+        "avessi dipinto",
+        "avessi dipinto",
+        "avesse dipinto",
+        "avessimo dipinto",
+        "aveste dipinto",
+        "avessero dipinto"
+      ]
+    },
+    "Condizionale": {
+      "Presente": [
+        "dipingerei",
+        "dipingeresti",
+        "dipingerebbe",
+        "dipingeremmo",
+        "dipingereste",
+        "dipingerebbero"
+      ],
+      "Passato": [
+        "avrei dipinto",
+        "avresti dipinto",
+        "avrebbe dipinto",
+        "avremmo dipinto",
+        "avreste dipinto",
+        "avrebbero dipinto"
+      ]
+    },
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "dipingi",
+        "dipinga",
+        "dipingiamo",
+        "dipingete",
+        "dipingano"
+      ]
+    },
+    "Forme indefinite": {
+      "Forme": [
+        "dipingere",
+        "avere dipinto",
+        "dipingente",
+        "dipinto",
+        "dipingendo",
+        "avendo dipinto"
+      ]
+    }
+  }
+},
+{
+  "id": "chiacchierare",
+  "sid": "2026-00066",
+  "word": "chiacchierare",
+  "ipa": "/kjakkjeˈrare/",
+  "level": "A2",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞",
+      "it": "verbo intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "chiacchierato",
+    "gerundPresent": "chiacchierando",
+    "pattern": "chiacchierare con + persona / chiacchierare di o su + argomento / stare a chiacchierare"
+  },
+  "usage": {
+    "register": [
+      "informal",
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "social",
+      "family",
+      "work"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "おしゃべりする、雑談する",
+      "気軽に会話する",
+      "特に目的なく話を続ける",
+      "うわさ話をする",
+      "軽率に秘密や情報を話す"
+    ],
+    "it": [
+      "Conversare in modo informale e rilassato.",
+      "Parlare senza uno scopo preciso di vari argomenti.",
+      "Trascorrere il tempo parlando amichevolmente.",
+      "Fare pettegolezzi o parlare di altre persone.",
+      "Rivelare con leggerezza informazioni che sarebbe opportuno mantenere riservate."
+    ]
+  },
+  "nuance": {
+    "ja": "友人・家族・同僚などと気軽に話すことを表し、parlareよりも非公式で、会話そのものを楽しむ含みがある。conversareより日常的でくだけている。文脈によっては「うわさ話をする」「余計なことを話す」という否定的な意味にもなる。",
+    "it": "Indica una conversazione informale, spesso piacevole e senza un obiettivo preciso. È più colloquiale di conversare e mette in rilievo il piacere o la leggerezza dello scambio. Secondo il contesto può assumere il valore negativo di fare pettegolezzi o parlare troppo."
+  },
+  "etymology": {
+    "ja": "名詞chiacchiera（おしゃべり）から生じた動詞である。chiacchieraは、人が続けて話す音を模した擬音的な語と考えられている。音の反復が、絶え間なく続く軽い会話の印象を表している。",
+    "it": "Deriva dal sostantivo chiacchiera, voce generalmente considerata di origine imitativa. La ripetizione dei suoni richiama il susseguirsi continuo delle parole in una conversazione leggera."
+  },
+  "minimal": [
+    {
+      "word": "chiacchierare",
+      "ja": "気軽に、特に目的を定めずおしゃべりする",
+      "it": "parlare in modo informale e rilassato, spesso senza uno scopo preciso"
+    },
+    {
+      "word": "parlare",
+      "ja": "言葉を用いて話す・伝えることを広く表す",
+      "it": "esprimersi e comunicare mediante le parole in senso generale"
+    },
+    {
+      "word": "conversare",
+      "ja": "相手と一定の話題について落ち着いて会話する",
+      "it": "intrattenersi in una conversazione, spesso in modo più controllato o formale"
+    }
+  ],
+  "synonyms": [
+    "conversare",
+    "parlare",
+    "discorrere",
+    "fare due chiacchiere",
+    "spettegolare"
+  ],
+  "equivalents": {
+    "en": [
+      "chat",
+      "chatter",
+      "gossip"
+    ],
+    "de": [
+      "plaudern",
+      "sich unterhalten",
+      "tratschen"
+    ],
+    "fr": [
+      "bavarder",
+      "discuter",
+      "papoter"
+    ],
+    "es": [
+      "charlar",
+      "conversar",
+      "chismorrear"
+    ]
+  },
+  "collocations": [
+    "chiacchierare con qualcuno",
+    "chiacchierare con gli amici",
+    "chiacchierare con i colleghi",
+    "chiacchierare di qualcosa",
+    "chiacchierare del più e del meno",
+    "chiacchierare di lavoro",
+    "chiacchierare a lungo",
+    "chiacchierare tranquillamente",
+    "chiacchierare amichevolmente",
+    "chiacchierare insieme",
+    "chiacchierare al telefono",
+    "chiacchierare davanti a un caffè",
+    "chiacchierare fino a tardi",
+    "fermarsi a chiacchierare",
+    "mettersi a chiacchierare",
+    "stare a chiacchierare",
+    "continuare a chiacchierare",
+    "passare il tempo a chiacchierare",
+    "avere voglia di chiacchierare",
+    "smettere di chiacchierare",
+    "fare due chiacchiere"
+  ],
+  "examples": [
+    {
+      "it": "Mi piace chiacchierare con gli amici.",
+      "ja": "私は友人たちとおしゃべりするのが好きだ。"
+    },
+    {
+      "it": "Abbiamo chiacchierato davanti a un caffè.",
+      "ja": "私たちはコーヒーを飲みながらおしゃべりした。"
+    },
+    {
+      "it": "Ci siamo fermati a chiacchierare per qualche minuto.",
+      "ja": "私たちは立ち止まって数分間雑談した。"
+    },
+    {
+      "it": "Di che cosa stavate chiacchierando?",
+      "ja": "何についておしゃべりしていたのですか。"
+    },
+    {
+      "it": "Ha chiacchierato al telefono per più di un'ora.",
+      "ja": "彼女は1時間以上電話でおしゃべりした。"
+    },
+    {
+      "it": "Quando hai tempo, facciamo due chiacchiere.",
+      "ja": "時間があるときに、少しお話ししましょう。"
+    }
+  ],
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "chiacchiero",
+        "chiacchieri",
+        "chiacchiera",
+        "chiacchieriamo",
+        "chiacchierate",
+        "chiacchierano"
+      ],
+      "Imperfetto": [
+        "chiacchieravo",
+        "chiacchieravi",
+        "chiacchierava",
+        "chiacchieravamo",
+        "chiacchieravate",
+        "chiacchieravano"
+      ],
+      "Passato prossimo": [
+        "ho chiacchierato",
+        "hai chiacchierato",
+        "ha chiacchierato",
+        "abbiamo chiacchierato",
+        "avete chiacchierato",
+        "hanno chiacchierato"
+      ],
+      "Passato remoto": [
+        "chiacchierai",
+        "chiacchierasti",
+        "chiacchierò",
+        "chiacchierammo",
+        "chiacchieraste",
+        "chiacchierarono"
+      ],
+      "Trapassato prossimo": [
+        "avevo chiacchierato",
+        "avevi chiacchierato",
+        "aveva chiacchierato",
+        "avevamo chiacchierato",
+        "avevate chiacchierato",
+        "avevano chiacchierato"
+      ],
+      "Trapassato remoto": [
+        "ebbi chiacchierato",
+        "avesti chiacchierato",
+        "ebbe chiacchierato",
+        "avemmo chiacchierato",
+        "aveste chiacchierato",
+        "ebbero chiacchierato"
+      ],
+      "Futuro semplice": [
+        "chiacchiererò",
+        "chiacchiererai",
+        "chiacchiererà",
+        "chiacchiereremo",
+        "chiacchiererete",
+        "chiacchiereranno"
+      ],
+      "Futuro anteriore": [
+        "avrò chiacchierato",
+        "avrai chiacchierato",
+        "avrà chiacchierato",
+        "avremo chiacchierato",
+        "avrete chiacchierato",
+        "avranno chiacchierato"
+      ]
+    },
+    "Congiuntivo": {
+      "Presente": [
+        "chiacchieri",
+        "chiacchieri",
+        "chiacchieri",
+        "chiacchieriamo",
+        "chiacchieriate",
+        "chiacchierino"
+      ],
+      "Imperfetto": [
+        "chiacchierassi",
+        "chiacchierassi",
+        "chiacchierasse",
+        "chiacchierassimo",
+        "chiacchieraste",
+        "chiacchierassero"
+      ],
+      "Passato": [
+        "abbia chiacchierato",
+        "abbia chiacchierato",
+        "abbia chiacchierato",
+        "abbiamo chiacchierato",
+        "abbiate chiacchierato",
+        "abbiano chiacchierato"
+      ],
+      "Trapassato": [
+        "avessi chiacchierato",
+        "avessi chiacchierato",
+        "avesse chiacchierato",
+        "avessimo chiacchierato",
+        "aveste chiacchierato",
+        "avessero chiacchierato"
+      ]
+    },
+    "Condizionale": {
+      "Presente": [
+        "chiacchiererei",
+        "chiacchiereresti",
+        "chiacchiererebbe",
+        "chiacchiereremmo",
+        "chiacchierereste",
+        "chiacchiererebbero"
+      ],
+      "Passato": [
+        "avrei chiacchierato",
+        "avresti chiacchierato",
+        "avrebbe chiacchierato",
+        "avremmo chiacchierato",
+        "avreste chiacchierato",
+        "avrebbero chiacchierato"
+      ]
+    },
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "chiacchiera",
+        "chiacchieri",
+        "chiacchieriamo",
+        "chiacchierate",
+        "chiacchierino"
+      ]
+    },
+    "Forme indefinite": {
+      "Forme": [
+        "chiacchierare",
+        "avere chiacchierato",
+        "chiacchierante",
+        "chiacchierato",
+        "chiacchierando",
+        "avendo chiacchierato"
+      ]
+    }
+  }
+},
+{
+  "id": "parlare",
+  "sid": "2026-00067",
+  "word": "parlare",
+  "ipa": "/parˈlare/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・一部他動詞的用法",
+      "it": "verbo intransitivo con alcuni usi transitivi"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "parlato",
+    "gerundPresent": "parlando",
+    "pattern": "parlare con o a + persona / parlare di o su + argomento / parlare + lingua"
+  },
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "business",
+      "academic"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "話す、言葉を発する",
+      "人と会話する、相談する",
+      "ある話題について述べる",
+      "ある言語を話す",
+      "演説・発表などで発言する",
+      "物事が意味・情報を伝える"
+    ],
+    "it": [
+      "Esprimersi mediante parole.",
+      "Comunicare o conversare con una persona.",
+      "Trattare o discutere un determinato argomento.",
+      "Conoscere e utilizzare una lingua.",
+      "Prendere la parola davanti a un pubblico.",
+      "Trasmettere figurativamente un significato o un messaggio."
+    ]
+  },
+  "nuance": {
+    "ja": "言葉による発話・会話・議論・言語能力を広く表す。parlare con qualcunoは相互的な会話、parlare a qualcunoは相手に向かって話しかけることを強調する。話題にはdiまたはsuを使う。一方、言語名は通常前置詞なしでparlare italianoと言う。",
+    "it": "È il verbo più generale per l'espressione e la comunicazione mediante parole. Parlare con qualcuno sottolinea lo scambio reciproco, mentre parlare a qualcuno può mettere in rilievo il destinatario. L'argomento è introdotto da di o su; il nome di una lingua è normalmente usato senza preposizione."
+  },
+  "etymology": {
+    "ja": "中世ラテン語parabolare（話す）に由来し、その基礎には後期ラテン語parabola（言葉、話）がある。さらにギリシア語parabolḗ（比較、たとえ）にさかのぼる。同じ語源からイタリア語parola、フランス語parlerなどが生じた。",
+    "it": "Dal latino medievale parabolare, «parlare», derivato dal latino tardo parabola, «parola o discorso», e in ultima analisi dal greco parabolḗ. Alla stessa famiglia appartengono parola e il francese parler."
+  },
+  "minimal": [
+    {
+      "word": "parlare",
+      "ja": "言葉を使って話す・会話することを広く表す",
+      "it": "esprimersi o comunicare mediante parole in senso generale"
+    },
+    {
+      "word": "dire",
+      "ja": "特定の内容・言葉・情報を相手に伝える",
+      "it": "esprimere o comunicare un contenuto determinato"
+    },
+    {
+      "word": "chiacchierare",
+      "ja": "気軽に、特に目的を定めずおしゃべりする",
+      "it": "parlare in modo informale e rilassato, spesso senza uno scopo preciso"
+    }
+  ],
+  "synonyms": [
+    "conversare",
+    "discutere",
+    "discorrere",
+    "comunicare",
+    "esprimersi"
+  ],
+  "equivalents": {
+    "en": [
+      "speak",
+      "talk"
+    ],
+    "de": [
+      "sprechen",
+      "reden"
+    ],
+    "fr": [
+      "parler",
+      "discuter"
+    ],
+    "es": [
+      "hablar",
+      "conversar"
+    ]
+  },
+  "collocations": [
+    "parlare con qualcuno",
+    "parlare a qualcuno",
+    "parlare di qualcosa",
+    "parlare del più e del meno",
+    "parlare di lavoro",
+    "parlare su un argomento",
+    "parlare italiano",
+    "parlare una lingua",
+    "parlare bene",
+    "parlare male",
+    "parlare lentamente",
+    "parlare velocemente",
+    "parlare chiaramente",
+    "parlare ad alta voce",
+    "parlare sottovoce",
+    "parlare in pubblico",
+    "parlare al telefono",
+    "parlare a nome di qualcuno",
+    "sentire parlare di",
+    "lasciar parlare qualcuno",
+    "imparare a parlare",
+    "non sapere di che cosa parlare"
+  ],
+  "examples": [
+    {
+      "it": "Parlo italiano e tedesco.",
+      "ja": "私はイタリア語とドイツ語を話す。"
+    },
+    {
+      "it": "Posso parlare con il direttore?",
+      "ja": "部長とお話しできますか。"
+    },
+    {
+      "it": "Abbiamo parlato del nuovo progetto.",
+      "ja": "私たちは新しいプロジェクトについて話した。"
+    },
+    {
+      "it": "Può parlare più lentamente, per favore?",
+      "ja": "もう少しゆっくり話していただけますか。"
+    },
+    {
+      "it": "Non mi piace parlare in pubblico.",
+      "ja": "私は人前で話すことが好きではない。"
+    },
+    {
+      "it": "I fatti parlano da soli.",
+      "ja": "事実が何よりも雄弁に物語っている。"
+    }
+  ],
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "parlo",
+        "parli",
+        "parla",
+        "parliamo",
+        "parlate",
+        "parlano"
+      ],
+      "Imperfetto": [
+        "parlavo",
+        "parlavi",
+        "parlava",
+        "parlavamo",
+        "parlavate",
+        "parlavano"
+      ],
+      "Passato prossimo": [
+        "ho parlato",
+        "hai parlato",
+        "ha parlato",
+        "abbiamo parlato",
+        "avete parlato",
+        "hanno parlato"
+      ],
+      "Passato remoto": [
+        "parlai",
+        "parlasti",
+        "parlò",
+        "parlammo",
+        "parlaste",
+        "parlarono"
+      ],
+      "Trapassato prossimo": [
+        "avevo parlato",
+        "avevi parlato",
+        "aveva parlato",
+        "avevamo parlato",
+        "avevate parlato",
+        "avevano parlato"
+      ],
+      "Trapassato remoto": [
+        "ebbi parlato",
+        "avesti parlato",
+        "ebbe parlato",
+        "avemmo parlato",
+        "aveste parlato",
+        "ebbero parlato"
+      ],
+      "Futuro semplice": [
+        "parlerò",
+        "parlerai",
+        "parlerà",
+        "parleremo",
+        "parlerete",
+        "parleranno"
+      ],
+      "Futuro anteriore": [
+        "avrò parlato",
+        "avrai parlato",
+        "avrà parlato",
+        "avremo parlato",
+        "avrete parlato",
+        "avranno parlato"
+      ]
+    },
+    "Congiuntivo": {
+      "Presente": [
+        "parli",
+        "parli",
+        "parli",
+        "parliamo",
+        "parliate",
+        "parlino"
+      ],
+      "Imperfetto": [
+        "parlassi",
+        "parlassi",
+        "parlasse",
+        "parlassimo",
+        "parlaste",
+        "parlassero"
+      ],
+      "Passato": [
+        "abbia parlato",
+        "abbia parlato",
+        "abbia parlato",
+        "abbiamo parlato",
+        "abbiate parlato",
+        "abbiano parlato"
+      ],
+      "Trapassato": [
+        "avessi parlato",
+        "avessi parlato",
+        "avesse parlato",
+        "avessimo parlato",
+        "aveste parlato",
+        "avessero parlato"
+      ]
+    },
+    "Condizionale": {
+      "Presente": [
+        "parlerei",
+        "parleresti",
+        "parlerebbe",
+        "parleremmo",
+        "parlereste",
+        "parlerebbero"
+      ],
+      "Passato": [
+        "avrei parlato",
+        "avresti parlato",
+        "avrebbe parlato",
+        "avremmo parlato",
+        "avreste parlato",
+        "avrebbero parlato"
+      ]
+    },
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "parla",
+        "parli",
+        "parliamo",
+        "parlate",
+        "parlino"
+      ]
+    },
+    "Forme indefinite": {
+      "Forme": [
+        "parlare",
+        "avere parlato",
+        "parlante",
+        "parlato",
+        "parlando",
+        "avendo parlato"
+      ]
+    }
+  }
+},
+{
+  "id": "dire",
+  "sid": "2026-00068",
+  "word": "dire",
+  "ipa": "/ˈdire/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "detto",
+    "gerundPresent": "dicendo",
+    "pattern": "dire + cosa / dire qualcosa a + persona / dire di + infinito / dire che + frase"
+  },
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "social"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "言う、述べる",
+      "人に情報・意見・言葉を伝える",
+      "～するよう指示・依頼する",
+      "意味する、表す",
+      "人や物を～と呼ぶ・評価する",
+      "物語・文章などが内容を伝える"
+    ],
+    "it": [
+      "Esprimere un contenuto mediante parole.",
+      "Comunicare a qualcuno un'informazione, un'opinione o un messaggio.",
+      "Ordinare, consigliare o chiedere a qualcuno di compiere un'azione.",
+      "Avere un determinato significato.",
+      "Definire o qualificare qualcuno o qualcosa in un certo modo."
+    ]
+  },
+  "nuance": {
+    "ja": "発言の具体的な内容に焦点を置き、目的語として言葉・情報・内容を取る。聞き手はaで導き、dire qualcosa a qualcunoとなる。dire di + 不定詞は「～するように言う」、dire cheは発言内容を導く。人と会話すること自体には通常parlare con qualcunoを使う。",
+    "it": "Mette in rilievo il contenuto concreto dell'enunciato. La cosa detta è il complemento oggetto, mentre il destinatario è introdotto da a. Dire di seguito dall'infinito può esprimere un ordine, un consiglio o una richiesta; dire che introduce il contenuto di un'affermazione. Per lo scambio conversazionale si usa normalmente parlare con qualcuno."
+  },
+  "etymology": {
+    "ja": "ラテン語dicere（言う、宣言する）に由来する。不定詞は音韻変化によってdicereからdireへ短縮されたが、dico、dicevo、dicendoなどには古い語幹dic-が残る。同じ語根はイタリア語dettare、dizione、contraddire、英語dictateやpredictなどにも見られる。",
+    "it": "Dal latino dicere, «dire o dichiarare». L'infinito si è ridotto foneticamente a dire, mentre il tema dic- rimane in forme come dico, dicevo e dicendo. La stessa radice compare in dettare, dizione, contraddire e numerose parole internazionali."
+  },
+  "minimal": [
+    {
+      "word": "dire",
+      "ja": "具体的な言葉・情報・意見などを言って伝える",
+      "it": "esprimere e comunicare un contenuto determinato mediante parole"
+    },
+    {
+      "word": "parlare",
+      "ja": "言葉を使って話す・会話することを広く表す",
+      "it": "esprimersi o comunicare mediante parole in senso generale"
+    },
+    {
+      "word": "raccontare",
+      "ja": "出来事・経験・物語などを順序立てて語る",
+      "it": "narrare una storia, un'esperienza o una serie di avvenimenti"
+    }
+  ],
+  "synonyms": [
+    "affermare",
+    "dichiarare",
+    "esprimere",
+    "comunicare",
+    "riferire"
+  ],
+  "equivalents": {
+    "en": [
+      "say",
+      "tell",
+      "mean"
+    ],
+    "de": [
+      "sagen",
+      "erzählen",
+      "meinen"
+    ],
+    "fr": [
+      "dire",
+      "raconter"
+    ],
+    "es": [
+      "decir",
+      "contar"
+    ]
+  },
+  "collocations": [
+    "dire qualcosa",
+    "dire la verità",
+    "dire una bugia",
+    "dire una parola",
+    "dire il proprio nome",
+    "dire la propria opinione",
+    "dire qualcosa a qualcuno",
+    "dire di sì",
+    "dire di no",
+    "dire che",
+    "dire di fare qualcosa",
+    "dire a qualcuno di aspettare",
+    "voler dire",
+    "sentir dire",
+    "lasciar dire",
+    "non sapere che cosa dire",
+    "avere qualcosa da dire",
+    "per così dire",
+    "a dire il vero",
+    "come si dice?",
+    "si dice che",
+    "detto questo"
+  ],
+  "examples": [
+    {
+      "it": "Che cosa hai detto?",
+      "ja": "何と言いましたか。"
+    },
+    {
+      "it": "Devo dirti una cosa importante.",
+      "ja": "あなたに大切なことを言わなければならない。"
+    },
+    {
+      "it": "Mi ha detto di aspettare qui.",
+      "ja": "彼は私にここで待つように言った。"
+    },
+    {
+      "it": "Come si dice questa parola in italiano?",
+      "ja": "この単語はイタリア語で何といいますか。"
+    },
+    {
+      "it": "Che cosa vuol dire questa espressione?",
+      "ja": "この表現はどういう意味ですか。"
+    },
+    {
+      "it": "Non so che cosa dire.",
+      "ja": "何と言えばよいのか分からない。"
+    },
+    {
+      "it": "A dire il vero, non sono d'accordo.",
+      "ja": "実を言うと、私は同意していない。"
+    }
+  ],
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "dico",
+        "dici",
+        "dice",
+        "diciamo",
+        "dite",
+        "dicono"
+      ],
+      "Imperfetto": [
+        "dicevo",
+        "dicevi",
+        "diceva",
+        "dicevamo",
+        "dicevate",
+        "dicevano"
+      ],
+      "Passato prossimo": [
+        "ho detto",
+        "hai detto",
+        "ha detto",
+        "abbiamo detto",
+        "avete detto",
+        "hanno detto"
+      ],
+      "Passato remoto": [
+        "dissi",
+        "dicesti",
+        "disse",
+        "dicemmo",
+        "diceste",
+        "dissero"
+      ],
+      "Trapassato prossimo": [
+        "avevo detto",
+        "avevi detto",
+        "aveva detto",
+        "avevamo detto",
+        "avevate detto",
+        "avevano detto"
+      ],
+      "Trapassato remoto": [
+        "ebbi detto",
+        "avesti detto",
+        "ebbe detto",
+        "avemmo detto",
+        "aveste detto",
+        "ebbero detto"
+      ],
+      "Futuro semplice": [
+        "dirò",
+        "dirai",
+        "dirà",
+        "diremo",
+        "direte",
+        "diranno"
+      ],
+      "Futuro anteriore": [
+        "avrò detto",
+        "avrai detto",
+        "avrà detto",
+        "avremo detto",
+        "avrete detto",
+        "avranno detto"
+      ]
+    },
+    "Congiuntivo": {
+      "Presente": [
+        "dica",
+        "dica",
+        "dica",
+        "diciamo",
+        "diciate",
+        "dicano"
+      ],
+      "Imperfetto": [
+        "dicessi",
+        "dicessi",
+        "dicesse",
+        "dicessimo",
+        "diceste",
+        "dicessero"
+      ],
+      "Passato": [
+        "abbia detto",
+        "abbia detto",
+        "abbia detto",
+        "abbiamo detto",
+        "abbiate detto",
+        "abbiano detto"
+      ],
+      "Trapassato": [
+        "avessi detto",
+        "avessi detto",
+        "avesse detto",
+        "avessimo detto",
+        "aveste detto",
+        "avessero detto"
+      ]
+    },
+    "Condizionale": {
+      "Presente": [
+        "direi",
+        "diresti",
+        "direbbe",
+        "diremmo",
+        "direste",
+        "direbbero"
+      ],
+      "Passato": [
+        "avrei detto",
+        "avresti detto",
+        "avrebbe detto",
+        "avremmo detto",
+        "avreste detto",
+        "avrebbero detto"
+      ]
+    },
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "di'",
+        "dica",
+        "diciamo",
+        "dite",
+        "dicano"
+      ]
+    },
+    "Forme indefinite": {
+      "Forme": [
+        "dire",
+        "avere detto",
+        "dicente",
+        "detto",
+        "dicendo",
+        "avendo detto"
+      ]
+    }
+  }
+},
+{
+  "id": "raccontare",
+  "sid": "2026-00069",
+  "word": "raccontare",
+  "ipa": "/rakkonˈtare/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・代名動詞の基礎となる動詞",
+      "it": "verbo transitivo e base di usi pronominali"
+    },
+    "auxiliary": "avere; essere nella forma pronominale raccontarsi",
+    "pastParticiple": "raccontato",
+    "gerundPresent": "raccontando",
+    "pattern": "raccontare + storia o fatto / raccontare qualcosa a + persona / raccontare di o che + contenuto"
+  },
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "education",
+      "literary"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "物語る、話して聞かせる",
+      "出来事・経験を順序立てて説明する",
+      "物語・昔話などを語る",
+      "人に事情・情報を詳しく伝える",
+      "うそ・作り話を述べる",
+      "代名形で、自分について打ち明ける"
+    ],
+    "it": [
+      "Narrare una storia o una serie di avvenimenti.",
+      "Riferire in modo articolato un'esperienza o un fatto.",
+      "Comunicare a qualcuno i particolari di una situazione.",
+      "Inventare o riferire una storia non vera.",
+      "Nella forma raccontarsi, parlare apertamente di sé e delle proprie esperienze."
+    ]
+  },
+  "nuance": {
+    "ja": "単一の言葉や情報を伝えるdireと異なり、出来事・経験・物語を一定の順序やまとまりを持って述べることに焦点を置く。内容は直接目的語、聞き手はaで導き、raccontare una storia a qualcunoとなる。raccontare diは話題や経験の内容を導く。",
+    "it": "A differenza di dire, che può introdurre anche una singola parola o informazione, raccontare mette in rilievo una successione organizzata di eventi o particolari. Il contenuto è un complemento oggetto diretto e il destinatario è introdotto da a. Raccontare di introduce spesso l'argomento o l'esperienza narrata."
+  },
+  "etymology": {
+    "ja": "接頭辞ra-とcontare（数える、順に挙げる）から成立した。もともとは物事を順に数え上げる、詳しく列挙することを意味し、そこから出来事を順序立てて語る意味が発達した。",
+    "it": "È formato da ra-, variante del prefisso ri-, e contare. Il significato originario era quello di enumerare o esporre ordinatamente; da questa idea si è sviluppato il senso di narrare una successione di avvenimenti."
+  },
+  "minimal": [
+    {
+      "word": "raccontare",
+      "ja": "出来事・経験・物語を順序立てて詳しく語る",
+      "it": "narrare in modo articolato una storia, un fatto o un'esperienza"
+    },
+    {
+      "word": "dire",
+      "ja": "特定の言葉・情報・意見などを言って伝える",
+      "it": "esprimere e comunicare un contenuto determinato mediante parole"
+    },
+    {
+      "word": "narrare",
+      "ja": "物語・歴史的出来事などを文学的・体系的に語る",
+      "it": "esporre una storia o degli avvenimenti, spesso in un registro letterario"
+    }
+  ],
+  "synonyms": [
+    "narrare",
+    "riferire",
+    "descrivere",
+    "esporre",
+    "confidare"
+  ],
+  "equivalents": {
+    "en": [
+      "tell",
+      "narrate",
+      "recount"
+    ],
+    "de": [
+      "erzählen",
+      "berichten"
+    ],
+    "fr": [
+      "raconter",
+      "narrer"
+    ],
+    "es": [
+      "contar",
+      "narrar"
+    ]
+  },
+  "collocations": [
+    "raccontare una storia",
+    "raccontare una favola",
+    "raccontare un episodio",
+    "raccontare un'esperienza",
+    "raccontare un fatto",
+    "raccontare un sogno",
+    "raccontare una barzelletta",
+    "raccontare una bugia",
+    "raccontare la verità",
+    "raccontare tutto",
+    "raccontare qualcosa a qualcuno",
+    "raccontare di qualcuno",
+    "raccontare di un viaggio",
+    "raccontare che cosa è successo",
+    "raccontare nei dettagli",
+    "raccontare brevemente",
+    "cominciare a raccontare",
+    "mettersi a raccontare",
+    "sentir raccontare",
+    "lasciarsi raccontare",
+    "avere qualcosa da raccontare"
+  ],
+  "examples": [
+    {
+      "it": "Mi racconti che cosa è successo?",
+      "ja": "何が起きたのか話してもらえますか。"
+    },
+    {
+      "it": "Ho raccontato la storia ai miei amici.",
+      "ja": "私は友人たちにその話を聞かせた。"
+    },
+    {
+      "it": "Mia nonna ci raccontava spesso delle favole.",
+      "ja": "祖母は私たちによく昔話をしてくれた。"
+    },
+    {
+      "it": "Vorrei raccontarti del mio viaggio in Italia.",
+      "ja": "イタリア旅行についてあなたに話したい。"
+    },
+    {
+      "it": "Non raccontare bugie.",
+      "ja": "うそをついてはいけない。"
+    },
+    {
+      "it": "Il romanzo racconta la vita di una famiglia italiana.",
+      "ja": "その小説はあるイタリア人家族の人生を描いている。"
+    }
+  ],
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "racconto",
+        "racconti",
+        "racconta",
+        "raccontiamo",
+        "raccontate",
+        "raccontano"
+      ],
+      "Imperfetto": [
+        "raccontavo",
+        "raccontavi",
+        "raccontava",
+        "raccontavamo",
+        "raccontavate",
+        "raccontavano"
+      ],
+      "Passato prossimo": [
+        "ho raccontato",
+        "hai raccontato",
+        "ha raccontato",
+        "abbiamo raccontato",
+        "avete raccontato",
+        "hanno raccontato"
+      ],
+      "Passato remoto": [
+        "raccontai",
+        "raccontasti",
+        "raccontò",
+        "raccontammo",
+        "raccontaste",
+        "raccontarono"
+      ],
+      "Trapassato prossimo": [
+        "avevo raccontato",
+        "avevi raccontato",
+        "aveva raccontato",
+        "avevamo raccontato",
+        "avevate raccontato",
+        "avevano raccontato"
+      ],
+      "Trapassato remoto": [
+        "ebbi raccontato",
+        "avesti raccontato",
+        "ebbe raccontato",
+        "avemmo raccontato",
+        "aveste raccontato",
+        "ebbero raccontato"
+      ],
+      "Futuro semplice": [
+        "racconterò",
+        "racconterai",
+        "racconterà",
+        "racconteremo",
+        "racconterete",
+        "racconteranno"
+      ],
+      "Futuro anteriore": [
+        "avrò raccontato",
+        "avrai raccontato",
+        "avrà raccontato",
+        "avremo raccontato",
+        "avrete raccontato",
+        "avranno raccontato"
+      ]
+    },
+    "Congiuntivo": {
+      "Presente": [
+        "racconti",
+        "racconti",
+        "racconti",
+        "raccontiamo",
+        "raccontiate",
+        "raccontino"
+      ],
+      "Imperfetto": [
+        "raccontassi",
+        "raccontassi",
+        "raccontasse",
+        "raccontassimo",
+        "raccontaste",
+        "raccontassero"
+      ],
+      "Passato": [
+        "abbia raccontato",
+        "abbia raccontato",
+        "abbia raccontato",
+        "abbiamo raccontato",
+        "abbiate raccontato",
+        "abbiano raccontato"
+      ],
+      "Trapassato": [
+        "avessi raccontato",
+        "avessi raccontato",
+        "avesse raccontato",
+        "avessimo raccontato",
+        "aveste raccontato",
+        "avessero raccontato"
+      ]
+    },
+    "Condizionale": {
+      "Presente": [
+        "racconterei",
+        "racconteresti",
+        "racconterebbe",
+        "racconteremmo",
+        "raccontereste",
+        "racconterebbero"
+      ],
+      "Passato": [
+        "avrei raccontato",
+        "avresti raccontato",
+        "avrebbe raccontato",
+        "avremmo raccontato",
+        "avreste raccontato",
+        "avrebbero raccontato"
+      ]
+    },
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "racconta",
+        "racconti",
+        "raccontiamo",
+        "raccontate",
+        "raccontino"
+      ]
+    },
+    "Forme indefinite": {
+      "Forme": [
+        "raccontare",
+        "avere raccontato",
+        "raccontante",
+        "raccontato",
+        "raccontando",
+        "avendo raccontato"
+      ]
+    }
+  }
+},
+{
+  "id": "narrare",
+  "sid": "2026-00070",
+  "word": "narrare",
+  "ipa": "/narˈrare/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "narrato",
+    "gerundPresent": "narrando",
+    "pattern": "narrare qualcosa / narrare qualcosa a qualcuno / narrare di + argomento"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "literary",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "literature",
+      "academic",
+      "journalism"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "物語・出来事などを語る、物語る",
+      "一連の出来事を順序立てて叙述する",
+      "文学作品などで物語を展開する"
+    ],
+    "it": [
+      "Riferire una storia o una serie di avvenimenti in forma ordinata.",
+      "Esporre fatti reali o immaginari attraverso un racconto.",
+      "Svolgere la funzione di narratore in un’opera."
+    ]
+  },
+
+  "nuance": {
+    "ja": "raccontareよりも文学的・形式的な響きを持ち、出来事を物語として構成し、順序立てて描写することに重点がある。日常会話ではraccontareが一般的だが、小説、歴史、神話、映画、報道や学術的な文章ではnarrareもよく使われる。単に情報を伝えるdireとは異なり、一定の展開を持つ語りを表す。",
+    "it": "Rispetto a raccontare, ha spesso un tono più letterario o formale e mette in rilievo l’organizzazione degli avvenimenti in una narrazione. Nel parlato quotidiano si preferisce generalmente raccontare, mentre narrare ricorre frequentemente nella letteratura, nella storia, nel cinema e nella saggistica."
+  },
+
+  "etymology": {
+    "ja": "ラテン語narrare（語る、知らせる）に由来する。この動詞は「知っている、事情に通じた」を意味するラテン語gnarusと関係があり、もともと「知っていることを人に伝える」という考えを含んでいた。",
+    "it": "Dal latino narrāre, «raccontare, esporre», collegato a gnārus, «consapevole, esperto». Il significato originario richiama quindi l’atto di rendere noto ciò che si conosce."
+  },
+
+  "minimal": [
+    {
+      "word": "narrare",
+      "ja": "文学的・形式的に、出来事を一つの物語として叙述する",
+      "it": "esporre avvenimenti in forma narrativa, spesso con tono letterario o formale"
+    },
+    {
+      "word": "raccontare",
+      "ja": "日常的な出来事から物語まで、相手に広く話して伝える",
+      "it": "riferire fatti o storie, anche nella comunicazione quotidiana"
+    },
+    {
+      "word": "descrivere",
+      "ja": "出来事の展開よりも、人・物・場所などの特徴を言葉で描く",
+      "it": "rappresentare verbalmente caratteristiche, aspetti o condizioni"
+    },
+    {
+      "word": "dire",
+      "ja": "物語として構成せず、言葉や情報を伝える",
+      "it": "comunicare parole o informazioni senza necessariamente costruire un racconto"
+    }
+  ],
+
+  "synonyms": [
+    "raccontare",
+    "riferire",
+    "esporre",
+    "descrivere",
+    "tramandare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "narrate",
+      "tell",
+      "recount"
+    ],
+    "de": [
+      "erzählen",
+      "berichten",
+      "schildern"
+    ],
+    "fr": [
+      "narrer",
+      "raconter",
+      "relater"
+    ],
+    "es": [
+      "narrar",
+      "contar",
+      "relatar"
+    ]
+  },
+
+  "collocations": [
+    "narrare una storia",
+    "narrare una vicenda",
+    "narrare un episodio",
+    "narrare un avvenimento",
+    "narrare i fatti",
+    "narrare le proprie esperienze",
+    "narrare la vita di qualcuno",
+    "narrare le gesta di un eroe",
+    "narrare una leggenda",
+    "narrare un mito",
+    "narrare in prima persona",
+    "narrare in terza persona",
+    "narrare per immagini",
+    "narrare con precisione",
+    "narrare di qualcosa",
+    "arte del narrare"
+  ],
+
+  "examples": [
+    {
+      "it": "Il romanzo narra la storia di una famiglia siciliana.",
+      "ja": "その小説は、あるシチリア人家族の物語を描いている。"
+    },
+    {
+      "it": "Il testimone ha narrato i fatti con grande precisione.",
+      "ja": "証人は出来事を非常に詳しく語った。"
+    },
+    {
+      "it": "La leggenda narra di un tesoro nascosto sotto il castello.",
+      "ja": "その伝説では、城の下に隠された財宝について語られている。"
+    },
+    {
+      "it": "L’autrice narra la vicenda in prima persona.",
+      "ja": "その作家は物語を一人称で語っている。"
+    },
+    {
+      "it": "Mio nonno ci narrava spesso le sue esperienze di viaggio.",
+      "ja": "祖父はよく私たちに自分の旅の経験を物語ってくれた。"
+    },
+    {
+      "it": "Il documentario narra la nascita della città moderna.",
+      "ja": "そのドキュメンタリーは近代都市の誕生を描いている。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "narro",
+        "narri",
+        "narra",
+        "narriamo",
+        "narrate",
+        "narrano"
+      ],
+
+      "Imperfetto": [
+        "narravo",
+        "narravi",
+        "narrava",
+        "narravamo",
+        "narravate",
+        "narravano"
+      ],
+
+      "Passato prossimo": [
+        "ho narrato",
+        "hai narrato",
+        "ha narrato",
+        "abbiamo narrato",
+        "avete narrato",
+        "hanno narrato"
+      ],
+
+      "Passato remoto": [
+        "narrai",
+        "narrasti",
+        "narrò",
+        "narrammo",
+        "narraste",
+        "narrarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo narrato",
+        "avevi narrato",
+        "aveva narrato",
+        "avevamo narrato",
+        "avevate narrato",
+        "avevano narrato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi narrato",
+        "avesti narrato",
+        "ebbe narrato",
+        "avemmo narrato",
+        "aveste narrato",
+        "ebbero narrato"
+      ],
+
+      "Futuro semplice": [
+        "narrerò",
+        "narrerai",
+        "narrerà",
+        "narreremo",
+        "narrerete",
+        "narreranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò narrato",
+        "avrai narrato",
+        "avrà narrato",
+        "avremo narrato",
+        "avrete narrato",
+        "avranno narrato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "narri",
+        "narri",
+        "narri",
+        "narriamo",
+        "narriate",
+        "narrino"
+      ],
+
+      "Imperfetto": [
+        "narrassi",
+        "narrassi",
+        "narrasse",
+        "narrassimo",
+        "narraste",
+        "narrassero"
+      ],
+
+      "Passato": [
+        "abbia narrato",
+        "abbia narrato",
+        "abbia narrato",
+        "abbiamo narrato",
+        "abbiate narrato",
+        "abbiano narrato"
+      ],
+
+      "Trapassato": [
+        "avessi narrato",
+        "avessi narrato",
+        "avesse narrato",
+        "avessimo narrato",
+        "aveste narrato",
+        "avessero narrato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "narrerei",
+        "narreresti",
+        "narrerebbe",
+        "narreremmo",
+        "narrereste",
+        "narrerebbero"
+      ],
+
+      "Passato": [
+        "avrei narrato",
+        "avresti narrato",
+        "avrebbe narrato",
+        "avremmo narrato",
+        "avreste narrato",
+        "avrebbero narrato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "narra",
+        "narri",
+        "narriamo",
+        "narrate",
+        "narrino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "narrare",
+        "avere narrato",
+        "narrante",
+        "narrato",
+        "narrando",
+        "avendo narrato"
+      ]
+    }
+  }
+},
+{
+  "id": "descrivere",
+  "sid": "2026-00071",
+  "word": "descrivere",
+  "ipa": "/deˈskrivere/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "descritto",
+    "gerundPresent": "descrivendo",
+    "pattern": "descrivere + persona / oggetto / luogo / situazione / come + indicativo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人・物・場所などの特徴を言葉で描写する",
+      "状況・出来事・感情などを詳しく説明する",
+      "線・円・軌道などを描く",
+      "特定の動きや経路をたどる"
+    ],
+    "it": [
+      "Rappresentare con parole le caratteristiche di una persona, di un oggetto, di un luogo o di una situazione.",
+      "Esporre dettagliatamente un fatto, uno stato o un’esperienza.",
+      "Tracciare una figura, una linea o una traiettoria.",
+      "Compiere un determinato percorso o movimento."
+    ]
+  },
+
+  "nuance": {
+    "ja": "対象の外見・性質・状態・構造などを、聞き手や読み手が具体的に思い浮かべられるように示す動詞である。raccontareやnarrareが出来事の時間的な展開に重点を置くのに対し、descrivereは対象が「どのようなものか」を示すことに重点を置く。文学だけでなく、日常会話、報告書、技術文書、特許明細書などでも広く使われる。",
+    "it": "Mette in rilievo le caratteristiche, l’aspetto, lo stato o il funzionamento di qualcosa. Raccontare e narrare presentano soprattutto lo sviluppo di avvenimenti nel tempo, mentre descrivere risponde principalmente alla domanda «com’è?». È comune tanto nella lingua quotidiana quanto nei testi letterari, scientifici e tecnici."
+  },
+
+  "etymology": {
+    "ja": "ラテン語describere（書き写す、書いて表す、描写する）に由来する。de-とscribere（書く）から成り、もともとは「書き記して示す」という意味を持っていた。scrivere、iscrivere、prescrivereなどと同じ語根を持つ。",
+    "it": "Dal latino describere, formato da de- e scribere, «scrivere». In origine significava tracciare, copiare o rappresentare per iscritto. Appartiene alla stessa famiglia di scrivere, iscrivere e prescrivere."
+  },
+
+  "minimal": [
+    {
+      "word": "descrivere",
+      "ja": "対象の特徴や状態を具体的に言葉で示す",
+      "it": "rappresentare con parole le caratteristiche o lo stato di qualcosa"
+    },
+    {
+      "word": "raccontare",
+      "ja": "出来事や経験を時間的な流れに沿って話す",
+      "it": "riferire fatti o esperienze seguendone lo sviluppo"
+    },
+    {
+      "word": "narrare",
+      "ja": "出来事を文学的・形式的な物語として構成する",
+      "it": "esporre avvenimenti in forma narrativa, spesso letteraria o formale"
+    },
+    {
+      "word": "spiegare",
+      "ja": "理由・仕組み・意味を理解できるように明らかにする",
+      "it": "rendere comprensibili il significato, le cause o il funzionamento di qualcosa"
+    }
+  ],
+
+  "synonyms": [
+    "rappresentare",
+    "raffigurare",
+    "illustrare",
+    "delineare",
+    "esporre"
+  ],
+
+  "equivalents": {
+    "en": [
+      "describe",
+      "depict",
+      "portray"
+    ],
+    "de": [
+      "beschreiben",
+      "schildern",
+      "darstellen"
+    ],
+    "fr": [
+      "décrire",
+      "dépeindre",
+      "présenter"
+    ],
+    "es": [
+      "describir",
+      "representar",
+      "retratar"
+    ]
+  },
+
+  "collocations": [
+    "descrivere una persona",
+    "descrivere un luogo",
+    "descrivere un oggetto",
+    "descrivere una situazione",
+    "descrivere un fenomeno",
+    "descrivere un procedimento",
+    "descrivere un’esperienza",
+    "descrivere un sentimento",
+    "descrivere una scena",
+    "descrivere un paesaggio",
+    "descrivere nei dettagli",
+    "descrivere con precisione",
+    "descrivere brevemente",
+    "descrivere accuratamente",
+    "descrivere come funziona qualcosa",
+    "difficile da descrivere",
+    "essere descritto come",
+    "descrivere un cerchio",
+    "descrivere una traiettoria"
+  ],
+
+  "examples": [
+    {
+      "it": "Puoi descrivere la persona che hai visto?",
+      "ja": "あなたが見た人物の特徴を説明してもらえますか。"
+    },
+    {
+      "it": "Il rapporto descrive dettagliatamente la situazione attuale.",
+      "ja": "その報告書は現在の状況を詳しく記述している。"
+    },
+    {
+      "it": "È difficile descrivere a parole quello che ho provato.",
+      "ja": "私が感じたことを言葉で表現するのは難しい。"
+    },
+    {
+      "it": "L’autore descrive il paesaggio con grande precisione.",
+      "ja": "その作家は風景を非常に精密に描写している。"
+    },
+    {
+      "it": "Il documento descrive come funziona il nuovo sistema.",
+      "ja": "その文書は新しいシステムの仕組みを説明している。"
+    },
+    {
+      "it": "Il pianeta descrive un’orbita intorno alla stella.",
+      "ja": "その惑星は恒星の周りを軌道に沿って回っている。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "descrivo",
+        "descrivi",
+        "descrive",
+        "descriviamo",
+        "descrivete",
+        "descrivono"
+      ],
+
+      "Imperfetto": [
+        "descrivevo",
+        "descrivevi",
+        "descriveva",
+        "descrivevamo",
+        "descrivevate",
+        "descrivevano"
+      ],
+
+      "Passato prossimo": [
+        "ho descritto",
+        "hai descritto",
+        "ha descritto",
+        "abbiamo descritto",
+        "avete descritto",
+        "hanno descritto"
+      ],
+
+      "Passato remoto": [
+        "descrissi",
+        "descrivesti",
+        "descrisse",
+        "descrivemmo",
+        "descriveste",
+        "descrissero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo descritto",
+        "avevi descritto",
+        "aveva descritto",
+        "avevamo descritto",
+        "avevate descritto",
+        "avevano descritto"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi descritto",
+        "avesti descritto",
+        "ebbe descritto",
+        "avemmo descritto",
+        "aveste descritto",
+        "ebbero descritto"
+      ],
+
+      "Futuro semplice": [
+        "descriverò",
+        "descriverai",
+        "descriverà",
+        "descriveremo",
+        "descriverete",
+        "descriveranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò descritto",
+        "avrai descritto",
+        "avrà descritto",
+        "avremo descritto",
+        "avrete descritto",
+        "avranno descritto"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "descriva",
+        "descriva",
+        "descriva",
+        "descriviamo",
+        "descriviate",
+        "descrivano"
+      ],
+
+      "Imperfetto": [
+        "descrivessi",
+        "descrivessi",
+        "descrivesse",
+        "descrivessimo",
+        "descriveste",
+        "descrivessero"
+      ],
+
+      "Passato": [
+        "abbia descritto",
+        "abbia descritto",
+        "abbia descritto",
+        "abbiamo descritto",
+        "abbiate descritto",
+        "abbiano descritto"
+      ],
+
+      "Trapassato": [
+        "avessi descritto",
+        "avessi descritto",
+        "avesse descritto",
+        "avessimo descritto",
+        "aveste descritto",
+        "avessero descritto"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "descriverei",
+        "descriveresti",
+        "descriverebbe",
+        "descriveremmo",
+        "descrivereste",
+        "descriverebbero"
+      ],
+
+      "Passato": [
+        "avrei descritto",
+        "avresti descritto",
+        "avrebbe descritto",
+        "avremmo descritto",
+        "avreste descritto",
+        "avrebbero descritto"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "descrivi",
+        "descriva",
+        "descriviamo",
+        "descrivete",
+        "descrivano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "descrivere",
+        "avere descritto",
+        "descrivente",
+        "descritto",
+        "descrivendo",
+        "avendo descritto"
+      ]
+    }
+  }
+},
+{
+  "id": "spiegare",
+  "sid": "2026-00072",
+  "word": "spiegare",
+  "ipa": "/spjeˈɡare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "spiegato",
+    "gerundPresent": "spiegando",
+    "pattern": "spiegare qualcosa a qualcuno / spiegare come o perché + indicativo / spiegare che + indicativo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "education"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "意味・理由・仕組みなどを説明する",
+      "物事を分かりやすく明らかにする",
+      "理由や事情を釈明する",
+      "折り畳まれた物を広げる、展開する"
+    ],
+    "it": [
+      "Rendere comprensibile un concetto, un fatto o un procedimento.",
+      "Chiarire le ragioni, le cause o il significato di qualcosa.",
+      "Giustificare un comportamento o una situazione.",
+      "Distendere o aprire qualcosa che era piegato o raccolto."
+    ]
+  },
+
+  "nuance": {
+    "ja": "聞き手が理解できるように、物事の意味・原因・仕組み・手順を明確にすることを表す。descrivereが対象の特徴や状態を言葉で描くのに対し、spiegareは「なぜそうなのか」「どのように働くのか」を理解させることに重点がある。再帰形spiegarsiは「自分の考えを説明する」のほか、「原因が理解できる」という意味でも使われる。",
+    "it": "Indica l’atto di rendere qualcosa comprensibile chiarendone il significato, le cause o il funzionamento. Descrivere mostra soprattutto com’è qualcosa, mentre spiegare chiarisce perché accade o come funziona. La forma riflessiva spiegarsi può significare sia esprimersi sia trovare una ragione comprensibile per un fatto."
+  },
+
+  "etymology": {
+    "ja": "ラテン語explicare（折り畳まれたものを広げる、展開する）に由来する。ex-（外へ）とplicare（折る）から成り、物理的に「折り目を開く」という意味から、比喩的に「複雑な事柄を解きほぐして明らかにする」という意味へ発展した。",
+    "it": "Dal latino explicare, formato da ex-, «fuori», e plicare, «piegare». Dal significato concreto di «dispiegare ciò che è piegato» si è sviluppato quello figurato di chiarire e rendere comprensibile."
+  },
+
+  "minimal": [
+    {
+      "word": "spiegare",
+      "ja": "意味・原因・仕組みを相手が理解できるように明らかにする",
+      "it": "rendere comprensibili il significato, le cause o il funzionamento di qualcosa"
+    },
+    {
+      "word": "descrivere",
+      "ja": "人・物・場所・状況の特徴や状態を言葉で描く",
+      "it": "rappresentare con parole le caratteristiche o lo stato di qualcosa"
+    },
+    {
+      "word": "chiarire",
+      "ja": "曖昧な点や誤解を取り除き、明確にする",
+      "it": "eliminare dubbi, ambiguità o equivoci"
+    },
+    {
+      "word": "dimostrare",
+      "ja": "証拠や論理によって、ある主張が正しいことを示す",
+      "it": "provare la validità di un’affermazione mediante fatti o ragionamenti"
+    }
+  ],
+
+  "synonyms": [
+    "chiarire",
+    "illustrare",
+    "esporre",
+    "interpretare",
+    "giustificare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "explain",
+      "clarify",
+      "account for"
+    ],
+    "de": [
+      "erklären",
+      "erläutern",
+      "begründen"
+    ],
+    "fr": [
+      "expliquer",
+      "clarifier",
+      "justifier"
+    ],
+    "es": [
+      "explicar",
+      "aclarar",
+      "justificar"
+    ]
+  },
+
+  "collocations": [
+    "spiegare qualcosa",
+    "spiegare qualcosa a qualcuno",
+    "spiegare il significato",
+    "spiegare il motivo",
+    "spiegare le ragioni",
+    "spiegare il funzionamento",
+    "spiegare un concetto",
+    "spiegare una regola",
+    "spiegare un problema",
+    "spiegare una situazione",
+    "spiegare la differenza",
+    "spiegare con chiarezza",
+    "spiegare in dettaglio",
+    "spiegare brevemente",
+    "spiegare come fare",
+    "spiegare perché",
+    "cercare di spiegare",
+    "difficile da spiegare",
+    "lasciarsi spiegare",
+    "spiegare le ali"
+  ],
+
+  "examples": [
+    {
+      "it": "Può spiegarmi come funziona questa macchina?",
+      "ja": "この機械がどのように動くのか説明していただけますか。"
+    },
+    {
+      "it": "L’insegnante ha spiegato la regola agli studenti.",
+      "ja": "先生は生徒たちにその規則を説明した。"
+    },
+    {
+      "it": "Non so come spiegare quello che è successo.",
+      "ja": "何が起きたのか、どう説明すればよいのか分からない。"
+    },
+    {
+      "it": "Ti spiegherò tutto quando tornerò a casa.",
+      "ja": "家に帰ったら、すべて説明します。"
+    },
+    {
+      "it": "Questo potrebbe spiegare la differenza tra i due risultati.",
+      "ja": "これによって二つの結果の違いを説明できるかもしれない。"
+    },
+    {
+      "it": "Devi spiegare perché hai preso questa decisione.",
+      "ja": "なぜこの決定を下したのか説明しなければならない。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "spiego",
+        "spieghi",
+        "spiega",
+        "spieghiamo",
+        "spiegate",
+        "spiegano"
+      ],
+
+      "Imperfetto": [
+        "spiegavo",
+        "spiegavi",
+        "spiegava",
+        "spiegavamo",
+        "spiegavate",
+        "spiegavano"
+      ],
+
+      "Passato prossimo": [
+        "ho spiegato",
+        "hai spiegato",
+        "ha spiegato",
+        "abbiamo spiegato",
+        "avete spiegato",
+        "hanno spiegato"
+      ],
+
+      "Passato remoto": [
+        "spiegai",
+        "spiegasti",
+        "spiegò",
+        "spiegammo",
+        "spiegaste",
+        "spiegarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo spiegato",
+        "avevi spiegato",
+        "aveva spiegato",
+        "avevamo spiegato",
+        "avevate spiegato",
+        "avevano spiegato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi spiegato",
+        "avesti spiegato",
+        "ebbe spiegato",
+        "avemmo spiegato",
+        "aveste spiegato",
+        "ebbero spiegato"
+      ],
+
+      "Futuro semplice": [
+        "spiegherò",
+        "spiegherai",
+        "spiegherà",
+        "spiegheremo",
+        "spiegherete",
+        "spiegheranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò spiegato",
+        "avrai spiegato",
+        "avrà spiegato",
+        "avremo spiegato",
+        "avrete spiegato",
+        "avranno spiegato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "spieghi",
+        "spieghi",
+        "spieghi",
+        "spieghiamo",
+        "spieghiate",
+        "spieghino"
+      ],
+
+      "Imperfetto": [
+        "spiegassi",
+        "spiegassi",
+        "spiegasse",
+        "spiegassimo",
+        "spiegaste",
+        "spiegassero"
+      ],
+
+      "Passato": [
+        "abbia spiegato",
+        "abbia spiegato",
+        "abbia spiegato",
+        "abbiamo spiegato",
+        "abbiate spiegato",
+        "abbiano spiegato"
+      ],
+
+      "Trapassato": [
+        "avessi spiegato",
+        "avessi spiegato",
+        "avesse spiegato",
+        "avessimo spiegato",
+        "aveste spiegato",
+        "avessero spiegato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "spiegherei",
+        "spiegheresti",
+        "spiegherebbe",
+        "spiegheremmo",
+        "spieghereste",
+        "spiegherebbero"
+      ],
+
+      "Passato": [
+        "avrei spiegato",
+        "avresti spiegato",
+        "avrebbe spiegato",
+        "avremmo spiegato",
+        "avreste spiegato",
+        "avrebbero spiegato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "spiega",
+        "spieghi",
+        "spieghiamo",
+        "spiegate",
+        "spieghino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "spiegare",
+        "avere spiegato",
+        "spiegante",
+        "spiegato",
+        "spiegando",
+        "avendo spiegato"
+      ]
+    }
+  }
+},
+{
+  "id": "cucinare",
+  "sid": "2026-00073",
+  "word": "cucinare",
+  "ipa": "/kutʃiˈnare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "cucinato",
+    "gerundPresent": "cucinando",
+    "pattern": "cucinare qualcosa / cucinare per qualcuno / cucinare con + ingrediente"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "restaurant"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "料理する、調理する",
+      "食材を使って料理を作る",
+      "加熱などによって食べ物を調理する",
+      "人のために食事を作る"
+    ],
+    "it": [
+      "Preparare alimenti o pietanze affinché possano essere mangiati.",
+      "Trasformare gli ingredienti mediante cottura o altre tecniche culinarie.",
+      "Preparare un pasto per qualcuno.",
+      "Dedicarsi all’attività della cucina."
+    ]
+  },
+
+  "nuance": {
+    "ja": "食材の準備から加熱・味付け・盛り付けまでを含む、料理を作る行為全般を表す。cuocereが主に熱を加えて食材を食べられる状態にする過程を指すのに対し、cucinareは料理全体の準備を指す。自動詞的に使われる場合は、特定の料理ではなく「料理をする」という活動そのものを表す。",
+    "it": "Indica l’intera attività di preparazione di un cibo o di un pasto, dalla lavorazione degli ingredienti alla cottura. Cuocere mette invece in rilievo specificamente la trasformazione prodotta dal calore. Usato senza complemento, cucinare indica l’attività culinaria in generale."
+  },
+
+  "etymology": {
+    "ja": "名詞cucina（台所、料理）から作られた動詞である。cucinaは俗ラテン語cocinaを経て、ラテン語coquina（台所）に由来し、さらに動詞coquere（煮る、焼く）と関係する。cuocereや英語cookとも歴史的に関連する。",
+    "it": "Deriva dal sostantivo cucina, continuazione del latino volgare cocina e del latino coquina, «luogo in cui si cuoce». La famiglia etimologica risale al verbo latino coquere, «cuocere»."
+  },
+
+  "minimal": [
+    {
+      "word": "cucinare",
+      "ja": "食材を組み合わせ、料理や食事を作る行為全体を表す",
+      "it": "preparare una pietanza o un pasto attraverso diverse operazioni"
+    },
+    {
+      "word": "cuocere",
+      "ja": "熱を加えて食材を食べられる状態にする",
+      "it": "trasformare un alimento mediante l’azione del calore"
+    },
+    {
+      "word": "preparare",
+      "ja": "料理に限らず、物事を使用・実行できる状態に整える",
+      "it": "rendere qualcosa pronto per l’uso o per lo svolgimento di un’attività"
+    },
+    {
+      "word": "infornare",
+      "ja": "食材や料理をオーブンに入れて加熱する",
+      "it": "mettere un alimento nel forno per cuocerlo"
+    }
+  ],
+
+  "synonyms": [
+    "preparare",
+    "cuocere",
+    "confezionare",
+    "elaborare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "cook",
+      "prepare food"
+    ],
+    "de": [
+      "kochen",
+      "zubereiten"
+    ],
+    "fr": [
+      "cuisiner",
+      "préparer"
+    ],
+    "es": [
+      "cocinar",
+      "preparar"
+    ]
+  },
+
+  "collocations": [
+    "cucinare un piatto",
+    "cucinare un pasto",
+    "cucinare la cena",
+    "cucinare il pranzo",
+    "cucinare la pasta",
+    "cucinare il pesce",
+    "cucinare la carne",
+    "cucinare le verdure",
+    "cucinare a casa",
+    "cucinare per qualcuno",
+    "cucinare insieme",
+    "cucinare bene",
+    "cucinare male",
+    "cucinare con ingredienti freschi",
+    "cucinare a fuoco lento",
+    "cucinare al forno",
+    "cucinare alla griglia",
+    "avere voglia di cucinare",
+    "imparare a cucinare"
+  ],
+
+  "examples": [
+    {
+      "it": "Mi piace cucinare per la mia famiglia.",
+      "ja": "私は家族のために料理をするのが好きだ。"
+    },
+    {
+      "it": "Che cosa cuciniamo questa sera?",
+      "ja": "今晩は何を作りましょうか。"
+    },
+    {
+      "it": "Mia moglie ha cucinato un ottimo piatto di pasta.",
+      "ja": "妻はとてもおいしいパスタ料理を作った。"
+    },
+    {
+      "it": "Queste verdure devono essere cucinate a fuoco lento.",
+      "ja": "これらの野菜は弱火でじっくり調理しなければならない。"
+    },
+    {
+      "it": "Sto imparando a cucinare alcuni piatti italiani.",
+      "ja": "私はいくつかのイタリア料理の作り方を学んでいる。"
+    },
+    {
+      "it": "Quando torno tardi dal lavoro, non ho voglia di cucinare.",
+      "ja": "仕事から遅く帰ると、料理をする気にならない。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "cucino",
+        "cucini",
+        "cucina",
+        "cuciniamo",
+        "cucinate",
+        "cucinano"
+      ],
+
+      "Imperfetto": [
+        "cucinavo",
+        "cucinavi",
+        "cucinava",
+        "cucinavamo",
+        "cucinavate",
+        "cucinavano"
+      ],
+
+      "Passato prossimo": [
+        "ho cucinato",
+        "hai cucinato",
+        "ha cucinato",
+        "abbiamo cucinato",
+        "avete cucinato",
+        "hanno cucinato"
+      ],
+
+      "Passato remoto": [
+        "cucinai",
+        "cucinasti",
+        "cucinò",
+        "cucinammo",
+        "cucinaste",
+        "cucinarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo cucinato",
+        "avevi cucinato",
+        "aveva cucinato",
+        "avevamo cucinato",
+        "avevate cucinato",
+        "avevano cucinato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi cucinato",
+        "avesti cucinato",
+        "ebbe cucinato",
+        "avemmo cucinato",
+        "aveste cucinato",
+        "ebbero cucinato"
+      ],
+
+      "Futuro semplice": [
+        "cucinerò",
+        "cucinerai",
+        "cucinerà",
+        "cucineremo",
+        "cucinerete",
+        "cucineranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò cucinato",
+        "avrai cucinato",
+        "avrà cucinato",
+        "avremo cucinato",
+        "avrete cucinato",
+        "avranno cucinato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "cucini",
+        "cucini",
+        "cucini",
+        "cuciniamo",
+        "cuciniate",
+        "cucinino"
+      ],
+
+      "Imperfetto": [
+        "cucinassi",
+        "cucinassi",
+        "cucinasse",
+        "cucinassimo",
+        "cucinaste",
+        "cucinassero"
+      ],
+
+      "Passato": [
+        "abbia cucinato",
+        "abbia cucinato",
+        "abbia cucinato",
+        "abbiamo cucinato",
+        "abbiate cucinato",
+        "abbiano cucinato"
+      ],
+
+      "Trapassato": [
+        "avessi cucinato",
+        "avessi cucinato",
+        "avesse cucinato",
+        "avessimo cucinato",
+        "aveste cucinato",
+        "avessero cucinato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "cucinerei",
+        "cucineresti",
+        "cucinerebbe",
+        "cucineremmo",
+        "cucinereste",
+        "cucinerebbero"
+      ],
+
+      "Passato": [
+        "avrei cucinato",
+        "avresti cucinato",
+        "avrebbe cucinato",
+        "avremmo cucinato",
+        "avreste cucinato",
+        "avrebbero cucinato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "cucina",
+        "cucini",
+        "cuciniamo",
+        "cucinate",
+        "cucinino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "cucinare",
+        "avere cucinato",
+        "cucinante",
+        "cucinato",
+        "cucinando",
+        "avendo cucinato"
+      ]
+    }
+  }
+},
+{
+  "id": "mangiare",
+  "sid": "2026-00074",
+  "word": "mangiare",
+  "ipa": "/manˈdʒare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "mangiato",
+    "gerundPresent": "mangiando",
+    "pattern": "mangiare qualcosa / mangiare a + pasto / mangiare con qualcuno"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "restaurant",
+      "travel"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "食べる、食物を口にして摂取する",
+      "食事をする",
+      "特定の食事・料理を食べる",
+      "腐食・浸食などによって徐々に消耗させる",
+      "比喩的に時間・金銭・資源などを大量に消費する"
+    ],
+    "it": [
+      "Ingerire e consumare un alimento.",
+      "Consumare un pasto.",
+      "Prendere parte a un pranzo, a una cena o a un’altra occasione alimentare.",
+      "Consumare o corrodere progressivamente qualcosa.",
+      "In senso figurato, assorbire una grande quantità di tempo, denaro o risorse."
+    ]
+  },
+
+  "nuance": {
+    "ja": "食物を摂取することから食事をすることまでを広く表す基本動詞である。目的語を伴う場合は何を食べるかを示し、目的語なしでは食事をする行為そのものを表す。pranzareとcenareがそれぞれ昼食・夕食に限定されるのに対し、mangiareは時間帯を問わず使用できる。再帰・代名動詞形mangiarsiは、完食することや、食べる行為への強い関与を表すことがある。",
+    "it": "È il verbo fondamentale per indicare l’assunzione di cibo o il consumo di un pasto. Con un complemento oggetto specifica ciò che viene consumato; senza complemento indica l’attività del mangiare in generale. Diversamente da pranzare e cenare, non è limitato a un particolare pasto. La forma mangiarsi può sottolineare il consumo completo o il coinvolgimento del soggetto."
+  },
+
+  "etymology": {
+    "ja": "古フランス語またはガロ・ロマンス語の形を経て、ラテン語manducare（かむ、食べる）に由来する。manducareはmandere（かむ）から派生した。フランス語mangerも同じ語源を持つ。",
+    "it": "Deriva dal francese antico mangier o da una forma galloromanza affine, risalente al latino manducare, «masticare, mangiare», a sua volta collegato a mandere, «masticare»."
+  },
+
+  "minimal": [
+    {
+      "word": "mangiare",
+      "ja": "時間帯を問わず、食べ物を摂取する、または食事をする",
+      "it": "ingerire del cibo o consumare un pasto in generale"
+    },
+    {
+      "word": "pranzare",
+      "ja": "昼食を取る",
+      "it": "consumare il pranzo"
+    },
+    {
+      "word": "cenare",
+      "ja": "夕食を取る",
+      "it": "consumare la cena"
+    },
+    {
+      "word": "assaggiare",
+      "ja": "味を確かめるために少量を口にする",
+      "it": "mangiare o bere una piccola quantità per valutarne il sapore"
+    }
+  ],
+
+  "synonyms": [
+    "nutrirsi",
+    "alimentarsi",
+    "consumare",
+    "cibarsi",
+    "ingerire"
+  ],
+
+  "equivalents": {
+    "en": [
+      "eat",
+      "have a meal",
+      "consume"
+    ],
+    "de": [
+      "essen",
+      "eine Mahlzeit einnehmen",
+      "verzehren"
+    ],
+    "fr": [
+      "manger",
+      "prendre un repas",
+      "consommer"
+    ],
+    "es": [
+      "comer",
+      "tomar una comida",
+      "consumir"
+    ]
+  },
+
+  "collocations": [
+    "mangiare qualcosa",
+    "mangiare bene",
+    "mangiare male",
+    "mangiare sano",
+    "mangiare troppo",
+    "mangiare poco",
+    "mangiare fuori",
+    "mangiare a casa",
+    "mangiare insieme",
+    "mangiare con qualcuno",
+    "mangiare al ristorante",
+    "mangiare a colazione",
+    "mangiare a pranzo",
+    "mangiare a cena",
+    "mangiare carne",
+    "mangiare pesce",
+    "mangiare frutta e verdura",
+    "mangiare un boccone",
+    "mangiare con appetito",
+    "avere qualcosa da mangiare",
+    "dare da mangiare",
+    "niente da mangiare",
+    "mangiare a sazietà",
+    "mangiare come un uccellino",
+    "mangiare come un lupo"
+  ],
+
+  "examples": [
+    {
+      "it": "Che cosa vuoi mangiare questa sera?",
+      "ja": "今晩は何を食べたいですか。"
+    },
+    {
+      "it": "Di solito mangiamo insieme alle sette.",
+      "ja": "私たちは普段7時に一緒に食事をする。"
+    },
+    {
+      "it": "Ieri ho mangiato una pizza molto buona.",
+      "ja": "昨日、とてもおいしいピザを食べた。"
+    },
+    {
+      "it": "Il medico mi ha consigliato di mangiare più verdura.",
+      "ja": "医師は私に野菜をもっと食べるよう勧めた。"
+    },
+    {
+      "it": "Hai già mangiato?",
+      "ja": "もう食事をしましたか。"
+    },
+    {
+      "it": "Questa attività mangia molto tempo e denaro.",
+      "ja": "この活動には多くの時間とお金が費やされる。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mangio",
+        "mangi",
+        "mangia",
+        "mangiamo",
+        "mangiate",
+        "mangiano"
+      ],
+
+      "Imperfetto": [
+        "mangiavo",
+        "mangiavi",
+        "mangiava",
+        "mangiavamo",
+        "mangiavate",
+        "mangiavano"
+      ],
+
+      "Passato prossimo": [
+        "ho mangiato",
+        "hai mangiato",
+        "ha mangiato",
+        "abbiamo mangiato",
+        "avete mangiato",
+        "hanno mangiato"
+      ],
+
+      "Passato remoto": [
+        "mangiai",
+        "mangiasti",
+        "mangiò",
+        "mangiammo",
+        "mangiaste",
+        "mangiarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo mangiato",
+        "avevi mangiato",
+        "aveva mangiato",
+        "avevamo mangiato",
+        "avevate mangiato",
+        "avevano mangiato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi mangiato",
+        "avesti mangiato",
+        "ebbe mangiato",
+        "avemmo mangiato",
+        "aveste mangiato",
+        "ebbero mangiato"
+      ],
+
+      "Futuro semplice": [
+        "mangerò",
+        "mangerai",
+        "mangerà",
+        "mangeremo",
+        "mangerete",
+        "mangeranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò mangiato",
+        "avrai mangiato",
+        "avrà mangiato",
+        "avremo mangiato",
+        "avrete mangiato",
+        "avranno mangiato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mangi",
+        "mangi",
+        "mangi",
+        "mangiamo",
+        "mangiate",
+        "mangino"
+      ],
+
+      "Imperfetto": [
+        "mangiassi",
+        "mangiassi",
+        "mangiasse",
+        "mangiassimo",
+        "mangiaste",
+        "mangiassero"
+      ],
+
+      "Passato": [
+        "abbia mangiato",
+        "abbia mangiato",
+        "abbia mangiato",
+        "abbiamo mangiato",
+        "abbiate mangiato",
+        "abbiano mangiato"
+      ],
+
+      "Trapassato": [
+        "avessi mangiato",
+        "avessi mangiato",
+        "avesse mangiato",
+        "avessimo mangiato",
+        "aveste mangiato",
+        "avessero mangiato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mangerei",
+        "mangeresti",
+        "mangerebbe",
+        "mangeremmo",
+        "mangereste",
+        "mangerebbero"
+      ],
+
+      "Passato": [
+        "avrei mangiato",
+        "avresti mangiato",
+        "avrebbe mangiato",
+        "avremmo mangiato",
+        "avreste mangiato",
+        "avrebbero mangiato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "mangia",
+        "mangi",
+        "mangiamo",
+        "mangiate",
+        "mangino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "mangiare",
+        "avere mangiato",
+        "mangiante",
+        "mangiato",
+        "mangiando",
+        "avendo mangiato"
+      ]
+    }
+  }
 }
 ]
