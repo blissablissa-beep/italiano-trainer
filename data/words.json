@@ -4257,5 +4257,923 @@
       ]
     }
   }
+},
+{
+  "id": "scendere",
+  "sid": "2026-00016",
+  "word": "scendere",
+  "ipa": "/ˈʃendere/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "essere; avere negli usi transitivi",
+    "pastParticiple": "sceso",
+    "gerundPresent": "scendendo",
+    "pattern": "scendere da/in/a + luogo / scendere le scale / scendere di livello o valore"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "business",
+      "academic"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "下りる、下降する",
+      "乗り物から降りる",
+      "ある場所から下へ移動する",
+      "温度・価格・水準などが下がる",
+      "階段・坂道などを下る"
+    ],
+    "it": [
+      "Muoversi da un luogo più alto verso uno più basso.",
+      "Uscire da un mezzo di trasporto.",
+      "Diminuire di livello, intensità, quantità o valore.",
+      "Percorrere verso il basso una scala, una strada o un pendio."
+    ]
+  },
+
+  "nuance": {
+    "ja": "上から下への移動を表し、salireと対になる。乗り物から「降りる」場合はscendere daを使い、目的地や途中の場所で降車する場合はscendere aを使う。自動詞の複合時制ではessereを用いるが、scendere le scaleのように目的語を直接取る他動詞用法ではavereも用いられる。",
+    "it": "Indica un movimento dall’alto verso il basso e si contrappone a salire. Scendere da indica l’uscita da un mezzo o la provenienza da un luogo elevato, mentre scendere a può indicare il luogo in cui si lascia un mezzo. Nei tempi composti si usa essere negli usi intransitivi e avere negli usi transitivi."
+  },
+
+  "etymology": {
+    "ja": "ラテン語descendere（下りる）に由来する。これはde-（下へ）とscandere（登る、歩みを進める）から成る。フランス語descendre、スペイン語descenderと同語源である。",
+    "it": "Dal latino descendere, formato da de-, con valore di movimento verso il basso, e scandere, «salire o avanzare». È imparentato con il francese descendre e lo spagnolo descender."
+  },
+
+  "minimal": [
+    {
+      "word": "scendere",
+      "ja": "上から下へ移動する、または数値・程度が下がる",
+      "it": "muoversi verso il basso o diminuire di livello o valore"
+    },
+    {
+      "word": "salire",
+      "ja": "下から上へ移動する、または数値・程度が上がる",
+      "it": "muoversi verso l’alto o aumentare di livello o valore"
+    },
+    {
+      "word": "uscire",
+      "ja": "場所・建物・乗り物などの内部から外へ出る",
+      "it": "passare dall’interno di un luogo o di un mezzo verso l’esterno"
+    }
+  ],
+
+  "synonyms": [
+    "discendere",
+    "calare",
+    "diminuire",
+    "abbassarsi"
+  ],
+
+  "equivalents": {
+    "en": [
+      "go down",
+      "descend",
+      "get off"
+    ],
+    "de": [
+      "hinuntergehen",
+      "absteigen",
+      "aussteigen"
+    ],
+    "fr": [
+      "descendre",
+      "baisser"
+    ],
+    "es": [
+      "bajar",
+      "descender"
+    ]
+  },
+
+  "collocations": [
+    "scendere le scale",
+    "scendere dalla montagna",
+    "scendere dalla macchina",
+    "scendere dall’autobus",
+    "scendere dal treno",
+    "scendere alla prossima fermata",
+    "scendere in strada",
+    "scendere in città",
+    "scendere in campo",
+    "scendere a valle",
+    "scendere al piano terra",
+    "scendere di prezzo",
+    "scendere di temperatura",
+    "scendere sotto zero",
+    "scendere a compromessi",
+    "scendere nei dettagli",
+    "far scendere qualcuno"
+  ],
+
+  "examples": [
+    {
+      "it": "Scendo alla prossima fermata.",
+      "ja": "私は次の停留所で降ります。"
+    },
+    {
+      "it": "Siamo scesi dal treno a Firenze.",
+      "ja": "私たちはフィレンツェで列車を降りた。"
+    },
+    {
+      "it": "È scesa lentamente al piano terra.",
+      "ja": "彼女はゆっくりと1階へ下りた。"
+    },
+    {
+      "it": "Ho sceso le scale di corsa.",
+      "ja": "私は階段を駆け下りた。"
+    },
+    {
+      "it": "La temperatura è scesa sotto zero.",
+      "ja": "気温が零度を下回った。"
+    },
+    {
+      "it": "I prezzi potrebbero scendere nei prossimi mesi.",
+      "ja": "価格は今後数か月で下がる可能性がある。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "scendo",
+        "scendi",
+        "scende",
+        "scendiamo",
+        "scendete",
+        "scendono"
+      ],
+
+      "Imperfetto": [
+        "scendevo",
+        "scendevi",
+        "scendeva",
+        "scendevamo",
+        "scendevate",
+        "scendevano"
+      ],
+
+      "Passato prossimo": [
+        "sono sceso/a",
+        "sei sceso/a",
+        "è sceso/a",
+        "siamo scesi/e",
+        "siete scesi/e",
+        "sono scesi/e"
+      ],
+
+      "Passato remoto": [
+        "scesi",
+        "scendesti",
+        "scese",
+        "scendemmo",
+        "scendeste",
+        "scesero"
+      ],
+
+      "Trapassato prossimo": [
+        "ero sceso/a",
+        "eri sceso/a",
+        "era sceso/a",
+        "eravamo scesi/e",
+        "eravate scesi/e",
+        "erano scesi/e"
+      ],
+
+      "Trapassato remoto": [
+        "fui sceso/a",
+        "fosti sceso/a",
+        "fu sceso/a",
+        "fummo scesi/e",
+        "foste scesi/e",
+        "furono scesi/e"
+      ],
+
+      "Futuro semplice": [
+        "scenderò",
+        "scenderai",
+        "scenderà",
+        "scenderemo",
+        "scenderete",
+        "scenderanno"
+      ],
+
+      "Futuro anteriore": [
+        "sarò sceso/a",
+        "sarai sceso/a",
+        "sarà sceso/a",
+        "saremo scesi/e",
+        "sarete scesi/e",
+        "saranno scesi/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "scenda",
+        "scenda",
+        "scenda",
+        "scendiamo",
+        "scendiate",
+        "scendano"
+      ],
+
+      "Imperfetto": [
+        "scendessi",
+        "scendessi",
+        "scendesse",
+        "scendessimo",
+        "scendeste",
+        "scendessero"
+      ],
+
+      "Passato": [
+        "sia sceso/a",
+        "sia sceso/a",
+        "sia sceso/a",
+        "siamo scesi/e",
+        "siate scesi/e",
+        "siano scesi/e"
+      ],
+
+      "Trapassato": [
+        "fossi sceso/a",
+        "fossi sceso/a",
+        "fosse sceso/a",
+        "fossimo scesi/e",
+        "foste scesi/e",
+        "fossero scesi/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "scenderei",
+        "scenderesti",
+        "scenderebbe",
+        "scenderemmo",
+        "scendereste",
+        "scenderebbero"
+      ],
+
+      "Passato": [
+        "sarei sceso/a",
+        "saresti sceso/a",
+        "sarebbe sceso/a",
+        "saremmo scesi/e",
+        "sareste scesi/e",
+        "sarebbero scesi/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "scendi",
+        "scenda",
+        "scendiamo",
+        "scendete",
+        "scendano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "scendere",
+        "essere sceso/a/i/e",
+        "scendente",
+        "sceso",
+        "scendendo",
+        "essendo sceso/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "salire",
+  "sid": "2026-00017",
+  "word": "salire",
+  "ipa": "/saˈlire/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "essere; avere negli usi transitivi",
+    "pastParticiple": "salito",
+    "gerundPresent": "salendo",
+    "pattern": "salire su/in/a + luogo o mezzo / salire le scale / salire di livello o valore"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "business",
+      "academic"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "上る、上がる、上昇する",
+      "乗り物に乗る",
+      "階段・坂道・山などを上る",
+      "温度・価格・水準などが上がる",
+      "地位・順位などが高くなる"
+    ],
+    "it": [
+      "Muoversi da un luogo più basso verso uno più alto.",
+      "Entrare o prendere posto su un mezzo di trasporto.",
+      "Percorrere verso l’alto una scala, una strada o una montagna.",
+      "Aumentare di livello, intensità, quantità o valore.",
+      "Raggiungere una posizione, un grado o una categoria superiore."
+    ]
+  },
+
+  "nuance": {
+    "ja": "下から上への移動を表し、scendereと対になる。乗り物に「乗る」場合は通常salire suを使うが、車についてはsalire in macchinaも一般的である。自動詞の複合時制ではessereを用いる。一方、salire le scaleやsalire una montagnaのように経路を直接目的語に取る他動詞用法ではavereを用いることがある。",
+    "it": "Indica un movimento dal basso verso l’alto e si contrappone a scendere. Per entrare in un mezzo si usa normalmente salire su, mentre con macchina è comune anche salire in macchina. Nei tempi composti richiede essere negli usi intransitivi e può richiedere avere quando è usato transitivamente con un percorso come oggetto."
+  },
+
+  "etymology": {
+    "ja": "ラテン語salīre（跳ぶ、跳ねる）に由来する。そこから「上方へ移動する」という意味が発達した。同じ語根はイタリア語saltare、フランス語saillir、英語のsalientなどにも見られる。",
+    "it": "Dal latino salīre, «saltare, balzare», da cui si è sviluppato il significato di movimento verso l’alto. La stessa radice è presente in parole come saltare e saliente."
+  },
+
+  "minimal": [
+    {
+      "word": "salire",
+      "ja": "下から上へ移動する、乗り物に乗る、または数値が上がる",
+      "it": "muoversi verso l’alto, entrare in un mezzo o aumentare di livello"
+    },
+    {
+      "word": "scendere",
+      "ja": "上から下へ移動する、乗り物から降りる、または数値が下がる",
+      "it": "muoversi verso il basso, lasciare un mezzo o diminuire di livello"
+    },
+    {
+      "word": "montare",
+      "ja": "機械・自転車・馬などに乗る、または部品を組み立てる",
+      "it": "mettersi sopra un mezzo, un animale o assemblare diversi componenti"
+    }
+  ],
+
+  "synonyms": [
+    "ascendere",
+    "montare",
+    "aumentare",
+    "elevarsi"
+  ],
+
+  "equivalents": {
+    "en": [
+      "go up",
+      "climb",
+      "get on",
+      "rise"
+    ],
+    "de": [
+      "hinaufgehen",
+      "steigen",
+      "einsteigen"
+    ],
+    "fr": [
+      "monter",
+      "grimper"
+    ],
+    "es": [
+      "subir",
+      "ascender"
+    ]
+  },
+
+  "collocations": [
+    "salire le scale",
+    "salire una montagna",
+    "salire su una collina",
+    "salire al piano superiore",
+    "salire sul tetto",
+    "salire sull’autobus",
+    "salire sul treno",
+    "salire in macchina",
+    "salire a bordo",
+    "salire in ascensore",
+    "salire di prezzo",
+    "salire di temperatura",
+    "salire di livello",
+    "salire di grado",
+    "salire in classifica",
+    "salire al potere",
+    "far salire qualcuno"
+  ],
+
+  "examples": [
+    {
+      "it": "Saliamo al secondo piano.",
+      "ja": "私たちは2階へ上がります。"
+    },
+    {
+      "it": "Sono salito sul treno appena in tempo.",
+      "ja": "私はぎりぎり間に合って列車に乗った。"
+    },
+    {
+      "it": "È salita in macchina senza dire nulla.",
+      "ja": "彼女は何も言わずに車に乗った。"
+    },
+    {
+      "it": "Abbiamo salito le scale lentamente.",
+      "ja": "私たちはゆっくりと階段を上った。"
+    },
+    {
+      "it": "La temperatura è salita rapidamente.",
+      "ja": "気温が急速に上昇した。"
+    },
+    {
+      "it": "Il prezzo del petrolio potrebbe salire ancora.",
+      "ja": "原油価格はさらに上昇する可能性がある。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "salgo",
+        "sali",
+        "sale",
+        "saliamo",
+        "salite",
+        "salgono"
+      ],
+
+      "Imperfetto": [
+        "salivo",
+        "salivi",
+        "saliva",
+        "salivamo",
+        "salivate",
+        "salivano"
+      ],
+
+      "Passato prossimo": [
+        "sono salito/a",
+        "sei salito/a",
+        "è salito/a",
+        "siamo saliti/e",
+        "siete saliti/e",
+        "sono saliti/e"
+      ],
+
+      "Passato remoto": [
+        "salii",
+        "salisti",
+        "salì",
+        "salimmo",
+        "saliste",
+        "salirono"
+      ],
+
+      "Trapassato prossimo": [
+        "ero salito/a",
+        "eri salito/a",
+        "era salito/a",
+        "eravamo saliti/e",
+        "eravate saliti/e",
+        "erano saliti/e"
+      ],
+
+      "Trapassato remoto": [
+        "fui salito/a",
+        "fosti salito/a",
+        "fu salito/a",
+        "fummo saliti/e",
+        "foste saliti/e",
+        "furono saliti/e"
+      ],
+
+      "Futuro semplice": [
+        "salirò",
+        "salirai",
+        "salirà",
+        "saliremo",
+        "salirete",
+        "saliranno"
+      ],
+
+      "Futuro anteriore": [
+        "sarò salito/a",
+        "sarai salito/a",
+        "sarà salito/a",
+        "saremo saliti/e",
+        "sarete saliti/e",
+        "saranno saliti/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "salga",
+        "salga",
+        "salga",
+        "saliamo",
+        "saliate",
+        "salgano"
+      ],
+
+      "Imperfetto": [
+        "salissi",
+        "salissi",
+        "salisse",
+        "salissimo",
+        "saliste",
+        "salissero"
+      ],
+
+      "Passato": [
+        "sia salito/a",
+        "sia salito/a",
+        "sia salito/a",
+        "siamo saliti/e",
+        "siate saliti/e",
+        "siano saliti/e"
+      ],
+
+      "Trapassato": [
+        "fossi salito/a",
+        "fossi salito/a",
+        "fosse salito/a",
+        "fossimo saliti/e",
+        "foste saliti/e",
+        "fossero saliti/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "salirei",
+        "saliresti",
+        "salirebbe",
+        "saliremmo",
+        "salireste",
+        "salirebbero"
+      ],
+
+      "Passato": [
+        "sarei salito/a",
+        "saresti salito/a",
+        "sarebbe salito/a",
+        "saremmo saliti/e",
+        "sareste saliti/e",
+        "sarebbero saliti/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "sali",
+        "salga",
+        "saliamo",
+        "salite",
+        "salgano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "salire",
+        "essere salito/a/i/e",
+        "salente",
+        "salito",
+        "salendo",
+        "essendo salito/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "vedere",
+  "sid": "2026-00018",
+  "word": "vedere",
+  "ipa": "/veˈdere/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "visto",
+    "gerundPresent": "vedendo",
+    "pattern": "vedere + nome / vedere qualcuno fare qualcosa / vedere se + frase"
+  },
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "business",
+      "academic"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "見る、目にする",
+      "見える、視覚によって認識する",
+      "人に会う、面会する",
+      "映画・番組・試合などを見る",
+      "理解する、確認する、検討する"
+    ],
+    "it": [
+      "Percepire qualcuno o qualcosa attraverso la vista.",
+      "Assistere a un film, uno spettacolo o un evento.",
+      "Incontrare o frequentare una persona.",
+      "Comprendere, controllare o esaminare una situazione."
+    ]
+  },
+  "nuance": {
+    "ja": "視界に入った人や物を認識することを表す基本動詞で、意識的に視線を向けるguardareと区別される。ただし、映画・番組・試合などの鑑賞には一般にvedereを使う。人を目的語にすると「会う、面会する」という意味にもなる。",
+    "it": "Indica soprattutto la percezione visiva e si distingue da guardare, che sottolinea l'atto intenzionale di rivolgere lo sguardo. Per film, programmi e spettacoli si usa normalmente vedere. Riferito a una persona può significare anche incontrare o frequentare."
+  },
+  "etymology": {
+    "ja": "ラテン語videre（見る）に由来する。同じ語根はイタリア語visione、visibile、evidente、フランス語voir、スペイン語ver、英語visionやvideoなどにも見られる。",
+    "it": "Dal latino videre, con il significato di percepire con gli occhi. La stessa radice compare in visione, visibile, evidente e in parole internazionali come video."
+  },
+  "minimal": [
+    {
+      "word": "vedere",
+      "ja": "人や物を視覚によって認識する",
+      "it": "percepire qualcuno o qualcosa attraverso la vista"
+    },
+    {
+      "word": "guardare",
+      "ja": "対象へ意識的に視線や注意を向ける",
+      "it": "rivolgere intenzionalmente lo sguardo verso qualcosa"
+    },
+    {
+      "word": "osservare",
+      "ja": "特徴や変化を把握するため注意深く見る",
+      "it": "esaminare qualcosa con particolare attenzione"
+    }
+  ],
+  "synonyms": [
+    "osservare",
+    "notare",
+    "scorgere",
+    "incontrare",
+    "constatare"
+  ],
+  "equivalents": {
+    "en": [
+      "see",
+      "watch",
+      "meet"
+    ],
+    "de": [
+      "sehen",
+      "anschauen",
+      "treffen"
+    ],
+    "fr": [
+      "voir",
+      "regarder",
+      "rencontrer"
+    ],
+    "es": [
+      "ver",
+      "mirar",
+      "encontrarse con"
+    ]
+  },
+  "collocations": [
+    "vedere qualcuno",
+    "vedere qualcosa",
+    "vedere bene",
+    "vedere male",
+    "vedere un film",
+    "vedere uno spettacolo",
+    "vedere una partita",
+    "vedere un medico",
+    "vedere con i propri occhi",
+    "vedere da vicino",
+    "vedere da lontano",
+    "vedere di persona",
+    "vedere che cosa succede",
+    "vedere se è possibile",
+    "far vedere qualcosa",
+    "farsi vedere",
+    "non vedere l'ora di",
+    "vederci chiaro",
+    "stare a vedere"
+  ],
+  "examples": [
+    {
+      "it": "Vedo una luce in fondo alla strada.",
+      "ja": "道の先に明かりが見える。"
+    },
+    {
+      "it": "Hai già visto questo film?",
+      "ja": "この映画をもう見ましたか。"
+    },
+    {
+      "it": "Domani vedrò il mio medico.",
+      "ja": "明日、かかりつけの医師に会う。"
+    },
+    {
+      "it": "Non vedo bene senza occhiali.",
+      "ja": "眼鏡なしではよく見えない。"
+    },
+    {
+      "it": "Vediamo se possiamo risolvere il problema.",
+      "ja": "その問題を解決できるか確認してみよう。"
+    },
+    {
+      "it": "Non vedo l'ora di visitare l'Italia.",
+      "ja": "イタリアを訪れるのが待ちきれない。"
+    },
+    {
+      "it": "L'ho visto entrare nell'edificio.",
+      "ja": "私は彼が建物に入るのを見た。"
+    }
+  ],
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "vedo",
+        "vedi",
+        "vede",
+        "vediamo",
+        "vedete",
+        "vedono"
+      ],
+      "Imperfetto": [
+        "vedevo",
+        "vedevi",
+        "vedeva",
+        "vedevamo",
+        "vedevate",
+        "vedevano"
+      ],
+      "Passato prossimo": [
+        "ho visto",
+        "hai visto",
+        "ha visto",
+        "abbiamo visto",
+        "avete visto",
+        "hanno visto"
+      ],
+      "Passato remoto": [
+        "vidi",
+        "vedesti",
+        "vide",
+        "vedemmo",
+        "vedeste",
+        "videro"
+      ],
+      "Trapassato prossimo": [
+        "avevo visto",
+        "avevi visto",
+        "aveva visto",
+        "avevamo visto",
+        "avevate visto",
+        "avevano visto"
+      ],
+      "Trapassato remoto": [
+        "ebbi visto",
+        "avesti visto",
+        "ebbe visto",
+        "avemmo visto",
+        "aveste visto",
+        "ebbero visto"
+      ],
+      "Futuro semplice": [
+        "vedrò",
+        "vedrai",
+        "vedrà",
+        "vedremo",
+        "vedrete",
+        "vedranno"
+      ],
+      "Futuro anteriore": [
+        "avrò visto",
+        "avrai visto",
+        "avrà visto",
+        "avremo visto",
+        "avrete visto",
+        "avranno visto"
+      ]
+    },
+    "Congiuntivo": {
+      "Presente": [
+        "veda",
+        "veda",
+        "veda",
+        "vediamo",
+        "vediate",
+        "vedano"
+      ],
+      "Imperfetto": [
+        "vedessi",
+        "vedessi",
+        "vedesse",
+        "vedessimo",
+        "vedeste",
+        "vedessero"
+      ],
+      "Passato": [
+        "abbia visto",
+        "abbia visto",
+        "abbia visto",
+        "abbiamo visto",
+        "abbiate visto",
+        "abbiano visto"
+      ],
+      "Trapassato": [
+        "avessi visto",
+        "avessi visto",
+        "avesse visto",
+        "avessimo visto",
+        "aveste visto",
+        "avessero visto"
+      ]
+    },
+    "Condizionale": {
+      "Presente": [
+        "vedrei",
+        "vedresti",
+        "vedrebbe",
+        "vedremmo",
+        "vedreste",
+        "vedrebbero"
+      ],
+      "Passato": [
+        "avrei visto",
+        "avresti visto",
+        "avrebbe visto",
+        "avremmo visto",
+        "avreste visto",
+        "avrebbero visto"
+      ]
+    },
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "vedi",
+        "veda",
+        "vediamo",
+        "vedete",
+        "vedano"
+      ]
+    },
+    "Forme indefinite": {
+      "Forme": [
+        "vedere",
+        "avere visto",
+        "vedente",
+        "visto",
+        "vedendo",
+        "avendo visto"
+      ]
+    }
+  }
 }
 ]
