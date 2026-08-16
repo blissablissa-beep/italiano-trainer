@@ -17872,5 +17872,958 @@
       ]
     }
   }
+},
+{
+  "id": "pensare",
+  "sid": "2026-00117",
+  "word": "pensare",
+  "ipa": "/penˈsare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "pensato",
+    "gerundPresent": "pensando",
+    "pattern": "pensare a + nome / pensare di + infinito / pensare che + indicativo o congiuntivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "考える、思考する",
+      "人・物・出来事について考える",
+      "～だと思う、判断する",
+      "～するつもりである、計画する",
+      "人や物を気にかける、配慮する",
+      "解決策などを思いつく、考案する"
+    ],
+    "it": [
+      "Esercitare il pensiero e riflettere.",
+      "Rivolgere la mente a una persona, una cosa o una situazione.",
+      "Formulare un’opinione, un giudizio o una supposizione.",
+      "Avere l’intenzione o il progetto di fare qualcosa.",
+      "Preoccuparsi o prendersi cura di qualcuno o qualcosa.",
+      "Ideare una soluzione, un piano o un modo di agire."
+    ]
+  },
+
+  "nuance": {
+    "ja": "一般的な思考から意見・推測・計画までを広く表す。pensare aは「人や物について考える・気にかける」、pensare di + 不定詞は「～するつもりだ」「～だと思う」を意味する。pensare cheの後では、内容を主観的な意見・疑念として示す場合に接続法が標準的だが、口語では確信度や話者の意図によって直説法も用いられる。",
+    "it": "È il verbo generale del pensiero e può esprimere riflessione, opinione, supposizione, intenzione o attenzione verso qualcuno. Pensare a introduce l’oggetto del pensiero; pensare di seguito dall’infinito esprime spesso un’intenzione o un’opinione. Dopo pensare che è tradizionalmente comune il congiuntivo, soprattutto quando il contenuto è presentato come soggettivo o incerto."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 pēnsāre（量る、重さを測る、熟考する）に由来する。これはpendere（重さがかかる、ぶら下がる）の反復・強意形であり、「物の重さを量る」ことから「考えを慎重に比較する」という意味へ発展した。",
+    "it": "Dal latino pēnsāre, originariamente «pesare, valutare attentamente», forma intensiva di pendere. Dal confronto del peso materiale si è sviluppato il significato figurato di esaminare e valutare con la mente."
+  },
+
+  "minimal": [
+    {
+      "word": "pensare",
+      "ja": "考えること全般や、意見・意図を表す",
+      "it": "esprimere in generale un pensiero, un’opinione o un’intenzione"
+    },
+    {
+      "word": "riflettere",
+      "ja": "ある問題について注意深く、時間をかけて考える",
+      "it": "esaminare attentamente e consapevolmente una questione"
+    },
+    {
+      "word": "credere",
+      "ja": "何かを真実・可能だと信じる、判断する",
+      "it": "ritenere qualcosa vero o probabile, oppure avere fede"
+    }
+  ],
+
+  "synonyms": [
+    "riflettere",
+    "ritenere",
+    "credere",
+    "considerare",
+    "immaginare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "think",
+      "think about",
+      "intend"
+    ],
+    "de": [
+      "denken",
+      "nachdenken",
+      "meinen"
+    ],
+    "fr": [
+      "penser",
+      "réfléchir",
+      "avoir l’intention de"
+    ],
+    "es": [
+      "pensar",
+      "reflexionar",
+      "tener la intención de"
+    ]
+  },
+
+  "collocations": [
+    "pensare a qualcuno",
+    "pensare a qualcosa",
+    "pensare al futuro",
+    "pensare al passato",
+    "pensare a sé stessi",
+    "pensare agli altri",
+    "pensare che",
+    "pensare di fare qualcosa",
+    "pensare bene",
+    "pensare male",
+    "pensare seriamente",
+    "pensare attentamente",
+    "pensare continuamente",
+    "pensare ad alta voce",
+    "pensare positivo",
+    "far pensare",
+    "lasciar pensare",
+    "stare a pensare",
+    "senza pensarci",
+    "pensarci due volte",
+    "non pensarci nemmeno",
+    "a pensarci bene"
+  ],
+
+  "examples": [
+    {
+      "it": "Penso spesso alla mia famiglia.",
+      "ja": "私はよく家族のことを考える。"
+    },
+    {
+      "it": "Che cosa pensi di questa proposta?",
+      "ja": "この提案についてどう思いますか。"
+    },
+    {
+      "it": "Penso che sia una buona idea.",
+      "ja": "それはよい考えだと思う。"
+    },
+    {
+      "it": "Pensiamo di partire domani mattina.",
+      "ja": "私たちは明日の朝に出発するつもりだ。"
+    },
+    {
+      "it": "Ci penserò e ti darò una risposta.",
+      "ja": "考えてから、あなたに返事をします。"
+    },
+    {
+      "it": "Avresti dovuto pensarci due volte.",
+      "ja": "あなたはよく考えてから行動すべきだった。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "penso",
+        "pensi",
+        "pensa",
+        "pensiamo",
+        "pensate",
+        "pensano"
+      ],
+
+      "Imperfetto": [
+        "pensavo",
+        "pensavi",
+        "pensava",
+        "pensavamo",
+        "pensavate",
+        "pensavano"
+      ],
+
+      "Passato prossimo": [
+        "ho pensato",
+        "hai pensato",
+        "ha pensato",
+        "abbiamo pensato",
+        "avete pensato",
+        "hanno pensato"
+      ],
+
+      "Passato remoto": [
+        "pensai",
+        "pensasti",
+        "pensò",
+        "pensammo",
+        "pensaste",
+        "pensarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo pensato",
+        "avevi pensato",
+        "aveva pensato",
+        "avevamo pensato",
+        "avevate pensato",
+        "avevano pensato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi pensato",
+        "avesti pensato",
+        "ebbe pensato",
+        "avemmo pensato",
+        "aveste pensato",
+        "ebbero pensato"
+      ],
+
+      "Futuro semplice": [
+        "penserò",
+        "penserai",
+        "penserà",
+        "penseremo",
+        "penserete",
+        "penseranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò pensato",
+        "avrai pensato",
+        "avrà pensato",
+        "avremo pensato",
+        "avrete pensato",
+        "avranno pensato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "pensi",
+        "pensi",
+        "pensi",
+        "pensiamo",
+        "pensiate",
+        "pensino"
+      ],
+
+      "Imperfetto": [
+        "pensassi",
+        "pensassi",
+        "pensasse",
+        "pensassimo",
+        "pensaste",
+        "pensassero"
+      ],
+
+      "Passato": [
+        "abbia pensato",
+        "abbia pensato",
+        "abbia pensato",
+        "abbiamo pensato",
+        "abbiate pensato",
+        "abbiano pensato"
+      ],
+
+      "Trapassato": [
+        "avessi pensato",
+        "avessi pensato",
+        "avesse pensato",
+        "avessimo pensato",
+        "aveste pensato",
+        "avessero pensato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "penserei",
+        "penseresti",
+        "penserebbe",
+        "penseremmo",
+        "pensereste",
+        "penserebbero"
+      ],
+
+      "Passato": [
+        "avrei pensato",
+        "avresti pensato",
+        "avrebbe pensato",
+        "avremmo pensato",
+        "avreste pensato",
+        "avrebbero pensato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "pensa",
+        "pensi",
+        "pensiamo",
+        "pensate",
+        "pensino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "pensare",
+        "avere pensato",
+        "pensante",
+        "pensato",
+        "pensando",
+        "avendo pensato"
+      ]
+    }
+  }
+},
+{
+  "id": "sperare",
+  "sid": "2026-00118",
+  "word": "sperare",
+  "ipa": "/speˈrare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "sperato",
+    "gerundPresent": "sperando",
+    "pattern": "sperare in + nome / sperare di + infinito / sperare che + congiuntivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "望む、期待する",
+      "好ましい出来事が実現すると信じる",
+      "人や物に望みを託す",
+      "～したい、～できればと思う"
+    ],
+    "it": [
+      "Desiderare che qualcosa si realizzi.",
+      "Attendersi con fiducia un evento favorevole.",
+      "Riporre la propria fiducia in una persona, una possibilità o una soluzione.",
+      "Desiderare o prevedere di riuscire a compiere un’azione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "実現が確実ではない好ましい出来事を、期待や信頼をもって望むことを表す。sperare di + 不定詞は主節と従属節の主語が同じ場合に用い、主語が異なる場合は通常sperare che + 接続法を用いる。aspirare aが長期的な目標や野心への志向を表すのに対し、sperareは出来事の実現への期待に重点がある。",
+    "it": "Esprime il desiderio fiducioso che si realizzi un evento non certo. Sperare di seguito dall’infinito si usa normalmente quando il soggetto delle due azioni coincide; con soggetti diversi si usa sperare che seguito dal congiuntivo. Rispetto ad aspirare a, sperare mette maggiormente in rilievo l’attesa di un esito favorevole."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 spērāre（希望する、期待する）に由来し、その名詞形spēs（希望）と関係する。同じ語源からイタリア語speranza、フランス語espérer、スペイン語esperarが生じた。",
+    "it": "Dal latino spērāre, «avere speranza, attendersi», collegato al sostantivo spēs, «speranza». Dalla stessa famiglia derivano speranza, disperare e insperato."
+  },
+
+  "minimal": [
+    {
+      "word": "sperare",
+      "ja": "不確実な好ましい出来事の実現を期待する",
+      "it": "attendere con fiducia la realizzazione di un evento favorevole"
+    },
+    {
+      "word": "aspirare",
+      "ja": "高い地位・目標・理想に到達しようと強く望む",
+      "it": "tendere con ambizione verso una posizione, un ideale o un obiettivo"
+    },
+    {
+      "word": "aspettarsi",
+      "ja": "根拠や状況から、ある出来事が起こると予想する",
+      "it": "ritenere probabile un evento sulla base di indizi o circostanze"
+    }
+  ],
+
+  "synonyms": [
+    "augurarsi",
+    "confidare",
+    "desiderare",
+    "attendersi",
+    "auspicare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "hope",
+      "hope for",
+      "expect"
+    ],
+    "de": [
+      "hoffen",
+      "auf etwas hoffen"
+    ],
+    "fr": [
+      "espérer",
+      "souhaiter"
+    ],
+    "es": [
+      "esperar",
+      "tener esperanza"
+    ]
+  },
+
+  "collocations": [
+    "sperare bene",
+    "sperare vivamente",
+    "sperare sinceramente",
+    "sperare ancora",
+    "continuare a sperare",
+    "sperare in qualcosa",
+    "sperare in qualcuno",
+    "sperare nel futuro",
+    "sperare nella vittoria",
+    "sperare in un miglioramento",
+    "sperare in una soluzione",
+    "sperare di riuscire",
+    "sperare di tornare",
+    "sperare di trovare",
+    "sperare che tutto vada bene",
+    "sperare per il meglio",
+    "non resta che sperare",
+    "c’è da sperare",
+    "come spero",
+    "senza sperare troppo"
+  ],
+
+  "examples": [
+    {
+      "it": "Spero che tu stia bene.",
+      "ja": "あなたが元気であることを願っています。"
+    },
+    {
+      "it": "Spero di tornare presto in Italia.",
+      "ja": "近いうちにイタリアへ戻りたいと思っています。"
+    },
+    {
+      "it": "Speriamo che domani non piova.",
+      "ja": "明日は雨が降らないことを願いましょう。"
+    },
+    {
+      "it": "Ho sempre sperato in una soluzione pacifica.",
+      "ja": "私は常に平和的な解決を望んできた。"
+    },
+    {
+      "it": "Speravo che mi rispondesse prima.",
+      "ja": "もっと早く返事をしてくれることを期待していた。"
+    },
+    {
+      "it": "Non ci resta che sperare per il meglio.",
+      "ja": "私たちには最善の結果を願うことしか残されていない。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "spero",
+        "speri",
+        "spera",
+        "speriamo",
+        "sperate",
+        "sperano"
+      ],
+
+      "Imperfetto": [
+        "speravo",
+        "speravi",
+        "sperava",
+        "speravamo",
+        "speravate",
+        "speravano"
+      ],
+
+      "Passato prossimo": [
+        "ho sperato",
+        "hai sperato",
+        "ha sperato",
+        "abbiamo sperato",
+        "avete sperato",
+        "hanno sperato"
+      ],
+
+      "Passato remoto": [
+        "sperai",
+        "sperasti",
+        "sperò",
+        "sperammo",
+        "speraste",
+        "sperarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo sperato",
+        "avevi sperato",
+        "aveva sperato",
+        "avevamo sperato",
+        "avevate sperato",
+        "avevano sperato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi sperato",
+        "avesti sperato",
+        "ebbe sperato",
+        "avemmo sperato",
+        "aveste sperato",
+        "ebbero sperato"
+      ],
+
+      "Futuro semplice": [
+        "spererò",
+        "spererai",
+        "spererà",
+        "spereremo",
+        "spererete",
+        "spereranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò sperato",
+        "avrai sperato",
+        "avrà sperato",
+        "avremo sperato",
+        "avrete sperato",
+        "avranno sperato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "speri",
+        "speri",
+        "speri",
+        "speriamo",
+        "speriate",
+        "sperino"
+      ],
+
+      "Imperfetto": [
+        "sperassi",
+        "sperassi",
+        "sperasse",
+        "sperassimo",
+        "speraste",
+        "sperassero"
+      ],
+
+      "Passato": [
+        "abbia sperato",
+        "abbia sperato",
+        "abbia sperato",
+        "abbiamo sperato",
+        "abbiate sperato",
+        "abbiano sperato"
+      ],
+
+      "Trapassato": [
+        "avessi sperato",
+        "avessi sperato",
+        "avesse sperato",
+        "avessimo sperato",
+        "aveste sperato",
+        "avessero sperato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "spererei",
+        "spereresti",
+        "spererebbe",
+        "spereremmo",
+        "sperereste",
+        "spererebbero"
+      ],
+
+      "Passato": [
+        "avrei sperato",
+        "avresti sperato",
+        "avrebbe sperato",
+        "avremmo sperato",
+        "avreste sperato",
+        "avrebbero sperato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "spera",
+        "speri",
+        "speriamo",
+        "sperate",
+        "sperino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "sperare",
+        "avere sperato",
+        "sperante",
+        "sperato",
+        "sperando",
+        "avendo sperato"
+      ]
+    }
+  }
+},
+{
+  "id": "credere",
+  "sid": "2026-00119",
+  "word": "credere",
+  "ipa": "/ˈkredere/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "creduto",
+    "gerundPresent": "credendo",
+    "pattern": "credere a + persona / credere in + persona o ideale / credere che + indicativo o congiuntivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "religious"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "～だと思う、～だと判断する",
+      "人の言葉を信じる",
+      "人の能力・価値・可能性を信頼する",
+      "思想・原則・宗教などを信じる",
+      "事実だと考える、真実だと受け入れる"
+    ],
+    "it": [
+      "Ritenere che qualcosa sia vero o probabile.",
+      "Prestare fede alle parole o alle affermazioni di qualcuno.",
+      "Avere fiducia nelle capacità, nel valore o nelle possibilità di una persona.",
+      "Aderire a una fede, un ideale, un principio o una dottrina.",
+      "Accettare qualcosa come reale o autentico."
+    ]
+  },
+
+  "nuance": {
+    "ja": "事実だという判断から、人・思想・宗教への信頼までを幅広く表す。credere a qualcunoは「人の言うことを信じる」、credere in qualcunoは「人の能力や可能性を信頼する」という違いがある。credere cheの後では、内容を主観的な意見や不確実な判断として示す場合に接続法が標準的だが、確信の強さや口語的用法によって直説法も現れる。",
+    "it": "Può esprimere un’opinione, l’accettazione di un fatto, la fiducia in una persona oppure l’adesione a una fede. Credere a qualcuno significa generalmente considerare vere le sue parole; credere in qualcuno significa avere fiducia nel suo valore o nelle sue capacità. Dopo credere che è tradizionalmente comune il congiuntivo quando il contenuto è presentato come soggettivo o incerto."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 crēdere（信じる、信用する、委ねる）に由来する。伝統的には「心」を表す語根と「置く・与える」を表す語根との結びつきとされ、「心を委ねる」という原義を持つ。同じ語源からcredito、credibile、credenzaなどが生じた。",
+    "it": "Dal latino crēdere, «affidare, prestare fiducia, ritenere vero». Alla stessa famiglia appartengono credito, credibile, credenza, credulità e incredibile."
+  },
+
+  "minimal": [
+    {
+      "word": "credere",
+      "ja": "何かを真実・可能だと思う、または人や思想を信頼する",
+      "it": "ritenere qualcosa vero o probabile, oppure avere fiducia in qualcuno o qualcosa"
+    },
+    {
+      "word": "pensare",
+      "ja": "考える行為全般、または個人的な意見を表す",
+      "it": "esprimere un processo mentale o un’opinione personale"
+    },
+    {
+      "word": "fidarsi",
+      "ja": "人や物を信用し、安心して身を任せる",
+      "it": "fare affidamento su qualcuno o qualcosa considerandolo sicuro o affidabile"
+    }
+  ],
+
+  "synonyms": [
+    "ritenere",
+    "pensare",
+    "supporre",
+    "fidarsi di",
+    "avere fede in"
+  ],
+
+  "equivalents": {
+    "en": [
+      "believe",
+      "think",
+      "trust"
+    ],
+    "de": [
+      "glauben",
+      "meinen",
+      "vertrauen"
+    ],
+    "fr": [
+      "croire",
+      "penser",
+      "avoir confiance en"
+    ],
+    "es": [
+      "creer",
+      "pensar",
+      "confiar en"
+    ]
+  },
+
+  "collocations": [
+    "credere a qualcuno",
+    "credere a una storia",
+    "credere a una promessa",
+    "credere in qualcuno",
+    "credere in sé stessi",
+    "credere in Dio",
+    "credere nella libertà",
+    "credere nella democrazia",
+    "credere nel futuro",
+    "credere che",
+    "credere fermamente",
+    "credere sinceramente",
+    "credere ciecamente",
+    "credere davvero",
+    "non credere affatto",
+    "stentare a credere",
+    "far credere",
+    "lasciar credere",
+    "essere portato a credere",
+    "credere sulla parola",
+    "non credere ai propri occhi",
+    "che tu ci creda o no"
+  ],
+
+  "examples": [
+    {
+      "it": "Credo che sia una buona soluzione.",
+      "ja": "それはよい解決策だと思う。"
+    },
+    {
+      "it": "Non credo a quello che dice.",
+      "ja": "私は彼の言っていることを信じない。"
+    },
+    {
+      "it": "I suoi genitori hanno sempre creduto in lui.",
+      "ja": "彼の両親はいつも彼の可能性を信じてきた。"
+    },
+    {
+      "it": "Credi in Dio?",
+      "ja": "あなたは神を信じていますか。"
+    },
+    {
+      "it": "Non potevo credere ai miei occhi.",
+      "ja": "私は自分の目を信じられなかった。"
+    },
+    {
+      "it": "Credevo che la riunione cominciasse alle dieci.",
+      "ja": "会議は10時に始まると思っていた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "credo",
+        "credi",
+        "crede",
+        "crediamo",
+        "credete",
+        "credono"
+      ],
+
+      "Imperfetto": [
+        "credevo",
+        "credevi",
+        "credeva",
+        "credevamo",
+        "credevate",
+        "credevano"
+      ],
+
+      "Passato prossimo": [
+        "ho creduto",
+        "hai creduto",
+        "ha creduto",
+        "abbiamo creduto",
+        "avete creduto",
+        "hanno creduto"
+      ],
+
+      "Passato remoto": [
+        "credetti / credei",
+        "credesti",
+        "credette / credé",
+        "credemmo",
+        "credeste",
+        "credettero / crederono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo creduto",
+        "avevi creduto",
+        "aveva creduto",
+        "avevamo creduto",
+        "avevate creduto",
+        "avevano creduto"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi creduto",
+        "avesti creduto",
+        "ebbe creduto",
+        "avemmo creduto",
+        "aveste creduto",
+        "ebbero creduto"
+      ],
+
+      "Futuro semplice": [
+        "crederò",
+        "crederai",
+        "crederà",
+        "crederemo",
+        "crederete",
+        "crederanno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò creduto",
+        "avrai creduto",
+        "avrà creduto",
+        "avremo creduto",
+        "avrete creduto",
+        "avranno creduto"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "creda",
+        "creda",
+        "creda",
+        "crediamo",
+        "crediate",
+        "credano"
+      ],
+
+      "Imperfetto": [
+        "credessi",
+        "credessi",
+        "credesse",
+        "credessimo",
+        "credeste",
+        "credessero"
+      ],
+
+      "Passato": [
+        "abbia creduto",
+        "abbia creduto",
+        "abbia creduto",
+        "abbiamo creduto",
+        "abbiate creduto",
+        "abbiano creduto"
+      ],
+
+      "Trapassato": [
+        "avessi creduto",
+        "avessi creduto",
+        "avesse creduto",
+        "avessimo creduto",
+        "aveste creduto",
+        "avessero creduto"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "crederei",
+        "crederesti",
+        "crederebbe",
+        "crederemmo",
+        "credereste",
+        "crederebbero"
+      ],
+
+      "Passato": [
+        "avrei creduto",
+        "avresti creduto",
+        "avrebbe creduto",
+        "avremmo creduto",
+        "avreste creduto",
+        "avrebbero creduto"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "credi",
+        "creda",
+        "crediamo",
+        "credete",
+        "credano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "credere",
+        "avere creduto",
+        "credente",
+        "creduto",
+        "credendo",
+        "avendo creduto"
+      ]
+    }
+  }
 }
 ]
