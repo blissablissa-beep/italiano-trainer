@@ -14319,5 +14319,3558 @@
       ]
     }
   }
+},
+{
+  "id": "chiedere",
+  "sid": "2026-00106",
+  "word": "chiedere",
+  "ipa": "/ˈkjɛdere/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "chiesto",
+    "gerundPresent": "chiedendo",
+    "pattern": "chiedere qualcosa a qualcuno / chiedere di + infinito / chiedere che + congiuntivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "travel",
+      "shopping",
+      "legal"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人に質問する、尋ねる",
+      "情報・説明・意見などを求める",
+      "物・援助・許可などを頼む",
+      "人に何かをするよう依頼する",
+      "代金・条件・対価などを要求する",
+      "人を呼び出す、面会を求める"
+    ],
+    "it": [
+      "Rivolgere una domanda a qualcuno.",
+      "Cercare di ottenere informazioni, spiegazioni o opinioni.",
+      "Richiedere una cosa, un aiuto o un permesso.",
+      "Invitare o pregare qualcuno di compiere un’azione.",
+      "Pretendere una somma, una condizione o una prestazione.",
+      "Domandare di parlare o di incontrare una determinata persona."
+    ]
+  },
+
+  "nuance": {
+    "ja": "「尋ねる」と「求める」の両方を表す基本動詞である。質問の内容を求める場合はchiedere qualcosa a qualcuno、行為を依頼する場合はchiedere a qualcuno di fare qualcosaを使う。domandareと多くの場合交換できるが、chiedereのほうが物・許可・援助・行為を求める用途が広い。強い権限による命令にはordinareを用いる。",
+    "it": "Può significare sia porre una domanda sia richiedere una cosa o un’azione. Per un’informazione si usa chiedere qualcosa a qualcuno; per una richiesta d’azione, chiedere a qualcuno di fare qualcosa. Domandare è spesso equivalente nel senso interrogativo, ma chiedere è più ampio e comprende oggetti, aiuto, permesso e prestazioni."
+  },
+
+  "etymology": {
+    "ja": "ラテン語quaerere（探し求める、尋ねる、要求する）に由来する。もともとは「探す」という意味を持ち、そこから情報や物を「求める」「尋ねる」という意味が発達した。イタリア語richiedere、questione、英語queryやquestionとも関連する語根を持つ。",
+    "it": "Dal latino quaerere, «cercare, domandare, richiedere». Dal significato originario di cercare si è sviluppata l’idea di cercare di ottenere una risposta, una cosa o una prestazione."
+  },
+
+  "minimal": [
+    {
+      "word": "chiedere",
+      "ja": "情報・物・許可・援助・行為などを相手に求める",
+      "it": "rivolgersi a qualcuno per ottenere informazioni, cose, permessi o azioni"
+    },
+    {
+      "word": "domandare",
+      "ja": "主に答えや情報を得るために質問する",
+      "it": "formulare una domanda soprattutto per ottenere una risposta o un’informazione"
+    },
+    {
+      "word": "richiedere",
+      "ja": "正式に申請・請求する、または物事が一定の条件を必要とする",
+      "it": "presentare una richiesta formale oppure rendere qualcosa necessario"
+    },
+    {
+      "word": "ordinare",
+      "ja": "権限をもって、人に何かをするよう命じる",
+      "it": "imporre a qualcuno di compiere un’azione"
+    }
+  ],
+
+  "synonyms": [
+    "domandare",
+    "richiedere",
+    "sollecitare",
+    "pregare",
+    "interrogare",
+    "pretendere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "ask",
+      "request",
+      "ask for"
+    ],
+    "de": [
+      "fragen",
+      "bitten",
+      "verlangen"
+    ],
+    "fr": [
+      "demander",
+      "solliciter",
+      "réclamer"
+    ],
+    "es": [
+      "pedir",
+      "preguntar",
+      "solicitar"
+    ]
+  },
+
+  "collocations": [
+    "chiedere qualcosa",
+    "chiedere a qualcuno",
+    "chiedere informazioni",
+    "chiedere spiegazioni",
+    "chiedere un consiglio",
+    "chiedere un favore",
+    "chiedere aiuto",
+    "chiedere il permesso",
+    "chiedere scusa",
+    "chiedere conferma",
+    "chiedere un appuntamento",
+    "chiedere un prezzo",
+    "chiedere quanto costa",
+    "chiedere la strada",
+    "chiedere l’ora",
+    "chiedere di parlare",
+    "chiedere di aspettare",
+    "chiedere a qualcuno di venire",
+    "chiedere che sia fatto",
+    "chiedere in prestito",
+    "chiedere in cambio",
+    "chiedere troppo",
+    "chiedere poco",
+    "osare chiedere",
+    "sentirsi chiedere"
+  ],
+
+  "examples": [
+    {
+      "it": "Posso chiederti una cosa?",
+      "ja": "一つ尋ねてもいいですか。"
+    },
+    {
+      "it": "Ho chiesto informazioni alla reception.",
+      "ja": "私は受付で情報を尋ねた。"
+    },
+    {
+      "it": "Le ho chiesto di mandarmi il documento.",
+      "ja": "私は彼女にその書類を送ってくれるよう頼んだ。"
+    },
+    {
+      "it": "Dobbiamo chiedere il permesso prima di entrare.",
+      "ja": "入る前に許可を求めなければならない。"
+    },
+    {
+      "it": "Quanto chiedono per questa casa?",
+      "ja": "この家にはいくらの値段を付けていますか。"
+    },
+    {
+      "it": "Il cliente ha chiesto che il contratto fosse modificato.",
+      "ja": "依頼人は契約が修正されるよう求めた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "chiedo",
+        "chiedi",
+        "chiede",
+        "chiediamo",
+        "chiedete",
+        "chiedono"
+      ],
+
+      "Imperfetto": [
+        "chiedevo",
+        "chiedevi",
+        "chiedeva",
+        "chiedevamo",
+        "chiedevate",
+        "chiedevano"
+      ],
+
+      "Passato prossimo": [
+        "ho chiesto",
+        "hai chiesto",
+        "ha chiesto",
+        "abbiamo chiesto",
+        "avete chiesto",
+        "hanno chiesto"
+      ],
+
+      "Passato remoto": [
+        "chiesi",
+        "chiedesti",
+        "chiese",
+        "chiedemmo",
+        "chiedeste",
+        "chiesero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo chiesto",
+        "avevi chiesto",
+        "aveva chiesto",
+        "avevamo chiesto",
+        "avevate chiesto",
+        "avevano chiesto"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi chiesto",
+        "avesti chiesto",
+        "ebbe chiesto",
+        "avemmo chiesto",
+        "aveste chiesto",
+        "ebbero chiesto"
+      ],
+
+      "Futuro semplice": [
+        "chiederò",
+        "chiederai",
+        "chiederà",
+        "chiederemo",
+        "chiederete",
+        "chiederanno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò chiesto",
+        "avrai chiesto",
+        "avrà chiesto",
+        "avremo chiesto",
+        "avrete chiesto",
+        "avranno chiesto"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "chieda",
+        "chieda",
+        "chieda",
+        "chiediamo",
+        "chiediate",
+        "chiedano"
+      ],
+
+      "Imperfetto": [
+        "chiedessi",
+        "chiedessi",
+        "chiedesse",
+        "chiedessimo",
+        "chiedeste",
+        "chiedessero"
+      ],
+
+      "Passato": [
+        "abbia chiesto",
+        "abbia chiesto",
+        "abbia chiesto",
+        "abbiamo chiesto",
+        "abbiate chiesto",
+        "abbiano chiesto"
+      ],
+
+      "Trapassato": [
+        "avessi chiesto",
+        "avessi chiesto",
+        "avesse chiesto",
+        "avessimo chiesto",
+        "aveste chiesto",
+        "avessero chiesto"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "chiederei",
+        "chiederesti",
+        "chiederebbe",
+        "chiederemmo",
+        "chiedereste",
+        "chiederebbero"
+      ],
+
+      "Passato": [
+        "avrei chiesto",
+        "avresti chiesto",
+        "avrebbe chiesto",
+        "avremmo chiesto",
+        "avreste chiesto",
+        "avrebbero chiesto"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "chiedi",
+        "chieda",
+        "chiediamo",
+        "chiedete",
+        "chiedano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "chiedere",
+        "avere chiesto",
+        "chiedente",
+        "chiesto",
+        "chiedendo",
+        "avendo chiesto"
+      ]
+    }
+  }
+},
+{
+  "id": "domandare",
+  "sid": "2026-00107",
+  "word": "domandare",
+  "ipa": "/domanˈdare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "domandato",
+    "gerundPresent": "domandando",
+    "pattern": "domandare qualcosa a qualcuno / domandare se, come o perché / domandare di qualcuno"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "education",
+      "business",
+      "travel"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "答えを得るために質問する、尋ねる",
+      "時刻・価格・理由・方法などを聞く",
+      "物・援助・許可などを求める",
+      "特定の人との面会や通話を求める",
+      "ある人について尋ねる、消息を聞く",
+      "代金・報酬として一定額を要求する"
+    ],
+    "it": [
+      "Rivolgere una domanda a qualcuno per ottenere una risposta.",
+      "Chiedere informazioni relative a tempo, prezzo, ragione o modalità.",
+      "Manifestare il desiderio di ottenere una cosa, un aiuto o un permesso.",
+      "Chiedere di parlare o di incontrare una determinata persona.",
+      "Chiedere informazioni o notizie riguardo a qualcuno.",
+      "Richiedere una determinata somma come prezzo o compenso."
+    ]
+  },
+
+  "nuance": {
+    "ja": "chiedereと広く置き換えられるが、domandareは特に「問いを発して答えや情報を得る」という意味が中心である。物・援助・許可・行為を求める場合はchiedereのほうが一般的である。domandare di qualcunoは、その人との面会を求める、またはその人の消息を尋ねるという意味になる。再帰形domandarsiは「自問する、不思議に思う」を表す。",
+    "it": "È spesso intercambiabile con chiedere, ma mette più chiaramente in rilievo la formulazione di una domanda per ottenere una risposta. Chiedere è generalmente più ampio e più comune quando si richiedono oggetti, aiuto, permessi o azioni. Domandare di qualcuno può significare cercarlo oppure chiedere sue notizie."
+  },
+
+  "etymology": {
+    "ja": "ラテン語demandareに由来する。この語は本来「委ねる、託す、頼む」を意味し、後に「求める、尋ねる」という意味へ発展した。イタリア語の古形・トスカーナ語形としてdimandareも見られる。",
+    "it": "Dal latino demandare, che significava originariamente «affidare, raccomandare» e che sviluppò successivamente il senso di «chiedere». Esiste anche la variante antica o toscana dimandare."
+  },
+
+  "minimal": [
+    {
+      "word": "domandare",
+      "ja": "問いを発して、答えや情報を得ようとする",
+      "it": "formulare una domanda allo scopo di ottenere una risposta"
+    },
+    {
+      "word": "chiedere",
+      "ja": "情報だけでなく、物・援助・許可・行為なども広く求める",
+      "it": "cercare di ottenere informazioni, oggetti, aiuto, permessi o azioni"
+    },
+    {
+      "word": "interrogare",
+      "ja": "体系的・公式に質問する、または生徒の知識を試す",
+      "it": "rivolgere domande in modo sistematico, ufficiale o scolastico"
+    },
+    {
+      "word": "informarsi",
+      "ja": "必要な情報を得るため、自ら調べたり人に尋ねたりする",
+      "it": "cercare attivamente informazioni su qualcosa"
+    }
+  ],
+
+  "synonyms": [
+    "chiedere",
+    "interrogare",
+    "richiedere",
+    "informarsi",
+    "rivolgere una domanda"
+  ],
+
+  "equivalents": {
+    "en": [
+      "ask",
+      "inquire",
+      "request"
+    ],
+    "de": [
+      "fragen",
+      "nachfragen",
+      "verlangen"
+    ],
+    "fr": [
+      "demander",
+      "interroger",
+      "se renseigner"
+    ],
+    "es": [
+      "preguntar",
+      "pedir",
+      "consultar"
+    ]
+  },
+
+  "collocations": [
+    "domandare qualcosa",
+    "domandare a qualcuno",
+    "domandare il nome",
+    "domandare l’ora",
+    "domandare il prezzo",
+    "domandare la strada",
+    "domandare il motivo",
+    "domandare perché",
+    "domandare come",
+    "domandare quando",
+    "domandare dove",
+    "domandare se",
+    "domandare informazioni",
+    "domandare un consiglio",
+    "domandare scusa",
+    "domandare il permesso",
+    "domandare di qualcuno",
+    "domandare di parlare con qualcuno",
+    "domandare troppo",
+    "domandare un compenso",
+    "sentirsi domandare",
+    "senza domandare nulla",
+    "è lecito domandare"
+  ],
+
+  "examples": [
+    {
+      "it": "Gli ho domandato a che ora parte il treno.",
+      "ja": "私は彼に列車が何時に出発するか尋ねた。"
+    },
+    {
+      "it": "Posso domandarle il suo nome?",
+      "ja": "お名前を伺ってもよろしいですか。"
+    },
+    {
+      "it": "Abbiamo domandato il prezzo dell’appartamento.",
+      "ja": "私たちはそのアパートの価格を尋ねた。"
+    },
+    {
+      "it": "C’è un signore al telefono che domanda di lei.",
+      "ja": "あなたと話したいという男性から電話が来ています。"
+    },
+    {
+      "it": "Mio padre domanda spesso di te.",
+      "ja": "父はよくあなたの消息を尋ねる。"
+    },
+    {
+      "it": "Mi domando perché abbia rifiutato la proposta.",
+      "ja": "なぜ彼がその提案を断ったのか不思議に思う。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "domando",
+        "domandi",
+        "domanda",
+        "domandiamo",
+        "domandate",
+        "domandano"
+      ],
+
+      "Imperfetto": [
+        "domandavo",
+        "domandavi",
+        "domandava",
+        "domandavamo",
+        "domandavate",
+        "domandavano"
+      ],
+
+      "Passato prossimo": [
+        "ho domandato",
+        "hai domandato",
+        "ha domandato",
+        "abbiamo domandato",
+        "avete domandato",
+        "hanno domandato"
+      ],
+
+      "Passato remoto": [
+        "domandai",
+        "domandasti",
+        "domandò",
+        "domandammo",
+        "domandaste",
+        "domandarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo domandato",
+        "avevi domandato",
+        "aveva domandato",
+        "avevamo domandato",
+        "avevate domandato",
+        "avevano domandato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi domandato",
+        "avesti domandato",
+        "ebbe domandato",
+        "avemmo domandato",
+        "aveste domandato",
+        "ebbero domandato"
+      ],
+
+      "Futuro semplice": [
+        "domanderò",
+        "domanderai",
+        "domanderà",
+        "domanderemo",
+        "domanderete",
+        "domanderanno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò domandato",
+        "avrai domandato",
+        "avrà domandato",
+        "avremo domandato",
+        "avrete domandato",
+        "avranno domandato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "domandi",
+        "domandi",
+        "domandi",
+        "domandiamo",
+        "domandiate",
+        "domandino"
+      ],
+
+      "Imperfetto": [
+        "domandassi",
+        "domandassi",
+        "domandasse",
+        "domandassimo",
+        "domandaste",
+        "domandassero"
+      ],
+
+      "Passato": [
+        "abbia domandato",
+        "abbia domandato",
+        "abbia domandato",
+        "abbiamo domandato",
+        "abbiate domandato",
+        "abbiano domandato"
+      ],
+
+      "Trapassato": [
+        "avessi domandato",
+        "avessi domandato",
+        "avesse domandato",
+        "avessimo domandato",
+        "aveste domandato",
+        "avessero domandato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "domanderei",
+        "domanderesti",
+        "domanderebbe",
+        "domanderemmo",
+        "domandereste",
+        "domanderebbero"
+      ],
+
+      "Passato": [
+        "avrei domandato",
+        "avresti domandato",
+        "avrebbe domandato",
+        "avremmo domandato",
+        "avreste domandato",
+        "avrebbero domandato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "domanda",
+        "domandi",
+        "domandiamo",
+        "domandate",
+        "domandino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "domandare",
+        "avere domandato",
+        "domandante",
+        "domandato",
+        "domandando",
+        "avendo domandato"
+      ]
+    }
+  }
+},
+{
+  "id": "domandarsi",
+  "sid": "2026-00108",
+  "word": "domandarsi",
+  "ipa": "/domanˈdarsi/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "再帰動詞・代名動詞",
+      "it": "verbo riflessivo e pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "domandato",
+    "gerundPresent": "domandandosi",
+    "pattern": "domandarsi se / perché / come / quando + frase"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "reflection",
+      "academic",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "自問する、自分自身に問いかける",
+      "～だろうかと考える",
+      "理由・方法・可能性などを不思議に思う",
+      "疑問を抱き、その答えについて考える"
+    ],
+    "it": [
+      "Rivolgere mentalmente una domanda a sé stessi.",
+      "Riflettere su qualcosa di cui non si conosce la risposta.",
+      "Esprimere dubbio, curiosità o incertezza.",
+      "Cercare mentalmente una spiegazione, una causa o una soluzione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "他人に直接質問するのではなく、自分の心の中で疑問を持ち、答えを考えることを表す。日本語の「～だろうか」「～なのか不思議に思う」、英語のwonderに近い。後ろにはse、perché、come、quando、che cosaなどによる間接疑問文が続く。答えが不確実・主観的であることを強調する場合には接続法がよく使われる。",
+    "it": "Non indica normalmente una domanda rivolta a un interlocutore, ma un dubbio formulato interiormente. Corrisponde spesso all’inglese wonder. È seguito frequentemente da un’interrogativa indiretta introdotta da se, perché, come, quando o che cosa. Il congiuntivo è comune quando si sottolineano dubbio, incertezza o valutazione soggettiva."
+  },
+
+  "etymology": {
+    "ja": "動詞domandareに再帰代名詞siを加えた形である。domandareはラテン語demandareに由来し、本来は「委ねる、託す、頼む」を意味したが、後に「求める、尋ねる」へ意味が発展した。再帰形では問いが主語自身に向けられる。",
+    "it": "È formato da domandare e dal pronome riflessivo si. Domandare deriva dal latino demandare, originariamente «affidare, raccomandare» e successivamente «chiedere». Nella forma riflessiva la domanda è rivolta mentalmente al soggetto stesso."
+  },
+
+  "minimal": [
+    {
+      "word": "domandarsi",
+      "ja": "自分の心の中で疑問を持ち、答えを考える",
+      "it": "formulare interiormente una domanda e riflettere sulla risposta"
+    },
+    {
+      "word": "domandare",
+      "ja": "他人に問いを発し、答えや情報を求める",
+      "it": "rivolgere una domanda a qualcuno per ottenere una risposta"
+    },
+    {
+      "word": "chiedersi",
+      "ja": "domandarsiとほぼ同じく、～だろうかと自問する",
+      "it": "porsi interiormente una domanda, sostanzialmente come domandarsi"
+    },
+    {
+      "word": "riflettere",
+      "ja": "問題や考えについて注意深く思考する",
+      "it": "pensare con attenzione e in modo approfondito a qualcosa"
+    }
+  ],
+
+  "synonyms": [
+    "chiedersi",
+    "interrogarsi",
+    "riflettere",
+    "porsi una domanda",
+    "avere un dubbio"
+  ],
+
+  "equivalents": {
+    "en": [
+      "wonder",
+      "ask oneself",
+      "question oneself"
+    ],
+    "de": [
+      "sich fragen",
+      "sich überlegen",
+      "sich Gedanken machen"
+    ],
+    "fr": [
+      "se demander",
+      "s’interroger",
+      "se poser une question"
+    ],
+    "es": [
+      "preguntarse",
+      "cuestionarse",
+      "plantearse"
+    ]
+  },
+
+  "collocations": [
+    "domandarsi qualcosa",
+    "domandarsi se",
+    "domandarsi perché",
+    "domandarsi come",
+    "domandarsi quando",
+    "domandarsi dove",
+    "domandarsi che cosa",
+    "domandarsi chi",
+    "domandarsi il motivo",
+    "domandarsi la ragione",
+    "cominciare a domandarsi",
+    "continuare a domandarsi",
+    "non potersi fare a meno di domandarsi",
+    "è lecito domandarsi",
+    "bisogna domandarsi",
+    "vale la pena domandarsi",
+    "domandarsi seriamente",
+    "domandarsi spesso",
+    "domandarsi ancora",
+    "senza domandarsi perché"
+  ],
+
+  "examples": [
+    {
+      "it": "Mi domando perché abbia rifiutato la proposta.",
+      "ja": "なぜ彼がその提案を断ったのか不思議に思う。"
+    },
+    {
+      "it": "Ci siamo domandati se fosse la decisione giusta.",
+      "ja": "私たちは、それが正しい決定だったのか自問した。"
+    },
+    {
+      "it": "Ti sei mai domandato come funziona questo sistema?",
+      "ja": "このシステムがどのように機能するのか考えたことがありますか。"
+    },
+    {
+      "it": "Si domandava quando sarebbe tornato suo marito.",
+      "ja": "彼女は夫がいつ帰ってくるのだろうと思っていた。"
+    },
+    {
+      "it": "Bisogna domandarsi quali saranno le conseguenze.",
+      "ja": "どのような結果が生じるのか考える必要がある。"
+    },
+    {
+      "it": "Mi domanderei la stessa cosa al tuo posto.",
+      "ja": "私があなたの立場でも、同じ疑問を持つだろう。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi domando",
+        "ti domandi",
+        "si domanda",
+        "ci domandiamo",
+        "vi domandate",
+        "si domandano"
+      ],
+
+      "Imperfetto": [
+        "mi domandavo",
+        "ti domandavi",
+        "si domandava",
+        "ci domandavamo",
+        "vi domandavate",
+        "si domandavano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono domandato/a",
+        "ti sei domandato/a",
+        "si è domandato/a",
+        "ci siamo domandati/e",
+        "vi siete domandati/e",
+        "si sono domandati/e"
+      ],
+
+      "Passato remoto": [
+        "mi domandai",
+        "ti domandasti",
+        "si domandò",
+        "ci domandammo",
+        "vi domandaste",
+        "si domandarono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero domandato/a",
+        "ti eri domandato/a",
+        "si era domandato/a",
+        "ci eravamo domandati/e",
+        "vi eravate domandati/e",
+        "si erano domandati/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui domandato/a",
+        "ti fosti domandato/a",
+        "si fu domandato/a",
+        "ci fummo domandati/e",
+        "vi foste domandati/e",
+        "si furono domandati/e"
+      ],
+
+      "Futuro semplice": [
+        "mi domanderò",
+        "ti domanderai",
+        "si domanderà",
+        "ci domanderemo",
+        "vi domanderete",
+        "si domanderanno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò domandato/a",
+        "ti sarai domandato/a",
+        "si sarà domandato/a",
+        "ci saremo domandati/e",
+        "vi sarete domandati/e",
+        "si saranno domandati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi domandi",
+        "ti domandi",
+        "si domandi",
+        "ci domandiamo",
+        "vi domandiate",
+        "si domandino"
+      ],
+
+      "Imperfetto": [
+        "mi domandassi",
+        "ti domandassi",
+        "si domandasse",
+        "ci domandassimo",
+        "vi domandaste",
+        "si domandassero"
+      ],
+
+      "Passato": [
+        "mi sia domandato/a",
+        "ti sia domandato/a",
+        "si sia domandato/a",
+        "ci siamo domandati/e",
+        "vi siate domandati/e",
+        "si siano domandati/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi domandato/a",
+        "ti fossi domandato/a",
+        "si fosse domandato/a",
+        "ci fossimo domandati/e",
+        "vi foste domandati/e",
+        "si fossero domandati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi domanderei",
+        "ti domanderesti",
+        "si domanderebbe",
+        "ci domanderemmo",
+        "vi domandereste",
+        "si domanderebbero"
+      ],
+
+      "Passato": [
+        "mi sarei domandato/a",
+        "ti saresti domandato/a",
+        "si sarebbe domandato/a",
+        "ci saremmo domandati/e",
+        "vi sareste domandati/e",
+        "si sarebbero domandati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "domandati",
+        "si domandi",
+        "domandiamoci",
+        "domandatevi",
+        "si domandino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "domandarsi",
+        "essersi domandato/a/i/e",
+        "domandantesi (raro)",
+        "domandato",
+        "domandandosi",
+        "essendosi domandato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "informarsi",
+  "sid": "2026-00109",
+  "word": "informarsi",
+  "ipa": "/inforˈmarsi/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "代名動詞",
+      "it": "verbo pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "informato",
+    "gerundPresent": "informandosi",
+    "pattern": "informarsi su + argomento / informarsi presso + persona o ente / informarsi se, come o quando"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "travel",
+      "academic",
+      "legal"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "必要な情報を調べる、情報を集める",
+      "人・機関などに問い合わせる",
+      "事情・条件・方法などについて尋ねる",
+      "報道・資料などを通じて知識を得る",
+      "人の近況・健康状態などを聞く"
+    ],
+    "it": [
+      "Cercare e raccogliere informazioni su qualcosa.",
+      "Rivolgersi a una persona o a un ente per ottenere chiarimenti.",
+      "Chiedere notizie riguardo a condizioni, procedure o modalità.",
+      "Acquisire conoscenze attraverso fonti, documenti o mezzi di comunicazione.",
+      "Chiedere notizie sulla situazione o sulla salute di qualcuno."
+    ]
+  },
+
+  "nuance": {
+    "ja": "単に一つの質問をするのではなく、目的に必要な情報を積極的に調査・収集することを表す。chiedereやdomandareは個別の問いを相手に向ける行為だが、informarsiは質問、資料閲覧、ウェブ検索などを含む情報収集の過程全体を示せる。情報源を示す場合はpresso、テーマにはsuを用いる。",
+    "it": "Non indica soltanto la formulazione di una domanda, ma l’attività intenzionale di acquisire le informazioni necessarie. Chiedere e domandare possono riferirsi a una singola richiesta; informarsi comprende anche consultazioni, ricerche e verifiche. Si usa normalmente su per l’argomento e presso per la persona o l’ente consultato."
+  },
+
+  "etymology": {
+    "ja": "動詞informareに代名詞siを加えた形である。informareはラテン語informare（形を与える、形成する、心に像を与える）に由来し、in-とforma（形）から成る。「心の中に形を与える」という発想から、「知らせる、知識を与える」という意味が発達した。",
+    "it": "È la forma pronominale di informare, dal latino informare, formato da in- e forma. Il significato originario era «dare forma»; dall’idea di formare una rappresentazione nella mente si è sviluppato il senso di trasmettere o acquisire conoscenze."
+  },
+
+  "minimal": [
+    {
+      "word": "informarsi",
+      "ja": "目的に必要な情報を積極的に調べ、収集する",
+      "it": "cercare attivamente le informazioni necessarie"
+    },
+    {
+      "word": "chiedere",
+      "ja": "相手に個別の情報・物・援助・行為などを求める",
+      "it": "rivolgersi a qualcuno per ottenere una risposta, una cosa o un’azione"
+    },
+    {
+      "word": "domandare",
+      "ja": "問いを発して答えや情報を得ようとする",
+      "it": "formulare una domanda per ottenere una risposta"
+    },
+    {
+      "word": "informare",
+      "ja": "他人に情報・事情・決定などを知らせる",
+      "it": "comunicare informazioni o notizie a qualcuno"
+    }
+  ],
+
+  "synonyms": [
+    "documentarsi",
+    "chiedere informazioni",
+    "indagare",
+    "consultare",
+    "aggiornarsi",
+    "prendere informazioni"
+  ],
+
+  "equivalents": {
+    "en": [
+      "inquire",
+      "find out",
+      "get information"
+    ],
+    "de": [
+      "sich informieren",
+      "sich erkundigen",
+      "nachforschen"
+    ],
+    "fr": [
+      "s’informer",
+      "se renseigner",
+      "prendre des informations"
+    ],
+    "es": [
+      "informarse",
+      "averiguar",
+      "pedir información"
+    ]
+  },
+
+  "collocations": [
+    "informarsi su qualcosa",
+    "informarsi bene",
+    "informarsi prima",
+    "informarsi in anticipo",
+    "informarsi direttamente",
+    "informarsi online",
+    "informarsi presso un ufficio",
+    "informarsi presso il comune",
+    "informarsi presso l’ambasciata",
+    "informarsi sui prezzi",
+    "informarsi sugli orari",
+    "informarsi sulle condizioni",
+    "informarsi sulle procedure",
+    "informarsi sui requisiti",
+    "informarsi sulle possibilità",
+    "informarsi sulla situazione",
+    "informarsi sullo stato della pratica",
+    "informarsi se",
+    "informarsi come",
+    "informarsi quando",
+    "cercare di informarsi",
+    "bisogna informarsi",
+    "informarsi prima di partire"
+  ],
+
+  "examples": [
+    {
+      "it": "Prima di partire bisogna informarsi sugli orari dei treni.",
+      "ja": "出発する前に列車の時刻を調べる必要がある。"
+    },
+    {
+      "it": "Mi sono informato presso l’ambasciata.",
+      "ja": "私は大使館に問い合わせた。"
+    },
+    {
+      "it": "Vorrei informarmi sulle condizioni del contratto.",
+      "ja": "契約条件について情報を得たいのですが。"
+    },
+    {
+      "it": "Ci stiamo informando sui documenti necessari.",
+      "ja": "私たちは必要書類について調べている。"
+    },
+    {
+      "it": "Si informi se è necessario prenotare.",
+      "ja": "予約が必要かどうか確認してください。"
+    },
+    {
+      "it": "Avresti dovuto informarti prima di prendere una decisione.",
+      "ja": "決定を下す前に調べておくべきだった。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi informo",
+        "ti informi",
+        "si informa",
+        "ci informiamo",
+        "vi informate",
+        "si informano"
+      ],
+
+      "Imperfetto": [
+        "mi informavo",
+        "ti informavi",
+        "si informava",
+        "ci informavamo",
+        "vi informavate",
+        "si informavano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono informato/a",
+        "ti sei informato/a",
+        "si è informato/a",
+        "ci siamo informati/e",
+        "vi siete informati/e",
+        "si sono informati/e"
+      ],
+
+      "Passato remoto": [
+        "mi informai",
+        "ti informasti",
+        "si informò",
+        "ci informammo",
+        "vi informaste",
+        "si informarono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero informato/a",
+        "ti eri informato/a",
+        "si era informato/a",
+        "ci eravamo informati/e",
+        "vi eravate informati/e",
+        "si erano informati/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui informato/a",
+        "ti fosti informato/a",
+        "si fu informato/a",
+        "ci fummo informati/e",
+        "vi foste informati/e",
+        "si furono informati/e"
+      ],
+
+      "Futuro semplice": [
+        "mi informerò",
+        "ti informerai",
+        "si informerà",
+        "ci informeremo",
+        "vi informerete",
+        "si informeranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò informato/a",
+        "ti sarai informato/a",
+        "si sarà informato/a",
+        "ci saremo informati/e",
+        "vi sarete informati/e",
+        "si saranno informati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi informi",
+        "ti informi",
+        "si informi",
+        "ci informiamo",
+        "vi informiate",
+        "si informino"
+      ],
+
+      "Imperfetto": [
+        "mi informassi",
+        "ti informassi",
+        "si informasse",
+        "ci informassimo",
+        "vi informaste",
+        "si informassero"
+      ],
+
+      "Passato": [
+        "mi sia informato/a",
+        "ti sia informato/a",
+        "si sia informato/a",
+        "ci siamo informati/e",
+        "vi siate informati/e",
+        "si siano informati/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi informato/a",
+        "ti fossi informato/a",
+        "si fosse informato/a",
+        "ci fossimo informati/e",
+        "vi foste informati/e",
+        "si fossero informati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi informerei",
+        "ti informeresti",
+        "si informerebbe",
+        "ci informeremmo",
+        "vi informereste",
+        "si informerebbero"
+      ],
+
+      "Passato": [
+        "mi sarei informato/a",
+        "ti saresti informato/a",
+        "si sarebbe informato/a",
+        "ci saremmo informati/e",
+        "vi sareste informati/e",
+        "si sarebbero informati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "informati",
+        "si informi",
+        "informiamoci",
+        "informatevi",
+        "si informino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "informarsi",
+        "essersi informato/a/i/e",
+        "informantesi (raro)",
+        "informato",
+        "informandosi",
+        "essendosi informato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "informare",
+  "sid": "2026-00110",
+  "word": "informare",
+  "ipa": "/inforˈmare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "informato",
+    "gerundPresent": "informando",
+    "pattern": "informare qualcuno di/su qualcosa / informare qualcuno che + indicativo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "legal",
+      "journalism"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人に情報・事実・事情などを知らせる",
+      "決定・変更・予定などを通知する",
+      "人に必要な知識や説明を提供する",
+      "当局・関係者などに報告する",
+      "思想・原則などが活動や制度を形作る"
+    ],
+    "it": [
+      "Comunicare a qualcuno informazioni, fatti o circostanze.",
+      "Notificare una decisione, una modifica o un programma.",
+      "Fornire a qualcuno le conoscenze necessarie su un argomento.",
+      "Riferire qualcosa a un’autorità o a una persona interessata.",
+      "Dare forma o orientamento a un’attività mediante un principio o un’idea."
+    ]
+  },
+
+  "nuance": {
+    "ja": "情報を持っている側が、それを知らない相手に伝えて知識を与えることを表す。informarsiが主体的に情報を集めることを意味するのに対し、informareは他者へ情報を提供する他動詞である。avvisareは警告や予定変更など、相手に注意・対応を促す知らせに適し、informareはより中立的・体系的な情報提供にも使える。",
+    "it": "Indica la trasmissione di conoscenze da chi possiede un’informazione a chi ancora non la conosce. Informarsi descrive invece l’attività di chi cerca informazioni per sé. Avvisare richiama spesso un messaggio che richiede attenzione o una reazione; informare può essere più neutro, completo o istituzionale."
+  },
+
+  "etymology": {
+    "ja": "ラテン語informare（形を与える、形成する、心に像を作る）に由来する。in-とforma（形）から成り、もともとは物に形を与えることを表した。そこから「人の心に知識の形を与える」、すなわち「知らせる」という意味が発達した。",
+    "it": "Dal latino informare, formato da in- e forma. Il significato originario era «dare forma»; successivamente si sviluppò quello di formare una rappresentazione nella mente e quindi di trasmettere conoscenze."
+  },
+
+  "minimal": [
+    {
+      "word": "informare",
+      "ja": "相手に事実・事情・決定などの情報を提供する",
+      "it": "comunicare a qualcuno fatti, circostanze o decisioni"
+    },
+    {
+      "word": "informarsi",
+      "ja": "自分に必要な情報を主体的に調べ、収集する",
+      "it": "cercare attivamente informazioni per sé"
+    },
+    {
+      "word": "avvisare",
+      "ja": "予定・危険・変更などを知らせ、相手の注意や対応を促す",
+      "it": "comunicare qualcosa affinché il destinatario presti attenzione o agisca"
+    },
+    {
+      "word": "comunicare",
+      "ja": "情報・考え・感情などを相手に伝達・共有する",
+      "it": "trasmettere o condividere informazioni, pensieri o sentimenti"
+    }
+  ],
+
+  "synonyms": [
+    "comunicare",
+    "avvisare",
+    "notificare",
+    "riferire",
+    "aggiornare",
+    "rendere noto"
+  ],
+
+  "equivalents": {
+    "en": [
+      "inform",
+      "notify",
+      "advise"
+    ],
+    "de": [
+      "informieren",
+      "benachrichtigen",
+      "unterrichten"
+    ],
+    "fr": [
+      "informer",
+      "renseigner",
+      "notifier"
+    ],
+    "es": [
+      "informar",
+      "notificar",
+      "comunicar"
+    ]
+  },
+
+  "collocations": [
+    "informare qualcuno",
+    "informare il pubblico",
+    "informare il cliente",
+    "informare il responsabile",
+    "informare le autorità",
+    "informare tempestivamente",
+    "informare immediatamente",
+    "informare correttamente",
+    "informare in anticipo",
+    "informare per iscritto",
+    "informare via e-mail",
+    "informare di qualcosa",
+    "informare su qualcosa",
+    "informare della decisione",
+    "informare del cambiamento",
+    "informare dei rischi",
+    "informare sulle condizioni",
+    "informare che",
+    "tenere informato",
+    "essere debitamente informato",
+    "obbligo di informare"
+  ],
+
+  "examples": [
+    {
+      "it": "La informeremo appena avremo nuove informazioni.",
+      "ja": "新しい情報が入り次第、お知らせします。"
+    },
+    {
+      "it": "Ho informato il responsabile del problema.",
+      "ja": "私は責任者にその問題を知らせた。"
+    },
+    {
+      "it": "L’azienda ci ha informati che la riunione è stata rinviata.",
+      "ja": "会社は会議が延期されたことを私たちに通知した。"
+    },
+    {
+      "it": "I clienti devono essere informati dei possibili rischi.",
+      "ja": "顧客には起こり得る危険を知らせなければならない。"
+    },
+    {
+      "it": "Ti prego di informarmi se cambia qualcosa.",
+      "ja": "何か変更があれば知らせてください。"
+    },
+    {
+      "it": "Il medico ha informato la paziente sulle diverse possibilità.",
+      "ja": "医師は患者にさまざまな選択肢について説明した。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "informo",
+        "informi",
+        "informa",
+        "informiamo",
+        "informate",
+        "informano"
+      ],
+
+      "Imperfetto": [
+        "informavo",
+        "informavi",
+        "informava",
+        "informavamo",
+        "informavate",
+        "informavano"
+      ],
+
+      "Passato prossimo": [
+        "ho informato",
+        "hai informato",
+        "ha informato",
+        "abbiamo informato",
+        "avete informato",
+        "hanno informato"
+      ],
+
+      "Passato remoto": [
+        "informai",
+        "informasti",
+        "informò",
+        "informammo",
+        "informaste",
+        "informarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo informato",
+        "avevi informato",
+        "aveva informato",
+        "avevamo informato",
+        "avevate informato",
+        "avevano informato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi informato",
+        "avesti informato",
+        "ebbe informato",
+        "avemmo informato",
+        "aveste informato",
+        "ebbero informato"
+      ],
+
+      "Futuro semplice": [
+        "informerò",
+        "informerai",
+        "informerà",
+        "informeremo",
+        "informerete",
+        "informeranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò informato",
+        "avrai informato",
+        "avrà informato",
+        "avremo informato",
+        "avrete informato",
+        "avranno informato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "informi",
+        "informi",
+        "informi",
+        "informiamo",
+        "informiate",
+        "informino"
+      ],
+
+      "Imperfetto": [
+        "informassi",
+        "informassi",
+        "informasse",
+        "informassimo",
+        "informaste",
+        "informassero"
+      ],
+
+      "Passato": [
+        "abbia informato",
+        "abbia informato",
+        "abbia informato",
+        "abbiamo informato",
+        "abbiate informato",
+        "abbiano informato"
+      ],
+
+      "Trapassato": [
+        "avessi informato",
+        "avessi informato",
+        "avesse informato",
+        "avessimo informato",
+        "aveste informato",
+        "avessero informato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "informerei",
+        "informeresti",
+        "informerebbe",
+        "informeremmo",
+        "informereste",
+        "informerebbero"
+      ],
+
+      "Passato": [
+        "avrei informato",
+        "avresti informato",
+        "avrebbe informato",
+        "avremmo informato",
+        "avreste informato",
+        "avrebbero informato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "informa",
+        "informi",
+        "informiamo",
+        "informate",
+        "informino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "informare",
+        "avere informato",
+        "informante",
+        "informato",
+        "informando",
+        "avendo informato"
+      ]
+    }
+  }
+},
+{
+  "id": "vietare",
+  "sid": "2026-00111",
+  "word": "vietare",
+  "ipa": "/vjeˈtare/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "vietato",
+    "gerundPresent": "vietando",
+    "pattern": "vietare qualcosa / vietare qualcosa a qualcuno / vietare a qualcuno di + infinito"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "legal",
+      "work",
+      "public_rules"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "行為・使用・立入りなどを禁止する",
+      "人に何かをすることを禁じる",
+      "法律・規則・命令によって許可しない",
+      "人が何かを行うのを妨げる、許さない"
+    ],
+    "it": [
+      "Stabilire che un’azione, un uso o un accesso non sono consentiti.",
+      "Impedire a qualcuno, mediante un ordine, di compiere un’azione.",
+      "Dichiarare qualcosa non permesso da una legge, da un regolamento o da un’autorità.",
+      "Non concedere a qualcuno la possibilità o il permesso di fare qualcosa."
+    ]
+  },
+
+  "nuance": {
+    "ja": "権限・規則・意思に基づいて、ある行為を「してはならない」と定めることを表す。proibireとほぼ同義だが、vietareは標識・規則・法律などの客観的な禁止に特によく使われる。impedireは規則として禁止することではなく、実際に行為の実現を妨げることに重点がある。過去分詞vietatoは標識などで「禁止」の意味を持つ形容詞として非常に頻繁に使われる。",
+    "it": "Indica che un’azione non è consentita in base a un’autorità, a una regola o alla volontà di qualcuno. È vicino a proibire, ma vietare è particolarmente comune in cartelli, regolamenti e testi normativi. Impedire mette invece in rilievo l’ostacolo concreto che rende impossibile un’azione. Il participio vietato è frequentissimo nei divieti e nella segnaletica."
+  },
+
+  "etymology": {
+    "ja": "ラテン語vetare（禁じる、反対する）に直接由来する。同じ語根からイタリア語veto（拒否権、禁止）や英語vetoが生じた。ラテン語の形からイタリア語への音韻変化によって、語頭部分がvie-となった。",
+    "it": "Dal latino vetare, «vietare, opporsi». Appartiene alla stessa famiglia del sostantivo veto, entrato anche in numerose altre lingue con il significato di opposizione o divieto formale."
+  },
+
+  "minimal": [
+    {
+      "word": "vietare",
+      "ja": "法律・規則・命令などによって行為を許可しない",
+      "it": "dichiarare un’azione non consentita mediante una regola o un ordine"
+    },
+    {
+      "word": "proibire",
+      "ja": "権限をもって、ある行為をしてはならないと強く命じる",
+      "it": "imporre autorevolmente che un’azione non venga compiuta"
+    },
+    {
+      "word": "impedire",
+      "ja": "障害を設けるなどして、行為が実際に行われないようにする",
+      "it": "ostacolare concretamente la realizzazione di un’azione"
+    },
+    {
+      "word": "negare",
+      "ja": "求められた許可・権利・物などを与えない",
+      "it": "rifiutare di concedere un permesso, un diritto o qualcosa di richiesto"
+    }
+  ],
+
+  "synonyms": [
+    "proibire",
+    "impedire",
+    "interdire",
+    "negare",
+    "non consentire"
+  ],
+
+  "equivalents": {
+    "en": [
+      "forbid",
+      "prohibit",
+      "ban"
+    ],
+    "de": [
+      "verbieten",
+      "untersagen",
+      "nicht gestatten"
+    ],
+    "fr": [
+      "interdire",
+      "prohiber",
+      "défendre"
+    ],
+    "es": [
+      "prohibir",
+      "impedir",
+      "vedar"
+    ]
+  },
+
+  "collocations": [
+    "vietare qualcosa",
+    "vietare l’accesso",
+    "vietare l’ingresso",
+    "vietare il passaggio",
+    "vietare la vendita",
+    "vietare l’uso",
+    "vietare il fumo",
+    "vietare la circolazione",
+    "vietare la pubblicità",
+    "vietare una manifestazione",
+    "vietare per legge",
+    "vietare espressamente",
+    "vietare severamente",
+    "vietare temporaneamente",
+    "vietare a qualcuno qualcosa",
+    "vietare a qualcuno di entrare",
+    "vietare di fumare",
+    "essere vietato",
+    "severamente vietato",
+    "vietato fumare",
+    "vietato entrare",
+    "vietato parcheggiare",
+    "vietato ai minori",
+    "divieto di accesso"
+  ],
+
+  "examples": [
+    {
+      "it": "È vietato fumare in questo edificio.",
+      "ja": "この建物では喫煙が禁止されている。"
+    },
+    {
+      "it": "La legge vieta la vendita del prodotto ai minori.",
+      "ja": "法律は未成年者へのその製品の販売を禁止している。"
+    },
+    {
+      "it": "Il medico gli ha vietato di bere alcolici.",
+      "ja": "医師は彼に飲酒を禁じた。"
+    },
+    {
+      "it": "È severamente vietato entrare senza autorizzazione.",
+      "ja": "許可なく立ち入ることは固く禁じられている。"
+    },
+    {
+      "it": "Il comune ha vietato la circolazione nel centro storico.",
+      "ja": "市は旧市街での車両通行を禁止した。"
+    },
+    {
+      "it": "Non puoi vietarmi di esprimere la mia opinione.",
+      "ja": "私が意見を述べることを、あなたは禁止できない。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "vieto",
+        "vieti",
+        "vieta",
+        "vietiamo",
+        "vietate",
+        "vietano"
+      ],
+
+      "Imperfetto": [
+        "vietavo",
+        "vietavi",
+        "vietava",
+        "vietavamo",
+        "vietavate",
+        "vietavano"
+      ],
+
+      "Passato prossimo": [
+        "ho vietato",
+        "hai vietato",
+        "ha vietato",
+        "abbiamo vietato",
+        "avete vietato",
+        "hanno vietato"
+      ],
+
+      "Passato remoto": [
+        "vietai",
+        "vietasti",
+        "vietò",
+        "vietammo",
+        "vietaste",
+        "vietarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo vietato",
+        "avevi vietato",
+        "aveva vietato",
+        "avevamo vietato",
+        "avevate vietato",
+        "avevano vietato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi vietato",
+        "avesti vietato",
+        "ebbe vietato",
+        "avemmo vietato",
+        "aveste vietato",
+        "ebbero vietato"
+      ],
+
+      "Futuro semplice": [
+        "vieterò",
+        "vieterai",
+        "vieterà",
+        "vieteremo",
+        "vieterete",
+        "vieteranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò vietato",
+        "avrai vietato",
+        "avrà vietato",
+        "avremo vietato",
+        "avrete vietato",
+        "avranno vietato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "vieti",
+        "vieti",
+        "vieti",
+        "vietiamo",
+        "vietiate",
+        "vietino"
+      ],
+
+      "Imperfetto": [
+        "vietassi",
+        "vietassi",
+        "vietasse",
+        "vietassimo",
+        "vietaste",
+        "vietassero"
+      ],
+
+      "Passato": [
+        "abbia vietato",
+        "abbia vietato",
+        "abbia vietato",
+        "abbiamo vietato",
+        "abbiate vietato",
+        "abbiano vietato"
+      ],
+
+      "Trapassato": [
+        "avessi vietato",
+        "avessi vietato",
+        "avesse vietato",
+        "avessimo vietato",
+        "aveste vietato",
+        "avessero vietato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "vieterei",
+        "vieteresti",
+        "vieterebbe",
+        "vieteremmo",
+        "vietereste",
+        "vieterebbero"
+      ],
+
+      "Passato": [
+        "avrei vietato",
+        "avresti vietato",
+        "avrebbe vietato",
+        "avremmo vietato",
+        "avreste vietato",
+        "avrebbero vietato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "vieta",
+        "vieti",
+        "vietiamo",
+        "vietate",
+        "vietino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "vietare",
+        "avere vietato",
+        "vietante",
+        "vietato",
+        "vietando",
+        "avendo vietato"
+      ]
+    }
+  }
+},
+{
+  "id": "aumentare",
+  "sid": "2026-00112",
+  "word": "aumentare",
+  "ipa": "/aumenˈtare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere nell’uso transitivo; essere nell’uso intransitivo",
+    "pastParticiple": "aumentato",
+    "gerundPresent": "aumentando",
+    "pattern": "aumentare qualcosa / aumentare di + quantità / aumentare da… a…"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "economics",
+      "technical"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "数量・価格・程度などを増やす",
+      "規模・能力・効果などを高める",
+      "数量・価格・程度などが増える",
+      "勢い・強さ・重要性などが大きくなる",
+      "給料・料金などを引き上げる"
+    ],
+    "it": [
+      "Rendere maggiore una quantità, un valore o un livello.",
+      "Accrescere dimensioni, capacità, efficacia o intensità.",
+      "Diventare maggiore per quantità, valore o grado.",
+      "Crescere in forza, importanza o frequenza.",
+      "Portare salari, prezzi o tariffe a un livello superiore."
+    ]
+  },
+
+  "nuance": {
+    "ja": "「増やす」と「増える」の両方を表せる。目的語を伴う他動詞用法ではavereを使い、l’azienda ha aumentato i prezziとなる。主語自体が増加する自動詞用法ではessereを使い、i prezzi sono aumentatiとなり、過去分詞は主語の性・数に一致する。alzareも価格や音量を上げる意味を持つが、aumentareは数量・程度の増加をより一般的・客観的に表す。",
+    "it": "Può significare sia rendere qualcosa maggiore sia diventare maggiore. Nell’uso transitivo adopera avere, come in l’azienda ha aumentato i prezzi. Nell’uso intransitivo adopera essere, come in i prezzi sono aumentati, con accordo del participio. Rispetto ad alzare, descrive in modo più generale e quantitativo una crescita."
+  },
+
+  "etymology": {
+    "ja": "ラテン語augmentare（増大させる）に由来し、augmentum（増加、成長）から作られた。さらにaugere（増やす、成長させる）にさかのぼる。同じ語根はaugurio、autore、英語augmentなどにも見られる。",
+    "it": "Dal latino augmentare, derivato da augmentum, «aumento, accrescimento», e riconducibile al verbo augere, «accrescere». Appartengono alla stessa famiglia aumento e accrescimento."
+  },
+
+  "minimal": [
+    {
+      "word": "aumentare",
+      "ja": "数量・価格・程度などを増やす、またはそれらが増える",
+      "it": "rendere o diventare maggiore per quantità, valore o intensità"
+    },
+    {
+      "word": "alzare",
+      "ja": "物を高い位置に移す、または音量・価格などを上げる",
+      "it": "portare qualcosa a una posizione o a un livello più alto"
+    },
+    {
+      "word": "crescere",
+      "ja": "生物・組織・規模などが時間とともに成長する",
+      "it": "svilupparsi progressivamente nel tempo"
+    },
+    {
+      "word": "incrementare",
+      "ja": "数値・生産量・効率などを計画的に増加させる",
+      "it": "accrescere una quantità o una prestazione, spesso in contesti tecnici"
+    }
+  ],
+
+  "synonyms": [
+    "accrescere",
+    "incrementare",
+    "ingrandire",
+    "intensificare",
+    "alzare",
+    "crescere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "increase",
+      "raise",
+      "grow"
+    ],
+    "de": [
+      "erhöhen",
+      "steigen",
+      "zunehmen"
+    ],
+    "fr": [
+      "augmenter",
+      "accroître",
+      "hausser"
+    ],
+    "es": [
+      "aumentar",
+      "incrementar",
+      "subir"
+    ]
+  },
+
+  "collocations": [
+    "aumentare qualcosa",
+    "aumentare i prezzi",
+    "aumentare lo stipendio",
+    "aumentare le tasse",
+    "aumentare la produzione",
+    "aumentare la capacità",
+    "aumentare l’efficienza",
+    "aumentare la velocità",
+    "aumentare il volume",
+    "aumentare la temperatura",
+    "aumentare la pressione",
+    "aumentare il rischio",
+    "aumentare le possibilità",
+    "aumentare di prezzo",
+    "aumentare di valore",
+    "aumentare di numero",
+    "aumentare del dieci per cento",
+    "aumentare da cento a centoventi",
+    "aumentare gradualmente",
+    "aumentare rapidamente",
+    "aumentare notevolmente",
+    "continuare ad aumentare",
+    "tendere ad aumentare",
+    "essere in aumento"
+  ],
+
+  "examples": [
+    {
+      "it": "L’azienda ha aumentato i prezzi del dieci per cento.",
+      "ja": "会社は価格を10パーセント引き上げた。"
+    },
+    {
+      "it": "I prezzi sono aumentati rapidamente.",
+      "ja": "価格は急速に上昇した。"
+    },
+    {
+      "it": "Dobbiamo aumentare la capacità produttiva.",
+      "ja": "私たちは生産能力を高めなければならない。"
+    },
+    {
+      "it": "Il numero dei partecipanti è aumentato da cinquanta a ottanta.",
+      "ja": "参加者数は50人から80人に増えた。"
+    },
+    {
+      "it": "Questa modifica potrebbe aumentare il rischio di errore.",
+      "ja": "この変更によって誤りの危険が高まる可能性がある。"
+    },
+    {
+      "it": "Si prevede che la domanda aumenti nei prossimi mesi.",
+      "ja": "今後数か月で需要が増えると予測されている。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "aumento",
+        "aumenti",
+        "aumenta",
+        "aumentiamo",
+        "aumentate",
+        "aumentano"
+      ],
+
+      "Imperfetto": [
+        "aumentavo",
+        "aumentavi",
+        "aumentava",
+        "aumentavamo",
+        "aumentavate",
+        "aumentavano"
+      ],
+
+      "Passato prossimo": [
+        "ho aumentato / sono aumentato/a",
+        "hai aumentato / sei aumentato/a",
+        "ha aumentato / è aumentato/a",
+        "abbiamo aumentato / siamo aumentati/e",
+        "avete aumentato / siete aumentati/e",
+        "hanno aumentato / sono aumentati/e"
+      ],
+
+      "Passato remoto": [
+        "aumentai",
+        "aumentasti",
+        "aumentò",
+        "aumentammo",
+        "aumentaste",
+        "aumentarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo aumentato / ero aumentato/a",
+        "avevi aumentato / eri aumentato/a",
+        "aveva aumentato / era aumentato/a",
+        "avevamo aumentato / eravamo aumentati/e",
+        "avevate aumentato / eravate aumentati/e",
+        "avevano aumentato / erano aumentati/e"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi aumentato / fui aumentato/a",
+        "avesti aumentato / fosti aumentato/a",
+        "ebbe aumentato / fu aumentato/a",
+        "avemmo aumentato / fummo aumentati/e",
+        "aveste aumentato / foste aumentati/e",
+        "ebbero aumentato / furono aumentati/e"
+      ],
+
+      "Futuro semplice": [
+        "aumenterò",
+        "aumenterai",
+        "aumenterà",
+        "aumenteremo",
+        "aumenterete",
+        "aumenteranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò aumentato / sarò aumentato/a",
+        "avrai aumentato / sarai aumentato/a",
+        "avrà aumentato / sarà aumentato/a",
+        "avremo aumentato / saremo aumentati/e",
+        "avrete aumentato / sarete aumentati/e",
+        "avranno aumentato / saranno aumentati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "aumenti",
+        "aumenti",
+        "aumenti",
+        "aumentiamo",
+        "aumentiate",
+        "aumentino"
+      ],
+
+      "Imperfetto": [
+        "aumentassi",
+        "aumentassi",
+        "aumentasse",
+        "aumentassimo",
+        "aumentaste",
+        "aumentassero"
+      ],
+
+      "Passato": [
+        "abbia aumentato / sia aumentato/a",
+        "abbia aumentato / sia aumentato/a",
+        "abbia aumentato / sia aumentato/a",
+        "abbiamo aumentato / siamo aumentati/e",
+        "abbiate aumentato / siate aumentati/e",
+        "abbiano aumentato / siano aumentati/e"
+      ],
+
+      "Trapassato": [
+        "avessi aumentato / fossi aumentato/a",
+        "avessi aumentato / fossi aumentato/a",
+        "avesse aumentato / fosse aumentato/a",
+        "avessimo aumentato / fossimo aumentati/e",
+        "aveste aumentato / foste aumentati/e",
+        "avessero aumentato / fossero aumentati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "aumenterei",
+        "aumenteresti",
+        "aumenterebbe",
+        "aumenteremmo",
+        "aumentereste",
+        "aumenterebbero"
+      ],
+
+      "Passato": [
+        "avrei aumentato / sarei aumentato/a",
+        "avresti aumentato / saresti aumentato/a",
+        "avrebbe aumentato / sarebbe aumentato/a",
+        "avremmo aumentato / saremmo aumentati/e",
+        "avreste aumentato / sareste aumentati/e",
+        "avrebbero aumentato / sarebbero aumentati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "aumenta",
+        "aumenti",
+        "aumentiamo",
+        "aumentate",
+        "aumentino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "aumentare",
+        "avere aumentato / essere aumentato/a/i/e",
+        "aumentante",
+        "aumentato",
+        "aumentando",
+        "avendo aumentato / essendo aumentato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "diminuire",
+  "sid": "2026-00113",
+  "word": "diminuire",
+  "ipa": "/dimiˈnuire/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere（他動詞）／essere（自動詞）",
+    "pastParticiple": "diminuito",
+    "gerundPresent": "diminuendo",
+    "pattern": "diminuire qualcosa / diminuire di + quantità / diminuire da… a…"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "medical"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "減る、少なくなる、低下する",
+      "量・程度・価格などを減らす",
+      "勢い・強さ・重要性などを弱める"
+    ],
+    "it": [
+      "Diventare minore per quantità, intensità, valore o importanza.",
+      "Rendere minore la quantità, l’intensità o il valore di qualcosa.",
+      "Perdere gradualmente forza, frequenza o rilevanza."
+    ]
+  },
+
+  "nuance": {
+    "ja": "数量・価格・速度・温度・音量・危険性などが減少すること、またはそれらを減少させることを表す。自動詞では「減る」、他動詞では「減らす」に相当する。自動詞の複合時制には通常essere、他動詞にはavereを用いる。ridurreは意図的に規模や量を小さくする他動詞として使われることが多い。",
+    "it": "Può essere usato intransitivamente, quando una quantità o un’intensità diventa minore, oppure transitivamente, quando qualcuno rende minore qualcosa. Nei tempi composti l’uso intransitivo richiede normalmente essere, mentre quello transitivo richiede avere. Ridurre sottolinea più spesso un intervento intenzionale."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 diminuere（小さくする、減らす）に由来する。これは分離・除去を表す接頭辞 di- と、「小さくする」を意味する minuere から成る。",
+    "it": "Dal latino diminuere, formato dal prefisso di- e da minuere, «rendere minore». Dalla stessa famiglia derivano diminuzione e diminutivo."
+  },
+
+  "minimal": [
+    {
+      "word": "diminuire",
+      "ja": "量・程度が減る、またはそれらを減らす",
+      "it": "diventare o rendere minore per quantità, intensità o valore"
+    },
+    {
+      "word": "ridurre",
+      "ja": "意図的な操作によって量・規模・費用などを小さくする",
+      "it": "rendere intenzionalmente minore una quantità, una dimensione o un costo"
+    },
+    {
+      "word": "calare",
+      "ja": "数値・水準・価格・温度などが下がる",
+      "it": "scendere di livello, valore, prezzo o temperatura"
+    }
+  ],
+
+  "synonyms": [
+    "ridurre",
+    "calare",
+    "abbassare",
+    "decrescere",
+    "attenuare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "decrease",
+      "diminish",
+      "reduce"
+    ],
+    "de": [
+      "abnehmen",
+      "verringern",
+      "sinken"
+    ],
+    "fr": [
+      "diminuer",
+      "réduire",
+      "baisser"
+    ],
+    "es": [
+      "disminuir",
+      "reducir",
+      "bajar"
+    ]
+  },
+
+  "collocations": [
+    "diminuire il prezzo",
+    "diminuire i costi",
+    "diminuire le spese",
+    "diminuire la velocità",
+    "diminuire il volume",
+    "diminuire la temperatura",
+    "diminuire il rischio",
+    "diminuire il consumo",
+    "diminuire la pressione",
+    "diminuire la dose",
+    "diminuire gradualmente",
+    "diminuire sensibilmente",
+    "diminuire notevolmente",
+    "diminuire di numero",
+    "diminuire del dieci per cento",
+    "diminuire da cento a ottanta",
+    "far diminuire qualcosa",
+    "continuare a diminuire"
+  ],
+
+  "examples": [
+    {
+      "it": "Negli ultimi mesi i prezzi sono diminuiti.",
+      "ja": "ここ数か月で価格が下がった。"
+    },
+    {
+      "it": "Dobbiamo diminuire le spese dell’azienda.",
+      "ja": "私たちは会社の支出を減らさなければならない。"
+    },
+    {
+      "it": "La temperatura diminuirà durante la notte.",
+      "ja": "夜間に気温が下がるだろう。"
+    },
+    {
+      "it": "Il numero dei partecipanti è diminuito da cento a ottanta.",
+      "ja": "参加者数は100人から80人に減少した。"
+    },
+    {
+      "it": "Il medico mi ha consigliato di diminuire la dose.",
+      "ja": "医師は私に服用量を減らすよう勧めた。"
+    },
+    {
+      "it": "Abbiamo diminuito il volume della musica.",
+      "ja": "私たちは音楽の音量を下げた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "diminuisco",
+        "diminuisci",
+        "diminuisce",
+        "diminuiamo",
+        "diminuite",
+        "diminuiscono"
+      ],
+
+      "Imperfetto": [
+        "diminuivo",
+        "diminuivi",
+        "diminuiva",
+        "diminuivamo",
+        "diminuivate",
+        "diminuivano"
+      ],
+
+      "Passato prossimo": [
+        "ho diminuito / sono diminuito/a",
+        "hai diminuito / sei diminuito/a",
+        "ha diminuito / è diminuito/a",
+        "abbiamo diminuito / siamo diminuiti/e",
+        "avete diminuito / siete diminuiti/e",
+        "hanno diminuito / sono diminuiti/e"
+      ],
+
+      "Passato remoto": [
+        "diminuii",
+        "diminuisti",
+        "diminuì",
+        "diminuimmo",
+        "diminuiste",
+        "diminuirono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo diminuito / ero diminuito/a",
+        "avevi diminuito / eri diminuito/a",
+        "aveva diminuito / era diminuito/a",
+        "avevamo diminuito / eravamo diminuiti/e",
+        "avevate diminuito / eravate diminuiti/e",
+        "avevano diminuito / erano diminuiti/e"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi diminuito / fui diminuito/a",
+        "avesti diminuito / fosti diminuito/a",
+        "ebbe diminuito / fu diminuito/a",
+        "avemmo diminuito / fummo diminuiti/e",
+        "aveste diminuito / foste diminuiti/e",
+        "ebbero diminuito / furono diminuiti/e"
+      ],
+
+      "Futuro semplice": [
+        "diminuirò",
+        "diminuirai",
+        "diminuirà",
+        "diminuiremo",
+        "diminuirete",
+        "diminuiranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò diminuito / sarò diminuito/a",
+        "avrai diminuito / sarai diminuito/a",
+        "avrà diminuito / sarà diminuito/a",
+        "avremo diminuito / saremo diminuiti/e",
+        "avrete diminuito / sarete diminuiti/e",
+        "avranno diminuito / saranno diminuiti/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "diminuisca",
+        "diminuisca",
+        "diminuisca",
+        "diminuiamo",
+        "diminuiate",
+        "diminuiscano"
+      ],
+
+      "Imperfetto": [
+        "diminuissi",
+        "diminuissi",
+        "diminuisse",
+        "diminuissimo",
+        "diminuiste",
+        "diminuissero"
+      ],
+
+      "Passato": [
+        "abbia diminuito / sia diminuito/a",
+        "abbia diminuito / sia diminuito/a",
+        "abbia diminuito / sia diminuito/a",
+        "abbiamo diminuito / siamo diminuiti/e",
+        "abbiate diminuito / siate diminuiti/e",
+        "abbiano diminuito / siano diminuiti/e"
+      ],
+
+      "Trapassato": [
+        "avessi diminuito / fossi diminuito/a",
+        "avessi diminuito / fossi diminuito/a",
+        "avesse diminuito / fosse diminuito/a",
+        "avessimo diminuito / fossimo diminuiti/e",
+        "aveste diminuito / foste diminuiti/e",
+        "avessero diminuito / fossero diminuiti/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "diminuirei",
+        "diminuiresti",
+        "diminuirebbe",
+        "diminuiremmo",
+        "diminuireste",
+        "diminuirebbero"
+      ],
+
+      "Passato": [
+        "avrei diminuito / sarei diminuito/a",
+        "avresti diminuito / saresti diminuito/a",
+        "avrebbe diminuito / sarebbe diminuito/a",
+        "avremmo diminuito / saremmo diminuiti/e",
+        "avreste diminuito / sareste diminuiti/e",
+        "avrebbero diminuito / sarebbero diminuiti/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "diminuisci",
+        "diminuisca",
+        "diminuiamo",
+        "diminuite",
+        "diminuiscano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "diminuire",
+        "avere diminuito / essere diminuito/a/i/e",
+        "diminuente",
+        "diminuito",
+        "diminuendo",
+        "avendo diminuito / essendo diminuito/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "piegare",
+  "sid": "2026-00114",
+  "word": "piegare",
+  "ipa": "/pjeˈɡare/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "piegato",
+    "gerundPresent": "piegando",
+    "pattern": "piegare qualcosa / piegare a destra o a sinistra / piegare qualcuno a + nome"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "business",
+      "manual_work"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "折る、折り畳む",
+      "曲げる、湾曲させる",
+      "右・左へ曲がる、進路を変える",
+      "人を屈服させる、意志をくじく",
+      "規則・状況などに従わせる"
+    ],
+    "it": [
+      "Ripiegare qualcosa su sé stesso, come un foglio o un tessuto.",
+      "Far assumere a qualcosa una forma curva o angolata.",
+      "Cambiare direzione, specialmente andando a destra o a sinistra.",
+      "Costringere qualcuno a cedere o a sottomettersi.",
+      "Adattare o assoggettare qualcosa a una regola, una necessità o uno scopo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "紙や衣服を折り畳む場合から、金属や身体の一部を曲げる場合まで広く使われる。移動についてはpiegare a destraのように「右へ曲がる」を表すが、日常的な道案内ではgirareもよく使われる。比喩的には、抵抗や意志をくじいて人を屈服させることを表す。自分の身体を曲げる場合は再帰形piegarsiが一般的である。",
+    "it": "Indica sia il ripiegamento di carta o tessuti sia la curvatura di oggetti o parti del corpo. Negli spostamenti, piegare a destra o a sinistra significa cambiare direzione, anche se nel linguaggio quotidiano è frequente girare. In senso figurato può indicare la sconfitta di una resistenza o di una volontà. Per il movimento del proprio corpo si usa comunemente piegarsi."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 plicāre（折る、畳む）に由来する。同じ語根はイタリア語の spiegare、impiegare、complicare、フランス語 plier、スペイン語 plegarなどにも見られる。",
+    "it": "Dal latino plicāre, «piegare, avvolgere». La stessa radice è presente in parole come spiegare, impiegare, complicare e ripiegare."
+  },
+
+  "minimal": [
+    {
+      "word": "piegare",
+      "ja": "物を折る・曲げる、または進行方向を変える",
+      "it": "ripiegare o curvare qualcosa, oppure cambiare direzione"
+    },
+    {
+      "word": "piegarsi",
+      "ja": "自分の身体をかがめる、物が曲がる、または人が屈服する",
+      "it": "curvare il proprio corpo, deformarsi o cedere"
+    },
+    {
+      "word": "girare",
+      "ja": "回転する、向きを変える、角を曲がる",
+      "it": "ruotare, cambiare orientamento o svoltare"
+    }
+  ],
+
+  "synonyms": [
+    "ripiegare",
+    "curvare",
+    "flettere",
+    "svoltare",
+    "sottomettere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "fold",
+      "bend",
+      "turn"
+    ],
+    "de": [
+      "falten",
+      "biegen",
+      "abbiegen"
+    ],
+    "fr": [
+      "plier",
+      "courber",
+      "tourner"
+    ],
+    "es": [
+      "doblar",
+      "plegar",
+      "girar"
+    ]
+  },
+
+  "collocations": [
+    "piegare un foglio",
+    "piegare una lettera",
+    "piegare i vestiti",
+    "piegare un asciugamano",
+    "piegare un tovagliolo",
+    "piegare il ginocchio",
+    "piegare le gambe",
+    "piegare il braccio",
+    "piegare la testa",
+    "piegare un filo",
+    "piegare il metallo",
+    "piegare a destra",
+    "piegare a sinistra",
+    "piegare la resistenza",
+    "piegare la volontà di qualcuno",
+    "piegare qualcuno al proprio volere",
+    "piegare le regole",
+    "piegare qualcosa alle proprie esigenze"
+  ],
+
+  "examples": [
+    {
+      "it": "Piega il foglio a metà.",
+      "ja": "その紙を半分に折ってください。"
+    },
+    {
+      "it": "Ho piegato con cura tutti i vestiti.",
+      "ja": "私はすべての衣服を丁寧に畳んだ。"
+    },
+    {
+      "it": "Al prossimo incrocio pieghi a destra.",
+      "ja": "次の交差点で右へ曲がってください。"
+    },
+    {
+      "it": "Non riesco a piegare il ginocchio.",
+      "ja": "膝を曲げることができない。"
+    },
+    {
+      "it": "Il peso ha piegato la barra di metallo.",
+      "ja": "その重さで金属棒が曲がった。"
+    },
+    {
+      "it": "Le difficoltà non hanno piegato la sua volontà.",
+      "ja": "困難も彼の意志をくじくことはなかった。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "piego",
+        "pieghi",
+        "piega",
+        "pieghiamo",
+        "piegate",
+        "piegano"
+      ],
+
+      "Imperfetto": [
+        "piegavo",
+        "piegavi",
+        "piegava",
+        "piegavamo",
+        "piegavate",
+        "piegavano"
+      ],
+
+      "Passato prossimo": [
+        "ho piegato",
+        "hai piegato",
+        "ha piegato",
+        "abbiamo piegato",
+        "avete piegato",
+        "hanno piegato"
+      ],
+
+      "Passato remoto": [
+        "piegai",
+        "piegasti",
+        "piegò",
+        "piegammo",
+        "piegaste",
+        "piegarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo piegato",
+        "avevi piegato",
+        "aveva piegato",
+        "avevamo piegato",
+        "avevate piegato",
+        "avevano piegato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi piegato",
+        "avesti piegato",
+        "ebbe piegato",
+        "avemmo piegato",
+        "aveste piegato",
+        "ebbero piegato"
+      ],
+
+      "Futuro semplice": [
+        "piegherò",
+        "piegherai",
+        "piegherà",
+        "piegheremo",
+        "piegherete",
+        "piegheranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò piegato",
+        "avrai piegato",
+        "avrà piegato",
+        "avremo piegato",
+        "avrete piegato",
+        "avranno piegato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "pieghi",
+        "pieghi",
+        "pieghi",
+        "pieghiamo",
+        "pieghiate",
+        "pieghino"
+      ],
+
+      "Imperfetto": [
+        "piegassi",
+        "piegassi",
+        "piegasse",
+        "piegassimo",
+        "piegaste",
+        "piegassero"
+      ],
+
+      "Passato": [
+        "abbia piegato",
+        "abbia piegato",
+        "abbia piegato",
+        "abbiamo piegato",
+        "abbiate piegato",
+        "abbiano piegato"
+      ],
+
+      "Trapassato": [
+        "avessi piegato",
+        "avessi piegato",
+        "avesse piegato",
+        "avessimo piegato",
+        "aveste piegato",
+        "avessero piegato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "piegherei",
+        "piegheresti",
+        "piegherebbe",
+        "piegheremmo",
+        "pieghereste",
+        "piegherebbero"
+      ],
+
+      "Passato": [
+        "avrei piegato",
+        "avresti piegato",
+        "avrebbe piegato",
+        "avremmo piegato",
+        "avreste piegato",
+        "avrebbero piegato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "piega",
+        "pieghi",
+        "pieghiamo",
+        "piegate",
+        "pieghino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "piegare",
+        "avere piegato",
+        "piegante",
+        "piegato",
+        "piegando",
+        "avendo piegato"
+      ]
+    }
+  }
+},
+{
+  "id": "cuocere",
+  "sid": "2026-00115",
+  "word": "cuocere",
+  "ipa": "/ˈkwɔtʃere/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "cotto",
+    "gerundPresent": "cuocendo",
+    "pattern": "cuocere qualcosa / cuocere a + temperatura / cuocere per + durata"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "cooking",
+      "restaurant"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "食材を加熱して調理する",
+      "煮る、焼く、蒸すなどして火を通す",
+      "食材が煮える、焼ける、火が通る",
+      "熱や日光で焼く、ひりひりさせる"
+    ],
+    "it": [
+      "Preparare un alimento mediante l’azione del calore.",
+      "Sottoporre qualcosa a bollitura, cottura al forno, al vapore o con altri metodi.",
+      "Raggiungere il grado di cottura desiderato.",
+      "Scottare o bruciare per effetto del calore o del sole."
+    ]
+  },
+
+  "nuance": {
+    "ja": "調理法を限定せず、熱を加えて食材に火を通すこと全般を表す。bollireは「ゆでる・沸騰させる」、friggereは「油で揚げる」、arrostireは「直火やオーブンで焼く」のように調理法を特定する。過去分詞は不規則形cottoであり、essere cottoは「火が通っている」のほか、口語で「疲れ切っている」という意味にもなる。",
+    "it": "È il verbo generale che indica la trasformazione di un alimento mediante il calore, senza specificare necessariamente il metodo. Bollire, friggere e arrostire indicano invece tecniche particolari. Il participio passato è l’irregolare cotto. In senso colloquiale, essere cotto può anche significare essere molto stanco o fortemente innamorato."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 coquere（煮る、焼く、熟させる）に由来する。過去分詞cottoはラテン語coctusにさかのぼる。同じ語源はイタリア語cucina、cuoco、cotturaや、英語cookにも関係している。",
+    "it": "Dal latino coquere, «cuocere, maturare mediante il calore». Il participio cotto deriva dal latino coctus. Alla stessa famiglia appartengono cuoco, cucina, cottura e precotto."
+  },
+
+  "minimal": [
+    {
+      "word": "cuocere",
+      "ja": "方法を限定せず、熱を加えて食材に火を通す",
+      "it": "preparare un alimento mediante il calore senza precisare necessariamente il metodo"
+    },
+    {
+      "word": "cucinare",
+      "ja": "食材の準備から調理までを含めて料理を作る",
+      "it": "preparare una pietanza attraverso una o più operazioni"
+    },
+    {
+      "word": "bollire",
+      "ja": "液体を沸騰させる、または食材を沸騰した液体でゆでる",
+      "it": "portare un liquido all’ebollizione o cuocere un alimento in un liquido bollente"
+    }
+  ],
+
+  "synonyms": [
+    "cucinare",
+    "preparare",
+    "lessare",
+    "infornare",
+    "arrostire"
+  ],
+
+  "equivalents": {
+    "en": [
+      "cook",
+      "bake",
+      "boil"
+    ],
+    "de": [
+      "kochen",
+      "garen",
+      "backen"
+    ],
+    "fr": [
+      "cuire",
+      "faire cuire",
+      "cuisiner"
+    ],
+    "es": [
+      "cocer",
+      "cocinar",
+      "hornear"
+    ]
+  },
+
+  "collocations": [
+    "cuocere la pasta",
+    "cuocere il riso",
+    "cuocere la carne",
+    "cuocere il pesce",
+    "cuocere le verdure",
+    "cuocere il pane",
+    "cuocere una torta",
+    "cuocere un uovo",
+    "cuocere al forno",
+    "cuocere al vapore",
+    "cuocere alla griglia",
+    "cuocere a fuoco lento",
+    "cuocere a fuoco medio",
+    "cuocere a bassa temperatura",
+    "cuocere per dieci minuti",
+    "cuocere bene",
+    "cuocere troppo",
+    "lasciare cuocere",
+    "far cuocere",
+    "tempo di cottura"
+  ],
+
+  "examples": [
+    {
+      "it": "Cuoci la pasta in abbondante acqua salata.",
+      "ja": "たっぷりの塩水でパスタをゆでてください。"
+    },
+    {
+      "it": "Ho cotto le verdure al vapore.",
+      "ja": "私は野菜を蒸した。"
+    },
+    {
+      "it": "Lascia cuocere la salsa a fuoco lento per venti minuti.",
+      "ja": "ソースを弱火で20分間煮てください。"
+    },
+    {
+      "it": "Il pane deve cuocere a centottanta gradi.",
+      "ja": "パンは180度で焼かなければならない。"
+    },
+    {
+      "it": "Quanto tempo deve cuocere il riso?",
+      "ja": "米にはどのくらい火を通す必要がありますか。"
+    },
+    {
+      "it": "La carne non è ancora completamente cotta.",
+      "ja": "肉にはまだ完全に火が通っていない。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "cuocio",
+        "cuoci",
+        "cuoce",
+        "cuociamo",
+        "cuocete",
+        "cuociono"
+      ],
+
+      "Imperfetto": [
+        "cuocevo",
+        "cuocevi",
+        "cuoceva",
+        "cuocevamo",
+        "cuocevate",
+        "cuocevano"
+      ],
+
+      "Passato prossimo": [
+        "ho cotto",
+        "hai cotto",
+        "ha cotto",
+        "abbiamo cotto",
+        "avete cotto",
+        "hanno cotto"
+      ],
+
+      "Passato remoto": [
+        "cossi",
+        "cuocesti",
+        "cosse",
+        "cuocemmo",
+        "cuoceste",
+        "cossero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo cotto",
+        "avevi cotto",
+        "aveva cotto",
+        "avevamo cotto",
+        "avevate cotto",
+        "avevano cotto"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi cotto",
+        "avesti cotto",
+        "ebbe cotto",
+        "avemmo cotto",
+        "aveste cotto",
+        "ebbero cotto"
+      ],
+
+      "Futuro semplice": [
+        "cuocerò",
+        "cuocerai",
+        "cuocerà",
+        "cuoceremo",
+        "cuocerete",
+        "cuoceranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò cotto",
+        "avrai cotto",
+        "avrà cotto",
+        "avremo cotto",
+        "avrete cotto",
+        "avranno cotto"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "cuocia",
+        "cuocia",
+        "cuocia",
+        "cuociamo",
+        "cuociate",
+        "cuociano"
+      ],
+
+      "Imperfetto": [
+        "cuocessi",
+        "cuocessi",
+        "cuocesse",
+        "cuocessimo",
+        "cuoceste",
+        "cuocessero"
+      ],
+
+      "Passato": [
+        "abbia cotto",
+        "abbia cotto",
+        "abbia cotto",
+        "abbiamo cotto",
+        "abbiate cotto",
+        "abbiano cotto"
+      ],
+
+      "Trapassato": [
+        "avessi cotto",
+        "avessi cotto",
+        "avesse cotto",
+        "avessimo cotto",
+        "aveste cotto",
+        "avessero cotto"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "cuocerei",
+        "cuoceresti",
+        "cuocerebbe",
+        "cuoceremmo",
+        "cuocereste",
+        "cuocerebbero"
+      ],
+
+      "Passato": [
+        "avrei cotto",
+        "avresti cotto",
+        "avrebbe cotto",
+        "avremmo cotto",
+        "avreste cotto",
+        "avrebbero cotto"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "cuoci",
+        "cuocia",
+        "cuociamo",
+        "cuocete",
+        "cuociano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "cuocere",
+        "avere cotto",
+        "cuocente",
+        "cotto",
+        "cuocendo",
+        "avendo cotto"
+      ]
+    }
+  }
+},
+{
+  "id": "aspirare",
+  "sid": "2026-00116",
+  "word": "aspirare",
+  "ipa": "/aspiˈrare/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "aspirato",
+    "gerundPresent": "aspirando",
+    "pattern": "aspirare qualcosa / aspirare a + nome / aspirare a + infinito"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "medical",
+      "housework"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "空気・煙・液体などを吸い込む、吸引する",
+      "掃除機などでごみやほこりを吸い取る",
+      "地位・目標・理想などを切望する、目指す",
+      "ある役職・資格・状態を得たいと望む",
+      "音声を帯気音として発音する"
+    ],
+    "it": [
+      "Trarre dentro aria, fumo, liquidi o altre sostanze mediante inspirazione o risucchio.",
+      "Rimuovere polvere o sporco mediante un aspirapolvere o un dispositivo di aspirazione.",
+      "Desiderare intensamente di raggiungere un obiettivo, una posizione o una condizione.",
+      "Mirare a ottenere un incarico, un titolo o un risultato.",
+      "In fonetica, pronunciare un suono accompagnandolo con un’emissione d’aria."
+    ]
+  },
+
+  "nuance": {
+    "ja": "他動詞では空気・液体・ほこりなどを物理的に「吸い込む・吸引する」ことを表す。自動詞としてaspirare aの形を取ると、地位・成功・理想などの達成を強く望むという抽象的な意味になる。単なる希望を表すsperareよりも、目標へ向かう意欲や野心を伴いやすい。呼吸として息を吸うことには日常語ではinspirareも用いられる。",
+    "it": "Nell’uso transitivo indica l’azione fisica di attirare aria, liquidi, polvere o altre sostanze. Nella costruzione aspirare a assume invece il significato figurato di desiderare e perseguire un obiettivo. Rispetto a sperare, suggerisce spesso un’ambizione più stabile e orientata al raggiungimento di un risultato."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 aspirāre（～に向かって息を吹く、近づこうとする）に由来し、接頭辞 ad-（～へ）と spirāre（呼吸する、息を吹く）から成る。「息を吸う」という物理的意味から「目標を切望する」という比喩的意味が発達した。",
+    "it": "Dal latino aspirāre, formato da ad-, «verso», e spirāre, «respirare, soffiare». Dal significato fisico legato al respiro si è sviluppato quello figurato di tendere con desiderio verso un obiettivo."
+  },
+
+  "minimal": [
+    {
+      "word": "aspirare",
+      "ja": "物質を吸引する、または高い目標の達成を強く望む",
+      "it": "trarre dentro una sostanza oppure tendere con ambizione verso un obiettivo"
+    },
+    {
+      "word": "inspirare",
+      "ja": "呼吸動作として空気を肺に吸い込む",
+      "it": "introdurre aria nei polmoni durante la respirazione"
+    },
+    {
+      "word": "sperare",
+      "ja": "ある出来事が実現することを期待する",
+      "it": "attendersi con fiducia che qualcosa si realizzi"
+    }
+  ],
+
+  "synonyms": [
+    "inalare",
+    "risucchiare",
+    "assorbire",
+    "ambire a",
+    "mirare a"
+  ],
+
+  "equivalents": {
+    "en": [
+      "aspirate",
+      "suck up",
+      "aspire to"
+    ],
+    "de": [
+      "ansaugen",
+      "einatmen",
+      "nach etwas streben"
+    ],
+    "fr": [
+      "aspirer",
+      "aspirer à",
+      "inhaler"
+    ],
+    "es": [
+      "aspirar",
+      "aspirar a",
+      "inhalar"
+    ]
+  },
+
+  "collocations": [
+    "aspirare l’aria",
+    "aspirare il fumo",
+    "aspirare un liquido",
+    "aspirare la polvere",
+    "aspirare le briciole",
+    "aspirare il pavimento",
+    "aspirare le secrezioni",
+    "aspirare con una siringa",
+    "aspirare a una posizione",
+    "aspirare a una promozione",
+    "aspirare a un incarico",
+    "aspirare al successo",
+    "aspirare alla vittoria",
+    "aspirare alla libertà",
+    "aspirare alla perfezione",
+    "aspirare a diventare medico",
+    "aspirare a migliorare",
+    "legittimamente aspirare a"
+  ],
+
+  "examples": [
+    {
+      "it": "Ho aspirato la polvere dal tappeto.",
+      "ja": "私はカーペットからほこりを吸い取った。"
+    },
+    {
+      "it": "Questo dispositivo aspira l’aria dalla stanza.",
+      "ja": "この装置は部屋から空気を吸い出す。"
+    },
+    {
+      "it": "Non bisogna aspirare il fumo.",
+      "ja": "煙を吸い込んではいけない。"
+    },
+    {
+      "it": "Aspira a una posizione di maggiore responsabilità.",
+      "ja": "彼はより責任のある地位を目指している。"
+    },
+    {
+      "it": "Molti giovani aspirano a lavorare all’estero.",
+      "ja": "多くの若者が海外で働くことを望んでいる。"
+    },
+    {
+      "it": "La squadra aspira alla vittoria del campionato.",
+      "ja": "そのチームはリーグ優勝を目指している。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "aspiro",
+        "aspiri",
+        "aspira",
+        "aspiriamo",
+        "aspirate",
+        "aspirano"
+      ],
+
+      "Imperfetto": [
+        "aspiravo",
+        "aspiravi",
+        "aspirava",
+        "aspiravamo",
+        "aspiravate",
+        "aspiravano"
+      ],
+
+      "Passato prossimo": [
+        "ho aspirato",
+        "hai aspirato",
+        "ha aspirato",
+        "abbiamo aspirato",
+        "avete aspirato",
+        "hanno aspirato"
+      ],
+
+      "Passato remoto": [
+        "aspirai",
+        "aspirasti",
+        "aspirò",
+        "aspirammo",
+        "aspiraste",
+        "aspirarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo aspirato",
+        "avevi aspirato",
+        "aveva aspirato",
+        "avevamo aspirato",
+        "avevate aspirato",
+        "avevano aspirato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi aspirato",
+        "avesti aspirato",
+        "ebbe aspirato",
+        "avemmo aspirato",
+        "aveste aspirato",
+        "ebbero aspirato"
+      ],
+
+      "Futuro semplice": [
+        "aspirerò",
+        "aspirerai",
+        "aspirerà",
+        "aspireremo",
+        "aspirerete",
+        "aspireranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò aspirato",
+        "avrai aspirato",
+        "avrà aspirato",
+        "avremo aspirato",
+        "avrete aspirato",
+        "avranno aspirato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "aspiri",
+        "aspiri",
+        "aspiri",
+        "aspiriamo",
+        "aspiriate",
+        "aspirino"
+      ],
+
+      "Imperfetto": [
+        "aspirassi",
+        "aspirassi",
+        "aspirasse",
+        "aspirassimo",
+        "aspiraste",
+        "aspirassero"
+      ],
+
+      "Passato": [
+        "abbia aspirato",
+        "abbia aspirato",
+        "abbia aspirato",
+        "abbiamo aspirato",
+        "abbiate aspirato",
+        "abbiano aspirato"
+      ],
+
+      "Trapassato": [
+        "avessi aspirato",
+        "avessi aspirato",
+        "avesse aspirato",
+        "avessimo aspirato",
+        "aveste aspirato",
+        "avessero aspirato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "aspirerei",
+        "aspireresti",
+        "aspirerebbe",
+        "aspireremmo",
+        "aspirereste",
+        "aspirerebbero"
+      ],
+
+      "Passato": [
+        "avrei aspirato",
+        "avresti aspirato",
+        "avrebbe aspirato",
+        "avremmo aspirato",
+        "avreste aspirato",
+        "avrebbero aspirato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "aspira",
+        "aspiri",
+        "aspiriamo",
+        "aspirate",
+        "aspirino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "aspirare",
+        "avere aspirato",
+        "aspirante",
+        "aspirato",
+        "aspirando",
+        "avendo aspirato"
+      ]
+    }
+  }
 }
 ]
