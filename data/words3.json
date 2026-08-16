@@ -1584,6 +1584,327 @@
       ]
     }
   }
+},
+{
+  "id": "abbandonare",
+  "sid": "2026-00127",
+  "word": "abbandonare",
+  "ipa": "/abbandоˈnare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "abbandonato",
+    "gerundPresent": "abbandonando",
+    "pattern": "abbandonare qualcuno o qualcosa / abbandonare un luogo / abbandonare l’idea di + infinito"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "social",
+      "business",
+      "academic",
+      "legal"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人や動物を見捨てる、置き去りにする",
+      "場所から立ち去る、退去する",
+      "活動・仕事・計画などを中止する、断念する",
+      "所有物や権利を放棄する",
+      "習慣・考え・態度などを捨てる"
+    ],
+    "it": [
+      "Lasciare definitivamente una persona o un animale senza assistenza o protezione.",
+      "Allontanarsi da un luogo e non rimanervi più.",
+      "Interrompere un’attività, un progetto o un tentativo.",
+      "Rinunciare al possesso, all’uso o a un diritto.",
+      "Lasciare un’abitudine, un’idea, una posizione o un comportamento."
+    ]
+  },
+
+  "nuance": {
+    "ja": "単にその場を離れるlasciareよりも、戻らないこと、世話や責任を放棄すること、継続していた活動を断念することを強く示す場合が多い。そのため、人・動物を目的語にすると「見捨てる」という否定的な響きを帯びやすい。一方、abbandonare un progettoやabbandonare gli studiでは、中止・断念を比較的中立的に表す。",
+    "it": "Rispetto al generico lasciare, suggerisce spesso un distacco definitivo, la rinuncia a una responsabilità o l’interruzione di qualcosa che era in corso. Riferito a persone o animali può avere una connotazione fortemente negativa. Con progetti, studi o tentativi indica invece soprattutto la cessazione o la rinuncia."
+  },
+
+  "etymology": {
+    "ja": "古フランス語 abandonerを経てイタリア語に入った語で、表現à bandon（他者の権限・裁量に委ねて）に由来する。bandonはゲルマン系の語で、「命令、権限、支配」を表した。",
+    "it": "Dal francese antico abandoner, derivato dall’espressione à bandon, «in potere o alla mercé di qualcuno». Bandon risale a una voce germanica collegata all’idea di comando, autorità e giurisdizione."
+  },
+
+  "minimal": [
+    {
+      "word": "abbandonare",
+      "ja": "人・場所・活動などから決定的に離れ、世話や継続をやめる",
+      "it": "lasciare definitivamente qualcuno o qualcosa, rinunciando alla cura o alla continuazione"
+    },
+    {
+      "word": "lasciare",
+      "ja": "人・物・場所から離れる、または物をある場所に残す",
+      "it": "separarsi da qualcuno o qualcosa oppure far rimanere qualcosa in un luogo"
+    },
+    {
+      "word": "rinunciare",
+      "ja": "権利・機会・計画などを自分の意思で諦める",
+      "it": "decidere volontariamente di non ottenere, usare o continuare qualcosa"
+    }
+  ],
+
+  "synonyms": [
+    "lasciare",
+    "rinunciare a",
+    "desistere da",
+    "disertare",
+    "trascurare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "abandon",
+      "leave",
+      "give up"
+    ],
+    "de": [
+      "verlassen",
+      "aufgeben",
+      "im Stich lassen"
+    ],
+    "fr": [
+      "abandonner",
+      "quitter",
+      "renoncer à"
+    ],
+    "es": [
+      "abandonar",
+      "dejar",
+      "renunciar a"
+    ]
+  },
+
+  "collocations": [
+    "abbandonare qualcuno",
+    "abbandonare la famiglia",
+    "abbandonare un bambino",
+    "abbandonare un animale",
+    "abbandonare un luogo",
+    "abbandonare la città",
+    "abbandonare il paese",
+    "abbandonare la casa",
+    "abbandonare il campo",
+    "abbandonare il lavoro",
+    "abbandonare gli studi",
+    "abbandonare la scuola",
+    "abbandonare un progetto",
+    "abbandonare un piano",
+    "abbandonare un tentativo",
+    "abbandonare l’idea di",
+    "abbandonare ogni speranza",
+    "abbandonare una posizione",
+    "abbandonare una nave",
+    "abbandonare definitivamente",
+    "non abbandonare mai",
+    "essere costretto ad abbandonare"
+  ],
+
+  "examples": [
+    {
+      "it": "La famiglia ha abbandonato la città durante la guerra.",
+      "ja": "その家族は戦争中に町を離れた。"
+    },
+    {
+      "it": "Non bisogna mai abbandonare un animale.",
+      "ja": "動物を決して捨ててはいけない。"
+    },
+    {
+      "it": "Ha deciso di abbandonare gli studi.",
+      "ja": "彼は学業を中断することに決めた。"
+    },
+    {
+      "it": "L’azienda ha abbandonato il progetto a causa dei costi.",
+      "ja": "会社は費用を理由にその計画を断念した。"
+    },
+    {
+      "it": "Non ho ancora abbandonato la speranza di trovarlo.",
+      "ja": "私はまだそれを見つける希望を捨てていない。"
+    },
+    {
+      "it": "I passeggeri furono invitati ad abbandonare la nave.",
+      "ja": "乗客たちは船から退去するよう指示された。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "abbandono",
+        "abbandoni",
+        "abbandona",
+        "abbandoniamo",
+        "abbandonate",
+        "abbandonano"
+      ],
+
+      "Imperfetto": [
+        "abbandonavo",
+        "abbandonavi",
+        "abbandonava",
+        "abbandonavamo",
+        "abbandonavate",
+        "abbandonavano"
+      ],
+
+      "Passato prossimo": [
+        "ho abbandonato",
+        "hai abbandonato",
+        "ha abbandonato",
+        "abbiamo abbandonato",
+        "avete abbandonato",
+        "hanno abbandonato"
+      ],
+
+      "Passato remoto": [
+        "abbandonai",
+        "abbandonasti",
+        "abbandonò",
+        "abbandonammo",
+        "abbandonaste",
+        "abbandonarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo abbandonato",
+        "avevi abbandonato",
+        "aveva abbandonato",
+        "avevamo abbandonato",
+        "avevate abbandonato",
+        "avevano abbandonato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi abbandonato",
+        "avesti abbandonato",
+        "ebbe abbandonato",
+        "avemmo abbandonato",
+        "aveste abbandonato",
+        "ebbero abbandonato"
+      ],
+
+      "Futuro semplice": [
+        "abbandonerò",
+        "abbandonerai",
+        "abbandonerà",
+        "abbandoneremo",
+        "abbandonerete",
+        "abbandoneranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò abbandonato",
+        "avrai abbandonato",
+        "avrà abbandonato",
+        "avremo abbandonato",
+        "avrete abbandonato",
+        "avranno abbandonato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "abbandoni",
+        "abbandoni",
+        "abbandoni",
+        "abbandoniamo",
+        "abbandoniate",
+        "abbandonino"
+      ],
+
+      "Imperfetto": [
+        "abbandonassi",
+        "abbandonassi",
+        "abbandonasse",
+        "abbandonassimo",
+        "abbandonaste",
+        "abbandonassero"
+      ],
+
+      "Passato": [
+        "abbia abbandonato",
+        "abbia abbandonato",
+        "abbia abbandonato",
+        "abbiamo abbandonato",
+        "abbiate abbandonato",
+        "abbiano abbandonato"
+      ],
+
+      "Trapassato": [
+        "avessi abbandonato",
+        "avessi abbandonato",
+        "avesse abbandonato",
+        "avessimo abbandonato",
+        "aveste abbandonato",
+        "avessero abbandonato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "abbandonerei",
+        "abbandoneresti",
+        "abbandonerebbe",
+        "abbandoneremmo",
+        "abbandonereste",
+        "abbandonerebbero"
+      ],
+
+      "Passato": [
+        "avrei abbandonato",
+        "avresti abbandonato",
+        "avrebbe abbandonato",
+        "avremmo abbandonato",
+        "avreste abbandonato",
+        "avrebbero abbandonato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "abbandona",
+        "abbandoni",
+        "abbandoniamo",
+        "abbandonate",
+        "abbandonino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "abbandonare",
+        "avere abbandonato",
+        "abbandonante",
+        "abbandonato",
+        "abbandonando",
+        "avendo abbandonato"
+      ]
+    }
+  }
 }
 ]
 
