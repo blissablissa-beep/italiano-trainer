@@ -1905,6 +1905,331 @@
       ]
     }
   }
+},
+{
+  "id": "lasciare",
+  "sid": "2026-00128",
+  "word": "lasciare",
+  "ipa": "/laʃˈʃare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・使役動詞",
+      "it": "verbo transitivo e causativo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "lasciato",
+    "gerundPresent": "lasciando",
+    "pattern": "lasciare qualcuno o qualcosa / lasciare qualcosa a qualcuno / lasciare + infinito"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "social",
+      "business",
+      "travel",
+      "legal"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人・物・場所を離れる、去る",
+      "物をある場所に置いておく、置き忘れる",
+      "人に物・財産・役割などを残す、譲る",
+      "人に行為をさせておく、行為を妨げない",
+      "仕事・学校・関係などを辞める",
+      "物事をある状態のままにしておく"
+    ],
+    "it": [
+      "Allontanarsi da una persona, una cosa o un luogo.",
+      "Far rimanere qualcosa in un determinato posto, anche per dimenticanza.",
+      "Affidare, cedere o destinare qualcosa a qualcuno.",
+      "Permettere a qualcuno di compiere un’azione senza impedirglielo.",
+      "Interrompere un lavoro, un’attività, un corso di studi o una relazione.",
+      "Mantenere qualcuno o qualcosa in una determinata condizione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "英語のleaveやletに近い非常に多義的な基本動詞である。物を残す、人や場所から離れる、活動を辞める、行為を許すなど、文型によって意味が変わる。abbandonareより中立的で、一時的に離れる場合にも使える。lasciare + 不定詞は「～させておく」「～するのを許す」を表し、fare + 不定詞による積極的な使役とは対照をなす。",
+    "it": "È un verbo fondamentale e molto polisemico, vicino agli inglesi leave e let. Può indicare separazione, permanenza, rinuncia, affidamento o permesso. Rispetto ad abbandonare è più neutro e non implica necessariamente un distacco definitivo. Con l’infinito indica spesso che non si impedisce a qualcuno di agire, mentre fare seguito dall’infinito esprime una causazione più attiva."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 laxāre（緩める、解放する）に由来し、形容詞laxus（緩い、自由な）と関係する。「拘束を緩める」ことから、「自由にする」「そのままにする」「離れる」という意味が発達した。",
+    "it": "Dal latino laxāre, «allentare, liberare», derivato da laxus, «largo, non stretto». Dall’idea di sciogliere un vincolo si sono sviluppati i significati di permettere, far rimanere e separarsi."
+  },
+
+  "minimal": [
+    {
+      "word": "lasciare",
+      "ja": "人・物・場所から離れる、物を残す、または行為を許す",
+      "it": "separarsi da qualcuno o qualcosa, farlo rimanere oppure permettere un’azione"
+    },
+    {
+      "word": "abbandonare",
+      "ja": "世話・責任・継続を放棄して、決定的に離れる",
+      "it": "lasciare in modo definitivo, rinunciando spesso alla cura o alla responsabilità"
+    },
+    {
+      "word": "partire",
+      "ja": "ある場所を出発して、別の目的地へ向かう",
+      "it": "mettersi in viaggio allontanandosi da un luogo"
+    }
+  ],
+
+  "synonyms": [
+    "abbandonare",
+    "partire da",
+    "depositare",
+    "permettere",
+    "rinunciare a"
+  ],
+
+  "equivalents": {
+    "en": [
+      "leave",
+      "let",
+      "allow"
+    ],
+    "de": [
+      "lassen",
+      "verlassen",
+      "zurücklassen"
+    ],
+    "fr": [
+      "laisser",
+      "quitter",
+      "permettre"
+    ],
+    "es": [
+      "dejar",
+      "abandonar",
+      "permitir"
+    ]
+  },
+
+  "collocations": [
+    "lasciare qualcuno",
+    "lasciare la famiglia",
+    "lasciare un amico",
+    "lasciare la casa",
+    "lasciare la città",
+    "lasciare il paese",
+    "lasciare il lavoro",
+    "lasciare la scuola",
+    "lasciare un messaggio",
+    "lasciare un commento",
+    "lasciare una mancia",
+    "lasciare un’eredità",
+    "lasciare qualcosa a qualcuno",
+    "lasciare le chiavi sul tavolo",
+    "lasciare la porta aperta",
+    "lasciare qualcuno solo",
+    "lasciare spazio",
+    "lasciare il posto",
+    "lasciare perdere",
+    "lasciare stare",
+    "lasciare fare",
+    "lasciare entrare",
+    "lasciare uscire",
+    "lasciare intendere"
+  ],
+
+  "examples": [
+    {
+      "it": "Ho lasciato le chiavi sul tavolo.",
+      "ja": "私は鍵をテーブルの上に置いてきた。"
+    },
+    {
+      "it": "Ha lasciato il lavoro il mese scorso.",
+      "ja": "彼は先月仕事を辞めた。"
+    },
+    {
+      "it": "Puoi lasciare un messaggio dopo il segnale.",
+      "ja": "合図の後にメッセージを残すことができます。"
+    },
+    {
+      "it": "Lascia aperta la finestra, per favore.",
+      "ja": "窓を開けたままにしておいてください。"
+    },
+    {
+      "it": "I genitori hanno lasciato uscire i bambini.",
+      "ja": "両親は子どもたちが外出するのを許した。"
+    },
+    {
+      "it": "Lascia perdere: non vale la pena discuterne.",
+      "ja": "もうやめておきましょう。それについて議論する価値はありません。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "lascio",
+        "lasci",
+        "lascia",
+        "lasciamo",
+        "lasciate",
+        "lasciano"
+      ],
+
+      "Imperfetto": [
+        "lasciavo",
+        "lasciavi",
+        "lasciava",
+        "lasciavamo",
+        "lasciavate",
+        "lasciavano"
+      ],
+
+      "Passato prossimo": [
+        "ho lasciato",
+        "hai lasciato",
+        "ha lasciato",
+        "abbiamo lasciato",
+        "avete lasciato",
+        "hanno lasciato"
+      ],
+
+      "Passato remoto": [
+        "lasciai",
+        "lasciasti",
+        "lasciò",
+        "lasciammo",
+        "lasciaste",
+        "lasciarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo lasciato",
+        "avevi lasciato",
+        "aveva lasciato",
+        "avevamo lasciato",
+        "avevate lasciato",
+        "avevano lasciato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi lasciato",
+        "avesti lasciato",
+        "ebbe lasciato",
+        "avemmo lasciato",
+        "aveste lasciato",
+        "ebbero lasciato"
+      ],
+
+      "Futuro semplice": [
+        "lascerò",
+        "lascerai",
+        "lascerà",
+        "lasceremo",
+        "lascerete",
+        "lasceranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò lasciato",
+        "avrai lasciato",
+        "avrà lasciato",
+        "avremo lasciato",
+        "avrete lasciato",
+        "avranno lasciato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "lasci",
+        "lasci",
+        "lasci",
+        "lasciamo",
+        "lasciate",
+        "lascino"
+      ],
+
+      "Imperfetto": [
+        "lasciassi",
+        "lasciassi",
+        "lasciasse",
+        "lasciassimo",
+        "lasciaste",
+        "lasciassero"
+      ],
+
+      "Passato": [
+        "abbia lasciato",
+        "abbia lasciato",
+        "abbia lasciato",
+        "abbiamo lasciato",
+        "abbiate lasciato",
+        "abbiano lasciato"
+      ],
+
+      "Trapassato": [
+        "avessi lasciato",
+        "avessi lasciato",
+        "avesse lasciato",
+        "avessimo lasciato",
+        "aveste lasciato",
+        "avessero lasciato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "lascerei",
+        "lasceresti",
+        "lascerebbe",
+        "lasceremmo",
+        "lascereste",
+        "lascerebbero"
+      ],
+
+      "Passato": [
+        "avrei lasciato",
+        "avresti lasciato",
+        "avrebbe lasciato",
+        "avremmo lasciato",
+        "avreste lasciato",
+        "avrebbero lasciato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "lascia",
+        "lasci",
+        "lasciamo",
+        "lasciate",
+        "lascino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "lasciare",
+        "avere lasciato",
+        "lasciante",
+        "lasciato",
+        "lasciando",
+        "avendo lasciato"
+      ]
+    }
+  }
 }
 ]
 
