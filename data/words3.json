@@ -641,6 +641,949 @@
       ]
     }
   }
+},
+{
+  "id": "ridere",
+  "sid": "2026-00123",
+  "word": "ridere",
+  "ipa": "/ˈridere/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞的用法を持つ動詞",
+      "it": "verbo intransitivo con alcuni usi transitivi"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "riso",
+    "gerundPresent": "ridendo",
+    "pattern": "ridere / ridere di + persona o cosa / ridere con + persona"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "entertainment",
+      "social"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "笑う、笑い声を上げる",
+      "面白いと感じて笑う",
+      "人や物事を笑う、からかう",
+      "喜びや楽しさを表す",
+      "冗談として受け取る、深刻に考えない"
+    ],
+    "it": [
+      "Manifestare allegria o divertimento con movimenti del volto e suoni caratteristici.",
+      "Reagire con il riso a qualcosa di comico o piacevole.",
+      "Prendere in giro una persona o una cosa.",
+      "Esprimere gioia, serenità o soddisfazione.",
+      "Considerare qualcosa poco serio o degno di scherzo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "声を出す笑いから、表情に現れる軽い笑いまで幅広く表す。ridere di qualcunoは、文脈によって「その人の話を笑う」だけでなく「その人を嘲笑する」という否定的な意味にもなる。sorridereは通常、声を出さずにほほえむことを表す。ridere con qualcunoは「人と一緒に笑う」という友好的な表現である。",
+    "it": "Può indicare sia una risata sonora sia una manifestazione più lieve di allegria. Ridere di qualcuno può significare semplicemente divertirsi per qualcosa che ha detto, ma anche deriderlo. Sorridere indica normalmente un’espressione sorridente senza una vera risata. Ridere con qualcuno suggerisce invece una partecipazione amichevole e condivisa."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 rīdēre（笑う）に直接由来する。過去分詞risoはラテン語rīsusにさかのぼる。同じ語族にはsorridere、deridere、irridere、risata、英語ridiculousなどがある。",
+    "it": "Dal latino rīdēre, con conservazione del significato fondamentale. Il participio riso deriva dal latino rīsus. Alla stessa famiglia appartengono sorriso, risata, deridere, irridere e ridicolo."
+  },
+
+  "minimal": [
+    {
+      "word": "ridere",
+      "ja": "面白さや喜びによって、声や表情を伴って笑う",
+      "it": "manifestare divertimento o gioia attraverso la risata"
+    },
+    {
+      "word": "sorridere",
+      "ja": "多くの場合は声を出さず、表情でほほえむ",
+      "it": "manifestare simpatia o piacere con un sorriso, generalmente senza ridere"
+    },
+    {
+      "word": "deridere",
+      "ja": "人や物を軽蔑的・悪意的にあざ笑う",
+      "it": "ridere di qualcuno o qualcosa con disprezzo o cattiveria"
+    }
+  ],
+
+  "synonyms": [
+    "sghignazzare",
+    "ridacchiare",
+    "divertirsi",
+    "sorridere",
+    "scherzare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "laugh",
+      "laugh at",
+      "joke"
+    ],
+    "de": [
+      "lachen",
+      "über jemanden lachen"
+    ],
+    "fr": [
+      "rire",
+      "se moquer de"
+    ],
+    "es": [
+      "reír",
+      "reírse de"
+    ]
+  },
+
+  "collocations": [
+    "ridere molto",
+    "ridere forte",
+    "ridere insieme",
+    "ridere di gusto",
+    "ridere di cuore",
+    "ridere a crepapelle",
+    "ridere fino alle lacrime",
+    "ridere senza motivo",
+    "ridere di qualcuno",
+    "ridere di qualcosa",
+    "ridere con qualcuno",
+    "far ridere",
+    "mettersi a ridere",
+    "scoppiare a ridere",
+    "continuare a ridere",
+    "non avere voglia di ridere",
+    "c’è poco da ridere",
+    "ridere sotto i baffi",
+    "ridere in faccia a qualcuno",
+    "ridere per non piangere",
+    "l’ultimo a ridere"
+  ],
+
+  "examples": [
+    {
+      "it": "Abbiamo riso molto durante la cena.",
+      "ja": "私たちは夕食の間にたくさん笑った。"
+    },
+    {
+      "it": "Quella storia mi fa sempre ridere.",
+      "ja": "その話を聞くと私はいつも笑ってしまう。"
+    },
+    {
+      "it": "Non ridere degli errori degli altri.",
+      "ja": "他人の間違いを笑ってはいけない。"
+    },
+    {
+      "it": "Quando ha sentito la notizia, si è messo a ridere.",
+      "ja": "その知らせを聞くと、彼は笑い始めた。"
+    },
+    {
+      "it": "I bambini ridevano e giocavano insieme.",
+      "ja": "子どもたちは一緒に笑いながら遊んでいた。"
+    },
+    {
+      "it": "C’è poco da ridere: la situazione è seria.",
+      "ja": "笑っている場合ではない。状況は深刻だ。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "rido",
+        "ridi",
+        "ride",
+        "ridiamo",
+        "ridete",
+        "ridono"
+      ],
+
+      "Imperfetto": [
+        "ridevo",
+        "ridevi",
+        "rideva",
+        "ridevamo",
+        "ridevate",
+        "ridevano"
+      ],
+
+      "Passato prossimo": [
+        "ho riso",
+        "hai riso",
+        "ha riso",
+        "abbiamo riso",
+        "avete riso",
+        "hanno riso"
+      ],
+
+      "Passato remoto": [
+        "risi",
+        "ridesti",
+        "rise",
+        "ridemmo",
+        "rideste",
+        "risero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo riso",
+        "avevi riso",
+        "aveva riso",
+        "avevamo riso",
+        "avevate riso",
+        "avevano riso"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi riso",
+        "avesti riso",
+        "ebbe riso",
+        "avemmo riso",
+        "aveste riso",
+        "ebbero riso"
+      ],
+
+      "Futuro semplice": [
+        "riderò",
+        "riderai",
+        "riderà",
+        "rideremo",
+        "riderete",
+        "rideranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò riso",
+        "avrai riso",
+        "avrà riso",
+        "avremo riso",
+        "avrete riso",
+        "avranno riso"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "rida",
+        "rida",
+        "rida",
+        "ridiamo",
+        "ridiate",
+        "ridano"
+      ],
+
+      "Imperfetto": [
+        "ridessi",
+        "ridessi",
+        "ridesse",
+        "ridessimo",
+        "rideste",
+        "ridessero"
+      ],
+
+      "Passato": [
+        "abbia riso",
+        "abbia riso",
+        "abbia riso",
+        "abbiamo riso",
+        "abbiate riso",
+        "abbiano riso"
+      ],
+
+      "Trapassato": [
+        "avessi riso",
+        "avessi riso",
+        "avesse riso",
+        "avessimo riso",
+        "aveste riso",
+        "avessero riso"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "riderei",
+        "rideresti",
+        "riderebbe",
+        "rideremmo",
+        "ridereste",
+        "riderebbero"
+      ],
+
+      "Passato": [
+        "avrei riso",
+        "avresti riso",
+        "avrebbe riso",
+        "avremmo riso",
+        "avreste riso",
+        "avrebbero riso"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "ridi",
+        "rida",
+        "ridiamo",
+        "ridete",
+        "ridano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "ridere",
+        "avere riso",
+        "ridente",
+        "riso",
+        "ridendo",
+        "avendo riso"
+      ]
+    }
+  }
+},
+{
+  "id": "sorridere",
+  "sid": "2026-00124",
+  "word": "sorridere",
+  "ipa": "/sorˈridere/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞的用法を持つ動詞",
+      "it": "verbo intransitivo con alcuni usi transitivi"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "sorriso",
+    "gerundPresent": "sorridendo",
+    "pattern": "sorridere / sorridere a + persona / sorridere di + qualcosa"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "social",
+      "business",
+      "literary"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "ほほえむ、にっこりする",
+      "人に笑顔を向ける",
+      "喜び・好意・親しみなどを笑顔で表す",
+      "物事を好意的・寛容に受け止める",
+      "運命や機会などが人に好意的に働く"
+    ],
+    "it": [
+      "Manifestare gioia, simpatia o serenità con una lieve espressione del volto.",
+      "Rivolgere un sorriso a una persona.",
+      "Esprimere affetto, approvazione o cordialità mediante il sorriso.",
+      "Considerare qualcosa con indulgenza o benevolenza.",
+      "In senso figurato, essere favorevole o propizio a qualcuno."
+    ]
+  },
+
+  "nuance": {
+    "ja": "通常は大きな笑い声を伴わず、口元や表情に笑みを浮かべることを表す。ridereが面白さによる明確な笑いを表すのに対し、sorridereは親しみ・安心・好意・礼儀・皮肉など、より繊細な感情を伝えられる。sorridere a qualcunoは「人にほほえみかける」を意味し、前置詞aを用いる。",
+    "it": "Indica normalmente un’espressione del volto più lieve e controllata rispetto a ridere, spesso senza suono. Può comunicare simpatia, serenità, cortesia, imbarazzo o ironia. Nella costruzione sorridere a qualcuno, la persona a cui è rivolto il sorriso è introdotta dalla preposizione a."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 subrīdēre（ほほえむ、かすかに笑う）に由来する。これはsub-（下で、控えめに）とrīdēre（笑う）から成る。過去分詞sorrisoはラテン語subrīsusにさかのぼる。",
+    "it": "Dal latino subrīdēre, formato da sub-, con valore attenuativo, e rīdēre, «ridere». Il participio sorriso deriva dal latino subrīsus ed è divenuto anche un sostantivo."
+  },
+
+  "minimal": [
+    {
+      "word": "sorridere",
+      "ja": "多くの場合は声を出さず、表情に穏やかな笑みを浮かべる",
+      "it": "manifestare con il volto un sentimento positivo, generalmente senza una vera risata"
+    },
+    {
+      "word": "ridere",
+      "ja": "面白さや喜びによって、声や身体の動きを伴って笑う",
+      "it": "manifestare divertimento con una risata spesso accompagnata da suoni"
+    },
+    {
+      "word": "sogghignare",
+      "ja": "皮肉・悪意・満足感を含んだ不快な薄笑いを浮かべる",
+      "it": "sorridere in modo maligno, ironico o compiaciuto"
+    }
+  ],
+
+  "synonyms": [
+    "fare un sorriso",
+    "accennare un sorriso",
+    "rallegrarsi",
+    "compiacersi",
+    "illuminarsi"
+  ],
+
+  "equivalents": {
+    "en": [
+      "smile",
+      "smile at"
+    ],
+    "de": [
+      "lächeln",
+      "jemanden anlächeln"
+    ],
+    "fr": [
+      "sourire",
+      "sourire à"
+    ],
+    "es": [
+      "sonreír",
+      "sonreír a"
+    ]
+  },
+
+  "collocations": [
+    "sorridere a qualcuno",
+    "sorridere gentilmente",
+    "sorridere dolcemente",
+    "sorridere timidamente",
+    "sorridere cortesemente",
+    "sorridere tristemente",
+    "sorridere ironicamente",
+    "sorridere amaramente",
+    "sorridere appena",
+    "sorridere sempre",
+    "continuare a sorridere",
+    "cominciare a sorridere",
+    "tornare a sorridere",
+    "far sorridere",
+    "vedere qualcuno sorridere",
+    "sorridere alla vita",
+    "sorridere alla fortuna",
+    "la fortuna sorride a qualcuno",
+    "sorridere tra sé",
+    "sorridere per una fotografia"
+  ],
+
+  "examples": [
+    {
+      "it": "Mi ha guardato e mi ha sorriso.",
+      "ja": "彼女は私を見て、ほほえみかけた。"
+    },
+    {
+      "it": "Il bambino sorrideva alla madre.",
+      "ja": "その子どもは母親にほほえんでいた。"
+    },
+    {
+      "it": "Sorridi, ti sto facendo una fotografia.",
+      "ja": "笑って。写真を撮っています。"
+    },
+    {
+      "it": "Nonostante le difficoltà, ha continuato a sorridere.",
+      "ja": "困難にもかかわらず、彼は笑顔を絶やさなかった。"
+    },
+    {
+      "it": "La sua risposta mi ha fatto sorridere.",
+      "ja": "彼の返事を聞いて私は思わずほほえんだ。"
+    },
+    {
+      "it": "Questa volta la fortuna ci ha sorriso.",
+      "ja": "今回は幸運が私たちに味方した。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "sorrido",
+        "sorridi",
+        "sorride",
+        "sorridiamo",
+        "sorridete",
+        "sorridono"
+      ],
+
+      "Imperfetto": [
+        "sorridevo",
+        "sorridevi",
+        "sorrideva",
+        "sorridevamo",
+        "sorridevate",
+        "sorridevano"
+      ],
+
+      "Passato prossimo": [
+        "ho sorriso",
+        "hai sorriso",
+        "ha sorriso",
+        "abbiamo sorriso",
+        "avete sorriso",
+        "hanno sorriso"
+      ],
+
+      "Passato remoto": [
+        "sorrisi",
+        "sorridesti",
+        "sorrise",
+        "sorridemmo",
+        "sorrideste",
+        "sorrisero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo sorriso",
+        "avevi sorriso",
+        "aveva sorriso",
+        "avevamo sorriso",
+        "avevate sorriso",
+        "avevano sorriso"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi sorriso",
+        "avesti sorriso",
+        "ebbe sorriso",
+        "avemmo sorriso",
+        "aveste sorriso",
+        "ebbero sorriso"
+      ],
+
+      "Futuro semplice": [
+        "sorriderò",
+        "sorriderai",
+        "sorriderà",
+        "sorrideremo",
+        "sorriderete",
+        "sorrideranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò sorriso",
+        "avrai sorriso",
+        "avrà sorriso",
+        "avremo sorriso",
+        "avrete sorriso",
+        "avranno sorriso"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "sorrida",
+        "sorrida",
+        "sorrida",
+        "sorridiamo",
+        "sorridiate",
+        "sorridano"
+      ],
+
+      "Imperfetto": [
+        "sorridessi",
+        "sorridessi",
+        "sorridesse",
+        "sorridessimo",
+        "sorrideste",
+        "sorridessero"
+      ],
+
+      "Passato": [
+        "abbia sorriso",
+        "abbia sorriso",
+        "abbia sorriso",
+        "abbiamo sorriso",
+        "abbiate sorriso",
+        "abbiano sorriso"
+      ],
+
+      "Trapassato": [
+        "avessi sorriso",
+        "avessi sorriso",
+        "avesse sorriso",
+        "avessimo sorriso",
+        "aveste sorriso",
+        "avessero sorriso"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "sorriderei",
+        "sorrideresti",
+        "sorriderebbe",
+        "sorrideremmo",
+        "sorridereste",
+        "sorriderebbero"
+      ],
+
+      "Passato": [
+        "avrei sorriso",
+        "avresti sorriso",
+        "avrebbe sorriso",
+        "avremmo sorriso",
+        "avreste sorriso",
+        "avrebbero sorriso"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "sorridi",
+        "sorrida",
+        "sorridiamo",
+        "sorridete",
+        "sorridano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "sorridere",
+        "avere sorriso",
+        "sorridente",
+        "sorriso",
+        "sorridendo",
+        "avendo sorriso"
+      ]
+    }
+  }
+},
+{
+  "id": "arrabbiarsi",
+  "sid": "2026-00126",
+  "word": "arrabbiarsi",
+  "ipa": "/arrabˈbjarsi/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "代名動詞",
+      "it": "verbo pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "arrabbiato",
+    "gerundPresent": "arrabbiandosi",
+    "pattern": "arrabbiarsi con + persona / per + motivo / quando o perché + frase"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "social",
+      "family",
+      "workplace"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "怒る、腹を立てる",
+      "人に対して怒る",
+      "出来事や理由のために腹を立てる",
+      "いら立って感情的になる"
+    ],
+    "it": [
+      "Provare o manifestare rabbia.",
+      "Adirarsi nei confronti di una persona.",
+      "Irritarsi a causa di un fatto, di un comportamento o di una situazione.",
+      "Perdere la calma e reagire emotivamente."
+    ]
+  },
+
+  "nuance": {
+    "ja": "日常会話で「怒る」「腹を立てる」を表す最も一般的な動詞の一つである。怒りの相手にはcon、原因にはperを用いる。essere arrabbiatoが怒っている状態を表すのに対し、arrabbiarsiは平静な状態から怒った状態への変化に焦点を当てる。adirarsiより口語的で、irritarsiより強い怒りを表すことが多い。",
+    "it": "È uno dei verbi più comuni per indicare il passaggio a uno stato di rabbia. La persona contro cui è diretta la rabbia è introdotta normalmente da con, mentre la causa può essere introdotta da per. Essere arrabbiato descrive uno stato; arrabbiarsi ne sottolinea l’inizio o il cambiamento."
+  },
+
+  "etymology": {
+    "ja": "形容詞arrabbiatoおよび名詞rabbiaから形成された動詞である。rabbiaはラテン語rabies（狂犬病、狂気、激しい怒り）に由来する。本来は病的な激しさを表したが、現在では日常的な怒りにも広く用いられる。",
+    "it": "Deriva da rabbia, attraverso arrabbiare. Rabbia risale al latino rabies, che indicava la malattia, la furia o un’ira violenta. Nell’italiano moderno il verbo si usa comunemente anche per forme ordinarie di collera."
+  },
+
+  "minimal": [
+    {
+      "word": "arrabbiarsi",
+      "ja": "怒りが生じて腹を立てた状態になる",
+      "it": "entrare in uno stato di rabbia e manifestare collera"
+    },
+    {
+      "word": "irritarsi",
+      "ja": "不快なことに反応して、いら立ちや軽い怒りを感じる",
+      "it": "provare fastidio o una forma generalmente più contenuta di rabbia"
+    },
+    {
+      "word": "adirarsi",
+      "ja": "怒ることを表す、より改まった文章語的な動詞",
+      "it": "andare in collera, con un tono generalmente più formale o letterario"
+    }
+  ],
+
+  "synonyms": [
+    "adirarsi",
+    "irritarsi",
+    "innervosirsi",
+    "infuriare",
+    "perdere la calma"
+  ],
+
+  "equivalents": {
+    "en": [
+      "get angry",
+      "become angry",
+      "get mad"
+    ],
+    "de": [
+      "sich ärgern",
+      "wütend werden",
+      "sich aufregen"
+    ],
+    "fr": [
+      "se fâcher",
+      "se mettre en colère"
+    ],
+    "es": [
+      "enfadarse",
+      "enojarse",
+      "ponerse furioso"
+    ]
+  },
+
+  "collocations": [
+    "arrabbiarsi molto",
+    "arrabbiarsi facilmente",
+    "arrabbiarsi seriamente",
+    "arrabbiarsi improvvisamente",
+    "arrabbiarsi con qualcuno",
+    "arrabbiarsi con sé stessi",
+    "arrabbiarsi per qualcosa",
+    "arrabbiarsi per un errore",
+    "arrabbiarsi per niente",
+    "arrabbiarsi senza motivo",
+    "cominciare ad arrabbiarsi",
+    "finire per arrabbiarsi",
+    "non arrabbiarsi",
+    "non vale la pena arrabbiarsi",
+    "far arrabbiare qualcuno",
+    "avere paura di far arrabbiare qualcuno",
+    "essere troppo arrabbiato per parlare",
+    "arrabbiarsi quando qualcosa non funziona"
+  ],
+
+  "examples": [
+    {
+      "it": "Non arrabbiarti, posso spiegarti tutto.",
+      "ja": "怒らないでください。すべて説明できます。"
+    },
+    {
+      "it": "Si è arrabbiato con me per il ritardo.",
+      "ja": "彼は遅刻したことで私に腹を立てた。"
+    },
+    {
+      "it": "Mia moglie si arrabbia quando dimentico un appuntamento.",
+      "ja": "私が約束を忘れると、妻は怒る。"
+    },
+    {
+      "it": "Ci siamo arrabbiati per quella decisione ingiusta.",
+      "ja": "私たちはその不公平な決定に腹を立てた。"
+    },
+    {
+      "it": "Non vale la pena arrabbiarsi per una cosa così piccola.",
+      "ja": "そのような小さなことで怒る価値はない。"
+    },
+    {
+      "it": "Temevo che si arrabbiasse con noi.",
+      "ja": "彼が私たちに腹を立てるのではないかと心配していた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi arrabbio",
+        "ti arrabbi",
+        "si arrabbia",
+        "ci arrabbiamo",
+        "vi arrabbiate",
+        "si arrabbiano"
+      ],
+
+      "Imperfetto": [
+        "mi arrabbiavo",
+        "ti arrabbiavi",
+        "si arrabbiava",
+        "ci arrabbiavamo",
+        "vi arrabbiavate",
+        "si arrabbiavano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono arrabbiato/a",
+        "ti sei arrabbiato/a",
+        "si è arrabbiato/a",
+        "ci siamo arrabbiati/e",
+        "vi siete arrabbiati/e",
+        "si sono arrabbiati/e"
+      ],
+
+      "Passato remoto": [
+        "mi arrabbiai",
+        "ti arrabbiasti",
+        "si arrabbiò",
+        "ci arrabbiammo",
+        "vi arrabbiaste",
+        "si arrabbiarono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero arrabbiato/a",
+        "ti eri arrabbiato/a",
+        "si era arrabbiato/a",
+        "ci eravamo arrabbiati/e",
+        "vi eravate arrabbiati/e",
+        "si erano arrabbiati/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui arrabbiato/a",
+        "ti fosti arrabbiato/a",
+        "si fu arrabbiato/a",
+        "ci fummo arrabbiati/e",
+        "vi foste arrabbiati/e",
+        "si furono arrabbiati/e"
+      ],
+
+      "Futuro semplice": [
+        "mi arrabbierò",
+        "ti arrabbierai",
+        "si arrabbierà",
+        "ci arrabbieremo",
+        "vi arrabbierete",
+        "si arrabbieranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò arrabbiato/a",
+        "ti sarai arrabbiato/a",
+        "si sarà arrabbiato/a",
+        "ci saremo arrabbiati/e",
+        "vi sarete arrabbiati/e",
+        "si saranno arrabbiati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi arrabbi",
+        "ti arrabbi",
+        "si arrabbi",
+        "ci arrabbiamo",
+        "vi arrabbiate",
+        "si arrabbino"
+      ],
+
+      "Imperfetto": [
+        "mi arrabbiassi",
+        "ti arrabbiassi",
+        "si arrabbiasse",
+        "ci arrabbiassimo",
+        "vi arrabbiaste",
+        "si arrabbiassero"
+      ],
+
+      "Passato": [
+        "mi sia arrabbiato/a",
+        "ti sia arrabbiato/a",
+        "si sia arrabbiato/a",
+        "ci siamo arrabbiati/e",
+        "vi siate arrabbiati/e",
+        "si siano arrabbiati/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi arrabbiato/a",
+        "ti fossi arrabbiato/a",
+        "si fosse arrabbiato/a",
+        "ci fossimo arrabbiati/e",
+        "vi foste arrabbiati/e",
+        "si fossero arrabbiati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi arrabbierei",
+        "ti arrabbieresti",
+        "si arrabbierebbe",
+        "ci arrabbieremmo",
+        "vi arrabbiereste",
+        "si arrabbierebbero"
+      ],
+
+      "Passato": [
+        "mi sarei arrabbiato/a",
+        "ti saresti arrabbiato/a",
+        "si sarebbe arrabbiato/a",
+        "ci saremmo arrabbiati/e",
+        "vi sareste arrabbiati/e",
+        "si sarebbero arrabbiati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "arrabbiati",
+        "si arrabbi",
+        "arrabbiamoci",
+        "arrabbiatevi",
+        "si arrabbino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "arrabbiarsi",
+        "essersi arrabbiato/a/i/e",
+        "arrabbiante",
+        "arrabbiato",
+        "arrabbiandosi",
+        "essendosi arrabbiato/a/i/e"
+      ]
+    }
+  }
 }
 ]
 
