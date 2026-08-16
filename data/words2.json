@@ -12674,5 +12674,1650 @@
       ]
     }
   }
+},
+{
+  "id": "ricaricare",
+  "sid": "2026-00101",
+  "word": "ricaricare",
+  "ipa": "/rikariˈkare/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "ricaricato",
+    "gerundPresent": "ricaricando",
+    "pattern": "ricaricare qualcosa / ricaricare qualcosa con + energia o credito / ricaricarsi"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "digital",
+      "business",
+      "technical"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "バッテリーや機器を再充電する",
+      "プリペイドカードや口座などに残高を補充する",
+      "ウェブページやデータを再読み込みする",
+      "武器・機械・容器などに内容物を再装填する",
+      "人の体力・気力を回復させる",
+      "代名動詞形で、休息して元気を取り戻す"
+    ],
+    "it": [
+      "Fornire nuovamente energia a una batteria o a un dispositivo.",
+      "Aggiungere credito o denaro a una carta o a un conto prepagato.",
+      "Caricare nuovamente una pagina o dei dati.",
+      "Inserire di nuovo munizioni, materiale o contenuto in un dispositivo.",
+      "Restituire energia fisica o mentale a una persona.",
+      "Nella forma ricaricarsi, recuperare le proprie energie."
+    ]
+  },
+
+  "nuance": {
+    "ja": "caricareに接頭辞ri-を加え、「失われたエネルギー・残高・内容を再び補う」ことを表す。携帯電話・バッテリー・交通系カード・プリペイドSIMなどに広く使われる。ウェブページの再読み込みにも用いられるが、コンピューター分野ではaggiornare la paginaという表現も一般的である。再帰形ricaricarsiは「充電される」のほか、人が休息して元気を取り戻すことも表す。",
+    "it": "Aggiunge a caricare l’idea di ripristinare energia, credito o contenuto già consumati. Si usa comunemente con telefoni, batterie, carte prepagate e pagine web. La forma pronominale ricaricarsi può riferirsi sia a un dispositivo che recupera energia sia a una persona che recupera le proprie forze."
+  },
+
+  "etymology": {
+    "ja": "接頭辞ri-（再び）とcaricare（積む、充電する）から成る。caricareは俗ラテン語carricareを経てラテン語carrus（荷車）に由来し、もともとは「荷車に荷を積む」を意味した。ricaricareは文字どおり「再び荷を積む」という構成である。",
+    "it": "Formato dal prefisso ri-, «di nuovo», e caricare. Quest’ultimo deriva dal latino volgare carricare, a sua volta da carrus, «carro». Il significato letterale originario è quindi «caricare nuovamente»."
+  },
+
+  "minimal": [
+    {
+      "word": "ricaricare",
+      "ja": "消費されたエネルギー・残高・内容物を再び補充する",
+      "it": "ripristinare energia, credito o contenuto già consumati"
+    },
+    {
+      "word": "caricare",
+      "ja": "物・データ・エネルギーなどを対象に入れる、または加える",
+      "it": "fornire un carico, un contenuto, dei dati o dell’energia"
+    },
+    {
+      "word": "alimentare",
+      "ja": "装置やシステムに継続的に電力・燃料などを供給する",
+      "it": "fornire energia, corrente o combustibile a un dispositivo o sistema"
+    },
+    {
+      "word": "aggiornare",
+      "ja": "情報・ソフトウェア・ページなどを新しい状態にする",
+      "it": "portare dati, programmi o pagine a una versione o condizione più recente"
+    }
+  ],
+
+  "synonyms": [
+    "caricare di nuovo",
+    "ripristinare",
+    "rifornire",
+    "alimentare",
+    "rigenerare",
+    "ravvivare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "recharge",
+      "reload",
+      "top up"
+    ],
+    "de": [
+      "aufladen",
+      "nachladen",
+      "neu laden"
+    ],
+    "fr": [
+      "recharger",
+      "réapprovisionner",
+      "actualiser"
+    ],
+    "es": [
+      "recargar",
+      "volver a cargar",
+      "renovar el saldo"
+    ]
+  },
+
+  "collocations": [
+    "ricaricare il telefono",
+    "ricaricare lo smartphone",
+    "ricaricare la batteria",
+    "ricaricare un dispositivo",
+    "ricaricare un computer",
+    "ricaricare una carta",
+    "ricaricare una carta prepagata",
+    "ricaricare il credito",
+    "ricaricare il conto",
+    "ricaricare una SIM",
+    "ricaricare online",
+    "ricaricare automaticamente",
+    "ricaricare completamente",
+    "ricaricare rapidamente",
+    "ricaricare la pagina",
+    "ricaricare il sito",
+    "ricaricare i dati",
+    "ricaricare un’arma",
+    "ricaricare le energie",
+    "ricaricarsi durante le vacanze",
+    "avere bisogno di ricaricarsi",
+    "tempo di ricarica"
+  ],
+
+  "examples": [
+    {
+      "it": "Devo ricaricare il telefono prima di uscire.",
+      "ja": "外出する前に携帯電話を充電しなければならない。"
+    },
+    {
+      "it": "Ho ricaricato completamente la batteria.",
+      "ja": "私はバッテリーを完全に充電した。"
+    },
+    {
+      "it": "Puoi ricaricare la carta direttamente online.",
+      "ja": "そのカードにはオンラインで直接入金できる。"
+    },
+    {
+      "it": "Prova a ricaricare la pagina.",
+      "ja": "ページを再読み込みしてみてください。"
+    },
+    {
+      "it": "Questo dispositivo si ricarica in meno di un’ora.",
+      "ja": "この機器は1時間未満で充電できる。"
+    },
+    {
+      "it": "Ho bisogno di qualche giorno di vacanza per ricaricarmi.",
+      "ja": "元気を取り戻すために数日間の休暇が必要だ。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "ricarico",
+        "ricarichi",
+        "ricarica",
+        "ricarichiamo",
+        "ricaricate",
+        "ricaricano"
+      ],
+
+      "Imperfetto": [
+        "ricaricavo",
+        "ricaricavi",
+        "ricaricava",
+        "ricaricavamo",
+        "ricaricavate",
+        "ricaricavano"
+      ],
+
+      "Passato prossimo": [
+        "ho ricaricato",
+        "hai ricaricato",
+        "ha ricaricato",
+        "abbiamo ricaricato",
+        "avete ricaricato",
+        "hanno ricaricato"
+      ],
+
+      "Passato remoto": [
+        "ricaricai",
+        "ricaricasti",
+        "ricaricò",
+        "ricaricammo",
+        "ricaricaste",
+        "ricaricarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo ricaricato",
+        "avevi ricaricato",
+        "aveva ricaricato",
+        "avevamo ricaricato",
+        "avevate ricaricato",
+        "avevano ricaricato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi ricaricato",
+        "avesti ricaricato",
+        "ebbe ricaricato",
+        "avemmo ricaricato",
+        "aveste ricaricato",
+        "ebbero ricaricato"
+      ],
+
+      "Futuro semplice": [
+        "ricaricherò",
+        "ricaricherai",
+        "ricaricherà",
+        "ricaricheremo",
+        "ricaricherete",
+        "ricaricheranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò ricaricato",
+        "avrai ricaricato",
+        "avrà ricaricato",
+        "avremo ricaricato",
+        "avrete ricaricato",
+        "avranno ricaricato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "ricarichi",
+        "ricarichi",
+        "ricarichi",
+        "ricarichiamo",
+        "ricarichiate",
+        "ricarichino"
+      ],
+
+      "Imperfetto": [
+        "ricaricassi",
+        "ricaricassi",
+        "ricaricasse",
+        "ricaricassimo",
+        "ricaricaste",
+        "ricaricassero"
+      ],
+
+      "Passato": [
+        "abbia ricaricato",
+        "abbia ricaricato",
+        "abbia ricaricato",
+        "abbiamo ricaricato",
+        "abbiate ricaricato",
+        "abbiano ricaricato"
+      ],
+
+      "Trapassato": [
+        "avessi ricaricato",
+        "avessi ricaricato",
+        "avesse ricaricato",
+        "avessimo ricaricato",
+        "aveste ricaricato",
+        "avessero ricaricato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "ricaricherei",
+        "ricaricheresti",
+        "ricaricherebbe",
+        "ricaricheremmo",
+        "ricarichereste",
+        "ricaricherebbero"
+      ],
+
+      "Passato": [
+        "avrei ricaricato",
+        "avresti ricaricato",
+        "avrebbe ricaricato",
+        "avremmo ricaricato",
+        "avreste ricaricato",
+        "avrebbero ricaricato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "ricarica",
+        "ricarichi",
+        "ricarichiamo",
+        "ricaricate",
+        "ricarichino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "ricaricare",
+        "avere ricaricato",
+        "ricaricante",
+        "ricaricato",
+        "ricaricando",
+        "avendo ricaricato"
+      ]
+    }
+  }
+},
+{
+  "id": "farsi",
+  "sid": "2026-00102",
+  "word": "farsi",
+  "ipa": "/ˈfarsi/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "再帰動詞・代名動詞・使役構文",
+      "it": "verbo riflessivo, pronominale e causativo"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "fatto",
+    "gerundPresent": "facendosi",
+    "pattern": "farsi + nome o aggettivo / farsi + infinito / farsi fare qualcosa"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "relationships",
+      "business",
+      "health"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "自分のために何かを作る、用意する",
+      "ある状態・職業・立場になる",
+      "人に何かをしてもらう",
+      "自分が何かをされる状況を作る",
+      "自分自身を傷つける、ある状態にする",
+      "考え・習慣・友人などを得る、作る",
+      "道・評判・地位などを築く"
+    ],
+    "it": [
+      "Preparare o procurare qualcosa per sé.",
+      "Diventare o assumere una determinata condizione, professione o posizione.",
+      "Fare in modo che un’altra persona compia un’azione su di sé o per sé.",
+      "Esporsi o sottoporsi a un’azione.",
+      "Causare a sé stessi una condizione, un danno o un effetto.",
+      "Acquisire un’idea, un’abitudine, un amico o un’esperienza.",
+      "Costruire progressivamente una reputazione, una posizione o un percorso."
+    ]
+  },
+
+  "nuance": {
+    "ja": "fareに再帰代名詞を加えた非常に多義的な動詞で、文字どおりの「自分を作る」ではなく、文脈によって「自分のためにする」「～になる」「～してもらう」「～される」「手に入れる」などを表す。farsi + 不定詞では、主語が他者に行為を実行させ、その結果を自分が受ける。たとえばfarsi tagliare i capelliは「髪を切ってもらう」、farsi vedere dal medicoは「医師に診てもらう」を意味する。",
+    "it": "È una forma estremamente polisemica. Il pronome può indicare un’azione compiuta per sé, un cambiamento di stato, l’acquisizione di qualcosa oppure una costruzione causativa. In farsi seguito dall’infinito, il soggetto provoca o permette che un’altra persona compia un’azione su di lui o nel suo interesse."
+  },
+
+  "etymology": {
+    "ja": "動詞fareと再帰代名詞siから成る。fareはラテン語facere（作る、行う）に由来する。再帰代名詞が加わることで、自分に向けられた行為、状態変化、行為の受益、使役・受動的な意味などが発達した。",
+    "it": "È formato dal verbo fare e dal pronome riflessivo si. Fare deriva dal latino facere, «fare, produrre». L’aggiunta del pronome ha sviluppato valori riflessivi, beneficiari, trasformativi e causativi."
+  },
+
+  "minimal": [
+    {
+      "word": "farsi",
+      "ja": "自分のための行為、状態変化、または人にしてもらうことを表す",
+      "it": "indicare un’azione per sé, un cambiamento di stato o un’azione fatta compiere ad altri"
+    },
+    {
+      "word": "fare",
+      "ja": "行為・作成・結果の発生を一般的に表す",
+      "it": "compiere un’azione, produrre qualcosa o provocare un risultato"
+    },
+    {
+      "word": "diventare",
+      "ja": "以前とは異なる状態・性質・職業などになる",
+      "it": "passare da uno stato a un altro"
+    },
+    {
+      "word": "rendersi",
+      "ja": "ある状態になる、または何かを自覚・理解する",
+      "it": "diventare in un certo modo oppure acquisire consapevolezza"
+    }
+  ],
+
+  "synonyms": [
+    "diventare",
+    "procurarsi",
+    "prepararsi",
+    "rendersi",
+    "sottoporsi a",
+    "ottenere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "make oneself",
+      "become",
+      "have something done"
+    ],
+    "de": [
+      "sich machen",
+      "werden",
+      "etwas machen lassen"
+    ],
+    "fr": [
+      "se faire",
+      "devenir",
+      "faire faire quelque chose"
+    ],
+    "es": [
+      "hacerse",
+      "convertirse",
+      "hacerse hacer algo"
+    ]
+  },
+
+  "collocations": [
+    "farsi qualcosa",
+    "farsi un caffè",
+    "farsi una domanda",
+    "farsi un’idea",
+    "farsi un’opinione",
+    "farsi degli amici",
+    "farsi una famiglia",
+    "farsi coraggio",
+    "farsi male",
+    "farsi strada",
+    "farsi avanti",
+    "farsi vedere",
+    "farsi sentire",
+    "farsi capire",
+    "farsi conoscere",
+    "farsi rispettare",
+    "farsi aspettare",
+    "farsi tagliare i capelli",
+    "farsi visitare dal medico",
+    "farsi fotografare",
+    "farsi aiutare",
+    "farsi perdonare",
+    "farsi carico di",
+    "farsi da parte",
+    "farsi in quattro",
+    "farsi vivo",
+    "farsi tardi",
+    "farsi grande"
+  ],
+
+  "examples": [
+    {
+      "it": "Mi faccio un caffè prima di iniziare a lavorare.",
+      "ja": "仕事を始める前に、自分用のコーヒーを入れる。"
+    },
+    {
+      "it": "Si è fatta tagliare i capelli.",
+      "ja": "彼女は髪を切ってもらった。"
+    },
+    {
+      "it": "Devi farti vedere da un medico.",
+      "ja": "医師に診てもらわなければならない。"
+    },
+    {
+      "it": "Il bambino si è fatto male giocando.",
+      "ja": "その子どもは遊んでいてけがをした。"
+    },
+    {
+      "it": "All’inizio è difficile farsi capire in una lingua straniera.",
+      "ja": "最初は外国語で自分の言いたいことを理解してもらうのが難しい。"
+    },
+    {
+      "it": "Con molto impegno si è fatto strada nell’azienda.",
+      "ja": "彼は大変な努力によって会社で頭角を現した。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi faccio",
+        "ti fai",
+        "si fa",
+        "ci facciamo",
+        "vi fate",
+        "si fanno"
+      ],
+
+      "Imperfetto": [
+        "mi facevo",
+        "ti facevi",
+        "si faceva",
+        "ci facevamo",
+        "vi facevate",
+        "si facevano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono fatto/a",
+        "ti sei fatto/a",
+        "si è fatto/a",
+        "ci siamo fatti/e",
+        "vi siete fatti/e",
+        "si sono fatti/e"
+      ],
+
+      "Passato remoto": [
+        "mi feci",
+        "ti facesti",
+        "si fece",
+        "ci facemmo",
+        "vi faceste",
+        "si fecero"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero fatto/a",
+        "ti eri fatto/a",
+        "si era fatto/a",
+        "ci eravamo fatti/e",
+        "vi eravate fatti/e",
+        "si erano fatti/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui fatto/a",
+        "ti fosti fatto/a",
+        "si fu fatto/a",
+        "ci fummo fatti/e",
+        "vi foste fatti/e",
+        "si furono fatti/e"
+      ],
+
+      "Futuro semplice": [
+        "mi farò",
+        "ti farai",
+        "si farà",
+        "ci faremo",
+        "vi farete",
+        "si faranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò fatto/a",
+        "ti sarai fatto/a",
+        "si sarà fatto/a",
+        "ci saremo fatti/e",
+        "vi sarete fatti/e",
+        "si saranno fatti/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi faccia",
+        "ti faccia",
+        "si faccia",
+        "ci facciamo",
+        "vi facciate",
+        "si facciano"
+      ],
+
+      "Imperfetto": [
+        "mi facessi",
+        "ti facessi",
+        "si facesse",
+        "ci facessimo",
+        "vi faceste",
+        "si facessero"
+      ],
+
+      "Passato": [
+        "mi sia fatto/a",
+        "ti sia fatto/a",
+        "si sia fatto/a",
+        "ci siamo fatti/e",
+        "vi siate fatti/e",
+        "si siano fatti/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi fatto/a",
+        "ti fossi fatto/a",
+        "si fosse fatto/a",
+        "ci fossimo fatti/e",
+        "vi foste fatti/e",
+        "si fossero fatti/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi farei",
+        "ti faresti",
+        "si farebbe",
+        "ci faremmo",
+        "vi fareste",
+        "si farebbero"
+      ],
+
+      "Passato": [
+        "mi sarei fatto/a",
+        "ti saresti fatto/a",
+        "si sarebbe fatto/a",
+        "ci saremmo fatti/e",
+        "vi sareste fatti/e",
+        "si sarebbero fatti/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "fatti",
+        "si faccia",
+        "facciamoci",
+        "fatevi",
+        "si facciano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "farsi",
+        "essersi fatto/a/i/e",
+        "facentesi (raro)",
+        "fatto",
+        "facendosi",
+        "essendosi fatto/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "diventare",
+  "sid": "2026-00103",
+  "word": "diventare",
+  "ipa": "/divenˈtare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・連結動詞",
+      "it": "verbo intransitivo e copulativo"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "diventato",
+    "gerundPresent": "diventando",
+    "pattern": "diventare + nome o aggettivo / diventare di + colore / diventare come + nome"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "以前とは異なる状態・性質になる",
+      "ある職業・立場・身分になる",
+      "別の物へ変化する",
+      "成長・発展してある段階に達する",
+      "一時的に特定の感情・身体状態になる"
+    ],
+    "it": [
+      "Passare da una condizione a un’altra.",
+      "Assumere una professione, un ruolo o una posizione.",
+      "Trasformarsi in qualcosa di diverso.",
+      "Raggiungere una determinata fase attraverso un processo di crescita o sviluppo.",
+      "Assumere temporaneamente uno stato fisico o emotivo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "主語が以前とは異なる性質・状態・立場に移ることを表す、最も一般的な「～になる」である。後ろには形容詞だけでなく、冠詞を伴わない職業・役職名や、冠詞を伴う評価的な名詞句も置ける。essereが現在の状態を示すのに対し、diventareはその状態へ至る変化の過程または結果を示す。複合時制ではessereを用い、過去分詞は主語の性・数に一致する。",
+    "it": "È il verbo più generale per indicare il passaggio del soggetto a una condizione, qualità o posizione diversa. Può essere seguito da un aggettivo, da un nome di professione senza articolo o da un sintagma nominale. Essere descrive uno stato, mentre diventare mette in rilievo il cambiamento che conduce a quello stato."
+  },
+
+  "etymology": {
+    "ja": "動詞divenireの反復・強意的な派生形である。divenireはラテン語devenireに由来し、本来は「到達する、ある地点へ至る」を意味した。そこから「ある状態へ至る」、すなわち「～になる」という意味が発達した。",
+    "it": "È una forma frequentativa di divenire. Divenire risale al latino devenire, formato da de- e venire, e significava originariamente «giungere, arrivare». Da questo significato si è sviluppato quello di passare a una nuova condizione."
+  },
+
+  "minimal": [
+    {
+      "word": "diventare",
+      "ja": "一般的に、以前とは異なる状態・性質・立場になる",
+      "it": "passare in modo generale a una condizione o posizione diversa"
+    },
+    {
+      "word": "divenire",
+      "ja": "diventareとほぼ同義だが、より文語的・哲学的に響く",
+      "it": "equivalere a diventare, spesso con tono più letterario o filosofico"
+    },
+    {
+      "word": "farsi",
+      "ja": "意志・努力・自然な進展によって、ある状態や立場になる",
+      "it": "assumere una condizione, spesso attraverso volontà, attività o sviluppo"
+    },
+    {
+      "word": "trasformarsi",
+      "ja": "形態・性質・構造が大きく変わり、別のものになる",
+      "it": "subire una trasformazione profonda nella forma o nella natura"
+    }
+  ],
+
+  "synonyms": [
+    "divenire",
+    "farsi",
+    "trasformarsi",
+    "mutare",
+    "evolversi"
+  ],
+
+  "equivalents": {
+    "en": [
+      "become",
+      "get",
+      "turn into"
+    ],
+    "de": [
+      "werden",
+      "sich entwickeln zu",
+      "sich verwandeln in"
+    ],
+    "fr": [
+      "devenir",
+      "se transformer en",
+      "se faire"
+    ],
+    "es": [
+      "volverse",
+      "convertirse en",
+      "hacerse"
+    ]
+  },
+
+  "collocations": [
+    "diventare grande",
+    "diventare adulto",
+    "diventare vecchio",
+    "diventare famoso",
+    "diventare ricco",
+    "diventare importante",
+    "diventare difficile",
+    "diventare possibile",
+    "diventare presidente",
+    "diventare medico",
+    "diventare avvocato",
+    "diventare genitore",
+    "diventare amici",
+    "diventare rosso",
+    "diventare pallido",
+    "diventare matto",
+    "diventare realtà",
+    "diventare un problema",
+    "diventare di moda",
+    "diventare sempre più",
+    "finire per diventare",
+    "cercare di diventare"
+  ],
+
+  "examples": [
+    {
+      "it": "Da bambino volevo diventare medico.",
+      "ja": "子どものころ、私は医師になりたかった。"
+    },
+    {
+      "it": "La situazione è diventata molto difficile.",
+      "ja": "状況は非常に難しくなった。"
+    },
+    {
+      "it": "Con il tempo siamo diventati buoni amici.",
+      "ja": "時がたつにつれて、私たちは親しい友人になった。"
+    },
+    {
+      "it": "Il cielo sta diventando scuro.",
+      "ja": "空が暗くなってきている。"
+    },
+    {
+      "it": "Questa tecnologia diventerà sempre più importante.",
+      "ja": "この技術はますます重要になるだろう。"
+    },
+    {
+      "it": "Il piccolo progetto è diventato un’azienda internazionale.",
+      "ja": "その小さな計画は国際的な企業へと成長した。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "divento",
+        "diventi",
+        "diventa",
+        "diventiamo",
+        "diventate",
+        "diventano"
+      ],
+
+      "Imperfetto": [
+        "diventavo",
+        "diventavi",
+        "diventava",
+        "diventavamo",
+        "diventavate",
+        "diventavano"
+      ],
+
+      "Passato prossimo": [
+        "sono diventato/a",
+        "sei diventato/a",
+        "è diventato/a",
+        "siamo diventati/e",
+        "siete diventati/e",
+        "sono diventati/e"
+      ],
+
+      "Passato remoto": [
+        "diventai",
+        "diventasti",
+        "diventò",
+        "diventammo",
+        "diventaste",
+        "diventarono"
+      ],
+
+      "Trapassato prossimo": [
+        "ero diventato/a",
+        "eri diventato/a",
+        "era diventato/a",
+        "eravamo diventati/e",
+        "eravate diventati/e",
+        "erano diventati/e"
+      ],
+
+      "Trapassato remoto": [
+        "fui diventato/a",
+        "fosti diventato/a",
+        "fu diventato/a",
+        "fummo diventati/e",
+        "foste diventati/e",
+        "furono diventati/e"
+      ],
+
+      "Futuro semplice": [
+        "diventerò",
+        "diventerai",
+        "diventerà",
+        "diventeremo",
+        "diventerete",
+        "diventeranno"
+      ],
+
+      "Futuro anteriore": [
+        "sarò diventato/a",
+        "sarai diventato/a",
+        "sarà diventato/a",
+        "saremo diventati/e",
+        "sarete diventati/e",
+        "saranno diventati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "diventi",
+        "diventi",
+        "diventi",
+        "diventiamo",
+        "diventiate",
+        "diventino"
+      ],
+
+      "Imperfetto": [
+        "diventassi",
+        "diventassi",
+        "diventasse",
+        "diventassimo",
+        "diventaste",
+        "diventassero"
+      ],
+
+      "Passato": [
+        "sia diventato/a",
+        "sia diventato/a",
+        "sia diventato/a",
+        "siamo diventati/e",
+        "siate diventati/e",
+        "siano diventati/e"
+      ],
+
+      "Trapassato": [
+        "fossi diventato/a",
+        "fossi diventato/a",
+        "fosse diventato/a",
+        "fossimo diventati/e",
+        "foste diventati/e",
+        "fossero diventati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "diventerei",
+        "diventeresti",
+        "diventerebbe",
+        "diventeremmo",
+        "diventereste",
+        "diventerebbero"
+      ],
+
+      "Passato": [
+        "sarei diventato/a",
+        "saresti diventato/a",
+        "sarebbe diventato/a",
+        "saremmo diventati/e",
+        "sareste diventati/e",
+        "sarebbero diventati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "diventa",
+        "diventi",
+        "diventiamo",
+        "diventate",
+        "diventino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "diventare",
+        "essere diventato/a/i/e",
+        "diventante (raro)",
+        "diventato",
+        "diventando",
+        "essendo diventato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "alzarsi",
+  "sid": "2026-00104",
+  "word": "alzarsi",
+  "ipa": "/alˈtsarsi/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "再帰動詞・代名動詞",
+      "it": "verbo riflessivo e pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "alzato",
+    "gerundPresent": "alzandosi",
+    "pattern": "alzarsi da + luogo / alzarsi a + ora / alzarsi per + scopo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "work",
+      "travel"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "ベッドから起きる、起床する",
+      "椅子などから立ち上がる",
+      "身体を起こして立った姿勢になる",
+      "太陽・煙・霧などが昇る",
+      "風・声・物価などが強まる、上昇する"
+    ],
+    "it": [
+      "Uscire dal letto e cominciare la giornata.",
+      "Passare dalla posizione seduta a quella eretta.",
+      "Sollevare il proprio corpo e mettersi in piedi.",
+      "Salire verso l’alto, riferito al sole, al fumo o alla nebbia.",
+      "Aumentare o intensificarsi, riferito a vento, voce, prezzi o altri fenomeni."
+    ]
+  },
+
+  "nuance": {
+    "ja": "低い位置・座った姿勢・横たわった状態から上方へ移ることを表す。朝の行動では「目を覚ます」svegliarsiと区別され、目が覚めてもベッドから出なければsvegliarsiだけでalzarsiとは言わない。人については起床と立ち上がりの両方に使われ、意味はda letto、dalla sediaなどの文脈によって決まる。",
+    "it": "Indica il passaggio da una posizione bassa, seduta o sdraiata a una più alta o eretta. Nella routine mattutina si distingue da svegliarsi: ci si può svegliare senza alzarsi dal letto. Riferito a una persona, può quindi significare sia uscire dal letto sia mettersi in piedi."
+  },
+
+  "etymology": {
+    "ja": "動詞alzareに再帰代名詞siを加えた形である。alzareは俗ラテン語altiāreに由来し、ラテン語altus（高い）から作られた。語源的には「高くする」「上方へ移す」という意味である。",
+    "it": "È la forma riflessiva o pronominale di alzare, dal latino volgare altiare, derivato dal latino altus, «alto». Il significato originario è quindi quello di portare o portarsi verso l’alto."
+  },
+
+  "minimal": [
+    {
+      "word": "alzarsi",
+      "ja": "ベッドから出る、または座った・横たわった姿勢から立ち上がる",
+      "it": "uscire dal letto oppure passare a una posizione eretta"
+    },
+    {
+      "word": "svegliarsi",
+      "ja": "睡眠状態から目覚める",
+      "it": "passare dal sonno allo stato di veglia"
+    },
+    {
+      "word": "sollevarsi",
+      "ja": "物や身体が上方へ持ち上がる",
+      "it": "muoversi verso l’alto o staccarsi da una posizione inferiore"
+    },
+    {
+      "word": "sedersi",
+      "ja": "立った状態などから座った姿勢になる",
+      "it": "passare dalla posizione eretta a quella seduta"
+    }
+  ],
+
+  "synonyms": [
+    "levarsi",
+    "mettersi in piedi",
+    "sollevarsi",
+    "sorgere",
+    "aumentare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "get up",
+      "stand up",
+      "rise"
+    ],
+    "de": [
+      "aufstehen",
+      "sich erheben",
+      "ansteigen"
+    ],
+    "fr": [
+      "se lever",
+      "se dresser",
+      "monter"
+    ],
+    "es": [
+      "levantarse",
+      "ponerse de pie",
+      "subir"
+    ]
+  },
+
+  "collocations": [
+    "alzarsi presto",
+    "alzarsi tardi",
+    "alzarsi al mattino",
+    "alzarsi alle sette",
+    "alzarsi dal letto",
+    "alzarsi dalla sedia",
+    "alzarsi da tavola",
+    "alzarsi in piedi",
+    "alzarsi lentamente",
+    "alzarsi di scatto",
+    "alzarsi per andare al lavoro",
+    "alzarsi per salutare qualcuno",
+    "non riuscire ad alzarsi",
+    "avere voglia di alzarsi",
+    "essere ora di alzarsi",
+    "alzarsi e vestirsi",
+    "alzarsi e fare colazione",
+    "il sole si alza",
+    "il fumo si alza",
+    "si alza il vento",
+    "si alzano i prezzi",
+    "si alza la voce"
+  ],
+
+  "examples": [
+    {
+      "it": "Ogni mattina mi alzo alle sette.",
+      "ja": "私は毎朝7時に起きる。"
+    },
+    {
+      "it": "Si è alzata dalla sedia per aprire la porta.",
+      "ja": "彼女はドアを開けるために椅子から立ち上がった。"
+    },
+    {
+      "it": "Mi sono svegliato presto, ma non mi sono alzato subito.",
+      "ja": "私は早く目を覚ましたが、すぐにはベッドから起きなかった。"
+    },
+    {
+      "it": "Alzati, è ora di andare al lavoro.",
+      "ja": "起きなさい。仕事へ行く時間です。"
+    },
+    {
+      "it": "Quando entra il giudice, tutti si alzano in piedi.",
+      "ja": "裁判官が入廷すると、全員が立ち上がる。"
+    },
+    {
+      "it": "Durante la notte si è alzato un forte vento.",
+      "ja": "夜の間に強い風が吹き始めた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi alzo",
+        "ti alzi",
+        "si alza",
+        "ci alziamo",
+        "vi alzate",
+        "si alzano"
+      ],
+
+      "Imperfetto": [
+        "mi alzavo",
+        "ti alzavi",
+        "si alzava",
+        "ci alzavamo",
+        "vi alzavate",
+        "si alzavano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono alzato/a",
+        "ti sei alzato/a",
+        "si è alzato/a",
+        "ci siamo alzati/e",
+        "vi siete alzati/e",
+        "si sono alzati/e"
+      ],
+
+      "Passato remoto": [
+        "mi alzai",
+        "ti alzasti",
+        "si alzò",
+        "ci alzammo",
+        "vi alzaste",
+        "si alzarono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero alzato/a",
+        "ti eri alzato/a",
+        "si era alzato/a",
+        "ci eravamo alzati/e",
+        "vi eravate alzati/e",
+        "si erano alzati/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui alzato/a",
+        "ti fosti alzato/a",
+        "si fu alzato/a",
+        "ci fummo alzati/e",
+        "vi foste alzati/e",
+        "si furono alzati/e"
+      ],
+
+      "Futuro semplice": [
+        "mi alzerò",
+        "ti alzerai",
+        "si alzerà",
+        "ci alzeremo",
+        "vi alzerete",
+        "si alzeranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò alzato/a",
+        "ti sarai alzato/a",
+        "si sarà alzato/a",
+        "ci saremo alzati/e",
+        "vi sarete alzati/e",
+        "si saranno alzati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi alzi",
+        "ti alzi",
+        "si alzi",
+        "ci alziamo",
+        "vi alziate",
+        "si alzino"
+      ],
+
+      "Imperfetto": [
+        "mi alzassi",
+        "ti alzassi",
+        "si alzasse",
+        "ci alzassimo",
+        "vi alzaste",
+        "si alzassero"
+      ],
+
+      "Passato": [
+        "mi sia alzato/a",
+        "ti sia alzato/a",
+        "si sia alzato/a",
+        "ci siamo alzati/e",
+        "vi siate alzati/e",
+        "si siano alzati/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi alzato/a",
+        "ti fossi alzato/a",
+        "si fosse alzato/a",
+        "ci fossimo alzati/e",
+        "vi foste alzati/e",
+        "si fossero alzati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi alzerei",
+        "ti alzeresti",
+        "si alzerebbe",
+        "ci alzeremmo",
+        "vi alzereste",
+        "si alzerebbero"
+      ],
+
+      "Passato": [
+        "mi sarei alzato/a",
+        "ti saresti alzato/a",
+        "si sarebbe alzato/a",
+        "ci saremmo alzati/e",
+        "vi sareste alzati/e",
+        "si sarebbero alzati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "alzati",
+        "si alzi",
+        "alziamoci",
+        "alzatevi",
+        "si alzino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "alzarsi",
+        "essersi alzato/a/i/e",
+        "alzantesi (raro)",
+        "alzato",
+        "alzandosi",
+        "essendosi alzato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "alzare",
+  "sid": "2026-00105",
+  "word": "alzare",
+  "ipa": "/alˈtsare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "alzato",
+    "gerundPresent": "alzando",
+    "pattern": "alzare qualcosa / alzare qualcosa di + quantità / alzare qualcosa fino a + livello"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "business",
+      "technical"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "物や身体の一部を持ち上げる",
+      "物の位置・高さを上げる",
+      "音量・声・温度・価格などを高くする",
+      "人を座った・横たわった状態から起こす",
+      "壁・建物などを建てる、築く",
+      "グラスなどを掲げる"
+    ],
+    "it": [
+      "Spostare qualcosa verso l’alto.",
+      "Portare un oggetto o una parte del corpo a un’altezza maggiore.",
+      "Aumentare il volume, il tono, la temperatura, il prezzo o un altro livello.",
+      "Aiutare o costringere qualcuno a passare a una posizione più alta.",
+      "Costruire o erigere un muro, un edificio o un’altra struttura.",
+      "Sollevare un bicchiere o un oggetto come gesto simbolico."
+    ]
+  },
+
+  "nuance": {
+    "ja": "目的語を低い位置・低い水準から高い位置・水準へ移す他動詞である。alzarsiが主語自身の起床・立ち上がり・上昇を表すのに対し、alzareは人や物を持ち上げる外部からの働きかけを表す。物理的な高さだけでなく、声・音量・価格・温度・基準などにも広く使われる。",
+    "it": "È il verbo transitivo che indica il trasferimento di qualcosa da una posizione o da un livello più basso a uno più alto. Alzarsi riguarda il movimento o il cambiamento del soggetto stesso; alzare richiede invece un oggetto su cui viene esercitata l’azione. Si usa sia in senso fisico sia con valori, prezzi, voce e temperatura."
+  },
+
+  "etymology": {
+    "ja": "俗ラテン語altiāreに由来し、ラテン語altus（高い）から作られた。語源的には「高くする」を意味する。同じ語族にはalto（高い）、altezza（高さ）、innalzare（高く掲げる）がある。",
+    "it": "Dal latino volgare altiare, derivato da altus, «alto». Il significato etimologico è quindi «rendere alto». Appartengono alla stessa famiglia alto, altezza e innalzare."
+  },
+
+  "minimal": [
+    {
+      "word": "alzare",
+      "ja": "物・身体の一部・数値などをより高い位置や水準にする",
+      "it": "portare qualcosa a una posizione o a un livello più alto"
+    },
+    {
+      "word": "alzarsi",
+      "ja": "主語自身が起きる、立ち上がる、上昇する",
+      "it": "passare personalmente a una posizione più alta o eretta"
+    },
+    {
+      "word": "sollevare",
+      "ja": "物を下から上へ持ち上げることを、より明確・形式的に表す",
+      "it": "spostare qualcosa dal basso verso l’alto, spesso con un’azione fisica precisa"
+    },
+    {
+      "word": "aumentare",
+      "ja": "数量・程度・価格などを以前より大きくする",
+      "it": "rendere maggiore una quantità, un valore o un’intensità"
+    }
+  ],
+
+  "synonyms": [
+    "sollevare",
+    "innalzare",
+    "elevare",
+    "aumentare",
+    "tirare su",
+    "erigere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "raise",
+      "lift",
+      "turn up"
+    ],
+    "de": [
+      "heben",
+      "erhöhen",
+      "lauter stellen"
+    ],
+    "fr": [
+      "lever",
+      "élever",
+      "augmenter"
+    ],
+    "es": [
+      "levantar",
+      "elevar",
+      "subir"
+    ]
+  },
+
+  "collocations": [
+    "alzare qualcosa",
+    "alzare la mano",
+    "alzare il braccio",
+    "alzare la testa",
+    "alzare gli occhi",
+    "alzare le spalle",
+    "alzare una valigia",
+    "alzare il bicchiere",
+    "alzare la voce",
+    "alzare il tono",
+    "alzare il volume",
+    "alzare la musica",
+    "alzare la temperatura",
+    "alzare i prezzi",
+    "alzare lo stipendio",
+    "alzare il livello",
+    "alzare il limite",
+    "alzare il sipario",
+    "alzare una bandiera",
+    "alzare un muro",
+    "alzare da terra",
+    "alzare di dieci centimetri",
+    "alzare troppo",
+    "alzare lentamente"
+  ],
+
+  "examples": [
+    {
+      "it": "Alza la mano se conosci la risposta.",
+      "ja": "答えを知っているなら手を挙げてください。"
+    },
+    {
+      "it": "Puoi alzare un po’ il volume?",
+      "ja": "音量を少し上げてもらえますか。"
+    },
+    {
+      "it": "Ho alzato la valigia con entrambe le mani.",
+      "ja": "私は両手でスーツケースを持ち上げた。"
+    },
+    {
+      "it": "Il negozio ha alzato i prezzi.",
+      "ja": "その店は価格を引き上げた。"
+    },
+    {
+      "it": "Non alzare la voce con me.",
+      "ja": "私に声を荒らげないでください。"
+    },
+    {
+      "it": "Abbiamo alzato i bicchieri per brindare.",
+      "ja": "私たちは乾杯するためにグラスを掲げた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "alzo",
+        "alzi",
+        "alza",
+        "alziamo",
+        "alzate",
+        "alzano"
+      ],
+
+      "Imperfetto": [
+        "alzavo",
+        "alzavi",
+        "alzava",
+        "alzavamo",
+        "alzavate",
+        "alzavano"
+      ],
+
+      "Passato prossimo": [
+        "ho alzato",
+        "hai alzato",
+        "ha alzato",
+        "abbiamo alzato",
+        "avete alzato",
+        "hanno alzato"
+      ],
+
+      "Passato remoto": [
+        "alzai",
+        "alzasti",
+        "alzò",
+        "alzammo",
+        "alzaste",
+        "alzarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo alzato",
+        "avevi alzato",
+        "aveva alzato",
+        "avevamo alzato",
+        "avevate alzato",
+        "avevano alzato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi alzato",
+        "avesti alzato",
+        "ebbe alzato",
+        "avemmo alzato",
+        "aveste alzato",
+        "ebbero alzato"
+      ],
+
+      "Futuro semplice": [
+        "alzerò",
+        "alzerai",
+        "alzerà",
+        "alzeremo",
+        "alzerete",
+        "alzeranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò alzato",
+        "avrai alzato",
+        "avrà alzato",
+        "avremo alzato",
+        "avrete alzato",
+        "avranno alzato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "alzi",
+        "alzi",
+        "alzi",
+        "alziamo",
+        "alziate",
+        "alzino"
+      ],
+
+      "Imperfetto": [
+        "alzassi",
+        "alzassi",
+        "alzasse",
+        "alzassimo",
+        "alzaste",
+        "alzassero"
+      ],
+
+      "Passato": [
+        "abbia alzato",
+        "abbia alzato",
+        "abbia alzato",
+        "abbiamo alzato",
+        "abbiate alzato",
+        "abbiano alzato"
+      ],
+
+      "Trapassato": [
+        "avessi alzato",
+        "avessi alzato",
+        "avesse alzato",
+        "avessimo alzato",
+        "aveste alzato",
+        "avessero alzato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "alzerei",
+        "alzeresti",
+        "alzerebbe",
+        "alzeremmo",
+        "alzereste",
+        "alzerebbero"
+      ],
+
+      "Passato": [
+        "avrei alzato",
+        "avresti alzato",
+        "avrebbe alzato",
+        "avremmo alzato",
+        "avreste alzato",
+        "avrebbero alzato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "alza",
+        "alzi",
+        "alziamo",
+        "alzate",
+        "alzino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "alzare",
+        "avere alzato",
+        "alzante",
+        "alzato",
+        "alzando",
+        "avendo alzato"
+      ]
+    }
+  }
 }
 ]
