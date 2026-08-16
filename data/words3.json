@@ -1,1 +1,327 @@
-[]
+[
+[
+  {
+    "id": "scaricare",
+    "sid": "2026-00121",
+    "word": "scaricare",
+    "ipa": "/skariˈkare/",
+    "level": "A2",
+    "frequency": "very_common",
+
+    "grammar": {
+      "pos": "verb",
+      "label": {
+        "ja": "他動詞・自動詞",
+        "it": "verbo transitivo e intransitivo"
+      },
+      "auxiliary": "avere",
+      "pastParticiple": "scaricato",
+      "gerundPresent": "scaricando",
+      "pattern": "scaricare qualcosa / scaricare qualcosa da + luogo / scaricare qualcosa su + dispositivo"
+    },
+
+    "usage": {
+      "register": [
+        "neutral"
+      ],
+      "medium": [
+        "spoken",
+        "written"
+      ],
+      "situations": [
+        "conversation",
+        "business",
+        "technology",
+        "transport"
+      ]
+    },
+
+    "meaning": {
+      "ja": [
+        "荷物・貨物などを降ろす",
+        "ファイルやデータをダウンロードする",
+        "電気・圧力・液体などを放出する",
+        "銃器の弾を発射する、弾を抜く",
+        "責任・仕事・感情などを人に押しつける、ぶつける",
+        "人や物から負担を取り除く"
+      ],
+      "it": [
+        "Togliere un carico da un veicolo, una nave, un contenitore o una persona.",
+        "Trasferire dati o file da una rete o da un sistema a un dispositivo.",
+        "Liberare o disperdere energia, elettricità, pressione o liquidi.",
+        "Esplodere i colpi di un’arma oppure toglierne le munizioni.",
+        "Trasferire su altri una responsabilità, un lavoro o un’emozione.",
+        "Liberare qualcuno o qualcosa da un peso o da un carico."
+      ]
+    },
+
+    "nuance": {
+      "ja": "中心的な意味は、積まれている荷物や蓄積されているものを外へ出して負荷を取り除くことである。そこから、車両から荷物を降ろす、インターネットからデータを端末へ取り込む、電気を放出する、感情を人にぶつけるなどへ意味が広がった。端末や電池について「充電が切れる」と言う場合は、通常再帰形scaricarsiを用いる。",
+      "it": "Il significato fondamentale è rimuovere o liberare ciò che costituisce un carico. Da questo senso derivano gli usi relativi alle merci, al trasferimento di dati, alla dispersione di energia e allo sfogo di emozioni. Per una batteria o un dispositivo che perde la propria carica si usa normalmente la forma pronominale scaricarsi."
+    },
+
+    "etymology": {
+      "ja": "接頭辞s-とcaricare（積む、負荷をかける）から成る。caricareは「車、荷車」を意味する後期ラテン語 carrusおよび関連する俗ラテン語の語形にさかのぼり、scaricareは本来「積み荷を取り除く」ことを意味した。",
+      "it": "Derivato da caricare con il prefisso s-, che esprime rimozione o privazione. Il significato originario è «togliere il carico», dal quale si sono sviluppati i numerosi usi tecnici e figurati."
+    },
+
+    "minimal": [
+      {
+        "word": "scaricare",
+        "ja": "荷物・データ・エネルギーなどを元の場所や状態から外へ出す",
+        "it": "rimuovere o trasferire un carico, dati, energia o altre sostanze"
+      },
+      {
+        "word": "caricare",
+        "ja": "荷物を積む、データをアップロードする、電力を蓄える",
+        "it": "mettere un carico, trasferire dati verso un sistema o accumulare energia"
+      },
+      {
+        "word": "salvare",
+        "ja": "ファイルやデータを端末・記憶媒体に保存する",
+        "it": "registrare e conservare dati o documenti in una memoria"
+      }
+    ],
+
+    "synonyms": [
+      "sbarcare",
+      "svuotare",
+      "rimuovere",
+      "prelevare",
+      "trasferire"
+    ],
+
+    "equivalents": {
+      "en": [
+        "unload",
+        "download",
+        "discharge"
+      ],
+      "de": [
+        "entladen",
+        "herunterladen",
+        "abladen"
+      ],
+      "fr": [
+        "décharger",
+        "télécharger",
+        "évacuer"
+      ],
+      "es": [
+        "descargar",
+        "bajar",
+        "desahogar"
+      ]
+    },
+
+    "collocations": [
+      "scaricare la merce",
+      "scaricare i bagagli",
+      "scaricare il camion",
+      "scaricare una nave",
+      "scaricare un container",
+      "scaricare un file",
+      "scaricare un documento",
+      "scaricare un’applicazione",
+      "scaricare un programma",
+      "scaricare un’immagine",
+      "scaricare un video",
+      "scaricare musica",
+      "scaricare dati",
+      "scaricare da Internet",
+      "scaricare sul computer",
+      "scaricare sul telefono",
+      "scaricare la batteria",
+      "scaricare la pressione",
+      "scaricare l’acqua",
+      "scaricare la responsabilità su qualcuno",
+      "scaricare la colpa su qualcuno",
+      "scaricare la rabbia su qualcuno"
+    ],
+
+    "examples": [
+      {
+        "it": "Gli operai stanno scaricando la merce dal camion.",
+        "ja": "作業員たちはトラックから商品を降ろしている。"
+      },
+      {
+        "it": "Puoi scaricare il documento dal nostro sito.",
+        "ja": "その書類は私たちのウェブサイトからダウンロードできます。"
+      },
+      {
+        "it": "Ho scaricato l’applicazione sul telefono.",
+        "ja": "私はそのアプリを携帯電話にダウンロードした。"
+      },
+      {
+        "it": "Questo programma ha scaricato automaticamente gli aggiornamenti.",
+        "ja": "このプログラムは更新データを自動的にダウンロードした。"
+      },
+      {
+        "it": "Non scaricare la colpa sui tuoi colleghi.",
+        "ja": "同僚に責任を押しつけてはいけない。"
+      },
+      {
+        "it": "Il mio telefono si è scaricato durante il viaggio.",
+        "ja": "旅行中に私の携帯電話の充電が切れた。"
+      }
+    ],
+
+    "conjugations": {
+      "Indicativo": {
+        "Presente": [
+          "scarico",
+          "scarichi",
+          "scarica",
+          "scarichiamo",
+          "scaricate",
+          "scaricano"
+        ],
+
+        "Imperfetto": [
+          "scaricavo",
+          "scaricavi",
+          "scaricava",
+          "scaricavamo",
+          "scaricavate",
+          "scaricavano"
+        ],
+
+        "Passato prossimo": [
+          "ho scaricato",
+          "hai scaricato",
+          "ha scaricato",
+          "abbiamo scaricato",
+          "avete scaricato",
+          "hanno scaricato"
+        ],
+
+        "Passato remoto": [
+          "scaricai",
+          "scaricasti",
+          "scaricò",
+          "scaricammo",
+          "scaricaste",
+          "scaricarono"
+        ],
+
+        "Trapassato prossimo": [
+          "avevo scaricato",
+          "avevi scaricato",
+          "aveva scaricato",
+          "avevamo scaricato",
+          "avevate scaricato",
+          "avevano scaricato"
+        ],
+
+        "Trapassato remoto": [
+          "ebbi scaricato",
+          "avesti scaricato",
+          "ebbe scaricato",
+          "avemmo scaricato",
+          "aveste scaricato",
+          "ebbero scaricato"
+        ],
+
+        "Futuro semplice": [
+          "scaricherò",
+          "scaricherai",
+          "scaricherà",
+          "scaricheremo",
+          "scaricherete",
+          "scaricheranno"
+        ],
+
+        "Futuro anteriore": [
+          "avrò scaricato",
+          "avrai scaricato",
+          "avrà scaricato",
+          "avremo scaricato",
+          "avrete scaricato",
+          "avranno scaricato"
+        ]
+      },
+
+      "Congiuntivo": {
+        "Presente": [
+          "scarichi",
+          "scarichi",
+          "scarichi",
+          "scarichiamo",
+          "scarichiate",
+          "scarichino"
+        ],
+
+        "Imperfetto": [
+          "scaricassi",
+          "scaricassi",
+          "scaricasse",
+          "scaricassimo",
+          "scaricaste",
+          "scaricassero"
+        ],
+
+        "Passato": [
+          "abbia scaricato",
+          "abbia scaricato",
+          "abbia scaricato",
+          "abbiamo scaricato",
+          "abbiate scaricato",
+          "abbiano scaricato"
+        ],
+
+        "Trapassato": [
+          "avessi scaricato",
+          "avessi scaricato",
+          "avesse scaricato",
+          "avessimo scaricato",
+          "aveste scaricato",
+          "avessero scaricato"
+        ]
+      },
+
+      "Condizionale": {
+        "Presente": [
+          "scaricherei",
+          "scaricheresti",
+          "scaricherebbe",
+          "scaricheremmo",
+          "scarichereste",
+          "scaricherebbero"
+        ],
+
+        "Passato": [
+          "avrei scaricato",
+          "avresti scaricato",
+          "avrebbe scaricato",
+          "avremmo scaricato",
+          "avreste scaricato",
+          "avrebbero scaricato"
+        ]
+      },
+
+      "Imperativo": {
+        "Presente": [
+          "—",
+          "scarica",
+          "scarichi",
+          "scarichiamo",
+          "scaricate",
+          "scarichino"
+        ]
+      },
+
+      "Forme indefinite": {
+        "Forme": [
+          "scaricare",
+          "avere scaricato",
+          "scaricante",
+          "scaricato",
+          "scaricando",
+          "avendo scaricato"
+        ]
+      }
+    }
+  }
+]
+]
+
