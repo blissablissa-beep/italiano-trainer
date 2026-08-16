@@ -2230,6 +2230,962 @@
       ]
     }
   }
+},
+{
+  "id": "abitare",
+  "sid": "2026-00129",
+  "word": "abitare",
+  "ipa": "/abiˈtare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "abitato",
+    "gerundPresent": "abitando",
+    "pattern": "abitare a/in + luogo / abitare con + persona / abitare un luogo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "social",
+      "administrative"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "ある場所に住む、居住する",
+      "家族・同居人などと一緒に暮らす",
+      "住宅・地域・空間を住居として使用する",
+      "生物や集団が一定の地域に生息・居住する"
+    ],
+    "it": [
+      "Avere la propria casa o residenza in un determinato luogo.",
+      "Vivere stabilmente insieme ad altre persone.",
+      "Occupare una casa, un edificio, un territorio o uno spazio come dimora.",
+      "Essere presente stabilmente in un ambiente, con riferimento anche a specie o popolazioni."
+    ]
+  },
+
+  "nuance": {
+    "ja": "住所や居住場所として「どこに住んでいるか」に焦点を当てる。vivereも「住む」と訳せるが、生活全体や生き方まで含むのに対し、abitareは住居・所在地を具体的に示す場合に適している。都市名には通常a、国・州・広い地域にはinを用いる。abitare Romaのような他動詞用法もあるが、日常会話ではabitare a Romaが一般的である。",
+    "it": "Indica soprattutto il luogo in cui una persona ha la propria abitazione o residenza. Vivere può comprendere l’intero modo di condurre la vita, mentre abitare si concentra maggiormente sulla dimora. Si usa normalmente a con le città e in con paesi, regioni o aree estese. L’uso transitivo, come abitare una casa o una città, è corretto ma meno comune nel parlato quotidiano."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 habitāre（住む、常にいる）に由来する。これはhabēre（持つ、保つ）の反復・継続を表す形から生じた。同じ語族にはabito、abitazione、abitante、habitatなどがある。",
+    "it": "Dal latino habitāre, «risiedere abitualmente», forma frequentativa di habēre, «avere, tenere». Alla stessa famiglia appartengono abitazione, abitante, abito e habitat."
+  },
+
+  "minimal": [
+    {
+      "word": "abitare",
+      "ja": "住所・住居として、ある場所に住んでいることを表す",
+      "it": "avere la propria casa o residenza in un determinato luogo"
+    },
+    {
+      "word": "vivere",
+      "ja": "ある場所で生活することや、生き方・生活全体を表す",
+      "it": "condurre la propria vita in un luogo o in un determinato modo"
+    },
+    {
+      "word": "risiedere",
+      "ja": "特定の場所に居住することを表す、より改まった語",
+      "it": "avere la residenza in un luogo, con un tono più formale o amministrativo"
+    }
+  ],
+
+  "synonyms": [
+    "vivere",
+    "risiedere",
+    "dimorare",
+    "alloggiare",
+    "occupare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "live",
+      "reside",
+      "inhabit"
+    ],
+    "de": [
+      "wohnen",
+      "leben",
+      "bewohnen"
+    ],
+    "fr": [
+      "habiter",
+      "résider",
+      "vivre"
+    ],
+    "es": [
+      "vivir",
+      "habitar",
+      "residir"
+    ]
+  },
+
+  "collocations": [
+    "abitare a Roma",
+    "abitare in Italia",
+    "abitare in città",
+    "abitare in campagna",
+    "abitare in centro",
+    "abitare in periferia",
+    "abitare all’estero",
+    "abitare al primo piano",
+    "abitare vicino alla stazione",
+    "abitare lontano dal centro",
+    "abitare con i genitori",
+    "abitare con la famiglia",
+    "abitare da solo",
+    "abitare insieme",
+    "abitare in affitto",
+    "abitare in una casa",
+    "abitare in un appartamento",
+    "abitare una regione",
+    "essere abitato da",
+    "zona densamente abitata"
+  ],
+
+  "examples": [
+    {
+      "it": "Abito a Tokyo con la mia famiglia.",
+      "ja": "私は家族と東京に住んでいる。"
+    },
+    {
+      "it": "Dove abiti?",
+      "ja": "どこに住んでいますか。"
+    },
+    {
+      "it": "Abbiamo abitato in Italia per tre anni.",
+      "ja": "私たちはイタリアに3年間住んでいた。"
+    },
+    {
+      "it": "Mia sorella abita vicino alla stazione.",
+      "ja": "私の姉妹は駅の近くに住んでいる。"
+    },
+    {
+      "it": "Vorrei abitare in una casa con un piccolo giardino.",
+      "ja": "小さな庭のある家に住みたい。"
+    },
+    {
+      "it": "Questa regione è abitata da diverse comunità linguistiche.",
+      "ja": "この地域には複数の言語共同体が居住している。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "abito",
+        "abiti",
+        "abita",
+        "abitiamo",
+        "abitate",
+        "abitano"
+      ],
+
+      "Imperfetto": [
+        "abitavo",
+        "abitavi",
+        "abitava",
+        "abitavamo",
+        "abitavate",
+        "abitavano"
+      ],
+
+      "Passato prossimo": [
+        "ho abitato",
+        "hai abitato",
+        "ha abitato",
+        "abbiamo abitato",
+        "avete abitato",
+        "hanno abitato"
+      ],
+
+      "Passato remoto": [
+        "abitai",
+        "abitasti",
+        "abitò",
+        "abitammo",
+        "abitaste",
+        "abitarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo abitato",
+        "avevi abitato",
+        "aveva abitato",
+        "avevamo abitato",
+        "avevate abitato",
+        "avevano abitato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi abitato",
+        "avesti abitato",
+        "ebbe abitato",
+        "avemmo abitato",
+        "aveste abitato",
+        "ebbero abitato"
+      ],
+
+      "Futuro semplice": [
+        "abiterò",
+        "abiterai",
+        "abiterà",
+        "abiteremo",
+        "abiterete",
+        "abiteranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò abitato",
+        "avrai abitato",
+        "avrà abitato",
+        "avremo abitato",
+        "avrete abitato",
+        "avranno abitato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "abiti",
+        "abiti",
+        "abiti",
+        "abitiamo",
+        "abitiate",
+        "abitino"
+      ],
+
+      "Imperfetto": [
+        "abitassi",
+        "abitassi",
+        "abitasse",
+        "abitassimo",
+        "abitaste",
+        "abitassero"
+      ],
+
+      "Passato": [
+        "abbia abitato",
+        "abbia abitato",
+        "abbia abitato",
+        "abbiamo abitato",
+        "abbiate abitato",
+        "abbiano abitato"
+      ],
+
+      "Trapassato": [
+        "avessi abitato",
+        "avessi abitato",
+        "avesse abitato",
+        "avessimo abitato",
+        "aveste abitato",
+        "avessero abitato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "abiterei",
+        "abiteresti",
+        "abiterebbe",
+        "abiteremmo",
+        "abitereste",
+        "abiterebbero"
+      ],
+
+      "Passato": [
+        "avrei abitato",
+        "avresti abitato",
+        "avrebbe abitato",
+        "avremmo abitato",
+        "avreste abitato",
+        "avrebbero abitato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "abita",
+        "abiti",
+        "abitiamo",
+        "abitate",
+        "abitino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "abitare",
+        "avere abitato",
+        "abitante",
+        "abitato",
+        "abitando",
+        "avendo abitato"
+      ]
+    }
+  }
+},
+{
+  "id": "permettere",
+  "sid": "2026-00130",
+  "word": "permettere",
+  "ipa": "/perˈmettere/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "permesso",
+    "gerundPresent": "permettendo",
+    "pattern": "permettere qualcosa / permettere a qualcuno di + infinito / permettere che + congiuntivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "legal",
+      "administrative"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "行為を許す、許可する",
+      "人が何かをすることを認める",
+      "規則・状況・能力などが行為を可能にする",
+      "人に一定の自由・機会・手段を与える",
+      "差し支えなければ何かをする、僭越ながら申し上げる"
+    ],
+    "it": [
+      "Autorizzare un’azione o un comportamento.",
+      "Consentire a qualcuno di fare qualcosa.",
+      "Rendere possibile qualcosa grazie a condizioni, mezzi o caratteristiche.",
+      "Concedere a qualcuno libertà, tempo, occasione o possibilità.",
+      "Nella forma permettersi, prendersi la libertà di fare o dire qualcosa."
+    ]
+  },
+
+  "nuance": {
+    "ja": "権限を持つ人が行為を許可する場合だけでなく、状況・設備・時間・能力などが何かを可能にする場合にも使われる。文型はpermettere a qualcuno di fare qualcosaが基本である。consentireより日常的で中立的であり、lasciare + 不定詞は「妨げずにさせておく」という、より直接的・口語的な響きを持つ。",
+    "it": "Può indicare un’autorizzazione concessa da una persona oppure una possibilità resa concreta da mezzi, circostanze o caratteristiche. La costruzione fondamentale è permettere a qualcuno di fare qualcosa. Rispetto a consentire è generalmente più comune e neutro; lasciare seguito dall’infinito può suggerire più direttamente l’assenza di impedimento."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 permittĕre（送り出す、委ねる、許す）に由来し、接頭辞per-（通して、完全に）とmittere（送る、行かせる）から成る。過去分詞permessoはラテン語permissusにさかのぼる。",
+    "it": "Dal latino permittĕre, formato da per- e mittĕre, «mandare, lasciare andare». Il participio permesso deriva dal latino permissus. Alla stessa famiglia appartengono permesso e permissione."
+  },
+
+  "minimal": [
+    {
+      "word": "permettere",
+      "ja": "人に行為の許可を与える、または状況が行為を可能にする",
+      "it": "autorizzare un’azione oppure renderla possibile"
+    },
+    {
+      "word": "consentire",
+      "ja": "行為に同意して許可する、または規則・条件上認める",
+      "it": "dare il proprio consenso o ammettere formalmente un’azione"
+    },
+    {
+      "word": "lasciare",
+      "ja": "人の行為を妨げず、そのまま行わせる",
+      "it": "non impedire a qualcuno di fare qualcosa"
+    }
+  ],
+
+  "synonyms": [
+    "consentire",
+    "autorizzare",
+    "concedere",
+    "ammettere",
+    "lasciare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "allow",
+      "permit",
+      "enable"
+    ],
+    "de": [
+      "erlauben",
+      "gestatten",
+      "ermöglichen"
+    ],
+    "fr": [
+      "permettre",
+      "autoriser",
+      "rendre possible"
+    ],
+    "es": [
+      "permitir",
+      "autorizar",
+      "hacer posible"
+    ]
+  },
+
+  "collocations": [
+    "permettere qualcosa",
+    "permettere l’accesso",
+    "permettere l’ingresso",
+    "permettere l’uso",
+    "permettere a qualcuno di entrare",
+    "permettere a qualcuno di uscire",
+    "permettere a qualcuno di parlare",
+    "permettere a qualcuno di scegliere",
+    "permettere a qualcuno di lavorare",
+    "permettere di risparmiare",
+    "permettere di capire",
+    "permettere di ottenere",
+    "permettere che qualcosa accada",
+    "non permettere",
+    "essere permesso",
+    "se il tempo lo permette",
+    "quando le condizioni lo permettono",
+    "permettere un confronto",
+    "permettere una valutazione",
+    "permettersi un lusso",
+    "permettersi una vacanza",
+    "mi permetta di"
+  ],
+
+  "examples": [
+    {
+      "it": "I miei genitori mi permettevano di uscire la sera.",
+      "ja": "両親は私が夜に外出することを許していた。"
+    },
+    {
+      "it": "Non è permesso fumare in questo edificio.",
+      "ja": "この建物では喫煙は許可されていない。"
+    },
+    {
+      "it": "Questa applicazione permette di modificare i documenti.",
+      "ja": "このアプリでは書類を編集できる。"
+    },
+    {
+      "it": "Se il tempo lo permette, domani andremo al mare.",
+      "ja": "天候が許せば、明日は海へ行く。"
+    },
+    {
+      "it": "Non posso permettermi una macchina così costosa.",
+      "ja": "そのような高価な車を買う余裕はない。"
+    },
+    {
+      "it": "Mi permetta di aggiungere una breve osservazione.",
+      "ja": "一言申し上げることをお許しください。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "permetto",
+        "permetti",
+        "permette",
+        "permettiamo",
+        "permettete",
+        "permettono"
+      ],
+
+      "Imperfetto": [
+        "permettevo",
+        "permettevi",
+        "permetteva",
+        "permettevamo",
+        "permettevate",
+        "permettevano"
+      ],
+
+      "Passato prossimo": [
+        "ho permesso",
+        "hai permesso",
+        "ha permesso",
+        "abbiamo permesso",
+        "avete permesso",
+        "hanno permesso"
+      ],
+
+      "Passato remoto": [
+        "permisi",
+        "permettesti",
+        "permise",
+        "permettemmo",
+        "permetteste",
+        "permisero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo permesso",
+        "avevi permesso",
+        "aveva permesso",
+        "avevamo permesso",
+        "avevate permesso",
+        "avevano permesso"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi permesso",
+        "avesti permesso",
+        "ebbe permesso",
+        "avemmo permesso",
+        "aveste permesso",
+        "ebbero permesso"
+      ],
+
+      "Futuro semplice": [
+        "permetterò",
+        "permetterai",
+        "permetterà",
+        "permetteremo",
+        "permetterete",
+        "permetteranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò permesso",
+        "avrai permesso",
+        "avrà permesso",
+        "avremo permesso",
+        "avrete permesso",
+        "avranno permesso"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "permetta",
+        "permetta",
+        "permetta",
+        "permettiamo",
+        "permettiate",
+        "permettano"
+      ],
+
+      "Imperfetto": [
+        "permettessi",
+        "permettessi",
+        "permettesse",
+        "permettessimo",
+        "permetteste",
+        "permettessero"
+      ],
+
+      "Passato": [
+        "abbia permesso",
+        "abbia permesso",
+        "abbia permesso",
+        "abbiamo permesso",
+        "abbiate permesso",
+        "abbiano permesso"
+      ],
+
+      "Trapassato": [
+        "avessi permesso",
+        "avessi permesso",
+        "avesse permesso",
+        "avessimo permesso",
+        "aveste permesso",
+        "avessero permesso"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "permetterei",
+        "permetteresti",
+        "permetterebbe",
+        "permetteremmo",
+        "permettereste",
+        "permetterebbero"
+      ],
+
+      "Passato": [
+        "avrei permesso",
+        "avresti permesso",
+        "avrebbe permesso",
+        "avremmo permesso",
+        "avreste permesso",
+        "avrebbero permesso"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "permetti",
+        "permetta",
+        "permettiamo",
+        "permettete",
+        "permettano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "permettere",
+        "avere permesso",
+        "permettente",
+        "permesso",
+        "permettendo",
+        "avendo permesso"
+      ]
+    }
+  }
+},
+{
+  "id": "cessare",
+  "sid": "2026-00131",
+  "word": "cessare",
+  "ipa": "/tʃesˈsare/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "essere（自動詞）／avere（他動詞・cessare di）",
+    "pastParticiple": "cessato",
+    "gerundPresent": "cessando",
+    "pattern": "cessare / cessare di + infinito / cessare un’attività"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "business",
+      "academic",
+      "legal",
+      "administrative",
+      "journalistic"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "活動・現象・状態などが終わる、止む",
+      "行為をやめる、中止する",
+      "事業・業務・生産などを終了する",
+      "役職・資格・効力などを失う、終了する"
+    ],
+    "it": [
+      "Finire o interrompersi, con riferimento a un’attività, un fenomeno o una condizione.",
+      "Smettere di compiere un’azione.",
+      "Interrompere definitivamente un’attività, un servizio o una produzione.",
+      "Non esercitare più una funzione o non produrre più determinati effetti."
+    ]
+  },
+
+  "nuance": {
+    "ja": "日常語のsmettereより改まった響きがあり、業務・効力・戦闘・騒音・雨などが終了する場合によく使われる。cessare di + 不定詞は「～するのをやめる」を表す。自動詞として現象や活動が終わる場合はessere、目的語を取って活動を終了する場合やcessare diの構文ではavereが一般的である。",
+    "it": "Ha spesso un tono più formale di smettere ed è frequente in riferimento ad attività economiche, effetti giuridici, ostilità, rumori o fenomeni atmosferici. Cessare di seguito dall’infinito significa smettere di fare qualcosa. Nell’uso intransitivo è comune essere; nell’uso transitivo e nella costruzione cessare di si usa normalmente avere."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 cessāre（止まる、遅れる、活動しない）に由来する。これはcēdere（進む、退く、譲る）の反復・強意形である。同じ語族にはcessazione、incessante、concessioneなどがある。",
+    "it": "Dal latino cessāre, «fermarsi, indugiare, restare inattivo», forma intensiva di cēdere. Alla stessa famiglia appartengono cessazione, incessante e recesso."
+  },
+
+  "minimal": [
+    {
+      "word": "cessare",
+      "ja": "活動・効力・現象が終了することを、比較的改まって表す",
+      "it": "indicare in modo relativamente formale la fine di un’attività, di un effetto o di un fenomeno"
+    },
+    {
+      "word": "smettere",
+      "ja": "続けていた行為をやめることを日常的に表す",
+      "it": "interrompere nel linguaggio comune un’azione che si stava continuando"
+    },
+    {
+      "word": "interrompere",
+      "ja": "進行中の行為・流れを途中で止めるが、再開する可能性もある",
+      "it": "fermare qualcosa mentre è in corso, anche soltanto temporaneamente"
+    }
+  ],
+
+  "synonyms": [
+    "smettere",
+    "terminare",
+    "finire",
+    "interrompere",
+    "concludersi"
+  ],
+
+  "equivalents": {
+    "en": [
+      "cease",
+      "stop",
+      "discontinue"
+    ],
+    "de": [
+      "aufhören",
+      "einstellen",
+      "enden"
+    ],
+    "fr": [
+      "cesser",
+      "arrêter",
+      "prendre fin"
+    ],
+    "es": [
+      "cesar",
+      "dejar de",
+      "terminar"
+    ]
+  },
+
+  "collocations": [
+    "cessare immediatamente",
+    "cessare definitivamente",
+    "cessare gradualmente",
+    "cessare di esistere",
+    "cessare di funzionare",
+    "cessare di lavorare",
+    "cessare di produrre",
+    "cessare di essere",
+    "cessare il fuoco",
+    "cessare le ostilità",
+    "cessare un’attività",
+    "cessare la produzione",
+    "cessare il servizio",
+    "cessare ogni rapporto",
+    "cessare dalle funzioni",
+    "cessare dalla carica",
+    "il rumore è cessato",
+    "la pioggia è cessata",
+    "senza mai cessare",
+    "ordine di cessare"
+  ],
+
+  "examples": [
+    {
+      "it": "La pioggia è cessata verso mezzanotte.",
+      "ja": "雨は真夜中ごろに止んだ。"
+    },
+    {
+      "it": "Il rumore è cessato improvvisamente.",
+      "ja": "騒音は突然止んだ。"
+    },
+    {
+      "it": "L’azienda ha cessato la produzione di quel modello.",
+      "ja": "その会社はその型式の生産を終了した。"
+    },
+    {
+      "it": "Ha cessato di lavorare all’età di sessantacinque anni.",
+      "ja": "彼は65歳で働くことをやめた。"
+    },
+    {
+      "it": "Le parti hanno accettato di cessare le ostilità.",
+      "ja": "当事者らは敵対行為を停止することに同意した。"
+    },
+    {
+      "it": "Il contratto cesserà di avere effetto alla fine del mese.",
+      "ja": "その契約は月末に効力を失う。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "cesso",
+        "cessi",
+        "cessa",
+        "cessiamo",
+        "cessate",
+        "cessano"
+      ],
+
+      "Imperfetto": [
+        "cessavo",
+        "cessavi",
+        "cessava",
+        "cessavamo",
+        "cessavate",
+        "cessavano"
+      ],
+
+      "Passato prossimo": [
+        "ho cessato / sono cessato/a",
+        "hai cessato / sei cessato/a",
+        "ha cessato / è cessato/a",
+        "abbiamo cessato / siamo cessati/e",
+        "avete cessato / siete cessati/e",
+        "hanno cessato / sono cessati/e"
+      ],
+
+      "Passato remoto": [
+        "cessai",
+        "cessasti",
+        "cessò",
+        "cessammo",
+        "cessaste",
+        "cessarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo cessato / ero cessato/a",
+        "avevi cessato / eri cessato/a",
+        "aveva cessato / era cessato/a",
+        "avevamo cessato / eravamo cessati/e",
+        "avevate cessato / eravate cessati/e",
+        "avevano cessato / erano cessati/e"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi cessato / fui cessato/a",
+        "avesti cessato / fosti cessato/a",
+        "ebbe cessato / fu cessato/a",
+        "avemmo cessato / fummo cessati/e",
+        "aveste cessato / foste cessati/e",
+        "ebbero cessato / furono cessati/e"
+      ],
+
+      "Futuro semplice": [
+        "cesserò",
+        "cesserai",
+        "cesserà",
+        "cesseremo",
+        "cesserete",
+        "cesseranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò cessato / sarò cessato/a",
+        "avrai cessato / sarai cessato/a",
+        "avrà cessato / sarà cessato/a",
+        "avremo cessato / saremo cessati/e",
+        "avrete cessato / sarete cessati/e",
+        "avranno cessato / saranno cessati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "cessi",
+        "cessi",
+        "cessi",
+        "cessiamo",
+        "cessiate",
+        "cessino"
+      ],
+
+      "Imperfetto": [
+        "cessassi",
+        "cessassi",
+        "cessasse",
+        "cessassimo",
+        "cessaste",
+        "cessassero"
+      ],
+
+      "Passato": [
+        "abbia cessato / sia cessato/a",
+        "abbia cessato / sia cessato/a",
+        "abbia cessato / sia cessato/a",
+        "abbiamo cessato / siamo cessati/e",
+        "abbiate cessato / siate cessati/e",
+        "abbiano cessato / siano cessati/e"
+      ],
+
+      "Trapassato": [
+        "avessi cessato / fossi cessato/a",
+        "avessi cessato / fossi cessato/a",
+        "avesse cessato / fosse cessato/a",
+        "avessimo cessato / fossimo cessati/e",
+        "aveste cessato / foste cessati/e",
+        "avessero cessato / fossero cessati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "cesserei",
+        "cesseresti",
+        "cesserebbe",
+        "cesseremmo",
+        "cessereste",
+        "cesserebbero"
+      ],
+
+      "Passato": [
+        "avrei cessato / sarei cessato/a",
+        "avresti cessato / saresti cessato/a",
+        "avrebbe cessato / sarebbe cessato/a",
+        "avremmo cessato / saremmo cessati/e",
+        "avreste cessato / sareste cessati/e",
+        "avrebbero cessato / sarebbero cessati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "cessa",
+        "cessi",
+        "cessiamo",
+        "cessate",
+        "cessino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "cessare",
+        "avere cessato / essere cessato/a/i/e",
+        "cessante",
+        "cessato",
+        "cessando",
+        "avendo cessato / essendo cessato/a/i/e"
+      ]
+    }
+  }
 }
 ]
 
