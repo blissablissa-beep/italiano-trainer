@@ -4548,5 +4548,2900 @@
       ]
     }
   }
+},
+{
+  "id": "mangiarsi",
+  "sid": "2026-00076",
+  "word": "mangiarsi",
+  "ipa": "/manˈdʒarsi/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "代名動詞",
+      "it": "verbo pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "mangiato",
+    "gerundPresent": "mangiandosi",
+    "pattern": "mangiarsi qualcosa / mangiarselo tutto / mangiarsi le mani / mangiarsi le parole"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "restaurant",
+      "idioms"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "何かをすっかり食べる、平らげる",
+      "おいしそうに、勢いよく、または自分のために食べる",
+      "時間・距離・財産などを急速に消費する",
+      "言葉を不明瞭に発音する、省略する",
+      "強い後悔やいら立ちを感じる"
+    ],
+    "it": [
+      "Mangiare qualcosa interamente o con particolare partecipazione.",
+      "Consumare rapidamente o avidamente un alimento.",
+      "Consumare o percorrere velocemente tempo, spazio o risorse.",
+      "Pronunciare alcune parole o sillabe in modo poco chiaro o incompleto.",
+      "In espressioni idiomatiche, provare forte rimorso o irritazione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "基本動詞mangiareに代名詞を加えることで、食べる行為への主語の強い関与、完食、勢い、満足感などを強調する。必ずしも文字どおり「自分自身を食べる」という再帰的意味ではない。mi mangio una pizzaは単なるmangio una pizzaよりも、「ピザを一枚食べてしまう」「自分への楽しみとして食べる」といった口語的な臨場感を伴う。目的語代名詞を伴う場合はme lo mangio、me la mangioなどとなる。",
+    "it": "La particella pronominale intensifica il coinvolgimento del soggetto e può sottolineare il consumo completo, il piacere o la rapidità dell’azione. Non ha normalmente un autentico significato riflessivo. Mi mangio una pizza è più espressivo e colloquiale di mangio una pizza. Con un pronome oggetto si formano combinazioni come me lo mangio e me la mangio."
+  },
+
+  "etymology": {
+    "ja": "動詞mangiareに再帰代名詞siを加えて成立した代名動詞である。mangiareはラテン語manducare（かむ、食べる）にさかのぼる。ここでのsiは本来の再帰よりも、行為の完遂や主語の強い関与を示す倫理的・強意的な代名詞として機能する。",
+    "it": "È formato da mangiare e dal pronome riflessivo si. Mangiare risale al latino manducare, «masticare, mangiare». In questo uso il pronome ha spesso valore intensivo o affettivo e sottolinea la partecipazione del soggetto o il compimento dell’azione."
+  },
+
+  "minimal": [
+    {
+      "word": "mangiarsi",
+      "ja": "主語の関与や完食を強調し、何かを平らげる",
+      "it": "consumare qualcosa completamente o con particolare partecipazione"
+    },
+    {
+      "word": "mangiare",
+      "ja": "中立的に、食物を摂取する、または食事をする",
+      "it": "ingerire del cibo o consumare un pasto in senso neutro"
+    },
+    {
+      "word": "divorare",
+      "ja": "非常な勢いでむさぼるように食べる",
+      "it": "mangiare con grande avidità e rapidità"
+    },
+    {
+      "word": "consumare",
+      "ja": "食物・資源・時間などを使い切る、消費する",
+      "it": "utilizzare o esaurire alimenti, risorse o tempo"
+    }
+  ],
+
+  "synonyms": [
+    "divorare",
+    "consumare",
+    "finire",
+    "spazzolare",
+    "ingurgitare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "eat up",
+      "devour",
+      "consume"
+    ],
+    "de": [
+      "aufessen",
+      "verschlingen",
+      "verzehren"
+    ],
+    "fr": [
+      "manger entièrement",
+      "dévorer",
+      "engloutir"
+    ],
+    "es": [
+      "comerse",
+      "devorar",
+      "zamparse"
+    ]
+  },
+
+  "collocations": [
+    "mangiarsi qualcosa",
+    "mangiarsi tutto",
+    "mangiarsi una pizza",
+    "mangiarsi un panino",
+    "mangiarsi un piatto di pasta",
+    "mangiarsi una fetta di torta",
+    "mangiarselo tutto",
+    "mangiarsela tutta",
+    "mangiarsi le unghie",
+    "mangiarsi le mani",
+    "mangiarsi le parole",
+    "mangiarsi una lettera",
+    "mangiarsi la distanza",
+    "mangiarsi la strada",
+    "mangiarsi il patrimonio",
+    "mangiarsi il vantaggio",
+    "mangiarsi un gol",
+    "mangiarsi con gli occhi",
+    "essere tutto da mangiare"
+  ],
+
+  "examples": [
+    {
+      "it": "Mi sono mangiato tutta la pizza.",
+      "ja": "私はピザを全部平らげた。"
+    },
+    {
+      "it": "I bambini si sono mangiati tutti i biscotti.",
+      "ja": "子どもたちはクッキーを全部食べてしまった。"
+    },
+    {
+      "it": "Stasera mi mangerei volentieri un piatto di pasta.",
+      "ja": "今晩はぜひパスタを一皿食べたい。"
+    },
+    {
+      "it": "Si mangiava le unghie per il nervosismo.",
+      "ja": "彼は緊張して爪をかんでいた。"
+    },
+    {
+      "it": "Quando parla in fretta, si mangia le parole.",
+      "ja": "彼は早口になると、言葉を不明瞭に発音する。"
+    },
+    {
+      "it": "Dopo aver rifiutato l’offerta, si è mangiato le mani.",
+      "ja": "その申し出を断った後、彼はひどく後悔した。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi mangio",
+        "ti mangi",
+        "si mangia",
+        "ci mangiamo",
+        "vi mangiate",
+        "si mangiano"
+      ],
+
+      "Imperfetto": [
+        "mi mangiavo",
+        "ti mangiavi",
+        "si mangiava",
+        "ci mangiavamo",
+        "vi mangiavate",
+        "si mangiavano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono mangiato/a",
+        "ti sei mangiato/a",
+        "si è mangiato/a",
+        "ci siamo mangiati/e",
+        "vi siete mangiati/e",
+        "si sono mangiati/e"
+      ],
+
+      "Passato remoto": [
+        "mi mangiai",
+        "ti mangiasti",
+        "si mangiò",
+        "ci mangiammo",
+        "vi mangiaste",
+        "si mangiarono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero mangiato/a",
+        "ti eri mangiato/a",
+        "si era mangiato/a",
+        "ci eravamo mangiati/e",
+        "vi eravate mangiati/e",
+        "si erano mangiati/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui mangiato/a",
+        "ti fosti mangiato/a",
+        "si fu mangiato/a",
+        "ci fummo mangiati/e",
+        "vi foste mangiati/e",
+        "si furono mangiati/e"
+      ],
+
+      "Futuro semplice": [
+        "mi mangerò",
+        "ti mangerai",
+        "si mangerà",
+        "ci mangeremo",
+        "vi mangerete",
+        "si mangeranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò mangiato/a",
+        "ti sarai mangiato/a",
+        "si sarà mangiato/a",
+        "ci saremo mangiati/e",
+        "vi sarete mangiati/e",
+        "si saranno mangiati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi mangi",
+        "ti mangi",
+        "si mangi",
+        "ci mangiamo",
+        "vi mangiate",
+        "si mangino"
+      ],
+
+      "Imperfetto": [
+        "mi mangiassi",
+        "ti mangiassi",
+        "si mangiasse",
+        "ci mangiassimo",
+        "vi mangiaste",
+        "si mangiassero"
+      ],
+
+      "Passato": [
+        "mi sia mangiato/a",
+        "ti sia mangiato/a",
+        "si sia mangiato/a",
+        "ci siamo mangiati/e",
+        "vi siate mangiati/e",
+        "si siano mangiati/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi mangiato/a",
+        "ti fossi mangiato/a",
+        "si fosse mangiato/a",
+        "ci fossimo mangiati/e",
+        "vi foste mangiati/e",
+        "si fossero mangiati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi mangerei",
+        "ti mangeresti",
+        "si mangerebbe",
+        "ci mangeremmo",
+        "vi mangereste",
+        "si mangerebbero"
+      ],
+
+      "Passato": [
+        "mi sarei mangiato/a",
+        "ti saresti mangiato/a",
+        "si sarebbe mangiato/a",
+        "ci saremmo mangiati/e",
+        "vi sareste mangiati/e",
+        "si sarebbero mangiati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "mangiati",
+        "si mangi",
+        "mangiamoci",
+        "mangiatevi",
+        "si mangino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "mangiarsi",
+        "essersi mangiato/a/i/e",
+        "mangiantesi (raro)",
+        "mangiato",
+        "mangiandosi",
+        "essendosi mangiato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "nuotare",
+  "sid": "2026-00077",
+  "word": "nuotare",
+  "ipa": "/nwoˈtare/",
+  "level": "A1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "nuotato",
+    "gerundPresent": "nuotando",
+    "pattern": "nuotare in + luogo / nuotare per + distanza o durata / nuotare a + stile"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "sports",
+      "travel",
+      "leisure"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "泳ぐ、水中を進む",
+      "特定の泳法で泳ぐ",
+      "一定の距離・時間を泳ぐ",
+      "液体の中に浮かぶ、浸っている",
+      "比喩的に、何かに満ちた状態にある"
+    ],
+    "it": [
+      "Muoversi nell’acqua mediante i movimenti del corpo.",
+      "Praticare il nuoto secondo un determinato stile.",
+      "Percorrere a nuoto una distanza.",
+      "Galleggiare o essere immerso in un liquido.",
+      "In senso figurato, trovarsi circondati o sommersi da qualcosa."
+    ]
+  },
+
+  "nuance": {
+    "ja": "人や動物が身体を動かして水中を進むことを表す基本動詞である。通常は自動詞だが、nuotare cento metriのように距離を直接目的語として置くこともできる。galleggiareは自力で進むことではなく、水面に浮かぶことに重点がある。複合時制では移動動詞であっても通常avereを用い、ho nuotatoとなる。",
+    "it": "Indica il movimento attivo di una persona o di un animale nell’acqua. È normalmente intransitivo, ma può reggere direttamente un’espressione di distanza, come nuotare cento metri. Galleggiare mette invece in rilievo il semplice mantenersi sulla superficie. Nei tempi composti nuotare usa normalmente l’ausiliare avere."
+  },
+
+  "etymology": {
+    "ja": "ラテン語natare（泳ぐ）に由来する。natareはnare（泳ぐ）の反復・強意形であり、俗ラテン語で母音や子音が変化してイタリア語nuotareとなった。英語natationやイタリア語natatorioにも同じラテン語語根が残る。",
+    "it": "Dal latino natare, forma frequentativa di nare, «nuotare». Attraverso l’evoluzione fonetica del latino volgare si è sviluppata la forma italiana nuotare. La stessa radice compare in natatorio e natante."
+  },
+
+  "minimal": [
+    {
+      "word": "nuotare",
+      "ja": "身体を動かして水中を進む",
+      "it": "avanzare nell’acqua mediante i movimenti del corpo"
+    },
+    {
+      "word": "galleggiare",
+      "ja": "沈まずに水面や液体の表面に浮かぶ",
+      "it": "rimanere sulla superficie di un liquido senza affondare"
+    },
+    {
+      "word": "tuffarsi",
+      "ja": "水中へ飛び込む、潜り込む",
+      "it": "lanciarsi o immergersi nell’acqua"
+    },
+    {
+      "word": "immergersi",
+      "ja": "身体の全部または一部を水中に入れる、潜る",
+      "it": "entrare completamente o parzialmente in un liquido"
+    }
+  ],
+
+  "synonyms": [
+    "fare il bagno",
+    "spostarsi nell’acqua",
+    "sguazzare",
+    "galleggiare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "swim",
+      "go swimming"
+    ],
+    "de": [
+      "schwimmen",
+      "baden gehen"
+    ],
+    "fr": [
+      "nager",
+      "aller nager"
+    ],
+    "es": [
+      "nadar",
+      "ir a nadar"
+    ]
+  },
+
+  "collocations": [
+    "nuotare bene",
+    "nuotare male",
+    "saper nuotare",
+    "imparare a nuotare",
+    "andare a nuotare",
+    "nuotare in piscina",
+    "nuotare nel mare",
+    "nuotare nel lago",
+    "nuotare nel fiume",
+    "nuotare sott’acqua",
+    "nuotare fino a riva",
+    "nuotare controcorrente",
+    "nuotare a favore di corrente",
+    "nuotare a stile libero",
+    "nuotare a dorso",
+    "nuotare a rana",
+    "nuotare a farfalla",
+    "nuotare per un’ora",
+    "nuotare cento metri",
+    "nuotare in acque profonde",
+    "nuotare come un pesce"
+  ],
+
+  "examples": [
+    {
+      "it": "So nuotare, ma non sono molto veloce.",
+      "ja": "私は泳げるが、それほど速くはない。"
+    },
+    {
+      "it": "Ogni mattina nuoto per mezz’ora in piscina.",
+      "ja": "私は毎朝プールで30分泳ぐ。"
+    },
+    {
+      "it": "Ieri abbiamo nuotato nel mare.",
+      "ja": "昨日、私たちは海で泳いだ。"
+    },
+    {
+      "it": "Non si deve nuotare qui quando il mare è agitato.",
+      "ja": "海が荒れているときは、ここで泳いではいけない。"
+    },
+    {
+      "it": "È riuscita a nuotare fino a riva.",
+      "ja": "彼女は何とか岸まで泳ぎ着いた。"
+    },
+    {
+      "it": "Il pesce nuotava lentamente tra le rocce.",
+      "ja": "その魚は岩の間をゆっくり泳いでいた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "nuoto",
+        "nuoti",
+        "nuota",
+        "nuotiamo",
+        "nuotate",
+        "nuotano"
+      ],
+
+      "Imperfetto": [
+        "nuotavo",
+        "nuotavi",
+        "nuotava",
+        "nuotavamo",
+        "nuotavate",
+        "nuotavano"
+      ],
+
+      "Passato prossimo": [
+        "ho nuotato",
+        "hai nuotato",
+        "ha nuotato",
+        "abbiamo nuotato",
+        "avete nuotato",
+        "hanno nuotato"
+      ],
+
+      "Passato remoto": [
+        "nuotai",
+        "nuotasti",
+        "nuotò",
+        "nuotammo",
+        "nuotaste",
+        "nuotarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo nuotato",
+        "avevi nuotato",
+        "aveva nuotato",
+        "avevamo nuotato",
+        "avevate nuotato",
+        "avevano nuotato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi nuotato",
+        "avesti nuotato",
+        "ebbe nuotato",
+        "avemmo nuotato",
+        "aveste nuotato",
+        "ebbero nuotato"
+      ],
+
+      "Futuro semplice": [
+        "nuoterò",
+        "nuoterai",
+        "nuoterà",
+        "nuoteremo",
+        "nuoterete",
+        "nuoteranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò nuotato",
+        "avrai nuotato",
+        "avrà nuotato",
+        "avremo nuotato",
+        "avrete nuotato",
+        "avranno nuotato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "nuoti",
+        "nuoti",
+        "nuoti",
+        "nuotiamo",
+        "nuotiate",
+        "nuotino"
+      ],
+
+      "Imperfetto": [
+        "nuotassi",
+        "nuotassi",
+        "nuotasse",
+        "nuotassimo",
+        "nuotaste",
+        "nuotassero"
+      ],
+
+      "Passato": [
+        "abbia nuotato",
+        "abbia nuotato",
+        "abbia nuotato",
+        "abbiamo nuotato",
+        "abbiate nuotato",
+        "abbiano nuotato"
+      ],
+
+      "Trapassato": [
+        "avessi nuotato",
+        "avessi nuotato",
+        "avesse nuotato",
+        "avessimo nuotato",
+        "aveste nuotato",
+        "avessero nuotato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "nuoterei",
+        "nuoteresti",
+        "nuoterebbe",
+        "nuoteremmo",
+        "nuotereste",
+        "nuoterebbero"
+      ],
+
+      "Passato": [
+        "avrei nuotato",
+        "avresti nuotato",
+        "avrebbe nuotato",
+        "avremmo nuotato",
+        "avreste nuotato",
+        "avrebbero nuotato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "nuota",
+        "nuoti",
+        "nuotiamo",
+        "nuotate",
+        "nuotino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "nuotare",
+        "avere nuotato",
+        "nuotante",
+        "nuotato",
+        "nuotando",
+        "avendo nuotato"
+      ]
+    }
+  }
+},
+{
+  "id": "toccare",
+  "sid": "2026-00078",
+  "word": "toccare",
+  "ipa": "/tokˈkare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞・非人称的用法を持つ動詞",
+      "it": "verbo transitivo e intransitivo con uso impersonale"
+    },
+    "auxiliary": "avere; essere nella costruzione toccare a qualcuno",
+    "pastParticiple": "toccato",
+    "gerundPresent": "toccando",
+    "pattern": "toccare qualcosa / toccare a qualcuno / toccare un argomento / toccare quota + numero"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "instructions"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "手や身体で物に触れる",
+      "物同士が接触する、ある地点に達する",
+      "人の感情を動かす、心を打つ",
+      "問題・話題などに言及する",
+      "人の順番・役目になる",
+      "人に関係する、影響が及ぶ",
+      "ある数値・水準に達する"
+    ],
+    "it": [
+      "Entrare in contatto con qualcosa mediante una parte del corpo.",
+      "Venire a contatto o raggiungere un punto determinato.",
+      "Commuovere o coinvolgere emotivamente qualcuno.",
+      "Affrontare o menzionare un argomento.",
+      "Spettare a qualcuno come turno, compito o necessità.",
+      "Riguardare o coinvolgere direttamente qualcuno.",
+      "Raggiungere una determinata quantità o un determinato livello."
+    ]
+  },
+
+  "nuance": {
+    "ja": "物理的な接触を表す基本動詞だが、感情・話題・順番・義務・数値などにも広く使われる。tocca a meは「私の番だ」、mi è toccato farloは「私はそれをせざるを得なかった」という意味になる。この非人称的な構文の複合時制ではessereを用いる。一方、物に触れた場合はho toccatoのようにavereを用いる。",
+    "it": "Dal contatto fisico il verbo si estende a numerosi usi figurati relativi a emozioni, argomenti, turni, obblighi e livelli numerici. Tocca a me indica che è il mio turno; mi è toccato farlo esprime un compito o una necessità assegnati dalle circostanze. In questa costruzione si usa essere nei tempi composti, mentre nell’uso transitivo si usa avere."
+  },
+
+  "etymology": {
+    "ja": "後期ラテン語または俗ラテン語のtoccareに由来し、接触の音や短い打撃を表す擬音的・表現的な語根から生じたと考えられている。フランス語toucher、スペイン語tocar、英語touchなどとも歴史的に関係する。",
+    "it": "Dal latino tardo o volgare toccare, probabilmente formato su una base espressiva o onomatopeica legata al rumore di un contatto o di un colpo leggero. È imparentato con il francese toucher e lo spagnolo tocar."
+  },
+
+  "minimal": [
+    {
+      "word": "toccare",
+      "ja": "手や身体で対象に接触する、または短く触れる",
+      "it": "entrare in contatto fisico con qualcosa, anche brevemente"
+    },
+    {
+      "word": "sfiorare",
+      "ja": "表面にごく軽く触れる、または接触しそうなほど近づく",
+      "it": "toccare appena una superficie o passarle molto vicino"
+    },
+    {
+      "word": "afferrare",
+      "ja": "手でしっかりつかみ、保持する",
+      "it": "prendere e trattenere saldamente qualcosa con la mano"
+    },
+    {
+      "word": "premere",
+      "ja": "対象に力を加えて押す",
+      "it": "esercitare una pressione su qualcosa"
+    }
+  ],
+
+  "synonyms": [
+    "sfiorare",
+    "palpare",
+    "raggiungere",
+    "riguardare",
+    "commuovere",
+    "spettare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "touch",
+      "affect",
+      "be someone’s turn"
+    ],
+    "de": [
+      "berühren",
+      "betreffen",
+      "an der Reihe sein"
+    ],
+    "fr": [
+      "toucher",
+      "concerner",
+      "être le tour de quelqu’un"
+    ],
+    "es": [
+      "tocar",
+      "afectar",
+      "corresponder"
+    ]
+  },
+
+  "collocations": [
+    "toccare qualcosa",
+    "toccare con mano",
+    "toccare leggermente",
+    "toccare il fondo",
+    "toccare terra",
+    "toccare un punto",
+    "toccare un argomento",
+    "toccare una questione",
+    "toccare un tema delicato",
+    "toccare il cuore",
+    "toccare profondamente",
+    "toccare da vicino",
+    "toccare a qualcuno",
+    "tocca a me",
+    "tocca a te",
+    "essere toccato a qualcuno",
+    "non toccare",
+    "vietato toccare",
+    "toccare quota cento",
+    "toccare il massimo",
+    "toccare il minimo",
+    "toccare ferro"
+  ],
+
+  "examples": [
+    {
+      "it": "Non toccare quella pentola: è molto calda.",
+      "ja": "その鍋に触らないで。とても熱いから。"
+    },
+    {
+      "it": "Adesso tocca a te rispondere.",
+      "ja": "今度はあなたが答える番だ。"
+    },
+    {
+      "it": "Mi è toccato aspettare più di un’ora.",
+      "ja": "私は1時間以上待たざるを得なかった。"
+    },
+    {
+      "it": "Il suo discorso ha toccato il cuore di tutti.",
+      "ja": "彼の演説は全員の心を打った。"
+    },
+    {
+      "it": "Durante la riunione abbiamo toccato diversi argomenti.",
+      "ja": "会議ではいくつかの話題に触れた。"
+    },
+    {
+      "it": "La temperatura ha toccato i quaranta gradi.",
+      "ja": "気温は40度に達した。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "tocco",
+        "tocchi",
+        "tocca",
+        "tocchiamo",
+        "toccate",
+        "toccano"
+      ],
+
+      "Imperfetto": [
+        "toccavo",
+        "toccavi",
+        "toccava",
+        "toccavamo",
+        "toccavate",
+        "toccavano"
+      ],
+
+      "Passato prossimo": [
+        "ho toccato",
+        "hai toccato",
+        "ha toccato",
+        "abbiamo toccato",
+        "avete toccato",
+        "hanno toccato"
+      ],
+
+      "Passato remoto": [
+        "toccai",
+        "toccasti",
+        "toccò",
+        "toccammo",
+        "toccastе",
+        "toccarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo toccato",
+        "avevi toccato",
+        "aveva toccato",
+        "avevamo toccato",
+        "avevate toccato",
+        "avevano toccato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi toccato",
+        "avesti toccato",
+        "ebbe toccato",
+        "avemmo toccato",
+        "aveste toccato",
+        "ebbero toccato"
+      ],
+
+      "Futuro semplice": [
+        "toccherò",
+        "toccherai",
+        "toccherà",
+        "toccheremo",
+        "toccherete",
+        "toccheranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò toccato",
+        "avrai toccato",
+        "avrà toccato",
+        "avremo toccato",
+        "avrete toccato",
+        "avranno toccato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "tocchi",
+        "tocchi",
+        "tocchi",
+        "tocchiamo",
+        "tocchiate",
+        "tocchino"
+      ],
+
+      "Imperfetto": [
+        "toccassi",
+        "toccassi",
+        "toccasse",
+        "toccassimo",
+        "toccastе",
+        "toccassero"
+      ],
+
+      "Passato": [
+        "abbia toccato",
+        "abbia toccato",
+        "abbia toccato",
+        "abbiamo toccato",
+        "abbiate toccato",
+        "abbiano toccato"
+      ],
+
+      "Trapassato": [
+        "avessi toccato",
+        "avessi toccato",
+        "avesse toccato",
+        "avessimo toccato",
+        "aveste toccato",
+        "avessero toccato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "toccherei",
+        "toccheresti",
+        "toccherebbe",
+        "toccheremmo",
+        "tocchereste",
+        "toccherebbero"
+      ],
+
+      "Passato": [
+        "avrei toccato",
+        "avresti toccato",
+        "avrebbe toccato",
+        "avremmo toccato",
+        "avreste toccato",
+        "avrebbero toccato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "tocca",
+        "tocchi",
+        "tocchiamo",
+        "toccate",
+        "tocchino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "toccare",
+        "avere toccato",
+        "toccante",
+        "toccato",
+        "toccando",
+        "avendo toccato"
+      ]
+    }
+  }
+},
+{
+  "id": "odiare",
+  "sid": "2026-00079",
+  "word": "odiare",
+  "ipa": "/oˈdjare/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "odiato",
+    "gerundPresent": "odiando",
+    "pattern": "odiare qualcuno o qualcosa / odiare + infinito / odiare che + congiuntivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "emotional"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "relationships",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人や物を憎む、強い嫌悪を抱く",
+      "ある行為や状況をひどく嫌う",
+      "～することが大嫌いである",
+      "敵意や反感を持つ"
+    ],
+    "it": [
+      "Provare un sentimento intenso di avversione o ostilità verso qualcuno o qualcosa.",
+      "Considerare un’attività o una situazione estremamente sgradevole.",
+      "Detestare il fatto di compiere una determinata azione.",
+      "Nutrire una forte antipatia o inimicizia."
+    ]
+  },
+
+  "nuance": {
+    "ja": "単なる好みの欠如を表すnon piacereよりもはるかに強く、対象に対する強い嫌悪・反感・敵意を示す。日常会話ではodio aspettareのように、実際の憎悪ではなく「待つのが大嫌いだ」という誇張的な意味でも頻繁に使われる。人を目的語にすると非常に強い表現になるため、軽い不満にはnon mi piaceやnon sopportoを使うほうが穏当な場合がある。",
+    "it": "È molto più forte di non piacere e indica una profonda avversione, antipatia o ostilità. Nel linguaggio quotidiano può essere usato in modo enfatico, come in odio aspettare, senza esprimere un vero sentimento di odio. Se riferito direttamente a una persona, può risultare particolarmente duro."
+  },
+
+  "etymology": {
+    "ja": "ラテン語odium（憎しみ、嫌悪）から作られた後期ラテン語odiareに由来する。odiumはイタリア語odio、フランス語haineとは別系統ながら英語odiumやodiousにも直接受け継がれている。",
+    "it": "Dal latino tardo odiare, derivato dal sostantivo latino odium, «odio, avversione». Dalla stessa base derivano l’italiano odio e parole dotte come odioso."
+  },
+
+  "minimal": [
+    {
+      "word": "odiare",
+      "ja": "人・物・行為に強い嫌悪や敵意を抱く",
+      "it": "provare una forte avversione o ostilità verso qualcuno o qualcosa"
+    },
+    {
+      "word": "non piacere",
+      "ja": "好みに合わない、好きではない",
+      "it": "non risultare gradevole, senza implicare necessariamente una forte avversione"
+    },
+    {
+      "word": "detestare",
+      "ja": "非常に強く嫌悪し、我慢ならないと感じる",
+      "it": "provare un’avversione particolarmente intensa"
+    },
+    {
+      "word": "non sopportare",
+      "ja": "人・物・状況を耐え難いと感じる",
+      "it": "non riuscire a tollerare una persona, una cosa o una situazione"
+    }
+  ],
+
+  "synonyms": [
+    "detestare",
+    "aborrire",
+    "disprezzare",
+    "avversare",
+    "non sopportare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "hate",
+      "detest",
+      "loathe"
+    ],
+    "de": [
+      "hassen",
+      "verabscheuen",
+      "nicht ausstehen können"
+    ],
+    "fr": [
+      "détester",
+      "haïr",
+      "avoir horreur de"
+    ],
+    "es": [
+      "odiar",
+      "detestar",
+      "aborrecer"
+    ]
+  },
+
+  "collocations": [
+    "odiare qualcuno",
+    "odiare qualcosa",
+    "odiare profondamente",
+    "odiare cordialmente",
+    "odiare a morte",
+    "odiare con tutto il cuore",
+    "odiare fare qualcosa",
+    "odiare aspettare",
+    "odiare perdere",
+    "odiare lavorare",
+    "odiare alzarsi presto",
+    "odiare essere interrotto",
+    "odiare che qualcuno faccia qualcosa",
+    "amare e odiare",
+    "farsi odiare",
+    "essere odiato da tutti",
+    "imparare a odiare",
+    "odiare se stessi"
+  ],
+
+  "examples": [
+    {
+      "it": "Odio aspettare quando qualcuno è in ritardo.",
+      "ja": "誰かが遅刻しているときに待たされるのが大嫌いだ。"
+    },
+    {
+      "it": "Da bambino odiavo mangiare le verdure.",
+      "ja": "子どものころ、私は野菜を食べるのが大嫌いだった。"
+    },
+    {
+      "it": "Non odio quella persona, ma non mi fido di lei.",
+      "ja": "私はその人を憎んではいないが、信用していない。"
+    },
+    {
+      "it": "Lei odia che gli altri tocchino le sue cose.",
+      "ja": "彼女は他人が自分の物に触れるのをひどく嫌う。"
+    },
+    {
+      "it": "Ho sempre odiato alzarmi presto.",
+      "ja": "私は昔から早起きが大嫌いだ。"
+    },
+    {
+      "it": "Non vorrei farmi odiare dai miei colleghi.",
+      "ja": "同僚たちから嫌われたくはない。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "odio",
+        "odi",
+        "odia",
+        "odiamo",
+        "odiate",
+        "odiano"
+      ],
+
+      "Imperfetto": [
+        "odiavo",
+        "odiavi",
+        "odiava",
+        "odiavamo",
+        "odiavate",
+        "odiavano"
+      ],
+
+      "Passato prossimo": [
+        "ho odiato",
+        "hai odiato",
+        "ha odiato",
+        "abbiamo odiato",
+        "avete odiato",
+        "hanno odiato"
+      ],
+
+      "Passato remoto": [
+        "odiai",
+        "odiasti",
+        "odiò",
+        "odiammo",
+        "odiaste",
+        "odiarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo odiato",
+        "avevi odiato",
+        "aveva odiato",
+        "avevamo odiato",
+        "avevate odiato",
+        "avevano odiato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi odiato",
+        "avesti odiato",
+        "ebbe odiato",
+        "avemmo odiato",
+        "aveste odiato",
+        "ebbero odiato"
+      ],
+
+      "Futuro semplice": [
+        "odierò",
+        "odierai",
+        "odierà",
+        "odieremo",
+        "odierete",
+        "odieranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò odiato",
+        "avrai odiato",
+        "avrà odiato",
+        "avremo odiato",
+        "avrete odiato",
+        "avranno odiato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "odi",
+        "odi",
+        "odi",
+        "odiamo",
+        "odiate",
+        "odino"
+      ],
+
+      "Imperfetto": [
+        "odiassi",
+        "odiassi",
+        "odiasse",
+        "odiassimo",
+        "odiaste",
+        "odiassero"
+      ],
+
+      "Passato": [
+        "abbia odiato",
+        "abbia odiato",
+        "abbia odiato",
+        "abbiamo odiato",
+        "abbiate odiato",
+        "abbiano odiato"
+      ],
+
+      "Trapassato": [
+        "avessi odiato",
+        "avessi odiato",
+        "avesse odiato",
+        "avessimo odiato",
+        "aveste odiato",
+        "avessero odiato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "odierei",
+        "odieresti",
+        "odierebbe",
+        "odieremmo",
+        "odiereste",
+        "odierebbero"
+      ],
+
+      "Passato": [
+        "avrei odiato",
+        "avresti odiato",
+        "avrebbe odiato",
+        "avremmo odiato",
+        "avreste odiato",
+        "avrebbero odiato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "odia",
+        "odi",
+        "odiamo",
+        "odiate",
+        "odino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "odiare",
+        "avere odiato",
+        "odiante",
+        "odiato",
+        "odiando",
+        "avendo odiato"
+      ]
+    }
+  }
+},
+{
+  "id": "detestare",
+  "sid": "2026-00080",
+  "word": "detestare",
+  "ipa": "/deteˈstare/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "detestato",
+    "gerundPresent": "detestando",
+    "pattern": "detestare qualcuno o qualcosa / detestare + infinito / detestare che + congiuntivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "emotional"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "relationships",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人・物・行為などをひどく嫌う",
+      "強い嫌悪感を抱く、忌み嫌う",
+      "ある状況を耐え難いと感じる",
+      "人の性質や振る舞いに強い反感を抱く"
+    ],
+    "it": [
+      "Provare una fortissima avversione verso qualcuno o qualcosa.",
+      "Considerare una persona, un comportamento o una situazione profondamente sgradevoli.",
+      "Non tollerare un’attività o una circostanza.",
+      "Nutrire una marcata antipatia o ripugnanza."
+    ]
+  },
+
+  "nuance": {
+    "ja": "非常に強い嫌悪を表すが、odiareのような敵意や憎しみそのものよりも、「不快で耐えられない」「心底嫌いだ」という拒絶感に重点が置かれることが多い。人だけでなく、騒音、偽善、待つこと、早起きなどにも広く使える。日常会話では強調表現として使われる一方、対象が人の場合はかなり厳しい表現となる。",
+    "it": "Esprime un’avversione molto intensa. Rispetto a odiare, può mettere maggiormente in rilievo il disgusto, l’insofferenza o il rifiuto, senza implicare necessariamente un’autentica inimicizia. È comune con comportamenti, attività e situazioni; riferito direttamente a una persona, rimane un’espressione molto forte."
+  },
+
+  "etymology": {
+    "ja": "ラテン語detestari（呪う、拒絶する、証人として神々を呼び求める）に由来する。de-とtestari（証言する、証人とする）から成り、もともとは証人を立てて何かを強く非難・拒絶することを表した。testimoneやtestimoniareとも語源的に関係する。",
+    "it": "Dal latino detestari, formato da de- e testari, «chiamare a testimone, testimoniare». In origine significava respingere o condannare solennemente qualcosa invocando una testimonianza; da qui si è sviluppato il significato di provare una forte avversione."
+  },
+
+  "minimal": [
+    {
+      "word": "detestare",
+      "ja": "不快で耐え難いものとして、強く嫌悪する",
+      "it": "provare una fortissima avversione o insofferenza"
+    },
+    {
+      "word": "odiare",
+      "ja": "強い嫌悪に加え、憎しみや敵意を抱く",
+      "it": "provare odio, avversione o ostilità verso qualcuno o qualcosa"
+    },
+    {
+      "word": "non sopportare",
+      "ja": "我慢したり耐えたりできないと感じる",
+      "it": "essere incapaci di tollerare qualcuno o qualcosa"
+    },
+    {
+      "word": "disprezzare",
+      "ja": "相手に価値がないと考え、軽蔑する",
+      "it": "considerare qualcuno o qualcosa privi di valore e manifestare disprezzo"
+    }
+  ],
+
+  "synonyms": [
+    "odiare",
+    "aborrire",
+    "non sopportare",
+    "avversare",
+    "disprezzare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "detest",
+      "hate",
+      "loathe"
+    ],
+    "de": [
+      "verabscheuen",
+      "hassen",
+      "nicht ausstehen können"
+    ],
+    "fr": [
+      "détester",
+      "haïr",
+      "avoir horreur de"
+    ],
+    "es": [
+      "detestar",
+      "odiar",
+      "aborrecer"
+    ]
+  },
+
+  "collocations": [
+    "detestare qualcuno",
+    "detestare qualcosa",
+    "detestare profondamente",
+    "detestare cordialmente",
+    "detestare fare qualcosa",
+    "detestare aspettare",
+    "detestare perdere",
+    "detestare mentire",
+    "detestare alzarsi presto",
+    "detestare essere interrotto",
+    "detestare il rumore",
+    "detestare la falsità",
+    "detestare l’ipocrisia",
+    "detestare la violenza",
+    "detestare che qualcuno faccia qualcosa",
+    "farsi detestare",
+    "essere detestato da tutti"
+  ],
+
+  "examples": [
+    {
+      "it": "Detesto aspettare le persone che arrivano sempre in ritardo.",
+      "ja": "いつも遅れて来る人を待つのが大嫌いだ。"
+    },
+    {
+      "it": "Lei detesta il rumore quando cerca di lavorare.",
+      "ja": "彼女は仕事をしようとしているときの騒音が大嫌いだ。"
+    },
+    {
+      "it": "Da bambino detestavo alzarmi presto.",
+      "ja": "子どものころ、私は早起きが大嫌いだった。"
+    },
+    {
+      "it": "Ho sempre detestato l’ipocrisia.",
+      "ja": "私は昔から偽善をひどく嫌っている。"
+    },
+    {
+      "it": "Detesta che gli altri prendano decisioni al suo posto.",
+      "ja": "彼は他人が自分に代わって決定することをひどく嫌う。"
+    },
+    {
+      "it": "Con quel comportamento si è fatto detestare da tutti.",
+      "ja": "その振る舞いによって、彼は皆から嫌われるようになった。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "detesto",
+        "detesti",
+        "detesta",
+        "detestiamo",
+        "detestate",
+        "detestano"
+      ],
+
+      "Imperfetto": [
+        "detestavo",
+        "detestavi",
+        "detestava",
+        "detestavamo",
+        "detestavate",
+        "detestavano"
+      ],
+
+      "Passato prossimo": [
+        "ho detestato",
+        "hai detestato",
+        "ha detestato",
+        "abbiamo detestato",
+        "avete detestato",
+        "hanno detestato"
+      ],
+
+      "Passato remoto": [
+        "detestai",
+        "detestasti",
+        "detestò",
+        "detestammo",
+        "detestaste",
+        "detestarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo detestato",
+        "avevi detestato",
+        "aveva detestato",
+        "avevamo detestato",
+        "avevate detestato",
+        "avevano detestato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi detestato",
+        "avesti detestato",
+        "ebbe detestato",
+        "avemmo detestato",
+        "aveste detestato",
+        "ebbero detestato"
+      ],
+
+      "Futuro semplice": [
+        "detesterò",
+        "detesterai",
+        "detesterà",
+        "detesteremo",
+        "detesterete",
+        "detesteranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò detestato",
+        "avrai detestato",
+        "avrà detestato",
+        "avremo detestato",
+        "avrete detestato",
+        "avranno detestato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "detesti",
+        "detesti",
+        "detesti",
+        "detestiamo",
+        "detestiate",
+        "detestino"
+      ],
+
+      "Imperfetto": [
+        "detestassi",
+        "detestassi",
+        "detestasse",
+        "detestassimo",
+        "detestaste",
+        "detestassero"
+      ],
+
+      "Passato": [
+        "abbia detestato",
+        "abbia detestato",
+        "abbia detestato",
+        "abbiamo detestato",
+        "abbiate detestato",
+        "abbiano detestato"
+      ],
+
+      "Trapassato": [
+        "avessi detestato",
+        "avessi detestato",
+        "avesse detestato",
+        "avessimo detestato",
+        "aveste detestato",
+        "avessero detestato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "detesterei",
+        "detesteresti",
+        "detesterebbe",
+        "detesteremmo",
+        "detestereste",
+        "detesterebbero"
+      ],
+
+      "Passato": [
+        "avrei detestato",
+        "avresti detestato",
+        "avrebbe detestato",
+        "avremmo detestato",
+        "avreste detestato",
+        "avrebbero detestato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "detesta",
+        "detesti",
+        "detestiamo",
+        "detestate",
+        "detestino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "detestare",
+        "avere detestato",
+        "detestante",
+        "detestato",
+        "detestando",
+        "avendo detestato"
+      ]
+    }
+  }
+},
+{
+  "id": "disprezzare",
+  "sid": "2026-00081",
+  "word": "disprezzare",
+  "ipa": "/dispretˈtsare/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "disprezzato",
+    "gerundPresent": "disprezzando",
+    "pattern": "disprezzare qualcuno o qualcosa / disprezzare qualcuno per + motivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "emotional"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "relationships",
+      "literature",
+      "journalism"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人や物を軽蔑する、見下す",
+      "価値がない、劣っていると考える",
+      "提案・助言・危険などを顧みない",
+      "物や機会を取るに足りないものとして退ける"
+    ],
+    "it": [
+      "Considerare qualcuno o qualcosa privi di valore o inferiori.",
+      "Provare e manifestare disprezzo verso una persona, un comportamento o un’idea.",
+      "Non tenere nella dovuta considerazione un consiglio, un’opportunità o un pericolo.",
+      "Rifiutare qualcosa perché ritenuto indegno o poco importante."
+    ]
+  },
+
+  "nuance": {
+    "ja": "対象を単に嫌うのではなく、「価値が低い」「尊敬に値しない」「自分より劣っている」と判断して見下すことを表す。odiareやdetestareが主に強い感情的嫌悪を示すのに対し、disprezzareには否定的な価値判断や優越意識が含まれる。人に対して使うと侮辱的で非常に強い表現になる。",
+    "it": "Non indica semplicemente antipatia, ma un giudizio negativo sul valore o sulla dignità di qualcuno o qualcosa. Odiare e detestare esprimono soprattutto una forte avversione emotiva; disprezzare implica invece svalutazione, mancanza di rispetto e talvolta un senso di superiorità."
+  },
+
+  "etymology": {
+    "ja": "接頭辞dis-と動詞prezzare（値を付ける、評価する）から成る。prezzareは名詞prezzoを介してラテン語pretium（価格、価値）に由来する。したがって語源的には「価値を認めない」「低く評価する」という意味である。",
+    "it": "Formato dal prefisso dis- e da prezzare, derivato da prezzo, che risale al latino pretium, «prezzo, valore». Etimologicamente significa quindi non attribuire valore o valutare negativamente."
+  },
+
+  "minimal": [
+    {
+      "word": "disprezzare",
+      "ja": "価値や尊厳を認めず、見下す",
+      "it": "negare valore o dignità a qualcuno o qualcosa"
+    },
+    {
+      "word": "odiare",
+      "ja": "人や物に強い憎しみ・嫌悪・敵意を抱く",
+      "it": "provare una forte avversione o ostilità"
+    },
+    {
+      "word": "detestare",
+      "ja": "対象を不快で耐え難いものとしてひどく嫌う",
+      "it": "provare una fortissima avversione o insofferenza"
+    },
+    {
+      "word": "sottovalutare",
+      "ja": "実際よりも能力・価値・重要性を低く評価する",
+      "it": "attribuire a qualcuno o qualcosa meno valore o importanza di quanto meritino"
+    }
+  ],
+
+  "synonyms": [
+    "sdegnare",
+    "sprezzare",
+    "denigrare",
+    "svalutare",
+    "snobbare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "despise",
+      "scorn",
+      "look down on"
+    ],
+    "de": [
+      "verachten",
+      "geringschätzen",
+      "herabsehen auf"
+    ],
+    "fr": [
+      "mépriser",
+      "dédaigner",
+      "regarder de haut"
+    ],
+    "es": [
+      "despreciar",
+      "desdeñar",
+      "menospreciar"
+    ]
+  },
+
+  "collocations": [
+    "disprezzare qualcuno",
+    "disprezzare qualcosa",
+    "disprezzare profondamente",
+    "disprezzare apertamente",
+    "disprezzare se stessi",
+    "disprezzare gli altri",
+    "disprezzare una persona",
+    "disprezzare un avversario",
+    "disprezzare i deboli",
+    "disprezzare la violenza",
+    "disprezzare la menzogna",
+    "disprezzare il denaro",
+    "disprezzare il pericolo",
+    "disprezzare un consiglio",
+    "disprezzare un’offerta",
+    "disprezzare qualcuno per qualcosa",
+    "sentirsi disprezzato",
+    "essere disprezzato da tutti",
+    "farsi disprezzare"
+  ],
+
+  "examples": [
+    {
+      "it": "Non bisogna disprezzare chi ha meno esperienza.",
+      "ja": "経験の少ない人を見下してはいけない。"
+    },
+    {
+      "it": "Disprezza le persone che mentono per interesse.",
+      "ja": "彼は自分の利益のためにうそをつく人を軽蔑している。"
+    },
+    {
+      "it": "Mi sono sentito disprezzato dai miei colleghi.",
+      "ja": "私は同僚たちから軽蔑されているように感じた。"
+    },
+    {
+      "it": "Non disprezzare questa opportunità solo perché sembra modesta.",
+      "ja": "控えめに見えるというだけで、この機会を軽視してはいけない。"
+    },
+    {
+      "it": "Aveva sempre disprezzato il denaro e il potere.",
+      "ja": "彼は昔から金銭と権力を軽蔑していた。"
+    },
+    {
+      "it": "Sottovalutare un avversario non significa necessariamente disprezzarlo.",
+      "ja": "相手を過小評価することが、必ずしも相手を軽蔑することを意味するわけではない。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "disprezzo",
+        "disprezzi",
+        "disprezza",
+        "disprezziamo",
+        "disprezzate",
+        "disprezzano"
+      ],
+
+      "Imperfetto": [
+        "disprezzavo",
+        "disprezzavi",
+        "disprezzava",
+        "disprezzavamo",
+        "disprezzavate",
+        "disprezzavano"
+      ],
+
+      "Passato prossimo": [
+        "ho disprezzato",
+        "hai disprezzato",
+        "ha disprezzato",
+        "abbiamo disprezzato",
+        "avete disprezzato",
+        "hanno disprezzato"
+      ],
+
+      "Passato remoto": [
+        "disprezzai",
+        "disprezzasti",
+        "disprezzò",
+        "disprezzammo",
+        "disprezzaste",
+        "disprezzarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo disprezzato",
+        "avevi disprezzato",
+        "aveva disprezzato",
+        "avevamo disprezzato",
+        "avevate disprezzato",
+        "avevano disprezzato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi disprezzato",
+        "avesti disprezzato",
+        "ebbe disprezzato",
+        "avemmo disprezzato",
+        "aveste disprezzato",
+        "ebbero disprezzato"
+      ],
+
+      "Futuro semplice": [
+        "disprezzerò",
+        "disprezzerai",
+        "disprezzerà",
+        "disprezzeremo",
+        "disprezzerete",
+        "disprezzeranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò disprezzato",
+        "avrai disprezzato",
+        "avrà disprezzato",
+        "avremo disprezzato",
+        "avrete disprezzato",
+        "avranno disprezzato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "disprezzi",
+        "disprezzi",
+        "disprezzi",
+        "disprezziamo",
+        "disprezziate",
+        "disprezzino"
+      ],
+
+      "Imperfetto": [
+        "disprezzassi",
+        "disprezzassi",
+        "disprezzasse",
+        "disprezzassimo",
+        "disprezzaste",
+        "disprezzassero"
+      ],
+
+      "Passato": [
+        "abbia disprezzato",
+        "abbia disprezzato",
+        "abbia disprezzato",
+        "abbiamo disprezzato",
+        "abbiate disprezzato",
+        "abbiano disprezzato"
+      ],
+
+      "Trapassato": [
+        "avessi disprezzato",
+        "avessi disprezzato",
+        "avesse disprezzato",
+        "avessimo disprezzato",
+        "aveste disprezzato",
+        "avessero disprezzato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "disprezzerei",
+        "disprezzeresti",
+        "disprezzerebbe",
+        "disprezzeremmo",
+        "disprezzereste",
+        "disprezzerebbero"
+      ],
+
+      "Passato": [
+        "avrei disprezzato",
+        "avresti disprezzato",
+        "avrebbe disprezzato",
+        "avremmo disprezzato",
+        "avreste disprezzato",
+        "avrebbero disprezzato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "disprezza",
+        "disprezzi",
+        "disprezziamo",
+        "disprezzate",
+        "disprezzino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "disprezzare",
+        "avere disprezzato",
+        "disprezzante",
+        "disprezzato",
+        "disprezzando",
+        "avendo disprezzato"
+      ]
+    }
+  }
+},
+{
+  "id": "sottovalutare",
+  "sid": "2026-00082",
+  "word": "sottovalutare",
+  "ipa": "/sottovaluˈtare/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "sottovalutato",
+    "gerundPresent": "sottovalutando",
+    "pattern": "sottovalutare qualcuno o qualcosa / sottovalutare l’importanza di + nome"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "journalism"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人の能力・価値などを実際より低く評価する",
+      "問題・危険・影響などを軽く見る",
+      "必要な時間・費用・労力などを少なく見積もる",
+      "物や資産の価値を実際より低く算定する"
+    ],
+    "it": [
+      "Attribuire a qualcuno o qualcosa un valore inferiore a quello reale.",
+      "Considerare un problema, un rischio o un effetto meno importante o grave di quanto sia.",
+      "Stimare in misura insufficiente il tempo, il costo o l’impegno necessari.",
+      "Calcolare il valore economico di un bene al di sotto del suo valore effettivo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "意図的な軽蔑ではなく、能力・重要性・危険性・必要量などを誤って低く見積もることに重点がある。disprezzareには対象を価値のないものとして見下す感情や態度が含まれるが、sottovalutareは判断・予測・計算の誤りとして使える。反対語はsopravvalutareである。",
+    "it": "Indica una valutazione inferiore alla realtà e non implica necessariamente disprezzo. Disprezzare comporta un atteggiamento negativo o una mancanza di rispetto, mentre sottovalutare può dipendere da un errore di giudizio, di previsione o di calcolo. Il contrario è sopravvalutare."
+  },
+
+  "etymology": {
+    "ja": "接頭的要素sotto-（下に、基準より低く）とvalutare（評価する）から成る。valutareは名詞valutaを介してvalere（価値がある）と関係し、最終的にはラテン語valere（強い、価値がある）に由来する。",
+    "it": "Formato da sotto-, che indica inferiorità rispetto a una misura o a un livello, e valutare. Quest’ultimo appartiene alla famiglia di valore e valere, dal latino valere, «essere forte, avere valore»."
+  },
+
+  "minimal": [
+    {
+      "word": "sottovalutare",
+      "ja": "能力・価値・重要性などを実際より低く評価する",
+      "it": "attribuire un valore o un’importanza inferiori a quelli reali"
+    },
+    {
+      "word": "disprezzare",
+      "ja": "価値や尊厳を認めず、軽蔑して見下す",
+      "it": "negare valore o dignità manifestando disprezzo"
+    },
+    {
+      "word": "trascurare",
+      "ja": "必要な注意や配慮を払わず、なおざりにする",
+      "it": "non dedicare a qualcosa l’attenzione o la cura necessarie"
+    },
+    {
+      "word": "sopravvalutare",
+      "ja": "能力・価値・重要性などを実際より高く評価する",
+      "it": "attribuire un valore o un’importanza superiori a quelli reali"
+    }
+  ],
+
+  "synonyms": [
+    "svalutare",
+    "minimizzare",
+    "sminuire",
+    "trascurare",
+    "considerare poco"
+  ],
+
+  "equivalents": {
+    "en": [
+      "underestimate",
+      "undervalue",
+      "play down"
+    ],
+    "de": [
+      "unterschätzen",
+      "unterbewerten",
+      "verharmlosen"
+    ],
+    "fr": [
+      "sous-estimer",
+      "sous-évaluer",
+      "minimiser"
+    ],
+    "es": [
+      "subestimar",
+      "infravalorar",
+      "minimizar"
+    ]
+  },
+
+  "collocations": [
+    "sottovalutare qualcuno",
+    "sottovalutare un avversario",
+    "sottovalutare le proprie capacità",
+    "sottovalutare un problema",
+    "sottovalutare una difficoltà",
+    "sottovalutare un rischio",
+    "sottovalutare un pericolo",
+    "sottovalutare le conseguenze",
+    "sottovalutare l’impatto",
+    "sottovalutare l’importanza",
+    "sottovalutare il costo",
+    "sottovalutare il tempo necessario",
+    "sottovalutare la complessità",
+    "sottovalutare la situazione",
+    "non bisogna sottovalutare",
+    "tendere a sottovalutare",
+    "essere stato sottovalutato",
+    "facile da sottovalutare"
+  ],
+
+  "examples": [
+    {
+      "it": "Non bisogna sottovalutare i rischi di questa decisione.",
+      "ja": "この決定がもたらす危険を軽視してはいけない。"
+    },
+    {
+      "it": "Abbiamo sottovalutato il tempo necessario per finire il lavoro.",
+      "ja": "私たちは仕事を終えるのに必要な時間を少なく見積もっていた。"
+    },
+    {
+      "it": "L’avversario sembrava debole, ma lo avevamo sottovalutato.",
+      "ja": "相手は弱そうに見えたが、私たちは相手を過小評価していた。"
+    },
+    {
+      "it": "Non sottovalutare le tue capacità.",
+      "ja": "自分の能力を過小評価してはいけない。"
+    },
+    {
+      "it": "L’importanza di questo cambiamento è stata sottovalutata.",
+      "ja": "この変化の重要性は過小評価されていた。"
+    },
+    {
+      "it": "Temo che abbiano sottovalutato la complessità del problema.",
+      "ja": "彼らが問題の複雑さを軽く見積もったのではないかと心配している。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "sottovaluto",
+        "sottovaluti",
+        "sottovaluta",
+        "sottovalutiamo",
+        "sottovalutate",
+        "sottovalutano"
+      ],
+
+      "Imperfetto": [
+        "sottovalutavo",
+        "sottovalutavi",
+        "sottovalutava",
+        "sottovalutavamo",
+        "sottovalutavate",
+        "sottovalutavano"
+      ],
+
+      "Passato prossimo": [
+        "ho sottovalutato",
+        "hai sottovalutato",
+        "ha sottovalutato",
+        "abbiamo sottovalutato",
+        "avete sottovalutato",
+        "hanno sottovalutato"
+      ],
+
+      "Passato remoto": [
+        "sottovalutai",
+        "sottovalutasti",
+        "sottovalutò",
+        "sottovalutammo",
+        "sottovalutaste",
+        "sottovalutarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo sottovalutato",
+        "avevi sottovalutato",
+        "aveva sottovalutato",
+        "avevamo sottovalutato",
+        "avevate sottovalutato",
+        "avevano sottovalutato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi sottovalutato",
+        "avesti sottovalutato",
+        "ebbe sottovalutato",
+        "avemmo sottovalutato",
+        "aveste sottovalutato",
+        "ebbero sottovalutato"
+      ],
+
+      "Futuro semplice": [
+        "sottovaluterò",
+        "sottovaluterai",
+        "sottovaluterà",
+        "sottovaluteremo",
+        "sottovaluterete",
+        "sottovaluteranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò sottovalutato",
+        "avrai sottovalutato",
+        "avrà sottovalutato",
+        "avremo sottovalutato",
+        "avrete sottovalutato",
+        "avranno sottovalutato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "sottovaluti",
+        "sottovaluti",
+        "sottovaluti",
+        "sottovalutiamo",
+        "sottovalutiate",
+        "sottovalutino"
+      ],
+
+      "Imperfetto": [
+        "sottovalutassi",
+        "sottovalutassi",
+        "sottovalutasse",
+        "sottovalutassimo",
+        "sottovalutaste",
+        "sottovalutassero"
+      ],
+
+      "Passato": [
+        "abbia sottovalutato",
+        "abbia sottovalutato",
+        "abbia sottovalutato",
+        "abbiamo sottovalutato",
+        "abbiate sottovalutato",
+        "abbiano sottovalutato"
+      ],
+
+      "Trapassato": [
+        "avessi sottovalutato",
+        "avessi sottovalutato",
+        "avesse sottovalutato",
+        "avessimo sottovalutato",
+        "aveste sottovalutato",
+        "avessero sottovalutato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "sottovaluterei",
+        "sottovaluteresti",
+        "sottovaluterebbe",
+        "sottovaluteremmo",
+        "sottovalutereste",
+        "sottovaluterebbero"
+      ],
+
+      "Passato": [
+        "avrei sottovalutato",
+        "avresti sottovalutato",
+        "avrebbe sottovalutato",
+        "avremmo sottovalutato",
+        "avreste sottovalutato",
+        "avrebbero sottovalutato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "sottovaluta",
+        "sottovaluti",
+        "sottovalutiamo",
+        "sottovalutate",
+        "sottovalutino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "sottovalutare",
+        "avere sottovalutato",
+        "sottovalutante",
+        "sottovalutato",
+        "sottovalutando",
+        "avendo sottovalutato"
+      ]
+    }
+  }
+},
+{
+  "id": "sopravvalutare",
+  "sid": "2026-00083",
+  "word": "sopravvalutare",
+  "ipa": "/sopravvaluˈtare/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "sopravvalutato",
+    "gerundPresent": "sopravvalutando",
+    "pattern": "sopravvalutare qualcuno o qualcosa / sopravvalutare l’importanza di + nome"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "journalism"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人の能力・価値などを実際より高く評価する",
+      "物事の重要性・効果・影響などを過大評価する",
+      "期待される成果や成功の可能性を高く見積もりすぎる",
+      "物や資産の経済的価値を実際より高く算定する"
+    ],
+    "it": [
+      "Attribuire a qualcuno o qualcosa un valore superiore a quello reale.",
+      "Considerare l’importanza, l’efficacia o l’influenza di qualcosa maggiori di quanto siano.",
+      "Stimare eccessivamente le possibilità di successo o i risultati attesi.",
+      "Calcolare il valore economico di un bene al di sopra del suo valore effettivo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "能力・重要性・効果・価値などを、実際以上に高く判断することを表す。必ずしも称賛や好意を意味せず、判断・予測・計算の誤りとして使われる。sottovalutareの直接的な反対語である。人を目的語とする場合は、能力への期待が過剰であったという意味にも、その人が一般に高く評価されすぎているという意味にもなる。",
+    "it": "Indica una valutazione superiore alla realtà e non implica necessariamente ammirazione. Può trattarsi di un errore di giudizio, di previsione o di calcolo. È il contrario diretto di sottovalutare. Riferito a una persona, può indicare aspettative eccessive oppure un riconoscimento ritenuto superiore ai suoi meriti."
+  },
+
+  "etymology": {
+    "ja": "接頭的要素sopra-（上に、基準を超えて）とvalutare（評価する）から成る。語の結合によってsopraの末尾のaが脱落し、後続するvが重なってsopravvalutareとなった。valutareは最終的にラテン語valere（強い、価値がある）に由来する。",
+    "it": "Formato da sopra- e valutare. Nell’unione, la vocale finale di sopra cade e la consonante iniziale di valutare viene rafforzata, producendo sopravvalutare con due v. Valutare appartiene alla famiglia di valore e risale al latino valere."
+  },
+
+  "minimal": [
+    {
+      "word": "sopravvalutare",
+      "ja": "能力・価値・重要性などを実際より高く評価する",
+      "it": "attribuire un valore o un’importanza superiori a quelli reali"
+    },
+    {
+      "word": "sottovalutare",
+      "ja": "能力・価値・重要性などを実際より低く評価する",
+      "it": "attribuire un valore o un’importanza inferiori a quelli reali"
+    },
+    {
+      "word": "apprezzare",
+      "ja": "人や物の良さ・価値を認め、好意的に評価する",
+      "it": "riconoscere e valutare positivamente le qualità di qualcuno o qualcosa"
+    },
+    {
+      "word": "idealizzare",
+      "ja": "欠点を無視して、実際以上に完全なものとして捉える",
+      "it": "rappresentare qualcuno o qualcosa come migliori o più perfetti della realtà"
+    }
+  ],
+
+  "synonyms": [
+    "sovrastimare",
+    "sovravalutare",
+    "esagerare",
+    "idealizzare",
+    "attribuire troppo valore"
+  ],
+
+  "equivalents": {
+    "en": [
+      "overestimate",
+      "overvalue",
+      "overrate"
+    ],
+    "de": [
+      "überschätzen",
+      "überbewerten",
+      "zu hoch einschätzen"
+    ],
+    "fr": [
+      "surestimer",
+      "surévaluer",
+      "exagérer"
+    ],
+    "es": [
+      "sobreestimar",
+      "sobrevalorar",
+      "exagerar"
+    ]
+  },
+
+  "collocations": [
+    "sopravvalutare qualcuno",
+    "sopravvalutare se stessi",
+    "sopravvalutare le proprie capacità",
+    "sopravvalutare un avversario",
+    "sopravvalutare un risultato",
+    "sopravvalutare un successo",
+    "sopravvalutare un vantaggio",
+    "sopravvalutare un’opportunità",
+    "sopravvalutare l’importanza",
+    "sopravvalutare l’efficacia",
+    "sopravvalutare l’impatto",
+    "sopravvalutare il valore",
+    "sopravvalutare la probabilità",
+    "sopravvalutare il proprio ruolo",
+    "tendere a sopravvalutare",
+    "non bisogna sopravvalutare",
+    "essere sopravvalutato",
+    "ampiamente sopravvalutato"
+  ],
+
+  "examples": [
+    {
+      "it": "Non bisogna sopravvalutare l’importanza di un singolo risultato.",
+      "ja": "一つの結果の重要性を過大評価してはいけない。"
+    },
+    {
+      "it": "Abbiamo sopravvalutato le possibilità di successo del progetto.",
+      "ja": "私たちはその計画が成功する可能性を高く見積もりすぎた。"
+    },
+    {
+      "it": "Tende a sopravvalutare le proprie capacità.",
+      "ja": "彼は自分の能力を過大評価する傾向がある。"
+    },
+    {
+      "it": "Il valore dell’immobile era stato sopravvalutato.",
+      "ja": "その不動産の価値は過大に算定されていた。"
+    },
+    {
+      "it": "Questo vantaggio non deve essere sopravvalutato.",
+      "ja": "この利点を過大評価してはならない。"
+    },
+    {
+      "it": "Forse abbiamo sopravvalutato l’efficacia della nuova strategia.",
+      "ja": "私たちは新しい戦略の有効性を過大評価したのかもしれない。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "sopravvaluto",
+        "sopravvaluti",
+        "sopravvaluta",
+        "sopravvalutiamo",
+        "sopravvalutate",
+        "sopravvalutano"
+      ],
+
+      "Imperfetto": [
+        "sopravvalutavo",
+        "sopravvalutavi",
+        "sopravvalutava",
+        "sopravvalutavamo",
+        "sopravvalutavate",
+        "sopravvalutavano"
+      ],
+
+      "Passato prossimo": [
+        "ho sopravvalutato",
+        "hai sopravvalutato",
+        "ha sopravvalutato",
+        "abbiamo sopravvalutato",
+        "avete sopravvalutato",
+        "hanno sopravvalutato"
+      ],
+
+      "Passato remoto": [
+        "sopravvalutai",
+        "sopravvalutasti",
+        "sopravvalutò",
+        "sopravvalutammo",
+        "sopravvalutaste",
+        "sopravvalutarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo sopravvalutato",
+        "avevi sopravvalutato",
+        "aveva sopravvalutato",
+        "avevamo sopravvalutato",
+        "avevate sopravvalutato",
+        "avevano sopravvalutato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi sopravvalutato",
+        "avesti sopravvalutato",
+        "ebbe sopravvalutato",
+        "avemmo sopravvalutato",
+        "aveste sopravvalutato",
+        "ebbero sopravvalutato"
+      ],
+
+      "Futuro semplice": [
+        "sopravvaluterò",
+        "sopravvaluterai",
+        "sopravvaluterà",
+        "sopravvaluteremo",
+        "sopravvaluterete",
+        "sopravvaluteranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò sopravvalutato",
+        "avrai sopravvalutato",
+        "avrà sopravvalutato",
+        "avremo sopravvalutato",
+        "avrete sopravvalutato",
+        "avranno sopravvalutato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "sopravvaluti",
+        "sopravvaluti",
+        "sopravvaluti",
+        "sopravvalutiamo",
+        "sopravvalutiate",
+        "sopravvalutino"
+      ],
+
+      "Imperfetto": [
+        "sopravvalutassi",
+        "sopravvalutassi",
+        "sopravvalutasse",
+        "sopravvalutassimo",
+        "sopravvalutaste",
+        "sopravvalutassero"
+      ],
+
+      "Passato": [
+        "abbia sopravvalutato",
+        "abbia sopravvalutato",
+        "abbia sopravvalutato",
+        "abbiamo sopravvalutato",
+        "abbiate sopravvalutato",
+        "abbiano sopravvalutato"
+      ],
+
+      "Trapassato": [
+        "avessi sopravvalutato",
+        "avessi sopravvalutato",
+        "avesse sopravvalutato",
+        "avessimo sopravvalutato",
+        "aveste sopravvalutato",
+        "avessero sopravvalutato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "sopravvaluterei",
+        "sopravvaluteresti",
+        "sopravvaluterebbe",
+        "sopravvaluteremmo",
+        "sopravvalutereste",
+        "sopravvaluterebbero"
+      ],
+
+      "Passato": [
+        "avrei sopravvalutato",
+        "avresti sopravvalutato",
+        "avrebbe sopravvalutato",
+        "avremmo sopravvalutato",
+        "avreste sopravvalutato",
+        "avrebbero sopravvalutato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "sopravvaluta",
+        "sopravvaluti",
+        "sopravvalutiamo",
+        "sopravvalutate",
+        "sopravvalutino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "sopravvalutare",
+        "avere sopravvalutato",
+        "sopravvalutante",
+        "sopravvalutato",
+        "sopravvalutando",
+        "avendo sopravvalutato"
+      ]
+    }
+  }
+},
+{
+  "id": "valutare",
+  "sid": "2026-00084",
+  "word": "valutare",
+  "ipa": "/valuˈtare/",
+  "level": "B1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "valutato",
+    "gerundPresent": "valutando",
+    "pattern": "valutare qualcosa / valutare se + indicativo / valutare di + infinito"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "legal"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "価値・価格・数量などを評価・算定する",
+      "能力・品質・成果などを判断する",
+      "選択肢・可能性・リスクなどを検討する",
+      "事情や証拠を考慮して結論を出す",
+      "一定の基準に基づいて査定・採点する"
+    ],
+    "it": [
+      "Determinare il valore economico o quantitativo di qualcosa.",
+      "Esprimere un giudizio sulle qualità, sulle capacità o sui risultati.",
+      "Esaminare un’opzione, una possibilità o un rischio prima di decidere.",
+      "Considerare elementi, circostanze o prove per formulare un giudizio.",
+      "Attribuire un risultato secondo criteri prestabiliti."
+    ]
+  },
+
+  "nuance": {
+    "ja": "単に「価値があると思う」だけでなく、情報・基準・証拠などに基づいて価値、品質、可能性、危険性を判断することを表す。日常語でも使われるが、ビジネス・学術・法律・行政では特に頻出する。valutare di + 不定詞は「～することを検討する」、valutare seは「～かどうかを検討する」という意味になる。",
+    "it": "Indica un esame finalizzato a determinare valore, qualità, opportunità o rischio sulla base di informazioni e criteri. È comune nella lingua generale e particolarmente frequente nei contesti professionali, accademici, amministrativi e giuridici. Valutare di seguito dall’infinito significa prendere in considerazione una possibile azione."
+  },
+
+  "etymology": {
+    "ja": "名詞valuta（価値、評価額）から作られた動詞で、valutaはvalere（価値がある、効力を持つ）の過去分詞女性形に由来する。valereはラテン語valere（強い、健康である、価値を持つ）にさかのぼる。",
+    "it": "Deriva dal sostantivo valuta, originariamente participio femminile sostantivato di valere. Valere risale al latino valere, «essere forte, stare bene, avere valore»."
+  },
+
+  "minimal": [
+    {
+      "word": "valutare",
+      "ja": "基準や情報に基づいて価値・品質・可能性などを判断する",
+      "it": "formulare un giudizio su valore, qualità o opportunità in base a criteri"
+    },
+    {
+      "word": "stimare",
+      "ja": "価格・数量などを概算する、または人を高く評価する",
+      "it": "calcolare approssimativamente un valore oppure nutrire considerazione per qualcuno"
+    },
+    {
+      "word": "considerare",
+      "ja": "判断の材料として、ある事柄を考慮に入れる",
+      "it": "prendere in esame qualcosa come elemento di riflessione"
+    },
+    {
+      "word": "giudicare",
+      "ja": "人・行為・物事について評価や結論を下す",
+      "it": "formulare un giudizio o una conclusione su qualcuno o qualcosa"
+    }
+  ],
+
+  "synonyms": [
+    "stimare",
+    "considerare",
+    "esaminare",
+    "giudicare",
+    "ponderare",
+    "apprezzare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "evaluate",
+      "assess",
+      "consider"
+    ],
+    "de": [
+      "bewerten",
+      "beurteilen",
+      "abwägen"
+    ],
+    "fr": [
+      "évaluer",
+      "apprécier",
+      "envisager"
+    ],
+    "es": [
+      "evaluar",
+      "valorar",
+      "considerar"
+    ]
+  },
+
+  "collocations": [
+    "valutare qualcosa",
+    "valutare attentamente",
+    "valutare obiettivamente",
+    "valutare positivamente",
+    "valutare negativamente",
+    "valutare una proposta",
+    "valutare una domanda",
+    "valutare un progetto",
+    "valutare un candidato",
+    "valutare una situazione",
+    "valutare un’opportunità",
+    "valutare un’alternativa",
+    "valutare un rischio",
+    "valutare i costi",
+    "valutare i benefici",
+    "valutare le conseguenze",
+    "valutare l’impatto",
+    "valutare le prove",
+    "valutare se procedere",
+    "valutare di fare qualcosa",
+    "essere valutato in base a",
+    "difficile da valutare"
+  ],
+
+  "examples": [
+    {
+      "it": "Dobbiamo valutare attentamente tutte le possibilità.",
+      "ja": "私たちはあらゆる可能性を慎重に検討しなければならない。"
+    },
+    {
+      "it": "L’azienda sta valutando una nuova proposta.",
+      "ja": "会社は新しい提案を検討している。"
+    },
+    {
+      "it": "Il rischio è difficile da valutare con precisione.",
+      "ja": "その危険を正確に評価するのは難しい。"
+    },
+    {
+      "it": "La commissione ha valutato positivamente la domanda.",
+      "ja": "委員会はその申請を肯定的に評価した。"
+    },
+    {
+      "it": "Stiamo valutando se presentare un ricorso.",
+      "ja": "私たちは不服申立てを行うかどうか検討している。"
+    },
+    {
+      "it": "Prima di decidere, bisogna valutare i costi e i benefici.",
+      "ja": "決定する前に、費用と利益を評価する必要がある。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "valuto",
+        "valuti",
+        "valuta",
+        "valutiamo",
+        "valutate",
+        "valutano"
+      ],
+
+      "Imperfetto": [
+        "valutavo",
+        "valutavi",
+        "valutava",
+        "valutavamo",
+        "valutavate",
+        "valutavano"
+      ],
+
+      "Passato prossimo": [
+        "ho valutato",
+        "hai valutato",
+        "ha valutato",
+        "abbiamo valutato",
+        "avete valutato",
+        "hanno valutato"
+      ],
+
+      "Passato remoto": [
+        "valutai",
+        "valutasti",
+        "valutò",
+        "valutammo",
+        "valutaste",
+        "valutarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo valutato",
+        "avevi valutato",
+        "aveva valutato",
+        "avevamo valutato",
+        "avevate valutato",
+        "avevano valutato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi valutato",
+        "avesti valutato",
+        "ebbe valutato",
+        "avemmo valutato",
+        "aveste valutato",
+        "ebbero valutato"
+      ],
+
+      "Futuro semplice": [
+        "valuterò",
+        "valuterai",
+        "valuterà",
+        "valuteremo",
+        "valuterete",
+        "valuteranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò valutato",
+        "avrai valutato",
+        "avrà valutato",
+        "avremo valutato",
+        "avrete valutato",
+        "avranno valutato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "valuti",
+        "valuti",
+        "valuti",
+        "valutiamo",
+        "valutiate",
+        "valutino"
+      ],
+
+      "Imperfetto": [
+        "valutassi",
+        "valutassi",
+        "valutasse",
+        "valutassimo",
+        "valutaste",
+        "valutassero"
+      ],
+
+      "Passato": [
+        "abbia valutato",
+        "abbia valutato",
+        "abbia valutato",
+        "abbiamo valutato",
+        "abbiate valutato",
+        "abbiano valutato"
+      ],
+
+      "Trapassato": [
+        "avessi valutato",
+        "avessi valutato",
+        "avesse valutato",
+        "avessimo valutato",
+        "aveste valutato",
+        "avessero valutato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "valuterei",
+        "valuteresti",
+        "valuterebbe",
+        "valuteremmo",
+        "valutereste",
+        "valuterebbero"
+      ],
+
+      "Passato": [
+        "avrei valutato",
+        "avresti valutato",
+        "avrebbe valutato",
+        "avremmo valutato",
+        "avreste valutato",
+        "avrebbero valutato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "valuta",
+        "valuti",
+        "valutiamo",
+        "valutate",
+        "valutino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "valutare",
+        "avere valutato",
+        "valutante",
+        "valutato",
+        "valutando",
+        "avendo valutato"
+      ]
+    }
+  }
 }
 ]
