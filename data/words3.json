@@ -321,7 +321,328 @@
         ]
       }
     }
+  },
+  {
+  "id": "salvare",
+  "sid": "2026-00122",
+  "word": "salvare",
+  "ipa": "/salˈvare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "salvato",
+    "gerundPresent": "salvando",
+    "pattern": "salvare qualcuno da + pericolo / salvare qualcosa / salvare un file"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "technology",
+      "emergency",
+      "sports"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人や動物の命を救う、危険から助け出す",
+      "物・状況・関係などを破壊や損失から守る",
+      "ファイルやデータを保存する",
+      "お金・時間・資源などを節約する",
+      "スポーツで得点や敗北を防ぐ、セーブする"
+    ],
+    "it": [
+      "Sottrarre una persona o un animale alla morte o a un pericolo.",
+      "Preservare qualcosa dalla distruzione, dalla perdita o dal fallimento.",
+      "Registrare e conservare dati o documenti in una memoria.",
+      "Evitare lo spreco o la perdita di tempo, denaro o risorse.",
+      "Nello sport, impedire una rete, una sconfitta o un risultato negativo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "生命を救う場合だけでなく、計画・関係・会社などを危機から守る場合にも使われる。情報技術ではファイルや変更内容を記憶媒体に保存することを表す。risparmiareも「節約する」と訳されるが、salvareは危険・消失・浪費から守って残すという発想が中心である。再帰形salvarsiは「助かる、逃れる」を意味する。",
+    "it": "Non riguarda soltanto il salvataggio di una vita, ma anche la protezione di progetti, rapporti, aziende o beni da una perdita. In informatica indica la registrazione permanente di dati o modifiche. Rispetto a risparmiare, mette maggiormente in rilievo ciò che viene preservato da un pericolo, da una perdita o da uno spreco. La forma salvarsi significa mettersi in salvo o evitare un danno."
+  },
+
+  "etymology": {
+    "ja": "後期ラテン語 salvāre（安全にする、救う）に由来し、形容詞salvus（無事な、傷ついていない）から作られた。同じ語族にはsalvo、salvezza、salute、salvatoreなどがある。",
+    "it": "Dal latino tardo salvāre, «rendere salvo», derivato dall’aggettivo salvus, «sano, integro, al sicuro». Alla stessa famiglia appartengono salvo, salvezza, salvatore e salvaguardia."
+  },
+
+  "minimal": [
+    {
+      "word": "salvare",
+      "ja": "生命・物・データなどを危険や消失から守って残す",
+      "it": "preservare una persona, una cosa o dei dati da un pericolo o da una perdita"
+    },
+    {
+      "word": "soccorrere",
+      "ja": "危険・事故・急病にある人のもとへ行き、必要な援助を与える",
+      "it": "prestare aiuto immediato a chi si trova in pericolo o in difficoltà"
+    },
+    {
+      "word": "risparmiare",
+      "ja": "お金・時間・資源を無駄に使わず節約する",
+      "it": "evitare di consumare inutilmente denaro, tempo o risorse"
+    }
+  ],
+
+  "synonyms": [
+    "soccorrere",
+    "proteggere",
+    "preservare",
+    "conservare",
+    "registrare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "save",
+      "rescue",
+      "preserve"
+    ],
+    "de": [
+      "retten",
+      "speichern",
+      "bewahren"
+    ],
+    "fr": [
+      "sauver",
+      "enregistrer",
+      "préserver"
+    ],
+    "es": [
+      "salvar",
+      "guardar",
+      "rescatar"
+    ]
+  },
+
+  "collocations": [
+    "salvare una vita",
+    "salvare qualcuno",
+    "salvare un animale",
+    "salvare qualcuno da un pericolo",
+    "salvare qualcuno dalla morte",
+    "salvare una situazione",
+    "salvare un rapporto",
+    "salvare un matrimonio",
+    "salvare un’azienda",
+    "salvare un progetto",
+    "salvare il pianeta",
+    "salvare l’ambiente",
+    "salvare un documento",
+    "salvare un file",
+    "salvare i dati",
+    "salvare le modifiche",
+    "salvare sul computer",
+    "salvare nel cloud",
+    "salvare una copia",
+    "salvare tempo",
+    "salvare denaro",
+    "salvare la partita"
+  ],
+
+  "examples": [
+    {
+      "it": "I vigili del fuoco hanno salvato due persone.",
+      "ja": "消防士たちは二人を救助した。"
+    },
+    {
+      "it": "Questo intervento potrebbe salvargli la vita.",
+      "ja": "この処置は彼の命を救うかもしれない。"
+    },
+    {
+      "it": "Dobbiamo fare qualcosa per salvare l’ambiente.",
+      "ja": "環境を守るために何かをしなければならない。"
+    },
+    {
+      "it": "Ricordati di salvare il documento prima di chiudere il programma.",
+      "ja": "プログラムを閉じる前に、忘れずに書類を保存してください。"
+    },
+    {
+      "it": "Ho salvato una copia dei dati nel cloud.",
+      "ja": "私はデータのコピーをクラウドに保存した。"
+    },
+    {
+      "it": "Il portiere ha salvato la squadra con una grande parata.",
+      "ja": "ゴールキーパーは見事なセーブでチームを救った。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "salvo",
+        "salvi",
+        "salva",
+        "salviamo",
+        "salvate",
+        "salvano"
+      ],
+
+      "Imperfetto": [
+        "salvavo",
+        "salvavi",
+        "salvava",
+        "salvavamo",
+        "salvavate",
+        "salvavano"
+      ],
+
+      "Passato prossimo": [
+        "ho salvato",
+        "hai salvato",
+        "ha salvato",
+        "abbiamo salvato",
+        "avete salvato",
+        "hanno salvato"
+      ],
+
+      "Passato remoto": [
+        "salvai",
+        "salvasti",
+        "salvò",
+        "salvammo",
+        "salvaste",
+        "salvarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo salvato",
+        "avevi salvato",
+        "aveva salvato",
+        "avevamo salvato",
+        "avevate salvato",
+        "avevano salvato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi salvato",
+        "avesti salvato",
+        "ebbe salvato",
+        "avemmo salvato",
+        "aveste salvato",
+        "ebbero salvato"
+      ],
+
+      "Futuro semplice": [
+        "salverò",
+        "salverai",
+        "salverà",
+        "salveremo",
+        "salverete",
+        "salveranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò salvato",
+        "avrai salvato",
+        "avrà salvato",
+        "avremo salvato",
+        "avrete salvato",
+        "avranno salvato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "salvi",
+        "salvi",
+        "salvi",
+        "salviamo",
+        "salviate",
+        "salvino"
+      ],
+
+      "Imperfetto": [
+        "salvassi",
+        "salvassi",
+        "salvasse",
+        "salvassimo",
+        "salvaste",
+        "salvassero"
+      ],
+
+      "Passato": [
+        "abbia salvato",
+        "abbia salvato",
+        "abbia salvato",
+        "abbiamo salvato",
+        "abbiate salvato",
+        "abbiano salvato"
+      ],
+
+      "Trapassato": [
+        "avessi salvato",
+        "avessi salvato",
+        "avesse salvato",
+        "avessimo salvato",
+        "aveste salvato",
+        "avessero salvato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "salverei",
+        "salveresti",
+        "salverebbe",
+        "salveremmo",
+        "salvereste",
+        "salverebbero"
+      ],
+
+      "Passato": [
+        "avrei salvato",
+        "avresti salvato",
+        "avrebbe salvato",
+        "avremmo salvato",
+        "avreste salvato",
+        "avrebbero salvato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "salva",
+        "salvi",
+        "salviamo",
+        "salvate",
+        "salvino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "salvare",
+        "avere salvato",
+        "salvante",
+        "salvato",
+        "salvando",
+        "avendo salvato"
+      ]
+    }
   }
+}
 ]
 ]
 
