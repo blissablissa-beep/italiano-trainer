@@ -18825,5 +18825,325 @@
       ]
     }
   }
+},
+{
+  "id": "compiere",
+  "sid": "2026-00120",
+  "word": "compiere",
+  "ipa": "/ˈkompjere/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "compiuto",
+    "gerundPresent": "compiendo",
+    "pattern": "compiere + azione / compiere + numero + anni / compiere un percorso"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "legal"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "行為・任務などを遂行する、実行する",
+      "仕事・計画などを完成させる",
+      "一定の年齢に達する、満何歳になる",
+      "道のり・過程・変化などを完遂する",
+      "義務・使命・儀式などを果たす"
+    ],
+    "it": [
+      "Eseguire o portare a termine un’azione, un compito o un’opera.",
+      "Condurre qualcosa al suo completo svolgimento.",
+      "Raggiungere una determinata età.",
+      "Percorrere interamente una distanza, un itinerario o un processo.",
+      "Adempiere un dovere, una missione o un rito."
+    ]
+  },
+
+  "nuance": {
+    "ja": "行為を単に行うだけでなく、一定のまとまりを持つ行為・任務・過程を最後まで遂行することを表す。日常的で意味の広いfareよりも改まった響きがあり、compiere un atto、compiere una missione、compiere un reatoなどの結びつきで多く用いられる。年齢についてはcompiere vent’anniで「満20歳になる」を意味する。",
+    "it": "Indica generalmente l’esecuzione completa di un’azione, di un compito o di un processo. Rispetto al generico fare, ha spesso un tono più formale e sottolinea il raggiungimento di un risultato o di un termine. Nella costruzione compiere vent’anni significa raggiungere quella determinata età."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 complēre（満たす、完成させる）に由来し、接頭辞con-（完全に、ともに）とplēre（満たす）から成る。イタリア語ではcompiereのほか、completo、complementoなどにも同系の語根が見られる。",
+    "it": "Dal latino complēre, «riempire, completare», formato da con- e plēre, «riempire». Alla stessa famiglia etimologica appartengono completo, complemento e compimento."
+  },
+
+  "minimal": [
+    {
+      "word": "compiere",
+      "ja": "まとまりのある行為・任務・過程を遂行し、完了させる",
+      "it": "eseguire fino al termine un’azione, un compito o un processo"
+    },
+    {
+      "word": "fare",
+      "ja": "行為・作成・活動全般を広く表す",
+      "it": "indicare genericamente lo svolgimento o la produzione di qualcosa"
+    },
+    {
+      "word": "completare",
+      "ja": "不足する部分を補って、物事を完全な状態にする",
+      "it": "aggiungere ciò che manca e rendere qualcosa completo"
+    }
+  ],
+
+  "synonyms": [
+    "eseguire",
+    "realizzare",
+    "effettuare",
+    "portare a termine",
+    "adempiere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "accomplish",
+      "perform",
+      "carry out"
+    ],
+    "de": [
+      "vollbringen",
+      "ausführen",
+      "begehen"
+    ],
+    "fr": [
+      "accomplir",
+      "effectuer",
+      "commettre"
+    ],
+    "es": [
+      "cumplir",
+      "realizar",
+      "cometer"
+    ]
+  },
+
+  "collocations": [
+    "compiere un’azione",
+    "compiere un atto",
+    "compiere un gesto",
+    "compiere un’impresa",
+    "compiere una missione",
+    "compiere il proprio dovere",
+    "compiere una scelta",
+    "compiere un tentativo",
+    "compiere uno sforzo",
+    "compiere un passo",
+    "compiere un viaggio",
+    "compiere un percorso",
+    "compiere una trasformazione",
+    "compiere progressi",
+    "compiere una ricerca",
+    "compiere un errore",
+    "compiere un reato",
+    "compiere un omicidio",
+    "compiere gli anni",
+    "compiere diciotto anni"
+  ],
+
+  "examples": [
+    {
+      "it": "Ha compiuto il proprio dovere fino alla fine.",
+      "ja": "彼は最後まで自分の義務を果たした。"
+    },
+    {
+      "it": "Mia figlia compirà diciotto anni il mese prossimo.",
+      "ja": "私の娘は来月18歳になる。"
+    },
+    {
+      "it": "L’azienda ha compiuto importanti progressi.",
+      "ja": "その会社は大きな進歩を遂げた。"
+    },
+    {
+      "it": "Abbiamo compiuto un lungo viaggio attraverso l’Italia.",
+      "ja": "私たちはイタリアを横断する長い旅をした。"
+    },
+    {
+      "it": "La polizia ritiene che il reato sia stato compiuto durante la notte.",
+      "ja": "警察はその犯罪が夜間に行われたと考えている。"
+    },
+    {
+      "it": "Prima di decidere, dobbiamo compiere un’attenta valutazione.",
+      "ja": "決定する前に、私たちは慎重な評価を行わなければならない。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "compio",
+        "compi",
+        "compie",
+        "compiamo",
+        "compite",
+        "compiono"
+      ],
+
+      "Imperfetto": [
+        "compivo",
+        "compivi",
+        "compiva",
+        "compivamo",
+        "compivate",
+        "compivano"
+      ],
+
+      "Passato prossimo": [
+        "ho compiuto",
+        "hai compiuto",
+        "ha compiuto",
+        "abbiamo compiuto",
+        "avete compiuto",
+        "hanno compiuto"
+      ],
+
+      "Passato remoto": [
+        "compii",
+        "compisti",
+        "compì",
+        "compimmo",
+        "compiste",
+        "compirono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo compiuto",
+        "avevi compiuto",
+        "aveva compiuto",
+        "avevamo compiuto",
+        "avevate compiuto",
+        "avevano compiuto"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi compiuto",
+        "avesti compiuto",
+        "ebbe compiuto",
+        "avemmo compiuto",
+        "aveste compiuto",
+        "ebbero compiuto"
+      ],
+
+      "Futuro semplice": [
+        "compirò",
+        "compirai",
+        "compirà",
+        "compiremo",
+        "compirete",
+        "compiranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò compiuto",
+        "avrai compiuto",
+        "avrà compiuto",
+        "avremo compiuto",
+        "avrete compiuto",
+        "avranno compiuto"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "compia",
+        "compia",
+        "compia",
+        "compiamo",
+        "compiate",
+        "compiano"
+      ],
+
+      "Imperfetto": [
+        "compissi",
+        "compissi",
+        "compisse",
+        "compissimo",
+        "compiste",
+        "compissero"
+      ],
+
+      "Passato": [
+        "abbia compiuto",
+        "abbia compiuto",
+        "abbia compiuto",
+        "abbiamo compiuto",
+        "abbiate compiuto",
+        "abbiano compiuto"
+      ],
+
+      "Trapassato": [
+        "avessi compiuto",
+        "avessi compiuto",
+        "avesse compiuto",
+        "avessimo compiuto",
+        "aveste compiuto",
+        "avessero compiuto"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "compirei",
+        "compiresti",
+        "compirebbe",
+        "compiremmo",
+        "compireste",
+        "compirebbero"
+      ],
+
+      "Passato": [
+        "avrei compiuto",
+        "avresti compiuto",
+        "avrebbe compiuto",
+        "avremmo compiuto",
+        "avreste compiuto",
+        "avrebbero compiuto"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "compi",
+        "compia",
+        "compiamo",
+        "compite",
+        "compiano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "compiere",
+        "avere compiuto",
+        "compiente",
+        "compiuto",
+        "compiendo",
+        "avendo compiuto"
+      ]
+    }
+  }
 }
 ]
