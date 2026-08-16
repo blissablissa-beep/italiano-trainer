@@ -7443,5 +7443,5236 @@
       ]
     }
   }
+},
+{
+  "id": "affittare",
+  "sid": "2026-00085",
+  "word": "affittare",
+  "ipa": "/affitˈtare/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "affittato",
+    "gerundPresent": "affittando",
+    "pattern": "affittare qualcosa a qualcuno / affittare qualcosa da qualcuno / dare o prendere in affitto"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "housing",
+      "business",
+      "travel",
+      "legal"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "家・部屋・土地などを賃貸する、貸し出す",
+      "家・部屋・設備などを借りる",
+      "一定期間、料金と引き換えに物を使用させる",
+      "料金を支払って物を一定期間使用する"
+    ],
+    "it": [
+      "Concedere a qualcuno l’uso temporaneo di un immobile o di un bene in cambio di denaro.",
+      "Prendere temporaneamente in uso un immobile o un bene pagando un canone.",
+      "Dare in locazione una casa, una stanza, un terreno o un’attrezzatura.",
+      "Ottenere in locazione qualcosa per un periodo determinato."
+    ]
+  },
+
+  "nuance": {
+    "ja": "貸す側にも借りる側にも使われるため、affittare un appartamentoだけでは、文脈によって「アパートを貸す」と「アパートを借りる」の両方に解釈できる。曖昧さを避けるには、貸す側はdare in affitto、借りる側はprendere in affittoまたはaffittare da qualcunoと表現する。不動産に特によく使われ、車・自転車・機材などにはnoleggiareも一般的である。",
+    "it": "Può riferirsi sia al proprietario che concede un bene sia alla persona che lo prende in uso. Di conseguenza, affittare un appartamento può risultare ambiguo senza contesto. Per maggiore precisione si usano dare in affitto dal punto di vista del proprietario e prendere in affitto dal punto di vista dell’inquilino. Con veicoli e attrezzature è frequente anche noleggiare."
+  },
+
+  "etymology": {
+    "ja": "名詞fittoの古い意味「定められた賃料・地代」に接頭辞a-を加えて作られた動詞である。fittoは中世ラテン語のfictumまたは関連する形にさかのぼり、「固定された支払額」という考えを持つ。",
+    "it": "Deriva da fitto nel significato antico di «canone stabilito», con il prefisso a-. Fitto risale a una forma del latino medievale collegata all’idea di una somma fissata e periodicamente dovuta."
+  },
+
+  "minimal": [
+    {
+      "word": "affittare",
+      "ja": "主に不動産などを一定期間、有償で貸す、または借りる",
+      "it": "dare o prendere temporaneamente un bene, soprattutto immobile, in cambio di un canone"
+    },
+    {
+      "word": "noleggiare",
+      "ja": "主に車・自転車・船・機材などを一定期間借りる、または貸し出す",
+      "it": "prendere o dare temporaneamente veicoli, mezzi o attrezzature dietro pagamento"
+    },
+    {
+      "word": "prestare",
+      "ja": "物を一時的に貸し、通常は同じ物の返却を求める",
+      "it": "consegnare temporaneamente qualcosa perché venga restituito, spesso senza pagamento"
+    },
+    {
+      "word": "locare",
+      "ja": "契約によって不動産や物を賃貸する法律・専門用語",
+      "it": "concedere un bene in locazione, soprattutto nel linguaggio giuridico"
+    }
+  ],
+
+  "synonyms": [
+    "dare in affitto",
+    "prendere in affitto",
+    "locare",
+    "noleggiare",
+    "dare in locazione"
+  ],
+
+  "equivalents": {
+    "en": [
+      "rent",
+      "let",
+      "lease"
+    ],
+    "de": [
+      "mieten",
+      "vermieten",
+      "pachten"
+    ],
+    "fr": [
+      "louer",
+      "donner en location",
+      "prendre en location"
+    ],
+    "es": [
+      "alquilar",
+      "arrendar",
+      "poner en alquiler"
+    ]
+  },
+
+  "collocations": [
+    "affittare una casa",
+    "affittare un appartamento",
+    "affittare una stanza",
+    "affittare un ufficio",
+    "affittare un locale",
+    "affittare un terreno",
+    "affittare una casa al mare",
+    "affittare una casa per le vacanze",
+    "affittare a qualcuno",
+    "affittare da un privato",
+    "affittare per un mese",
+    "affittare a lungo termine",
+    "affittare per brevi periodi",
+    "dare in affitto",
+    "prendere in affitto",
+    "cercare casa da affittare",
+    "essere disponibile da affittare",
+    "affittare con un contratto",
+    "affittare a un prezzo conveniente",
+    "affittare ammobiliato"
+  ],
+
+  "examples": [
+    {
+      "it": "Vorremmo affittare un appartamento vicino al centro.",
+      "ja": "私たちは中心街の近くでアパートを借りたい。"
+    },
+    {
+      "it": "Il proprietario affitta la casa a una famiglia.",
+      "ja": "家主はその家をある家族に貸している。"
+    },
+    {
+      "it": "Abbiamo affittato una casa al mare per due settimane.",
+      "ja": "私たちは海辺の家を2週間借りた。"
+    },
+    {
+      "it": "Questo locale viene affittato anche per brevi periodi.",
+      "ja": "この物件は短期間でも貸し出されている。"
+    },
+    {
+      "it": "Quanto costa affittare un appartamento a Roma?",
+      "ja": "ローマでアパートを借りるには、どのくらいかかりますか。"
+    },
+    {
+      "it": "Preferisco dire prendere in affitto per evitare ambiguità.",
+      "ja": "曖昧さを避けるため、私は「借りる」をprendere in affittoと表現するほうがよいと思う。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "affitto",
+        "affitti",
+        "affitta",
+        "affittiamo",
+        "affittate",
+        "affittano"
+      ],
+
+      "Imperfetto": [
+        "affittavo",
+        "affittavi",
+        "affittava",
+        "affittavamo",
+        "affittavate",
+        "affittavano"
+      ],
+
+      "Passato prossimo": [
+        "ho affittato",
+        "hai affittato",
+        "ha affittato",
+        "abbiamo affittato",
+        "avete affittato",
+        "hanno affittato"
+      ],
+
+      "Passato remoto": [
+        "affittai",
+        "affittasti",
+        "affittò",
+        "affittammo",
+        "affittaste",
+        "affittarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo affittato",
+        "avevi affittato",
+        "aveva affittato",
+        "avevamo affittato",
+        "avevate affittato",
+        "avevano affittato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi affittato",
+        "avesti affittato",
+        "ebbe affittato",
+        "avemmo affittato",
+        "aveste affittato",
+        "ebbero affittato"
+      ],
+
+      "Futuro semplice": [
+        "affitterò",
+        "affitterai",
+        "affitterà",
+        "affitteremo",
+        "affitterete",
+        "affitteranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò affittato",
+        "avrai affittato",
+        "avrà affittato",
+        "avremo affittato",
+        "avrete affittato",
+        "avranno affittato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "affitti",
+        "affitti",
+        "affitti",
+        "affittiamo",
+        "affittiate",
+        "affittino"
+      ],
+
+      "Imperfetto": [
+        "affittassi",
+        "affittassi",
+        "affittasse",
+        "affittassimo",
+        "affittaste",
+        "affittassero"
+      ],
+
+      "Passato": [
+        "abbia affittato",
+        "abbia affittato",
+        "abbia affittato",
+        "abbiamo affittato",
+        "abbiate affittato",
+        "abbiano affittato"
+      ],
+
+      "Trapassato": [
+        "avessi affittato",
+        "avessi affittato",
+        "avesse affittato",
+        "avessimo affittato",
+        "aveste affittato",
+        "avessero affittato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "affitterei",
+        "affitteresti",
+        "affitterebbe",
+        "affitteremmo",
+        "affittereste",
+        "affitterebbero"
+      ],
+
+      "Passato": [
+        "avrei affittato",
+        "avresti affittato",
+        "avrebbe affittato",
+        "avremmo affittato",
+        "avreste affittato",
+        "avrebbero affittato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "affitta",
+        "affitti",
+        "affittiamo",
+        "affittate",
+        "affittino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "affittare",
+        "avere affittato",
+        "affittante",
+        "affittato",
+        "affittando",
+        "avendo affittato"
+      ]
+    }
+  }
+},
+{
+  "id": "dare",
+  "sid": "2026-00086",
+  "word": "dare",
+  "ipa": "/ˈdare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "dato",
+    "gerundPresent": "dando",
+    "pattern": "dare qualcosa a qualcuno / dare + nome / dare da + infinito"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "legal"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人に物を与える、渡す",
+      "情報・助言・許可・機会などを提供する",
+      "役割・名称・評価などを与える",
+      "感情・結果・影響などを生じさせる",
+      "試験・パーティー・授業などを行う",
+      "窓・部屋・建物などがある方向に面する",
+      "物を売る、一定の価格で譲る"
+    ],
+    "it": [
+      "Consegnare o trasferire qualcosa a qualcuno.",
+      "Fornire informazioni, consigli, permessi o opportunità.",
+      "Attribuire un ruolo, un nome, un valore o una valutazione.",
+      "Produrre una sensazione, un effetto o un risultato.",
+      "Organizzare o sostenere un esame, una festa o una lezione.",
+      "Essere rivolto o affacciarsi verso un determinato luogo.",
+      "Cedere qualcosa in cambio di un determinato prezzo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "具体的な物の授受から、情報・感情・許可・評価・結果の付与まで非常に広く使われる基本動詞である。意味はdare una mano、dare fastidio、dare ragioneなど、後続する名詞との組み合わせによって大きく変わる。英語のgiveより使用範囲が広く、日本語では「与える」以外に「する」「かける」「起こす」「面する」などと訳される。",
+    "it": "È un verbo fondamentale e altamente polisemico. Può indicare il trasferimento concreto di un oggetto, ma anche l’attribuzione di informazioni, emozioni, permessi, giudizi ed effetti. Il significato dipende spesso dal sostantivo che lo accompagna, come in dare una mano, dare fastidio e dare ragione."
+  },
+
+  "etymology": {
+    "ja": "ラテン語dare（与える）に直接由来する。ラテン語以来、基本的な意味と不規則な活用の一部を保っている。同じ印欧語根はスペイン語dar、ポルトガル語dar、フランス語donnerの語族、英語donateなどにも見られる。",
+    "it": "Dal latino dare, con conservazione diretta del significato fondamentale. Appartengono alla stessa famiglia parole come dato, dono, donare e donazione, nonché lo spagnolo e il portoghese dar."
+  },
+
+  "minimal": [
+    {
+      "word": "dare",
+      "ja": "物・情報・機会・影響などを相手に与える",
+      "it": "trasferire, fornire o attribuire qualcosa a qualcuno"
+    },
+    {
+      "word": "consegnare",
+      "ja": "物・書類などを指定された相手に正式に手渡す",
+      "it": "recapitare o affidare materialmente qualcosa al destinatario"
+    },
+    {
+      "word": "offrire",
+      "ja": "相手が受け取れるよう、物・援助・機会などを差し出す",
+      "it": "mettere qualcosa a disposizione di qualcuno perché possa accettarlo"
+    },
+    {
+      "word": "regalare",
+      "ja": "対価を求めず、贈り物として与える",
+      "it": "dare qualcosa in dono senza richiedere un pagamento"
+    }
+  ],
+
+  "synonyms": [
+    "consegnare",
+    "fornire",
+    "offrire",
+    "attribuire",
+    "concedere",
+    "procurare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "give",
+      "provide",
+      "hand"
+    ],
+    "de": [
+      "geben",
+      "überreichen",
+      "gewähren"
+    ],
+    "fr": [
+      "donner",
+      "fournir",
+      "remettre"
+    ],
+    "es": [
+      "dar",
+      "entregar",
+      "proporcionar"
+    ]
+  },
+
+  "collocations": [
+    "dare qualcosa a qualcuno",
+    "dare una mano",
+    "dare un consiglio",
+    "dare informazioni",
+    "dare una risposta",
+    "dare una spiegazione",
+    "dare il permesso",
+    "dare il consenso",
+    "dare un’opportunità",
+    "dare un esempio",
+    "dare un nome",
+    "dare un voto",
+    "dare ragione",
+    "dare torto",
+    "dare fastidio",
+    "dare piacere",
+    "dare paura",
+    "dare l’impressione",
+    "dare importanza",
+    "dare fiducia",
+    "dare inizio a",
+    "dare luogo a",
+    "dare vita a",
+    "dare da mangiare",
+    "dare da bere",
+    "dare un esame",
+    "dare una festa",
+    "dare le dimissioni",
+    "dare per scontato",
+    "dare su una strada"
+  ],
+
+  "examples": [
+    {
+      "it": "Puoi darmi una mano?",
+      "ja": "手を貸してくれますか。"
+    },
+    {
+      "it": "Ho dato le chiavi a mia moglie.",
+      "ja": "私は妻に鍵を渡した。"
+    },
+    {
+      "it": "Il medico mi ha dato un buon consiglio.",
+      "ja": "医師は私に良い助言をしてくれた。"
+    },
+    {
+      "it": "Questa musica mi dà molta energia.",
+      "ja": "この音楽を聴くと、とても元気が出る。"
+    },
+    {
+      "it": "Domani devo dare un esame.",
+      "ja": "明日、私は試験を受けなければならない。"
+    },
+    {
+      "it": "La finestra dà sul giardino.",
+      "ja": "その窓は庭に面している。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "do",
+        "dai",
+        "dà",
+        "diamo",
+        "date",
+        "danno"
+      ],
+
+      "Imperfetto": [
+        "davo",
+        "davi",
+        "dava",
+        "davamo",
+        "davate",
+        "davano"
+      ],
+
+      "Passato prossimo": [
+        "ho dato",
+        "hai dato",
+        "ha dato",
+        "abbiamo dato",
+        "avete dato",
+        "hanno dato"
+      ],
+
+      "Passato remoto": [
+        "diedi / detti",
+        "desti",
+        "diede / dette",
+        "demmo",
+        "deste",
+        "diedero / dettero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo dato",
+        "avevi dato",
+        "aveva dato",
+        "avevamo dato",
+        "avevate dato",
+        "avevano dato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi dato",
+        "avesti dato",
+        "ebbe dato",
+        "avemmo dato",
+        "aveste dato",
+        "ebbero dato"
+      ],
+
+      "Futuro semplice": [
+        "darò",
+        "darai",
+        "darà",
+        "daremo",
+        "darete",
+        "daranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò dato",
+        "avrai dato",
+        "avrà dato",
+        "avremo dato",
+        "avrete dato",
+        "avranno dato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "dia",
+        "dia",
+        "dia",
+        "diamo",
+        "diate",
+        "diano"
+      ],
+
+      "Imperfetto": [
+        "dessi",
+        "dessi",
+        "desse",
+        "dessimo",
+        "deste",
+        "dessero"
+      ],
+
+      "Passato": [
+        "abbia dato",
+        "abbia dato",
+        "abbia dato",
+        "abbiamo dato",
+        "abbiate dato",
+        "abbiano dato"
+      ],
+
+      "Trapassato": [
+        "avessi dato",
+        "avessi dato",
+        "avesse dato",
+        "avessimo dato",
+        "aveste dato",
+        "avessero dato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "darei",
+        "daresti",
+        "darebbe",
+        "daremmo",
+        "dareste",
+        "darebbero"
+      ],
+
+      "Passato": [
+        "avrei dato",
+        "avresti dato",
+        "avrebbe dato",
+        "avremmo dato",
+        "avreste dato",
+        "avrebbero dato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "da’ / dai",
+        "dia",
+        "diamo",
+        "date",
+        "diano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "dare",
+        "avere dato",
+        "dante",
+        "dato",
+        "dando",
+        "avendo dato"
+      ]
+    }
+  }
+},
+{
+  "id": "mandare",
+  "sid": "2026-00087",
+  "word": "mandare",
+  "ipa": "/manˈdare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "mandato",
+    "gerundPresent": "mandando",
+    "pattern": "mandare qualcosa a qualcuno / mandare qualcuno a + luogo / mandare qualcuno a + infinito"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "travel",
+      "digital"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "物・手紙・メッセージなどを送る",
+      "人をある場所へ行かせる、派遣する",
+      "人に何かをしに行かせる",
+      "人や物をある状態にする、追いやる",
+      "機械・事業・活動などを動かす、進める",
+      "人を追い払う、解雇する"
+    ],
+    "it": [
+      "Far pervenire qualcosa a una persona o a un luogo.",
+      "Far andare qualcuno in un determinato posto.",
+      "Incaricare qualcuno di compiere un’azione.",
+      "Far entrare qualcuno o qualcosa in una determinata condizione.",
+      "Far funzionare o portare avanti un’attività.",
+      "Allontanare o licenziare qualcuno."
+    ]
+  },
+
+  "nuance": {
+    "ja": "物・情報・人をある目的地や相手へ移動させることを広く表す基本動詞である。日常会話では手紙、メール、写真、荷物、人のすべてに使える。inviareはより形式的で、書類・データ・通信などを所定の宛先へ送ることに適する。spedireは特に郵便・宅配便などを利用して物を発送する行為に重点がある。",
+    "it": "È un verbo generale che indica l’invio di oggetti, informazioni o persone verso una destinazione. Nel linguaggio quotidiano si usa con messaggi, fotografie, documenti, pacchi e persone. Inviare è spesso più formale, mentre spedire mette maggiormente in rilievo l’affidamento di un oggetto a un servizio postale o di trasporto."
+  },
+
+  "etymology": {
+    "ja": "ラテン語mandare（委ねる、命じる）に由来する。これはmanus（手）とdare（与える）に関係し、もともとは「人の手に委ねる」という意味だった。そこから「任務を与える」「派遣する」「送る」へ意味が発展した。mandatoやmandatarioとも同語源である。",
+    "it": "Dal latino mandare, collegato storicamente a manus, «mano», e dare, «dare». Il significato originario era affidare qualcosa alle mani di qualcuno; da qui si sono sviluppati i sensi di incaricare, ordinare, inviare e spedire."
+  },
+
+  "minimal": [
+    {
+      "word": "mandare",
+      "ja": "物・情報・人をある相手や場所へ送る一般的な動詞",
+      "it": "far giungere cose, informazioni o persone a una destinazione"
+    },
+    {
+      "word": "inviare",
+      "ja": "書類・通信・データなどを所定の宛先へ送付する",
+      "it": "far pervenire qualcosa a un destinatario, spesso in contesti formali"
+    },
+    {
+      "word": "spedire",
+      "ja": "郵便・宅配便などを利用して手紙や荷物を発送する",
+      "it": "affidare lettere o merci a un servizio di trasporto o postale"
+    },
+    {
+      "word": "portare",
+      "ja": "人が物を持って、または人を伴って目的地へ移動する",
+      "it": "trasferire personalmente qualcosa o qualcuno verso un luogo"
+    }
+  ],
+
+  "synonyms": [
+    "inviare",
+    "spedire",
+    "trasmettere",
+    "inoltrare",
+    "dirigere",
+    "incaricare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "send",
+      "dispatch",
+      "make someone go"
+    ],
+    "de": [
+      "schicken",
+      "senden",
+      "entsenden"
+    ],
+    "fr": [
+      "envoyer",
+      "expédier",
+      "faire partir"
+    ],
+    "es": [
+      "mandar",
+      "enviar",
+      "despachar"
+    ]
+  },
+
+  "collocations": [
+    "mandare qualcosa a qualcuno",
+    "mandare un messaggio",
+    "mandare un’e-mail",
+    "mandare una lettera",
+    "mandare una fotografia",
+    "mandare un documento",
+    "mandare un pacco",
+    "mandare un regalo",
+    "mandare i saluti",
+    "mandare qualcuno a casa",
+    "mandare qualcuno all’estero",
+    "mandare qualcuno dal medico",
+    "mandare qualcuno a comprare qualcosa",
+    "mandare a chiamare qualcuno",
+    "mandare avanti un’attività",
+    "mandare avanti un progetto",
+    "mandare in onda",
+    "mandare in stampa",
+    "mandare in crisi",
+    "mandare in pensione",
+    "mandare via qualcuno",
+    "mandare a memoria",
+    "mandare tutto all’aria",
+    "mandare al diavolo"
+  ],
+
+  "examples": [
+    {
+      "it": "Ti mando il documento per e-mail.",
+      "ja": "その書類をメールで送ります。"
+    },
+    {
+      "it": "Mi hai mandato un messaggio ieri sera?",
+      "ja": "昨晩、私にメッセージを送りましたか。"
+    },
+    {
+      "it": "L’azienda lo ha mandato a lavorare in Germania.",
+      "ja": "会社は彼をドイツへ赴任させた。"
+    },
+    {
+      "it": "Mia madre mi ha mandato a comprare il pane.",
+      "ja": "母は私をパンを買いに行かせた。"
+    },
+    {
+      "it": "Chi manderà avanti il progetto dopo la sua partenza?",
+      "ja": "彼が去った後、誰がそのプロジェクトを進めるのですか。"
+    },
+    {
+      "it": "Questo rumore mi manda in crisi.",
+      "ja": "この騒音のせいで私は参ってしまう。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mando",
+        "mandi",
+        "manda",
+        "mandiamo",
+        "mandate",
+        "mandano"
+      ],
+
+      "Imperfetto": [
+        "mandavo",
+        "mandavi",
+        "mandava",
+        "mandavamo",
+        "mandavate",
+        "mandavano"
+      ],
+
+      "Passato prossimo": [
+        "ho mandato",
+        "hai mandato",
+        "ha mandato",
+        "abbiamo mandato",
+        "avete mandato",
+        "hanno mandato"
+      ],
+
+      "Passato remoto": [
+        "mandai",
+        "mandasti",
+        "mandò",
+        "mandammo",
+        "mandaste",
+        "mandarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo mandato",
+        "avevi mandato",
+        "aveva mandato",
+        "avevamo mandato",
+        "avevate mandato",
+        "avevano mandato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi mandato",
+        "avesti mandato",
+        "ebbe mandato",
+        "avemmo mandato",
+        "aveste mandato",
+        "ebbero mandato"
+      ],
+
+      "Futuro semplice": [
+        "manderò",
+        "manderai",
+        "manderà",
+        "manderemo",
+        "manderete",
+        "manderanno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò mandato",
+        "avrai mandato",
+        "avrà mandato",
+        "avremo mandato",
+        "avrete mandato",
+        "avranno mandato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mandi",
+        "mandi",
+        "mandi",
+        "mandiamo",
+        "mandiate",
+        "mandino"
+      ],
+
+      "Imperfetto": [
+        "mandassi",
+        "mandassi",
+        "mandasse",
+        "mandassimo",
+        "mandaste",
+        "mandassero"
+      ],
+
+      "Passato": [
+        "abbia mandato",
+        "abbia mandato",
+        "abbia mandato",
+        "abbiamo mandato",
+        "abbiate mandato",
+        "abbiano mandato"
+      ],
+
+      "Trapassato": [
+        "avessi mandato",
+        "avessi mandato",
+        "avesse mandato",
+        "avessimo mandato",
+        "aveste mandato",
+        "avessero mandato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "manderei",
+        "manderesti",
+        "manderebbe",
+        "manderemmo",
+        "mandereste",
+        "manderebbero"
+      ],
+
+      "Passato": [
+        "avrei mandato",
+        "avresti mandato",
+        "avrebbe mandato",
+        "avremmo mandato",
+        "avreste mandato",
+        "avrebbero mandato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "manda",
+        "mandi",
+        "mandiamo",
+        "mandate",
+        "mandino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "mandare",
+        "avere mandato",
+        "mandante",
+        "mandato",
+        "mandando",
+        "avendo mandato"
+      ]
+    }
+  }
+},
+{
+  "id": "noleggiare",
+  "sid": "2026-00088",
+  "word": "noleggiare",
+  "ipa": "/noledˈdʒare/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "noleggiato",
+    "gerundPresent": "noleggiando",
+    "pattern": "noleggiare qualcosa / noleggiare qualcosa da qualcuno / noleggiare qualcosa per + durata"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "business",
+      "leisure"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "車・自転車・船・機材などを料金を払って借りる",
+      "車両・設備などを一定期間貸し出す",
+      "船・航空機・バスなどを貸し切る",
+      "運転手・乗組員・サービスを伴う移動手段を手配する"
+    ],
+    "it": [
+      "Prendere temporaneamente in uso un veicolo, un mezzo o un’attrezzatura dietro pagamento.",
+      "Dare temporaneamente in uso mezzi o attrezzature in cambio di denaro.",
+      "Prendere in uso esclusivo una nave, un aereo o un autobus.",
+      "Procurarsi un mezzo di trasporto eventualmente accompagnato da personale di servizio."
+    ]
+  },
+
+  "nuance": {
+    "ja": "主に自動車、自転車、船、航空機、スポーツ用品、工具、映像機材など、移動可能な物や設備を一定期間借りる場合に使われる。不動産には通常affittareを用いる。noleggiareも貸す側・借りる側の両方を表し得るため、必要に応じてnoleggiare da qualcuno（人・会社から借りる）やdare a noleggio（貸し出す）と明示する。",
+    "it": "Si usa soprattutto con veicoli, imbarcazioni, attrezzature, strumenti e altri beni mobili. Per case, appartamenti e immobili si preferisce generalmente affittare. Anche noleggiare può riferirsi sia a chi prende sia a chi concede il bene; noleggiare da qualcuno e dare a noleggio eliminano l’eventuale ambiguità."
+  },
+
+  "etymology": {
+    "ja": "名詞noleggio（賃貸、チャーター）から作られた動詞である。noleggioはnoloと関係し、noloはラテン語naulumを経て、ギリシア語naûlon（船賃、船の運送料）に由来する。当初は船の賃借・運賃を表したが、後に車両や機材一般へ意味が広がった。",
+    "it": "Deriva da noleggio, collegato a nolo. Quest’ultimo risale al latino naulum e al greco naûlon, «prezzo del trasporto per nave». Dal settore marittimo il significato si è esteso ai veicoli e alle attrezzature in generale."
+  },
+
+  "minimal": [
+    {
+      "word": "noleggiare",
+      "ja": "主に車両・船・機材などの動産を有料で一時的に借りる、または貸す",
+      "it": "prendere o dare temporaneamente veicoli o attrezzature dietro pagamento"
+    },
+    {
+      "word": "affittare",
+      "ja": "主に家・部屋・土地などの不動産を有料で借りる、または貸す",
+      "it": "prendere o dare in uso soprattutto un immobile in cambio di un canone"
+    },
+    {
+      "word": "prendere in prestito",
+      "ja": "通常は無料で物を一時的に借り、後で返す",
+      "it": "ricevere temporaneamente qualcosa, normalmente senza pagamento, per poi restituirlo"
+    },
+    {
+      "word": "prenotare",
+      "ja": "将来利用できるよう、車・部屋・席などを事前に確保する",
+      "it": "riservare anticipatamente un bene o un servizio per un uso futuro"
+    }
+  ],
+
+  "synonyms": [
+    "prendere a noleggio",
+    "dare a noleggio",
+    "affittare",
+    "locare",
+    "prendere in uso"
+  ],
+
+  "equivalents": {
+    "en": [
+      "rent",
+      "hire",
+      "charter"
+    ],
+    "de": [
+      "mieten",
+      "vermieten",
+      "chartern"
+    ],
+    "fr": [
+      "louer",
+      "donner en location",
+      "affréter"
+    ],
+    "es": [
+      "alquilar",
+      "arrendar",
+      "fletar"
+    ]
+  },
+
+  "collocations": [
+    "noleggiare un’auto",
+    "noleggiare una macchina",
+    "noleggiare una bicicletta",
+    "noleggiare una moto",
+    "noleggiare uno scooter",
+    "noleggiare una barca",
+    "noleggiare uno yacht",
+    "noleggiare un autobus",
+    "noleggiare un furgone",
+    "noleggiare un aereo",
+    "noleggiare gli sci",
+    "noleggiare un’attrezzatura",
+    "noleggiare una videocamera",
+    "noleggiare da una società",
+    "noleggiare con conducente",
+    "noleggiare senza conducente",
+    "noleggiare per un giorno",
+    "noleggiare a ore",
+    "noleggiare a lungo termine",
+    "dare a noleggio"
+  ],
+
+  "examples": [
+    {
+      "it": "Vorremmo noleggiare un’auto per tre giorni.",
+      "ja": "私たちは車を3日間借りたい。"
+    },
+    {
+      "it": "Dove possiamo noleggiare delle biciclette?",
+      "ja": "どこで自転車を借りられますか。"
+    },
+    {
+      "it": "Abbiamo noleggiato una barca con conducente.",
+      "ja": "私たちは操縦者付きのボートを借りた。"
+    },
+    {
+      "it": "Questa società noleggia attrezzature da lavoro.",
+      "ja": "この会社は作業用機材を貸し出している。"
+    },
+    {
+      "it": "È più conveniente noleggiare l’auto in anticipo.",
+      "ja": "車は事前にレンタルするほうが得だ。"
+    },
+    {
+      "it": "Per il viaggio hanno noleggiato un autobus.",
+      "ja": "彼らは旅行のためにバスを貸し切った。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "noleggio",
+        "noleggi",
+        "noleggia",
+        "noleggiamo",
+        "noleggiate",
+        "noleggiano"
+      ],
+
+      "Imperfetto": [
+        "noleggiavo",
+        "noleggiavi",
+        "noleggiava",
+        "noleggiavamo",
+        "noleggiavate",
+        "noleggiavano"
+      ],
+
+      "Passato prossimo": [
+        "ho noleggiato",
+        "hai noleggiato",
+        "ha noleggiato",
+        "abbiamo noleggiato",
+        "avete noleggiato",
+        "hanno noleggiato"
+      ],
+
+      "Passato remoto": [
+        "noleggiai",
+        "noleggiasti",
+        "noleggiò",
+        "noleggiammo",
+        "noleggiaste",
+        "noleggiarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo noleggiato",
+        "avevi noleggiato",
+        "aveva noleggiato",
+        "avevamo noleggiato",
+        "avevate noleggiato",
+        "avevano noleggiato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi noleggiato",
+        "avesti noleggiato",
+        "ebbe noleggiato",
+        "avemmo noleggiato",
+        "aveste noleggiato",
+        "ebbero noleggiato"
+      ],
+
+      "Futuro semplice": [
+        "noleggerò",
+        "noleggerai",
+        "noleggerà",
+        "noleggeremo",
+        "noleggerete",
+        "noleggeranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò noleggiato",
+        "avrai noleggiato",
+        "avrà noleggiato",
+        "avremo noleggiato",
+        "avrete noleggiato",
+        "avranno noleggiato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "noleggi",
+        "noleggi",
+        "noleggi",
+        "noleggiamo",
+        "noleggiate",
+        "noleggino"
+      ],
+
+      "Imperfetto": [
+        "noleggiassi",
+        "noleggiassi",
+        "noleggiasse",
+        "noleggiassimo",
+        "noleggiaste",
+        "noleggiassero"
+      ],
+
+      "Passato": [
+        "abbia noleggiato",
+        "abbia noleggiato",
+        "abbia noleggiato",
+        "abbiamo noleggiato",
+        "abbiate noleggiato",
+        "abbiano noleggiato"
+      ],
+
+      "Trapassato": [
+        "avessi noleggiato",
+        "avessi noleggiato",
+        "avesse noleggiato",
+        "avessimo noleggiato",
+        "aveste noleggiato",
+        "avessero noleggiato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "noleggerei",
+        "noleggeresti",
+        "noleggerebbe",
+        "noleggeremmo",
+        "noleggereste",
+        "noleggerebbero"
+      ],
+
+      "Passato": [
+        "avrei noleggiato",
+        "avresti noleggiato",
+        "avrebbe noleggiato",
+        "avremmo noleggiato",
+        "avreste noleggiato",
+        "avrebbero noleggiato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "noleggia",
+        "noleggi",
+        "noleggiamo",
+        "noleggiate",
+        "noleggino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "noleggiare",
+        "avere noleggiato",
+        "noleggiante",
+        "noleggiato",
+        "noleggiando",
+        "avendo noleggiato"
+      ]
+    }
+  }
+},
+{
+  "id": "prenotare",
+  "sid": "2026-00089",
+  "word": "prenotare",
+  "ipa": "/prenoˈtare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "prenotato",
+    "gerundPresent": "prenotando",
+    "pattern": "prenotare qualcosa / prenotare per + persona o data / prenotare a nome di qualcuno"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "restaurant",
+      "medical",
+      "business"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "部屋・席・切符・サービスなどを予約する",
+      "診察・面談・施術などの日時を予約する",
+      "商品やサービスを事前に申し込む",
+      "人のために場所・時間・物を確保する"
+    ],
+    "it": [
+      "Riservare anticipatamente una camera, un posto, un biglietto o un servizio.",
+      "Fissare in anticipo la data e l’ora di una visita o di un incontro.",
+      "Ordinare anticipatamente un prodotto o richiedere un servizio.",
+      "Assicurare a qualcuno la disponibilità futura di un posto, di un bene o di una prestazione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "将来の特定の日時に利用できるよう、場所・席・サービスなどを事前に確保することを表す。ホテル、レストラン、航空券、列車、診察などに広く使われる。riservareも「確保する」を意味するが、prenotareは予約手続きを実際に行うことに重点がある。英語bookに近く、電話・ウェブサイト・アプリなど予約方法を問わず使用できる。",
+    "it": "Indica l’atto concreto di assicurarsi in anticipo la disponibilità di un posto, un servizio o una prestazione per un momento futuro. Riservare può significare più generalmente tenere qualcosa a disposizione, mentre prenotare richiama normalmente una procedura di prenotazione effettuata per telefono, online o di persona."
+  },
+
+  "etymology": {
+    "ja": "ラテン語praenotare（あらかじめ記す、前もって印を付ける）に由来する。prae-（前に、あらかじめ）とnotare（記す、印を付ける）から成り、もともとは名前や事項を事前に記録することを表した。",
+    "it": "Dal latino praenotare, formato da prae-, «prima, in anticipo», e notare, «segnare, annotare». Il significato originario era registrare o contrassegnare qualcosa preventivamente."
+  },
+
+  "minimal": [
+    {
+      "word": "prenotare",
+      "ja": "将来利用する席・部屋・サービスなどを手続きによって事前に確保する",
+      "it": "assicurarsi anticipatamente un posto, un bene o un servizio mediante una procedura"
+    },
+    {
+      "word": "riservare",
+      "ja": "特定の人・目的のために物・場所・時間を取っておく",
+      "it": "tenere qualcosa a disposizione di una persona o per uno scopo determinato"
+    },
+    {
+      "word": "ordinare",
+      "ja": "商品や料理を提供してもらうよう注文する",
+      "it": "richiedere la fornitura di un prodotto, di un pasto o di un servizio"
+    },
+    {
+      "word": "fissare",
+      "ja": "日時・場所・条件などを具体的に決定する",
+      "it": "stabilire con precisione una data, un’ora, un luogo o una condizione"
+    }
+  ],
+
+  "synonyms": [
+    "riservare",
+    "fissare",
+    "bloccare",
+    "ordinare in anticipo",
+    "registrare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "book",
+      "reserve",
+      "make an appointment"
+    ],
+    "de": [
+      "buchen",
+      "reservieren",
+      "einen Termin vereinbaren"
+    ],
+    "fr": [
+      "réserver",
+      "prendre rendez-vous",
+      "retenir"
+    ],
+    "es": [
+      "reservar",
+      "hacer una reserva",
+      "pedir cita"
+    ]
+  },
+
+  "collocations": [
+    "prenotare una camera",
+    "prenotare un albergo",
+    "prenotare un tavolo",
+    "prenotare un posto",
+    "prenotare un biglietto",
+    "prenotare un volo",
+    "prenotare un treno",
+    "prenotare un viaggio",
+    "prenotare una visita",
+    "prenotare una visita medica",
+    "prenotare un appuntamento",
+    "prenotare un taxi",
+    "prenotare un’auto",
+    "prenotare online",
+    "prenotare per telefono",
+    "prenotare in anticipo",
+    "prenotare direttamente",
+    "prenotare per due persone",
+    "prenotare per domani",
+    "prenotare a nome di qualcuno",
+    "prenotare con carta di credito",
+    "essere necessario prenotare"
+  ],
+
+  "examples": [
+    {
+      "it": "Vorrei prenotare un tavolo per due persone.",
+      "ja": "2名分のテーブルを予約したいのですが。"
+    },
+    {
+      "it": "Abbiamo prenotato una camera per tre notti.",
+      "ja": "私たちは部屋を3泊分予約した。"
+    },
+    {
+      "it": "È necessario prenotare la visita in anticipo.",
+      "ja": "診察は事前に予約する必要がある。"
+    },
+    {
+      "it": "Hai già prenotato il volo per Roma?",
+      "ja": "ローマ行きの航空便はもう予約しましたか。"
+    },
+    {
+      "it": "La camera è stata prenotata a nome di Tanaka.",
+      "ja": "その部屋は田中名義で予約されている。"
+    },
+    {
+      "it": "Prima noleggiamo l’auto e poi prenotiamo l’albergo.",
+      "ja": "まず車をレンタルして、その後ホテルを予約しましょう。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "prenoto",
+        "prenoti",
+        "prenota",
+        "prenotiamo",
+        "prenotate",
+        "prenotano"
+      ],
+
+      "Imperfetto": [
+        "prenotavo",
+        "prenotavi",
+        "prenotava",
+        "prenotavamo",
+        "prenotavate",
+        "prenotavano"
+      ],
+
+      "Passato prossimo": [
+        "ho prenotato",
+        "hai prenotato",
+        "ha prenotato",
+        "abbiamo prenotato",
+        "avete prenotato",
+        "hanno prenotato"
+      ],
+
+      "Passato remoto": [
+        "prenotai",
+        "prenotasti",
+        "prenotò",
+        "prenotammo",
+        "prenotaste",
+        "prenotarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo prenotato",
+        "avevi prenotato",
+        "aveva prenotato",
+        "avevamo prenotato",
+        "avevate prenotato",
+        "avevano prenotato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi prenotato",
+        "avesti prenotato",
+        "ebbe prenotato",
+        "avemmo prenotato",
+        "aveste prenotato",
+        "ebbero prenotato"
+      ],
+
+      "Futuro semplice": [
+        "prenoterò",
+        "prenoterai",
+        "prenoterà",
+        "prenoteremo",
+        "prenoterete",
+        "prenoteranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò prenotato",
+        "avrai prenotato",
+        "avrà prenotato",
+        "avremo prenotato",
+        "avrete prenotato",
+        "avranno prenotato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "prenoti",
+        "prenoti",
+        "prenoti",
+        "prenotiamo",
+        "prenotiate",
+        "prenotino"
+      ],
+
+      "Imperfetto": [
+        "prenotassi",
+        "prenotassi",
+        "prenotasse",
+        "prenotassimo",
+        "prenotaste",
+        "prenotassero"
+      ],
+
+      "Passato": [
+        "abbia prenotato",
+        "abbia prenotato",
+        "abbia prenotato",
+        "abbiamo prenotato",
+        "abbiate prenotato",
+        "abbiano prenotato"
+      ],
+
+      "Trapassato": [
+        "avessi prenotato",
+        "avessi prenotato",
+        "avesse prenotato",
+        "avessimo prenotato",
+        "aveste prenotato",
+        "avessero prenotato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "prenoterei",
+        "prenoteresti",
+        "prenoterebbe",
+        "prenoteremmo",
+        "prenotereste",
+        "prenoterebbero"
+      ],
+
+      "Passato": [
+        "avrei prenotato",
+        "avresti prenotato",
+        "avrebbe prenotato",
+        "avremmo prenotato",
+        "avreste prenotato",
+        "avrebbero prenotato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "prenota",
+        "prenoti",
+        "prenotiamo",
+        "prenotate",
+        "prenotino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "prenotare",
+        "avere prenotato",
+        "prenotante",
+        "prenotato",
+        "prenotando",
+        "avendo prenotato"
+      ]
+    }
+  }
+},
+{
+  "id": "ordinare",
+  "sid": "2026-00090",
+  "word": "ordinare",
+  "ipa": "/ordiˈnare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "ordinato",
+    "gerundPresent": "ordinando",
+    "pattern": "ordinare qualcosa / ordinare a qualcuno di + infinito / ordinare che + congiuntivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "restaurant",
+      "business",
+      "legal",
+      "military"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "料理・飲み物・商品などを注文する",
+      "人に何かをするよう命令する",
+      "物を順序よく並べる、整理する",
+      "情報・項目などを一定の基準で配列する",
+      "権限に基づいて措置を命じる",
+      "聖職者として叙階する"
+    ],
+    "it": [
+      "Richiedere un piatto, una bevanda, un prodotto o un servizio.",
+      "Imporre a qualcuno di compiere una determinata azione.",
+      "Disporre oggetti o elementi secondo un ordine.",
+      "Classificare dati o voci in base a un criterio.",
+      "Disporre formalmente un provvedimento mediante un’autorità.",
+      "Conferire a qualcuno un ordine religioso."
+    ]
+  },
+
+  "nuance": {
+    "ja": "「注文する」「命令する」「整理する」という一見異なる意味を持つが、いずれも何かを一定の秩序・指示に従わせるという発想で結ばれている。レストランでは料理を依頼する通常の表現だが、ordinare a qualcuno di fare qualcosaは権限をもって命じる強い表現になる。単に依頼する場合はchiedereを用いる。",
+    "it": "I significati di richiedere un prodotto, impartire un comando e mettere in ordine derivano tutti dall’idea di disporre qualcosa secondo una volontà o un criterio. Al ristorante è il verbo normale per chiedere un piatto; nella costruzione ordinare a qualcuno di fare qualcosa esprime invece un comando forte e autorevole."
+  },
+
+  "etymology": {
+    "ja": "ラテン語ordinare（整列させる、秩序立てる）に由来し、名詞ordo, ordinis（列、順序、秩序）から作られた。イタリア語ordine、ordinato、ordinamento、英語order、フランス語ordreなども同じ語源を持つ。",
+    "it": "Dal latino ordinare, derivato da ordo, ordinis, «fila, successione, ordine». Appartengono alla stessa famiglia ordine, ordinato, ordinamento e coordinare."
+  },
+
+  "minimal": [
+    {
+      "word": "ordinare",
+      "ja": "料理・商品を注文する、命令する、または秩序立てて並べる",
+      "it": "richiedere qualcosa, impartire un comando o disporre elementi secondo un ordine"
+    },
+    {
+      "word": "prenotare",
+      "ja": "将来利用する席・部屋・サービスなどを事前に確保する",
+      "it": "assicurarsi anticipatamente la disponibilità futura di un posto o servizio"
+    },
+    {
+      "word": "chiedere",
+      "ja": "情報・物・行為などを相手に求める",
+      "it": "rivolgersi a qualcuno per ottenere informazioni, cose o azioni"
+    },
+    {
+      "word": "riordinare",
+      "ja": "乱れた物を再び整理する、または同じ商品を再注文する",
+      "it": "rimettere in ordine oppure ordinare nuovamente un prodotto"
+    }
+  ],
+
+  "synonyms": [
+    "comandare",
+    "disporre",
+    "richiedere",
+    "organizzare",
+    "classificare",
+    "sistemare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "order",
+      "command",
+      "arrange"
+    ],
+    "de": [
+      "bestellen",
+      "befehlen",
+      "ordnen"
+    ],
+    "fr": [
+      "commander",
+      "ordonner",
+      "classer"
+    ],
+    "es": [
+      "pedir",
+      "ordenar",
+      "clasificar"
+    ]
+  },
+
+  "collocations": [
+    "ordinare qualcosa",
+    "ordinare un piatto",
+    "ordinare da bere",
+    "ordinare un caffè",
+    "ordinare una pizza",
+    "ordinare al ristorante",
+    "ordinare online",
+    "ordinare per telefono",
+    "ordinare un prodotto",
+    "ordinare un libro",
+    "ordinare a domicilio",
+    "ordinare a qualcuno di fare qualcosa",
+    "ordinare di fermarsi",
+    "ordinare il ritiro",
+    "ordinare un pagamento",
+    "ordinare un’indagine",
+    "ordinare alfabeticamente",
+    "ordinare cronologicamente",
+    "ordinare per data",
+    "ordinare per prezzo",
+    "ordinare i documenti",
+    "ordinare le idee",
+    "mettere in ordine"
+  ],
+
+  "examples": [
+    {
+      "it": "Vorrei ordinare una pizza e un bicchiere di vino.",
+      "ja": "ピザ一枚とワインを一杯注文したいのですが。"
+    },
+    {
+      "it": "Hai già ordinato da mangiare?",
+      "ja": "もう食べ物を注文しましたか。"
+    },
+    {
+      "it": "Il direttore gli ha ordinato di lasciare l’ufficio.",
+      "ja": "部長は彼に事務所から退出するよう命じた。"
+    },
+    {
+      "it": "I documenti devono essere ordinati cronologicamente.",
+      "ja": "書類は年代順に整理しなければならない。"
+    },
+    {
+      "it": "Il giudice ha ordinato il ritiro del prodotto.",
+      "ja": "裁判官はその製品の回収を命じた。"
+    },
+    {
+      "it": "Prima di decidere, devo ordinare le idee.",
+      "ja": "決定する前に、考えを整理しなければならない。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "ordino",
+        "ordini",
+        "ordina",
+        "ordiniamo",
+        "ordinate",
+        "ordinano"
+      ],
+
+      "Imperfetto": [
+        "ordinavo",
+        "ordinavi",
+        "ordinava",
+        "ordinavamo",
+        "ordinavate",
+        "ordinavano"
+      ],
+
+      "Passato prossimo": [
+        "ho ordinato",
+        "hai ordinato",
+        "ha ordinato",
+        "abbiamo ordinato",
+        "avete ordinato",
+        "hanno ordinato"
+      ],
+
+      "Passato remoto": [
+        "ordinai",
+        "ordinasti",
+        "ordinò",
+        "ordinammo",
+        "ordinaste",
+        "ordinarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo ordinato",
+        "avevi ordinato",
+        "aveva ordinato",
+        "avevamo ordinato",
+        "avevate ordinato",
+        "avevano ordinato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi ordinato",
+        "avesti ordinato",
+        "ebbe ordinato",
+        "avemmo ordinato",
+        "aveste ordinato",
+        "ebbero ordinato"
+      ],
+
+      "Futuro semplice": [
+        "ordinerò",
+        "ordinerai",
+        "ordinerà",
+        "ordineremo",
+        "ordinerete",
+        "ordineranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò ordinato",
+        "avrai ordinato",
+        "avrà ordinato",
+        "avremo ordinato",
+        "avrete ordinato",
+        "avranno ordinato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "ordini",
+        "ordini",
+        "ordini",
+        "ordiniamo",
+        "ordiniate",
+        "ordinino"
+      ],
+
+      "Imperfetto": [
+        "ordinassi",
+        "ordinassi",
+        "ordinasse",
+        "ordinassimo",
+        "ordinaste",
+        "ordinassero"
+      ],
+
+      "Passato": [
+        "abbia ordinato",
+        "abbia ordinato",
+        "abbia ordinato",
+        "abbiamo ordinato",
+        "abbiate ordinato",
+        "abbiano ordinato"
+      ],
+
+      "Trapassato": [
+        "avessi ordinato",
+        "avessi ordinato",
+        "avesse ordinato",
+        "avessimo ordinato",
+        "aveste ordinato",
+        "avessero ordinato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "ordinerei",
+        "ordineresti",
+        "ordinerebbe",
+        "ordineremmo",
+        "ordinereste",
+        "ordinerebbero"
+      ],
+
+      "Passato": [
+        "avrei ordinato",
+        "avresti ordinato",
+        "avrebbe ordinato",
+        "avremmo ordinato",
+        "avreste ordinato",
+        "avrebbero ordinato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "ordina",
+        "ordini",
+        "ordiniamo",
+        "ordinate",
+        "ordinino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "ordinare",
+        "avere ordinato",
+        "ordinante",
+        "ordinato",
+        "ordinando",
+        "avendo ordinato"
+      ]
+    }
+  }
+},
+{
+  "id": "riservare",
+  "sid": "2026-00091",
+  "word": "riservare",
+  "ipa": "/rizerˈvare/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "riservato",
+    "gerundPresent": "riservando",
+    "pattern": "riservare qualcosa a qualcuno / riservare qualcosa per qualcuno / riservarsi di + infinito"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "restaurant",
+      "legal"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "席・部屋・物などを特定の人のために確保しておく",
+      "物・時間・資源などを将来のために取っておく",
+      "特定の人に対応・待遇・結果などを与える",
+      "ある権利・決定・行為を後のために留保する",
+      "人に驚き・運命・結果などをもたらす"
+    ],
+    "it": [
+      "Tenere un posto, una camera o un bene a disposizione di qualcuno.",
+      "Conservare qualcosa per un uso o un momento futuro.",
+      "Destinare a qualcuno un trattamento, un’accoglienza o una conseguenza.",
+      "Mantenere per sé un diritto, una decisione o la possibilità di agire.",
+      "Preparare o destinare a qualcuno una sorpresa o un determinato esito."
+    ]
+  },
+
+  "nuance": {
+    "ja": "特定の人・目的・将来の機会のために、物や権利を他に使わず取っておくことを表す。prenotareが予約手続きを行う行為に重点を置くのに対し、riservareは対象を確保・留保しておく状態に重点がある。ただし、ホテルやレストランではprenotareと同様に「予約する」の意味でも使われる。代名動詞riservarsiは、決定権・権利・判断などを自分の手元に留保することを表す。",
+    "it": "Mette in rilievo il fatto di destinare o mantenere qualcosa a disposizione di una persona, di uno scopo o di un momento futuro. Prenotare richiama soprattutto la procedura con cui si effettua una prenotazione; riservare sottolinea maggiormente la destinazione esclusiva o la conservazione. La forma riservarsi indica il mantenimento di un diritto o di una facoltà decisionale."
+  },
+
+  "etymology": {
+    "ja": "ラテン語reservare（取っておく、保存する）に由来する。re-（後ろへ、再び）とservare（保つ、守る）から成り、もともとは「後のために保持する」という意味を持っていた。英語reserve、フランス語réserver、スペイン語reservarとも同語源である。",
+    "it": "Dal latino reservare, formato da re- e servare, «conservare, custodire». Il significato originario è quello di mantenere qualcosa per un momento o uno scopo successivo."
+  },
+
+  "minimal": [
+    {
+      "word": "riservare",
+      "ja": "特定の人・目的・将来のために、物や権利を確保しておく",
+      "it": "tenere qualcosa a disposizione di qualcuno o per uno scopo futuro"
+    },
+    {
+      "word": "prenotare",
+      "ja": "席・部屋・サービスなどを利用するための予約手続きを行う",
+      "it": "effettuare una procedura per assicurarsi anticipatamente un posto o servizio"
+    },
+    {
+      "word": "conservare",
+      "ja": "物を失ったり傷んだりしないよう保持する",
+      "it": "mantenere qualcosa integro o disponibile nel tempo"
+    },
+    {
+      "word": "destinare",
+      "ja": "人・資金・物などを特定の目的や用途に割り当てる",
+      "it": "assegnare una persona, una somma o un bene a uno scopo determinato"
+    }
+  ],
+
+  "synonyms": [
+    "prenotare",
+    "conservare",
+    "destinare",
+    "tenere da parte",
+    "accantonare",
+    "assegnare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "reserve",
+      "set aside",
+      "save for"
+    ],
+    "de": [
+      "reservieren",
+      "vorbehalten",
+      "zurücklegen"
+    ],
+    "fr": [
+      "réserver",
+      "garder",
+      "mettre de côté"
+    ],
+    "es": [
+      "reservar",
+      "guardar",
+      "apartar"
+    ]
+  },
+
+  "collocations": [
+    "riservare un tavolo",
+    "riservare una camera",
+    "riservare un posto",
+    "riservare un biglietto",
+    "riservare qualcosa a qualcuno",
+    "riservare qualcosa per qualcuno",
+    "riservare un’accoglienza",
+    "riservare un trattamento",
+    "riservare un’attenzione particolare",
+    "riservare una sorpresa",
+    "riservare del tempo",
+    "riservare una parte",
+    "riservare fondi",
+    "riservare il diritto di",
+    "riservare la decisione",
+    "essere riservato a",
+    "posto riservato",
+    "accesso riservato",
+    "area riservata",
+    "tutti i diritti riservati",
+    "che cosa ci riserva il futuro?"
+  ],
+
+  "examples": [
+    {
+      "it": "Vorrei riservare un tavolo per quattro persone.",
+      "ja": "4名分のテーブルを予約したいのですが。"
+    },
+    {
+      "it": "Abbiamo riservato una camera per i nostri ospiti.",
+      "ja": "私たちは来客のために部屋を確保した。"
+    },
+    {
+      "it": "Questo posto è riservato alle persone con disabilità.",
+      "ja": "この席は障害のある人のために確保されている。"
+    },
+    {
+      "it": "Dobbiamo riservare più tempo alla preparazione.",
+      "ja": "私たちは準備にもっと時間を割かなければならない。"
+    },
+    {
+      "it": "L’azienda si riserva il diritto di modificare le condizioni.",
+      "ja": "会社は条件を変更する権利を留保する。"
+    },
+    {
+      "it": "Non sappiamo che cosa ci riserverà il futuro.",
+      "ja": "将来何が待ち受けているか、私たちには分からない。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "riservo",
+        "riservi",
+        "riserva",
+        "riserviamo",
+        "riservate",
+        "riservano"
+      ],
+
+      "Imperfetto": [
+        "riservavo",
+        "riservavi",
+        "riservava",
+        "riservavamo",
+        "riservavate",
+        "riservavano"
+      ],
+
+      "Passato prossimo": [
+        "ho riservato",
+        "hai riservato",
+        "ha riservato",
+        "abbiamo riservato",
+        "avete riservato",
+        "hanno riservato"
+      ],
+
+      "Passato remoto": [
+        "riservai",
+        "riservasti",
+        "riservò",
+        "riservammo",
+        "riservaste",
+        "riservarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo riservato",
+        "avevi riservato",
+        "aveva riservato",
+        "avevamo riservato",
+        "avevate riservato",
+        "avevano riservato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi riservato",
+        "avesti riservato",
+        "ebbe riservato",
+        "avemmo riservato",
+        "aveste riservato",
+        "ebbero riservato"
+      ],
+
+      "Futuro semplice": [
+        "riserverò",
+        "riserverai",
+        "riserverà",
+        "riserveremo",
+        "riserverete",
+        "riserveranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò riservato",
+        "avrai riservato",
+        "avrà riservato",
+        "avremo riservato",
+        "avrete riservato",
+        "avranno riservato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "riservi",
+        "riservi",
+        "riservi",
+        "riserviamo",
+        "riserviate",
+        "riservino"
+      ],
+
+      "Imperfetto": [
+        "riservassi",
+        "riservassi",
+        "riservasse",
+        "riservassimo",
+        "riservaste",
+        "riservassero"
+      ],
+
+      "Passato": [
+        "abbia riservato",
+        "abbia riservato",
+        "abbia riservato",
+        "abbiamo riservato",
+        "abbiate riservato",
+        "abbiano riservato"
+      ],
+
+      "Trapassato": [
+        "avessi riservato",
+        "avessi riservato",
+        "avesse riservato",
+        "avessimo riservato",
+        "aveste riservato",
+        "avessero riservato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "riserverei",
+        "riserveresti",
+        "riserverebbe",
+        "riserveremmo",
+        "riservereste",
+        "riserverebbero"
+      ],
+
+      "Passato": [
+        "avrei riservato",
+        "avresti riservato",
+        "avrebbe riservato",
+        "avremmo riservato",
+        "avreste riservato",
+        "avrebbero riservato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "riserva",
+        "riservi",
+        "riserviamo",
+        "riservate",
+        "riservino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "riservare",
+        "avere riservato",
+        "riservante",
+        "riservato",
+        "riservando",
+        "avendo riservato"
+      ]
+    }
+  }
+},
+{
+  "id": "cambiare",
+  "sid": "2026-00092",
+  "word": "cambiare",
+  "ipa": "/kamˈbjare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere nell’uso transitivo; essere nell’uso intransitivo",
+    "pastParticiple": "cambiato",
+    "gerundPresent": "cambiando",
+    "pattern": "cambiare qualcosa / cambiare da… a… / cambiare idea / cambiare in + nome"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "travel",
+      "shopping"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "物・状態・方法などを変える",
+      "別の物と交換する、取り替える",
+      "考え・計画・態度などを変更する",
+      "人や物が変わる、変化する",
+      "服を着替える",
+      "交通機関を乗り換える",
+      "通貨や紙幣を両替する、崩す"
+    ],
+    "it": [
+      "Rendere qualcosa diverso da com’era prima.",
+      "Sostituire una cosa con un’altra.",
+      "Modificare un’opinione, un programma o un comportamento.",
+      "Diventare diverso o subire una trasformazione.",
+      "Indossare abiti diversi.",
+      "Passare da un mezzo di trasporto a un altro.",
+      "Convertire denaro in un’altra valuta o in tagli differenti."
+    ]
+  },
+
+  "nuance": {
+    "ja": "非常に広い意味を持つ基本動詞で、「変える」と「変わる」の両方を表せる。他動詞として目的語を変える場合はavereを使い、ho cambiato lavoroとなる。主語自身が変化した場合はessereを使い、sono cambiatoやla situazione è cambiataとなり、過去分詞は主語の性・数に一致する。ただし、乗り換えや着替えなど一部の用法ではavereも広く使われる。",
+    "it": "Può indicare sia il fatto di modificare qualcosa sia quello di diventare diversi. Nell’uso transitivo adopera avere, come in ho cambiato lavoro. Nell’uso intransitivo che esprime una trasformazione del soggetto adopera essere, come in sono cambiato o la situazione è cambiata, con accordo del participio."
+  },
+
+  "etymology": {
+    "ja": "後期ラテン語cambiare（交換する）に由来する。これはラテン語本来の語ではなく、ガリア語などケルト系の語から借用されたと考えられている。フランス語changer、スペイン語cambiar、英語changeとも歴史的に関係する。",
+    "it": "Dal latino tardo cambiare, «scambiare», probabilmente di origine celtica. Appartengono alla stessa famiglia cambio, scambio e cambiale ed è storicamente collegato al francese changer e allo spagnolo cambiar."
+  },
+
+  "minimal": [
+    {
+      "word": "cambiare",
+      "ja": "物・状況を別のものに変える、または主語自身が変化する",
+      "it": "rendere qualcosa diverso oppure diventare diversi"
+    },
+    {
+      "word": "modificare",
+      "ja": "基本的な同一性を保ちながら、部分・内容・設定などを修正する",
+      "it": "apportare variazioni parziali senza sostituire completamente qualcosa"
+    },
+    {
+      "word": "sostituire",
+      "ja": "ある人・物を取り除き、別の人・物をその位置に置く",
+      "it": "mettere una persona o una cosa al posto di un’altra"
+    },
+    {
+      "word": "scambiare",
+      "ja": "二者の間で物を交換する、または何かを別のものと取り違える",
+      "it": "dare qualcosa ricevendone un’altra oppure confondere due elementi"
+    }
+  ],
+
+  "synonyms": [
+    "modificare",
+    "trasformare",
+    "sostituire",
+    "variare",
+    "mutare",
+    "scambiare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "change",
+      "exchange",
+      "switch"
+    ],
+    "de": [
+      "ändern",
+      "wechseln",
+      "umtauschen"
+    ],
+    "fr": [
+      "changer",
+      "modifier",
+      "échanger"
+    ],
+    "es": [
+      "cambiar",
+      "modificar",
+      "intercambiar"
+    ]
+  },
+
+  "collocations": [
+    "cambiare qualcosa",
+    "cambiare idea",
+    "cambiare opinione",
+    "cambiare atteggiamento",
+    "cambiare programma",
+    "cambiare lavoro",
+    "cambiare casa",
+    "cambiare vita",
+    "cambiare strada",
+    "cambiare direzione",
+    "cambiare argomento",
+    "cambiare discorso",
+    "cambiare metodo",
+    "cambiare nome",
+    "cambiare colore",
+    "cambiare forma",
+    "cambiare vestito",
+    "cambiare treno",
+    "cambiare autobus",
+    "cambiare a Roma",
+    "cambiare denaro",
+    "cambiare valuta",
+    "cambiare una banconota",
+    "cambiare da… a…",
+    "cambiare in meglio",
+    "cambiare in peggio"
+  ],
+
+  "examples": [
+    {
+      "it": "Ho cambiato idea dopo aver parlato con lei.",
+      "ja": "彼女と話した後、私は考えを変えた。"
+    },
+    {
+      "it": "La situazione è cambiata molto rapidamente.",
+      "ja": "状況は非常に急速に変化した。"
+    },
+    {
+      "it": "Vorrei cambiare questa camicia con una più grande.",
+      "ja": "このシャツをもっと大きいものと交換したい。"
+    },
+    {
+      "it": "Per andare a Firenze dobbiamo cambiare treno a Bologna.",
+      "ja": "フィレンツェへ行くには、ボローニャで列車を乗り換えなければならない。"
+    },
+    {
+      "it": "Sei molto cambiato dall’ultima volta.",
+      "ja": "前回会ったときから、あなたはずいぶん変わった。"
+    },
+    {
+      "it": "Dove posso cambiare gli euro in yen?",
+      "ja": "どこでユーロを円に両替できますか。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "cambio",
+        "cambi",
+        "cambia",
+        "cambiamo",
+        "cambiate",
+        "cambiano"
+      ],
+
+      "Imperfetto": [
+        "cambiavo",
+        "cambiavi",
+        "cambiava",
+        "cambiavamo",
+        "cambiavate",
+        "cambiavano"
+      ],
+
+      "Passato prossimo": [
+        "ho cambiato / sono cambiato/a",
+        "hai cambiato / sei cambiato/a",
+        "ha cambiato / è cambiato/a",
+        "abbiamo cambiato / siamo cambiati/e",
+        "avete cambiato / siete cambiati/e",
+        "hanno cambiato / sono cambiati/e"
+      ],
+
+      "Passato remoto": [
+        "cambiai",
+        "cambiasti",
+        "cambiò",
+        "cambiammo",
+        "cambiaste",
+        "cambiarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo cambiato / ero cambiato/a",
+        "avevi cambiato / eri cambiato/a",
+        "aveva cambiato / era cambiato/a",
+        "avevamo cambiato / eravamo cambiati/e",
+        "avevate cambiato / eravate cambiati/e",
+        "avevano cambiato / erano cambiati/e"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi cambiato / fui cambiato/a",
+        "avesti cambiato / fosti cambiato/a",
+        "ebbe cambiato / fu cambiato/a",
+        "avemmo cambiato / fummo cambiati/e",
+        "aveste cambiato / foste cambiati/e",
+        "ebbero cambiato / furono cambiati/e"
+      ],
+
+      "Futuro semplice": [
+        "cambierò",
+        "cambierai",
+        "cambierà",
+        "cambieremo",
+        "cambierete",
+        "cambieranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò cambiato / sarò cambiato/a",
+        "avrai cambiato / sarai cambiato/a",
+        "avrà cambiato / sarà cambiato/a",
+        "avremo cambiato / saremo cambiati/e",
+        "avrete cambiato / sarete cambiati/e",
+        "avranno cambiato / saranno cambiati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "cambi",
+        "cambi",
+        "cambi",
+        "cambiamo",
+        "cambiate",
+        "cambino"
+      ],
+
+      "Imperfetto": [
+        "cambiassi",
+        "cambiassi",
+        "cambiasse",
+        "cambiassimo",
+        "cambiaste",
+        "cambiassero"
+      ],
+
+      "Passato": [
+        "abbia cambiato / sia cambiato/a",
+        "abbia cambiato / sia cambiato/a",
+        "abbia cambiato / sia cambiato/a",
+        "abbiamo cambiato / siamo cambiati/e",
+        "abbiate cambiato / siate cambiati/e",
+        "abbiano cambiato / siano cambiati/e"
+      ],
+
+      "Trapassato": [
+        "avessi cambiato / fossi cambiato/a",
+        "avessi cambiato / fossi cambiato/a",
+        "avesse cambiato / fosse cambiato/a",
+        "avessimo cambiato / fossimo cambiati/e",
+        "aveste cambiato / foste cambiati/e",
+        "avessero cambiato / fossero cambiati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "cambierei",
+        "cambieresti",
+        "cambierebbe",
+        "cambieremmo",
+        "cambiereste",
+        "cambierebbero"
+      ],
+
+      "Passato": [
+        "avrei cambiato / sarei cambiato/a",
+        "avresti cambiato / saresti cambiato/a",
+        "avrebbe cambiato / sarebbe cambiato/a",
+        "avremmo cambiato / saremmo cambiati/e",
+        "avreste cambiato / sareste cambiati/e",
+        "avrebbero cambiato / sarebbero cambiati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "cambia",
+        "cambi",
+        "cambiamo",
+        "cambiate",
+        "cambino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "cambiare",
+        "avere cambiato / essere cambiato/a/i/e",
+        "cambiante",
+        "cambiato",
+        "cambiando",
+        "avendo cambiato / essendo cambiato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "camminare",
+  "sid": "2026-00093",
+  "word": "camminare",
+  "ipa": "/kammiˈnare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "camminato",
+    "gerundPresent": "camminando",
+    "pattern": "camminare per/in/su + luogo / camminare per + durata o distanza / camminare verso + luogo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "health",
+      "leisure"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "歩く、徒歩で進む",
+      "一定の距離・時間を歩く",
+      "道・場所などを歩いて通る",
+      "計画・仕事などが進行する",
+      "機械・装置などが動く、機能する"
+    ],
+    "it": [
+      "Spostarsi a piedi mediante una successione di passi.",
+      "Percorrere a piedi una determinata distanza o camminare per un certo tempo.",
+      "Attraversare o percorrere un luogo a piedi.",
+      "In senso figurato, procedere o svilupparsi.",
+      "Nel linguaggio colloquiale, funzionare o essere in attività."
+    ]
+  },
+
+  "nuance": {
+    "ja": "徒歩による移動を表す最も一般的な動詞で、目的地よりも「歩く」という動作そのものに焦点がある。andare a piediは交通手段として徒歩を選ぶこと、passeggiareは楽しみ・気分転換のためにゆっくり歩くことを強調する。移動動詞だが、複合時制では通常avereを用いてho camminatoとなる。",
+    "it": "È il verbo più generale per indicare lo spostamento a piedi e mette in rilievo l’azione del procedere passo dopo passo. Andare a piedi presenta il cammino come mezzo di trasporto, mentre passeggiare indica normalmente un’attività piacevole o rilassata. Nei tempi composti camminare usa generalmente avere."
+  },
+
+  "etymology": {
+    "ja": "名詞cammino（道、歩み）から作られた動詞である。camminoは俗ラテン語camminusに由来し、さらにケルト系の語にさかのぼる可能性が高い。フランス語chemin（道）やスペイン語camino、caminarとも歴史的に関係する。",
+    "it": "Deriva dal sostantivo cammino, dal latino volgare camminus, probabilmente di origine celtica. È storicamente collegato allo spagnolo camino e caminar e al francese chemin."
+  },
+
+  "minimal": [
+    {
+      "word": "camminare",
+      "ja": "目的や速度を限定せず、一般に徒歩で進む",
+      "it": "spostarsi a piedi in senso generale"
+    },
+    {
+      "word": "passeggiare",
+      "ja": "楽しみ・健康・気分転換のために、比較的ゆっくり歩く",
+      "it": "camminare senza fretta, soprattutto per piacere o svago"
+    },
+    {
+      "word": "andare a piedi",
+      "ja": "車などを使わず、交通手段として徒歩で行く",
+      "it": "raggiungere un luogo usando il cammino come mezzo di trasporto"
+    },
+    {
+      "word": "marciare",
+      "ja": "一定の歩調・隊列で、または目的をもって力強く歩く",
+      "it": "procedere con passo regolare, spesso in gruppo o con uno scopo preciso"
+    }
+  ],
+
+  "synonyms": [
+    "andare a piedi",
+    "procedere",
+    "avanzare",
+    "passeggiare",
+    "marciare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "walk",
+      "go on foot",
+      "proceed"
+    ],
+    "de": [
+      "gehen",
+      "zu Fuß gehen",
+      "laufen"
+    ],
+    "fr": [
+      "marcher",
+      "aller à pied",
+      "avancer"
+    ],
+    "es": [
+      "caminar",
+      "andar",
+      "ir a pie"
+    ]
+  },
+
+  "collocations": [
+    "camminare a piedi",
+    "camminare lentamente",
+    "camminare velocemente",
+    "camminare molto",
+    "camminare poco",
+    "camminare da solo",
+    "camminare insieme",
+    "camminare per strada",
+    "camminare nel parco",
+    "camminare in montagna",
+    "camminare sulla spiaggia",
+    "camminare lungo il fiume",
+    "camminare verso casa",
+    "camminare fino alla stazione",
+    "camminare per un’ora",
+    "camminare dieci chilometri",
+    "camminare a passo lento",
+    "camminare a passo svelto",
+    "camminare avanti e indietro",
+    "imparare a camminare",
+    "continuare a camminare",
+    "camminare con le proprie gambe"
+  ],
+
+  "examples": [
+    {
+      "it": "Ogni mattina cammino per mezz’ora.",
+      "ja": "私は毎朝30分歩く。"
+    },
+    {
+      "it": "Preferisco camminare invece di prendere l’autobus.",
+      "ja": "私はバスに乗るより歩くほうが好きだ。"
+    },
+    {
+      "it": "Ieri abbiamo camminato per dieci chilometri.",
+      "ja": "昨日、私たちは10キロメートル歩いた。"
+    },
+    {
+      "it": "Dalla stazione bisogna camminare per circa cinque minuti.",
+      "ja": "駅からは5分ほど歩く必要がある。"
+    },
+    {
+      "it": "Il bambino ha iniziato a camminare.",
+      "ja": "その子どもは歩き始めた。"
+    },
+    {
+      "it": "Continua a camminare fino al semaforo.",
+      "ja": "信号までそのまま歩き続けてください。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "cammino",
+        "cammini",
+        "cammina",
+        "camminiamo",
+        "camminate",
+        "camminano"
+      ],
+
+      "Imperfetto": [
+        "camminavo",
+        "camminavi",
+        "camminava",
+        "camminavamo",
+        "camminavate",
+        "camminavano"
+      ],
+
+      "Passato prossimo": [
+        "ho camminato",
+        "hai camminato",
+        "ha camminato",
+        "abbiamo camminato",
+        "avete camminato",
+        "hanno camminato"
+      ],
+
+      "Passato remoto": [
+        "camminai",
+        "camminasti",
+        "camminò",
+        "camminammo",
+        "camminaste",
+        "camminarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo camminato",
+        "avevi camminato",
+        "aveva camminato",
+        "avevamo camminato",
+        "avevate camminato",
+        "avevano camminato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi camminato",
+        "avesti camminato",
+        "ebbe camminato",
+        "avemmo camminato",
+        "aveste camminato",
+        "ebbero camminato"
+      ],
+
+      "Futuro semplice": [
+        "camminerò",
+        "camminerai",
+        "camminerà",
+        "cammineremo",
+        "camminerete",
+        "cammineranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò camminato",
+        "avrai camminato",
+        "avrà camminato",
+        "avremo camminato",
+        "avrete camminato",
+        "avranno camminato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "cammini",
+        "cammini",
+        "cammini",
+        "camminiamo",
+        "camminiate",
+        "camminino"
+      ],
+
+      "Imperfetto": [
+        "camminassi",
+        "camminassi",
+        "camminasse",
+        "camminassimo",
+        "camminaste",
+        "camminassero"
+      ],
+
+      "Passato": [
+        "abbia camminato",
+        "abbia camminato",
+        "abbia camminato",
+        "abbiamo camminato",
+        "abbiate camminato",
+        "abbiano camminato"
+      ],
+
+      "Trapassato": [
+        "avessi camminato",
+        "avessi camminato",
+        "avesse camminato",
+        "avessimo camminato",
+        "aveste camminato",
+        "avessero camminato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "camminerei",
+        "cammineresti",
+        "camminerebbe",
+        "cammineremmo",
+        "camminereste",
+        "camminerebbero"
+      ],
+
+      "Passato": [
+        "avrei camminato",
+        "avresti camminato",
+        "avrebbe camminato",
+        "avremmo camminato",
+        "avreste camminato",
+        "avrebbero camminato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "cammina",
+        "cammini",
+        "camminiamo",
+        "camminate",
+        "camminino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "camminare",
+        "avere camminato",
+        "camminante",
+        "camminato",
+        "camminando",
+        "avendo camminato"
+      ]
+    }
+  }
+},
+{
+  "id": "viaggiare",
+  "sid": "2026-00094",
+  "word": "viaggiare",
+  "ipa": "/vjadˈdʒare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "viaggiato",
+    "gerundPresent": "viaggiando",
+    "pattern": "viaggiare in/a/per + luogo / viaggiare con + mezzo o persona / viaggiare per + motivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "business",
+      "leisure"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "旅行する、旅をする",
+      "交通機関などで移動する",
+      "ある国・地域を巡る",
+      "仕事・観光などの目的で遠方へ行く",
+      "物・情報などが運ばれる、伝わる",
+      "一定の速度で走行する"
+    ],
+    "it": [
+      "Spostarsi da un luogo a un altro, generalmente su una distanza considerevole.",
+      "Servirsi di un mezzo di trasporto per compiere un percorso.",
+      "Visitare paesi o regioni diversi.",
+      "Recarsi lontano per lavoro, turismo o altri motivi.",
+      "Essere trasportato o trasmesso da un luogo a un altro.",
+      "Procedere a una determinata velocità."
+    ]
+  },
+
+  "nuance": {
+    "ja": "ある程度まとまった距離を移動することや、移動を伴う旅の経験全体を表す。andareが一地点から別の地点へ行く個別の移動を表すのに対し、viaggiareは移動の過程・頻度・方法・旅そのものに焦点を置く。移動動詞だが複合時制では通常avereを用いてho viaggiatoとなる。",
+    "it": "Mette in rilievo il viaggio come attività, esperienza o modalità di spostamento. Andare indica normalmente un singolo movimento verso una destinazione, mentre viaggiare richiama il percorso, la frequenza, il mezzo utilizzato o l’esperienza complessiva. Nei tempi composti usa normalmente avere."
+  },
+
+  "etymology": {
+    "ja": "名詞viaggio（旅）から作られた動詞である。viaggioは古プロヴァンス語viatgeまたは古フランス語viageを経て、ラテン語viaticum（旅に必要なもの、旅費）に由来する。viaticumはvia（道）から派生した。",
+    "it": "Deriva dal sostantivo viaggio, proveniente dall’antico provenzale viatge o dall’antico francese viage e risalente al latino viaticum, «provviste o denaro per il viaggio», a sua volta derivato da via."
+  },
+
+  "minimal": [
+    {
+      "word": "viaggiare",
+      "ja": "移動の過程や旅の経験そのものに重点を置いて旅行する",
+      "it": "compiere viaggi mettendo in rilievo il percorso o l’esperienza"
+    },
+    {
+      "word": "andare",
+      "ja": "ある場所から目的地へ向かって移動する",
+      "it": "muoversi verso una determinata destinazione"
+    },
+    {
+      "word": "spostarsi",
+      "ja": "現在地から別の場所へ移動する",
+      "it": "cambiare posizione o trasferirsi da un luogo a un altro"
+    },
+    {
+      "word": "visitare",
+      "ja": "人・場所・施設などを目的をもって訪れる",
+      "it": "recarsi presso una persona o un luogo per conoscerlo o incontrarla"
+    }
+  ],
+
+  "synonyms": [
+    "spostarsi",
+    "andare in viaggio",
+    "girare",
+    "percorrere",
+    "muoversi"
+  ],
+
+  "equivalents": {
+    "en": [
+      "travel",
+      "journey",
+      "go on a trip"
+    ],
+    "de": [
+      "reisen",
+      "unterwegs sein",
+      "fahren"
+    ],
+    "fr": [
+      "voyager",
+      "se déplacer",
+      "partir en voyage"
+    ],
+    "es": [
+      "viajar",
+      "desplazarse",
+      "irse de viaje"
+    ]
+  },
+
+  "collocations": [
+    "viaggiare molto",
+    "viaggiare spesso",
+    "viaggiare da solo",
+    "viaggiare insieme",
+    "viaggiare con qualcuno",
+    "viaggiare in Italia",
+    "viaggiare all’estero",
+    "viaggiare per il mondo",
+    "viaggiare per lavoro",
+    "viaggiare per piacere",
+    "viaggiare in treno",
+    "viaggiare in aereo",
+    "viaggiare in macchina",
+    "viaggiare in autobus",
+    "viaggiare in prima classe",
+    "viaggiare in seconda classe",
+    "viaggiare di notte",
+    "viaggiare leggeri",
+    "viaggiare comodamente",
+    "viaggiare a una certa velocità",
+    "amare viaggiare",
+    "avere voglia di viaggiare",
+    "imparare viaggiando"
+  ],
+
+  "examples": [
+    {
+      "it": "Mi piace viaggiare e conoscere nuovi paesi.",
+      "ja": "私は旅行して新しい国々を知ることが好きだ。"
+    },
+    {
+      "it": "Viaggiamo spesso in treno.",
+      "ja": "私たちはよく列車で旅行する。"
+    },
+    {
+      "it": "L’anno scorso abbiamo viaggiato per tutta l’Italia.",
+      "ja": "昨年、私たちはイタリア全土を旅行した。"
+    },
+    {
+      "it": "Per lavoro devo viaggiare molto.",
+      "ja": "仕事で私は頻繁に出張しなければならない。"
+    },
+    {
+      "it": "Preferisco viaggiare leggero con un solo bagaglio.",
+      "ja": "私は荷物一つで身軽に旅行するほうが好きだ。"
+    },
+    {
+      "it": "Il treno viaggiava a più di duecento chilometri all’ora.",
+      "ja": "その列車は時速200キロメートル以上で走っていた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "viaggio",
+        "viaggi",
+        "viaggia",
+        "viaggiamo",
+        "viaggiate",
+        "viaggiano"
+      ],
+
+      "Imperfetto": [
+        "viaggiavo",
+        "viaggiavi",
+        "viaggiava",
+        "viaggiavamo",
+        "viaggiavate",
+        "viaggiavano"
+      ],
+
+      "Passato prossimo": [
+        "ho viaggiato",
+        "hai viaggiato",
+        "ha viaggiato",
+        "abbiamo viaggiato",
+        "avete viaggiato",
+        "hanno viaggiato"
+      ],
+
+      "Passato remoto": [
+        "viaggiai",
+        "viaggiasti",
+        "viaggiò",
+        "viaggiammo",
+        "viaggiaste",
+        "viaggiarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo viaggiato",
+        "avevi viaggiato",
+        "aveva viaggiato",
+        "avevamo viaggiato",
+        "avevate viaggiato",
+        "avevano viaggiato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi viaggiato",
+        "avesti viaggiato",
+        "ebbe viaggiato",
+        "avemmo viaggiato",
+        "aveste viaggiato",
+        "ebbero viaggiato"
+      ],
+
+      "Futuro semplice": [
+        "viaggerò",
+        "viaggerai",
+        "viaggerà",
+        "viaggeremo",
+        "viaggerete",
+        "viaggeranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò viaggiato",
+        "avrai viaggiato",
+        "avrà viaggiato",
+        "avremo viaggiato",
+        "avrete viaggiato",
+        "avranno viaggiato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "viaggi",
+        "viaggi",
+        "viaggi",
+        "viaggiamo",
+        "viaggiate",
+        "viaggino"
+      ],
+
+      "Imperfetto": [
+        "viaggiassi",
+        "viaggiassi",
+        "viaggiasse",
+        "viaggiassimo",
+        "viaggiaste",
+        "viaggiassero"
+      ],
+
+      "Passato": [
+        "abbia viaggiato",
+        "abbia viaggiato",
+        "abbia viaggiato",
+        "abbiamo viaggiato",
+        "abbiate viaggiato",
+        "abbiano viaggiato"
+      ],
+
+      "Trapassato": [
+        "avessi viaggiato",
+        "avessi viaggiato",
+        "avesse viaggiato",
+        "avessimo viaggiato",
+        "aveste viaggiato",
+        "avessero viaggiato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "viaggerei",
+        "viaggeresti",
+        "viaggerebbe",
+        "viaggeremmo",
+        "viaggereste",
+        "viaggerebbero"
+      ],
+
+      "Passato": [
+        "avrei viaggiato",
+        "avresti viaggiato",
+        "avrebbe viaggiato",
+        "avremmo viaggiato",
+        "avreste viaggiato",
+        "avrebbero viaggiato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "viaggia",
+        "viaggi",
+        "viaggiamo",
+        "viaggiate",
+        "viaggino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "viaggiare",
+        "avere viaggiato",
+        "viaggiante",
+        "viaggiato",
+        "viaggiando",
+        "avendo viaggiato"
+      ]
+    }
+  }
+},
+{
+  "id": "rilassarsi",
+  "sid": "2026-00095",
+  "word": "rilassarsi",
+  "ipa": "/rilasˈsarsi/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "再帰動詞・代名動詞",
+      "it": "verbo riflessivo e pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "rilassato",
+    "gerundPresent": "rilassandosi",
+    "pattern": "rilassarsi / rilassarsi con + attività / rilassarsi dopo + nome"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "health",
+      "leisure",
+      "travel"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "くつろぐ、リラックスする",
+      "緊張・不安・ストレスを和らげる",
+      "身体や筋肉の力を抜く",
+      "休息や娯楽によって気分を落ち着かせる",
+      "規律・注意・緊張などが緩む"
+    ],
+    "it": [
+      "Liberarsi dalla tensione fisica o mentale.",
+      "Diventare più calmi e meno preoccupati.",
+      "Ridurre la contrazione dei muscoli e abbandonare la rigidità del corpo.",
+      "Riposarsi o dedicarsi a un’attività piacevole.",
+      "Diventare meno rigidi, severi o concentrati."
+    ]
+  },
+
+  "nuance": {
+    "ja": "仕事・不安・緊張などによって高まった心身の緊張が緩み、落ち着いた状態になることを表す。riposarsiが主に疲労回復のために休むことを表すのに対し、rilassarsiは緊張やストレスから解放されることに重点がある。必ずしも眠ったり活動をやめたりする必要はなく、音楽・読書・散歩などによってもrilassarsiと言える。",
+    "it": "Indica il passaggio da uno stato di tensione fisica o mentale a uno stato di calma. Riposarsi mette soprattutto in rilievo il recupero dalla stanchezza; rilassarsi sottolinea invece la diminuzione dello stress o della tensione. Ci si può rilassare anche svolgendo un’attività piacevole."
+  },
+
+  "etymology": {
+    "ja": "動詞rilassareに再帰代名詞siを加えた形である。rilassareはラテン語relaxare（緩める、解放する）に由来し、re-（後ろへ、再び）とlaxare（緩める）から成る。英語relax、フランス語relaxerとも同語源である。",
+    "it": "È la forma pronominale di rilassare, dal latino relaxare, formato da re- e laxare, «allentare, rendere meno teso». Appartiene alla stessa famiglia di rilassamento e del latino laxus, «largo, non teso»."
+  },
+
+  "minimal": [
+    {
+      "word": "rilassarsi",
+      "ja": "心身の緊張やストレスが和らぎ、落ち着いた状態になる",
+      "it": "liberarsi dalla tensione e diventare più calmi"
+    },
+    {
+      "word": "riposarsi",
+      "ja": "活動を休み、身体的・精神的な疲労を回復する",
+      "it": "interrompere l’attività per recuperare le energie"
+    },
+    {
+      "word": "calmarsi",
+      "ja": "怒り・興奮・不安などの強い感情を鎮める",
+      "it": "ridurre uno stato di agitazione, rabbia o ansia"
+    },
+    {
+      "word": "distrarsi",
+      "ja": "別のことに注意を向け、心配事や退屈から気をそらす",
+      "it": "spostare l’attenzione per allontanarsi da preoccupazioni o monotonia"
+    }
+  ],
+
+  "synonyms": [
+    "distendersi",
+    "riposarsi",
+    "calmarsi",
+    "svagarsi",
+    "decontrarsi"
+  ],
+
+  "equivalents": {
+    "en": [
+      "relax",
+      "unwind",
+      "loosen up"
+    ],
+    "de": [
+      "sich entspannen",
+      "sich erholen",
+      "locker werden"
+    ],
+    "fr": [
+      "se détendre",
+      "se relaxer",
+      "décompresser"
+    ],
+    "es": [
+      "relajarse",
+      "descansar",
+      "desconectar"
+    ]
+  },
+
+  "collocations": [
+    "rilassarsi un po’",
+    "rilassarsi completamente",
+    "rilassarsi a casa",
+    "rilassarsi sul divano",
+    "rilassarsi in vacanza",
+    "rilassarsi dopo il lavoro",
+    "rilassarsi durante il fine settimana",
+    "rilassarsi con la musica",
+    "rilassarsi leggendo",
+    "rilassarsi facendo una passeggiata",
+    "rilassarsi al sole",
+    "rilassarsi in un bagno caldo",
+    "cercare di rilassarsi",
+    "riuscire a rilassarsi",
+    "avere bisogno di rilassarsi",
+    "sedersi e rilassarsi",
+    "rilassarsi prima di dormire",
+    "imparare a rilassarsi",
+    "rilassarsi mentalmente",
+    "rilassarsi fisicamente"
+  ],
+
+  "examples": [
+    {
+      "it": "Dopo il lavoro mi piace rilassarmi ascoltando musica.",
+      "ja": "仕事の後、私は音楽を聴いてくつろぐのが好きだ。"
+    },
+    {
+      "it": "Cerca di rilassarti e di respirare lentamente.",
+      "ja": "力を抜いて、ゆっくり呼吸するようにしてください。"
+    },
+    {
+      "it": "Durante le vacanze ci siamo rilassati molto.",
+      "ja": "休暇中、私たちはとてもゆっくり過ごした。"
+    },
+    {
+      "it": "Non riesco a rilassarmi quando penso al lavoro.",
+      "ja": "仕事のことを考えるとリラックスできない。"
+    },
+    {
+      "it": "Si rilassava leggendo un libro sul divano.",
+      "ja": "彼女はソファで本を読みながらくつろいでいた。"
+    },
+    {
+      "it": "Se avessi più tempo, mi rilasserei più spesso.",
+      "ja": "もっと時間があれば、もっと頻繁にくつろぐのだが。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi rilasso",
+        "ti rilassi",
+        "si rilassa",
+        "ci rilassiamo",
+        "vi rilassate",
+        "si rilassano"
+      ],
+
+      "Imperfetto": [
+        "mi rilassavo",
+        "ti rilassavi",
+        "si rilassava",
+        "ci rilassavamo",
+        "vi rilassavate",
+        "si rilassavano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono rilassato/a",
+        "ti sei rilassato/a",
+        "si è rilassato/a",
+        "ci siamo rilassati/e",
+        "vi siete rilassati/e",
+        "si sono rilassati/e"
+      ],
+
+      "Passato remoto": [
+        "mi rilassai",
+        "ti rilassasti",
+        "si rilassò",
+        "ci rilassammo",
+        "vi rilassaste",
+        "si rilassarono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero rilassato/a",
+        "ti eri rilassato/a",
+        "si era rilassato/a",
+        "ci eravamo rilassati/e",
+        "vi eravate rilassati/e",
+        "si erano rilassati/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui rilassato/a",
+        "ti fosti rilassato/a",
+        "si fu rilassato/a",
+        "ci fummo rilassati/e",
+        "vi foste rilassati/e",
+        "si furono rilassati/e"
+      ],
+
+      "Futuro semplice": [
+        "mi rilasserò",
+        "ti rilasserai",
+        "si rilasserà",
+        "ci rilasseremo",
+        "vi rilasserete",
+        "si rilasseranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò rilassato/a",
+        "ti sarai rilassato/a",
+        "si sarà rilassato/a",
+        "ci saremo rilassati/e",
+        "vi sarete rilassati/e",
+        "si saranno rilassati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi rilassi",
+        "ti rilassi",
+        "si rilassi",
+        "ci rilassiamo",
+        "vi rilassiate",
+        "si rilassino"
+      ],
+
+      "Imperfetto": [
+        "mi rilassassi",
+        "ti rilassassi",
+        "si rilassasse",
+        "ci rilassassimo",
+        "vi rilassaste",
+        "si rilassassero"
+      ],
+
+      "Passato": [
+        "mi sia rilassato/a",
+        "ti sia rilassato/a",
+        "si sia rilassato/a",
+        "ci siamo rilassati/e",
+        "vi siate rilassati/e",
+        "si siano rilassati/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi rilassato/a",
+        "ti fossi rilassato/a",
+        "si fosse rilassato/a",
+        "ci fossimo rilassati/e",
+        "vi foste rilassati/e",
+        "si fossero rilassati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi rilasserei",
+        "ti rilasseresti",
+        "si rilasserebbe",
+        "ci rilasseremmo",
+        "vi rilassereste",
+        "si rilasserebbero"
+      ],
+
+      "Passato": [
+        "mi sarei rilassato/a",
+        "ti saresti rilassato/a",
+        "si sarebbe rilassato/a",
+        "ci saremmo rilassati/e",
+        "vi sareste rilassati/e",
+        "si sarebbero rilassati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "rilassati",
+        "si rilassi",
+        "rilassiamoci",
+        "rilassatevi",
+        "si rilassino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "rilassarsi",
+        "essersi rilassato/a/i/e",
+        "rilassantesi (raro)",
+        "rilassato",
+        "rilassandosi",
+        "essendosi rilassato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "riposarsi",
+  "sid": "2026-00096",
+  "word": "riposarsi",
+  "ipa": "/ripoˈzarsi/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "再帰動詞・代名動詞",
+      "it": "verbo riflessivo e pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "riposato",
+    "gerundPresent": "riposandosi",
+    "pattern": "riposarsi / riposarsi per + durata / riposarsi dopo + nome"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "health",
+      "home",
+      "travel"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "休む、休息を取る",
+      "疲労を回復する",
+      "仕事・運動・移動などを一時中断する",
+      "眠ったり横になったりして身体を休める",
+      "静かな時間を過ごして心身の力を取り戻す"
+    ],
+    "it": [
+      "Interrompere un’attività per recuperare le energie.",
+      "Liberarsi o alleviarsi dalla stanchezza.",
+      "Trascorrere un periodo senza lavorare o fare sforzi.",
+      "Dormire, stare sdraiati o rimanere tranquilli per recuperare.",
+      "Concedersi una pausa dopo un’attività faticosa."
+    ]
+  },
+
+  "nuance": {
+    "ja": "活動を一時的にやめて、消耗した体力・気力を回復することに重点がある。rilassarsiは緊張やストレスが解けることを表し、必ずしも疲れている必要はない。一方、riposarsiは通常、仕事・運動・旅行・病気などによる疲労を前提とする。短い休憩にも睡眠を伴う長い休養にも使える。",
+    "it": "Mette in rilievo il recupero delle energie dopo uno sforzo, un’attività o un periodo di stanchezza. Rilassarsi indica soprattutto la diminuzione della tensione e dello stress, anche senza una vera stanchezza; riposarsi presuppone normalmente il bisogno di interrompere l’attività e recuperare."
+  },
+
+  "etymology": {
+    "ja": "動詞riposareに再帰代名詞siを加えた形である。riposareはri-とposareから成り、posareは後期ラテン語pausare（休止する）に由来する。pausareはラテン語pausaを介してギリシア語paûsis（停止、休止）にさかのぼる。",
+    "it": "È la forma pronominale di riposare, formato da ri- e posare. Posare risale al latino tardo pausare, derivato da pausa, a sua volta dal greco paûsis, «cessazione, riposo»."
+  },
+
+  "minimal": [
+    {
+      "word": "riposarsi",
+      "ja": "活動を中断し、疲労した心身の力を回復する",
+      "it": "interrompere l’attività per recuperare le energie"
+    },
+    {
+      "word": "rilassarsi",
+      "ja": "緊張・不安・ストレスを和らげて落ち着く",
+      "it": "ridurre la tensione fisica o mentale e diventare più calmi"
+    },
+    {
+      "word": "dormire",
+      "ja": "睡眠状態に入って身体と脳を休ませる",
+      "it": "trovarsi nello stato fisiologico del sonno"
+    },
+    {
+      "word": "fare una pausa",
+      "ja": "作業・活動を短時間中断する",
+      "it": "interrompere temporaneamente un’attività"
+    }
+  ],
+
+  "synonyms": [
+    "riposare",
+    "fare una pausa",
+    "recuperare le energie",
+    "rilassarsi",
+    "prendere fiato"
+  ],
+
+  "equivalents": {
+    "en": [
+      "rest",
+      "take a break",
+      "recover"
+    ],
+    "de": [
+      "sich ausruhen",
+      "eine Pause machen",
+      "sich erholen"
+    ],
+    "fr": [
+      "se reposer",
+      "faire une pause",
+      "récupérer"
+    ],
+    "es": [
+      "descansar",
+      "tomarse un descanso",
+      "recuperarse"
+    ]
+  },
+
+  "collocations": [
+    "riposarsi un po’",
+    "riposarsi bene",
+    "riposarsi abbastanza",
+    "riposarsi a casa",
+    "riposarsi sul divano",
+    "riposarsi a letto",
+    "riposarsi in albergo",
+    "riposarsi dopo il lavoro",
+    "riposarsi dopo il viaggio",
+    "riposarsi dopo pranzo",
+    "riposarsi per un’ora",
+    "fermarsi a riposare",
+    "sedersi e riposarsi",
+    "avere bisogno di riposarsi",
+    "cercare di riposarsi",
+    "potersi riposare",
+    "riposarsi durante il fine settimana",
+    "riposarsi prima di ripartire",
+    "riposarsi dalle fatiche",
+    "riposarsi quanto basta"
+  ],
+
+  "examples": [
+    {
+      "it": "Dopo il lavoro ho bisogno di riposarmi un po’.",
+      "ja": "仕事の後は少し休む必要がある。"
+    },
+    {
+      "it": "Ci siamo riposati in albergo prima di uscire.",
+      "ja": "私たちは外出する前にホテルで休んだ。"
+    },
+    {
+      "it": "Se sei stanco, siediti e riposati.",
+      "ja": "疲れているなら、座って休みなさい。"
+    },
+    {
+      "it": "Il medico le ha consigliato di riposarsi per alcuni giorni.",
+      "ja": "医師は彼女に数日間休養するよう勧めた。"
+    },
+    {
+      "it": "Domani non lavorerò e potrò finalmente riposarmi.",
+      "ja": "明日は働かないので、ようやく休むことができる。"
+    },
+    {
+      "it": "Prima che ripartiamo, è meglio riposarsi.",
+      "ja": "再出発する前に、休んでおいたほうがよい。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi riposo",
+        "ti riposi",
+        "si riposa",
+        "ci riposiamo",
+        "vi riposate",
+        "si riposano"
+      ],
+
+      "Imperfetto": [
+        "mi riposavo",
+        "ti riposavi",
+        "si riposava",
+        "ci riposavamo",
+        "vi riposavate",
+        "si riposavano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono riposato/a",
+        "ti sei riposato/a",
+        "si è riposato/a",
+        "ci siamo riposati/e",
+        "vi siete riposati/e",
+        "si sono riposati/e"
+      ],
+
+      "Passato remoto": [
+        "mi riposai",
+        "ti riposasti",
+        "si riposò",
+        "ci riposammo",
+        "vi riposaste",
+        "si riposarono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero riposato/a",
+        "ti eri riposato/a",
+        "si era riposato/a",
+        "ci eravamo riposati/e",
+        "vi eravate riposati/e",
+        "si erano riposati/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui riposato/a",
+        "ti fosti riposato/a",
+        "si fu riposato/a",
+        "ci fummo riposati/e",
+        "vi foste riposati/e",
+        "si furono riposati/e"
+      ],
+
+      "Futuro semplice": [
+        "mi riposerò",
+        "ti riposerai",
+        "si riposerà",
+        "ci riposeremo",
+        "vi riposerete",
+        "si riposeranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò riposato/a",
+        "ti sarai riposato/a",
+        "si sarà riposato/a",
+        "ci saremo riposati/e",
+        "vi sarete riposati/e",
+        "si saranno riposati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi riposi",
+        "ti riposi",
+        "si riposi",
+        "ci riposiamo",
+        "vi riposiate",
+        "si riposino"
+      ],
+
+      "Imperfetto": [
+        "mi riposassi",
+        "ti riposassi",
+        "si riposasse",
+        "ci riposassimo",
+        "vi riposaste",
+        "si riposassero"
+      ],
+
+      "Passato": [
+        "mi sia riposato/a",
+        "ti sia riposato/a",
+        "si sia riposato/a",
+        "ci siamo riposati/e",
+        "vi siate riposati/e",
+        "si siano riposati/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi riposato/a",
+        "ti fossi riposato/a",
+        "si fosse riposato/a",
+        "ci fossimo riposati/e",
+        "vi foste riposati/e",
+        "si fossero riposati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi riposerei",
+        "ti riposeresti",
+        "si riposerebbe",
+        "ci riposeremmo",
+        "vi riposereste",
+        "si riposerebbero"
+      ],
+
+      "Passato": [
+        "mi sarei riposato/a",
+        "ti saresti riposato/a",
+        "si sarebbe riposato/a",
+        "ci saremmo riposati/e",
+        "vi sareste riposati/e",
+        "si sarebbero riposati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "riposati",
+        "si riposi",
+        "riposiamoci",
+        "riposatevi",
+        "si riposino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "riposarsi",
+        "essersi riposato/a/i/e",
+        "riposantesi (raro)",
+        "riposato",
+        "riposandosi",
+        "essendosi riposato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "indossare",
+  "sid": "2026-00097",
+  "word": "indossare",
+  "ipa": "/indosˈsare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "indossato",
+    "gerundPresent": "indossando",
+    "pattern": "indossare + indumento / calzatura / accessorio / dispositivo di protezione"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "fashion",
+      "shopping",
+      "work",
+      "safety"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "衣服を着る、身に着ける",
+      "靴・帽子・眼鏡・装飾品などを着用する",
+      "制服・防具・保護具などを装着する",
+      "衣服などを身に着けた状態でいる"
+    ],
+    "it": [
+      "Mettere sul proprio corpo un capo di abbigliamento.",
+      "Portare scarpe, cappelli, occhiali, gioielli o altri accessori.",
+      "Mettere una divisa, un’armatura o un dispositivo di protezione.",
+      "Avere addosso un determinato indumento o accessorio."
+    ]
+  },
+
+  "nuance": {
+    "ja": "衣服や装身具などを身体に着ける動作と、着けている状態の両方を表せる。indossa una giaccaは文脈によって「ジャケットを着る」と「ジャケットを着ている」の両方になり得る。vestirsiは服を着て身支度をする行為全体、mettersiは特定の衣服を身に着ける動作、portareは普段から着用している状態やスタイルに重点を置く。",
+    "it": "Può indicare sia l’atto di mettere un indumento sia lo stato di averlo addosso. Indossa una giacca può quindi significare, secondo il contesto, che la mette oppure che la porta. Vestirsi riguarda l’atto complessivo di vestirsi, mettersi sottolinea il gesto di mettere un capo e portare può descrivere un’abitudine o uno stile."
+  },
+
+  "etymology": {
+    "ja": "前置詞inと名詞dosso（背中、身体）から成立した語で、語源的には「身体の上に置く」を意味する。dossoは俗ラテン語dossumを経て、ラテン語dorsum（背中）に由来する。",
+    "it": "Formato da in e dosso, con il significato originario di «mettere sul corpo». Dosso deriva dal latino volgare dossum, variante del latino dorsum, «dorso, schiena»."
+  },
+
+  "minimal": [
+    {
+      "word": "indossare",
+      "ja": "特定の衣服・靴・装身具・保護具を身体に着ける、または着けている",
+      "it": "mettere o avere addosso un indumento, un accessorio o una protezione"
+    },
+    {
+      "word": "vestirsi",
+      "ja": "複数の衣服を着て、全体として身支度をする",
+      "it": "mettersi gli abiti e completare l’atto del vestirsi"
+    },
+    {
+      "word": "mettersi",
+      "ja": "衣服などを身に着ける動作を口語的に表す",
+      "it": "mettere su di sé un determinato capo, soprattutto nel parlato"
+    },
+    {
+      "word": "portare",
+      "ja": "衣服・眼鏡・髪型などを普段から身に着けている",
+      "it": "avere abitualmente addosso un capo, un accessorio o un determinato stile"
+    }
+  ],
+
+  "synonyms": [
+    "mettere",
+    "portare",
+    "vestire",
+    "avere addosso",
+    "calzare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "wear",
+      "put on",
+      "don"
+    ],
+    "de": [
+      "tragen",
+      "anziehen",
+      "anlegen"
+    ],
+    "fr": [
+      "porter",
+      "mettre",
+      "revêtir"
+    ],
+    "es": [
+      "llevar",
+      "ponerse",
+      "vestir"
+    ]
+  },
+
+  "collocations": [
+    "indossare un vestito",
+    "indossare una camicia",
+    "indossare una giacca",
+    "indossare un cappotto",
+    "indossare un abito elegante",
+    "indossare una divisa",
+    "indossare un’uniforme",
+    "indossare i pantaloni",
+    "indossare le scarpe",
+    "indossare un cappello",
+    "indossare gli occhiali",
+    "indossare un orologio",
+    "indossare un anello",
+    "indossare una mascherina",
+    "indossare i guanti",
+    "indossare il casco",
+    "indossare la cintura di sicurezza",
+    "indossare un dispositivo di protezione",
+    "indossare abiti comodi",
+    "indossare qualcosa sopra la camicia",
+    "essere facile da indossare"
+  ],
+
+  "examples": [
+    {
+      "it": "Oggi indossa una giacca blu.",
+      "ja": "彼は今日、青いジャケットを着ている。"
+    },
+    {
+      "it": "Per la cerimonia ho indossato un abito scuro.",
+      "ja": "式典では濃い色のスーツを着た。"
+    },
+    {
+      "it": "Bisogna indossare il casco prima di partire.",
+      "ja": "出発する前にヘルメットを着用しなければならない。"
+    },
+    {
+      "it": "Che cosa indosserai alla festa?",
+      "ja": "パーティーには何を着ていきますか。"
+    },
+    {
+      "it": "Gli operai devono indossare i guanti protettivi.",
+      "ja": "作業員は保護手袋を着用しなければならない。"
+    },
+    {
+      "it": "Non avevo mai indossato un vestito così elegante.",
+      "ja": "それほど上品な服を着たことは一度もなかった。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "indosso",
+        "indossi",
+        "indossa",
+        "indossiamo",
+        "indossate",
+        "indossano"
+      ],
+
+      "Imperfetto": [
+        "indossavo",
+        "indossavi",
+        "indossava",
+        "indossavamo",
+        "indossavate",
+        "indossavano"
+      ],
+
+      "Passato prossimo": [
+        "ho indossato",
+        "hai indossato",
+        "ha indossato",
+        "abbiamo indossato",
+        "avete indossato",
+        "hanno indossato"
+      ],
+
+      "Passato remoto": [
+        "indossai",
+        "indossasti",
+        "indossò",
+        "indossammo",
+        "indossaste",
+        "indossarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo indossato",
+        "avevi indossato",
+        "aveva indossato",
+        "avevamo indossato",
+        "avevate indossato",
+        "avevano indossato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi indossato",
+        "avesti indossato",
+        "ebbe indossato",
+        "avemmo indossato",
+        "aveste indossato",
+        "ebbero indossato"
+      ],
+
+      "Futuro semplice": [
+        "indosserò",
+        "indosserai",
+        "indosserà",
+        "indosseremo",
+        "indosserete",
+        "indosseranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò indossato",
+        "avrai indossato",
+        "avrà indossato",
+        "avremo indossato",
+        "avrete indossato",
+        "avranno indossato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "indossi",
+        "indossi",
+        "indossi",
+        "indossiamo",
+        "indossiate",
+        "indossino"
+      ],
+
+      "Imperfetto": [
+        "indossassi",
+        "indossassi",
+        "indossasse",
+        "indossassimo",
+        "indossaste",
+        "indossassero"
+      ],
+
+      "Passato": [
+        "abbia indossato",
+        "abbia indossato",
+        "abbia indossato",
+        "abbiamo indossato",
+        "abbiate indossato",
+        "abbiano indossato"
+      ],
+
+      "Trapassato": [
+        "avessi indossato",
+        "avessi indossato",
+        "avesse indossato",
+        "avessimo indossato",
+        "aveste indossato",
+        "avessero indossato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "indosserei",
+        "indosseresti",
+        "indosserebbe",
+        "indosseremmo",
+        "indossereste",
+        "indosserebbero"
+      ],
+
+      "Passato": [
+        "avrei indossato",
+        "avresti indossato",
+        "avrebbe indossato",
+        "avremmo indossato",
+        "avreste indossato",
+        "avrebbero indossato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "indossa",
+        "indossi",
+        "indossiamo",
+        "indossate",
+        "indossino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "indossare",
+        "avere indossato",
+        "indossante",
+        "indossato",
+        "indossando",
+        "avendo indossato"
+      ]
+    }
+  }
+},
+{
+  "id": "lavarsi",
+  "sid": "2026-00098",
+  "word": "lavarsi",
+  "ipa": "/laˈvarsi/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "再帰動詞",
+      "it": "verbo riflessivo"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "lavato",
+    "gerundPresent": "lavandosi",
+    "pattern": "lavarsi / lavarsi + parte del corpo / lavarsi con + prodotto"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "health",
+      "hygiene"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "自分の身体を洗う",
+      "顔・手・髪・歯など身体の一部を洗う",
+      "入浴・シャワーなどで身体を清潔にする",
+      "水や洗浄剤を使って汚れを落とす"
+    ],
+    "it": [
+      "Pulire il proprio corpo con acqua ed eventualmente con sapone.",
+      "Pulire una parte del proprio corpo.",
+      "Fare il bagno o la doccia per curare l’igiene personale.",
+      "Togliere sporco o impurità dal proprio corpo mediante il lavaggio."
+    ]
+  },
+
+  "nuance": {
+    "ja": "主語が自分自身の身体を洗う、典型的な再帰動詞である。身体の一部を表す場合、所有形容詞ではなく定冠詞を使うのが普通で、mi lavo le mani、si lava i capelliとなる。再帰代名詞がすでに所有者を示しているためである。身体全体を洗う場合は目的語を置かず、mi lavoと言える。",
+    "it": "È un tipico verbo riflessivo: il soggetto compie l’azione sul proprio corpo. Con le parti del corpo si usa normalmente l’articolo determinativo anziché il possessivo, come in mi lavo le mani e si lava i capelli, perché il pronome riflessivo indica già il possessore."
+  },
+
+  "etymology": {
+    "ja": "動詞lavareに再帰代名詞siを加えた形である。lavareはラテン語lavare（洗う、清める）に直接由来する。同じ語根はイタリア語lavaggio、lavatrice、lavandino、英語lavatoryなどにも見られる。",
+    "it": "È la forma riflessiva di lavare, dal latino lavare, «lavare, purificare». Appartengono alla stessa famiglia lavaggio, lavatrice, lavandino e lavabo."
+  },
+
+  "minimal": [
+    {
+      "word": "lavarsi",
+      "ja": "自分自身の身体または身体の一部を洗う",
+      "it": "pulire il proprio corpo o una sua parte"
+    },
+    {
+      "word": "lavare",
+      "ja": "人・物・衣服・食器などを水や洗剤で洗う",
+      "it": "pulire qualcuno o qualcosa mediante acqua o detergenti"
+    },
+    {
+      "word": "farsi la doccia",
+      "ja": "シャワーを浴びて身体を洗う",
+      "it": "lavare il proprio corpo sotto la doccia"
+    },
+    {
+      "word": "sciacquarsi",
+      "ja": "水ですすぎ、石けん・汚れ・味などを洗い流す",
+      "it": "passare dell’acqua per eliminare sapone, sporco o residui"
+    }
+  ],
+
+  "synonyms": [
+    "pulirsi",
+    "farsi la doccia",
+    "farsi il bagno",
+    "sciacquarsi",
+    "detergersi"
+  ],
+
+  "equivalents": {
+    "en": [
+      "wash oneself",
+      "wash",
+      "clean oneself"
+    ],
+    "de": [
+      "sich waschen",
+      "sich reinigen",
+      "sich sauber machen"
+    ],
+    "fr": [
+      "se laver",
+      "se nettoyer",
+      "faire sa toilette"
+    ],
+    "es": [
+      "lavarse",
+      "asearse",
+      "limpiarse"
+    ]
+  },
+
+  "collocations": [
+    "lavarsi bene",
+    "lavarsi ogni giorno",
+    "lavarsi al mattino",
+    "lavarsi prima di dormire",
+    "lavarsi le mani",
+    "lavarsi il viso",
+    "lavarsi i denti",
+    "lavarsi i capelli",
+    "lavarsi i piedi",
+    "lavarsi con il sapone",
+    "lavarsi con acqua calda",
+    "andare a lavarsi",
+    "doversi lavare",
+    "ricordarsi di lavarsi",
+    "lavarsi prima di mangiare",
+    "lavarsi dopo il lavoro",
+    "lavarsi accuratamente",
+    "lavarsi in fretta",
+    "lavarsi e vestirsi",
+    "aiutare qualcuno a lavarsi"
+  ],
+
+  "examples": [
+    {
+      "it": "Mi lavo le mani prima di mangiare.",
+      "ja": "私は食事の前に手を洗う。"
+    },
+    {
+      "it": "Ogni mattina si lava il viso con acqua fredda.",
+      "ja": "彼は毎朝、冷たい水で顔を洗う。"
+    },
+    {
+      "it": "I bambini si sono lavati da soli.",
+      "ja": "子どもたちは自分たちだけで身体を洗った。"
+    },
+    {
+      "it": "Devi lavarti i denti prima di andare a letto.",
+      "ja": "寝る前に歯を磨かなければならない。"
+    },
+    {
+      "it": "Mi sono lavata i capelli questa mattina.",
+      "ja": "私は今朝、髪を洗った。"
+    },
+    {
+      "it": "Dopo esserci lavati, ci siamo vestiti.",
+      "ja": "身体を洗った後、私たちは服を着た。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi lavo",
+        "ti lavi",
+        "si lava",
+        "ci laviamo",
+        "vi lavate",
+        "si lavano"
+      ],
+
+      "Imperfetto": [
+        "mi lavavo",
+        "ti lavavi",
+        "si lavava",
+        "ci lavavamo",
+        "vi lavavate",
+        "si lavavano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono lavato/a",
+        "ti sei lavato/a",
+        "si è lavato/a",
+        "ci siamo lavati/e",
+        "vi siete lavati/e",
+        "si sono lavati/e"
+      ],
+
+      "Passato remoto": [
+        "mi lavai",
+        "ti lavasti",
+        "si lavò",
+        "ci lavammo",
+        "vi lavaste",
+        "si lavarono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero lavato/a",
+        "ti eri lavato/a",
+        "si era lavato/a",
+        "ci eravamo lavati/e",
+        "vi eravate lavati/e",
+        "si erano lavati/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui lavato/a",
+        "ti fosti lavato/a",
+        "si fu lavato/a",
+        "ci fummo lavati/e",
+        "vi foste lavati/e",
+        "si furono lavati/e"
+      ],
+
+      "Futuro semplice": [
+        "mi laverò",
+        "ti laverai",
+        "si laverà",
+        "ci laveremo",
+        "vi laverete",
+        "si laveranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò lavato/a",
+        "ti sarai lavato/a",
+        "si sarà lavato/a",
+        "ci saremo lavati/e",
+        "vi sarete lavati/e",
+        "si saranno lavati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi lavi",
+        "ti lavi",
+        "si lavi",
+        "ci laviamo",
+        "vi laviate",
+        "si lavino"
+      ],
+
+      "Imperfetto": [
+        "mi lavassi",
+        "ti lavassi",
+        "si lavasse",
+        "ci lavassimo",
+        "vi lavaste",
+        "si lavassero"
+      ],
+
+      "Passato": [
+        "mi sia lavato/a",
+        "ti sia lavato/a",
+        "si sia lavato/a",
+        "ci siamo lavati/e",
+        "vi siate lavati/e",
+        "si siano lavati/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi lavato/a",
+        "ti fossi lavato/a",
+        "si fosse lavato/a",
+        "ci fossimo lavati/e",
+        "vi foste lavati/e",
+        "si fossero lavati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi laverei",
+        "ti laveresti",
+        "si laverebbe",
+        "ci laveremmo",
+        "vi lavereste",
+        "si laverebbero"
+      ],
+
+      "Passato": [
+        "mi sarei lavato/a",
+        "ti saresti lavato/a",
+        "si sarebbe lavato/a",
+        "ci saremmo lavati/e",
+        "vi sareste lavati/e",
+        "si sarebbero lavati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "lavati",
+        "si lavi",
+        "laviamoci",
+        "lavatevi",
+        "si lavino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "lavarsi",
+        "essersi lavato/a/i/e",
+        "lavantesi (raro)",
+        "lavato",
+        "lavandosi",
+        "essendosi lavato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "lavare",
+  "sid": "2026-00099",
+  "word": "lavare",
+  "ipa": "/laˈvare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "lavato",
+    "gerundPresent": "lavando",
+    "pattern": "lavare qualcuno o qualcosa / lavare con + prodotto / lavare a + temperatura"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "health",
+      "work"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人・身体の一部・物などを水で洗う",
+      "衣服・食器・床などの汚れを落とす",
+      "洗剤などを使って清潔にする",
+      "水が土地・岸などを洗う、浸す",
+      "不正に得た金銭の出所を隠して合法化する"
+    ],
+    "it": [
+      "Pulire una persona, una parte del corpo o un oggetto mediante acqua.",
+      "Eliminare lo sporco da indumenti, stoviglie o superfici.",
+      "Pulire qualcosa con acqua e sostanze detergenti.",
+      "Bagnare o lambire continuamente una superficie.",
+      "Nascondere l’origine illecita di denaro facendolo apparire legittimo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "水や洗剤を使って人や物の汚れを落とすことを表す基本動詞である。目的語は衣服・食器・車・床・食品・身体の一部など幅広い。主語が自分自身を洗う場合は再帰形lavarsiを用いる。pulireは水を使うかどうかを問わない一般的な「清掃する」、sciacquareは洗剤や汚れを水ですすぎ流すことに重点がある。",
+    "it": "Indica la pulizia mediante acqua, eventualmente accompagnata da sapone o detergenti. Può avere come oggetto persone, parti del corpo, vestiti, stoviglie, veicoli, superfici e alimenti. Quando il soggetto lava il proprio corpo si usa lavarsi. Pulire è più generale e non richiede necessariamente acqua; sciacquare sottolinea il passaggio dell’acqua per eliminare residui."
+  },
+
+  "etymology": {
+    "ja": "ラテン語lavare（洗う、清める）に直接由来する。古くから物理的な洗浄だけでなく、儀式的・比喩的な浄化も表した。同じ語根からlavaggio、lavatrice、lavandino、lavaboなどが派生している。",
+    "it": "Dal latino lavare, «lavare, purificare», con conservazione diretta della forma e del significato fondamentale. Dalla stessa base derivano lavaggio, lavatrice, lavandino e lavabo."
+  },
+
+  "minimal": [
+    {
+      "word": "lavare",
+      "ja": "水や洗剤を使って人・物・衣服・食器などの汚れを落とす",
+      "it": "eliminare lo sporco da qualcuno o qualcosa mediante acqua"
+    },
+    {
+      "word": "lavarsi",
+      "ja": "自分自身の身体または身体の一部を洗う",
+      "it": "pulire il proprio corpo o una sua parte"
+    },
+    {
+      "word": "pulire",
+      "ja": "方法を限定せず、汚れや不要物を取り除いて清潔にする",
+      "it": "eliminare sporco o impurità senza implicare necessariamente l’uso dell’acqua"
+    },
+    {
+      "word": "sciacquare",
+      "ja": "水を通して洗剤・石けん・汚れなどをすすぎ流す",
+      "it": "passare dell’acqua per eliminare sapone, detergente o residui"
+    }
+  ],
+
+  "synonyms": [
+    "pulire",
+    "detergere",
+    "sciacquare",
+    "mondare",
+    "ripulire"
+  ],
+
+  "equivalents": {
+    "en": [
+      "wash",
+      "clean",
+      "launder"
+    ],
+    "de": [
+      "waschen",
+      "reinigen",
+      "spülen"
+    ],
+    "fr": [
+      "laver",
+      "nettoyer",
+      "lessiver"
+    ],
+    "es": [
+      "lavar",
+      "limpiar",
+      "enjuagar"
+    ]
+  },
+
+  "collocations": [
+    "lavare qualcosa",
+    "lavare una persona",
+    "lavare un bambino",
+    "lavare le mani",
+    "lavare il viso",
+    "lavare i capelli",
+    "lavare i denti",
+    "lavare i vestiti",
+    "lavare la biancheria",
+    "lavare i piatti",
+    "lavare i bicchieri",
+    "lavare il pavimento",
+    "lavare la macchina",
+    "lavare la frutta",
+    "lavare le verdure",
+    "lavare con acqua",
+    "lavare con il sapone",
+    "lavare a mano",
+    "lavare in lavatrice",
+    "lavare a trenta gradi",
+    "facile da lavare",
+    "lavare via una macchia",
+    "lavare i panni sporchi",
+    "lavare denaro"
+  ],
+
+  "examples": [
+    {
+      "it": "Devo lavare i piatti dopo cena.",
+      "ja": "夕食後に食器を洗わなければならない。"
+    },
+    {
+      "it": "Lava bene la frutta prima di mangiarla.",
+      "ja": "果物は食べる前によく洗いなさい。"
+    },
+    {
+      "it": "Ho già lavato tutti i vestiti.",
+      "ja": "私はもう衣服を全部洗った。"
+    },
+    {
+      "it": "Questa camicia deve essere lavata a mano.",
+      "ja": "このシャツは手洗いしなければならない。"
+    },
+    {
+      "it": "Mia moglie sta lavando la macchina.",
+      "ja": "妻は車を洗っている。"
+    },
+    {
+      "it": "L’imputato era accusato di aver lavato denaro di origine illecita.",
+      "ja": "被告人は不正な出所の資金を洗浄したとして起訴されていた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "lavo",
+        "lavi",
+        "lava",
+        "laviamo",
+        "lavate",
+        "lavano"
+      ],
+
+      "Imperfetto": [
+        "lavavo",
+        "lavavi",
+        "lavava",
+        "lavavamo",
+        "lavavate",
+        "lavavano"
+      ],
+
+      "Passato prossimo": [
+        "ho lavato",
+        "hai lavato",
+        "ha lavato",
+        "abbiamo lavato",
+        "avete lavato",
+        "hanno lavato"
+      ],
+
+      "Passato remoto": [
+        "lavai",
+        "lavasti",
+        "lavò",
+        "lavammo",
+        "lavaste",
+        "lavarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo lavato",
+        "avevi lavato",
+        "aveva lavato",
+        "avevamo lavato",
+        "avevate lavato",
+        "avevano lavato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi lavato",
+        "avesti lavato",
+        "ebbe lavato",
+        "avemmo lavato",
+        "aveste lavato",
+        "ebbero lavato"
+      ],
+
+      "Futuro semplice": [
+        "laverò",
+        "laverai",
+        "laverà",
+        "laveremo",
+        "laverete",
+        "laveranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò lavato",
+        "avrai lavato",
+        "avrà lavato",
+        "avremo lavato",
+        "avrete lavato",
+        "avranno lavato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "lavi",
+        "lavi",
+        "lavi",
+        "laviamo",
+        "laviate",
+        "lavino"
+      ],
+
+      "Imperfetto": [
+        "lavassi",
+        "lavassi",
+        "lavasse",
+        "lavassimo",
+        "lavaste",
+        "lavassero"
+      ],
+
+      "Passato": [
+        "abbia lavato",
+        "abbia lavato",
+        "abbia lavato",
+        "abbiamo lavato",
+        "abbiate lavato",
+        "abbiano lavato"
+      ],
+
+      "Trapassato": [
+        "avessi lavato",
+        "avessi lavato",
+        "avesse lavato",
+        "avessimo lavato",
+        "aveste lavato",
+        "avessero lavato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "laverei",
+        "laveresti",
+        "laverebbe",
+        "laveremmo",
+        "lavereste",
+        "laverebbero"
+      ],
+
+      "Passato": [
+        "avrei lavato",
+        "avresti lavato",
+        "avrebbe lavato",
+        "avremmo lavato",
+        "avreste lavato",
+        "avrebbero lavato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "lava",
+        "lavi",
+        "laviamo",
+        "lavate",
+        "lavino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "lavare",
+        "avere lavato",
+        "lavante",
+        "lavato",
+        "lavando",
+        "avendo lavato"
+      ]
+    }
+  }
+},
+{
+  "id": "caricare",
+  "sid": "2026-00100",
+  "word": "caricare",
+  "ipa": "/kariˈkare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "caricato",
+    "gerundPresent": "caricando",
+    "pattern": "caricare qualcosa su/in + luogo / caricare qualcosa di + contenuto / caricare una spesa su + conto"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "digital",
+      "transport",
+      "technical"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "荷物を車・船・機械などに積み込む",
+      "容器・機械などに物を詰める、装填する",
+      "ファイル・画像・データなどをアップロードする",
+      "バッテリーや機器を充電する",
+      "費用を口座・カードなどに計上する",
+      "人に仕事・責任・負担などを負わせる",
+      "武器に弾薬を装填する",
+      "人を励ます、気力を高める"
+    ],
+    "it": [
+      "Collocare merci, bagagli o altri oggetti su un mezzo di trasporto.",
+      "Riempire un contenitore o inserire materiale in un dispositivo.",
+      "Trasferire file o dati verso un sistema informatico o una piattaforma.",
+      "Fornire energia a una batteria o a un dispositivo.",
+      "Addebitare una spesa a un conto o a una carta.",
+      "Attribuire a qualcuno un compito, una responsabilità o un peso.",
+      "Inserire munizioni in un’arma.",
+      "Incoraggiare o rendere qualcuno più energico e motivato."
+    ]
+  },
+
+  "nuance": {
+    "ja": "基本概念は、人・物・装置に何らかの「荷・内容・エネルギー」を与えることである。そこから物理的な積み込み、データのアップロード、充電、費用の計上、責任の付与などへ意味が広がった。スマートフォンなどではcaricareが「充電する」と「アップロードする」の両方になり得るため、目的語によって意味を判断する。充電を明確にする場合はricaricareもよく使われる。",
+    "it": "L’idea centrale è quella di fornire a una persona, a un oggetto o a un dispositivo un carico, un contenuto o dell’energia. Da questo significato derivano gli usi relativi al trasporto, all’informatica, alle batterie, alle spese e alle responsabilità. Con i dispositivi elettronici il senso dipende dall’oggetto: caricare un file significa trasferirlo, mentre caricare il telefono significa fornirgli energia."
+  },
+
+  "etymology": {
+    "ja": "名詞carico（荷、負担）および俗ラテン語carricareに由来する。carricareはラテン語carrus（荷車）から作られ、もともとは「荷車に荷を積む」ことを表した。英語charge、フランス語charger、スペイン語cargarとも歴史的に関係する。",
+    "it": "Dal latino volgare carricare, derivato da carrus, «carro». Il significato originario era collocare un carico su un carro. Appartiene alla stessa famiglia di carico, scaricare e ricaricare."
+  },
+
+  "minimal": [
+    {
+      "word": "caricare",
+      "ja": "物・データ・エネルギー・負担などを対象に加える",
+      "it": "fornire a qualcosa un carico, un contenuto, dell’energia o un peso"
+    },
+    {
+      "word": "scaricare",
+      "ja": "荷物を下ろす、データをダウンロードする、蓄えられたものを放出する",
+      "it": "togliere un carico, trasferire dati verso il proprio dispositivo o liberare energia"
+    },
+    {
+      "word": "ricaricare",
+      "ja": "バッテリー・カードなどにエネルギーや残高を再び補充する",
+      "it": "fornire nuovamente energia, credito o contenuto"
+    },
+    {
+      "word": "addebitare",
+      "ja": "金額を口座・カード・請求書に正式に計上する",
+      "it": "registrare formalmente una somma come spesa dovuta"
+    }
+  ],
+
+  "synonyms": [
+    "riempire",
+    "accumulare",
+    "imbarcare",
+    "addebitare",
+    "uploadare",
+    "ricaricare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "load",
+      "upload",
+      "charge"
+    ],
+    "de": [
+      "laden",
+      "hochladen",
+      "aufladen"
+    ],
+    "fr": [
+      "charger",
+      "téléverser",
+      "recharger"
+    ],
+    "es": [
+      "cargar",
+      "subir",
+      "recargar"
+    ]
+  },
+
+  "collocations": [
+    "caricare un camion",
+    "caricare una macchina",
+    "caricare una nave",
+    "caricare i bagagli",
+    "caricare la merce",
+    "caricare una valigia",
+    "caricare un file",
+    "caricare un documento",
+    "caricare una fotografia",
+    "caricare un video",
+    "caricare i dati",
+    "caricare sul sito",
+    "caricare online",
+    "caricare il telefono",
+    "caricare la batteria",
+    "caricare un dispositivo",
+    "caricare una carta",
+    "caricare una spesa sul conto",
+    "caricare qualcuno di responsabilità",
+    "caricare un’arma",
+    "caricare a bordo",
+    "caricare e scaricare",
+    "essere completamente carico",
+    "mettersi a caricare"
+  ],
+
+  "examples": [
+    {
+      "it": "Dobbiamo caricare i bagagli in macchina.",
+      "ja": "私たちは荷物を車に積み込まなければならない。"
+    },
+    {
+      "it": "Ho caricato il documento sul sito.",
+      "ja": "私はその書類をウェブサイトにアップロードした。"
+    },
+    {
+      "it": "Devo caricare il telefono prima di uscire.",
+      "ja": "外出する前に携帯電話を充電しなければならない。"
+    },
+    {
+      "it": "La spesa verrà caricata sulla carta di credito.",
+      "ja": "その費用はクレジットカードに請求される。"
+    },
+    {
+      "it": "Il direttore lo ha caricato di troppe responsabilità.",
+      "ja": "部長は彼にあまりにも多くの責任を負わせた。"
+    },
+    {
+      "it": "Il video sta ancora caricando.",
+      "ja": "その動画はまだ読み込み中だ。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "carico",
+        "carichi",
+        "carica",
+        "carichiamo",
+        "caricate",
+        "caricano"
+      ],
+
+      "Imperfetto": [
+        "caricavo",
+        "caricavi",
+        "caricava",
+        "caricavamo",
+        "caricavate",
+        "caricavano"
+      ],
+
+      "Passato prossimo": [
+        "ho caricato",
+        "hai caricato",
+        "ha caricato",
+        "abbiamo caricato",
+        "avete caricato",
+        "hanno caricato"
+      ],
+
+      "Passato remoto": [
+        "caricai",
+        "caricasti",
+        "caricò",
+        "caricammo",
+        "caricaste",
+        "caricarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo caricato",
+        "avevi caricato",
+        "aveva caricato",
+        "avevamo caricato",
+        "avevate caricato",
+        "avevano caricato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi caricato",
+        "avesti caricato",
+        "ebbe caricato",
+        "avemmo caricato",
+        "aveste caricato",
+        "ebbero caricato"
+      ],
+
+      "Futuro semplice": [
+        "caricherò",
+        "caricherai",
+        "caricherà",
+        "caricheremo",
+        "caricherete",
+        "caricheranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò caricato",
+        "avrai caricato",
+        "avrà caricato",
+        "avremo caricato",
+        "avrete caricato",
+        "avranno caricato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "carichi",
+        "carichi",
+        "carichi",
+        "carichiamo",
+        "carichiate",
+        "carichino"
+      ],
+
+      "Imperfetto": [
+        "caricassi",
+        "caricassi",
+        "caricasse",
+        "caricassimo",
+        "caricaste",
+        "caricassero"
+      ],
+
+      "Passato": [
+        "abbia caricato",
+        "abbia caricato",
+        "abbia caricato",
+        "abbiamo caricato",
+        "abbiate caricato",
+        "abbiano caricato"
+      ],
+
+      "Trapassato": [
+        "avessi caricato",
+        "avessi caricato",
+        "avesse caricato",
+        "avessimo caricato",
+        "aveste caricato",
+        "avessero caricato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "caricherei",
+        "caricheresti",
+        "caricherebbe",
+        "caricheremmo",
+        "carichereste",
+        "caricherebbero"
+      ],
+
+      "Passato": [
+        "avrei caricato",
+        "avresti caricato",
+        "avrebbe caricato",
+        "avremmo caricato",
+        "avreste caricato",
+        "avrebbero caricato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "carica",
+        "carichi",
+        "carichiamo",
+        "caricate",
+        "carichino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "caricare",
+        "avere caricato",
+        "caricante",
+        "caricato",
+        "caricando",
+        "avendo caricato"
+      ]
+    }
+  }
 }
 ]
