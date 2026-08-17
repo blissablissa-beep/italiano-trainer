@@ -3188,324 +3188,6 @@
   }
 },
 {
-  "id": "cessare",
-  "sid": "2026-00131",
-  "word": "cessare",
-  "ipa": "/tʃesˈsare/",
-  "level": "B1",
-  "frequency": "common",
-
-  "grammar": {
-    "pos": "verb",
-    "label": {
-      "ja": "自動詞・他動詞",
-      "it": "verbo intransitivo e transitivo"
-    },
-    "auxiliary": "essere（自動詞）／avere（他動詞・cessare di）",
-    "pastParticiple": "cessato",
-    "gerundPresent": "cessando",
-    "pattern": "cessare / cessare di + infinito / cessare un’attività"
-  },
-
-  "usage": {
-    "register": [
-      "neutral",
-      "formal"
-    ],
-    "medium": [
-      "spoken",
-      "written"
-    ],
-    "situations": [
-      "business",
-      "academic",
-      "legal",
-      "administrative",
-      "journalistic"
-    ]
-  },
-
-  "meaning": {
-    "ja": [
-      "活動・現象・状態などが終わる、止む",
-      "行為をやめる、中止する",
-      "事業・業務・生産などを終了する",
-      "役職・資格・効力などを失う、終了する"
-    ],
-    "it": [
-      "Finire o interrompersi, con riferimento a un’attività, un fenomeno o una condizione.",
-      "Smettere di compiere un’azione.",
-      "Interrompere definitivamente un’attività, un servizio o una produzione.",
-      "Non esercitare più una funzione o non produrre più determinati effetti."
-    ]
-  },
-
-  "nuance": {
-    "ja": "日常語のsmettereより改まった響きがあり、業務・効力・戦闘・騒音・雨などが終了する場合によく使われる。cessare di + 不定詞は「～するのをやめる」を表す。自動詞として現象や活動が終わる場合はessere、目的語を取って活動を終了する場合やcessare diの構文ではavereが一般的である。",
-    "it": "Ha spesso un tono più formale di smettere ed è frequente in riferimento ad attività economiche, effetti giuridici, ostilità, rumori o fenomeni atmosferici. Cessare di seguito dall’infinito significa smettere di fare qualcosa. Nell’uso intransitivo è comune essere; nell’uso transitivo e nella costruzione cessare di si usa normalmente avere."
-  },
-
-  "etymology": {
-    "ja": "ラテン語 cessāre（止まる、遅れる、活動しない）に由来する。これはcēdere（進む、退く、譲る）の反復・強意形である。同じ語族にはcessazione、incessante、concessioneなどがある。",
-    "it": "Dal latino cessāre, «fermarsi, indugiare, restare inattivo», forma intensiva di cēdere. Alla stessa famiglia appartengono cessazione, incessante e recesso."
-  },
-
-  "minimal": [
-    {
-      "word": "cessare",
-      "ja": "活動・効力・現象が終了することを、比較的改まって表す",
-      "it": "indicare in modo relativamente formale la fine di un’attività, di un effetto o di un fenomeno"
-    },
-    {
-      "word": "smettere",
-      "ja": "続けていた行為をやめることを日常的に表す",
-      "it": "interrompere nel linguaggio comune un’azione che si stava continuando"
-    },
-    {
-      "word": "interrompere",
-      "ja": "進行中の行為・流れを途中で止めるが、再開する可能性もある",
-      "it": "fermare qualcosa mentre è in corso, anche soltanto temporaneamente"
-    }
-  ],
-
-  "synonyms": [
-    "smettere",
-    "terminare",
-    "finire",
-    "interrompere",
-    "concludersi"
-  ],
-
-  "equivalents": {
-    "en": [
-      "cease",
-      "stop",
-      "discontinue"
-    ],
-    "de": [
-      "aufhören",
-      "einstellen",
-      "enden"
-    ],
-    "fr": [
-      "cesser",
-      "arrêter",
-      "prendre fin"
-    ],
-    "es": [
-      "cesar",
-      "dejar de",
-      "terminar"
-    ]
-  },
-
-  "collocations": [
-    "cessare immediatamente",
-    "cessare definitivamente",
-    "cessare gradualmente",
-    "cessare di esistere",
-    "cessare di funzionare",
-    "cessare di lavorare",
-    "cessare di produrre",
-    "cessare di essere",
-    "cessare il fuoco",
-    "cessare le ostilità",
-    "cessare un’attività",
-    "cessare la produzione",
-    "cessare il servizio",
-    "cessare ogni rapporto",
-    "cessare dalle funzioni",
-    "cessare dalla carica",
-    "il rumore è cessato",
-    "la pioggia è cessata",
-    "senza mai cessare",
-    "ordine di cessare"
-  ],
-
-  "examples": [
-    {
-      "it": "La pioggia è cessata verso mezzanotte.",
-      "ja": "雨は真夜中ごろに止んだ。"
-    },
-    {
-      "it": "Il rumore è cessato improvvisamente.",
-      "ja": "騒音は突然止んだ。"
-    },
-    {
-      "it": "L’azienda ha cessato la produzione di quel modello.",
-      "ja": "その会社はその型式の生産を終了した。"
-    },
-    {
-      "it": "Ha cessato di lavorare all’età di sessantacinque anni.",
-      "ja": "彼は65歳で働くことをやめた。"
-    },
-    {
-      "it": "Le parti hanno accettato di cessare le ostilità.",
-      "ja": "当事者らは敵対行為を停止することに同意した。"
-    },
-    {
-      "it": "Il contratto cesserà di avere effetto alla fine del mese.",
-      "ja": "その契約は月末に効力を失う。"
-    }
-  ],
-
-  "conjugations": {
-    "Indicativo": {
-      "Presente": [
-        "cesso",
-        "cessi",
-        "cessa",
-        "cessiamo",
-        "cessate",
-        "cessano"
-      ],
-
-      "Imperfetto": [
-        "cessavo",
-        "cessavi",
-        "cessava",
-        "cessavamo",
-        "cessavate",
-        "cessavano"
-      ],
-
-      "Passato prossimo": [
-        "ho cessato / sono cessato/a",
-        "hai cessato / sei cessato/a",
-        "ha cessato / è cessato/a",
-        "abbiamo cessato / siamo cessati/e",
-        "avete cessato / siete cessati/e",
-        "hanno cessato / sono cessati/e"
-      ],
-
-      "Passato remoto": [
-        "cessai",
-        "cessasti",
-        "cessò",
-        "cessammo",
-        "cessaste",
-        "cessarono"
-      ],
-
-      "Trapassato prossimo": [
-        "avevo cessato / ero cessato/a",
-        "avevi cessato / eri cessato/a",
-        "aveva cessato / era cessato/a",
-        "avevamo cessato / eravamo cessati/e",
-        "avevate cessato / eravate cessati/e",
-        "avevano cessato / erano cessati/e"
-      ],
-
-      "Trapassato remoto": [
-        "ebbi cessato / fui cessato/a",
-        "avesti cessato / fosti cessato/a",
-        "ebbe cessato / fu cessato/a",
-        "avemmo cessato / fummo cessati/e",
-        "aveste cessato / foste cessati/e",
-        "ebbero cessato / furono cessati/e"
-      ],
-
-      "Futuro semplice": [
-        "cesserò",
-        "cesserai",
-        "cesserà",
-        "cesseremo",
-        "cesserete",
-        "cesseranno"
-      ],
-
-      "Futuro anteriore": [
-        "avrò cessato / sarò cessato/a",
-        "avrai cessato / sarai cessato/a",
-        "avrà cessato / sarà cessato/a",
-        "avremo cessato / saremo cessati/e",
-        "avrete cessato / sarete cessati/e",
-        "avranno cessato / saranno cessati/e"
-      ]
-    },
-
-    "Congiuntivo": {
-      "Presente": [
-        "cessi",
-        "cessi",
-        "cessi",
-        "cessiamo",
-        "cessiate",
-        "cessino"
-      ],
-
-      "Imperfetto": [
-        "cessassi",
-        "cessassi",
-        "cessasse",
-        "cessassimo",
-        "cessaste",
-        "cessassero"
-      ],
-
-      "Passato": [
-        "abbia cessato / sia cessato/a",
-        "abbia cessato / sia cessato/a",
-        "abbia cessato / sia cessato/a",
-        "abbiamo cessato / siamo cessati/e",
-        "abbiate cessato / siate cessati/e",
-        "abbiano cessato / siano cessati/e"
-      ],
-
-      "Trapassato": [
-        "avessi cessato / fossi cessato/a",
-        "avessi cessato / fossi cessato/a",
-        "avesse cessato / fosse cessato/a",
-        "avessimo cessato / fossimo cessati/e",
-        "aveste cessato / foste cessati/e",
-        "avessero cessato / fossero cessati/e"
-      ]
-    },
-
-    "Condizionale": {
-      "Presente": [
-        "cesserei",
-        "cesseresti",
-        "cesserebbe",
-        "cesseremmo",
-        "cessereste",
-        "cesserebbero"
-      ],
-
-      "Passato": [
-        "avrei cessato / sarei cessato/a",
-        "avresti cessato / saresti cessato/a",
-        "avrebbe cessato / sarebbe cessato/a",
-        "avremmo cessato / saremmo cessati/e",
-        "avreste cessato / sareste cessati/e",
-        "avrebbero cessato / sarebbero cessati/e"
-      ]
-    },
-
-    "Imperativo": {
-      "Presente": [
-        "—",
-        "cessa",
-        "cessi",
-        "cessiamo",
-        "cessate",
-        "cessino"
-      ]
-    },
-
-    "Forme indefinite": {
-      "Forme": [
-        "cessare",
-        "avere cessato / essere cessato/a/i/e",
-        "cessante",
-        "cessato",
-        "cessando",
-        "avendo cessato / essendo cessato/a/i/e"
-      ]
-    }
-  }
-},
-{
   "id": "completare",
   "sid": "2026-00132",
   "word": "completare",
@@ -7982,6 +7664,648 @@
         "lavorato",
         "lavorando",
         "avendo lavorato"
+      ]
+    }
+  }
+},
+{
+  "id": "studiare",
+  "sid": "2026-00146",
+  "word": "studiare",
+  "ipa": "/stuˈdjare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "studiato",
+    "gerundPresent": "studiando",
+    "pattern": "studiare + materia o problema / studiare per + scopo / studiare a, in, presso + istituzione"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "education",
+      "academic",
+      "business"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "学問・科目・言語などを勉強する",
+      "試験・資格などに備えて学習する",
+      "問題・資料・現象などを詳しく調べる、研究する",
+      "計画・方法・解決策などを検討・考案する",
+      "人の性格・行動などを注意深く観察する"
+    ],
+    "it": [
+      "Applicarsi all’apprendimento di una materia, una lingua o una disciplina.",
+      "Prepararsi mediante lo studio a un esame, una prova o una professione.",
+      "Esaminare approfonditamente un problema, un documento o un fenomeno.",
+      "Elaborare e valutare un progetto, un metodo o una soluzione.",
+      "Osservare attentamente una persona, un comportamento o una situazione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "知識や技能を得るための学習だけでなく、対象を詳しく分析・検討することも表す。imparareが学習の結果として「身につける」ことに焦点を置くのに対し、studiareは学習・研究という過程を強調する。科目は直接目的語にし、試験などの目的にはperを用いる。",
+    "it": "Può indicare sia l’attività di apprendimento sia l’analisi approfondita di un problema o di un progetto. Imparare mette in rilievo l’acquisizione effettiva di una conoscenza o abilità; studiare sottolinea invece il processo e l’impegno. La materia è normalmente un oggetto diretto, mentre lo scopo può essere introdotto da per."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 studēre（熱心に取り組む、努力する、学ぶ）およびstudium（熱意、努力、研究）に由来する。同じ語族にはstudio、studente、studiosoなどがある。",
+    "it": "Dal latino studēre, «applicarsi con impegno, dedicarsi», e da studium, «zelo, applicazione, studio». Alla stessa famiglia appartengono studio, studente e studioso."
+  },
+
+  "minimal": [
+    {
+      "word": "studiare",
+      "ja": "知識・技能の習得や対象の分析のため、継続的に学習・研究する",
+      "it": "applicarsi all’apprendimento o all’analisi approfondita di qualcosa"
+    },
+    {
+      "word": "imparare",
+      "ja": "学習・経験を通じて知識や技能を身につける",
+      "it": "acquisire effettivamente una conoscenza o un’abilità"
+    },
+    {
+      "word": "ricercare",
+      "ja": "情報・証拠・新しい知識などを体系的に探究する",
+      "it": "indagare sistematicamente per trovare informazioni o produrre nuove conoscenze"
+    }
+  ],
+
+  "synonyms": [
+    "apprendere",
+    "esaminare",
+    "analizzare",
+    "approfondire",
+    "ricercare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "study",
+      "examine",
+      "research"
+    ],
+    "de": [
+      "lernen",
+      "studieren",
+      "untersuchen"
+    ],
+    "fr": [
+      "étudier",
+      "apprendre",
+      "examiner"
+    ],
+    "es": [
+      "estudiar",
+      "aprender",
+      "analizar"
+    ]
+  },
+
+  "collocations": [
+    "studiare molto",
+    "studiare seriamente",
+    "studiare attentamente",
+    "studiare ogni giorno",
+    "studiare da solo",
+    "studiare insieme",
+    "studiare a casa",
+    "studiare all’università",
+    "studiare all’estero",
+    "studiare italiano",
+    "studiare una lingua",
+    "studiare matematica",
+    "studiare diritto",
+    "studiare medicina",
+    "studiare per un esame",
+    "studiare per diventare medico",
+    "studiare un problema",
+    "studiare un documento",
+    "studiare un caso",
+    "studiare una soluzione",
+    "studiare un progetto",
+    "mettersi a studiare"
+  ],
+
+  "examples": [
+    {
+      "it": "Studio italiano da due anni.",
+      "ja": "私は2年前からイタリア語を勉強している。"
+    },
+    {
+      "it": "Mia figlia studia medicina all’università.",
+      "ja": "私の娘は大学で医学を学んでいる。"
+    },
+    {
+      "it": "Devo studiare per l’esame di domani.",
+      "ja": "明日の試験に向けて勉強しなければならない。"
+    },
+    {
+      "it": "Abbiamo studiato attentamente il documento.",
+      "ja": "私たちはその書類を注意深く検討した。"
+    },
+    {
+      "it": "Gli ingegneri stanno studiando una nuova soluzione.",
+      "ja": "技術者たちは新しい解決策を検討しているところだ。"
+    },
+    {
+      "it": "Vorrei studiare all’estero per un anno.",
+      "ja": "1年間、海外へ留学したい。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "studio",
+        "studi",
+        "studia",
+        "studiamo",
+        "studiate",
+        "studiano"
+      ],
+
+      "Imperfetto": [
+        "studiavo",
+        "studiavi",
+        "studiava",
+        "studiavamo",
+        "studiavate",
+        "studiavano"
+      ],
+
+      "Passato prossimo": [
+        "ho studiato",
+        "hai studiato",
+        "ha studiato",
+        "abbiamo studiato",
+        "avete studiato",
+        "hanno studiato"
+      ],
+
+      "Passato remoto": [
+        "studiai",
+        "studiasti",
+        "studiò",
+        "studiammo",
+        "studiaste",
+        "studiarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo studiato",
+        "avevi studiato",
+        "aveva studiato",
+        "avevamo studiato",
+        "avevate studiato",
+        "avevano studiato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi studiato",
+        "avesti studiato",
+        "ebbe studiato",
+        "avemmo studiato",
+        "aveste studiato",
+        "ebbero studiato"
+      ],
+
+      "Futuro semplice": [
+        "studierò",
+        "studierai",
+        "studierà",
+        "studieremo",
+        "studierete",
+        "studieranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò studiato",
+        "avrai studiato",
+        "avrà studiato",
+        "avremo studiato",
+        "avrete studiato",
+        "avranno studiato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "studi",
+        "studi",
+        "studi",
+        "studiamo",
+        "studiate",
+        "studino"
+      ],
+
+      "Imperfetto": [
+        "studiassi",
+        "studiassi",
+        "studiasse",
+        "studiassimo",
+        "studiaste",
+        "studiassero"
+      ],
+
+      "Passato": [
+        "abbia studiato",
+        "abbia studiato",
+        "abbia studiato",
+        "abbiamo studiato",
+        "abbiate studiato",
+        "abbiano studiato"
+      ],
+
+      "Trapassato": [
+        "avessi studiato",
+        "avessi studiato",
+        "avesse studiato",
+        "avessimo studiato",
+        "aveste studiato",
+        "avessero studiato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "studierei",
+        "studieresti",
+        "studierebbe",
+        "studieremmo",
+        "studiereste",
+        "studierebbero"
+      ],
+
+      "Passato": [
+        "avrei studiato",
+        "avresti studiato",
+        "avrebbe studiato",
+        "avremmo studiato",
+        "avreste studiato",
+        "avrebbero studiato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "studia",
+        "studi",
+        "studiamo",
+        "studiate",
+        "studino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "studiare",
+        "avere studiato",
+        "studiante",
+        "studiato",
+        "studiando",
+        "avendo studiato"
+      ]
+    }
+  }
+},
+{
+  "id": "ricercare",
+  "sid": "2026-00147",
+  "word": "ricercare",
+  "ipa": "/ritʃerˈkare/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "ricercato",
+    "gerundPresent": "ricercando",
+    "pattern": "ricercare + persona, cosa, informazione o risultato"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "academic"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "business",
+      "academic",
+      "legal",
+      "scientific",
+      "journalistic"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人・物・情報などを詳しく探す",
+      "知識・原因・証拠などを調査・研究する",
+      "目的・効果・品質などを追求する",
+      "警察などが人を捜索・指名手配する",
+      "望ましい人材・条件・解決策などを求める"
+    ],
+    "it": [
+      "Cercare con attenzione una persona, una cosa o un’informazione.",
+      "Indagare sistematicamente per acquisire conoscenze, cause o prove.",
+      "Perseguire un obiettivo, un effetto o una determinata qualità.",
+      "Cercare una persona da arrestare o interrogare, specialmente da parte delle autorità.",
+      "Individuare candidati, condizioni o soluzioni considerati adatti."
+    ]
+  },
+
+  "nuance": {
+    "ja": "日常的なcercareよりも、組織的・継続的・詳細に探すことを示す場合が多く、学術・科学・法律・求人・報道などでよく使われる。研究活動を表す場合、日本語では「研究する」と訳せるが、具体的な学問分野を学ぶstudiareよりも、新しい情報・証拠・結果を探究することに重点がある。",
+    "it": "Rispetto al comune cercare, suggerisce spesso una ricerca più accurata, sistematica o prolungata ed è frequente nei linguaggi scientifico, giuridico, professionale e giornalistico. In ambito accademico mette in rilievo l’indagine finalizzata a ottenere informazioni o risultati nuovi, più che il semplice studio di una materia."
+  },
+
+  "etymology": {
+    "ja": "接頭辞ri-とcercareから形成された。cercareは後期ラテン語 circāre（周囲を回る、探し回る）に由来し、circus（円、周囲）と関係する。ri-によって反復・徹底の意味が加えられている。",
+    "it": "Derivato da cercare con il prefisso ri-, che può esprimere ripetizione o intensificazione. Cercare risale al latino tardo circāre, «girare intorno, esplorare», collegato a circus."
+  },
+
+  "minimal": [
+    {
+      "word": "ricercare",
+      "ja": "情報・証拠・人・結果などを組織的かつ詳しく探究する",
+      "it": "cercare o indagare in modo accurato e sistematico"
+    },
+    {
+      "word": "cercare",
+      "ja": "人・物・方法などを見つけようとすることを日常的に表す",
+      "it": "tentare in generale di trovare qualcuno o qualcosa"
+    },
+    {
+      "word": "studiare",
+      "ja": "知識の習得または対象の理解のために学習・分析する",
+      "it": "applicarsi all’apprendimento o all’analisi di una materia o di un problema"
+    }
+  ],
+
+  "synonyms": [
+    "cercare",
+    "indagare",
+    "investigare",
+    "esaminare",
+    "perseguire"
+  ],
+
+  "equivalents": {
+    "en": [
+      "research",
+      "search for",
+      "seek"
+    ],
+    "de": [
+      "erforschen",
+      "recherchieren",
+      "suchen"
+    ],
+    "fr": [
+      "rechercher",
+      "enquêter sur",
+      "chercher"
+    ],
+    "es": [
+      "investigar",
+      "buscar",
+      "indagar"
+    ]
+  },
+
+  "collocations": [
+    "ricercare informazioni",
+    "ricercare dati",
+    "ricercare prove",
+    "ricercare le cause",
+    "ricercare una soluzione",
+    "ricercare un metodo",
+    "ricercare un risultato",
+    "ricercare la verità",
+    "ricercare la qualità",
+    "ricercare la perfezione",
+    "ricercare il successo",
+    "ricercare un equilibrio",
+    "ricercare personale",
+    "ricercare un candidato",
+    "ricercare un professionista",
+    "ricercare una persona scomparsa",
+    "essere ricercato dalla polizia",
+    "ricercare attentamente",
+    "ricercare sistematicamente",
+    "ricercare attivamente",
+    "continuare a ricercare"
+  ],
+
+  "examples": [
+    {
+      "it": "Gli studiosi stanno ricercando le cause del fenomeno.",
+      "ja": "研究者たちはその現象の原因を調査している。"
+    },
+    {
+      "it": "Dobbiamo ricercare una soluzione più efficace.",
+      "ja": "より効果的な解決策を探究しなければならない。"
+    },
+    {
+      "it": "Ho ricercato tutte le informazioni disponibili.",
+      "ja": "私は入手可能な情報をすべて詳しく調べた。"
+    },
+    {
+      "it": "L’azienda ricerca personale con esperienza internazionale.",
+      "ja": "その会社は国際経験のある人材を募集している。"
+    },
+    {
+      "it": "L’uomo è ricercato dalla polizia.",
+      "ja": "その男は警察に指名手配されている。"
+    },
+    {
+      "it": "Il progetto mira a ricercare un equilibrio tra innovazione e tradizione.",
+      "ja": "その計画は革新と伝統の均衡を追求することを目的としている。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "ricerco",
+        "ricerchi",
+        "ricerca",
+        "ricerchiamo",
+        "ricercate",
+        "ricercano"
+      ],
+
+      "Imperfetto": [
+        "ricercavo",
+        "ricercavi",
+        "ricercava",
+        "ricercavamo",
+        "ricercavate",
+        "ricercavano"
+      ],
+
+      "Passato prossimo": [
+        "ho ricercato",
+        "hai ricercato",
+        "ha ricercato",
+        "abbiamo ricercato",
+        "avete ricercato",
+        "hanno ricercato"
+      ],
+
+      "Passato remoto": [
+        "ricercai",
+        "ricercasti",
+        "ricercò",
+        "ricercammo",
+        "ricercaste",
+        "ricercarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo ricercato",
+        "avevi ricercato",
+        "aveva ricercato",
+        "avevamo ricercato",
+        "avevate ricercato",
+        "avevano ricercato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi ricercato",
+        "avesti ricercato",
+        "ebbe ricercato",
+        "avemmo ricercato",
+        "aveste ricercato",
+        "ebbero ricercato"
+      ],
+
+      "Futuro semplice": [
+        "ricercherò",
+        "ricercherai",
+        "ricercherà",
+        "ricercheremo",
+        "ricercherete",
+        "ricercheranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò ricercato",
+        "avrai ricercato",
+        "avrà ricercato",
+        "avremo ricercato",
+        "avrete ricercato",
+        "avranno ricercato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "ricerchi",
+        "ricerchi",
+        "ricerchi",
+        "ricerchiamo",
+        "ricerchiate",
+        "ricerchino"
+      ],
+
+      "Imperfetto": [
+        "ricercassi",
+        "ricercassi",
+        "ricercasse",
+        "ricercassimo",
+        "ricercaste",
+        "ricercassero"
+      ],
+
+      "Passato": [
+        "abbia ricercato",
+        "abbia ricercato",
+        "abbia ricercato",
+        "abbiamo ricercato",
+        "abbiate ricercato",
+        "abbiano ricercato"
+      ],
+
+      "Trapassato": [
+        "avessi ricercato",
+        "avessi ricercato",
+        "avesse ricercato",
+        "avessimo ricercato",
+        "aveste ricercato",
+        "avessero ricercato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "ricercherei",
+        "ricercheresti",
+        "ricercherebbe",
+        "ricercheremmo",
+        "ricerchereste",
+        "ricercherebbero"
+      ],
+
+      "Passato": [
+        "avrei ricercato",
+        "avresti ricercato",
+        "avrebbe ricercato",
+        "avremmo ricercato",
+        "avreste ricercato",
+        "avrebbero ricercato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "ricerca",
+        "ricerchi",
+        "ricerchiamo",
+        "ricercate",
+        "ricerchino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "ricercare",
+        "avere ricercato",
+        "ricercante",
+        "ricercato",
+        "ricercando",
+        "avendo ricercato"
       ]
     }
   }
