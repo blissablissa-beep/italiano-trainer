@@ -10249,6 +10249,5238 @@
       ]
     }
   }
+},
+{
+  "id": "annunciare",
+  "sid": "2026-00153",
+  "word": "annunciare",
+  "ipa": "/annunˈtʃare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "annunciato",
+    "gerundPresent": "annunciando",
+    "pattern": "annunciare qualcosa / annunciare qualcosa a qualcuno / annunciare che + frase"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "journalistic"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "news",
+      "political",
+      "formal_correspondence"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "ニュース・決定・予定などを発表する、告知する",
+      "人に出来事や情報を知らせる",
+      "人や物の到着・開始などを告げる",
+      "将来起こる出来事を予告する",
+      "兆候などが出来事の到来を示す"
+    ],
+    "it": [
+      "Comunicare pubblicamente una notizia, una decisione o un programma.",
+      "Far sapere qualcosa a una persona.",
+      "Segnalare l’arrivo, l’inizio o la presenza di qualcuno o qualcosa.",
+      "Preannunciare un evento futuro.",
+      "Indicare, come segno o indizio, che qualcosa sta per accadere."
+    ]
+  },
+
+  "nuance": {
+    "ja": "新しい情報や重要な出来事を、相手または公衆に向けて明確に知らせることを表す。direが一般的な「言う」、informareが必要な情報を提供することに重点を置くのに対し、annunciareはニュース性のある事柄を正式または目立つ形で発表するニュアンスを持つ。内容は直接目的語、知らせる相手はaで示す。",
+    "it": "Mette in rilievo la comunicazione chiara di una novità o di un avvenimento significativo, spesso a una persona o al pubblico. Dire è il verbo generale del parlare; informare sottolinea la trasmissione di informazioni utili; annunciare presenta invece qualcosa come una notizia o una comunicazione ufficiale. Il contenuto è l’oggetto diretto e il destinatario è introdotto da a."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 annuntiāre（知らせる、告げる）に由来し、ad-（～へ）とnuntius（使者、知らせ）から成る。接頭辞の子音同化によりad-がan-となった。同じ語族にはannuncio、nunzio、denunciare、pronunciareなどがある。",
+    "it": "Dal latino annuntiāre, formato da ad-, «verso», e nuntius, «messaggero, notizia», con assimilazione consonantica. Alla stessa famiglia appartengono annuncio, nunzio, denunciare e preannunciare."
+  },
+
+  "minimal": [
+    {
+      "word": "annunciare",
+      "ja": "新しい情報・決定・出来事などを公的または明確に発表する",
+      "it": "comunicare come notizia una decisione, un fatto o un evento"
+    },
+    {
+      "word": "informare",
+      "ja": "人が必要とする事実・状況・手続きなどの情報を提供する",
+      "it": "fornire a qualcuno informazioni utili su fatti, condizioni o procedure"
+    },
+    {
+      "word": "comunicare",
+      "ja": "情報・考え・決定などを他者へ伝達することを広く表す",
+      "it": "trasmettere in generale informazioni, idee, decisioni o sentimenti"
+    },
+    {
+      "word": "avvisare",
+      "ja": "注意・準備・行動が必要な事柄を前もって知らせる",
+      "it": "informare qualcuno di qualcosa che richiede attenzione o preparazione"
+    }
+  ],
+
+  "synonyms": [
+    "comunicare",
+    "rendere noto",
+    "informare",
+    "dichiarare",
+    "preannunciare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "announce",
+      "declare",
+      "notify"
+    ],
+    "de": [
+      "ankündigen",
+      "bekannt geben",
+      "verkünden"
+    ],
+    "fr": [
+      "annoncer",
+      "faire savoir",
+      "déclarer"
+    ],
+    "es": [
+      "anunciar",
+      "comunicar",
+      "dar a conocer"
+    ]
+  },
+
+  "collocations": [
+    "annunciare una notizia",
+    "annunciare una decisione",
+    "annunciare un accordo",
+    "annunciare un cambiamento",
+    "annunciare un progetto",
+    "annunciare un’iniziativa",
+    "annunciare i risultati",
+    "annunciare la propria candidatura",
+    "annunciare le dimissioni",
+    "annunciare la nascita di un bambino",
+    "annunciare un matrimonio",
+    "annunciare la morte di qualcuno",
+    "annunciare l’arrivo",
+    "annunciare la partenza",
+    "annunciare ufficialmente",
+    "annunciare pubblicamente",
+    "annunciare improvvisamente",
+    "annunciare in anticipo",
+    "annunciare qualcosa a qualcuno",
+    "annunciare che qualcosa accadrà",
+    "essere lieto di annunciare",
+    "venire annunciato",
+    "la primavera si annuncia",
+    "nuvole che annunciano la pioggia"
+  ],
+
+  "examples": [
+    {
+      "it": "L’azienda ha annunciato un nuovo progetto.",
+      "ja": "会社は新しい計画を発表した。"
+    },
+    {
+      "it": "Il governo annuncerà la decisione domani.",
+      "ja": "政府は明日その決定を発表する。"
+    },
+    {
+      "it": "Siamo lieti di annunciare la nascita di nostra figlia.",
+      "ja": "私たちの娘の誕生を喜んでお知らせします。"
+    },
+    {
+      "it": "Ha annunciato ai colleghi che avrebbe lasciato il lavoro.",
+      "ja": "彼は同僚たちに仕事を辞めるつもりだと告げた。"
+    },
+    {
+      "it": "Una voce ha annunciato l’arrivo del treno.",
+      "ja": "アナウンスが列車の到着を告げた。"
+    },
+    {
+      "it": "Le nuvole scure annunciavano un temporale.",
+      "ja": "黒い雲が嵐の到来を予告していた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "annuncio",
+        "annunci",
+        "annuncia",
+        "annunciamo",
+        "annunciate",
+        "annunciano"
+      ],
+
+      "Imperfetto": [
+        "annunciavo",
+        "annunciavi",
+        "annunciava",
+        "annunciavamo",
+        "annunciavate",
+        "annunciavano"
+      ],
+
+      "Passato prossimo": [
+        "ho annunciato",
+        "hai annunciato",
+        "ha annunciato",
+        "abbiamo annunciato",
+        "avete annunciato",
+        "hanno annunciato"
+      ],
+
+      "Passato remoto": [
+        "annunciai",
+        "annunciasti",
+        "annunciò",
+        "annunciammo",
+        "annunciaste",
+        "annunciarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo annunciato",
+        "avevi annunciato",
+        "aveva annunciato",
+        "avevamo annunciato",
+        "avevate annunciato",
+        "avevano annunciato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi annunciato",
+        "avesti annunciato",
+        "ebbe annunciato",
+        "avemmo annunciato",
+        "aveste annunciato",
+        "ebbero annunciato"
+      ],
+
+      "Futuro semplice": [
+        "annuncerò",
+        "annuncerai",
+        "annuncerà",
+        "annunceremo",
+        "annuncerete",
+        "annunceranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò annunciato",
+        "avrai annunciato",
+        "avrà annunciato",
+        "avremo annunciato",
+        "avrete annunciato",
+        "avranno annunciato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "annunci",
+        "annunci",
+        "annunci",
+        "annunciamo",
+        "annunciate",
+        "annuncino"
+      ],
+
+      "Imperfetto": [
+        "annunciassi",
+        "annunciassi",
+        "annunciasse",
+        "annunciassimo",
+        "annunciaste",
+        "annunciassero"
+      ],
+
+      "Passato": [
+        "abbia annunciato",
+        "abbia annunciato",
+        "abbia annunciato",
+        "abbiamo annunciato",
+        "abbiate annunciato",
+        "abbiano annunciato"
+      ],
+
+      "Trapassato": [
+        "avessi annunciato",
+        "avessi annunciato",
+        "avesse annunciato",
+        "avessimo annunciato",
+        "aveste annunciato",
+        "avessero annunciato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "annuncerei",
+        "annunceresti",
+        "annuncerebbe",
+        "annunceremmo",
+        "annuncereste",
+        "annuncerebbero"
+      ],
+
+      "Passato": [
+        "avrei annunciato",
+        "avresti annunciato",
+        "avrebbe annunciato",
+        "avremmo annunciato",
+        "avreste annunciato",
+        "avrebbero annunciato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "annuncia",
+        "annunci",
+        "annunciamo",
+        "annunciate",
+        "annuncino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "annunciare",
+        "avere annunciato",
+        "annunciante",
+        "annunciato",
+        "annunciando",
+        "avendo annunciato"
+      ]
+    }
+  }
+},
+{
+  "id": "accogliere",
+  "sid": "2026-00154",
+  "word": "accogliere",
+  "ipa": "/akˈkɔʎʎere/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "accolto",
+    "gerundPresent": "accogliendo",
+    "pattern": "accogliere qualcuno / accogliere qualcosa con + atteggiamento / accogliere una richiesta"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "social",
+      "business",
+      "hospitality",
+      "legal"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人を迎える、歓迎する",
+      "客・移住者・避難者などを受け入れる",
+      "提案・要望・申請などを受け入れる、認める",
+      "知らせ・出来事などに特定の態度で反応する",
+      "建物・場所などが人や物を収容する",
+      "考え・教え・感情などを心に受け入れる"
+    ],
+    "it": [
+      "Ricevere una persona al suo arrivo e darle il benvenuto.",
+      "Ospitare o dare protezione a visitatori, migranti o persone in difficoltà.",
+      "Accettare una proposta, una richiesta, una domanda o un ricorso.",
+      "Reagire a una notizia o a un evento con un determinato atteggiamento.",
+      "Contenere o ospitare persone e cose all’interno di uno spazio.",
+      "Accettare interiormente un’idea, un insegnamento o un sentimento."
+    ]
+  },
+
+  "nuance": {
+    "ja": "単に相手を受け取るだけでなく、自分のいる場所・集団・制度の内側へ迎え入れるというニュアンスを持つ。人には「迎える・歓迎する」、提案や申請には「受け入れる・認める」と訳される。ricevereが受領・面会を広く表すのに対し、accogliereは受容や歓迎の態度をより強く示すことが多い。",
+    "it": "Non indica soltanto il ricevimento materiale, ma spesso l’ammissione di qualcuno o qualcosa nel proprio spazio, gruppo o sistema. Con le persone può esprimere ospitalità e benvenuto; con proposte, domande o ricorsi significa accettare o approvare. Rispetto a ricevere, sottolinea più frequentemente l’atteggiamento di apertura e accettazione."
+  },
+
+  "etymology": {
+    "ja": "俗ラテン語 accolligĕreに由来し、ラテン語のad-（～へ）とcolligĕre（集める、まとめる）から成る。colligĕre自体はcon-とlegĕre（集める、選ぶ）の結合である。本来の「自分のもとへ集める」から「迎え入れる」という意味が発達した。",
+    "it": "Dal latino volgare accolligĕre, formato da ad- e colligĕre, «raccogliere, riunire». Colligĕre deriva a sua volta da con- e legĕre. Dall’idea di raccogliere presso di sé si è sviluppato il significato di ricevere e ospitare."
+  },
+
+  "minimal": [
+    {
+      "word": "accogliere",
+      "ja": "人・考え・要望などを自分の場所や枠組みの中へ迎え入れる",
+      "it": "ricevere e ammettere qualcuno o qualcosa nel proprio spazio o ambito"
+    },
+    {
+      "word": "ricevere",
+      "ja": "物・情報・人などを受け取る、受領する、面会する",
+      "it": "entrare in possesso di qualcosa oppure incontrare una persona"
+    },
+    {
+      "word": "ospitare",
+      "ja": "人に滞在場所を提供する、または催しなどを開催する",
+      "it": "offrire alloggio o spazio a una persona, un gruppo o un evento"
+    },
+    {
+      "word": "accettare",
+      "ja": "提案・条件・招待などに同意して受け入れる",
+      "it": "dare il proprio consenso a una proposta, una condizione o un’offerta"
+    }
+  ],
+
+  "synonyms": [
+    "ricevere",
+    "ospitare",
+    "accettare",
+    "ammettere",
+    "dare il benvenuto"
+  ],
+
+  "equivalents": {
+    "en": [
+      "welcome",
+      "receive",
+      "accept"
+    ],
+    "de": [
+      "empfangen",
+      "aufnehmen",
+      "willkommen heißen"
+    ],
+    "fr": [
+      "accueillir",
+      "recevoir",
+      "accepter"
+    ],
+    "es": [
+      "acoger",
+      "recibir",
+      "aceptar"
+    ]
+  },
+
+  "collocations": [
+    "accogliere qualcuno",
+    "accogliere un ospite",
+    "accogliere i visitatori",
+    "accogliere una delegazione",
+    "accogliere i clienti",
+    "accogliere i turisti",
+    "accogliere i rifugiati",
+    "accogliere in casa",
+    "accogliere a braccia aperte",
+    "accogliere calorosamente",
+    "accogliere con favore",
+    "accogliere con entusiasmo",
+    "accogliere con gioia",
+    "accogliere con sorpresa",
+    "accogliere con freddezza",
+    "accogliere una proposta",
+    "accogliere una richiesta",
+    "accogliere una domanda",
+    "accogliere un ricorso",
+    "accogliere un’idea",
+    "accogliere la notizia",
+    "essere pronto ad accogliere",
+    "venire accolto bene",
+    "sentirsi accolto"
+  ],
+
+  "examples": [
+    {
+      "it": "La famiglia ci ha accolto con grande gentilezza.",
+      "ja": "その家族は私たちをとても親切に迎えてくれた。"
+    },
+    {
+      "it": "L’albergo può accogliere più di cento ospiti.",
+      "ja": "そのホテルは100人を超える宿泊客を収容できる。"
+    },
+    {
+      "it": "La proposta è stata accolta con entusiasmo.",
+      "ja": "その提案は熱意をもって受け入れられた。"
+    },
+    {
+      "it": "Il tribunale ha accolto il ricorso.",
+      "ja": "裁判所はその不服申立てを認めた。"
+    },
+    {
+      "it": "Ci hanno accolti a braccia aperte.",
+      "ja": "彼らは私たちを諸手を挙げて歓迎してくれた。"
+    },
+    {
+      "it": "Ha accolto la notizia con una certa preoccupazione.",
+      "ja": "彼はその知らせをいくらか不安を感じながら受け止めた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "accolgo",
+        "accogli",
+        "accoglie",
+        "accogliamo",
+        "accogliete",
+        "accolgono"
+      ],
+
+      "Imperfetto": [
+        "accoglievo",
+        "accoglievi",
+        "accoglieva",
+        "accoglievamo",
+        "accoglievate",
+        "accoglievano"
+      ],
+
+      "Passato prossimo": [
+        "ho accolto",
+        "hai accolto",
+        "ha accolto",
+        "abbiamo accolto",
+        "avete accolto",
+        "hanno accolto"
+      ],
+
+      "Passato remoto": [
+        "accolsi",
+        "accogliesti",
+        "accolse",
+        "accogliemmo",
+        "accoglieste",
+        "accolsero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo accolto",
+        "avevi accolto",
+        "aveva accolto",
+        "avevamo accolto",
+        "avevate accolto",
+        "avevano accolto"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi accolto",
+        "avesti accolto",
+        "ebbe accolto",
+        "avemmo accolto",
+        "aveste accolto",
+        "ebbero accolto"
+      ],
+
+      "Futuro semplice": [
+        "accoglierò",
+        "accoglierai",
+        "accoglierà",
+        "accoglieremo",
+        "accoglierete",
+        "accoglieranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò accolto",
+        "avrai accolto",
+        "avrà accolto",
+        "avremo accolto",
+        "avrete accolto",
+        "avranno accolto"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "accolga",
+        "accolga",
+        "accolga",
+        "accogliamo",
+        "accogliate",
+        "accolgano"
+      ],
+
+      "Imperfetto": [
+        "accogliessi",
+        "accogliessi",
+        "accogliesse",
+        "accogliessimo",
+        "accoglieste",
+        "accogliessero"
+      ],
+
+      "Passato": [
+        "abbia accolto",
+        "abbia accolto",
+        "abbia accolto",
+        "abbiamo accolto",
+        "abbiate accolto",
+        "abbiano accolto"
+      ],
+
+      "Trapassato": [
+        "avessi accolto",
+        "avessi accolto",
+        "avesse accolto",
+        "avessimo accolto",
+        "aveste accolto",
+        "avessero accolto"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "accoglierei",
+        "accoglieresti",
+        "accoglierebbe",
+        "accoglieremmo",
+        "accogliereste",
+        "accoglierebbero"
+      ],
+
+      "Passato": [
+        "avrei accolto",
+        "avresti accolto",
+        "avrebbe accolto",
+        "avremmo accolto",
+        "avreste accolto",
+        "avrebbero accolto"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "accogli",
+        "accolga",
+        "accogliamo",
+        "accogliete",
+        "accolgano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "accogliere",
+        "avere accolto",
+        "accogliente",
+        "accolto",
+        "accogliendo",
+        "avendo accolto"
+      ]
+    }
+  }
+},
+{
+  "id": "appartenere",
+  "sid": "2026-00155",
+  "word": "appartenere",
+  "ipa": "/apparteˈnere/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞",
+      "it": "verbo intransitivo"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "appartenuto",
+    "gerundPresent": "appartenendo",
+    "pattern": "appartenere a + persona, gruppo, luogo o categoria"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "social",
+      "business",
+      "academic",
+      "legal"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人の所有物である、～に属する",
+      "集団・組織・共同体などの一員である",
+      "種類・カテゴリー・時代などに分類される",
+      "場所・地域・国家などの一部である",
+      "人と深い結びつきがあり、帰属意識を持つ"
+    ],
+    "it": [
+      "Essere di proprietà di una persona o di un ente.",
+      "Far parte di un gruppo, di un’organizzazione o di una comunità.",
+      "Rientrare in una categoria, in una classe o in un periodo storico.",
+      "Costituire parte di un luogo, di un territorio o di uno Stato.",
+      "Sentirsi legati a una persona, a un ambiente o a una comunità."
+    ]
+  },
+
+  "nuance": {
+    "ja": "所有・分類・所属・帰属を表し、相手や所属先は必ず前置詞aで導く。したがって「この本は私のものだ」はQuesto libro appartiene a meと言えるが、通常はQuesto libro è mioのほうが自然である。所有だけでなく、appartenere a una generazioneのように、集団・種類・時代の一部であることも表す。",
+    "it": "Esprime proprietà, inclusione, classificazione o senso di appartenenza. La persona, il gruppo o la categoria di riferimento è introdotta dalla preposizione a. Per la semplice proprietà, Questo libro è mio è spesso più naturale di Questo libro appartiene a me. Il verbo è però molto comune per indicare l’inclusione in gruppi, categorie, epoche e territori."
+  },
+
+  "etymology": {
+    "ja": "ラテン語の表現ad pertinēre（～に関係する、～の範囲に属する）に由来する。pertinēreはper-とtenēre（保つ、保持する）から成る。同じ語族にはpertinente、pertinenza、tenereなどがある。",
+    "it": "Dal latino ad pertinēre, «riguardare, essere di competenza o proprietà di». Pertinēre è formato da per- e tenēre, «tenere». Alla stessa famiglia appartengono pertinente, pertinenza e appartenente."
+  },
+
+  "minimal": [
+    {
+      "word": "appartenere",
+      "ja": "人・集団・種類・場所などの所有物または構成部分である",
+      "it": "essere proprietà o parte integrante di una persona, un gruppo o una categoria"
+    },
+    {
+      "word": "possedere",
+      "ja": "人が物・財産・性質などを所有している",
+      "it": "avere la proprietà o la disponibilità di qualcosa"
+    },
+    {
+      "word": "far parte di",
+      "ja": "集団・組織・全体を構成する一員・一部分である",
+      "it": "essere uno degli elementi che compongono un gruppo o un insieme"
+    },
+    {
+      "word": "dipendere",
+      "ja": "人・組織・条件などに従属する、または結果が条件によって決まる",
+      "it": "essere subordinato a qualcuno o determinato da una condizione"
+    }
+  ],
+
+  "synonyms": [
+    "essere di",
+    "far parte di",
+    "essere compreso in",
+    "rientrare in",
+    "essere membro di"
+  ],
+
+  "equivalents": {
+    "en": [
+      "belong",
+      "belong to",
+      "be part of"
+    ],
+    "de": [
+      "gehören",
+      "angehören",
+      "zugehörig sein"
+    ],
+    "fr": [
+      "appartenir",
+      "faire partie de"
+    ],
+    "es": [
+      "pertenecer",
+      "formar parte de"
+    ]
+  },
+
+  "collocations": [
+    "appartenere a qualcuno",
+    "appartenere a una famiglia",
+    "appartenere a un gruppo",
+    "appartenere a una comunità",
+    "appartenere a un’organizzazione",
+    "appartenere a un’associazione",
+    "appartenere a un partito",
+    "appartenere a una squadra",
+    "appartenere a una categoria",
+    "appartenere a una classe",
+    "appartenere a una specie",
+    "appartenere a una generazione",
+    "appartenere a un’epoca",
+    "appartenere al passato",
+    "appartenere alla storia",
+    "appartenere a un territorio",
+    "appartenere allo Stato",
+    "appartenere al patrimonio culturale",
+    "sentire di appartenere",
+    "non appartenere a nessuno",
+    "senso di appartenenza",
+    "persona appartenente a un gruppo"
+  ],
+
+  "examples": [
+    {
+      "it": "A chi appartiene questa borsa?",
+      "ja": "このかばんは誰のものですか。"
+    },
+    {
+      "it": "Questo edificio appartiene allo Stato.",
+      "ja": "この建物は国の所有物である。"
+    },
+    {
+      "it": "Appartengo a una piccola associazione culturale.",
+      "ja": "私は小さな文化団体に所属している。"
+    },
+    {
+      "it": "Queste parole appartengono alla lingua antica.",
+      "ja": "これらの単語は古い時代の言語に属する。"
+    },
+    {
+      "it": "Quella tradizione è appartenuta per secoli alla comunità locale.",
+      "ja": "その伝統は何世紀にもわたり地域共同体のものであった。"
+    },
+    {
+      "it": "Per la prima volta sentiva di appartenere a quel luogo.",
+      "ja": "彼は初めてその場所に自分の居場所があると感じていた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "appartengo",
+        "appartieni",
+        "appartiene",
+        "apparteniamo",
+        "appartenete",
+        "appartengono"
+      ],
+
+      "Imperfetto": [
+        "appartenevo",
+        "appartenevi",
+        "apparteneva",
+        "appartenevamo",
+        "appartenevate",
+        "appartenevano"
+      ],
+
+      "Passato prossimo": [
+        "sono appartenuto/a",
+        "sei appartenuto/a",
+        "è appartenuto/a",
+        "siamo appartenuti/e",
+        "siete appartenuti/e",
+        "sono appartenuti/e"
+      ],
+
+      "Passato remoto": [
+        "appartenni",
+        "appartenesti",
+        "appartenne",
+        "appartenemmo",
+        "apparteneste",
+        "appartennero"
+      ],
+
+      "Trapassato prossimo": [
+        "ero appartenuto/a",
+        "eri appartenuto/a",
+        "era appartenuto/a",
+        "eravamo appartenuti/e",
+        "eravate appartenuti/e",
+        "erano appartenuti/e"
+      ],
+
+      "Trapassato remoto": [
+        "fui appartenuto/a",
+        "fosti appartenuto/a",
+        "fu appartenuto/a",
+        "fummo appartenuti/e",
+        "foste appartenuti/e",
+        "furono appartenuti/e"
+      ],
+
+      "Futuro semplice": [
+        "apparterrò",
+        "apparterrai",
+        "apparterrà",
+        "apparterremo",
+        "apparterrete",
+        "apparterranno"
+      ],
+
+      "Futuro anteriore": [
+        "sarò appartenuto/a",
+        "sarai appartenuto/a",
+        "sarà appartenuto/a",
+        "saremo appartenuti/e",
+        "sarete appartenuti/e",
+        "saranno appartenuti/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "appartenga",
+        "appartenga",
+        "appartenga",
+        "apparteniamo",
+        "apparteniate",
+        "appartengano"
+      ],
+
+      "Imperfetto": [
+        "appartenessi",
+        "appartenessi",
+        "appartenesse",
+        "appartenessimo",
+        "apparteneste",
+        "appartenessero"
+      ],
+
+      "Passato": [
+        "sia appartenuto/a",
+        "sia appartenuto/a",
+        "sia appartenuto/a",
+        "siamo appartenuti/e",
+        "siate appartenuti/e",
+        "siano appartenuti/e"
+      ],
+
+      "Trapassato": [
+        "fossi appartenuto/a",
+        "fossi appartenuto/a",
+        "fosse appartenuto/a",
+        "fossimo appartenuti/e",
+        "foste appartenuti/e",
+        "fossero appartenuti/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "apparterrei",
+        "apparterresti",
+        "apparterrebbe",
+        "apparterremmo",
+        "apparterreste",
+        "apparterrebbero"
+      ],
+
+      "Passato": [
+        "sarei appartenuto/a",
+        "saresti appartenuto/a",
+        "sarebbe appartenuto/a",
+        "saremmo appartenuti/e",
+        "sareste appartenuti/e",
+        "sarebbero appartenuti/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "appartieni",
+        "appartenga",
+        "apparteniamo",
+        "appartenete",
+        "appartengano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "appartenere",
+        "essere appartenuto/a/i/e",
+        "appartenente",
+        "appartenuto",
+        "appartenendo",
+        "essendo appartenuto/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "asciugare",
+  "sid": "2026-00156",
+  "word": "asciugare",
+  "ipa": "/aʃʃuˈɡare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere（他動詞）／essere（自動詞）",
+    "pastParticiple": "asciugato",
+    "gerundPresent": "asciugando",
+    "pattern": "asciugare qualcosa / asciugare con + strumento / asciugare al sole / asciugarsi"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "hygiene",
+      "cooking",
+      "technical"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "濡れた物から水分を取り除き、乾かす",
+      "布などで水分を拭き取る",
+      "衣類・食器・髪などを乾かす",
+      "物が乾く、水分がなくなる",
+      "涙・汗などを拭う",
+      "比喩的に、資金・資源などを枯渇させる"
+    ],
+    "it": [
+      "Togliere l’acqua o l’umidità da qualcosa rendendolo asciutto.",
+      "Eliminare un liquido con un panno, un asciugamano o altro strumento.",
+      "Far diventare asciutti vestiti, stoviglie, capelli o altri oggetti.",
+      "Diventare asciutto o perdere l’umidità.",
+      "Togliere lacrime, sudore o altre gocce dal corpo.",
+      "In senso figurato, consumare o esaurire denaro e risorse."
+    ]
+  },
+
+  "nuance": {
+    "ja": "他動詞では「何かを乾かす・拭く」、自動詞では「物が乾く」を表す。日常会話では自動詞的な変化を表す際に、代名動詞asciugarsiも非常によく用いられる。seccareは水分を失って硬くなる、枯れるという意味を含むことがあるのに対し、asciugareは主に表面や物から余分な水分を取り除くことに焦点を置く。",
+    "it": "Nell’uso transitivo significa rendere asciutto qualcosa o eliminarne l’acqua; nell’uso intransitivo indica che qualcosa perde l’umidità. Per questo secondo significato è molto comune anche la forma asciugarsi. Seccare può suggerire una perdita più completa di umidità, indurimento o appassimento, mentre asciugare riguarda soprattutto la rimozione dell’acqua presente."
+  },
+
+  "etymology": {
+    "ja": "俗ラテン語 exsucāre（汁・水分を取り除く）に由来するとされ、ラテン語の接頭辞ex-（外へ）とsucus（汁、液体）に関係する。本来は「液体を外へ取り去る」という意味であった。同じ語族にはasciutto、asciugamano、prosciugareなどがある。",
+    "it": "Risale al latino volgare exsucāre, «privare del succo o dell’umidità», collegato a ex-, «fuori», e sucus, «succo, liquido». Alla stessa famiglia appartengono asciutto, asciugamano e prosciugare."
+  },
+
+  "minimal": [
+    {
+      "word": "asciugare",
+      "ja": "物の表面や内部から水分を取り除き、乾いた状態にする",
+      "it": "togliere l’acqua o l’umidità e rendere qualcosa asciutto"
+    },
+    {
+      "word": "asciugarsi",
+      "ja": "自分の体を拭く、または物が自然に乾いた状態になる",
+      "it": "togliere l’acqua dal proprio corpo oppure diventare asciutto"
+    },
+    {
+      "word": "seccare",
+      "ja": "水分を大きく失わせて乾燥・硬化させる、または植物を枯らす",
+      "it": "privare fortemente dell’umidità, indurire o far appassire"
+    },
+    {
+      "word": "pulire",
+      "ja": "汚れや不要な物質を取り除いて清潔にする",
+      "it": "eliminare lo sporco e rendere qualcosa pulito"
+    }
+  ],
+
+  "synonyms": [
+    "rendere asciutto",
+    "togliere l’umidità",
+    "tamponare",
+    "seccare",
+    "prosciugare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "dry",
+      "wipe dry",
+      "dry off"
+    ],
+    "de": [
+      "trocknen",
+      "abtrocknen",
+      "trocken wischen"
+    ],
+    "fr": [
+      "sécher",
+      "essuyer",
+      "assécher"
+    ],
+    "es": [
+      "secar",
+      "enjugar",
+      "secar con un paño"
+    ]
+  },
+
+  "collocations": [
+    "asciugare qualcosa",
+    "asciugare i piatti",
+    "asciugare i bicchieri",
+    "asciugare i vestiti",
+    "asciugare il bucato",
+    "asciugare i capelli",
+    "asciugare le mani",
+    "asciugare il viso",
+    "asciugare il pavimento",
+    "asciugare una superficie",
+    "asciugare una macchia",
+    "asciugare le lacrime",
+    "asciugare il sudore",
+    "asciugare con un panno",
+    "asciugare con un asciugamano",
+    "asciugare con il phon",
+    "asciugare al sole",
+    "asciugare all’aria",
+    "lasciare asciugare",
+    "far asciugare",
+    "asciugare completamente",
+    "asciugare rapidamente",
+    "vernice che deve asciugare"
+  ],
+
+  "examples": [
+    {
+      "it": "Puoi asciugare i piatti, per favore?",
+      "ja": "食器を拭いてもらえますか。"
+    },
+    {
+      "it": "Ho asciugato il pavimento con un panno.",
+      "ja": "私は布で床の水分を拭き取った。"
+    },
+    {
+      "it": "Devo asciugare i capelli prima di uscire.",
+      "ja": "外出する前に髪を乾かさなければならない。"
+    },
+    {
+      "it": "Lascia asciugare la vernice per alcune ore.",
+      "ja": "塗料を数時間乾かしてください。"
+    },
+    {
+      "it": "Il bucato è asciugato rapidamente al sole.",
+      "ja": "洗濯物は日光に当たってすぐに乾いた。"
+    },
+    {
+      "it": "Si è asciugato le mani con un asciugamano.",
+      "ja": "彼はタオルで手を拭いた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "asciugo",
+        "asciughi",
+        "asciuga",
+        "asciughiamo",
+        "asciugate",
+        "asciugano"
+      ],
+
+      "Imperfetto": [
+        "asciugavo",
+        "asciugavi",
+        "asciugava",
+        "asciugavamo",
+        "asciugavate",
+        "asciugavano"
+      ],
+
+      "Passato prossimo": [
+        "ho asciugato / sono asciugato/a",
+        "hai asciugato / sei asciugato/a",
+        "ha asciugato / è asciugato/a",
+        "abbiamo asciugato / siamo asciugati/e",
+        "avete asciugato / siete asciugati/e",
+        "hanno asciugato / sono asciugati/e"
+      ],
+
+      "Passato remoto": [
+        "asciugai",
+        "asciugasti",
+        "asciugò",
+        "asciugammo",
+        "asciugaste",
+        "asciugarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo asciugato / ero asciugato/a",
+        "avevi asciugato / eri asciugato/a",
+        "aveva asciugato / era asciugato/a",
+        "avevamo asciugato / eravamo asciugati/e",
+        "avevate asciugato / eravate asciugati/e",
+        "avevano asciugato / erano asciugati/e"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi asciugato / fui asciugato/a",
+        "avesti asciugato / fosti asciugato/a",
+        "ebbe asciugato / fu asciugato/a",
+        "avemmo asciugato / fummo asciugati/e",
+        "aveste asciugato / foste asciugati/e",
+        "ebbero asciugato / furono asciugati/e"
+      ],
+
+      "Futuro semplice": [
+        "asciugherò",
+        "asciugherai",
+        "asciugherà",
+        "asciugheremo",
+        "asciugherete",
+        "asciugheranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò asciugato / sarò asciugato/a",
+        "avrai asciugato / sarai asciugato/a",
+        "avrà asciugato / sarà asciugato/a",
+        "avremo asciugato / saremo asciugati/e",
+        "avrete asciugato / sarete asciugati/e",
+        "avranno asciugato / saranno asciugati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "asciughi",
+        "asciughi",
+        "asciughi",
+        "asciughiamo",
+        "asciughiate",
+        "asciughino"
+      ],
+
+      "Imperfetto": [
+        "asciugassi",
+        "asciugassi",
+        "asciugasse",
+        "asciugassimo",
+        "asciugaste",
+        "asciugassero"
+      ],
+
+      "Passato": [
+        "abbia asciugato / sia asciugato/a",
+        "abbia asciugato / sia asciugato/a",
+        "abbia asciugato / sia asciugato/a",
+        "abbiamo asciugato / siamo asciugati/e",
+        "abbiate asciugato / siate asciugati/e",
+        "abbiano asciugato / siano asciugati/e"
+      ],
+
+      "Trapassato": [
+        "avessi asciugato / fossi asciugato/a",
+        "avessi asciugato / fossi asciugato/a",
+        "avesse asciugato / fosse asciugato/a",
+        "avessimo asciugato / fossimo asciugati/e",
+        "aveste asciugato / foste asciugati/e",
+        "avessero asciugato / fossero asciugati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "asciugherei",
+        "asciugheresti",
+        "asciugherebbe",
+        "asciugheremmo",
+        "asciughereste",
+        "asciugherebbero"
+      ],
+
+      "Passato": [
+        "avrei asciugato / sarei asciugato/a",
+        "avresti asciugato / saresti asciugato/a",
+        "avrebbe asciugato / sarebbe asciugato/a",
+        "avremmo asciugato / saremmo asciugati/e",
+        "avreste asciugato / sareste asciugati/e",
+        "avrebbero asciugato / sarebbero asciugati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "asciuga",
+        "asciughi",
+        "asciughiamo",
+        "asciugate",
+        "asciughino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "asciugare",
+        "avere asciugato / essere asciugato/a/i/e",
+        "asciugante",
+        "asciugato",
+        "asciugando",
+        "avendo asciugato / essendo asciugato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "asciugarsi",
+  "sid": "2026-00157",
+  "word": "asciugarsi",
+  "ipa": "/aʃʃuˈɡarsi/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "再帰動詞・代名動詞",
+      "it": "verbo riflessivo e pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "asciugato",
+    "gerundPresent": "asciugandosi",
+    "pattern": "asciugarsi / asciugarsi + parte del corpo / asciugarsi con + strumento / qualcosa si asciuga"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "hygiene",
+      "weather",
+      "technical"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "自分の体や体の一部を拭く、乾かす",
+      "タオル・布・ドライヤーなどで水分を取る",
+      "物が自然に乾く、乾いた状態になる",
+      "涙・汗などを自分で拭う",
+      "比喩的に、痩せる、衰弱する"
+    ],
+    "it": [
+      "Togliere l’acqua o l’umidità dal proprio corpo.",
+      "Rendersi asciutti usando un asciugamano, un panno o un asciugacapelli.",
+      "Diventare asciutto o perdere naturalmente l’umidità.",
+      "Togliersi lacrime, sudore o altre gocce dal corpo.",
+      "In senso figurato, dimagrire o deperire."
+    ]
+  },
+
+  "nuance": {
+    "ja": "再帰用法では、主語が自分自身または自分の体の一部を拭くことを表す。体の一部には通常定冠詞を用い、asciugarsi le maniと言う。代名動詞的用法では、洗濯物・塗料・地面などが自然に乾く変化を表す。asciugareは外部から何かを乾かす行為に焦点を置く。",
+    "it": "Nell’uso riflessivo indica che il soggetto asciuga sé stesso o una parte del proprio corpo. Con le parti del corpo si usa normalmente l’articolo determinativo: asciugarsi le mani. Nell’uso pronominale indica invece che un oggetto o una sostanza perde l’umidità e diventa asciutto. Asciugare mette maggiormente in rilievo l’azione esercitata su un oggetto."
+  },
+
+  "etymology": {
+    "ja": "動詞asciugareの再帰・代名動詞形である。asciugareは俗ラテン語exsucāre（水分や汁を取り除く）に由来し、ラテン語のex-（外へ）とsucus（汁、液体）に関係する。",
+    "it": "Forma riflessiva e pronominale di asciugare, che risale al latino volgare exsucāre, «privare del succo o dell’umidità», collegato a ex-, «fuori», e sucus, «succo, liquido»."
+  },
+
+  "minimal": [
+    {
+      "word": "asciugarsi",
+      "ja": "自分の体を拭く、または物が乾いた状態になる",
+      "it": "rendere asciutto il proprio corpo oppure diventare asciutto"
+    },
+    {
+      "word": "asciugare",
+      "ja": "人が物や他者から水分を取り除き、乾かす",
+      "it": "togliere l’acqua da qualcosa e renderlo asciutto"
+    },
+    {
+      "word": "lavarsi",
+      "ja": "自分の体や体の一部を水などで洗う",
+      "it": "pulire il proprio corpo o una sua parte con acqua"
+    },
+    {
+      "word": "seccarsi",
+      "ja": "強く乾燥して硬くなる、しおれる、または比喩的にいら立つ",
+      "it": "diventare molto secco, appassire oppure infastidirsi"
+    }
+  ],
+
+  "synonyms": [
+    "diventare asciutto",
+    "togliersi l’acqua",
+    "tamponarsi",
+    "seccarsi",
+    "perdere l’umidità"
+  ],
+
+  "equivalents": {
+    "en": [
+      "dry oneself",
+      "dry off",
+      "dry"
+    ],
+    "de": [
+      "sich abtrocknen",
+      "trocknen",
+      "trocken werden"
+    ],
+    "fr": [
+      "se sécher",
+      "s’essuyer",
+      "sécher"
+    ],
+    "es": [
+      "secarse",
+      "enjugarse"
+    ]
+  },
+
+  "collocations": [
+    "asciugarsi bene",
+    "asciugarsi completamente",
+    "asciugarsi rapidamente",
+    "asciugarsi lentamente",
+    "asciugarsi le mani",
+    "asciugarsi il viso",
+    "asciugarsi i capelli",
+    "asciugarsi il corpo",
+    "asciugarsi i piedi",
+    "asciugarsi gli occhi",
+    "asciugarsi le lacrime",
+    "asciugarsi il sudore",
+    "asciugarsi con un asciugamano",
+    "asciugarsi con un panno",
+    "asciugarsi con il phon",
+    "lasciarsi asciugare",
+    "aspettare che si asciughi",
+    "vestiti che si asciugano",
+    "vernice che si asciuga",
+    "pavimento che si asciuga",
+    "asciugarsi al sole",
+    "asciugarsi all’aria"
+  ],
+
+  "examples": [
+    {
+      "it": "Mi asciugo i capelli con il phon.",
+      "ja": "私はドライヤーで髪を乾かす。"
+    },
+    {
+      "it": "Asciugati bene prima di vestirti.",
+      "ja": "服を着る前に体をよく拭きなさい。"
+    },
+    {
+      "it": "Si è asciugata le mani con un asciugamano.",
+      "ja": "彼女はタオルで手を拭いた。"
+    },
+    {
+      "it": "Il bucato si è asciugato al sole.",
+      "ja": "洗濯物は日光に当たって乾いた。"
+    },
+    {
+      "it": "Aspetta che la vernice si asciughi.",
+      "ja": "塗料が乾くまで待ってください。"
+    },
+    {
+      "it": "Si asciugò le lacrime e continuò a parlare.",
+      "ja": "彼女は涙を拭い、話し続けた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi asciugo",
+        "ti asciughi",
+        "si asciuga",
+        "ci asciughiamo",
+        "vi asciugate",
+        "si asciugano"
+      ],
+
+      "Imperfetto": [
+        "mi asciugavo",
+        "ti asciugavi",
+        "si asciugava",
+        "ci asciugavamo",
+        "vi asciugavate",
+        "si asciugavano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono asciugato/a",
+        "ti sei asciugato/a",
+        "si è asciugato/a",
+        "ci siamo asciugati/e",
+        "vi siete asciugati/e",
+        "si sono asciugati/e"
+      ],
+
+      "Passato remoto": [
+        "mi asciugai",
+        "ti asciugasti",
+        "si asciugò",
+        "ci asciugammo",
+        "vi asciugaste",
+        "si asciugarono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero asciugato/a",
+        "ti eri asciugato/a",
+        "si era asciugato/a",
+        "ci eravamo asciugati/e",
+        "vi eravate asciugati/e",
+        "si erano asciugati/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui asciugato/a",
+        "ti fosti asciugato/a",
+        "si fu asciugato/a",
+        "ci fummo asciugati/e",
+        "vi foste asciugati/e",
+        "si furono asciugati/e"
+      ],
+
+      "Futuro semplice": [
+        "mi asciugherò",
+        "ti asciugherai",
+        "si asciugherà",
+        "ci asciugheremo",
+        "vi asciugherete",
+        "si asciugheranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò asciugato/a",
+        "ti sarai asciugato/a",
+        "si sarà asciugato/a",
+        "ci saremo asciugati/e",
+        "vi sarete asciugati/e",
+        "si saranno asciugati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi asciughi",
+        "ti asciughi",
+        "si asciughi",
+        "ci asciughiamo",
+        "vi asciughiate",
+        "si asciughino"
+      ],
+
+      "Imperfetto": [
+        "mi asciugassi",
+        "ti asciugassi",
+        "si asciugasse",
+        "ci asciugassimo",
+        "vi asciugaste",
+        "si asciugassero"
+      ],
+
+      "Passato": [
+        "mi sia asciugato/a",
+        "ti sia asciugato/a",
+        "si sia asciugato/a",
+        "ci siamo asciugati/e",
+        "vi siate asciugati/e",
+        "si siano asciugati/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi asciugato/a",
+        "ti fossi asciugato/a",
+        "si fosse asciugato/a",
+        "ci fossimo asciugati/e",
+        "vi foste asciugati/e",
+        "si fossero asciugati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi asciugherei",
+        "ti asciugheresti",
+        "si asciugherebbe",
+        "ci asciugheremmo",
+        "vi asciughereste",
+        "si asciugherebbero"
+      ],
+
+      "Passato": [
+        "mi sarei asciugato/a",
+        "ti saresti asciugato/a",
+        "si sarebbe asciugato/a",
+        "ci saremmo asciugati/e",
+        "vi sareste asciugati/e",
+        "si sarebbero asciugati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "asciugati",
+        "si asciughi",
+        "asciughiamoci",
+        "asciugatevi",
+        "si asciughino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "asciugarsi",
+        "essersi asciugato/a/i/e",
+        "asciugantesi",
+        "asciugato",
+        "asciugandosi",
+        "essendosi asciugato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "spogliare",
+  "sid": "2026-00158",
+  "word": "spogliare",
+  "ipa": "/spoʎˈʎare/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "spogliato",
+    "gerundPresent": "spogliando",
+    "pattern": "spogliare qualcuno / spogliare qualcuno di + cosa / spogliare un luogo o una pianta"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "medical",
+      "legal",
+      "literary"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人の衣服を脱がせる",
+      "人から所持品・財産・権利などを奪う",
+      "場所から家具・装飾・設備などを取り除く",
+      "植物から葉・花・実などを取り去る",
+      "文章・制度・物事から余分な要素を取り除く",
+      "書類・投票などを調査・集計する"
+    ],
+    "it": [
+      "Togliere i vestiti a una persona.",
+      "Privare qualcuno di beni, denaro, diritti o autorità.",
+      "Togliere mobili, decorazioni o attrezzature da un luogo.",
+      "Privare una pianta delle foglie, dei fiori o dei frutti.",
+      "Eliminare da un testo, un sistema o un concetto gli elementi accessori.",
+      "Esaminare e registrare dati contenuti in documenti, schede o voti."
+    ]
+  },
+
+  "nuance": {
+    "ja": "基本的には、人や物を覆っているもの、備わっているものを取り除くことを表す。他人の衣服を脱がせる場合はspogliare、自分で服を脱ぐ場合は再帰形spogliarsiを用いる。spogliare qualcuno di qualcosaは、財産・権利・地位などを奪うという強い意味になる。書類や投票用紙については「精査・集計する」という専門的用法もある。",
+    "it": "Il significato fondamentale è togliere a qualcuno o qualcosa ciò che lo copre, lo adorna o gli appartiene. Spogliare indica normalmente un’azione esercitata su un’altra persona o cosa; spogliarsi indica invece togliersi i propri vestiti. La costruzione spogliare qualcuno di qualcosa può esprimere una privazione grave di beni, diritti o autorità."
+  },
+
+  "etymology": {
+    "ja": "俗ラテン語expoliāreに由来し、古典ラテン語spoliāre（武具を奪う、略奪する）と関係する。これはspolium（敵から奪った武具、戦利品）から形成された。本来の「戦利品として奪う」から「衣服や所有物を取り去る」という意味が発達した。",
+    "it": "Dal latino spoliāre, «privare delle armi, saccheggiare», derivato da spolium, «spoglia, bottino di guerra». Dal significato originario di privare un nemico delle sue armi si sono sviluppati quelli di togliere gli abiti e sottrarre beni o diritti."
+  },
+
+  "minimal": [
+    {
+      "word": "spogliare",
+      "ja": "他人の衣服、または人・物に備わる財産や要素を取り除く",
+      "it": "togliere a qualcuno i vestiti oppure privare una persona o una cosa di ciò che possiede"
+    },
+    {
+      "word": "spogliarsi",
+      "ja": "自分の衣服を脱ぐ",
+      "it": "togliersi i propri vestiti"
+    },
+    {
+      "word": "svestire",
+      "ja": "人の衣服を脱がせることを比較的直接的・中立的に表す",
+      "it": "togliere gli abiti a una persona, in senso generalmente concreto"
+    },
+    {
+      "word": "privare",
+      "ja": "人や物から権利・能力・必要な物などを奪う",
+      "it": "togliere a qualcuno o qualcosa un bene, un diritto o una possibilità"
+    }
+  ],
+
+  "synonyms": [
+    "svestire",
+    "denudare",
+    "privare",
+    "saccheggiare",
+    "depredare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "undress",
+      "strip",
+      "deprive"
+    ],
+    "de": [
+      "entkleiden",
+      "ausziehen",
+      "berauben"
+    ],
+    "fr": [
+      "déshabiller",
+      "dépouiller",
+      "priver"
+    ],
+    "es": [
+      "desvestir",
+      "despojar",
+      "privar"
+    ]
+  },
+
+  "collocations": [
+    "spogliare qualcuno",
+    "spogliare un bambino",
+    "spogliare un paziente",
+    "spogliare completamente",
+    "spogliare qualcuno dei vestiti",
+    "spogliare qualcuno dei suoi beni",
+    "spogliare qualcuno del denaro",
+    "spogliare qualcuno dei diritti",
+    "spogliare qualcuno dell’autorità",
+    "spogliare una casa",
+    "spogliare una stanza",
+    "spogliare un edificio",
+    "spogliare un albero",
+    "spogliare un ramo",
+    "spogliare una pianta delle foglie",
+    "spogliare un testo degli elementi superflui",
+    "spogliare un’opera della retorica",
+    "spogliare i documenti",
+    "spogliare le schede elettorali",
+    "spogliare i voti",
+    "essere spogliato di tutto"
+  ],
+
+  "examples": [
+    {
+      "it": "La madre ha spogliato il bambino prima del bagno.",
+      "ja": "母親は入浴前に子どもの服を脱がせた。"
+    },
+    {
+      "it": "Il medico gli ha chiesto di spogliare il braccio.",
+      "ja": "医師は彼に腕を露出するよう求めた。"
+    },
+    {
+      "it": "I ladri hanno spogliato la casa di tutti gli oggetti di valore.",
+      "ja": "泥棒たちは家からすべての貴重品を奪った。"
+    },
+    {
+      "it": "L’autunno ha spogliato gli alberi delle foglie.",
+      "ja": "秋が木々から葉を落とした。"
+    },
+    {
+      "it": "La riforma ha spogliato l’istituzione di molti poteri.",
+      "ja": "その改革は機関から多くの権限を奪った。"
+    },
+    {
+      "it": "Gli addetti stanno spogliando le schede elettorali.",
+      "ja": "担当者たちは投票用紙を開票・集計している。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "spoglio",
+        "spogli",
+        "spoglia",
+        "spogliamo",
+        "spogliate",
+        "spogliano"
+      ],
+
+      "Imperfetto": [
+        "spogliavo",
+        "spogliavi",
+        "spogliava",
+        "spogliavamo",
+        "spogliavate",
+        "spogliavano"
+      ],
+
+      "Passato prossimo": [
+        "ho spogliato",
+        "hai spogliato",
+        "ha spogliato",
+        "abbiamo spogliato",
+        "avete spogliato",
+        "hanno spogliato"
+      ],
+
+      "Passato remoto": [
+        "spogliai",
+        "spogliasti",
+        "spogliò",
+        "spogliammo",
+        "spogliaste",
+        "spogliarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo spogliato",
+        "avevi spogliato",
+        "aveva spogliato",
+        "avevamo spogliato",
+        "avevate spogliato",
+        "avevano spogliato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi spogliato",
+        "avesti spogliato",
+        "ebbe spogliato",
+        "avemmo spogliato",
+        "aveste spogliato",
+        "ebbero spogliato"
+      ],
+
+      "Futuro semplice": [
+        "spoglierò",
+        "spoglierai",
+        "spoglierà",
+        "spoglieremo",
+        "spoglierete",
+        "spoglieranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò spogliato",
+        "avrai spogliato",
+        "avrà spogliato",
+        "avremo spogliato",
+        "avrete spogliato",
+        "avranno spogliato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "spogli",
+        "spogli",
+        "spogli",
+        "spogliamo",
+        "spogliate",
+        "spoglino"
+      ],
+
+      "Imperfetto": [
+        "spogliassi",
+        "spogliassi",
+        "spogliasse",
+        "spogliassimo",
+        "spogliaste",
+        "spogliassero"
+      ],
+
+      "Passato": [
+        "abbia spogliato",
+        "abbia spogliato",
+        "abbia spogliato",
+        "abbiamo spogliato",
+        "abbiate spogliato",
+        "abbiano spogliato"
+      ],
+
+      "Trapassato": [
+        "avessi spogliato",
+        "avessi spogliato",
+        "avesse spogliato",
+        "avessimo spogliato",
+        "aveste spogliato",
+        "avessero spogliato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "spoglierei",
+        "spoglieresti",
+        "spoglierebbe",
+        "spoglieremmo",
+        "spogliereste",
+        "spoglierebbero"
+      ],
+
+      "Passato": [
+        "avrei spogliato",
+        "avresti spogliato",
+        "avrebbe spogliato",
+        "avremmo spogliato",
+        "avreste spogliato",
+        "avrebbero spogliato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "spoglia",
+        "spogli",
+        "spogliamo",
+        "spogliate",
+        "spoglino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "spogliare",
+        "avere spogliato",
+        "spogliante",
+        "spogliato",
+        "spogliando",
+        "avendo spogliato"
+      ]
+    }
+  }
+},
+{
+  "id": "spogliarsi",
+  "sid": "2026-00159",
+  "word": "spogliarsi",
+  "ipa": "/spoʎˈʎarsi/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "再帰動詞・代名動詞",
+      "it": "verbo riflessivo e pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "spogliato",
+    "gerundPresent": "spogliandosi",
+    "pattern": "spogliarsi / spogliarsi di + indumento o elemento / spogliarsi davanti a + persona"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "medical",
+      "sports",
+      "literary"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "服を脱ぐ、裸になる",
+      "特定の衣服を脱ぐ",
+      "診察・入浴・着替えなどのために衣服を脱ぐ",
+      "比喩的に、役割・権威・偏見などを捨てる",
+      "植物が葉・花などを失う"
+    ],
+    "it": [
+      "Togliersi i vestiti o rimanere nudi.",
+      "Togliersi uno o più indumenti determinati.",
+      "Levarsi gli abiti per una visita medica, per lavarsi o per cambiarsi.",
+      "In senso figurato, liberarsi di un ruolo, di un’autorità, di un pregiudizio o di un atteggiamento.",
+      "Perdere foglie, fiori o altri rivestimenti naturali, con riferimento alle piante."
+    ]
+  },
+
+  "nuance": {
+    "ja": "主語が自分自身の衣服を脱ぐことを表す。単に「服を脱ぐ」場合はspogliarsiだけでよく、特定の衣服を示す場合はspogliarsi della giaccaのようにdiを用いることがある。spogliareは他人の服を脱がせたり、人や物から何かを奪ったりする他動詞である。着替える一連の行為にはcambiarsiもよく使われる。",
+    "it": "Indica che il soggetto toglie i propri vestiti. Può essere usato senza complemento per indicare l’atto generale di svestirsi oppure con di per specificare ciò che viene tolto. Spogliare è transitivo e indica invece l’azione compiuta su un’altra persona o cosa. Cambiarsi comprende normalmente sia il togliersi gli abiti sia l’indossarne altri."
+  },
+
+  "etymology": {
+    "ja": "動詞spogliareの再帰・代名動詞形である。spogliareはラテン語spoliāre（武具を奪う、略奪する）に由来し、spolium（敵から奪った武具、戦利品）と関係する。「身に付けているものを取り去る」ことから現在の意味が生じた。",
+    "it": "Forma riflessiva e pronominale di spogliare, dal latino spoliāre, «privare delle armi, saccheggiare», derivato da spolium, «spoglia, bottino di guerra». Dall’idea di togliere ciò che una persona porta con sé si è sviluppato il significato moderno."
+  },
+
+  "minimal": [
+    {
+      "word": "spogliarsi",
+      "ja": "自分が着ている衣服を脱ぐ",
+      "it": "togliersi i propri vestiti"
+    },
+    {
+      "word": "spogliare",
+      "ja": "他人の衣服を脱がせる、または人・物から所有物や要素を取り除く",
+      "it": "togliere i vestiti a qualcuno oppure privare una persona o una cosa di qualcosa"
+    },
+    {
+      "word": "cambiarsi",
+      "ja": "着ている服を脱ぎ、別の服に着替える",
+      "it": "togliersi gli abiti indossati e metterne altri"
+    },
+    {
+      "word": "vestirsi",
+      "ja": "自分で衣服を身に着ける",
+      "it": "mettersi i vestiti"
+    }
+  ],
+
+  "synonyms": [
+    "svestirsi",
+    "togliersi i vestiti",
+    "denudarsi",
+    "levarsi gli abiti",
+    "liberarsi di"
+  ],
+
+  "equivalents": {
+    "en": [
+      "undress",
+      "get undressed",
+      "strip"
+    ],
+    "de": [
+      "sich ausziehen",
+      "sich entkleiden"
+    ],
+    "fr": [
+      "se déshabiller",
+      "se dévêtir"
+    ],
+    "es": [
+      "desvestirse",
+      "quitarse la ropa"
+    ]
+  },
+
+  "collocations": [
+    "spogliarsi completamente",
+    "spogliarsi rapidamente",
+    "spogliarsi lentamente",
+    "spogliarsi in camera",
+    "spogliarsi in bagno",
+    "spogliarsi nello spogliatoio",
+    "spogliarsi davanti a qualcuno",
+    "spogliarsi per fare la doccia",
+    "spogliarsi per il bagno",
+    "spogliarsi per la visita medica",
+    "spogliarsi prima di dormire",
+    "cominciare a spogliarsi",
+    "finire di spogliarsi",
+    "aiutare qualcuno a spogliarsi",
+    "vergognarsi di spogliarsi",
+    "spogliarsi della giacca",
+    "spogliarsi della camicia",
+    "spogliarsi dell’uniforme",
+    "spogliarsi di ogni autorità",
+    "spogliarsi dei pregiudizi",
+    "alberi che si spogliano delle foglie"
+  ],
+
+  "examples": [
+    {
+      "it": "Mi spoglio prima di fare la doccia.",
+      "ja": "私はシャワーを浴びる前に服を脱ぐ。"
+    },
+    {
+      "it": "Il medico mi ha chiesto di spogliarmi.",
+      "ja": "医師は私に服を脱ぐよう求めた。"
+    },
+    {
+      "it": "I bambini si sono spogliati per entrare in piscina.",
+      "ja": "子どもたちはプールに入るために服を脱いだ。"
+    },
+    {
+      "it": "Puoi spogliarti nello spogliatoio.",
+      "ja": "更衣室で服を脱ぐことができます。"
+    },
+    {
+      "it": "Si tolse il cappotto senza spogliarsi completamente.",
+      "ja": "彼は服をすべて脱ぐことなくコートを脱いだ。"
+    },
+    {
+      "it": "In autunno gli alberi si spogliano delle foglie.",
+      "ja": "秋になると木々は葉を落とす。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi spoglio",
+        "ti spogli",
+        "si spoglia",
+        "ci spogliamo",
+        "vi spogliate",
+        "si spogliano"
+      ],
+
+      "Imperfetto": [
+        "mi spogliavo",
+        "ti spogliavi",
+        "si spogliava",
+        "ci spogliavamo",
+        "vi spogliavate",
+        "si spogliavano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono spogliato/a",
+        "ti sei spogliato/a",
+        "si è spogliato/a",
+        "ci siamo spogliati/e",
+        "vi siete spogliati/e",
+        "si sono spogliati/e"
+      ],
+
+      "Passato remoto": [
+        "mi spogliai",
+        "ti spogliasti",
+        "si spogliò",
+        "ci spogliammo",
+        "vi spogliaste",
+        "si spogliarono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero spogliato/a",
+        "ti eri spogliato/a",
+        "si era spogliato/a",
+        "ci eravamo spogliati/e",
+        "vi eravate spogliati/e",
+        "si erano spogliati/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui spogliato/a",
+        "ti fosti spogliato/a",
+        "si fu spogliato/a",
+        "ci fummo spogliati/e",
+        "vi foste spogliati/e",
+        "si furono spogliati/e"
+      ],
+
+      "Futuro semplice": [
+        "mi spoglierò",
+        "ti spoglierai",
+        "si spoglierà",
+        "ci spoglieremo",
+        "vi spoglierete",
+        "si spoglieranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò spogliato/a",
+        "ti sarai spogliato/a",
+        "si sarà spogliato/a",
+        "ci saremo spogliati/e",
+        "vi sarete spogliati/e",
+        "si saranno spogliati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi spogli",
+        "ti spogli",
+        "si spogli",
+        "ci spogliamo",
+        "vi spogliate",
+        "si spoglino"
+      ],
+
+      "Imperfetto": [
+        "mi spogliassi",
+        "ti spogliassi",
+        "si spogliasse",
+        "ci spogliassimo",
+        "vi spogliaste",
+        "si spogliassero"
+      ],
+
+      "Passato": [
+        "mi sia spogliato/a",
+        "ti sia spogliato/a",
+        "si sia spogliato/a",
+        "ci siamo spogliati/e",
+        "vi siate spogliati/e",
+        "si siano spogliati/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi spogliato/a",
+        "ti fossi spogliato/a",
+        "si fosse spogliato/a",
+        "ci fossimo spogliati/e",
+        "vi foste spogliati/e",
+        "si fossero spogliati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi spoglierei",
+        "ti spoglieresti",
+        "si spoglierebbe",
+        "ci spoglieremmo",
+        "vi spogliereste",
+        "si spoglierebbero"
+      ],
+
+      "Passato": [
+        "mi sarei spogliato/a",
+        "ti saresti spogliato/a",
+        "si sarebbe spogliato/a",
+        "ci saremmo spogliati/e",
+        "vi sareste spogliati/e",
+        "si sarebbero spogliati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "spogliati",
+        "si spogli",
+        "spogliamoci",
+        "spogliatevi",
+        "si spoglino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "spogliarsi",
+        "essersi spogliato/a/i/e",
+        "spogliantesi",
+        "spogliato",
+        "spogliandosi",
+        "essendosi spogliato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "cambiarsi",
+  "sid": "2026-00160",
+  "word": "cambiarsi",
+  "ipa": "/kamˈbjarsi/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "再帰動詞・代名動詞",
+      "it": "verbo riflessivo e pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "cambiato",
+    "gerundPresent": "cambiandosi",
+    "pattern": "cambiarsi / cambiarsi d’abito / cambiarsi per + occasione / cambiarsi in + luogo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "sports",
+      "travel",
+      "workplace"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "着替える、別の服に替える",
+      "濡れた服・汚れた服などを脱いで替える",
+      "特定の活動や行事に適した服装に替える",
+      "外見・態度・性質などが変わる",
+      "複数の人が互いに交替する"
+    ],
+    "it": [
+      "Togliersi gli abiti indossati e metterne altri.",
+      "Sostituire vestiti bagnati, sporchi o inadatti.",
+      "Indossare abiti adatti a un’attività o a un’occasione.",
+      "Mutare nell’aspetto, nell’atteggiamento o nel carattere.",
+      "Sostituirsi reciprocamente o alternarsi, con riferimento a più persone."
+    ]
+  },
+
+  "nuance": {
+    "ja": "日常会話では主に「着替える」を意味し、現在の服を脱いで別の服を着る一連の行為を表す。spogliarsiは服を脱ぐことだけに焦点を置き、vestirsiは服を着ることに焦点を置く。cambiarsiはこの二つをまとめて表せる。特定の衣服だけを替える場合はcambiarsi la camiciaのようにも言える。",
+    "it": "Nel linguaggio quotidiano significa soprattutto togliersi gli abiti che si indossano e metterne altri. Spogliarsi mette in rilievo soltanto il togliere i vestiti, mentre vestirsi riguarda il metterli; cambiarsi comprende normalmente entrambe le azioni. Si può anche specificare un singolo indumento, come in cambiarsi la camicia."
+  },
+
+  "etymology": {
+    "ja": "動詞cambiareの再帰・代名動詞形である。cambiareは後期ラテン語cambiāre（交換する）に由来し、さらにケルト語系の語にさかのぼると考えられている。同じ語族にはcambio、cambiamento、scambiareなどがある。",
+    "it": "Forma riflessiva e pronominale di cambiare, dal latino tardo cambiāre, «scambiare», probabilmente di origine celtica. Alla stessa famiglia appartengono cambio, cambiamento e scambiare."
+  },
+
+  "minimal": [
+    {
+      "word": "cambiarsi",
+      "ja": "着ている服を脱ぎ、別の服に着替える",
+      "it": "togliersi gli abiti indossati e metterne altri"
+    },
+    {
+      "word": "spogliarsi",
+      "ja": "自分が着ている衣服を脱ぐ",
+      "it": "togliersi i propri vestiti"
+    },
+    {
+      "word": "vestirsi",
+      "ja": "自分で衣服を身に着ける、または特定の服装をする",
+      "it": "mettersi i vestiti o adottare un determinato abbigliamento"
+    },
+    {
+      "word": "cambiare",
+      "ja": "物・状態・方法などを別のものに替える、または変化させる",
+      "it": "sostituire o modificare una persona, una cosa o una condizione"
+    }
+  ],
+
+  "synonyms": [
+    "cambiarsi d’abito",
+    "mettersi altri vestiti",
+    "sostituire i propri abiti",
+    "mutarsi",
+    "alternarsi"
+  ],
+
+  "equivalents": {
+    "en": [
+      "change clothes",
+      "get changed",
+      "change"
+    ],
+    "de": [
+      "sich umziehen",
+      "sich wechseln",
+      "sich verändern"
+    ],
+    "fr": [
+      "se changer",
+      "changer de vêtements"
+    ],
+    "es": [
+      "cambiarse",
+      "cambiarse de ropa"
+    ]
+  },
+
+  "collocations": [
+    "cambiarsi rapidamente",
+    "cambiarsi completamente",
+    "cambiarsi d’abito",
+    "cambiarsi i vestiti",
+    "cambiarsi la camicia",
+    "cambiarsi le scarpe",
+    "cambiarsi dopo il lavoro",
+    "cambiarsi dopo la palestra",
+    "cambiarsi prima di cena",
+    "cambiarsi per uscire",
+    "cambiarsi per la festa",
+    "cambiarsi per il matrimonio",
+    "cambiarsi in camera",
+    "cambiarsi in bagno",
+    "cambiarsi nello spogliatoio",
+    "andare a cambiarsi",
+    "avere il tempo di cambiarsi",
+    "dover cambiarsi",
+    "aiutare un bambino a cambiarsi",
+    "cambiarsi perché i vestiti sono bagnati",
+    "cambiarsi perché i vestiti sono sporchi"
+  ],
+
+  "examples": [
+    {
+      "it": "Devo cambiarmi prima di uscire.",
+      "ja": "外出する前に着替えなければならない。"
+    },
+    {
+      "it": "Mi sono cambiato appena sono tornato a casa.",
+      "ja": "私は帰宅するとすぐに着替えた。"
+    },
+    {
+      "it": "I giocatori si cambiano nello spogliatoio.",
+      "ja": "選手たちは更衣室で着替える。"
+    },
+    {
+      "it": "Sei tutto bagnato: vai a cambiarti.",
+      "ja": "全身濡れています。着替えに行きなさい。"
+    },
+    {
+      "it": "Si è cambiata la camicia prima della riunione.",
+      "ja": "彼女は会議の前にシャツを替えた。"
+    },
+    {
+      "it": "Non abbiamo avuto il tempo di cambiarci.",
+      "ja": "私たちには着替える時間がなかった。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi cambio",
+        "ti cambi",
+        "si cambia",
+        "ci cambiamo",
+        "vi cambiate",
+        "si cambiano"
+      ],
+
+      "Imperfetto": [
+        "mi cambiavo",
+        "ti cambiavi",
+        "si cambiava",
+        "ci cambiavamo",
+        "vi cambiavate",
+        "si cambiavano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono cambiato/a",
+        "ti sei cambiato/a",
+        "si è cambiato/a",
+        "ci siamo cambiati/e",
+        "vi siete cambiati/e",
+        "si sono cambiati/e"
+      ],
+
+      "Passato remoto": [
+        "mi cambiai",
+        "ti cambiasti",
+        "si cambiò",
+        "ci cambiammo",
+        "vi cambiaste",
+        "si cambiarono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero cambiato/a",
+        "ti eri cambiato/a",
+        "si era cambiato/a",
+        "ci eravamo cambiati/e",
+        "vi eravate cambiati/e",
+        "si erano cambiati/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui cambiato/a",
+        "ti fosti cambiato/a",
+        "si fu cambiato/a",
+        "ci fummo cambiati/e",
+        "vi foste cambiati/e",
+        "si furono cambiati/e"
+      ],
+
+      "Futuro semplice": [
+        "mi cambierò",
+        "ti cambierai",
+        "si cambierà",
+        "ci cambieremo",
+        "vi cambierete",
+        "si cambieranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò cambiato/a",
+        "ti sarai cambiato/a",
+        "si sarà cambiato/a",
+        "ci saremo cambiati/e",
+        "vi sarete cambiati/e",
+        "si saranno cambiati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi cambi",
+        "ti cambi",
+        "si cambi",
+        "ci cambiamo",
+        "vi cambiate",
+        "si cambino"
+      ],
+
+      "Imperfetto": [
+        "mi cambiassi",
+        "ti cambiassi",
+        "si cambiasse",
+        "ci cambiassimo",
+        "vi cambiaste",
+        "si cambiassero"
+      ],
+
+      "Passato": [
+        "mi sia cambiato/a",
+        "ti sia cambiato/a",
+        "si sia cambiato/a",
+        "ci siamo cambiati/e",
+        "vi siate cambiati/e",
+        "si siano cambiati/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi cambiato/a",
+        "ti fossi cambiato/a",
+        "si fosse cambiato/a",
+        "ci fossimo cambiati/e",
+        "vi foste cambiati/e",
+        "si fossero cambiati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi cambierei",
+        "ti cambieresti",
+        "si cambierebbe",
+        "ci cambieremmo",
+        "vi cambiereste",
+        "si cambierebbero"
+      ],
+
+      "Passato": [
+        "mi sarei cambiato/a",
+        "ti saresti cambiato/a",
+        "si sarebbe cambiato/a",
+        "ci saremmo cambiati/e",
+        "vi sareste cambiati/e",
+        "si sarebbero cambiati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "cambiati",
+        "si cambi",
+        "cambiamoci",
+        "cambiatevi",
+        "si cambino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "cambiarsi",
+        "essersi cambiato/a/i/e",
+        "cambiantesi",
+        "cambiato",
+        "cambiandosi",
+        "essendosi cambiato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "vestirsi",
+  "sid": "2026-00161",
+  "word": "vestirsi",
+  "ipa": "/veˈstirsi/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "再帰動詞・代名動詞",
+      "it": "verbo riflessivo e pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "vestito",
+    "gerundPresent": "vestendosi",
+    "pattern": "vestirsi / vestirsi di + colore o materiale / vestirsi da + personaggio / vestirsi per + occasione"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "fashion",
+      "workplace",
+      "social"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "服を着る、身支度をする",
+      "特定の服装・色・素材の服を身に着ける",
+      "行事・仕事・状況に適した服装をする",
+      "人物・職業・キャラクターなどに扮装する",
+      "習慣的に特定のスタイルの服を着る"
+    ],
+    "it": [
+      "Mettersi i vestiti e prepararsi per uscire o iniziare un’attività.",
+      "Indossare abiti di un determinato colore, materiale o stile.",
+      "Scegliere un abbigliamento adatto a un’occasione, a un lavoro o a una situazione.",
+      "Travestirsi da un personaggio, da una figura professionale o da un’altra persona.",
+      "Avere abitualmente un determinato modo di abbigliarsi."
+    ]
+  },
+
+  "nuance": {
+    "ja": "主語が自分で衣服を身に着けることを表す。単なる着衣だけでなく、vestirsi beneのように服装のスタイル全体も表せる。vestireは他人に服を着せる、または服が人に似合うという他動詞用法を持つ。mettersiは特定の衣服を一つ身に着ける場合に使いやすく、vestirsiは身支度全体に焦点を置く。",
+    "it": "Indica che il soggetto mette i vestiti su sé stesso e può riferirsi sia all’atto concreto sia al modo generale di abbigliarsi. Vestire può indicare il mettere gli abiti a un’altra persona o il modo in cui un capo cade sul corpo. Mettersi è spesso preferito con un singolo indumento, mentre vestirsi riguarda più facilmente l’intero abbigliamento."
+  },
+
+  "etymology": {
+    "ja": "動詞vestireの再帰・代名動詞形である。vestireはラテン語vestīre（衣服を着せる）に由来し、名詞vestis（衣服）から形成された。同じ語族にはvestito、veste、vestiario、svestire、investireなどがある。",
+    "it": "Forma riflessiva e pronominale di vestire, dal latino vestīre, «coprire con una veste», derivato da vestis, «abito». Alla stessa famiglia appartengono vestito, veste, vestiario, svestire e rivestire."
+  },
+
+  "minimal": [
+    {
+      "word": "vestirsi",
+      "ja": "自分で衣服を身に着け、身支度を整える",
+      "it": "mettersi i vestiti e preparare il proprio abbigliamento"
+    },
+    {
+      "word": "vestire",
+      "ja": "人に服を着せる、または衣服が人の体を覆う・似合う",
+      "it": "mettere i vestiti a qualcuno oppure adattarsi al corpo di una persona"
+    },
+    {
+      "word": "mettersi",
+      "ja": "特定の服・靴・装飾品などを身に着ける",
+      "it": "indossare un determinato capo, accessorio o paio di scarpe"
+    },
+    {
+      "word": "cambiarsi",
+      "ja": "現在着ている服を脱ぎ、別の服に着替える",
+      "it": "togliersi gli abiti indossati e metterne altri"
+    }
+  ],
+
+  "synonyms": [
+    "abbigliarsi",
+    "mettersi i vestiti",
+    "indossare",
+    "prepararsi",
+    "coprirsi"
+  ],
+
+  "equivalents": {
+    "en": [
+      "get dressed",
+      "dress",
+      "dress oneself"
+    ],
+    "de": [
+      "sich anziehen",
+      "sich kleiden"
+    ],
+    "fr": [
+      "s’habiller",
+      "se vêtir"
+    ],
+    "es": [
+      "vestirse",
+      "ponerse la ropa"
+    ]
+  },
+
+  "collocations": [
+    "vestirsi bene",
+    "vestirsi male",
+    "vestirsi elegantemente",
+    "vestirsi semplicemente",
+    "vestirsi comodamente",
+    "vestirsi rapidamente",
+    "vestirsi lentamente",
+    "vestirsi da solo",
+    "vestirsi di nero",
+    "vestirsi di bianco",
+    "vestirsi di rosso",
+    "vestirsi di lana",
+    "vestirsi da medico",
+    "vestirsi da clown",
+    "vestirsi da Babbo Natale",
+    "vestirsi per uscire",
+    "vestirsi per il lavoro",
+    "vestirsi per una festa",
+    "vestirsi per un matrimonio",
+    "cominciare a vestirsi",
+    "finire di vestirsi",
+    "aiutare un bambino a vestirsi",
+    "sapere come vestirsi",
+    "non avere niente da mettersi"
+  ],
+
+  "examples": [
+    {
+      "it": "Mi vesto prima di fare colazione.",
+      "ja": "私は朝食を取る前に服を着る。"
+    },
+    {
+      "it": "Vestiti in fretta, dobbiamo uscire.",
+      "ja": "急いで服を着てください。出かけなければなりません。"
+    },
+    {
+      "it": "Si è vestita di nero per la cerimonia.",
+      "ja": "彼女は式典のために黒い服を着た。"
+    },
+    {
+      "it": "Per il lavoro deve vestirsi elegantemente.",
+      "ja": "彼は仕事では上品な服装をしなければならない。"
+    },
+    {
+      "it": "Il bambino sa già vestirsi da solo.",
+      "ja": "その子どもはすでに一人で服を着られる。"
+    },
+    {
+      "it": "A Carnevale ci siamo vestiti da personaggi storici.",
+      "ja": "カーニバルで私たちは歴史上の人物に扮した。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi vesto",
+        "ti vesti",
+        "si veste",
+        "ci vestiamo",
+        "vi vestite",
+        "si vestono"
+      ],
+
+      "Imperfetto": [
+        "mi vestivo",
+        "ti vestivi",
+        "si vestiva",
+        "ci vestivamo",
+        "vi vestivate",
+        "si vestivano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono vestito/a",
+        "ti sei vestito/a",
+        "si è vestito/a",
+        "ci siamo vestiti/e",
+        "vi siete vestiti/e",
+        "si sono vestiti/e"
+      ],
+
+      "Passato remoto": [
+        "mi vestii",
+        "ti vestisti",
+        "si vestì",
+        "ci vestimmo",
+        "vi vestiste",
+        "si vestirono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero vestito/a",
+        "ti eri vestito/a",
+        "si era vestito/a",
+        "ci eravamo vestiti/e",
+        "vi eravate vestiti/e",
+        "si erano vestiti/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui vestito/a",
+        "ti fosti vestito/a",
+        "si fu vestito/a",
+        "ci fummo vestiti/e",
+        "vi foste vestiti/e",
+        "si furono vestiti/e"
+      ],
+
+      "Futuro semplice": [
+        "mi vestirò",
+        "ti vestirai",
+        "si vestirà",
+        "ci vestiremo",
+        "vi vestirete",
+        "si vestiranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò vestito/a",
+        "ti sarai vestito/a",
+        "si sarà vestito/a",
+        "ci saremo vestiti/e",
+        "vi sarete vestiti/e",
+        "si saranno vestiti/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi vesta",
+        "ti vesta",
+        "si vesta",
+        "ci vestiamo",
+        "vi vestiate",
+        "si vestano"
+      ],
+
+      "Imperfetto": [
+        "mi vestissi",
+        "ti vestissi",
+        "si vestisse",
+        "ci vestissimo",
+        "vi vestiste",
+        "si vestissero"
+      ],
+
+      "Passato": [
+        "mi sia vestito/a",
+        "ti sia vestito/a",
+        "si sia vestito/a",
+        "ci siamo vestiti/e",
+        "vi siate vestiti/e",
+        "si siano vestiti/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi vestito/a",
+        "ti fossi vestito/a",
+        "si fosse vestito/a",
+        "ci fossimo vestiti/e",
+        "vi foste vestiti/e",
+        "si fossero vestiti/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi vestirei",
+        "ti vestiresti",
+        "si vestirebbe",
+        "ci vestiremmo",
+        "vi vestireste",
+        "si vestirebbero"
+      ],
+
+      "Passato": [
+        "mi sarei vestito/a",
+        "ti saresti vestito/a",
+        "si sarebbe vestito/a",
+        "ci saremmo vestiti/e",
+        "vi sareste vestiti/e",
+        "si sarebbero vestiti/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "vestiti",
+        "si vesta",
+        "vestiamoci",
+        "vestitevi",
+        "si vestano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "vestirsi",
+        "essersi vestito/a/i/e",
+        "vestentesi",
+        "vestito",
+        "vestendosi",
+        "essendosi vestito/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "mettersi",
+  "sid": "2026-00162",
+  "word": "mettersi",
+  "ipa": "/ˈmettersi/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "再帰動詞・代名動詞",
+      "it": "verbo riflessivo e pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "messo",
+    "gerundPresent": "mettendosi",
+    "pattern": "mettersi + indumento / mettersi in, a, su + luogo / mettersi a + infinito / mettersi in + stato"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "workplace",
+      "social",
+      "travel"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "衣服・靴・眼鏡・装飾品などを身に着ける",
+      "特定の場所・位置・姿勢につく",
+      "ある行為を始める、～し始める",
+      "ある状態・状況になる、身を置く",
+      "仕事・活動・課題などに取りかかる",
+      "人と交際する、協力する、対立する"
+    ],
+    "it": [
+      "Indossare un capo, un paio di scarpe, degli occhiali o un accessorio.",
+      "Collocarsi in un determinato luogo, posizione o atteggiamento.",
+      "Cominciare a compiere un’azione.",
+      "Entrare in una determinata condizione o situazione.",
+      "Iniziare seriamente un lavoro, un’attività o un compito.",
+      "Stabilire con qualcuno un rapporto di collaborazione, confronto o relazione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "非常に多義的な基本動詞で、後に続く語によって意味が決まる。衣服を一つ身に着ける場合はmettersi la giacca、動作の開始はmettersi a lavorare、状態への移行はmettersi in difficoltàのように表す。vestirsiが身支度全体を指すのに対し、mettersiは特定の衣服・位置・行動・状態への移行に焦点を置く。",
+    "it": "È un verbo fondamentale e molto polisemico, il cui significato dipende dalla costruzione. Con un indumento significa indossarlo; con a e l’infinito indica l’inizio di un’azione; con in introduce spesso una posizione o una condizione. Rispetto a vestirsi, che riguarda l’abbigliamento nel suo insieme, mettersi si usa facilmente con un singolo capo."
+  },
+
+  "etymology": {
+    "ja": "動詞mettereの再帰・代名動詞形である。mettereはラテン語mittĕre（送る、行かせる、置く）に由来する。同じ語族にはmissione、messaggio、promettere、permettere、trasmettereなどがある。不規則過去分詞messoはラテン語missusに由来する。",
+    "it": "Forma riflessiva e pronominale di mettere, dal latino mittĕre, «mandare, lasciare andare, collocare». Il participio irregolare messo deriva dal latino missus. Alla stessa famiglia appartengono missione, messaggio, permettere e trasmettere."
+  },
+
+  "minimal": [
+    {
+      "word": "mettersi",
+      "ja": "衣服・位置・行動・状態などへ自分を移す、または移行する",
+      "it": "collocarsi in una posizione o condizione, indossare qualcosa oppure iniziare un’azione"
+    },
+    {
+      "word": "mettere",
+      "ja": "物や人を特定の場所・状態に置く",
+      "it": "collocare qualcuno o qualcosa in un luogo o in una condizione"
+    },
+    {
+      "word": "vestirsi",
+      "ja": "衣服を身に着け、身支度全体を整える",
+      "it": "mettersi i vestiti e preparare il proprio abbigliamento"
+    },
+    {
+      "word": "cominciare",
+      "ja": "行為・活動・期間などを開始する",
+      "it": "dare inizio a un’azione, un’attività o un periodo"
+    }
+  ],
+
+  "synonyms": [
+    "collocarsi",
+    "indossare",
+    "cominciare",
+    "disporsi",
+    "assumere una posizione"
+  ],
+
+  "equivalents": {
+    "en": [
+      "put on",
+      "place oneself",
+      "start"
+    ],
+    "de": [
+      "sich stellen",
+      "sich setzen",
+      "anziehen"
+    ],
+    "fr": [
+      "se mettre",
+      "enfiler",
+      "commencer à"
+    ],
+    "es": [
+      "ponerse",
+      "colocarse",
+      "empezar a"
+    ]
+  },
+
+  "collocations": [
+    "mettersi la giacca",
+    "mettersi il cappotto",
+    "mettersi una camicia",
+    "mettersi le scarpe",
+    "mettersi gli occhiali",
+    "mettersi il cappello",
+    "mettersi il profumo",
+    "mettersi a sedere",
+    "mettersi in piedi",
+    "mettersi a letto",
+    "mettersi in fila",
+    "mettersi al volante",
+    "mettersi a lavorare",
+    "mettersi a studiare",
+    "mettersi a ridere",
+    "mettersi a piangere",
+    "mettersi a correre",
+    "mettersi a parlare",
+    "mettersi al lavoro",
+    "mettersi in viaggio",
+    "mettersi in contatto",
+    "mettersi in pericolo",
+    "mettersi nei guai",
+    "mettersi d’accordo",
+    "mettersi contro qualcuno",
+    "mettersi con qualcuno"
+  ],
+
+  "examples": [
+    {
+      "it": "Mi metto la giacca perché fa freddo.",
+      "ja": "寒いのでジャケットを着ます。"
+    },
+    {
+      "it": "Si è messo gli occhiali per leggere.",
+      "ja": "彼は読むために眼鏡をかけた。"
+    },
+    {
+      "it": "Mettiti a sedere e aspetta qui.",
+      "ja": "座って、ここで待ってください。"
+    },
+    {
+      "it": "Dobbiamo metterci al lavoro.",
+      "ja": "私たちは仕事に取りかからなければならない。"
+    },
+    {
+      "it": "Quando ha sentito la storia, si è messa a ridere.",
+      "ja": "その話を聞くと、彼女は笑い始めた。"
+    },
+    {
+      "it": "Ci siamo messi d’accordo sul prezzo.",
+      "ja": "私たちは価格について合意した。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi metto",
+        "ti metti",
+        "si mette",
+        "ci mettiamo",
+        "vi mettete",
+        "si mettono"
+      ],
+
+      "Imperfetto": [
+        "mi mettevo",
+        "ti mettevi",
+        "si metteva",
+        "ci mettevamo",
+        "vi mettevate",
+        "si mettevano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono messo/a",
+        "ti sei messo/a",
+        "si è messo/a",
+        "ci siamo messi/e",
+        "vi siete messi/e",
+        "si sono messi/e"
+      ],
+
+      "Passato remoto": [
+        "mi misi",
+        "ti mettesti",
+        "si mise",
+        "ci mettemmo",
+        "vi metteste",
+        "si misero"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero messo/a",
+        "ti eri messo/a",
+        "si era messo/a",
+        "ci eravamo messi/e",
+        "vi eravate messi/e",
+        "si erano messi/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui messo/a",
+        "ti fosti messo/a",
+        "si fu messo/a",
+        "ci fummo messi/e",
+        "vi foste messi/e",
+        "si furono messi/e"
+      ],
+
+      "Futuro semplice": [
+        "mi metterò",
+        "ti metterai",
+        "si metterà",
+        "ci metteremo",
+        "vi metterete",
+        "si metteranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò messo/a",
+        "ti sarai messo/a",
+        "si sarà messo/a",
+        "ci saremo messi/e",
+        "vi sarete messi/e",
+        "si saranno messi/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi metta",
+        "ti metta",
+        "si metta",
+        "ci mettiamo",
+        "vi mettiate",
+        "si mettano"
+      ],
+
+      "Imperfetto": [
+        "mi mettessi",
+        "ti mettessi",
+        "si mettesse",
+        "ci mettessimo",
+        "vi metteste",
+        "si mettessero"
+      ],
+
+      "Passato": [
+        "mi sia messo/a",
+        "ti sia messo/a",
+        "si sia messo/a",
+        "ci siamo messi/e",
+        "vi siate messi/e",
+        "si siano messi/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi messo/a",
+        "ti fossi messo/a",
+        "si fosse messo/a",
+        "ci fossimo messi/e",
+        "vi foste messi/e",
+        "si fossero messi/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi metterei",
+        "ti metteresti",
+        "si metterebbe",
+        "ci metteremmo",
+        "vi mettereste",
+        "si metterebbero"
+      ],
+
+      "Passato": [
+        "mi sarei messo/a",
+        "ti saresti messo/a",
+        "si sarebbe messo/a",
+        "ci saremmo messi/e",
+        "vi sareste messi/e",
+        "si sarebbero messi/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "mettiti",
+        "si metta",
+        "mettiamoci",
+        "mettetevi",
+        "si mettano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "mettersi",
+        "essersi messo/a/i/e",
+        "mettentesi",
+        "messo",
+        "mettendosi",
+        "essendosi messo/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "restare",
+  "sid": "2026-00163",
+  "word": "restare",
+  "ipa": "/reˈstare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・連結動詞",
+      "it": "verbo intransitivo e copulativo"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "restato",
+    "gerundPresent": "restando",
+    "pattern": "restare in, a, con + luogo o persona / restare + aggettivo / restare a + infinito"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "travel",
+      "social",
+      "business"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "ある場所にとどまる、残る",
+      "人と一緒にいる、滞在する",
+      "ある状態のままでいる",
+      "物・時間・仕事などが残っている",
+      "出来事によって特定の感情・状態になる",
+      "～するために残る、～し続ける"
+    ],
+    "it": [
+      "Continuare a trovarsi in un luogo senza allontanarsi.",
+      "Trattenersi o soggiornare con una persona o in un posto.",
+      "Mantenersi in una determinata condizione.",
+      "Essere ancora disponibile o non essere stato consumato, usato o completato.",
+      "Trovarsi in uno stato emotivo o fisico in conseguenza di un evento.",
+      "Trattenersi per compiere o continuare un’azione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "場所や状態から離れず、そのままでいることを表す。rimanereと多くの文脈で交換可能だが、rimanereは変化の結果として残ることや残存するものをやや強く意識させることがある。stareは滞在・姿勢・健康状態などを広く表し、restareは「去らずに残る」という対比を含みやすい。",
+    "it": "Indica la permanenza in un luogo o in una condizione, spesso in contrasto con la possibilità di andare via o cambiare. È frequentemente intercambiabile con rimanere, che può sottolineare maggiormente il risultato di un cambiamento o ciò che sopravvive. Stare è più generale per condizioni, posizioni e permanenze; restare evidenzia spesso il non allontanarsi."
+  },
+
+  "etymology": {
+    "ja": "ラテン語restāre（残る、踏みとどまる、抵抗する）に由来し、接頭辞re-（後ろに、元に）とstāre（立つ、とどまる）から成る。同じ語族にはstare、resto、restante、arrestareなどがある。",
+    "it": "Dal latino restāre, formato da re- e stāre, «stare fermo, rimanere». Il verbo indicava originariamente il fermarsi indietro o il resistere. Alla stessa famiglia appartengono resto, restante, stare e arrestare."
+  },
+
+  "minimal": [
+    {
+      "word": "restare",
+      "ja": "場所や状態から離れたり変化したりせず、そのまま残る",
+      "it": "non allontanarsi da un luogo o non uscire da una determinata condizione"
+    },
+    {
+      "word": "rimanere",
+      "ja": "変化・消費・退出などの後にも、場所や状態に残る",
+      "it": "continuare a esistere o trovarsi in un luogo o stato dopo un cambiamento"
+    },
+    {
+      "word": "stare",
+      "ja": "場所への滞在、姿勢、健康・気分などの状態を広く表す",
+      "it": "indicare una permanenza, una posizione o una condizione fisica e psicologica"
+    },
+    {
+      "word": "soggiornare",
+      "ja": "旅行先・宿泊施設などに一定期間滞在する",
+      "it": "fermarsi temporaneamente in un luogo, soprattutto durante un viaggio"
+    }
+  ],
+
+  "synonyms": [
+    "rimanere",
+    "stare",
+    "fermarsi",
+    "trattenersi",
+    "permanere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "stay",
+      "remain",
+      "be left"
+    ],
+    "de": [
+      "bleiben",
+      "übrig bleiben",
+      "verweilen"
+    ],
+    "fr": [
+      "rester",
+      "demeurer"
+    ],
+    "es": [
+      "quedarse",
+      "permanecer",
+      "quedar"
+    ]
+  },
+
+  "collocations": [
+    "restare a casa",
+    "restare in ufficio",
+    "restare in albergo",
+    "restare in città",
+    "restare all’estero",
+    "restare con qualcuno",
+    "restare da solo",
+    "restare insieme",
+    "restare qui",
+    "restare lì",
+    "restare fino a domani",
+    "restare per qualche giorno",
+    "restare fermo",
+    "restare calmo",
+    "restare tranquillo",
+    "restare in silenzio",
+    "restare sveglio",
+    "restare seduto",
+    "restare sorpreso",
+    "restare deluso",
+    "restare senza parole",
+    "restare senza soldi",
+    "restare a vedere",
+    "restare da fare",
+    "restare in contatto"
+  ],
+
+  "examples": [
+    {
+      "it": "Oggi resto a casa perché sono stanco.",
+      "ja": "今日は疲れているので家にいます。"
+    },
+    {
+      "it": "Siamo restati in ufficio fino alle nove.",
+      "ja": "私たちは9時まで事務所に残った。"
+    },
+    {
+      "it": "Resta qui mentre vado a comprare i biglietti.",
+      "ja": "私が切符を買いに行く間、ここにいてください。"
+    },
+    {
+      "it": "È restata molto sorpresa dalla notizia.",
+      "ja": "彼女はその知らせにとても驚いた。"
+    },
+    {
+      "it": "Quanto tempo ci resta?",
+      "ja": "私たちにはどのくらい時間が残っていますか。"
+    },
+    {
+      "it": "Ci restano ancora molte cose da fare.",
+      "ja": "私たちにはまだやるべきことがたくさん残っている。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "resto",
+        "resti",
+        "resta",
+        "restiamo",
+        "restate",
+        "restano"
+      ],
+
+      "Imperfetto": [
+        "restavo",
+        "restavi",
+        "restava",
+        "restavamo",
+        "restavate",
+        "restavano"
+      ],
+
+      "Passato prossimo": [
+        "sono restato/a",
+        "sei restato/a",
+        "è restato/a",
+        "siamo restati/e",
+        "siete restati/e",
+        "sono restati/e"
+      ],
+
+      "Passato remoto": [
+        "restai",
+        "restasti",
+        "restò",
+        "restammo",
+        "restaste",
+        "restarono"
+      ],
+
+      "Trapassato prossimo": [
+        "ero restato/a",
+        "eri restato/a",
+        "era restato/a",
+        "eravamo restati/e",
+        "eravate restati/e",
+        "erano restati/e"
+      ],
+
+      "Trapassato remoto": [
+        "fui restato/a",
+        "fosti restato/a",
+        "fu restato/a",
+        "fummo restati/e",
+        "foste restati/e",
+        "furono restati/e"
+      ],
+
+      "Futuro semplice": [
+        "resterò",
+        "resterai",
+        "resterà",
+        "resteremo",
+        "resterete",
+        "resteranno"
+      ],
+
+      "Futuro anteriore": [
+        "sarò restato/a",
+        "sarai restato/a",
+        "sarà restato/a",
+        "saremo restati/e",
+        "sarete restati/e",
+        "saranno restati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "resti",
+        "resti",
+        "resti",
+        "restiamo",
+        "restiate",
+        "restino"
+      ],
+
+      "Imperfetto": [
+        "restassi",
+        "restassi",
+        "restasse",
+        "restassimo",
+        "restaste",
+        "restassero"
+      ],
+
+      "Passato": [
+        "sia restato/a",
+        "sia restato/a",
+        "sia restato/a",
+        "siamo restati/e",
+        "siate restati/e",
+        "siano restati/e"
+      ],
+
+      "Trapassato": [
+        "fossi restato/a",
+        "fossi restato/a",
+        "fosse restato/a",
+        "fossimo restati/e",
+        "foste restati/e",
+        "fossero restati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "resterei",
+        "resteresti",
+        "resterebbe",
+        "resteremmo",
+        "restereste",
+        "resterebbero"
+      ],
+
+      "Passato": [
+        "sarei restato/a",
+        "saresti restato/a",
+        "sarebbe restato/a",
+        "saremmo restati/e",
+        "sareste restati/e",
+        "sarebbero restati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "resta",
+        "resti",
+        "restiamo",
+        "restate",
+        "restino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "restare",
+        "essere restato/a/i/e",
+        "restante",
+        "restato",
+        "restando",
+        "essendo restato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "fumare",
+  "sid": "2026-00164",
+  "word": "fumare",
+  "ipa": "/fuˈmare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "fumato",
+    "gerundPresent": "fumando",
+    "pattern": "fumare / fumare + prodotto del tabacco / fumare qualcosa con + legno o aroma"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "social",
+      "medical",
+      "cooking",
+      "environment"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "たばこを吸う、喫煙する",
+      "紙巻きたばこ・葉巻・パイプなどを吸う",
+      "物が煙を出す、煙を上げる",
+      "食品を煙で燻す、燻製にする",
+      "比喩的に、怒りや興奮で頭から煙を出すような状態になる"
+    ],
+    "it": [
+      "Aspirare ed espirare il fumo prodotto dal tabacco o da un’altra sostanza.",
+      "Consumare una sigaretta, un sigaro o una pipa mediante combustione.",
+      "Emettere o mandare fumo.",
+      "Esporre un alimento al fumo per conservarlo o aromatizzarlo.",
+      "In senso figurato, manifestare rabbia, agitazione o attività intensa."
+    ]
+  },
+
+  "nuance": {
+    "ja": "目的語なしでは「喫煙する」という習慣・行為を表し、fumare una sigarettaのように目的語を置くと、何を吸うかを示す。煙を放つ物を主語にしてIl camino fumaとも言える。食品を燻製にする意味もあるが、この意味ではaffumicareのほうが一般的かつ明確である。",
+    "it": "Senza oggetto indica generalmente l’atto o l’abitudine di consumare tabacco. Con un oggetto specifica ciò che viene fumato, come una sigaretta o un sigaro. Può avere come soggetto anche qualcosa che emette fumo. Nel senso culinario di trattare un alimento con il fumo, affumicare è normalmente più preciso e comune."
+  },
+
+  "etymology": {
+    "ja": "ラテン語fumāre（煙を出す、煙る）に由来し、名詞fumus（煙）から形成された。たばこがヨーロッパへ伝わる以前から存在し、もともとは物が煙を出すことを意味した。同じ語族にはfumo、fumoso、profumo、affumicareなどがある。",
+    "it": "Dal latino fumāre, «mandare fumo», derivato da fumus, «fumo». Il verbo esisteva prima dell’introduzione del tabacco in Europa e indicava originariamente l’emissione di fumo. Alla stessa famiglia appartengono fumo, fumoso, profumo e affumicare."
+  },
+
+  "minimal": [
+    {
+      "word": "fumare",
+      "ja": "たばこなどの煙を吸う、または物が煙を放つ",
+      "it": "aspirare il fumo del tabacco oppure emettere fumo"
+    },
+    {
+      "word": "affumicare",
+      "ja": "保存や風味付けのため、食品を煙にさらして燻製にする",
+      "it": "trattare un alimento con il fumo per conservarlo o aromatizzarlo"
+    },
+    {
+      "word": "bruciare",
+      "ja": "火によって燃える、または物を燃やす",
+      "it": "essere consumato dal fuoco oppure dare fuoco a qualcosa"
+    },
+    {
+      "word": "aspirare",
+      "ja": "空気・煙・液体などを内側へ吸い込む",
+      "it": "tirare verso l’interno aria, fumo, liquidi o altre sostanze"
+    }
+  ],
+
+  "synonyms": [
+    "consumare tabacco",
+    "accendere una sigaretta",
+    "mandare fumo",
+    "emettere fumo",
+    "affumicare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "smoke",
+      "emit smoke"
+    ],
+    "de": [
+      "rauchen",
+      "qualmen"
+    ],
+    "fr": [
+      "fumer",
+      "dégager de la fumée"
+    ],
+    "es": [
+      "fumar",
+      "echar humo"
+    ]
+  },
+
+  "collocations": [
+    "fumare molto",
+    "fumare poco",
+    "fumare troppo",
+    "fumare regolarmente",
+    "fumare occasionalmente",
+    "fumare una sigaretta",
+    "fumare un sigaro",
+    "fumare la pipa",
+    "fumare tabacco",
+    "cominciare a fumare",
+    "smettere di fumare",
+    "continuare a fumare",
+    "evitare di fumare",
+    "avere voglia di fumare",
+    "uscire a fumare",
+    "fumare all’aperto",
+    "fumare in casa",
+    "fumare in macchina",
+    "vietato fumare",
+    "zona in cui si può fumare",
+    "camino che fuma",
+    "pentola che fuma",
+    "fumare il pesce",
+    "fumare la carne"
+  ],
+
+  "examples": [
+    {
+      "it": "Qui è vietato fumare.",
+      "ja": "ここは禁煙です。"
+    },
+    {
+      "it": "Ha smesso di fumare cinque anni fa.",
+      "ja": "彼は5年前にたばこをやめた。"
+    },
+    {
+      "it": "Esce sul balcone per fumare una sigaretta.",
+      "ja": "彼女はたばこを一本吸うためにベランダへ出る。"
+    },
+    {
+      "it": "Non ho mai fumato in vita mia.",
+      "ja": "私はこれまで一度もたばこを吸ったことがない。"
+    },
+    {
+      "it": "Il camino fuma perché deve essere pulito.",
+      "ja": "掃除が必要なため、暖炉から煙が出ている。"
+    },
+    {
+      "it": "Un tempo si fumava la carne per conservarla più a lungo.",
+      "ja": "かつては肉を長く保存するために燻製にしていた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "fumo",
+        "fumi",
+        "fuma",
+        "fumiamo",
+        "fumate",
+        "fumano"
+      ],
+
+      "Imperfetto": [
+        "fumavo",
+        "fumavi",
+        "fumava",
+        "fumavamo",
+        "fumavate",
+        "fumavano"
+      ],
+
+      "Passato prossimo": [
+        "ho fumato",
+        "hai fumato",
+        "ha fumato",
+        "abbiamo fumato",
+        "avete fumato",
+        "hanno fumato"
+      ],
+
+      "Passato remoto": [
+        "fumai",
+        "fumasti",
+        "fumò",
+        "fumammo",
+        "fumaste",
+        "fumarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo fumato",
+        "avevi fumato",
+        "aveva fumato",
+        "avevamo fumato",
+        "avevate fumato",
+        "avevano fumato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi fumato",
+        "avesti fumato",
+        "ebbe fumato",
+        "avemmo fumato",
+        "aveste fumato",
+        "ebbero fumato"
+      ],
+
+      "Futuro semplice": [
+        "fumerò",
+        "fumerai",
+        "fumerà",
+        "fumeremo",
+        "fumerete",
+        "fumeranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò fumato",
+        "avrai fumato",
+        "avrà fumato",
+        "avremo fumato",
+        "avrete fumato",
+        "avranno fumato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "fumi",
+        "fumi",
+        "fumi",
+        "fumiamo",
+        "fumiate",
+        "fumino"
+      ],
+
+      "Imperfetto": [
+        "fumassi",
+        "fumassi",
+        "fumasse",
+        "fumassimo",
+        "fumaste",
+        "fumassero"
+      ],
+
+      "Passato": [
+        "abbia fumato",
+        "abbia fumato",
+        "abbia fumato",
+        "abbiamo fumato",
+        "abbiate fumato",
+        "abbiano fumato"
+      ],
+
+      "Trapassato": [
+        "avessi fumato",
+        "avessi fumato",
+        "avesse fumato",
+        "avessimo fumato",
+        "aveste fumato",
+        "avessero fumato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "fumerei",
+        "fumeresti",
+        "fumerebbe",
+        "fumeremmo",
+        "fumereste",
+        "fumerebbero"
+      ],
+
+      "Passato": [
+        "avrei fumato",
+        "avresti fumato",
+        "avrebbe fumato",
+        "avremmo fumato",
+        "avreste fumato",
+        "avrebbero fumato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "fuma",
+        "fumi",
+        "fumiamo",
+        "fumate",
+        "fumino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "fumare",
+        "avere fumato",
+        "fumante",
+        "fumato",
+        "fumando",
+        "avendo fumato"
+      ]
+    }
+  }
+},
+{
+  "id": "esaminare",
+  "sid": "2026-00165",
+  "word": "esaminare",
+  "ipa": "/ezamiˈnare/",
+  "level": "B1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "esaminato",
+    "gerundPresent": "esaminando",
+    "pattern": "esaminare qualcuno o qualcosa / esaminare attentamente / esaminare se, come o perché + frase"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "business",
+      "academic",
+      "medical",
+      "legal",
+      "education"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "物・問題・情報などを詳しく調べる、検討する",
+      "書類・証拠・提案などを精査する",
+      "医師が患者や身体の状態を診察する",
+      "学生・受験者などの知識や能力を試験する",
+      "証人・当事者などに質問して事情を確認する",
+      "複数の可能性や選択肢を比較・評価する"
+    ],
+    "it": [
+      "Osservare o studiare attentamente qualcosa per comprenderlo o valutarlo.",
+      "Analizzare documenti, prove, proposte o dati.",
+      "Sottoporre un paziente o una parte del corpo a un controllo medico.",
+      "Verificare mediante domande o prove la preparazione di uno studente o di un candidato.",
+      "Interrogare un testimone o una parte per accertare determinati fatti.",
+      "Considerare e confrontare diverse possibilità o soluzioni."
+    ]
+  },
+
+  "nuance": {
+    "ja": "対象を注意深く観察・分析し、その性質・状態・価値・正しさなどを判断することを表す。guardareより体系的で、analizzareよりも広く、必ずしも要素への分解を伴わない。医療では患者を診察する、教育では学生を試験する、法律では証人を尋問するという意味にもなる。",
+    "it": "Indica un’osservazione o un’analisi accurata finalizzata alla comprensione o alla valutazione. È più sistematico di guardare e più ampio di analizzare, che suggerisce spesso la scomposizione nei singoli elementi. In medicina può significare visitare un paziente; nell’istruzione, valutarne la preparazione; nel diritto, interrogare una persona."
+  },
+
+  "etymology": {
+    "ja": "ラテン語examināre（量る、吟味する、調査する）に由来し、名詞exāmen（秤の針、計量、検査）から形成された。対象を秤にかけるという具体的な意味から、慎重に評価・検討するという意味が発達した。",
+    "it": "Dal latino examināre, «pesare, valutare, indagare», derivato da exāmen, che indicava originariamente l’ago della bilancia e quindi la pesatura o la verifica. Dall’idea di pesare attentamente si è sviluppato il significato di valutare."
+  },
+
+  "minimal": [
+    {
+      "word": "esaminare",
+      "ja": "判断・評価のために対象を注意深く調査・検討する",
+      "it": "studiare attentamente qualcosa per comprenderlo e valutarlo"
+    },
+    {
+      "word": "analizzare",
+      "ja": "対象を構成要素に分け、その構造や関係を詳しく調べる",
+      "it": "scomporre un oggetto di studio nei suoi elementi per comprenderne la struttura"
+    },
+    {
+      "word": "controllare",
+      "ja": "状態・正確性・規則への適合などを確認する",
+      "it": "verificare lo stato, la correttezza o la conformità di qualcosa"
+    },
+    {
+      "word": "visitare",
+      "ja": "医師が患者を診察する、または人・場所を訪れる",
+      "it": "esaminare medicalmente un paziente oppure recarsi presso una persona o un luogo"
+    }
+  ],
+
+  "synonyms": [
+    "analizzare",
+    "valutare",
+    "studiare",
+    "ispezionare",
+    "vagliare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "examine",
+      "inspect",
+      "assess"
+    ],
+    "de": [
+      "untersuchen",
+      "prüfen",
+      "begutachten"
+    ],
+    "fr": [
+      "examiner",
+      "étudier",
+      "évaluer"
+    ],
+    "es": [
+      "examinar",
+      "analizar",
+      "evaluar"
+    ]
+  },
+
+  "collocations": [
+    "esaminare attentamente",
+    "esaminare accuratamente",
+    "esaminare brevemente",
+    "esaminare nel dettaglio",
+    "esaminare un problema",
+    "esaminare una questione",
+    "esaminare una proposta",
+    "esaminare una richiesta",
+    "esaminare una domanda",
+    "esaminare un ricorso",
+    "esaminare un documento",
+    "esaminare un contratto",
+    "esaminare i dati",
+    "esaminare le prove",
+    "esaminare un caso",
+    "esaminare un paziente",
+    "esaminare una ferita",
+    "esaminare uno studente",
+    "esaminare un candidato",
+    "esaminare un testimone",
+    "esaminare diverse possibilità",
+    "essere chiamato a esaminare",
+    "procedere a esaminare",
+    "meritare di essere esaminato"
+  ],
+
+  "examples": [
+    {
+      "it": "Dobbiamo esaminare attentamente la proposta.",
+      "ja": "私たちはその提案を慎重に検討しなければならない。"
+    },
+    {
+      "it": "L’avvocato ha esaminato tutti i documenti.",
+      "ja": "弁護士はすべての書類を精査した。"
+    },
+    {
+      "it": "Il medico ha esaminato la ferita.",
+      "ja": "医師はその傷を診察した。"
+    },
+    {
+      "it": "La commissione esaminerà le domande il mese prossimo.",
+      "ja": "委員会は来月、申請を審査する。"
+    },
+    {
+      "it": "Sono state esaminate diverse possibili soluzioni.",
+      "ja": "複数の解決案が検討された。"
+    },
+    {
+      "it": "Il giudice ha esaminato il testimone per oltre un’ora.",
+      "ja": "裁判官は1時間以上にわたって証人を尋問した。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "esamino",
+        "esamini",
+        "esamina",
+        "esaminiamo",
+        "esaminate",
+        "esaminano"
+      ],
+
+      "Imperfetto": [
+        "esaminavo",
+        "esaminavi",
+        "esaminava",
+        "esaminavamo",
+        "esaminavate",
+        "esaminavano"
+      ],
+
+      "Passato prossimo": [
+        "ho esaminato",
+        "hai esaminato",
+        "ha esaminato",
+        "abbiamo esaminato",
+        "avete esaminato",
+        "hanno esaminato"
+      ],
+
+      "Passato remoto": [
+        "esaminai",
+        "esaminasti",
+        "esaminò",
+        "esaminammo",
+        "esaminaste",
+        "esaminarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo esaminato",
+        "avevi esaminato",
+        "aveva esaminato",
+        "avevamo esaminato",
+        "avevate esaminato",
+        "avevano esaminato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi esaminato",
+        "avesti esaminato",
+        "ebbe esaminato",
+        "avemmo esaminato",
+        "aveste esaminato",
+        "ebbero esaminato"
+      ],
+
+      "Futuro semplice": [
+        "esaminerò",
+        "esaminerai",
+        "esaminerà",
+        "esamineremo",
+        "esaminerete",
+        "esamineranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò esaminato",
+        "avrai esaminato",
+        "avrà esaminato",
+        "avremo esaminato",
+        "avrete esaminato",
+        "avranno esaminato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "esamini",
+        "esamini",
+        "esamini",
+        "esaminiamo",
+        "esaminiate",
+        "esaminino"
+      ],
+
+      "Imperfetto": [
+        "esaminassi",
+        "esaminassi",
+        "esaminasse",
+        "esaminassimo",
+        "esaminaste",
+        "esaminassero"
+      ],
+
+      "Passato": [
+        "abbia esaminato",
+        "abbia esaminato",
+        "abbia esaminato",
+        "abbiamo esaminato",
+        "abbiate esaminato",
+        "abbiano esaminato"
+      ],
+
+      "Trapassato": [
+        "avessi esaminato",
+        "avessi esaminato",
+        "avesse esaminato",
+        "avessimo esaminato",
+        "aveste esaminato",
+        "avessero esaminato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "esaminerei",
+        "esamineresti",
+        "esaminerebbe",
+        "esamineremmo",
+        "esaminereste",
+        "esaminerebbero"
+      ],
+
+      "Passato": [
+        "avrei esaminato",
+        "avresti esaminato",
+        "avrebbe esaminato",
+        "avremmo esaminato",
+        "avreste esaminato",
+        "avrebbero esaminato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "esamina",
+        "esamini",
+        "esaminiamo",
+        "esaminate",
+        "esaminino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "esaminare",
+        "avere esaminato",
+        "esaminante",
+        "esaminato",
+        "esaminando",
+        "avendo esaminato"
+      ]
+    }
+  }
+},
+{
+  "id": "ispezionare",
+  "sid": "2026-00166",
+  "word": "ispezionare",
+  "ipa": "/ispettsjoˈnare/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "ispezionato",
+    "gerundPresent": "ispezionando",
+    "pattern": "ispezionare + luogo, mezzo, impianto, merce o documento"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "business",
+      "legal",
+      "administrative",
+      "security",
+      "technical"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "場所・施設・設備などを詳しく点検する",
+      "車両・船舶・貨物などを検査する",
+      "規則・安全基準・品質基準への適合を確認する",
+      "警察・税関などが人の所持品や場所を調べる",
+      "機械・部品などに故障や損傷がないか調べる",
+      "組織・業務・書類などを公的立場から監査・査察する"
+    ],
+    "it": [
+      "Controllare accuratamente un luogo, un edificio o un impianto.",
+      "Esaminare un veicolo, una nave, una merce o un carico.",
+      "Verificare il rispetto di norme di sicurezza, qualità o funzionamento.",
+      "Controllare luoghi o beni personali nell’ambito di attività di polizia o doganali.",
+      "Esaminare macchine o componenti per individuare guasti o danni.",
+      "Sottoporre un’organizzazione, un’attività o dei documenti a un controllo ufficiale."
+    ]
+  },
+
+  "nuance": {
+    "ja": "権限・責任・技術的目的に基づき、異常・違反・欠陥などがないか体系的に調べることを表す。esaminareは理解・評価のための幅広い検討に使えるが、ispezionareは物理的な場所・設備・車両・貨物などの具体的な点検や、公的な査察を強く示す。",
+    "it": "Indica un controllo accurato e sistematico, spesso svolto da chi possiede un’autorità, una responsabilità o una competenza tecnica. Esaminare è più generale e può riguardare qualsiasi oggetto di studio; ispezionare richiama soprattutto il controllo concreto di luoghi, impianti, veicoli, merci o attività soggette a norme."
+  },
+
+  "etymology": {
+    "ja": "名詞ispezioneから形成された動詞である。ispezioneはラテン語inspectio（観察、検査）に由来し、これはinspicĕre（中を見る、詳しく調べる）から作られた。inspicĕreはin-（中へ）とspecĕre（見る）から成る。",
+    "it": "Derivato dal sostantivo ispezione, dal latino inspectio, «osservazione, esame», a sua volta da inspicĕre, «guardare dentro, esaminare», formato da in- e specĕre, «guardare»."
+  },
+
+  "minimal": [
+    {
+      "word": "ispezionare",
+      "ja": "異常・違反・危険などを発見するため、場所や設備を体系的に点検する",
+      "it": "controllare sistematicamente un luogo o un oggetto per individuare anomalie o violazioni"
+    },
+    {
+      "word": "esaminare",
+      "ja": "理解・判断・評価のために対象を詳しく調べる",
+      "it": "studiare attentamente qualcosa per comprenderlo o valutarlo"
+    },
+    {
+      "word": "controllare",
+      "ja": "状態・正確性・適合性などを一般的に確認する",
+      "it": "verificare in generale lo stato, la correttezza o la conformità di qualcosa"
+    },
+    {
+      "word": "perquisire",
+      "ja": "警察などが証拠・危険物を探すため、人・場所・所持品を捜索する",
+      "it": "cercare prove o oggetti nascosti su una persona o in un luogo"
+    }
+  ],
+
+  "synonyms": [
+    "controllare",
+    "esaminare",
+    "verificare",
+    "passare in rassegna",
+    "sottoporre a ispezione"
+  ],
+
+  "equivalents": {
+    "en": [
+      "inspect",
+      "examine",
+      "survey"
+    ],
+    "de": [
+      "inspizieren",
+      "überprüfen",
+      "kontrollieren"
+    ],
+    "fr": [
+      "inspecter",
+      "contrôler",
+      "examiner"
+    ],
+    "es": [
+      "inspeccionar",
+      "revisar",
+      "examinar"
+    ]
+  },
+
+  "collocations": [
+    "ispezionare attentamente",
+    "ispezionare accuratamente",
+    "ispezionare periodicamente",
+    "ispezionare un edificio",
+    "ispezionare una casa",
+    "ispezionare una fabbrica",
+    "ispezionare un cantiere",
+    "ispezionare un impianto",
+    "ispezionare una macchina",
+    "ispezionare un veicolo",
+    "ispezionare un’automobile",
+    "ispezionare una nave",
+    "ispezionare un aereo",
+    "ispezionare un container",
+    "ispezionare la merce",
+    "ispezionare un carico",
+    "ispezionare i bagagli",
+    "ispezionare un documento",
+    "ispezionare la zona",
+    "ispezionare il luogo dell’incidente",
+    "essere autorizzato a ispezionare",
+    "procedere a ispezionare"
+  ],
+
+  "examples": [
+    {
+      "it": "I tecnici hanno ispezionato l’impianto.",
+      "ja": "技術者たちはその設備を点検した。"
+    },
+    {
+      "it": "La polizia ha ispezionato l’edificio.",
+      "ja": "警察はその建物を調査した。"
+    },
+    {
+      "it": "I funzionari doganali hanno ispezionato il carico.",
+      "ja": "税関職員は貨物を検査した。"
+    },
+    {
+      "it": "Il veicolo deve essere ispezionato ogni anno.",
+      "ja": "その車両は毎年検査を受けなければならない。"
+    },
+    {
+      "it": "Prima della partenza, il comandante ispezionò la nave.",
+      "ja": "出航前に船長は船を点検した。"
+    },
+    {
+      "it": "Stiamo ispezionando la zona per individuare eventuali danni.",
+      "ja": "私たちは損傷の有無を確認するため、その区域を調査している。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "ispeziono",
+        "ispezioni",
+        "ispeziona",
+        "ispezioniamo",
+        "ispezionate",
+        "ispezionano"
+      ],
+
+      "Imperfetto": [
+        "ispezionavo",
+        "ispezionavi",
+        "ispezionava",
+        "ispezionavamo",
+        "ispezionavate",
+        "ispezionavano"
+      ],
+
+      "Passato prossimo": [
+        "ho ispezionato",
+        "hai ispezionato",
+        "ha ispezionato",
+        "abbiamo ispezionato",
+        "avete ispezionato",
+        "hanno ispezionato"
+      ],
+
+      "Passato remoto": [
+        "ispezionai",
+        "ispezionasti",
+        "ispezionò",
+        "ispezionammo",
+        "ispezionaste",
+        "ispezionarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo ispezionato",
+        "avevi ispezionato",
+        "aveva ispezionato",
+        "avevamo ispezionato",
+        "avevate ispezionato",
+        "avevano ispezionato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi ispezionato",
+        "avesti ispezionato",
+        "ebbe ispezionato",
+        "avemmo ispezionato",
+        "aveste ispezionato",
+        "ebbero ispezionato"
+      ],
+
+      "Futuro semplice": [
+        "ispezionerò",
+        "ispezionerai",
+        "ispezionerà",
+        "ispezioneremo",
+        "ispezionerete",
+        "ispezioneranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò ispezionato",
+        "avrai ispezionato",
+        "avrà ispezionato",
+        "avremo ispezionato",
+        "avrete ispezionato",
+        "avranno ispezionato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "ispezioni",
+        "ispezioni",
+        "ispezioni",
+        "ispezioniamo",
+        "ispezioniate",
+        "ispezionino"
+      ],
+
+      "Imperfetto": [
+        "ispezionassi",
+        "ispezionassi",
+        "ispezionasse",
+        "ispezionassimo",
+        "ispezionaste",
+        "ispezionassero"
+      ],
+
+      "Passato": [
+        "abbia ispezionato",
+        "abbia ispezionato",
+        "abbia ispezionato",
+        "abbiamo ispezionato",
+        "abbiate ispezionato",
+        "abbiano ispezionato"
+      ],
+
+      "Trapassato": [
+        "avessi ispezionato",
+        "avessi ispezionato",
+        "avesse ispezionato",
+        "avessimo ispezionato",
+        "aveste ispezionato",
+        "avessero ispezionato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "ispezionerei",
+        "ispezioneresti",
+        "ispezionerebbe",
+        "ispezioneremmo",
+        "ispezionereste",
+        "ispezionerebbero"
+      ],
+
+      "Passato": [
+        "avrei ispezionato",
+        "avresti ispezionato",
+        "avrebbe ispezionato",
+        "avremmo ispezionato",
+        "avreste ispezionato",
+        "avrebbero ispezionato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "ispeziona",
+        "ispezioni",
+        "ispezioniamo",
+        "ispezionate",
+        "ispezionino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "ispezionare",
+        "avere ispezionato",
+        "ispezionante",
+        "ispezionato",
+        "ispezionando",
+        "avendo ispezionato"
+      ]
+    }
+  }
+},
+{
+  "id": "friggere",
+  "sid": "2026-00167",
+  "word": "friggere",
+  "ipa": "/ˈfriddʒere/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "fritto",
+    "gerundPresent": "friggendo",
+    "pattern": "friggere qualcosa / friggere in + grasso / friggere a + temperatura"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "cooking",
+      "restaurant"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "食材を高温の油や脂で揚げる",
+      "少量の油を使って食材を焼く、炒める",
+      "食材が油の中で揚がる",
+      "油・脂や食材がジュージューと音を立てる",
+      "比喩的に、強い暑さで焼かれるように感じる"
+    ],
+    "it": [
+      "Cuocere un alimento immergendolo in olio o grasso molto caldo.",
+      "Cuocere un alimento in una quantità limitata di olio o grasso.",
+      "Cuocersi nell’olio bollente, con riferimento a un alimento.",
+      "Produrre il caratteristico sfrigolio dell’olio o del cibo durante la cottura.",
+      "In senso figurato, soffrire per un calore molto intenso."
+    ]
+  },
+
+  "nuance": {
+    "ja": "高温の油・脂を使って食材を加熱することを表す。油に完全に沈める場合だけでなく、フライパンで油を使って焼く場合にも用いられる。日本語の「炒める」に当たる一般的な動詞はsaltareやsoffriggereであり、friggereはより高温・多量の油を連想させる。過去分詞は不規則形frittoである。",
+    "it": "Indica la cottura di un alimento in olio o grasso ad alta temperatura. Può riferirsi sia alla completa immersione sia alla cottura in padella con una certa quantità di grasso. Saltare e soffriggere indicano normalmente tecniche diverse, spesso con meno olio. Il participio passato è l’irregolare fritto."
+  },
+
+  "etymology": {
+    "ja": "ラテン語frīgĕre（焼く、炒る、揚げる）に由来する。過去分詞frittoはラテン語frictusにさかのぼる。同じ語族にはfrittura、fritto、friggitrice、soffriggereなどがある。",
+    "it": "Dal latino frīgĕre, «arrostire, friggere». Il participio irregolare fritto deriva dal latino frictus. Alla stessa famiglia appartengono frittura, friggitrice, soffriggere e fritto."
+  },
+
+  "minimal": [
+    {
+      "word": "friggere",
+      "ja": "食材を高温の油・脂に入れて揚げる",
+      "it": "cuocere un alimento in olio o grasso ad alta temperatura"
+    },
+    {
+      "word": "soffriggere",
+      "ja": "少量の油で香味野菜などを弱火から中火で炒める",
+      "it": "cuocere leggermente in poco grasso, spesso per preparare una base aromatica"
+    },
+    {
+      "word": "saltare",
+      "ja": "食材を少量の油とともにフライパンで手早く炒める",
+      "it": "cuocere rapidamente in padella muovendo o facendo saltare gli ingredienti"
+    },
+    {
+      "word": "arrostire",
+      "ja": "直火・オーブンなどの乾いた高熱で焼く",
+      "it": "cuocere mediante calore secco, alla fiamma o nel forno"
+    }
+  ],
+
+  "synonyms": [
+    "cuocere nell’olio",
+    "cuocere nel grasso",
+    "rosolare",
+    "sfrigolare",
+    "soffriggere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "fry",
+      "deep-fry"
+    ],
+    "de": [
+      "frittieren",
+      "braten",
+      "ausbacken"
+    ],
+    "fr": [
+      "frire",
+      "faire frire"
+    ],
+    "es": [
+      "freír",
+      "fritar"
+    ]
+  },
+
+  "collocations": [
+    "friggere nell’olio",
+    "friggere nel burro",
+    "friggere nello strutto",
+    "friggere in olio d’oliva",
+    "friggere in olio di semi",
+    "friggere a fuoco alto",
+    "friggere a fuoco medio",
+    "friggere a temperatura costante",
+    "friggere le patate",
+    "friggere le verdure",
+    "friggere il pesce",
+    "friggere la carne",
+    "friggere un uovo",
+    "friggere le cipolle",
+    "friggere le melanzane",
+    "friggere la pastella",
+    "friggere pochi pezzi alla volta",
+    "friggere fino a doratura",
+    "olio per friggere",
+    "cominciare a friggere",
+    "lasciare friggere",
+    "evitare di friggere troppo",
+    "friggere senza bruciare",
+    "sentire l’olio friggere"
+  ],
+
+  "examples": [
+    {
+      "it": "Friggi le patate in abbondante olio caldo.",
+      "ja": "じゃがいもをたっぷりの熱い油で揚げてください。"
+    },
+    {
+      "it": "Abbiamo fritto il pesce per cena.",
+      "ja": "私たちは夕食に魚を揚げた。"
+    },
+    {
+      "it": "L’olio deve essere ben caldo prima di friggere.",
+      "ja": "揚げ始める前に、油を十分に熱くしておく必要がある。"
+    },
+    {
+      "it": "Non friggere troppi pezzi contemporaneamente.",
+      "ja": "一度に多くの食材を揚げすぎないでください。"
+    },
+    {
+      "it": "Le verdure stanno friggendo in padella.",
+      "ja": "野菜がフライパンの中で揚がっている。"
+    },
+    {
+      "it": "Ho sentito l’olio friggere e ho abbassato il fuoco.",
+      "ja": "油がジュージューいうのを聞いて、火を弱めた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "friggo",
+        "friggi",
+        "frigge",
+        "friggiamo",
+        "friggete",
+        "friggono"
+      ],
+
+      "Imperfetto": [
+        "friggevo",
+        "friggevi",
+        "friggeva",
+        "friggevamo",
+        "friggevate",
+        "friggevano"
+      ],
+
+      "Passato prossimo": [
+        "ho fritto",
+        "hai fritto",
+        "ha fritto",
+        "abbiamo fritto",
+        "avete fritto",
+        "hanno fritto"
+      ],
+
+      "Passato remoto": [
+        "frissi",
+        "friggesti",
+        "frisse",
+        "friggemmo",
+        "friggeste",
+        "frissero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo fritto",
+        "avevi fritto",
+        "aveva fritto",
+        "avevamo fritto",
+        "avevate fritto",
+        "avevano fritto"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi fritto",
+        "avesti fritto",
+        "ebbe fritto",
+        "avemmo fritto",
+        "aveste fritto",
+        "ebbero fritto"
+      ],
+
+      "Futuro semplice": [
+        "friggerò",
+        "friggerai",
+        "friggerà",
+        "friggeremo",
+        "friggerete",
+        "friggeranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò fritto",
+        "avrai fritto",
+        "avrà fritto",
+        "avremo fritto",
+        "avrete fritto",
+        "avranno fritto"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "frigga",
+        "frigga",
+        "frigga",
+        "friggiamo",
+        "friggiate",
+        "friggano"
+      ],
+
+      "Imperfetto": [
+        "friggessi",
+        "friggessi",
+        "friggesse",
+        "friggessimo",
+        "friggeste",
+        "friggessero"
+      ],
+
+      "Passato": [
+        "abbia fritto",
+        "abbia fritto",
+        "abbia fritto",
+        "abbiamo fritto",
+        "abbiate fritto",
+        "abbiano fritto"
+      ],
+
+      "Trapassato": [
+        "avessi fritto",
+        "avessi fritto",
+        "avesse fritto",
+        "avessimo fritto",
+        "aveste fritto",
+        "avessero fritto"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "friggerei",
+        "friggeresti",
+        "friggerebbe",
+        "friggeremmo",
+        "friggereste",
+        "friggerebbero"
+      ],
+
+      "Passato": [
+        "avrei fritto",
+        "avresti fritto",
+        "avrebbe fritto",
+        "avremmo fritto",
+        "avreste fritto",
+        "avrebbero fritto"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "friggi",
+        "frigga",
+        "friggiamo",
+        "friggete",
+        "friggano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "friggere",
+        "avere fritto",
+        "friggente",
+        "fritto",
+        "friggendo",
+        "avendo fritto"
+      ]
+    }
+  }
+},
+{
+  "id": "soffriggere",
+  "sid": "2026-00168",
+  "word": "soffriggere",
+  "ipa": "/sofˈfriddʒere/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "soffritto",
+    "gerundPresent": "soffriggendo",
+    "pattern": "soffriggere qualcosa / soffriggere in + grasso / far soffriggere per + tempo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "cooking",
+      "restaurant"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "少量の油や脂で食材を軽く炒める",
+      "玉ねぎ・にんにく・香味野菜などを弱火から中火で炒める",
+      "料理の土台となる香味野菜を油で加熱する",
+      "食材が少量の油の中でジュージューと炒まる"
+    ],
+    "it": [
+      "Cuocere leggermente un alimento in una piccola quantità di olio o grasso.",
+      "Far cuocere a fuoco basso o medio cipolla, aglio, verdure aromatiche o altri ingredienti.",
+      "Preparare mediante cottura nel grasso la base aromatica di una pietanza.",
+      "Cuocersi producendo un leggero sfrigolio in una piccola quantità di grasso."
+    ]
+  },
+
+  "nuance": {
+    "ja": "少量の油・バターなどを使い、食材を焦がさずゆっくり加熱して香りや旨味を引き出す調理法を表す。friggereが多量の高温の油で揚げることを中心とするのに対し、soffriggereは料理の下準備として玉ねぎ・にんにくなどを軽く炒める場合に特によく使われる。過去分詞は不規則形soffrittoである。",
+    "it": "Indica una cottura leggera in poco olio, burro o altro grasso, generalmente a fuoco basso o medio, per sviluppare gli aromi senza bruciare gli ingredienti. Friggere richiama più facilmente la cottura in olio abbondante e molto caldo; soffriggere è tipico della preparazione di una base aromatica. Il participio passato è soffritto."
+  },
+
+  "etymology": {
+    "ja": "ラテン語subfrīgĕre（下から軽く焼く）に由来し、接頭辞sub-（下で、軽く）とfrīgĕre（焼く、揚げる）から成る。同じ語族にはfriggere、fritto、soffritto、fritturaなどがある。",
+    "it": "Dal latino subfrīgĕre, formato da sub-, con valore attenuativo, e frīgĕre, «arrostire, friggere». Alla stessa famiglia appartengono friggere, fritto, frittura e il sostantivo soffritto."
+  },
+
+  "minimal": [
+    {
+      "word": "soffriggere",
+      "ja": "少量の油で香味野菜などを弱火から中火で軽く炒める",
+      "it": "cuocere leggermente degli ingredienti in poco grasso per svilupparne gli aromi"
+    },
+    {
+      "word": "friggere",
+      "ja": "食材を高温の油・脂に入れて揚げる",
+      "it": "cuocere un alimento in olio o grasso ad alta temperatura"
+    },
+    {
+      "word": "rosolare",
+      "ja": "食材の表面を油脂で焼き、きつね色にして風味を付ける",
+      "it": "cuocere un alimento nel grasso fino a dorarne la superficie"
+    },
+    {
+      "word": "saltare",
+      "ja": "フライパンを動かしながら、食材を強めの火で手早く炒める",
+      "it": "cuocere rapidamente in padella muovendo frequentemente gli ingredienti"
+    }
+  ],
+
+  "synonyms": [
+    "far appassire",
+    "rosolare leggermente",
+    "cuocere nel grasso",
+    "sfrigolare",
+    "ripassare in padella"
+  ],
+
+  "equivalents": {
+    "en": [
+      "sauté",
+      "gently fry",
+      "sweat"
+    ],
+    "de": [
+      "andünsten",
+      "anschwitzen",
+      "leicht anbraten"
+    ],
+    "fr": [
+      "faire revenir",
+      "faire suer",
+      "faire rissoler légèrement"
+    ],
+    "es": [
+      "sofreír",
+      "rehogar"
+    ]
+  },
+
+  "collocations": [
+    "soffriggere nell’olio",
+    "soffriggere nel burro",
+    "soffriggere in poco olio",
+    "soffriggere a fuoco basso",
+    "soffriggere a fuoco medio",
+    "soffriggere lentamente",
+    "soffriggere leggermente",
+    "soffriggere per alcuni minuti",
+    "soffriggere la cipolla",
+    "soffriggere l’aglio",
+    "soffriggere lo scalogno",
+    "soffriggere il sedano",
+    "soffriggere le verdure",
+    "soffriggere la pancetta",
+    "soffriggere la carne",
+    "soffriggere gli aromi",
+    "far soffriggere",
+    "lasciare soffriggere",
+    "cominciare a soffriggere",
+    "soffriggere senza bruciare",
+    "soffriggere fino a doratura",
+    "soffriggere fino a quando la cipolla diventa trasparente",
+    "olio in cui soffriggere"
+  ],
+
+  "examples": [
+    {
+      "it": "Soffriggi la cipolla in poco olio.",
+      "ja": "玉ねぎを少量の油で炒めてください。"
+    },
+    {
+      "it": "Ho soffritto l’aglio a fuoco basso.",
+      "ja": "私はにんにくを弱火で炒めた。"
+    },
+    {
+      "it": "Lascia soffriggere le verdure per cinque minuti.",
+      "ja": "野菜を5分間炒めてください。"
+    },
+    {
+      "it": "La cipolla deve soffriggere senza bruciare.",
+      "ja": "玉ねぎは焦がさずに炒めなければならない。"
+    },
+    {
+      "it": "Stava soffriggendo il sedano e la carota nel burro.",
+      "ja": "彼女はセロリとにんじんをバターで炒めていた。"
+    },
+    {
+      "it": "Dopo aver soffritto la pancetta, aggiungi il pomodoro.",
+      "ja": "パンチェッタを炒めた後、トマトを加えてください。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "soffriggo",
+        "soffriggi",
+        "soffrigge",
+        "soffriggiamo",
+        "soffriggete",
+        "soffriggono"
+      ],
+
+      "Imperfetto": [
+        "soffriggevo",
+        "soffriggevi",
+        "soffriggeva",
+        "soffriggevamo",
+        "soffriggevate",
+        "soffriggevano"
+      ],
+
+      "Passato prossimo": [
+        "ho soffritto",
+        "hai soffritto",
+        "ha soffritto",
+        "abbiamo soffritto",
+        "avete soffritto",
+        "hanno soffritto"
+      ],
+
+      "Passato remoto": [
+        "soffrissi",
+        "soffriggesti",
+        "soffrisse",
+        "soffriggemmo",
+        "soffriggeste",
+        "soffrissero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo soffritto",
+        "avevi soffritto",
+        "aveva soffritto",
+        "avevamo soffritto",
+        "avevate soffritto",
+        "avevano soffritto"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi soffritto",
+        "avesti soffritto",
+        "ebbe soffritto",
+        "avemmo soffritto",
+        "aveste soffritto",
+        "ebbero soffritto"
+      ],
+
+      "Futuro semplice": [
+        "soffriggerò",
+        "soffriggerai",
+        "soffriggerà",
+        "soffriggeremo",
+        "soffriggerete",
+        "soffriggeranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò soffritto",
+        "avrai soffritto",
+        "avrà soffritto",
+        "avremo soffritto",
+        "avrete soffritto",
+        "avranno soffritto"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "soffrigga",
+        "soffrigga",
+        "soffrigga",
+        "soffriggiamo",
+        "soffriggiate",
+        "soffriggano"
+      ],
+
+      "Imperfetto": [
+        "soffriggessi",
+        "soffriggessi",
+        "soffriggesse",
+        "soffriggessimo",
+        "soffriggeste",
+        "soffriggessero"
+      ],
+
+      "Passato": [
+        "abbia soffritto",
+        "abbia soffritto",
+        "abbia soffritto",
+        "abbiamo soffritto",
+        "abbiate soffritto",
+        "abbiano soffritto"
+      ],
+
+      "Trapassato": [
+        "avessi soffritto",
+        "avessi soffritto",
+        "avesse soffritto",
+        "avessimo soffritto",
+        "aveste soffritto",
+        "avessero soffritto"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "soffriggerei",
+        "soffriggeresti",
+        "soffriggerebbe",
+        "soffriggeremmo",
+        "soffriggereste",
+        "soffriggerebbero"
+      ],
+
+      "Passato": [
+        "avrei soffritto",
+        "avresti soffritto",
+        "avrebbe soffritto",
+        "avremmo soffritto",
+        "avreste soffritto",
+        "avrebbero soffritto"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "soffriggi",
+        "soffrigga",
+        "soffriggiamo",
+        "soffriggete",
+        "soffriggano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "soffriggere",
+        "avere soffritto",
+        "soffriggente",
+        "soffritto",
+        "soffriggendo",
+        "avendo soffritto"
+      ]
+    }
+  }
 }
 ]
 
