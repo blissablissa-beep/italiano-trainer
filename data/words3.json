@@ -3186,6 +3186,3524 @@
       ]
     }
   }
+},
+{
+  "id": "cessare",
+  "sid": "2026-00131",
+  "word": "cessare",
+  "ipa": "/tʃesˈsare/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "essere（自動詞）／avere（他動詞・cessare di）",
+    "pastParticiple": "cessato",
+    "gerundPresent": "cessando",
+    "pattern": "cessare / cessare di + infinito / cessare un’attività"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "business",
+      "academic",
+      "legal",
+      "administrative",
+      "journalistic"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "活動・現象・状態などが終わる、止む",
+      "行為をやめる、中止する",
+      "事業・業務・生産などを終了する",
+      "役職・資格・効力などを失う、終了する"
+    ],
+    "it": [
+      "Finire o interrompersi, con riferimento a un’attività, un fenomeno o una condizione.",
+      "Smettere di compiere un’azione.",
+      "Interrompere definitivamente un’attività, un servizio o una produzione.",
+      "Non esercitare più una funzione o non produrre più determinati effetti."
+    ]
+  },
+
+  "nuance": {
+    "ja": "日常語のsmettereより改まった響きがあり、業務・効力・戦闘・騒音・雨などが終了する場合によく使われる。cessare di + 不定詞は「～するのをやめる」を表す。自動詞として現象や活動が終わる場合はessere、目的語を取って活動を終了する場合やcessare diの構文ではavereが一般的である。",
+    "it": "Ha spesso un tono più formale di smettere ed è frequente in riferimento ad attività economiche, effetti giuridici, ostilità, rumori o fenomeni atmosferici. Cessare di seguito dall’infinito significa smettere di fare qualcosa. Nell’uso intransitivo è comune essere; nell’uso transitivo e nella costruzione cessare di si usa normalmente avere."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 cessāre（止まる、遅れる、活動しない）に由来する。これはcēdere（進む、退く、譲る）の反復・強意形である。同じ語族にはcessazione、incessante、concessioneなどがある。",
+    "it": "Dal latino cessāre, «fermarsi, indugiare, restare inattivo», forma intensiva di cēdere. Alla stessa famiglia appartengono cessazione, incessante e recesso."
+  },
+
+  "minimal": [
+    {
+      "word": "cessare",
+      "ja": "活動・効力・現象が終了することを、比較的改まって表す",
+      "it": "indicare in modo relativamente formale la fine di un’attività, di un effetto o di un fenomeno"
+    },
+    {
+      "word": "smettere",
+      "ja": "続けていた行為をやめることを日常的に表す",
+      "it": "interrompere nel linguaggio comune un’azione che si stava continuando"
+    },
+    {
+      "word": "interrompere",
+      "ja": "進行中の行為・流れを途中で止めるが、再開する可能性もある",
+      "it": "fermare qualcosa mentre è in corso, anche soltanto temporaneamente"
+    }
+  ],
+
+  "synonyms": [
+    "smettere",
+    "terminare",
+    "finire",
+    "interrompere",
+    "concludersi"
+  ],
+
+  "equivalents": {
+    "en": [
+      "cease",
+      "stop",
+      "discontinue"
+    ],
+    "de": [
+      "aufhören",
+      "einstellen",
+      "enden"
+    ],
+    "fr": [
+      "cesser",
+      "arrêter",
+      "prendre fin"
+    ],
+    "es": [
+      "cesar",
+      "dejar de",
+      "terminar"
+    ]
+  },
+
+  "collocations": [
+    "cessare immediatamente",
+    "cessare definitivamente",
+    "cessare gradualmente",
+    "cessare di esistere",
+    "cessare di funzionare",
+    "cessare di lavorare",
+    "cessare di produrre",
+    "cessare di essere",
+    "cessare il fuoco",
+    "cessare le ostilità",
+    "cessare un’attività",
+    "cessare la produzione",
+    "cessare il servizio",
+    "cessare ogni rapporto",
+    "cessare dalle funzioni",
+    "cessare dalla carica",
+    "il rumore è cessato",
+    "la pioggia è cessata",
+    "senza mai cessare",
+    "ordine di cessare"
+  ],
+
+  "examples": [
+    {
+      "it": "La pioggia è cessata verso mezzanotte.",
+      "ja": "雨は真夜中ごろに止んだ。"
+    },
+    {
+      "it": "Il rumore è cessato improvvisamente.",
+      "ja": "騒音は突然止んだ。"
+    },
+    {
+      "it": "L’azienda ha cessato la produzione di quel modello.",
+      "ja": "その会社はその型式の生産を終了した。"
+    },
+    {
+      "it": "Ha cessato di lavorare all’età di sessantacinque anni.",
+      "ja": "彼は65歳で働くことをやめた。"
+    },
+    {
+      "it": "Le parti hanno accettato di cessare le ostilità.",
+      "ja": "当事者らは敵対行為を停止することに同意した。"
+    },
+    {
+      "it": "Il contratto cesserà di avere effetto alla fine del mese.",
+      "ja": "その契約は月末に効力を失う。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "cesso",
+        "cessi",
+        "cessa",
+        "cessiamo",
+        "cessate",
+        "cessano"
+      ],
+
+      "Imperfetto": [
+        "cessavo",
+        "cessavi",
+        "cessava",
+        "cessavamo",
+        "cessavate",
+        "cessavano"
+      ],
+
+      "Passato prossimo": [
+        "ho cessato / sono cessato/a",
+        "hai cessato / sei cessato/a",
+        "ha cessato / è cessato/a",
+        "abbiamo cessato / siamo cessati/e",
+        "avete cessato / siete cessati/e",
+        "hanno cessato / sono cessati/e"
+      ],
+
+      "Passato remoto": [
+        "cessai",
+        "cessasti",
+        "cessò",
+        "cessammo",
+        "cessaste",
+        "cessarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo cessato / ero cessato/a",
+        "avevi cessato / eri cessato/a",
+        "aveva cessato / era cessato/a",
+        "avevamo cessato / eravamo cessati/e",
+        "avevate cessato / eravate cessati/e",
+        "avevano cessato / erano cessati/e"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi cessato / fui cessato/a",
+        "avesti cessato / fosti cessato/a",
+        "ebbe cessato / fu cessato/a",
+        "avemmo cessato / fummo cessati/e",
+        "aveste cessato / foste cessati/e",
+        "ebbero cessato / furono cessati/e"
+      ],
+
+      "Futuro semplice": [
+        "cesserò",
+        "cesserai",
+        "cesserà",
+        "cesseremo",
+        "cesserete",
+        "cesseranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò cessato / sarò cessato/a",
+        "avrai cessato / sarai cessato/a",
+        "avrà cessato / sarà cessato/a",
+        "avremo cessato / saremo cessati/e",
+        "avrete cessato / sarete cessati/e",
+        "avranno cessato / saranno cessati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "cessi",
+        "cessi",
+        "cessi",
+        "cessiamo",
+        "cessiate",
+        "cessino"
+      ],
+
+      "Imperfetto": [
+        "cessassi",
+        "cessassi",
+        "cessasse",
+        "cessassimo",
+        "cessaste",
+        "cessassero"
+      ],
+
+      "Passato": [
+        "abbia cessato / sia cessato/a",
+        "abbia cessato / sia cessato/a",
+        "abbia cessato / sia cessato/a",
+        "abbiamo cessato / siamo cessati/e",
+        "abbiate cessato / siate cessati/e",
+        "abbiano cessato / siano cessati/e"
+      ],
+
+      "Trapassato": [
+        "avessi cessato / fossi cessato/a",
+        "avessi cessato / fossi cessato/a",
+        "avesse cessato / fosse cessato/a",
+        "avessimo cessato / fossimo cessati/e",
+        "aveste cessato / foste cessati/e",
+        "avessero cessato / fossero cessati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "cesserei",
+        "cesseresti",
+        "cesserebbe",
+        "cesseremmo",
+        "cessereste",
+        "cesserebbero"
+      ],
+
+      "Passato": [
+        "avrei cessato / sarei cessato/a",
+        "avresti cessato / saresti cessato/a",
+        "avrebbe cessato / sarebbe cessato/a",
+        "avremmo cessato / saremmo cessati/e",
+        "avreste cessato / sareste cessati/e",
+        "avrebbero cessato / sarebbero cessati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "cessa",
+        "cessi",
+        "cessiamo",
+        "cessate",
+        "cessino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "cessare",
+        "avere cessato / essere cessato/a/i/e",
+        "cessante",
+        "cessato",
+        "cessando",
+        "avendo cessato / essendo cessato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "completare",
+  "sid": "2026-00132",
+  "word": "completare",
+  "ipa": "/kompleˈtare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "completato",
+    "gerundPresent": "completando",
+    "pattern": "completare qualcosa / completare qualcosa con + nome / completare + attività"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "administrative",
+      "technology"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "作業・計画・課程などを完了する",
+      "不足している部分を補って完全な状態にする",
+      "書類・申請・手続きなどを完成させる",
+      "一連の項目・段階・収集物などをすべてそろえる"
+    ],
+    "it": [
+      "Portare a termine un lavoro, un progetto, un corso o un’attività.",
+      "Aggiungere ciò che manca per rendere qualcosa intero o completo.",
+      "Concludere la compilazione o lo svolgimento di un documento o di una procedura.",
+      "Riunire tutti gli elementi necessari di una serie, di un insieme o di un percorso."
+    ]
+  },
+
+  "nuance": {
+    "ja": "何かを終えるだけでなく、不足部分を補って完全な状態にすることに重点がある。finireは単に物事が終わる、または終わらせることを表し、completareは必要な項目・部分・段階がすべてそろったことを示す。compiereは行為・任務を遂行するという、より改まった表現である。",
+    "it": "Non indica soltanto la fine di un’attività, ma spesso il raggiungimento di uno stato in cui non manca più nulla. Finire mette maggiormente in rilievo il termine temporale; completare sottolinea che tutte le parti o le fasi necessarie sono state eseguite. Compiere è spesso più formale e si associa ad azioni, doveri o imprese."
+  },
+
+  "etymology": {
+    "ja": "形容詞completoから形成された動詞である。completoはラテン語complētus（満たされた、完成した）に由来し、これはcomplēre（完全に満たす）の過去分詞である。",
+    "it": "Derivato dall’aggettivo completo, che risale al latino complētus, participio passato di complēre, «riempire interamente, portare a compimento»."
+  },
+
+  "minimal": [
+    {
+      "word": "completare",
+      "ja": "不足部分や未完了の段階を補い、完全な状態にする",
+      "it": "aggiungere o svolgere ciò che manca fino a rendere qualcosa completo"
+    },
+    {
+      "word": "finire",
+      "ja": "行為・期間・物事を終える、または終わる",
+      "it": "arrivare o portare al termine temporale di qualcosa"
+    },
+    {
+      "word": "compiere",
+      "ja": "まとまりのある行為・任務・過程を最後まで遂行する",
+      "it": "eseguire fino al termine un’azione, un compito o un percorso"
+    }
+  ],
+
+  "synonyms": [
+    "terminare",
+    "finire",
+    "concludere",
+    "ultimare",
+    "perfezionare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "complete",
+      "finish",
+      "fill out"
+    ],
+    "de": [
+      "vervollständigen",
+      "abschließen",
+      "ausfüllen"
+    ],
+    "fr": [
+      "compléter",
+      "achever",
+      "remplir"
+    ],
+    "es": [
+      "completar",
+      "terminar",
+      "rellenar"
+    ]
+  },
+
+  "collocations": [
+    "completare un lavoro",
+    "completare un progetto",
+    "completare un’attività",
+    "completare un compito",
+    "completare un corso",
+    "completare gli studi",
+    "completare la formazione",
+    "completare una ricerca",
+    "completare un percorso",
+    "completare una procedura",
+    "completare una richiesta",
+    "completare una domanda",
+    "completare un modulo",
+    "completare un documento",
+    "completare una registrazione",
+    "completare un pagamento",
+    "completare un acquisto",
+    "completare una frase",
+    "completare una serie",
+    "completare con successo",
+    "completare correttamente",
+    "completare entro una data"
+  ],
+
+  "examples": [
+    {
+      "it": "Dobbiamo completare il progetto entro venerdì.",
+      "ja": "私たちは金曜日までにその計画を完成させなければならない。"
+    },
+    {
+      "it": "Ho finalmente completato il corso di italiano.",
+      "ja": "私はついにイタリア語講座を修了した。"
+    },
+    {
+      "it": "Per favore, completi questo modulo.",
+      "ja": "この用紙に必要事項を記入してください。"
+    },
+    {
+      "it": "Mancano ancora alcuni dati per completare la domanda.",
+      "ja": "申請を完成させるには、まだいくつかのデータが足りない。"
+    },
+    {
+      "it": "L’utente deve completare la registrazione entro ventiquattro ore.",
+      "ja": "利用者は24時間以内に登録を完了しなければならない。"
+    },
+    {
+      "it": "Il nuovo edificio completerà il progetto di riqualificazione.",
+      "ja": "その新しい建物によって再開発計画が完成する。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "completo",
+        "completi",
+        "completa",
+        "completiamo",
+        "completate",
+        "completano"
+      ],
+
+      "Imperfetto": [
+        "completavo",
+        "completavi",
+        "completava",
+        "completavamo",
+        "completavate",
+        "completavano"
+      ],
+
+      "Passato prossimo": [
+        "ho completato",
+        "hai completato",
+        "ha completato",
+        "abbiamo completato",
+        "avete completato",
+        "hanno completato"
+      ],
+
+      "Passato remoto": [
+        "completai",
+        "completasti",
+        "completò",
+        "completammo",
+        "completaste",
+        "completarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo completato",
+        "avevi completato",
+        "aveva completato",
+        "avevamo completato",
+        "avevate completato",
+        "avevano completato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi completato",
+        "avesti completato",
+        "ebbe completato",
+        "avemmo completato",
+        "aveste completato",
+        "ebbero completato"
+      ],
+
+      "Futuro semplice": [
+        "completerò",
+        "completerai",
+        "completerà",
+        "completeremo",
+        "completerete",
+        "completeranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò completato",
+        "avrai completato",
+        "avrà completato",
+        "avremo completato",
+        "avrete completato",
+        "avranno completato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "completi",
+        "completi",
+        "completi",
+        "completiamo",
+        "completiate",
+        "completino"
+      ],
+
+      "Imperfetto": [
+        "completassi",
+        "completassi",
+        "completasse",
+        "completassimo",
+        "completaste",
+        "completassero"
+      ],
+
+      "Passato": [
+        "abbia completato",
+        "abbia completato",
+        "abbia completato",
+        "abbiamo completato",
+        "abbiate completato",
+        "abbiano completato"
+      ],
+
+      "Trapassato": [
+        "avessi completato",
+        "avessi completato",
+        "avesse completato",
+        "avessimo completato",
+        "aveste completato",
+        "avessero completato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "completerei",
+        "completeresti",
+        "completerebbe",
+        "completeremmo",
+        "completereste",
+        "completerebbero"
+      ],
+
+      "Passato": [
+        "avrei completato",
+        "avresti completato",
+        "avrebbe completato",
+        "avremmo completato",
+        "avreste completato",
+        "avrebbero completato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "completa",
+        "completi",
+        "completiamo",
+        "completate",
+        "completino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "completare",
+        "avere completato",
+        "completante",
+        "completato",
+        "completando",
+        "avendo completato"
+      ]
+    }
+  }
+},
+{
+  "id": "decidere",
+  "sid": "2026-00133",
+  "word": "decidere",
+  "ipa": "/deˈtʃidere/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "deciso",
+    "gerundPresent": "decidendo",
+    "pattern": "decidere qualcosa / decidere di + infinito / decidere che + frase"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "legal",
+      "administrative"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "複数の選択肢から決める、決定する",
+      "検討したうえで行動方針を定める",
+      "～することを決心する",
+      "議論・争い・問題などに決着をつける",
+      "人に特定の行動を決心させる"
+    ],
+    "it": [
+      "Stabilire una scelta tra diverse possibilità.",
+      "Determinare una linea d’azione dopo aver valutato la situazione.",
+      "Prendere la risoluzione di compiere un’azione.",
+      "Risolvere definitivamente una questione, una controversia o un problema.",
+      "Indurre qualcuno a prendere una determinata decisione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "検討・迷い・選択を経て、一つの方針や結論を確定することを表す。decidere di + 不定詞では主語自身が「～することを決める」、decidere qualcosaでは事項を決定する。再帰形decidersi a + 不定詞は、ためらいの末にようやく決心するというニュアンスを持つ。",
+    "it": "Indica il passaggio dalla valutazione o dall’incertezza a una scelta definita. Decidere di seguito dall’infinito riguarda normalmente un’azione del soggetto; decidere qualcosa riguarda la questione su cui viene presa una decisione. La forma decidersi a sottolinea spesso il superamento di un’esitazione."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 dēcīdĕre（切り離す、決着をつける）に由来し、接頭辞de-とcaedere（切る）から成る。複数の可能性を「切り分ける」ことから、一つの結論を選ぶという意味が生じた。deciso、decisioneも同じ語族である。",
+    "it": "Dal latino dēcīdĕre, formato da de- e caedere, «tagliare». Dall’idea di recidere ed eliminare le alternative si è sviluppato il significato di stabilire una soluzione. Alla stessa famiglia appartengono decisione e deciso."
+  },
+
+  "minimal": [
+    {
+      "word": "decidere",
+      "ja": "選択肢を検討し、一つの方針や結論を確定する",
+      "it": "stabilire una scelta o una linea d’azione tra diverse possibilità"
+    },
+    {
+      "word": "scegliere",
+      "ja": "複数の人・物・方法から一つ以上を選び取る",
+      "it": "selezionare una persona, una cosa o una possibilità tra varie alternative"
+    },
+    {
+      "word": "stabilire",
+      "ja": "規則・日時・条件・方針などを正式または明確に定める",
+      "it": "fissare in modo preciso o formale una regola, una data, una condizione o un criterio"
+    }
+  ],
+
+  "synonyms": [
+    "stabilire",
+    "determinare",
+    "scegliere",
+    "deliberare",
+    "risolvere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "decide",
+      "determine",
+      "resolve"
+    ],
+    "de": [
+      "entscheiden",
+      "beschließen",
+      "festlegen"
+    ],
+    "fr": [
+      "décider",
+      "déterminer",
+      "trancher"
+    ],
+    "es": [
+      "decidir",
+      "determinar",
+      "resolver"
+    ]
+  },
+
+  "collocations": [
+    "decidere qualcosa",
+    "decidere tutto",
+    "decidere insieme",
+    "decidere autonomamente",
+    "decidere definitivamente",
+    "decidere rapidamente",
+    "decidere con calma",
+    "decidere di partire",
+    "decidere di restare",
+    "decidere di cambiare",
+    "decidere di accettare",
+    "decidere di rinunciare",
+    "decidere che cosa fare",
+    "decidere dove andare",
+    "decidere quando partire",
+    "decidere il futuro",
+    "decidere una questione",
+    "decidere una controversia",
+    "essere difficile da decidere",
+    "non riuscire a decidere",
+    "spetta a qualcuno decidere",
+    "prima di decidere"
+  ],
+
+  "examples": [
+    {
+      "it": "Non ho ancora deciso che cosa fare.",
+      "ja": "私はまだ何をするか決めていない。"
+    },
+    {
+      "it": "Abbiamo deciso di partire domani mattina.",
+      "ja": "私たちは明日の朝に出発することに決めた。"
+    },
+    {
+      "it": "Devi decidere entro la fine della settimana.",
+      "ja": "週末までに決めなければならない。"
+    },
+    {
+      "it": "Il consiglio deciderà la questione il mese prossimo.",
+      "ja": "評議会は来月その問題について決定を下す。"
+    },
+    {
+      "it": "Spetta al giudice decidere.",
+      "ja": "決定するのは裁判官である。"
+    },
+    {
+      "it": "Finalmente si è deciso a chiedere aiuto.",
+      "ja": "彼はついに助けを求める決心をした。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "decido",
+        "decidi",
+        "decide",
+        "decidiamo",
+        "decidete",
+        "decidono"
+      ],
+
+      "Imperfetto": [
+        "decidevo",
+        "decidevi",
+        "decideva",
+        "decidevamo",
+        "decidevate",
+        "decidevano"
+      ],
+
+      "Passato prossimo": [
+        "ho deciso",
+        "hai deciso",
+        "ha deciso",
+        "abbiamo deciso",
+        "avete deciso",
+        "hanno deciso"
+      ],
+
+      "Passato remoto": [
+        "decisi",
+        "decidesti",
+        "decise",
+        "decidemmo",
+        "decideste",
+        "decisero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo deciso",
+        "avevi deciso",
+        "aveva deciso",
+        "avevamo deciso",
+        "avevate deciso",
+        "avevano deciso"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi deciso",
+        "avesti deciso",
+        "ebbe deciso",
+        "avemmo deciso",
+        "aveste deciso",
+        "ebbero deciso"
+      ],
+
+      "Futuro semplice": [
+        "deciderò",
+        "deciderai",
+        "deciderà",
+        "decideremo",
+        "deciderete",
+        "decideranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò deciso",
+        "avrai deciso",
+        "avrà deciso",
+        "avremo deciso",
+        "avrete deciso",
+        "avranno deciso"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "decida",
+        "decida",
+        "decida",
+        "decidiamo",
+        "decidiate",
+        "decidano"
+      ],
+
+      "Imperfetto": [
+        "decidessi",
+        "decidessi",
+        "decidesse",
+        "decidessimo",
+        "decideste",
+        "decidessero"
+      ],
+
+      "Passato": [
+        "abbia deciso",
+        "abbia deciso",
+        "abbia deciso",
+        "abbiamo deciso",
+        "abbiate deciso",
+        "abbiano deciso"
+      ],
+
+      "Trapassato": [
+        "avessi deciso",
+        "avessi deciso",
+        "avesse deciso",
+        "avessimo deciso",
+        "aveste deciso",
+        "avessero deciso"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "deciderei",
+        "decideresti",
+        "deciderebbe",
+        "decideremmo",
+        "decidereste",
+        "deciderebbero"
+      ],
+
+      "Passato": [
+        "avrei deciso",
+        "avresti deciso",
+        "avrebbe deciso",
+        "avremmo deciso",
+        "avreste deciso",
+        "avrebbero deciso"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "decidi",
+        "decida",
+        "decidiamo",
+        "decidete",
+        "decidano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "decidere",
+        "avere deciso",
+        "decidente",
+        "deciso",
+        "decidendo",
+        "avendo deciso"
+      ]
+    }
+  }
+},
+{
+  "id": "desiderare",
+  "sid": "2026-00134",
+  "word": "desiderare",
+  "ipa": "/dezideˈrare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "desiderato",
+    "gerundPresent": "desiderando",
+    "pattern": "desiderare + nome / desiderare + infinito / desiderare che + congiuntivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "social",
+      "formal_correspondence"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "物・状態・結果などを望む、欲する",
+      "～したいと願う",
+      "人に何かをしてほしいと望む",
+      "人や物を恋しく思う、強く求める",
+      "丁寧または改まった形で希望・意向を表す"
+    ],
+    "it": [
+      "Volere ottenere, possedere o realizzare qualcosa.",
+      "Avere la volontà o il desiderio di compiere un’azione.",
+      "Volere che qualcuno faccia qualcosa.",
+      "Sentire la mancanza o una forte attrazione verso qualcuno o qualcosa.",
+      "Esprimere una richiesta o un’intenzione in modo cortese o formale."
+    ]
+  },
+
+  "nuance": {
+    "ja": "volereよりも意識的・持続的で、しばしば改まった願望を表す。日常会話ではvoglioやvorreiが一般的だが、手紙・接客・業務ではdesidero sapere、desidera altro?のように丁寧な表現として使われる。desiderare cheの後では、望まれる行為の主語が異なるため、通常は接続法を用いる。",
+    "it": "Esprime spesso un desiderio consapevole, intenso o relativamente formale. Nel parlato quotidiano volere è generalmente più comune, mentre desiderare ricorre frequentemente nella corrispondenza, nel servizio al pubblico e nelle richieste cortesi. Desiderare che è normalmente seguito dal congiuntivo."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 dēsīderāre（求める、失ったものを惜しむ）に由来する。この語は伝統的にsidus（星、星座）と関連づけられ、星を見いだせない状態から「不在を感じる」「強く求める」という意味が発達したと説明される。",
+    "it": "Dal latino dēsīderāre, «sentire la mancanza, rimpiangere, desiderare», tradizionalmente collegato a sidus, «stella, costellazione». Alla stessa famiglia appartengono desiderio e desiderabile."
+  },
+
+  "minimal": [
+    {
+      "word": "desiderare",
+      "ja": "意識的・持続的、または改まった願望を表す",
+      "it": "esprimere un desiderio consapevole, intenso o formale"
+    },
+    {
+      "word": "volere",
+      "ja": "日常的かつ直接的に、欲求・意志・要求を表す",
+      "it": "esprimere direttamente una volontà, una richiesta o un bisogno"
+    },
+    {
+      "word": "sperare",
+      "ja": "不確実な好ましい出来事が実現することを期待する",
+      "it": "attendere con fiducia la realizzazione di un evento favorevole ma incerto"
+    }
+  ],
+
+  "synonyms": [
+    "volere",
+    "bramare",
+    "ambire a",
+    "auspicare",
+    "aspirare a"
+  ],
+
+  "equivalents": {
+    "en": [
+      "desire",
+      "wish",
+      "want"
+    ],
+    "de": [
+      "wünschen",
+      "begehren",
+      "verlangen"
+    ],
+    "fr": [
+      "désirer",
+      "souhaiter",
+      "vouloir"
+    ],
+    "es": [
+      "desear",
+      "querer",
+      "anhelar"
+    ]
+  },
+
+  "collocations": [
+    "desiderare qualcosa",
+    "desiderare una risposta",
+    "desiderare un cambiamento",
+    "desiderare la pace",
+    "desiderare il successo",
+    "desiderare la felicità",
+    "desiderare ardentemente",
+    "desiderare sinceramente",
+    "desiderare fortemente",
+    "desiderare da tempo",
+    "desiderare fare qualcosa",
+    "desiderare sapere",
+    "desiderare conoscere",
+    "desiderare ricevere",
+    "desiderare che qualcuno faccia qualcosa",
+    "essere molto desiderato",
+    "lasciare a desiderare",
+    "nulla da desiderare",
+    "quanto desiderato",
+    "se lo desidera",
+    "desidera altro?"
+  ],
+
+  "examples": [
+    {
+      "it": "Desidero imparare meglio l’italiano.",
+      "ja": "私はイタリア語をもっと上手に学びたい。"
+    },
+    {
+      "it": "Desidera qualcos’altro?",
+      "ja": "ほかに何かご希望ですか。"
+    },
+    {
+      "it": "Desideriamo ricevere una risposta entro venerdì.",
+      "ja": "私たちは金曜日までに回答をいただきたいと考えています。"
+    },
+    {
+      "it": "Voglio che tu faccia ciò che desideri.",
+      "ja": "あなたには自分の望むことをしてほしい。"
+    },
+    {
+      "it": "Aveva sempre desiderato visitare Firenze.",
+      "ja": "彼女は以前からずっとフィレンツェを訪れたいと願っていた。"
+    },
+    {
+      "it": "Il risultato lascia molto a desiderare.",
+      "ja": "その結果には大いに改善の余地がある。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "desidero",
+        "desideri",
+        "desidera",
+        "desideriamo",
+        "desiderate",
+        "desiderano"
+      ],
+
+      "Imperfetto": [
+        "desideravo",
+        "desideravi",
+        "desiderava",
+        "desideravamo",
+        "desideravate",
+        "desideravano"
+      ],
+
+      "Passato prossimo": [
+        "ho desiderato",
+        "hai desiderato",
+        "ha desiderato",
+        "abbiamo desiderato",
+        "avete desiderato",
+        "hanno desiderato"
+      ],
+
+      "Passato remoto": [
+        "desiderai",
+        "desiderasti",
+        "desiderò",
+        "desiderammo",
+        "desideraste",
+        "desiderarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo desiderato",
+        "avevi desiderato",
+        "aveva desiderato",
+        "avevamo desiderato",
+        "avevate desiderato",
+        "avevano desiderato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi desiderato",
+        "avesti desiderato",
+        "ebbe desiderato",
+        "avemmo desiderato",
+        "aveste desiderato",
+        "ebbero desiderato"
+      ],
+
+      "Futuro semplice": [
+        "desidererò",
+        "desidererai",
+        "desidererà",
+        "desidereremo",
+        "desidererete",
+        "desidereranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò desiderato",
+        "avrai desiderato",
+        "avrà desiderato",
+        "avremo desiderato",
+        "avrete desiderato",
+        "avranno desiderato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "desideri",
+        "desideri",
+        "desideri",
+        "desideriamo",
+        "desideriate",
+        "desiderino"
+      ],
+
+      "Imperfetto": [
+        "desiderassi",
+        "desiderassi",
+        "desiderasse",
+        "desiderassimo",
+        "desideraste",
+        "desiderassero"
+      ],
+
+      "Passato": [
+        "abbia desiderato",
+        "abbia desiderato",
+        "abbia desiderato",
+        "abbiamo desiderato",
+        "abbiate desiderato",
+        "abbiano desiderato"
+      ],
+
+      "Trapassato": [
+        "avessi desiderato",
+        "avessi desiderato",
+        "avesse desiderato",
+        "avessimo desiderato",
+        "aveste desiderato",
+        "avessero desiderato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "desidererei",
+        "desidereresti",
+        "desidererebbe",
+        "desidereremmo",
+        "desiderereste",
+        "desidererebbero"
+      ],
+
+      "Passato": [
+        "avrei desiderato",
+        "avresti desiderato",
+        "avrebbe desiderato",
+        "avremmo desiderato",
+        "avreste desiderato",
+        "avrebbero desiderato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "desidera",
+        "desideri",
+        "desideriamo",
+        "desiderate",
+        "desiderino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "desiderare",
+        "avere desiderato",
+        "desiderante",
+        "desiderato",
+        "desiderando",
+        "avendo desiderato"
+      ]
+    }
+  }
+},
+{
+  "id": "frequentare",
+  "sid": "2026-00135",
+  "word": "frequentare",
+  "ipa": "/frekwenˈtare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "frequentato",
+    "gerundPresent": "frequentando",
+    "pattern": "frequentare + luogo, corso o persona / frequentarsi con qualcuno"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "education",
+      "social",
+      "business"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "学校・講座・授業などに通う、受講する",
+      "場所へ定期的または頻繁に通う",
+      "人と付き合う、交流する",
+      "人と恋愛関係を前提に交際する",
+      "特定の集団・環境に出入りする"
+    ],
+    "it": [
+      "Seguire regolarmente una scuola, un corso o delle lezioni.",
+      "Recarsi abitualmente o spesso in un determinato luogo.",
+      "Avere rapporti sociali regolari con una persona o un gruppo.",
+      "Avere una relazione sentimentale o conoscersi in vista di essa.",
+      "Far parte abitualmente di un determinato ambiente sociale o culturale."
+    ]
+  },
+
+  "nuance": {
+    "ja": "一度だけ訪れるのではなく、ある場所・授業・人物と継続的または反復的に接触することを表す。frequentare una scuolaは、建物を訪問するのではなく「その学校に通う」という意味である。人を目的語にすると、単なる交流から恋愛上の交際まで表せるため、意味は文脈によって決まる。",
+    "it": "Indica un rapporto abituale o ripetuto con un luogo, un’attività, una persona o un ambiente. Frequentare una scuola significa seguirne regolarmente le lezioni, non semplicemente visitarla. Con una persona può indicare una normale relazione sociale oppure, secondo il contesto, una relazione sentimentale."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 frequentāre（頻繁に訪れる、多数で満たす）に由来し、形容詞frequens（多数の、頻繁な、人の多い）から形成された。同じ語族にはfrequente、frequenza、frequentazioneなどがある。",
+    "it": "Dal latino frequentāre, «visitare spesso, rendere affollato», derivato da frequens, «numeroso, assiduo, frequente». Alla stessa famiglia appartengono frequente, frequenza e frequentazione."
+  },
+
+  "minimal": [
+    {
+      "word": "frequentare",
+      "ja": "場所・授業・人などと継続的または反復的に関わる",
+      "it": "avere un rapporto abituale e ripetuto con un luogo, un’attività o una persona"
+    },
+    {
+      "word": "visitare",
+      "ja": "場所や人のもとを、特定の機会に訪れる",
+      "it": "recarsi presso una persona o un luogo in una determinata occasione"
+    },
+    {
+      "word": "partecipare",
+      "ja": "行事・会議・活動などに参加して、その一員となる",
+      "it": "prendere parte a un evento, una riunione o un’attività"
+    }
+  ],
+
+  "synonyms": [
+    "seguire",
+    "assistere a",
+    "andare abitualmente",
+    "vedere",
+    "praticare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "attend",
+      "frequent",
+      "date"
+    ],
+    "de": [
+      "besuchen",
+      "verkehren mit",
+      "mit jemandem ausgehen"
+    ],
+    "fr": [
+      "fréquenter",
+      "suivre",
+      "sortir avec"
+    ],
+    "es": [
+      "frecuentar",
+      "asistir a",
+      "salir con"
+    ]
+  },
+
+  "collocations": [
+    "frequentare una scuola",
+    "frequentare l’università",
+    "frequentare un corso",
+    "frequentare le lezioni",
+    "frequentare il primo anno",
+    "frequentare regolarmente",
+    "frequentare assiduamente",
+    "frequentare una palestra",
+    "frequentare una biblioteca",
+    "frequentare un locale",
+    "frequentare un ristorante",
+    "frequentare un ambiente",
+    "frequentare un gruppo",
+    "frequentare gli amici",
+    "frequentare qualcuno",
+    "frequentare una ragazza",
+    "frequentare un ragazzo",
+    "cominciare a frequentare qualcuno",
+    "smettere di frequentare qualcuno",
+    "persone che si frequentano"
+  ],
+
+  "examples": [
+    {
+      "it": "Frequento un corso di italiano due volte alla settimana.",
+      "ja": "私は週に2回イタリア語講座に通っている。"
+    },
+    {
+      "it": "Mia figlia frequenta ancora l’università.",
+      "ja": "私の娘はまだ大学に通っている。"
+    },
+    {
+      "it": "Abbiamo frequentato spesso quel ristorante.",
+      "ja": "私たちはそのレストランによく通った。"
+    },
+    {
+      "it": "Da quanto tempo frequenti Marco?",
+      "ja": "マルコとはどのくらい前から付き合っているのですか。"
+    },
+    {
+      "it": "Non frequento più quel gruppo.",
+      "ja": "私はもうそのグループとは付き合っていない。"
+    },
+    {
+      "it": "È importante frequentare regolarmente le lezioni.",
+      "ja": "授業に定期的に出席することが重要だ。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "frequento",
+        "frequenti",
+        "frequenta",
+        "frequentiamo",
+        "frequentate",
+        "frequentano"
+      ],
+
+      "Imperfetto": [
+        "frequentavo",
+        "frequentavi",
+        "frequentava",
+        "frequentavamo",
+        "frequentavate",
+        "frequentavano"
+      ],
+
+      "Passato prossimo": [
+        "ho frequentato",
+        "hai frequentato",
+        "ha frequentato",
+        "abbiamo frequentato",
+        "avete frequentato",
+        "hanno frequentato"
+      ],
+
+      "Passato remoto": [
+        "frequentai",
+        "frequentasti",
+        "frequentò",
+        "frequentammo",
+        "frequentaste",
+        "frequentarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo frequentato",
+        "avevi frequentato",
+        "aveva frequentato",
+        "avevamo frequentato",
+        "avevate frequentato",
+        "avevano frequentato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi frequentato",
+        "avesti frequentato",
+        "ebbe frequentato",
+        "avemmo frequentato",
+        "aveste frequentato",
+        "ebbero frequentato"
+      ],
+
+      "Futuro semplice": [
+        "frequenterò",
+        "frequenterai",
+        "frequenterà",
+        "frequenteremo",
+        "frequenterete",
+        "frequenteranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò frequentato",
+        "avrai frequentato",
+        "avrà frequentato",
+        "avremo frequentato",
+        "avrete frequentato",
+        "avranno frequentato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "frequenti",
+        "frequenti",
+        "frequenti",
+        "frequentiamo",
+        "frequentiate",
+        "frequentino"
+      ],
+
+      "Imperfetto": [
+        "frequentassi",
+        "frequentassi",
+        "frequentasse",
+        "frequentassimo",
+        "frequentaste",
+        "frequentassero"
+      ],
+
+      "Passato": [
+        "abbia frequentato",
+        "abbia frequentato",
+        "abbia frequentato",
+        "abbiamo frequentato",
+        "abbiate frequentato",
+        "abbiano frequentato"
+      ],
+
+      "Trapassato": [
+        "avessi frequentato",
+        "avessi frequentato",
+        "avesse frequentato",
+        "avessimo frequentato",
+        "aveste frequentato",
+        "avessero frequentato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "frequenterei",
+        "frequenteresti",
+        "frequenterebbe",
+        "frequenteremmo",
+        "frequentereste",
+        "frequenterebbero"
+      ],
+
+      "Passato": [
+        "avrei frequentato",
+        "avresti frequentato",
+        "avrebbe frequentato",
+        "avremmo frequentato",
+        "avreste frequentato",
+        "avrebbero frequentato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "frequenta",
+        "frequenti",
+        "frequentiamo",
+        "frequentate",
+        "frequentino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "frequentare",
+        "avere frequentato",
+        "frequentante",
+        "frequentato",
+        "frequentando",
+        "avendo frequentato"
+      ]
+    }
+  }
+},
+{
+  "id": "visitare",
+  "sid": "2026-00136",
+  "word": "visitare",
+  "ipa": "/viziˈtare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "visitato",
+    "gerundPresent": "visitando",
+    "pattern": "visitare + persona o luogo / farsi visitare da + medico"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "social",
+      "medical",
+      "technology"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人を訪ねる、見舞う",
+      "都市・建物・名所などを訪問・見学する",
+      "医師が患者を診察する",
+      "ウェブサイトやページへアクセスする",
+      "場所を調査・視察する"
+    ],
+    "it": [
+      "Recarsi da una persona per incontrarla, assisterla o trascorrere del tempo con lei.",
+      "Andare in una città, un edificio o un luogo d’interesse per conoscerlo.",
+      "Esaminare un paziente nell’ambito di una visita medica.",
+      "Accedere a un sito o a una pagina Internet.",
+      "Esaminare direttamente un luogo per ragioni professionali, tecniche o istituzionali."
+    ]
+  },
+
+  "nuance": {
+    "ja": "人・場所を特定の機会に訪れることを表し、前置詞を置かずに目的語を直接取る。したがって「ローマを訪れる」はvisitare Romaであり、visitare a Romaとはしない。frequentareは同じ場所や人と継続的に関わるのに対し、visitareは個々の訪問に焦点を置く。医療では医師を主語にして「患者を診察する」という意味にもなる。",
+    "it": "Indica una visita compiuta in una determinata occasione e regge direttamente la persona o il luogo, senza preposizione: visitare Roma, non visitare a Roma. Frequentare implica invece un rapporto abituale e ripetuto. In ambito medico, il soggetto può essere il medico e l’oggetto la persona sottoposta all’esame."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 visitāre（繰り返し見に行く、訪ねる）に由来する。これはvisere（見に行く）とvidēre（見る）に関係する。同じ語族にはvisita、visitatore、visione、visibileなどがある。",
+    "it": "Dal latino visitāre, «andare spesso a vedere, recarsi presso qualcuno», collegato a visere e vidēre, «vedere». Alla stessa famiglia appartengono visita, visitatore, visione e visibile."
+  },
+
+  "minimal": [
+    {
+      "word": "visitare",
+      "ja": "特定の機会に人や場所を訪ね、会ったり見学したりする",
+      "it": "recarsi in una determinata occasione presso una persona o un luogo"
+    },
+    {
+      "word": "frequentare",
+      "ja": "場所・授業・人などと継続的・反復的に関わる",
+      "it": "avere un rapporto abituale e ripetuto con un luogo, un’attività o una persona"
+    },
+    {
+      "word": "andare",
+      "ja": "目的や滞在内容を限定せず、別の場所へ移動する",
+      "it": "spostarsi verso un luogo senza specificare necessariamente lo scopo della permanenza"
+    }
+  ],
+
+  "synonyms": [
+    "recarsi da",
+    "andare a vedere",
+    "ispezionare",
+    "esaminare",
+    "consultare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "visit",
+      "tour",
+      "examine"
+    ],
+    "de": [
+      "besuchen",
+      "besichtigen",
+      "untersuchen"
+    ],
+    "fr": [
+      "visiter",
+      "rendre visite à",
+      "examiner"
+    ],
+    "es": [
+      "visitar",
+      "recorrer",
+      "examinar"
+    ]
+  },
+
+  "collocations": [
+    "visitare qualcuno",
+    "visitare un amico",
+    "visitare un parente",
+    "visitare un paziente",
+    "visitare una città",
+    "visitare un paese",
+    "visitare un museo",
+    "visitare una chiesa",
+    "visitare un monumento",
+    "visitare una mostra",
+    "visitare un’azienda",
+    "visitare uno stabilimento",
+    "visitare un appartamento",
+    "visitare un sito archeologico",
+    "visitare un sito Internet",
+    "visitare una pagina web",
+    "visitare per la prima volta",
+    "visitare regolarmente",
+    "andare a visitare qualcuno",
+    "farsi visitare da un medico",
+    "meritare di essere visitato"
+  ],
+
+  "examples": [
+    {
+      "it": "Vorrei visitare Firenze l’anno prossimo.",
+      "ja": "来年フィレンツェを訪れたい。"
+    },
+    {
+      "it": "Abbiamo visitato diversi musei durante il viaggio.",
+      "ja": "私たちは旅行中に複数の美術館を訪れた。"
+    },
+    {
+      "it": "Domenica andrò a visitare i miei genitori.",
+      "ja": "日曜日に両親を訪ねに行く。"
+    },
+    {
+      "it": "Il medico ha visitato il paziente questa mattina.",
+      "ja": "医師は今朝その患者を診察した。"
+    },
+    {
+      "it": "Prima di firmare il contratto, abbiamo visitato l’appartamento.",
+      "ja": "契約に署名する前に、私たちはその部屋を内覧した。"
+    },
+    {
+      "it": "Per maggiori informazioni, visiti il nostro sito Internet.",
+      "ja": "詳しくは私たちのウェブサイトをご覧ください。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "visito",
+        "visiti",
+        "visita",
+        "visitiamo",
+        "visitate",
+        "visitano"
+      ],
+
+      "Imperfetto": [
+        "visitavo",
+        "visitavi",
+        "visitava",
+        "visitavamo",
+        "visitavate",
+        "visitavano"
+      ],
+
+      "Passato prossimo": [
+        "ho visitato",
+        "hai visitato",
+        "ha visitato",
+        "abbiamo visitato",
+        "avete visitato",
+        "hanno visitato"
+      ],
+
+      "Passato remoto": [
+        "visitai",
+        "visitasti",
+        "visitò",
+        "visitammo",
+        "visitaste",
+        "visitarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo visitato",
+        "avevi visitato",
+        "aveva visitato",
+        "avevamo visitato",
+        "avevate visitato",
+        "avevano visitato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi visitato",
+        "avesti visitato",
+        "ebbe visitato",
+        "avemmo visitato",
+        "aveste visitato",
+        "ebbero visitato"
+      ],
+
+      "Futuro semplice": [
+        "visiterò",
+        "visiterai",
+        "visiterà",
+        "visiteremo",
+        "visiterete",
+        "visiteranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò visitato",
+        "avrai visitato",
+        "avrà visitato",
+        "avremo visitato",
+        "avrete visitato",
+        "avranno visitato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "visiti",
+        "visiti",
+        "visiti",
+        "visitiamo",
+        "visitiate",
+        "visitino"
+      ],
+
+      "Imperfetto": [
+        "visitassi",
+        "visitassi",
+        "visitasse",
+        "visitassimo",
+        "visitaste",
+        "visitassero"
+      ],
+
+      "Passato": [
+        "abbia visitato",
+        "abbia visitato",
+        "abbia visitato",
+        "abbiamo visitato",
+        "abbiate visitato",
+        "abbiano visitato"
+      ],
+
+      "Trapassato": [
+        "avessi visitato",
+        "avessi visitato",
+        "avesse visitato",
+        "avessimo visitato",
+        "aveste visitato",
+        "avessero visitato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "visiterei",
+        "visiteresti",
+        "visiterebbe",
+        "visiteremmo",
+        "visitereste",
+        "visiterebbero"
+      ],
+
+      "Passato": [
+        "avrei visitato",
+        "avresti visitato",
+        "avrebbe visitato",
+        "avremmo visitato",
+        "avreste visitato",
+        "avrebbero visitato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "visita",
+        "visiti",
+        "visitiamo",
+        "visitate",
+        "visitino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "visitare",
+        "avere visitato",
+        "visitante",
+        "visitato",
+        "visitando",
+        "avendo visitato"
+      ]
+    }
+  }
+},
+{
+  "id": "partecipare",
+  "sid": "2026-00137",
+  "word": "partecipare",
+  "ipa": "/partetʃiˈpare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞的用法を持つ動詞",
+      "it": "verbo intransitivo con alcuni usi transitivi"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "partecipato",
+    "gerundPresent": "partecipando",
+    "pattern": "partecipare a + evento o attività / partecipare qualcosa a qualcuno"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "social",
+      "formal_correspondence"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "行事・会議・活動などに参加する",
+      "競技・選挙・計画などに加わる",
+      "感情・経験・考えなどを共有する",
+      "改まった文体で、出来事を人に通知する"
+    ],
+    "it": [
+      "Prendere parte a un evento, una riunione o un’attività.",
+      "Essere coinvolti in una competizione, un’elezione, un progetto o un’iniziativa.",
+      "Condividere un sentimento, un’esperienza, un interesse o una condizione.",
+      "In uso formale e transitivo, comunicare o annunciare qualcosa a qualcuno."
+    ]
+  },
+
+  "nuance": {
+    "ja": "単にその場所にいるだけでなく、行事・活動・計画の一員として加わることを表す。参加対象は前置詞aで導き、partecipare alla riunioneのように用いる。英語のparticipateと異なり、目的語を直接置かないのが基本である。改まった用法のpartecipare qualcosa a qualcunoは「知らせる」を意味するが、現代の日常語ではcomunicareやannunciareのほうが一般的である。",
+    "it": "Indica il coinvolgimento in un evento, un’attività o un’esperienza, non la semplice presenza fisica. L’attività a cui si prende parte è normalmente introdotta dalla preposizione a: partecipare alla riunione. L’uso transitivo nel senso di comunicare o annunciare è formale e oggi meno comune."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 participāre（分け前を与える、共有する、参加する）に由来する。これはpars（部分）とcapere（取る）に関連するparticeps（分け前を持つ者）から形成された。同じ語族にはpartecipante、partecipazione、partecipeなどがある。",
+    "it": "Dal latino participāre, «condividere, rendere partecipe», derivato da particeps, formato da pars, «parte», e capere, «prendere». Alla stessa famiglia appartengono partecipazione, partecipante e partecipe."
+  },
+
+  "minimal": [
+    {
+      "word": "partecipare",
+      "ja": "行事・活動・計画に一員として加わる",
+      "it": "prendere parte attivamente a un evento, un’attività o un progetto"
+    },
+    {
+      "word": "assistere",
+      "ja": "行事・授業・公演などに出席して見聞きする",
+      "it": "essere presenti a un evento, una lezione o uno spettacolo come osservatori"
+    },
+    {
+      "word": "frequentare",
+      "ja": "学校・講座・場所などへ習慣的・継続的に通う",
+      "it": "seguire o visitare regolarmente un corso, un luogo o un ambiente"
+    }
+  ],
+
+  "synonyms": [
+    "prendere parte",
+    "aderire",
+    "intervenire",
+    "collaborare",
+    "concorrere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "participate",
+      "take part",
+      "attend"
+    ],
+    "de": [
+      "teilnehmen",
+      "mitmachen",
+      "sich beteiligen"
+    ],
+    "fr": [
+      "participer",
+      "prendre part",
+      "assister"
+    ],
+    "es": [
+      "participar",
+      "tomar parte",
+      "asistir"
+    ]
+  },
+
+  "collocations": [
+    "partecipare a un evento",
+    "partecipare a una riunione",
+    "partecipare a una conferenza",
+    "partecipare a un corso",
+    "partecipare a una lezione",
+    "partecipare a una festa",
+    "partecipare a una cerimonia",
+    "partecipare a un matrimonio",
+    "partecipare a una gara",
+    "partecipare a una competizione",
+    "partecipare a un concorso",
+    "partecipare alle elezioni",
+    "partecipare a un progetto",
+    "partecipare a un’iniziativa",
+    "partecipare a una discussione",
+    "partecipare attivamente",
+    "partecipare personalmente",
+    "decidere di partecipare",
+    "invitare qualcuno a partecipare",
+    "essere autorizzato a partecipare"
+  ],
+
+  "examples": [
+    {
+      "it": "Domani parteciperò a una riunione importante.",
+      "ja": "明日、私は重要な会議に参加する。"
+    },
+    {
+      "it": "Quante persone hanno partecipato all’evento?",
+      "ja": "その行事には何人が参加しましたか。"
+    },
+    {
+      "it": "Vorrei partecipare al corso di italiano.",
+      "ja": "そのイタリア語講座に参加したい。"
+    },
+    {
+      "it": "Tutti i dipendenti sono invitati a partecipare.",
+      "ja": "すべての従業員が参加するよう招かれている。"
+    },
+    {
+      "it": "Ha partecipato attivamente alla discussione.",
+      "ja": "彼女はその議論に積極的に参加した。"
+    },
+    {
+      "it": "Con grande dolore partecipiamo la scomparsa del nostro collega.",
+      "ja": "深い悲しみとともに、同僚の逝去をお知らせいたします。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "partecipo",
+        "partecipi",
+        "partecipa",
+        "partecipiamo",
+        "partecipate",
+        "partecipano"
+      ],
+
+      "Imperfetto": [
+        "partecipavo",
+        "partecipavi",
+        "partecipava",
+        "partecipavamo",
+        "partecipavate",
+        "partecipavano"
+      ],
+
+      "Passato prossimo": [
+        "ho partecipato",
+        "hai partecipato",
+        "ha partecipato",
+        "abbiamo partecipato",
+        "avete partecipato",
+        "hanno partecipato"
+      ],
+
+      "Passato remoto": [
+        "partecipai",
+        "partecipasti",
+        "partecipò",
+        "partecipammo",
+        "partecipaste",
+        "parteciparono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo partecipato",
+        "avevi partecipato",
+        "aveva partecipato",
+        "avevamo partecipato",
+        "avevate partecipato",
+        "avevano partecipato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi partecipato",
+        "avesti partecipato",
+        "ebbe partecipato",
+        "avemmo partecipato",
+        "aveste partecipato",
+        "ebbero partecipato"
+      ],
+
+      "Futuro semplice": [
+        "parteciperò",
+        "parteciperai",
+        "parteciperà",
+        "parteciperemo",
+        "parteciperete",
+        "parteciperanno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò partecipato",
+        "avrai partecipato",
+        "avrà partecipato",
+        "avremo partecipato",
+        "avrete partecipato",
+        "avranno partecipato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "partecipi",
+        "partecipi",
+        "partecipi",
+        "partecipiamo",
+        "partecipiate",
+        "partecipino"
+      ],
+
+      "Imperfetto": [
+        "partecipassi",
+        "partecipassi",
+        "partecipasse",
+        "partecipassimo",
+        "partecipaste",
+        "partecipassero"
+      ],
+
+      "Passato": [
+        "abbia partecipato",
+        "abbia partecipato",
+        "abbia partecipato",
+        "abbiamo partecipato",
+        "abbiate partecipato",
+        "abbiano partecipato"
+      ],
+
+      "Trapassato": [
+        "avessi partecipato",
+        "avessi partecipato",
+        "avesse partecipato",
+        "avessimo partecipato",
+        "aveste partecipato",
+        "avessero partecipato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "parteciperei",
+        "parteciperesti",
+        "parteciperebbe",
+        "parteciperemmo",
+        "partecipereste",
+        "parteciperebbero"
+      ],
+
+      "Passato": [
+        "avrei partecipato",
+        "avresti partecipato",
+        "avrebbe partecipato",
+        "avremmo partecipato",
+        "avreste partecipato",
+        "avrebbero partecipato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "partecipa",
+        "partecipi",
+        "partecipiamo",
+        "partecipate",
+        "partecipino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "partecipare",
+        "avere partecipato",
+        "partecipante",
+        "partecipato",
+        "partecipando",
+        "avendo partecipato"
+      ]
+    }
+  }
+},
+{
+  "id": "stare",
+  "sid": "2026-00138",
+  "word": "stare",
+  "ipa": "/ˈstare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・補助動詞的用法を持つ動詞",
+      "it": "verbo intransitivo con usi fraseologici"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "stato",
+    "gerundPresent": "stando",
+    "pattern": "stare + aggettivo o avverbio / stare in, a, con / stare + gerundio / stare per + infinito"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "social",
+      "travel",
+      "medical"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "ある場所にいる、滞在する",
+      "ある状態・姿勢を保つ",
+      "健康状態・気分などが～である",
+      "ジェルンディオとともに進行中の動作を表す",
+      "不定詞とともに、まさに～しようとしていることを表す",
+      "人と一緒にいる、交際する"
+    ],
+    "it": [
+      "Rimanere o soggiornare in un luogo.",
+      "Mantenere una determinata posizione, condizione o situazione.",
+      "Trovarsi in un certo stato fisico o psicologico.",
+      "Con il gerundio, esprimere un’azione in corso.",
+      "Nella costruzione stare per, indicare un’azione imminente.",
+      "Trascorrere del tempo o avere una relazione con qualcuno."
+    ]
+  },
+
+  "nuance": {
+    "ja": "essereと重なる部分があるが、stareは一時的な状態、健康・気分、姿勢、滞在、状態の維持に焦点を置く。Come stai?は健康や調子を尋ねる定型表現である。stare + ジェルンディオは「～しているところだ」、stare per + 不定詞は「まさに～しようとしている」を表す。スペイン語estarほど広くは使われず、通常の性質や身分にはessereを用いる。",
+    "it": "Si sovrappone in parte a essere, ma mette spesso in rilievo una condizione, una posizione, una permanenza o il mantenimento di uno stato. Come stai? chiede informazioni sulla salute o sul benessere. Stare seguito dal gerundio forma la perifrasi progressiva; stare per seguito dall’infinito indica imminenza. Il suo uso non coincide completamente con lo spagnolo estar."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 stāre（立つ、一定の場所・状態にとどまる）に直接由来する。同じ印欧語根からstabile、stato、stazione、restare、英語standなどが生じた。",
+    "it": "Dal latino stāre, «stare in piedi, rimanere fermo». Alla stessa famiglia etimologica appartengono stabile, stato, stazione, restare e sostare."
+  },
+
+  "minimal": [
+    {
+      "word": "stare",
+      "ja": "一時的な状態・健康・姿勢・滞在や、状態の維持を表す",
+      "it": "indicare una condizione, una posizione, una permanenza o il mantenimento di uno stato"
+    },
+    {
+      "word": "essere",
+      "ja": "同一性・性質・存在・場所などを広く表す基本動詞",
+      "it": "esprimere identità, qualità, esistenza, condizione o posizione"
+    },
+    {
+      "word": "rimanere",
+      "ja": "人や物が場所・状態から離れず、そのまま残ることを強調する",
+      "it": "sottolineare la permanenza di qualcuno o qualcosa in un luogo o in uno stato"
+    }
+  ],
+
+  "synonyms": [
+    "rimanere",
+    "restare",
+    "trovarsi",
+    "soggiornare",
+    "permanere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "stay",
+      "be",
+      "be doing"
+    ],
+    "de": [
+      "bleiben",
+      "sich befinden",
+      "gerade etwas tun"
+    ],
+    "fr": [
+      "rester",
+      "se trouver",
+      "être en train de"
+    ],
+    "es": [
+      "estar",
+      "quedarse",
+      "estar haciendo"
+    ]
+  },
+
+  "collocations": [
+    "stare bene",
+    "stare male",
+    "stare meglio",
+    "stare peggio",
+    "stare tranquillo",
+    "stare zitto",
+    "stare fermo",
+    "stare attento",
+    "stare in piedi",
+    "stare seduto",
+    "stare a casa",
+    "stare in ufficio",
+    "stare con qualcuno",
+    "stare da solo",
+    "stare insieme",
+    "stare lontano da",
+    "stare vicino a",
+    "stare facendo qualcosa",
+    "stare per partire",
+    "stare per succedere",
+    "lasciare stare",
+    "stare a vedere",
+    "stare al passo",
+    "stare a cuore"
+  ],
+
+  "examples": [
+    {
+      "it": "Come stai oggi?",
+      "ja": "今日は調子はいかがですか。"
+    },
+    {
+      "it": "Sono stato a casa tutto il giorno.",
+      "ja": "私は一日中家にいた。"
+    },
+    {
+      "it": "Stiamo aspettando l’autobus.",
+      "ja": "私たちはバスを待っているところだ。"
+    },
+    {
+      "it": "Il treno sta per partire.",
+      "ja": "列車はまもなく出発する。"
+    },
+    {
+      "it": "Stia tranquillo, è tutto sotto controllo.",
+      "ja": "ご安心ください。すべて管理されています。"
+    },
+    {
+      "it": "Da bambino stavo spesso con i miei nonni.",
+      "ja": "子どものころ、私はよく祖父母と一緒に過ごしていた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "sto",
+        "stai",
+        "sta",
+        "stiamo",
+        "state",
+        "stanno"
+      ],
+
+      "Imperfetto": [
+        "stavo",
+        "stavi",
+        "stava",
+        "stavamo",
+        "stavate",
+        "stavano"
+      ],
+
+      "Passato prossimo": [
+        "sono stato/a",
+        "sei stato/a",
+        "è stato/a",
+        "siamo stati/e",
+        "siete stati/e",
+        "sono stati/e"
+      ],
+
+      "Passato remoto": [
+        "stetti",
+        "stesti",
+        "stette",
+        "stemmo",
+        "steste",
+        "stettero"
+      ],
+
+      "Trapassato prossimo": [
+        "ero stato/a",
+        "eri stato/a",
+        "era stato/a",
+        "eravamo stati/e",
+        "eravate stati/e",
+        "erano stati/e"
+      ],
+
+      "Trapassato remoto": [
+        "fui stato/a",
+        "fosti stato/a",
+        "fu stato/a",
+        "fummo stati/e",
+        "foste stati/e",
+        "furono stati/e"
+      ],
+
+      "Futuro semplice": [
+        "starò",
+        "starai",
+        "starà",
+        "staremo",
+        "starete",
+        "staranno"
+      ],
+
+      "Futuro anteriore": [
+        "sarò stato/a",
+        "sarai stato/a",
+        "sarà stato/a",
+        "saremo stati/e",
+        "sarete stati/e",
+        "saranno stati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "stia",
+        "stia",
+        "stia",
+        "stiamo",
+        "stiate",
+        "stiano"
+      ],
+
+      "Imperfetto": [
+        "stessi",
+        "stessi",
+        "stesse",
+        "stessimo",
+        "steste",
+        "stessero"
+      ],
+
+      "Passato": [
+        "sia stato/a",
+        "sia stato/a",
+        "sia stato/a",
+        "siamo stati/e",
+        "siate stati/e",
+        "siano stati/e"
+      ],
+
+      "Trapassato": [
+        "fossi stato/a",
+        "fossi stato/a",
+        "fosse stato/a",
+        "fossimo stati/e",
+        "foste stati/e",
+        "fossero stati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "starei",
+        "staresti",
+        "starebbe",
+        "staremmo",
+        "stareste",
+        "starebbero"
+      ],
+
+      "Passato": [
+        "sarei stato/a",
+        "saresti stato/a",
+        "sarebbe stato/a",
+        "saremmo stati/e",
+        "sareste stati/e",
+        "sarebbero stati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "sta’ / stai",
+        "stia",
+        "stiamo",
+        "state",
+        "stiano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "stare",
+        "essere stato/a/i/e",
+        "stante",
+        "stato",
+        "stando",
+        "essendo stato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "piangere",
+  "sid": "2026-00139",
+  "word": "piangere",
+  "ipa": "/ˈpjandʒere/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "pianto",
+    "gerundPresent": "piangendo",
+    "pattern": "piangere / piangere per + motivo / piangere qualcuno o qualcosa"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "social",
+      "literary"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "悲しみ・痛み・感動などで泣く",
+      "涙を流す",
+      "人の死や喪失を嘆き悲しむ",
+      "失った人・物・機会などを惜しむ",
+      "不満や苦痛を訴えて嘆く"
+    ],
+    "it": [
+      "Versare lacrime per dolore, tristezza, commozione o altra emozione.",
+      "Manifestare un sentimento attraverso il pianto.",
+      "Compiangere la morte o la perdita di una persona.",
+      "Rimpiangere qualcuno, qualcosa o un’occasione perduta.",
+      "Lamentarsi manifestando sofferenza o insoddisfazione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "悲しみだけでなく、痛み・喜び・感動・怒りなどによって涙を流す場合にも使われる。通常は自動詞だが、piangere una personaでは「亡くなった人を悼む」、piangere lacrime amareでは「苦い涙を流す」のように目的語を取る。lamentarsiは言葉で不満を訴えることに重点があり、必ずしも涙を伴わない。",
+    "it": "Non riguarda soltanto la tristezza: si può piangere anche per dolore fisico, gioia, commozione o rabbia. Normalmente è intransitivo, ma può reggere un oggetto in espressioni come piangere una persona, cioè compiangerne la morte, o piangere lacrime amare. Lamentarsi mette invece in rilievo l’espressione verbale del disagio."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 plangĕre（胸をたたいて嘆く、悲しむ）に由来する。本来は喪に服して身体を打ちながら嘆く行為を表し、後に一般的な「泣く」という意味へ発展した。過去分詞piantoはラテン語planctusにさかのぼる。",
+    "it": "Dal latino plangĕre, «percuotersi in segno di lutto, lamentarsi, piangere». Il participio pianto risale al latino planctus. Alla stessa famiglia appartengono pianto e compiangere."
+  },
+
+  "minimal": [
+    {
+      "word": "piangere",
+      "ja": "感情や痛みによって涙を流す、または喪失を嘆く",
+      "it": "versare lacrime per un’emozione o lamentare una perdita"
+    },
+    {
+      "word": "lamentarsi",
+      "ja": "不満・痛み・困難を言葉や態度で訴える",
+      "it": "esprimere verbalmente insoddisfazione, dolore o disagio"
+    },
+    {
+      "word": "singhiozzare",
+      "ja": "呼吸を詰まらせ、しゃくり上げながら泣く",
+      "it": "piangere con respirazione interrotta e singhiozzi"
+    }
+  ],
+
+  "synonyms": [
+    "lacrimare",
+    "singhiozzare",
+    "compiangere",
+    "lamentarsi",
+    "disperarsi"
+  ],
+
+  "equivalents": {
+    "en": [
+      "cry",
+      "weep",
+      "mourn"
+    ],
+    "de": [
+      "weinen",
+      "heulen",
+      "betrauern"
+    ],
+    "fr": [
+      "pleurer",
+      "sangloter",
+      "déplorer"
+    ],
+    "es": [
+      "llorar",
+      "sollozar",
+      "lamentar"
+    ]
+  },
+
+  "collocations": [
+    "piangere molto",
+    "piangere spesso",
+    "piangere in silenzio",
+    "piangere disperatamente",
+    "piangere amaramente",
+    "piangere di gioia",
+    "piangere di dolore",
+    "piangere dalla commozione",
+    "piangere per qualcuno",
+    "piangere per qualcosa",
+    "piangere senza motivo",
+    "mettersi a piangere",
+    "scoppiare a piangere",
+    "cominciare a piangere",
+    "smettere di piangere",
+    "far piangere qualcuno",
+    "piangere una persona",
+    "piangere un morto",
+    "piangere lacrime amare",
+    "piangere sul latte versato",
+    "ridere per non piangere"
+  ],
+
+  "examples": [
+    {
+      "it": "Il bambino ha cominciato a piangere.",
+      "ja": "その子どもは泣き始めた。"
+    },
+    {
+      "it": "Ha pianto di gioia quando ha ricevuto la notizia.",
+      "ja": "彼女はその知らせを受け取ったとき、うれし泣きした。"
+    },
+    {
+      "it": "Non voglio vederti piangere.",
+      "ja": "あなたが泣いているところを見たくない。"
+    },
+    {
+      "it": "Tutta la città pianse la morte dello scrittore.",
+      "ja": "町中の人々がその作家の死を悼んだ。"
+    },
+    {
+      "it": "Non serve piangere sul latte versato.",
+      "ja": "済んだことを嘆いても仕方がない。"
+    },
+    {
+      "it": "Mentre raccontava la storia, piangeva in silenzio.",
+      "ja": "その話を語りながら、彼は静かに泣いていた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "piango",
+        "piangi",
+        "piange",
+        "piangiamo",
+        "piangete",
+        "piangono"
+      ],
+
+      "Imperfetto": [
+        "piangevo",
+        "piangevi",
+        "piangeva",
+        "piangevamo",
+        "piangevate",
+        "piangevano"
+      ],
+
+      "Passato prossimo": [
+        "ho pianto",
+        "hai pianto",
+        "ha pianto",
+        "abbiamo pianto",
+        "avete pianto",
+        "hanno pianto"
+      ],
+
+      "Passato remoto": [
+        "piansi",
+        "piangesti",
+        "pianse",
+        "piangemmo",
+        "piangeste",
+        "piansero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo pianto",
+        "avevi pianto",
+        "aveva pianto",
+        "avevamo pianto",
+        "avevate pianto",
+        "avevano pianto"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi pianto",
+        "avesti pianto",
+        "ebbe pianto",
+        "avemmo pianto",
+        "aveste pianto",
+        "ebbero pianto"
+      ],
+
+      "Futuro semplice": [
+        "piangerò",
+        "piangerai",
+        "piangerà",
+        "piangeremo",
+        "piangerete",
+        "piangeranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò pianto",
+        "avrai pianto",
+        "avrà pianto",
+        "avremo pianto",
+        "avrete pianto",
+        "avranno pianto"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "pianga",
+        "pianga",
+        "pianga",
+        "piangiamo",
+        "piangiate",
+        "piangano"
+      ],
+
+      "Imperfetto": [
+        "piangessi",
+        "piangessi",
+        "piangesse",
+        "piangessimo",
+        "piangeste",
+        "piangessero"
+      ],
+
+      "Passato": [
+        "abbia pianto",
+        "abbia pianto",
+        "abbia pianto",
+        "abbiamo pianto",
+        "abbiate pianto",
+        "abbiano pianto"
+      ],
+
+      "Trapassato": [
+        "avessi pianto",
+        "avessi pianto",
+        "avesse pianto",
+        "avessimo pianto",
+        "aveste pianto",
+        "avessero pianto"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "piangerei",
+        "piangeresti",
+        "piangerebbe",
+        "piangeremmo",
+        "piangereste",
+        "piangerebbero"
+      ],
+
+      "Passato": [
+        "avrei pianto",
+        "avresti pianto",
+        "avrebbe pianto",
+        "avremmo pianto",
+        "avreste pianto",
+        "avrebbero pianto"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "piangi",
+        "pianga",
+        "piangiamo",
+        "piangete",
+        "piangano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "piangere",
+        "avere pianto",
+        "piangente",
+        "pianto",
+        "piangendo",
+        "avendo pianto"
+      ]
+    }
+  }
+},
+{
+  "id": "lamentarsi",
+  "sid": "2026-00140",
+  "word": "lamentarsi",
+  "ipa": "/lamenˈtarsi/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "代名動詞",
+      "it": "verbo pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "lamentato",
+    "gerundPresent": "lamentandosi",
+    "pattern": "lamentarsi di + problema / lamentarsi per + motivo / lamentarsi con + persona"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "social",
+      "business",
+      "customer_service",
+      "medical"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "不満を言う、愚痴をこぼす",
+      "痛み・問題・不快な状況などを訴える",
+      "人に苦情を申し立てる",
+      "不幸・損失などを嘆く"
+    ],
+    "it": [
+      "Esprimere insoddisfazione per una persona, una cosa o una situazione.",
+      "Riferire o manifestare un dolore, un disturbo o un problema.",
+      "Presentare una protesta o una rimostranza a qualcuno.",
+      "Esprimere dolore o rammarico per una perdita o una sventura."
+    ]
+  },
+
+  "nuance": {
+    "ja": "不満・苦痛・問題を言葉や態度で表明することに焦点があり、必ずしも涙や強い悲しみを伴わない。lamentarsi diは不満の対象や問題、lamentarsi perは原因・理由、lamentarsi conは不満を伝える相手を示す。日常会話では繰り返し愚痴を言うという否定的なニュアンスを帯びることもある。",
+    "it": "Mette in rilievo l’espressione di un disagio, di un dolore o di un’insoddisfazione e non implica necessariamente il pianto. Lamentarsi di introduce normalmente il problema o l’oggetto della lamentela; per ne indica spesso la causa; con introduce la persona a cui ci si rivolge. Può avere una sfumatura negativa quando indica l’abitudine di protestare continuamente."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 lamentāri（嘆く、悲しみを表す）に由来し、名詞lamentum（嘆き、悲嘆）と関係する。同じ語族にはlamento、lamentela、lamentosoなどがある。",
+    "it": "Dal latino lamentāri, «esprimere dolore o cordoglio», collegato al sostantivo lamentum. Alla stessa famiglia appartengono lamento, lamentela e lamentoso."
+  },
+
+  "minimal": [
+    {
+      "word": "lamentarsi",
+      "ja": "不満・苦痛・問題を言葉や態度で訴える",
+      "it": "esprimere insoddisfazione, dolore o disagio"
+    },
+    {
+      "word": "piangere",
+      "ja": "悲しみ・痛み・感動などによって涙を流す",
+      "it": "versare lacrime per dolore, tristezza, gioia o commozione"
+    },
+    {
+      "word": "protestare",
+      "ja": "決定・行為・制度などに反対の意思を明確に示す",
+      "it": "manifestare apertamente opposizione contro una decisione, un’azione o una situazione"
+    }
+  ],
+
+  "synonyms": [
+    "protestare",
+    "brontolare",
+    "recriminare",
+    "dolersi",
+    "piagnucolare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "complain",
+      "lament",
+      "grumble"
+    ],
+    "de": [
+      "sich beschweren",
+      "klagen",
+      "jammern"
+    ],
+    "fr": [
+      "se plaindre",
+      "se lamenter",
+      "râler"
+    ],
+    "es": [
+      "quejarse",
+      "lamentarse",
+      "protestar"
+    ]
+  },
+
+  "collocations": [
+    "lamentarsi continuamente",
+    "lamentarsi sempre",
+    "lamentarsi inutilmente",
+    "lamentarsi apertamente",
+    "lamentarsi di qualcosa",
+    "lamentarsi di qualcuno",
+    "lamentarsi del caldo",
+    "lamentarsi del freddo",
+    "lamentarsi del rumore",
+    "lamentarsi del servizio",
+    "lamentarsi delle condizioni",
+    "lamentarsi per il ritardo",
+    "lamentarsi per il prezzo",
+    "lamentarsi con qualcuno",
+    "lamentarsi con il direttore",
+    "lamentarsi con il medico",
+    "cominciare a lamentarsi",
+    "smettere di lamentarsi",
+    "non avere motivo di lamentarsi",
+    "avere il diritto di lamentarsi",
+    "sentire qualcuno lamentarsi"
+  ],
+
+  "examples": [
+    {
+      "it": "Si lamenta sempre del tempo.",
+      "ja": "彼はいつも天気について不平を言っている。"
+    },
+    {
+      "it": "I clienti si sono lamentati del servizio.",
+      "ja": "顧客たちはサービスについて苦情を述べた。"
+    },
+    {
+      "it": "Mi sono lamentato con il direttore per il ritardo.",
+      "ja": "私は遅延について責任者に苦情を申し立てた。"
+    },
+    {
+      "it": "Il paziente lamentava un forte dolore alla schiena.",
+      "ja": "その患者は背中の強い痛みを訴えていた。"
+    },
+    {
+      "it": "Non lamentarti e cerca una soluzione.",
+      "ja": "愚痴を言わずに、解決策を探しなさい。"
+    },
+    {
+      "it": "Non possiamo lamentarci: tutto è andato bene.",
+      "ja": "不満を言うことはできない。すべてうまくいった。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi lamento",
+        "ti lamenti",
+        "si lamenta",
+        "ci lamentiamo",
+        "vi lamentate",
+        "si lamentano"
+      ],
+
+      "Imperfetto": [
+        "mi lamentavo",
+        "ti lamentavi",
+        "si lamentava",
+        "ci lamentavamo",
+        "vi lamentavate",
+        "si lamentavano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono lamentato/a",
+        "ti sei lamentato/a",
+        "si è lamentato/a",
+        "ci siamo lamentati/e",
+        "vi siete lamentati/e",
+        "si sono lamentati/e"
+      ],
+
+      "Passato remoto": [
+        "mi lamentai",
+        "ti lamentasti",
+        "si lamentò",
+        "ci lamentammo",
+        "vi lamentaste",
+        "si lamentarono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero lamentato/a",
+        "ti eri lamentato/a",
+        "si era lamentato/a",
+        "ci eravamo lamentati/e",
+        "vi eravate lamentati/e",
+        "si erano lamentati/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui lamentato/a",
+        "ti fosti lamentato/a",
+        "si fu lamentato/a",
+        "ci fummo lamentati/e",
+        "vi foste lamentati/e",
+        "si furono lamentati/e"
+      ],
+
+      "Futuro semplice": [
+        "mi lamenterò",
+        "ti lamenterai",
+        "si lamenterà",
+        "ci lamenteremo",
+        "vi lamenterete",
+        "si lamenteranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò lamentato/a",
+        "ti sarai lamentato/a",
+        "si sarà lamentato/a",
+        "ci saremo lamentati/e",
+        "vi sarete lamentati/e",
+        "si saranno lamentati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi lamenti",
+        "ti lamenti",
+        "si lamenti",
+        "ci lamentiamo",
+        "vi lamentiate",
+        "si lamentino"
+      ],
+
+      "Imperfetto": [
+        "mi lamentassi",
+        "ti lamentassi",
+        "si lamentasse",
+        "ci lamentassimo",
+        "vi lamentaste",
+        "si lamentassero"
+      ],
+
+      "Passato": [
+        "mi sia lamentato/a",
+        "ti sia lamentato/a",
+        "si sia lamentato/a",
+        "ci siamo lamentati/e",
+        "vi siate lamentati/e",
+        "si siano lamentati/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi lamentato/a",
+        "ti fossi lamentato/a",
+        "si fosse lamentato/a",
+        "ci fossimo lamentati/e",
+        "vi foste lamentati/e",
+        "si fossero lamentati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi lamenterei",
+        "ti lamenteresti",
+        "si lamenterebbe",
+        "ci lamenteremmo",
+        "vi lamentereste",
+        "si lamenterebbero"
+      ],
+
+      "Passato": [
+        "mi sarei lamentato/a",
+        "ti saresti lamentato/a",
+        "si sarebbe lamentato/a",
+        "ci saremmo lamentati/e",
+        "vi sareste lamentati/e",
+        "si sarebbero lamentati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "lamentati",
+        "si lamenti",
+        "lamentiamoci",
+        "lamentatevi",
+        "si lamentino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "lamentarsi",
+        "essersi lamentato/a/i/e",
+        "lamentante",
+        "lamentato",
+        "lamentandosi",
+        "essendosi lamentato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "agire",
+  "sid": "2026-00141",
+  "word": "agire",
+  "ipa": "/aˈdʒire/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞",
+      "it": "verbo intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "agito",
+    "gerundPresent": "agendo",
+    "pattern": "agire / agire su + oggetto / agire contro o per + scopo / agire da + ruolo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "legal",
+      "medical"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "行動する、実際に動く",
+      "特定の方法・目的・立場に基づいて振る舞う",
+      "物質・薬・力などが作用する、効果を及ぼす",
+      "法的手段を取る、訴えを起こす",
+      "人や物に働きかける"
+    ],
+    "it": [
+      "Compiere un’azione o passare concretamente all’azione.",
+      "Comportarsi secondo un determinato criterio, scopo o ruolo.",
+      "Produrre un effetto, con riferimento a una sostanza, un farmaco o una forza.",
+      "Intraprendere un’azione o un procedimento in ambito giuridico.",
+      "Esercitare un’influenza su una persona, una cosa o una situazione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "考える・話すだけでなく、具体的な行動に移ることを表す。fareが個々の行為や作業を広く表すのに対し、agireは主体が意思や目的をもって行動することに焦点を置く。薬・化学物質・力などを主語にすると「作用する、効く」を意味する。法的文脈ではagire contro qualcunoで「人に対して法的措置を取る」となる。",
+    "it": "Mette in rilievo il passaggio dal pensiero o dall’intenzione a un comportamento concreto. Rispetto al generico fare, si concentra maggiormente sul soggetto che opera secondo una volontà, uno scopo o un criterio. Con farmaci, sostanze o forze significa produrre un effetto. Nel linguaggio giuridico può indicare l’avvio di un’azione legale."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 agĕre（動かす、導く、行う）に由来する。非常に生産的な語根であり、azione、agente、attivo、reagire、interagireなどにも関係する。",
+    "it": "Dal latino agĕre, «spingere, condurre, fare, operare». È una radice molto produttiva, presente anche in azione, agente, attivo, reagire e interagire."
+  },
+
+  "minimal": [
+    {
+      "word": "agire",
+      "ja": "意思・目的・原則に基づいて具体的に行動する",
+      "it": "operare concretamente secondo una volontà, uno scopo o un criterio"
+    },
+    {
+      "word": "fare",
+      "ja": "行為・作業・作成などを最も広く表す",
+      "it": "indicare genericamente il compimento di un’azione o la produzione di qualcosa"
+    },
+    {
+      "word": "comportarsi",
+      "ja": "特定の状況で人がどのような態度・振る舞いを示すかを表す",
+      "it": "indicare il modo in cui una persona tiene una determinata condotta"
+    }
+  ],
+
+  "synonyms": [
+    "operare",
+    "intervenire",
+    "comportarsi",
+    "procedere",
+    "muoversi"
+  ],
+
+  "equivalents": {
+    "en": [
+      "act",
+      "take action",
+      "operate"
+    ],
+    "de": [
+      "handeln",
+      "wirken",
+      "vorgehen"
+    ],
+    "fr": [
+      "agir",
+      "intervenir",
+      "opérer"
+    ],
+    "es": [
+      "actuar",
+      "obrar",
+      "proceder"
+    ]
+  },
+
+  "collocations": [
+    "agire subito",
+    "agire rapidamente",
+    "agire tempestivamente",
+    "agire concretamente",
+    "agire liberamente",
+    "agire responsabilmente",
+    "agire con prudenza",
+    "agire con calma",
+    "agire in buona fede",
+    "agire in malafede",
+    "agire nell’interesse di qualcuno",
+    "agire per il bene comune",
+    "agire contro qualcuno",
+    "agire su qualcosa",
+    "agire da intermediario",
+    "agire da professionista",
+    "agire secondo la legge",
+    "agire d’ufficio",
+    "essere costretto ad agire",
+    "decidere di agire",
+    "cominciare ad agire",
+    "lasciare agire un farmaco"
+  ],
+
+  "examples": [
+    {
+      "it": "Dobbiamo agire prima che sia troppo tardi.",
+      "ja": "手遅れになる前に行動しなければならない。"
+    },
+    {
+      "it": "Ha agito con grande prudenza.",
+      "ja": "彼は非常に慎重に行動した。"
+    },
+    {
+      "it": "Non capisco perché abbia agito in questo modo.",
+      "ja": "彼がなぜこのように行動したのか分からない。"
+    },
+    {
+      "it": "Questo farmaco agisce rapidamente sul dolore.",
+      "ja": "この薬は痛みに速やかに作用する。"
+    },
+    {
+      "it": "L’azienda potrebbe agire legalmente contro il concorrente.",
+      "ja": "その会社は競合他社に対して法的措置を取る可能性がある。"
+    },
+    {
+      "it": "Lascia agire il prodotto per dieci minuti.",
+      "ja": "その製品を10分間作用させてください。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "agisco",
+        "agisci",
+        "agisce",
+        "agiamo",
+        "agite",
+        "agiscono"
+      ],
+
+      "Imperfetto": [
+        "agivo",
+        "agivi",
+        "agiva",
+        "agivamo",
+        "agivate",
+        "agivano"
+      ],
+
+      "Passato prossimo": [
+        "ho agito",
+        "hai agito",
+        "ha agito",
+        "abbiamo agito",
+        "avete agito",
+        "hanno agito"
+      ],
+
+      "Passato remoto": [
+        "agii",
+        "agisti",
+        "agì",
+        "agimmo",
+        "agiste",
+        "agirono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo agito",
+        "avevi agito",
+        "aveva agito",
+        "avevamo agito",
+        "avevate agito",
+        "avevano agito"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi agito",
+        "avesti agito",
+        "ebbe agito",
+        "avemmo agito",
+        "aveste agito",
+        "ebbero agito"
+      ],
+
+      "Futuro semplice": [
+        "agirò",
+        "agirai",
+        "agirà",
+        "agiremo",
+        "agirete",
+        "agiranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò agito",
+        "avrai agito",
+        "avrà agito",
+        "avremo agito",
+        "avrete agito",
+        "avranno agito"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "agisca",
+        "agisca",
+        "agisca",
+        "agiamo",
+        "agiate",
+        "agiscano"
+      ],
+
+      "Imperfetto": [
+        "agissi",
+        "agissi",
+        "agisse",
+        "agissimo",
+        "agiste",
+        "agissero"
+      ],
+
+      "Passato": [
+        "abbia agito",
+        "abbia agito",
+        "abbia agito",
+        "abbiamo agito",
+        "abbiate agito",
+        "abbiano agito"
+      ],
+
+      "Trapassato": [
+        "avessi agito",
+        "avessi agito",
+        "avesse agito",
+        "avessimo agito",
+        "aveste agito",
+        "avessero agito"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "agirei",
+        "agiresti",
+        "agirebbe",
+        "agiremmo",
+        "agireste",
+        "agirebbero"
+      ],
+
+      "Passato": [
+        "avrei agito",
+        "avresti agito",
+        "avrebbe agito",
+        "avremmo agito",
+        "avreste agito",
+        "avrebbero agito"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "agisci",
+        "agisca",
+        "agiamo",
+        "agite",
+        "agiscano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "agire",
+        "avere agito",
+        "agente",
+        "agito",
+        "agendo",
+        "avendo agito"
+      ]
+    }
+  }
 }
 ]
 
