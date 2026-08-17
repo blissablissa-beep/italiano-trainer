@@ -6704,6 +6704,967 @@
       ]
     }
   }
+},
+{
+  "id": "unire",
+  "sid": "2026-00142",
+  "word": "unire",
+  "ipa": "/uˈnire/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "unito",
+    "gerundPresent": "unendo",
+    "pattern": "unire qualcosa a + cosa / unire due o più elementi / unire qualcuno in + gruppo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "cooking",
+      "technical"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "複数の物をつなぐ、結合する",
+      "人々・組織・地域などを一つにまとめる",
+      "材料・成分などを加える、混ぜ合わせる",
+      "地点・場所を交通路などで結ぶ",
+      "性質・能力・目的などを兼ね備える"
+    ],
+    "it": [
+      "Collegare due o più elementi formando un insieme.",
+      "Riunire persone, organizzazioni o territori in un unico gruppo.",
+      "Aggiungere e combinare ingredienti o sostanze.",
+      "Collegare luoghi mediante una strada, una linea o un altro mezzo.",
+      "Far coesistere qualità, capacità, interessi o finalità differenti."
+    ]
+  },
+
+  "nuance": {
+    "ja": "分かれている複数の物・人・要素を結びつけ、一つのまとまりにすることを表す。unire A a BではAをBに結びつけ、unire A e Bでは両者を一緒にする。再帰形unirsiは「一つになる」「合流する」「参加する」を意味し、複合時制ではessereを用いる。",
+    "it": "Indica il collegamento di elementi separati fino a formare un insieme. Unire A a B presenta normalmente B come elemento di riferimento, mentre unire A e B coordina i due elementi. La forma unirsi significa congiungersi, associarsi o partecipare e nei tempi composti richiede essere."
+  },
+
+  "etymology": {
+    "ja": "後期ラテン語 unīre（一つにする）に由来し、数詞・形容詞ūnus（一つの）から形成された。同じ語族にはunità、unione、unico、universoなどがある。",
+    "it": "Dal latino tardo unīre, «ridurre a uno, congiungere», derivato da ūnus, «uno». Alla stessa famiglia appartengono unità, unione, unico e unificare."
+  },
+
+  "minimal": [
+    {
+      "word": "unire",
+      "ja": "複数の物・人・要素を結びつけ、一つのまとまりにする",
+      "it": "collegare elementi separati formando un insieme"
+    },
+    {
+      "word": "collegare",
+      "ja": "物・場所・情報などの間に接続や関連を設ける",
+      "it": "stabilire una connessione fisica, logica o funzionale tra elementi"
+    },
+    {
+      "word": "mescolare",
+      "ja": "複数の物質・材料を混ぜて互いに入り交じらせる",
+      "it": "combinare sostanze o ingredienti facendoli confondere tra loro"
+    }
+  ],
+
+  "synonyms": [
+    "congiungere",
+    "collegare",
+    "riunire",
+    "associare",
+    "combinare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "unite",
+      "join",
+      "combine"
+    ],
+    "de": [
+      "vereinen",
+      "verbinden",
+      "zusammenfügen"
+    ],
+    "fr": [
+      "unir",
+      "joindre",
+      "réunir"
+    ],
+    "es": [
+      "unir",
+      "juntar",
+      "combinar"
+    ]
+  },
+
+  "collocations": [
+    "unire due parti",
+    "unire due pezzi",
+    "unire due punti",
+    "unire le forze",
+    "unire gli sforzi",
+    "unire le persone",
+    "unire un gruppo",
+    "unire il paese",
+    "unire due aziende",
+    "unire teoria e pratica",
+    "unire tradizione e innovazione",
+    "unire l’utile al dilettevole",
+    "unire un ingrediente agli altri",
+    "unire la farina",
+    "unire lo zucchero",
+    "unire tutti gli ingredienti",
+    "strada che unisce due città",
+    "ponte che unisce le due rive",
+    "elemento che unisce",
+    "decidere di unire",
+    "riuscire a unire"
+  ],
+
+  "examples": [
+    {
+      "it": "Questo ponte unisce le due parti della città.",
+      "ja": "この橋は町の二つの地区を結んでいる。"
+    },
+    {
+      "it": "Dobbiamo unire le nostre forze.",
+      "ja": "私たちは力を合わせなければならない。"
+    },
+    {
+      "it": "Unisci la farina agli altri ingredienti.",
+      "ja": "小麦粉をほかの材料に加えてください。"
+    },
+    {
+      "it": "Il progetto unisce tradizione e innovazione.",
+      "ja": "その計画は伝統と革新を結びつけている。"
+    },
+    {
+      "it": "Le due aziende hanno deciso di unire le proprie attività.",
+      "ja": "その二社は事業を統合することに決めた。"
+    },
+    {
+      "it": "Diversi gruppi si sono uniti alla manifestazione.",
+      "ja": "複数の団体がそのデモに加わった。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "unisco",
+        "unisci",
+        "unisce",
+        "uniamo",
+        "unite",
+        "uniscono"
+      ],
+
+      "Imperfetto": [
+        "univo",
+        "univi",
+        "univa",
+        "univamo",
+        "univate",
+        "univano"
+      ],
+
+      "Passato prossimo": [
+        "ho unito",
+        "hai unito",
+        "ha unito",
+        "abbiamo unito",
+        "avete unito",
+        "hanno unito"
+      ],
+
+      "Passato remoto": [
+        "unii",
+        "unisti",
+        "unì",
+        "unimmo",
+        "uniste",
+        "unirono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo unito",
+        "avevi unito",
+        "aveva unito",
+        "avevamo unito",
+        "avevate unito",
+        "avevano unito"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi unito",
+        "avesti unito",
+        "ebbe unito",
+        "avemmo unito",
+        "aveste unito",
+        "ebbero unito"
+      ],
+
+      "Futuro semplice": [
+        "unirò",
+        "unirai",
+        "unirà",
+        "uniremo",
+        "unirete",
+        "uniranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò unito",
+        "avrai unito",
+        "avrà unito",
+        "avremo unito",
+        "avrete unito",
+        "avranno unito"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "unisca",
+        "unisca",
+        "unisca",
+        "uniamo",
+        "uniate",
+        "uniscano"
+      ],
+
+      "Imperfetto": [
+        "unissi",
+        "unissi",
+        "unisse",
+        "unissimo",
+        "uniste",
+        "unissero"
+      ],
+
+      "Passato": [
+        "abbia unito",
+        "abbia unito",
+        "abbia unito",
+        "abbiamo unito",
+        "abbiate unito",
+        "abbiano unito"
+      ],
+
+      "Trapassato": [
+        "avessi unito",
+        "avessi unito",
+        "avesse unito",
+        "avessimo unito",
+        "aveste unito",
+        "avessero unito"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "unirei",
+        "uniresti",
+        "unirebbe",
+        "uniremmo",
+        "unireste",
+        "unirebbero"
+      ],
+
+      "Passato": [
+        "avrei unito",
+        "avresti unito",
+        "avrebbe unito",
+        "avremmo unito",
+        "avreste unito",
+        "avrebbero unito"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "unisci",
+        "unisca",
+        "uniamo",
+        "unite",
+        "uniscano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "unire",
+        "avere unito",
+        "unente",
+        "unito",
+        "unendo",
+        "avendo unito"
+      ]
+    }
+  }
+},
+{
+  "id": "unirsi",
+  "sid": "2026-00143",
+  "word": "unirsi",
+  "ipa": "/uˈnirsi/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "代名動詞",
+      "it": "verbo pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "unito",
+    "gerundPresent": "unendosi",
+    "pattern": "unirsi a + persona o gruppo / unirsi in + insieme / unirsi per + scopo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "social",
+      "business",
+      "academic",
+      "political"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人・集団・活動などに加わる、参加する",
+      "複数の人・物・組織などが一つになる",
+      "共通の目的のために協力・団結する",
+      "道・川・物体などが合流・接続する",
+      "人と結婚する、正式に結ばれる"
+    ],
+    "it": [
+      "Entrare a far parte di un gruppo, di un’attività o di un’iniziativa.",
+      "Congiungersi con altre persone o cose formando un insieme.",
+      "Collaborare o coalizzarsi per raggiungere uno scopo comune.",
+      "Confluire o collegarsi, con riferimento a strade, fiumi o altri elementi.",
+      "Legarsi a una persona mediante matrimonio o unione formale."
+    ]
+  },
+
+  "nuance": {
+    "ja": "他動詞unireが外部から複数の要素を結びつけるのに対し、unirsiは主体自身がほかの人・集団・物と一つになる、またはそこへ加わることを表す。加入・合流の相手には通常aを用いる。partecipare aよりも、その集団や運動の一員になるという一体感を強く示すことがある。",
+    "it": "A differenza del transitivo unire, indica che il soggetto si congiunge spontaneamente a un’altra persona, cosa o collettività. La persona, il gruppo o l’iniziativa a cui ci si aggrega è normalmente introdotta da a. Rispetto a partecipare a, può sottolineare maggiormente l’ingresso nel gruppo e la condivisione di uno scopo."
+  },
+
+  "etymology": {
+    "ja": "動詞unireの代名動詞形である。unireは後期ラテン語unīre（一つにする）に由来し、数詞・形容詞ūnus（一つの）から形成された。同じ語族にはunità、unione、unico、unificareなどがある。",
+    "it": "Forma pronominale di unire, dal latino tardo unīre, «ridurre a uno, congiungere», derivato da ūnus, «uno». Alla stessa famiglia appartengono unità, unione, unico e unificare."
+  },
+
+  "minimal": [
+    {
+      "word": "unirsi",
+      "ja": "ほかの人・集団・物と一つになる、またはその一員として加わる",
+      "it": "congiungersi ad altri o entrare a far parte di un gruppo"
+    },
+    {
+      "word": "partecipare",
+      "ja": "行事・活動・計画に参加するが、必ずしも集団と一体化するとは限らない",
+      "it": "prendere parte a un’attività senza implicare necessariamente l’ingresso stabile in un gruppo"
+    },
+    {
+      "word": "riunirsi",
+      "ja": "離れていた人々が特定の場所・目的のために集まる",
+      "it": "incontrarsi e raccogliersi in un luogo per uno scopo determinato"
+    }
+  ],
+
+  "synonyms": [
+    "congiungersi",
+    "aggregarsi",
+    "associarsi",
+    "aderire",
+    "coalizzarsi"
+  ],
+
+  "equivalents": {
+    "en": [
+      "join",
+      "unite",
+      "come together"
+    ],
+    "de": [
+      "sich vereinigen",
+      "sich anschließen",
+      "zusammenkommen"
+    ],
+    "fr": [
+      "s’unir",
+      "se joindre à",
+      "se rallier"
+    ],
+    "es": [
+      "unirse",
+      "juntarse",
+      "sumarse a"
+    ]
+  },
+
+  "collocations": [
+    "unirsi a qualcuno",
+    "unirsi a un gruppo",
+    "unirsi a una squadra",
+    "unirsi a un’organizzazione",
+    "unirsi a un’associazione",
+    "unirsi a un movimento",
+    "unirsi a una protesta",
+    "unirsi alla discussione",
+    "unirsi alla conversazione",
+    "unirsi agli altri",
+    "unirsi alla famiglia",
+    "unirsi in matrimonio",
+    "unirsi in un unico gruppo",
+    "unirsi per uno scopo comune",
+    "unirsi per combattere",
+    "unirsi contro qualcuno",
+    "decidere di unirsi",
+    "invitare qualcuno a unirsi",
+    "forze che si uniscono",
+    "strade che si uniscono",
+    "fiumi che si uniscono"
+  ],
+
+  "examples": [
+    {
+      "it": "Vuoi unirti a noi per cena?",
+      "ja": "夕食を一緒に食べませんか。"
+    },
+    {
+      "it": "Molti giovani si sono uniti al progetto.",
+      "ja": "多くの若者がその計画に加わった。"
+    },
+    {
+      "it": "Dobbiamo unirci per risolvere questo problema.",
+      "ja": "この問題を解決するために、私たちは力を合わせなければならない。"
+    },
+    {
+      "it": "Le due società si uniranno il prossimo anno.",
+      "ja": "その二社は来年統合する。"
+    },
+    {
+      "it": "Qui il sentiero si unisce alla strada principale.",
+      "ja": "ここで小道が幹線道路に合流する。"
+    },
+    {
+      "it": "Si sono uniti in matrimonio in una piccola chiesa.",
+      "ja": "二人は小さな教会で結婚した。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi unisco",
+        "ti unisci",
+        "si unisce",
+        "ci uniamo",
+        "vi unite",
+        "si uniscono"
+      ],
+
+      "Imperfetto": [
+        "mi univo",
+        "ti univi",
+        "si univa",
+        "ci univamo",
+        "vi univate",
+        "si univano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono unito/a",
+        "ti sei unito/a",
+        "si è unito/a",
+        "ci siamo uniti/e",
+        "vi siete uniti/e",
+        "si sono uniti/e"
+      ],
+
+      "Passato remoto": [
+        "mi unii",
+        "ti unisti",
+        "si unì",
+        "ci unimmo",
+        "vi uniste",
+        "si unirono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero unito/a",
+        "ti eri unito/a",
+        "si era unito/a",
+        "ci eravamo uniti/e",
+        "vi eravate uniti/e",
+        "si erano uniti/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui unito/a",
+        "ti fosti unito/a",
+        "si fu unito/a",
+        "ci fummo uniti/e",
+        "vi foste uniti/e",
+        "si furono uniti/e"
+      ],
+
+      "Futuro semplice": [
+        "mi unirò",
+        "ti unirai",
+        "si unirà",
+        "ci uniremo",
+        "vi unirete",
+        "si uniranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò unito/a",
+        "ti sarai unito/a",
+        "si sarà unito/a",
+        "ci saremo uniti/e",
+        "vi sarete uniti/e",
+        "si saranno uniti/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi unisca",
+        "ti unisca",
+        "si unisca",
+        "ci uniamo",
+        "vi uniate",
+        "si uniscano"
+      ],
+
+      "Imperfetto": [
+        "mi unissi",
+        "ti unissi",
+        "si unisse",
+        "ci unissimo",
+        "vi uniste",
+        "si unissero"
+      ],
+
+      "Passato": [
+        "mi sia unito/a",
+        "ti sia unito/a",
+        "si sia unito/a",
+        "ci siamo uniti/e",
+        "vi siate uniti/e",
+        "si siano uniti/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi unito/a",
+        "ti fossi unito/a",
+        "si fosse unito/a",
+        "ci fossimo uniti/e",
+        "vi foste uniti/e",
+        "si fossero uniti/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi unirei",
+        "ti uniresti",
+        "si unirebbe",
+        "ci uniremmo",
+        "vi unireste",
+        "si unirebbero"
+      ],
+
+      "Passato": [
+        "mi sarei unito/a",
+        "ti saresti unito/a",
+        "si sarebbe unito/a",
+        "ci saremmo uniti/e",
+        "vi sareste uniti/e",
+        "si sarebbero uniti/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "unisciti",
+        "si unisca",
+        "uniamoci",
+        "unitevi",
+        "si uniscano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "unirsi",
+        "essersi unito/a/i/e",
+        "unentesi",
+        "unito",
+        "unendosi",
+        "essendosi unito/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "riunirsi",
+  "sid": "2026-00144",
+  "word": "riunirsi",
+  "ipa": "/rjuˈnirsi/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "代名動詞",
+      "it": "verbo pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "riunito",
+    "gerundPresent": "riunendosi",
+    "pattern": "riunirsi con + persona / riunirsi in, a, presso + luogo / riunirsi per + scopo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "business",
+      "academic",
+      "political"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "複数の人が一か所に集まる",
+      "会議・協議・活動のために集合する",
+      "離れていた家族・友人などが再会する",
+      "組織・委員会・議会などが会合を開く",
+      "分かれていた人々が再び一緒になる"
+    ],
+    "it": [
+      "Raccogliersi in più persone nello stesso luogo.",
+      "Incontrarsi per discutere, decidere o svolgere un’attività.",
+      "Ritrovarsi dopo un periodo di separazione.",
+      "Tenere una seduta o un incontro, con riferimento a un organo o a un’assemblea.",
+      "Tornare insieme dopo essersi separati."
+    ]
+  },
+
+  "nuance": {
+    "ja": "人々が会議・交流・共通の目的のために同じ場所へ集まることを表す。unirsiが集団への加入や一体化を強調するのに対し、riunirsiは特定の場所・時間に集まって会合を持つことに焦点がある。接頭辞ri-は「再び」の意味を持つが、現代語では初めての集合にも用いられる。",
+    "it": "Indica che più persone si incontrano nello stesso luogo, spesso per discutere, decidere o trascorrere del tempo insieme. Rispetto a unirsi, mette maggiormente in rilievo l’incontro o la raccolta materiale delle persone. Sebbene il prefisso ri- possa indicare ripetizione, il verbo si usa anche quando non si tratta letteralmente di un nuovo incontro."
+  },
+
+  "etymology": {
+    "ja": "接頭辞ri-（再び、元へ）とunire（一つにする）から形成された。unireは後期ラテン語unīreに由来し、その語根はラテン語ūnus（一つの）である。",
+    "it": "Derivato da unire con il prefisso ri-, che può indicare ripetizione o ricomposizione. Unire risale al latino tardo unīre, formato da ūnus, «uno»."
+  },
+
+  "minimal": [
+    {
+      "word": "riunirsi",
+      "ja": "複数の人が特定の場所・時間に集まり、会合や再会をする",
+      "it": "incontrarsi nello stesso luogo per una riunione, un’attività o un nuovo incontro"
+    },
+    {
+      "word": "unirsi",
+      "ja": "人・集団・物と結びついて一つになる、またはその一員になる",
+      "it": "congiungersi ad altri o entrare a far parte di un gruppo"
+    },
+    {
+      "word": "incontrarsi",
+      "ja": "二人以上の人が会うことを広く表し、偶然の出会いにも使える",
+      "it": "trovarsi con una o più persone, anche casualmente"
+    }
+  ],
+
+  "synonyms": [
+    "radunarsi",
+    "incontrarsi",
+    "ritrovarsi",
+    "raccogliersi",
+    "convenire"
+  ],
+
+  "equivalents": {
+    "en": [
+      "meet",
+      "gather",
+      "reunite"
+    ],
+    "de": [
+      "sich versammeln",
+      "sich treffen",
+      "wieder zusammenkommen"
+    ],
+    "fr": [
+      "se réunir",
+      "se rassembler",
+      "se retrouver"
+    ],
+    "es": [
+      "reunirse",
+      "juntarse",
+      "volver a encontrarse"
+    ]
+  },
+
+  "collocations": [
+    "riunirsi insieme",
+    "riunirsi nuovamente",
+    "riunirsi regolarmente",
+    "riunirsi ogni settimana",
+    "riunirsi con qualcuno",
+    "riunirsi con la famiglia",
+    "riunirsi con gli amici",
+    "riunirsi in una sala",
+    "riunirsi in ufficio",
+    "riunirsi a casa",
+    "riunirsi attorno a un tavolo",
+    "riunirsi per discutere",
+    "riunirsi per decidere",
+    "riunirsi per festeggiare",
+    "riunirsi in assemblea",
+    "riunirsi in consiglio",
+    "riunirsi in seduta",
+    "decidere di riunirsi",
+    "essere invitato a riunirsi",
+    "tornare a riunirsi"
+  ],
+
+  "examples": [
+    {
+      "it": "Ci riuniremo domani alle dieci.",
+      "ja": "私たちは明日の10時に集まる。"
+    },
+    {
+      "it": "La famiglia si riunisce ogni anno a Natale.",
+      "ja": "その家族は毎年クリスマスに集まる。"
+    },
+    {
+      "it": "Il consiglio si è riunito per discutere la proposta.",
+      "ja": "評議会はその提案を審議するために会合を開いた。"
+    },
+    {
+      "it": "Dopo molti anni, i vecchi amici si sono riuniti.",
+      "ja": "何年もたってから、旧友たちは再会した。"
+    },
+    {
+      "it": "Vorrei che ci riunissimo prima della conferenza.",
+      "ja": "会議の前に私たちで集まりたいと思います。"
+    },
+    {
+      "it": "I partecipanti si sono riuniti attorno a un tavolo.",
+      "ja": "参加者たちはテーブルを囲んで集まった。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi riunisco",
+        "ti riunisci",
+        "si riunisce",
+        "ci riuniamo",
+        "vi riunite",
+        "si riuniscono"
+      ],
+
+      "Imperfetto": [
+        "mi riunivo",
+        "ti riunivi",
+        "si riuniva",
+        "ci riunivamo",
+        "vi riunivate",
+        "si riunivano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono riunito/a",
+        "ti sei riunito/a",
+        "si è riunito/a",
+        "ci siamo riuniti/e",
+        "vi siete riuniti/e",
+        "si sono riuniti/e"
+      ],
+
+      "Passato remoto": [
+        "mi riunii",
+        "ti riunisti",
+        "si riunì",
+        "ci riunimmo",
+        "vi riuniste",
+        "si riunirono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero riunito/a",
+        "ti eri riunito/a",
+        "si era riunito/a",
+        "ci eravamo riuniti/e",
+        "vi eravate riuniti/e",
+        "si erano riuniti/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui riunito/a",
+        "ti fosti riunito/a",
+        "si fu riunito/a",
+        "ci fummo riuniti/e",
+        "vi foste riuniti/e",
+        "si furono riuniti/e"
+      ],
+
+      "Futuro semplice": [
+        "mi riunirò",
+        "ti riunirai",
+        "si riunirà",
+        "ci riuniremo",
+        "vi riunirete",
+        "si riuniranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò riunito/a",
+        "ti sarai riunito/a",
+        "si sarà riunito/a",
+        "ci saremo riuniti/e",
+        "vi sarete riuniti/e",
+        "si saranno riuniti/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi riunisca",
+        "ti riunisca",
+        "si riunisca",
+        "ci riuniamo",
+        "vi riuniate",
+        "si riuniscano"
+      ],
+
+      "Imperfetto": [
+        "mi riunissi",
+        "ti riunissi",
+        "si riunisse",
+        "ci riunissimo",
+        "vi riuniste",
+        "si riunissero"
+      ],
+
+      "Passato": [
+        "mi sia riunito/a",
+        "ti sia riunito/a",
+        "si sia riunito/a",
+        "ci siamo riuniti/e",
+        "vi siate riuniti/e",
+        "si siano riuniti/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi riunito/a",
+        "ti fossi riunito/a",
+        "si fosse riunito/a",
+        "ci fossimo riuniti/e",
+        "vi foste riuniti/e",
+        "si fossero riuniti/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi riunirei",
+        "ti riuniresti",
+        "si riunirebbe",
+        "ci riuniremmo",
+        "vi riunireste",
+        "si riunirebbero"
+      ],
+
+      "Passato": [
+        "mi sarei riunito/a",
+        "ti saresti riunito/a",
+        "si sarebbe riunito/a",
+        "ci saremmo riuniti/e",
+        "vi sareste riuniti/e",
+        "si sarebbero riuniti/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "riunisciti",
+        "si riunisca",
+        "riuniamoci",
+        "riunitevi",
+        "si riuniscano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "riunirsi",
+        "essersi riunito/a/i/e",
+        "riunentesi",
+        "riunito",
+        "riunendosi",
+        "essendosi riunito/a/i/e"
+      ]
+    }
+  }
 }
 ]
 
