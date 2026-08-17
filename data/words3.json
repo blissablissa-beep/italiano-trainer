@@ -1272,6 +1272,323 @@
   }
 },
 {
+  "id": "deridere",
+  "sid": "2026-00125",
+  "word": "deridere",
+  "ipa": "/deˈridere/",
+  "level": "B2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "deriso",
+    "gerundPresent": "deridendo",
+    "pattern": "deridere qualcuno / deridere qualcosa / deridere qualcuno per + nome"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "social",
+      "academic",
+      "journalistic"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人や物をあざ笑う、嘲笑する",
+      "欠点・失敗・考えなどを笑いものにする",
+      "人を軽蔑的にからかう",
+      "主張・制度・価値などをばかにする"
+    ],
+    "it": [
+      "Ridere di qualcuno o qualcosa con intenzione offensiva o sprezzante.",
+      "Mettere in ridicolo una persona per un difetto, un errore o un comportamento.",
+      "Prendere in giro qualcuno manifestando disprezzo.",
+      "Trattare un’idea, un valore o un’istituzione come assurdi o indegni di rispetto."
+    ]
+  },
+
+  "nuance": {
+    "ja": "単に面白くて笑うのではなく、相手を見下し、辱め、笑いものにする意図を含む。ridere di qualcunoにも「人を笑う」という意味があるが、deridereは悪意や軽蔑がより明確で、文章語・報道・正式な非難にも適する。冗談として親しくからかうprendere in giroより強く、相手を傷つける行為を示すことが多い。",
+    "it": "Non indica una semplice risata, ma un comportamento volto a mettere qualcuno in ridicolo o a manifestare disprezzo. È più esplicitamente offensivo di ridere di e generalmente più forte di prendere in giro, che può essere anche affettuoso o scherzoso. Si usa spesso anche in contesti formali per condannare comportamenti umilianti."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 dērīdēre（あざ笑う、嘲笑する）に由来し、強意または分離を表す接頭辞de-とrīdēre（笑う）から成る。過去分詞derisoはラテン語dērīsusにさかのぼる。",
+    "it": "Dal latino dērīdēre, formato dal prefisso de- e da rīdēre, «ridere». Il participio deriso deriva dal latino dērīsus. Alla stessa famiglia appartengono derisione e derisorio."
+  },
+
+  "minimal": [
+    {
+      "word": "deridere",
+      "ja": "軽蔑や悪意をもって人や物をあざ笑う",
+      "it": "ridere di qualcuno o qualcosa con disprezzo e intenzione offensiva"
+    },
+    {
+      "word": "prendere in giro",
+      "ja": "冗談または悪意をもって人をからかう",
+      "it": "scherzare alle spese di qualcuno, in modo amichevole oppure offensivo"
+    },
+    {
+      "word": "ridicolizzare",
+      "ja": "人や主張を意図的に滑稽に見せ、信用や威厳を損なう",
+      "it": "far apparire qualcuno o qualcosa assurdo e privo di dignità"
+    }
+  ],
+
+  "synonyms": [
+    "schernire",
+    "beffare",
+    "ridicolizzare",
+    "sbeffeggiare",
+    "dileggiare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "mock",
+      "ridicule",
+      "deride"
+    ],
+    "de": [
+      "verspotten",
+      "verhöhnen",
+      "auslachen"
+    ],
+    "fr": [
+      "railler",
+      "ridiculiser",
+      "tourner en dérision"
+    ],
+    "es": [
+      "burlarse de",
+      "ridiculizar",
+      "escarnecer"
+    ]
+  },
+
+  "collocations": [
+    "deridere qualcuno",
+    "deridere una persona",
+    "deridere un avversario",
+    "deridere un collega",
+    "deridere un compagno di classe",
+    "deridere qualcuno per il suo aspetto",
+    "deridere qualcuno per il suo accento",
+    "deridere qualcuno per un errore",
+    "deridere una proposta",
+    "deridere un’idea",
+    "deridere una convinzione",
+    "deridere una tradizione",
+    "deridere la religione",
+    "deridere le istituzioni",
+    "deridere apertamente",
+    "deridere pubblicamente",
+    "deridere crudelmente",
+    "essere deriso",
+    "sentirsi deriso",
+    "temere di essere deriso"
+  ],
+
+  "examples": [
+    {
+      "it": "Non bisogna deridere chi commette un errore.",
+      "ja": "間違いを犯した人をあざ笑ってはいけない。"
+    },
+    {
+      "it": "I compagni lo deridevano per il suo accento.",
+      "ja": "同級生たちは彼の訛りをからかっていた。"
+    },
+    {
+      "it": "La sua proposta fu inizialmente derisa.",
+      "ja": "彼の提案は当初、嘲笑された。"
+    },
+    {
+      "it": "Ha deriso pubblicamente le opinioni dell’avversario.",
+      "ja": "彼は対立相手の意見を公然とあざ笑った。"
+    },
+    {
+      "it": "Temeva che gli altri lo deridessero.",
+      "ja": "彼はほかの人たちから笑いものにされることを恐れていた。"
+    },
+    {
+      "it": "Non intendevo deriderti; stavo soltanto scherzando.",
+      "ja": "あなたを嘲笑するつもりはなく、ただ冗談を言っていただけです。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "derido",
+        "deridi",
+        "deride",
+        "deridiamo",
+        "deridete",
+        "deridono"
+      ],
+
+      "Imperfetto": [
+        "deridevo",
+        "deridevi",
+        "derideva",
+        "deridevamo",
+        "deridevate",
+        "deridevano"
+      ],
+
+      "Passato prossimo": [
+        "ho deriso",
+        "hai deriso",
+        "ha deriso",
+        "abbiamo deriso",
+        "avete deriso",
+        "hanno deriso"
+      ],
+
+      "Passato remoto": [
+        "derisi",
+        "deridesti",
+        "derise",
+        "deridemmo",
+        "derideste",
+        "derisero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo deriso",
+        "avevi deriso",
+        "aveva deriso",
+        "avevamo deriso",
+        "avevate deriso",
+        "avevano deriso"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi deriso",
+        "avesti deriso",
+        "ebbe deriso",
+        "avemmo deriso",
+        "aveste deriso",
+        "ebbero deriso"
+      ],
+
+      "Futuro semplice": [
+        "deriderò",
+        "deriderai",
+        "deriderà",
+        "derideremo",
+        "deriderete",
+        "derideranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò deriso",
+        "avrai deriso",
+        "avrà deriso",
+        "avremo deriso",
+        "avrete deriso",
+        "avranno deriso"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "derida",
+        "derida",
+        "derida",
+        "deridiamo",
+        "deridiate",
+        "deridano"
+      ],
+
+      "Imperfetto": [
+        "deridessi",
+        "deridessi",
+        "deridesse",
+        "deridessimo",
+        "derideste",
+        "deridessero"
+      ],
+
+      "Passato": [
+        "abbia deriso",
+        "abbia deriso",
+        "abbia deriso",
+        "abbiamo deriso",
+        "abbiate deriso",
+        "abbiano deriso"
+      ],
+
+      "Trapassato": [
+        "avessi deriso",
+        "avessi deriso",
+        "avesse deriso",
+        "avessimo deriso",
+        "aveste deriso",
+        "avessero deriso"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "deriderei",
+        "derideresti",
+        "deriderebbe",
+        "derideremmo",
+        "deridereste",
+        "deriderebbero"
+      ],
+
+      "Passato": [
+        "avrei deriso",
+        "avresti deriso",
+        "avrebbe deriso",
+        "avremmo deriso",
+        "avreste deriso",
+        "avrebbero deriso"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "deridi",
+        "derida",
+        "deridiamo",
+        "deridete",
+        "deridano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "deridere",
+        "avere deriso",
+        "deridente",
+        "deriso",
+        "deridendo",
+        "avendo deriso"
+      ]
+    }
+  }
+},
+{
   "id": "arrabbiarsi",
   "sid": "2026-00126",
   "word": "arrabbiarsi",
