@@ -8309,6 +8309,962 @@
       ]
     }
   }
+},
+{
+  "id": "cercare",
+  "sid": "2026-00148",
+  "word": "cercare",
+  "ipa": "/tʃerˈkare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "cercato",
+    "gerundPresent": "cercando",
+    "pattern": "cercare qualcuno o qualcosa / cercare di + infinito / cercare in + luogo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "travel",
+      "academic",
+      "technology"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人・物を探す",
+      "情報・答え・解決策などを探し求める",
+      "仕事・家・機会などを求める",
+      "～しようと試みる、努力する",
+      "人に連絡を取ろうとする、人を呼び出す"
+    ],
+    "it": [
+      "Tentare di trovare una persona o una cosa.",
+      "Ricercare informazioni, risposte o soluzioni.",
+      "Procurarsi un lavoro, una casa, un’occasione o un’altra risorsa.",
+      "Tentare o sforzarsi di compiere un’azione.",
+      "Provare a contattare o a raggiungere una persona."
+    ]
+  },
+
+  "nuance": {
+    "ja": "人・物・情報など、見つけたい対象を直接目的語に取る基本動詞である。英語のlook forと異なり、通常は前置詞を置かず、cercare le chiaviのように用いる。cercare di + 不定詞は「～しようとする」を表す。ricercareは、より体系的・専門的に調査する場合や、希少な物を念入りに探し求める場合に使われることが多い。",
+    "it": "È il verbo fondamentale per indicare il tentativo di trovare qualcuno o qualcosa e regge normalmente un oggetto diretto: cercare le chiavi. La costruzione cercare di seguita dall’infinito significa tentare o sforzarsi di fare qualcosa. Ricercare può suggerire un’indagine più sistematica, specialistica o accurata."
+  },
+
+  "etymology": {
+    "ja": "後期ラテン語 circāre（周囲を回る、探し回る）に由来し、これはラテン語circusまたはcirca（周囲に）と関係する。探すために周囲を歩き回るという考えから、現在の「探す」という意味が発達した。",
+    "it": "Dal latino tardo circāre, «andare intorno, percorrere cercando», derivato da circa, «intorno». Dall’idea di muoversi attorno a qualcosa per trovarla si è sviluppato il significato moderno."
+  },
+
+  "minimal": [
+    {
+      "word": "cercare",
+      "ja": "人・物・情報などを見つけようとする、または行為を試みる",
+      "it": "tentare di trovare qualcuno o qualcosa oppure provare a compiere un’azione"
+    },
+    {
+      "word": "ricercare",
+      "ja": "情報・原因・対象などを体系的または念入りに調査・探索する",
+      "it": "svolgere una ricerca sistematica o particolarmente accurata"
+    },
+    {
+      "word": "trovare",
+      "ja": "探していた物を実際に発見する、または偶然見つける",
+      "it": "riuscire a individuare qualcosa, cercandolo oppure casualmente"
+    }
+  ],
+
+  "synonyms": [
+    "provare a trovare",
+    "tentare",
+    "esplorare",
+    "individuare",
+    "aspirare a"
+  ],
+
+  "equivalents": {
+    "en": [
+      "look for",
+      "search for",
+      "try"
+    ],
+    "de": [
+      "suchen",
+      "versuchen",
+      "aufsuchen"
+    ],
+    "fr": [
+      "chercher",
+      "essayer de",
+      "rechercher"
+    ],
+    "es": [
+      "buscar",
+      "intentar",
+      "tratar de"
+    ]
+  },
+
+  "collocations": [
+    "cercare qualcuno",
+    "cercare qualcosa",
+    "cercare le chiavi",
+    "cercare un documento",
+    "cercare un indirizzo",
+    "cercare informazioni",
+    "cercare una risposta",
+    "cercare una soluzione",
+    "cercare aiuto",
+    "cercare consiglio",
+    "cercare lavoro",
+    "cercare casa",
+    "cercare un albergo",
+    "cercare su Internet",
+    "cercare nel dizionario",
+    "cercare dappertutto",
+    "cercare attentamente",
+    "cercare disperatamente",
+    "cercare di capire",
+    "cercare di ricordare",
+    "cercare di evitare",
+    "cercare di fare qualcosa",
+    "venire a cercare qualcuno",
+    "andare a cercare qualcosa"
+  ],
+
+  "examples": [
+    {
+      "it": "Sto cercando le chiavi della macchina.",
+      "ja": "私は車の鍵を探している。"
+    },
+    {
+      "it": "Cerchiamo un appartamento vicino alla stazione.",
+      "ja": "私たちは駅の近くでアパートを探している。"
+    },
+    {
+      "it": "Puoi cercare questa parola nel dizionario.",
+      "ja": "この単語を辞書で調べることができます。"
+    },
+    {
+      "it": "Ho cercato informazioni sul sito dell’azienda.",
+      "ja": "私は会社のウェブサイトで情報を探した。"
+    },
+    {
+      "it": "Cercherò di arrivare in orario.",
+      "ja": "時間どおりに到着するよう努力します。"
+    },
+    {
+      "it": "Ti ho cercato tutto il giorno.",
+      "ja": "私は一日中あなたを捜していた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "cerco",
+        "cerchi",
+        "cerca",
+        "cerchiamo",
+        "cercate",
+        "cercano"
+      ],
+
+      "Imperfetto": [
+        "cercavo",
+        "cercavi",
+        "cercava",
+        "cercavamo",
+        "cercavate",
+        "cercavano"
+      ],
+
+      "Passato prossimo": [
+        "ho cercato",
+        "hai cercato",
+        "ha cercato",
+        "abbiamo cercato",
+        "avete cercato",
+        "hanno cercato"
+      ],
+
+      "Passato remoto": [
+        "cercai",
+        "cercasti",
+        "cercò",
+        "cercammo",
+        "cercaste",
+        "cercarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo cercato",
+        "avevi cercato",
+        "aveva cercato",
+        "avevamo cercato",
+        "avevate cercato",
+        "avevano cercato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi cercato",
+        "avesti cercato",
+        "ebbe cercato",
+        "avemmo cercato",
+        "aveste cercato",
+        "ebbero cercato"
+      ],
+
+      "Futuro semplice": [
+        "cercherò",
+        "cercherai",
+        "cercherà",
+        "cercheremo",
+        "cercherete",
+        "cercheranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò cercato",
+        "avrai cercato",
+        "avrà cercato",
+        "avremo cercato",
+        "avrete cercato",
+        "avranno cercato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "cerchi",
+        "cerchi",
+        "cerchi",
+        "cerchiamo",
+        "cerchiate",
+        "cerchino"
+      ],
+
+      "Imperfetto": [
+        "cercassi",
+        "cercassi",
+        "cercasse",
+        "cercassimo",
+        "cercaste",
+        "cercassero"
+      ],
+
+      "Passato": [
+        "abbia cercato",
+        "abbia cercato",
+        "abbia cercato",
+        "abbiamo cercato",
+        "abbiate cercato",
+        "abbiano cercato"
+      ],
+
+      "Trapassato": [
+        "avessi cercato",
+        "avessi cercato",
+        "avesse cercato",
+        "avessimo cercato",
+        "aveste cercato",
+        "avessero cercato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "cercherei",
+        "cercheresti",
+        "cercherebbe",
+        "cercheremmo",
+        "cerchereste",
+        "cercherebbero"
+      ],
+
+      "Passato": [
+        "avrei cercato",
+        "avresti cercato",
+        "avrebbe cercato",
+        "avremmo cercato",
+        "avreste cercato",
+        "avrebbero cercato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "cerca",
+        "cerchi",
+        "cerchiamo",
+        "cercate",
+        "cerchino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "cercare",
+        "avere cercato",
+        "cercante",
+        "cercato",
+        "cercando",
+        "avendo cercato"
+      ]
+    }
+  }
+},
+{
+  "id": "telefonare",
+  "sid": "2026-00149",
+  "word": "telefonare",
+  "ipa": "/telefoˈnare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞",
+      "it": "verbo intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "telefonato",
+    "gerundPresent": "telefonando",
+    "pattern": "telefonare a + persona / telefonare per + motivo / telefonare da + luogo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "family",
+      "social",
+      "emergency"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人に電話をかける",
+      "電話で連絡する",
+      "情報・予約・援助などを求めて電話する",
+      "電話で人と話す"
+    ],
+    "it": [
+      "Chiamare una persona mediante il telefono.",
+      "Mettersi in contatto telefonico con qualcuno.",
+      "Fare una telefonata per chiedere informazioni, prenotare o richiedere assistenza.",
+      "Comunicare o conversare con qualcuno per telefono."
+    ]
+  },
+
+  "nuance": {
+    "ja": "電話をかける相手は通常、前置詞aで示し、telefonare a qualcunoと言う。したがって英語のcall someoneに引かれてtelefonare qualcunoとはしない。日常会話ではchiamareも「電話する」の意味で広く使われるが、telefonareは連絡手段が電話であることを明確に示す。特定の番号へ電話する場合はtelefonare al numero...またはchiamare il numero...を用いる。",
+    "it": "La persona contattata è normalmente introdotta dalla preposizione a: telefonare a qualcuno. Chiamare è molto comune nello stesso significato, ma telefonare specifica chiaramente che il contatto avviene mediante il telefono. Con un numero si può dire telefonare al numero indicato oppure chiamare il numero indicato."
+  },
+
+  "etymology": {
+    "ja": "名詞telefonoから形成された動詞である。telefonoはギリシャ語由来の要素tele-（遠く）と-phono（音、声）から成り、文字どおりには「遠くの音・声」を意味する。同じ要素はtelevisione、telegramma、foneticaなどにも見られる。",
+    "it": "Derivato dal sostantivo telefono, formato dagli elementi di origine greca tele-, «lontano», e -fono, «suono, voce». Il significato etimologico è quindi quello di trasmettere la voce a distanza."
+  },
+
+  "minimal": [
+    {
+      "word": "telefonare",
+      "ja": "電話という通信手段を使って人に連絡する",
+      "it": "mettersi in contatto con qualcuno mediante il telefono"
+    },
+    {
+      "word": "chiamare",
+      "ja": "人を呼ぶ、名前を付ける、または電話をかける",
+      "it": "rivolgersi a qualcuno, dargli un nome oppure contattarlo telefonicamente"
+    },
+    {
+      "word": "contattare",
+      "ja": "電話・メールなど手段を限定せず、人や組織に連絡を取る",
+      "it": "stabilire una comunicazione con una persona o un’organizzazione mediante qualsiasi mezzo"
+    }
+  ],
+
+  "synonyms": [
+    "chiamare",
+    "fare una telefonata",
+    "contattare telefonicamente",
+    "mettersi in contatto",
+    "sentire per telefono"
+  ],
+
+  "equivalents": {
+    "en": [
+      "call",
+      "phone",
+      "telephone"
+    ],
+    "de": [
+      "telefonieren",
+      "anrufen"
+    ],
+    "fr": [
+      "téléphoner",
+      "appeler"
+    ],
+    "es": [
+      "telefonear",
+      "llamar por teléfono"
+    ]
+  },
+
+  "collocations": [
+    "telefonare a qualcuno",
+    "telefonare a un amico",
+    "telefonare ai genitori",
+    "telefonare al medico",
+    "telefonare alla polizia",
+    "telefonare in ufficio",
+    "telefonare a casa",
+    "telefonare al numero indicato",
+    "telefonare per informazioni",
+    "telefonare per prenotare",
+    "telefonare per confermare",
+    "telefonare per chiedere aiuto",
+    "telefonare subito",
+    "telefonare più tardi",
+    "telefonare ogni giorno",
+    "telefonare dall’estero",
+    "telefonare dal cellulare",
+    "provare a telefonare",
+    "dimenticare di telefonare",
+    "promettere di telefonare",
+    "chiedere a qualcuno di telefonare",
+    "aspettare che qualcuno telefoni"
+  ],
+
+  "examples": [
+    {
+      "it": "Devo telefonare a mia moglie.",
+      "ja": "妻に電話しなければならない。"
+    },
+    {
+      "it": "Ho telefonato al medico questa mattina.",
+      "ja": "私は今朝、医師に電話した。"
+    },
+    {
+      "it": "Puoi telefonarmi quando arrivi?",
+      "ja": "到着したら私に電話してくれますか。"
+    },
+    {
+      "it": "Abbiamo telefonato per prenotare un tavolo.",
+      "ja": "私たちは席を予約するために電話した。"
+    },
+    {
+      "it": "Ti telefonerò appena avrò nuove informazioni.",
+      "ja": "新しい情報が入り次第、あなたに電話します。"
+    },
+    {
+      "it": "Ha provato a telefonare, ma nessuno ha risposto.",
+      "ja": "彼は電話をかけてみたが、誰も出なかった。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "telefono",
+        "telefoni",
+        "telefona",
+        "telefoniamo",
+        "telefonate",
+        "telefonano"
+      ],
+
+      "Imperfetto": [
+        "telefonavo",
+        "telefonavi",
+        "telefonava",
+        "telefonavamo",
+        "telefonavate",
+        "telefonavano"
+      ],
+
+      "Passato prossimo": [
+        "ho telefonato",
+        "hai telefonato",
+        "ha telefonato",
+        "abbiamo telefonato",
+        "avete telefonato",
+        "hanno telefonato"
+      ],
+
+      "Passato remoto": [
+        "telefonai",
+        "telefonasti",
+        "telefonò",
+        "telefonammo",
+        "telefonaste",
+        "telefonarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo telefonato",
+        "avevi telefonato",
+        "aveva telefonato",
+        "avevamo telefonato",
+        "avevate telefonato",
+        "avevano telefonato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi telefonato",
+        "avesti telefonato",
+        "ebbe telefonato",
+        "avemmo telefonato",
+        "aveste telefonato",
+        "ebbero telefonato"
+      ],
+
+      "Futuro semplice": [
+        "telefonerò",
+        "telefonerai",
+        "telefonerà",
+        "telefoneremo",
+        "telefonerete",
+        "telefoneranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò telefonato",
+        "avrai telefonato",
+        "avrà telefonato",
+        "avremo telefonato",
+        "avrete telefonato",
+        "avranno telefonato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "telefoni",
+        "telefoni",
+        "telefoni",
+        "telefoniamo",
+        "telefoniate",
+        "telefonino"
+      ],
+
+      "Imperfetto": [
+        "telefonassi",
+        "telefonassi",
+        "telefonasse",
+        "telefonassimo",
+        "telefonaste",
+        "telefonassero"
+      ],
+
+      "Passato": [
+        "abbia telefonato",
+        "abbia telefonato",
+        "abbia telefonato",
+        "abbiamo telefonato",
+        "abbiate telefonato",
+        "abbiano telefonato"
+      ],
+
+      "Trapassato": [
+        "avessi telefonato",
+        "avessi telefonato",
+        "avesse telefonato",
+        "avessimo telefonato",
+        "aveste telefonato",
+        "avessero telefonato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "telefonerei",
+        "telefoneresti",
+        "telefonerebbe",
+        "telefoneremmo",
+        "telefonereste",
+        "telefonerebbero"
+      ],
+
+      "Passato": [
+        "avrei telefonato",
+        "avresti telefonato",
+        "avrebbe telefonato",
+        "avremmo telefonato",
+        "avreste telefonato",
+        "avrebbero telefonato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "telefona",
+        "telefoni",
+        "telefoniamo",
+        "telefonate",
+        "telefonino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "telefonare",
+        "avere telefonato",
+        "telefonante",
+        "telefonato",
+        "telefonando",
+        "avendo telefonato"
+      ]
+    }
+  }
+},
+{
+  "id": "puzzare",
+  "sid": "2026-00150",
+  "word": "puzzare",
+  "ipa": "/putˈtsare/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞",
+      "it": "verbo intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "puzzato",
+    "gerundPresent": "puzzando",
+    "pattern": "puzzare / puzzare di + odore o sostanza / puzzare come + nome"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "food",
+      "hygiene",
+      "environment"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "悪臭を放つ、臭い",
+      "特定の物の嫌な臭いがする",
+      "人や物が不潔・腐敗しているような臭いを発する",
+      "比喩的に、物事が怪しい、不正や危険を感じさせる"
+    ],
+    "it": [
+      "Emanare un odore cattivo o sgradevole.",
+      "Avere un odore forte che ricorda una determinata sostanza.",
+      "Mandare un odore associato alla sporcizia, alla decomposizione o al deterioramento.",
+      "In senso figurato, suscitare sospetto o sembrare poco onesto."
+    ]
+  },
+
+  "nuance": {
+    "ja": "単に「匂いがする」ではなく、通常は不快な臭いを放つことを表す。odorareは良い匂いにも悪い匂いにも使えるが、puzzareには明確に否定的な評価が含まれる。臭いの種類はpuzzare di fumoのようにdiで示す。人に対して直接使うと失礼になりやすいため注意が必要である。",
+    "it": "Indica normalmente un odore decisamente sgradevole e contiene quindi una valutazione negativa. Odorare può riferirsi anche a un profumo gradevole, mentre puzzare significa emanare cattivo odore. La sostanza o l’odore riconoscibile è introdotto frequentemente da di. Rivolto direttamente a una persona può risultare offensivo."
+  },
+
+  "etymology": {
+    "ja": "名詞puzza（悪臭）から形成された動詞である。puzzaのさらに古い語源は明確ではないが、悪臭や腐敗臭を表す擬音的・表現的な語に由来すると考えられている。同じ語族にはpuzzolente、puzzetta、puzzolaなどがある。",
+    "it": "Derivato dal sostantivo puzza. L’origine più antica è incerta e viene generalmente collegata a una formazione espressiva o imitativa riferita al cattivo odore. Alla stessa famiglia appartengono puzzolente, puzzetta e puzzola."
+  },
+
+  "minimal": [
+    {
+      "word": "puzzare",
+      "ja": "不快で嫌な臭いを放つ",
+      "it": "emanare un odore cattivo e sgradevole"
+    },
+    {
+      "word": "odorare",
+      "ja": "良い悪いを問わず匂いがする、または物の匂いを嗅ぐ",
+      "it": "emanare un odore oppure percepire qualcosa mediante l’olfatto"
+    },
+    {
+      "word": "profumare",
+      "ja": "心地よい香りを放つ、または香りを付ける",
+      "it": "emanare un odore gradevole oppure rendere qualcosa profumato"
+    }
+  ],
+
+  "synonyms": [
+    "mandare cattivo odore",
+    "emanare un fetore",
+    "fetere",
+    "ammorbare",
+    "essere maleodorante"
+  ],
+
+  "equivalents": {
+    "en": [
+      "stink",
+      "smell bad",
+      "reek"
+    ],
+    "de": [
+      "stinken",
+      "übel riechen"
+    ],
+    "fr": [
+      "puer",
+      "sentir mauvais"
+    ],
+    "es": [
+      "apestar",
+      "oler mal"
+    ]
+  },
+
+  "collocations": [
+    "puzzare molto",
+    "puzzare terribilmente",
+    "puzzare da morire",
+    "puzzare di fumo",
+    "puzzare di sudore",
+    "puzzare di alcol",
+    "puzzare di benzina",
+    "puzzare di bruciato",
+    "puzzare di marcio",
+    "puzzare di muffa",
+    "puzzare di pesce",
+    "puzzare di cipolla",
+    "puzzare come una fogna",
+    "cominciare a puzzare",
+    "smettere di puzzare",
+    "far puzzare la stanza",
+    "vestiti che puzzano",
+    "cibo che puzza",
+    "acqua che puzza",
+    "qui puzza",
+    "qualcosa puzza",
+    "la faccenda puzza"
+  ],
+
+  "examples": [
+    {
+      "it": "Questo pesce puzza: non mangiarlo.",
+      "ja": "この魚は臭う。食べないでください。"
+    },
+    {
+      "it": "I tuoi vestiti puzzano di fumo.",
+      "ja": "あなたの服はたばこ臭い。"
+    },
+    {
+      "it": "In cucina puzzava di bruciato.",
+      "ja": "台所では焦げた臭いがしていた。"
+    },
+    {
+      "it": "La spazzatura ha cominciato a puzzare.",
+      "ja": "ごみが臭い始めた。"
+    },
+    {
+      "it": "Apri la finestra: qui puzza terribilmente.",
+      "ja": "窓を開けてください。ここはひどく臭います。"
+    },
+    {
+      "it": "Questa faccenda puzza di truffa.",
+      "ja": "この件は詐欺の臭いがする。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "puzzo",
+        "puzzi",
+        "puzza",
+        "puzziamo",
+        "puzzate",
+        "puzzano"
+      ],
+
+      "Imperfetto": [
+        "puzzavo",
+        "puzzavi",
+        "puzzava",
+        "puzzavamo",
+        "puzzavate",
+        "puzzavano"
+      ],
+
+      "Passato prossimo": [
+        "ho puzzato",
+        "hai puzzato",
+        "ha puzzato",
+        "abbiamo puzzato",
+        "avete puzzato",
+        "hanno puzzato"
+      ],
+
+      "Passato remoto": [
+        "puzzai",
+        "puzzasti",
+        "puzzò",
+        "puzzammo",
+        "puzzaste",
+        "puzzarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo puzzato",
+        "avevi puzzato",
+        "aveva puzzato",
+        "avevamo puzzato",
+        "avevate puzzato",
+        "avevano puzzato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi puzzato",
+        "avesti puzzato",
+        "ebbe puzzato",
+        "avemmo puzzato",
+        "aveste puzzato",
+        "ebbero puzzato"
+      ],
+
+      "Futuro semplice": [
+        "puzzerò",
+        "puzzerai",
+        "puzzerà",
+        "puzzeremo",
+        "puzzerete",
+        "puzzeranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò puzzato",
+        "avrai puzzato",
+        "avrà puzzato",
+        "avremo puzzato",
+        "avrete puzzato",
+        "avranno puzzato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "puzzi",
+        "puzzi",
+        "puzzi",
+        "puzziamo",
+        "puzziate",
+        "puzzino"
+      ],
+
+      "Imperfetto": [
+        "puzzassi",
+        "puzzassi",
+        "puzzasse",
+        "puzzassimo",
+        "puzzaste",
+        "puzzassero"
+      ],
+
+      "Passato": [
+        "abbia puzzato",
+        "abbia puzzato",
+        "abbia puzzato",
+        "abbiamo puzzato",
+        "abbiate puzzato",
+        "abbiano puzzato"
+      ],
+
+      "Trapassato": [
+        "avessi puzzato",
+        "avessi puzzato",
+        "avesse puzzato",
+        "avessimo puzzato",
+        "aveste puzzato",
+        "avessero puzzato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "puzzerei",
+        "puzzeresti",
+        "puzzerebbe",
+        "puzzeremmo",
+        "puzzereste",
+        "puzzerebbero"
+      ],
+
+      "Passato": [
+        "avrei puzzato",
+        "avresti puzzato",
+        "avrebbe puzzato",
+        "avremmo puzzato",
+        "avreste puzzato",
+        "avrebbero puzzato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "puzza",
+        "puzzi",
+        "puzziamo",
+        "puzzate",
+        "puzzino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "puzzare",
+        "avere puzzato",
+        "puzzante",
+        "puzzato",
+        "puzzando",
+        "avendo puzzato"
+      ]
+    }
+  }
 }
 ]
 
