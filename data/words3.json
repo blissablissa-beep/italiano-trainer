@@ -7665,6 +7665,326 @@
       ]
     }
   }
+},
+{
+  "id": "lavorare",
+  "sid": "2026-00145",
+  "word": "lavorare",
+  "ipa": "/lavoˈrare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "lavorato",
+    "gerundPresent": "lavorando",
+    "pattern": "lavorare a/in/presso + luogo / lavorare come + professione / lavorare su + progetto / lavorare qualcosa"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "academic",
+      "manual_work"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "仕事をする、働く",
+      "特定の職業・組織・場所で勤務する",
+      "課題・計画・問題などに取り組む",
+      "材料・製品・土地などを加工・処理する",
+      "機械・装置・身体の一部などが作動する"
+    ],
+    "it": [
+      "Svolgere un’attività professionale o produttiva.",
+      "Esercitare una professione o prestare servizio presso un’organizzazione.",
+      "Impegnarsi nello sviluppo di un progetto, di un compito o di una soluzione.",
+      "Trasformare, modellare o trattare un materiale, un prodotto o il terreno.",
+      "Funzionare o essere sottoposto a uno sforzo, con riferimento a macchine e parti meccaniche."
+    ]
+  },
+
+  "nuance": {
+    "ja": "職業として働く場合から、課題への取り組み、材料の加工、機械の作動まで広く使われる。勤務先にはlavorare perまたはpresso、業界・場所にはin、計画・課題にはsu、職業にはcomeを用いる。英語workと異なり、目的語を直接取ってlavorare il legnoのように「材料を加工する」とも言える。",
+    "it": "È il verbo generale del lavoro e può riferirsi a un’attività professionale, a un progetto, alla trasformazione di un materiale o al funzionamento di un meccanismo. Si usa spesso per o presso con il datore di lavoro, in con un settore o un luogo, su con un progetto e come con una professione. Nell’uso transitivo significa trattare o trasformare direttamente un materiale."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 labōrāre（苦労する、働く）に由来し、名詞labor（労働、努力、苦労）から形成された。同じ語族にはlavoro、lavoratore、laborioso、collaborareなどがある。",
+    "it": "Dal latino labōrāre, «faticare, lavorare», derivato da labor, «fatica, sforzo, lavoro». Alla stessa famiglia appartengono lavoro, lavoratore, laborioso e collaborare."
+  },
+
+  "minimal": [
+    {
+      "word": "lavorare",
+      "ja": "職業上の仕事、課題への取り組み、材料の加工などを広く表す",
+      "it": "svolgere un’attività professionale, operare su un progetto o trasformare un materiale"
+    },
+    {
+      "word": "operare",
+      "ja": "専門的・技術的・組織的な活動を行う、または機械などが作動する",
+      "it": "svolgere un’attività tecnica o organizzata, oppure funzionare"
+    },
+    {
+      "word": "studiare",
+      "ja": "知識・技能の習得や問題の分析を目的として学ぶ",
+      "it": "applicarsi all’apprendimento o all’analisi di una materia"
+    }
+  ],
+
+  "synonyms": [
+    "operare",
+    "faticare",
+    "esercitare",
+    "svolgere",
+    "produrre"
+  ],
+
+  "equivalents": {
+    "en": [
+      "work",
+      "process",
+      "operate"
+    ],
+    "de": [
+      "arbeiten",
+      "bearbeiten",
+      "verarbeiten"
+    ],
+    "fr": [
+      "travailler",
+      "façonner",
+      "traiter"
+    ],
+    "es": [
+      "trabajar",
+      "elaborar",
+      "procesar"
+    ]
+  },
+
+  "collocations": [
+    "lavorare molto",
+    "lavorare duramente",
+    "lavorare bene",
+    "lavorare male",
+    "lavorare tutto il giorno",
+    "lavorare a tempo pieno",
+    "lavorare a tempo parziale",
+    "lavorare da casa",
+    "lavorare in ufficio",
+    "lavorare all’estero",
+    "lavorare per un’azienda",
+    "lavorare presso un’università",
+    "lavorare come avvocato",
+    "lavorare con qualcuno",
+    "lavorare in gruppo",
+    "lavorare insieme",
+    "lavorare su un progetto",
+    "lavorare a una soluzione",
+    "lavorare il legno",
+    "lavorare il metallo",
+    "lavorare la terra",
+    "mettersi a lavorare"
+  ],
+
+  "examples": [
+    {
+      "it": "Lavoro in un ufficio nel centro di Tokyo.",
+      "ja": "私は東京の中心部にある事務所で働いている。"
+    },
+    {
+      "it": "Mia moglie lavora come insegnante.",
+      "ja": "私の妻は教師として働いている。"
+    },
+    {
+      "it": "Abbiamo lavorato fino a tarda sera.",
+      "ja": "私たちは夜遅くまで働いた。"
+    },
+    {
+      "it": "Stiamo lavorando a un nuovo progetto.",
+      "ja": "私たちは新しい計画に取り組んでいるところだ。"
+    },
+    {
+      "it": "Questo artigiano lavora il legno a mano.",
+      "ja": "この職人は木材を手作業で加工する。"
+    },
+    {
+      "it": "Vorrei lavorare all’estero per alcuni anni.",
+      "ja": "数年間、海外で働いてみたい。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "lavoro",
+        "lavori",
+        "lavora",
+        "lavoriamo",
+        "lavorate",
+        "lavorano"
+      ],
+
+      "Imperfetto": [
+        "lavoravo",
+        "lavoravi",
+        "lavorava",
+        "lavoravamo",
+        "lavoravate",
+        "lavoravano"
+      ],
+
+      "Passato prossimo": [
+        "ho lavorato",
+        "hai lavorato",
+        "ha lavorato",
+        "abbiamo lavorato",
+        "avete lavorato",
+        "hanno lavorato"
+      ],
+
+      "Passato remoto": [
+        "lavorai",
+        "lavorasti",
+        "lavorò",
+        "lavorammo",
+        "lavoraste",
+        "lavorarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo lavorato",
+        "avevi lavorato",
+        "aveva lavorato",
+        "avevamo lavorato",
+        "avevate lavorato",
+        "avevano lavorato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi lavorato",
+        "avesti lavorato",
+        "ebbe lavorato",
+        "avemmo lavorato",
+        "aveste lavorato",
+        "ebbero lavorato"
+      ],
+
+      "Futuro semplice": [
+        "lavorerò",
+        "lavorerai",
+        "lavorerà",
+        "lavoreremo",
+        "lavorerete",
+        "lavoreranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò lavorato",
+        "avrai lavorato",
+        "avrà lavorato",
+        "avremo lavorato",
+        "avrete lavorato",
+        "avranno lavorato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "lavori",
+        "lavori",
+        "lavori",
+        "lavoriamo",
+        "lavoriate",
+        "lavorino"
+      ],
+
+      "Imperfetto": [
+        "lavorassi",
+        "lavorassi",
+        "lavorasse",
+        "lavorassimo",
+        "lavoraste",
+        "lavorassero"
+      ],
+
+      "Passato": [
+        "abbia lavorato",
+        "abbia lavorato",
+        "abbia lavorato",
+        "abbiamo lavorato",
+        "abbiate lavorato",
+        "abbiano lavorato"
+      ],
+
+      "Trapassato": [
+        "avessi lavorato",
+        "avessi lavorato",
+        "avesse lavorato",
+        "avessimo lavorato",
+        "aveste lavorato",
+        "avessero lavorato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "lavorerei",
+        "lavoreresti",
+        "lavorerebbe",
+        "lavoreremmo",
+        "lavorereste",
+        "lavorerebbero"
+      ],
+
+      "Passato": [
+        "avrei lavorato",
+        "avresti lavorato",
+        "avrebbe lavorato",
+        "avremmo lavorato",
+        "avreste lavorato",
+        "avrebbero lavorato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "lavora",
+        "lavori",
+        "lavoriamo",
+        "lavorate",
+        "lavorino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "lavorare",
+        "avere lavorato",
+        "lavorante",
+        "lavorato",
+        "lavorando",
+        "avendo lavorato"
+      ]
+    }
+  }
 }
 ]
 
