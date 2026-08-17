@@ -10251,336 +10251,6 @@
   }
 },
 {
-  "id": "annunciare",
-  "sid": "2026-00153",
-  "word": "annunciare",
-  "ipa": "/annunˈtʃare/",
-  "level": "A2",
-  "frequency": "very_common",
-
-  "grammar": {
-    "pos": "verb",
-    "label": {
-      "ja": "他動詞",
-      "it": "verbo transitivo"
-    },
-    "auxiliary": "avere",
-    "pastParticiple": "annunciato",
-    "gerundPresent": "annunciando",
-    "pattern": "annunciare qualcosa / annunciare qualcosa a qualcuno / annunciare che + frase"
-  },
-
-  "usage": {
-    "register": [
-      "neutral",
-      "formal",
-      "journalistic"
-    ],
-    "medium": [
-      "spoken",
-      "written"
-    ],
-    "situations": [
-      "conversation",
-      "business",
-      "news",
-      "political",
-      "formal_correspondence"
-    ]
-  },
-
-  "meaning": {
-    "ja": [
-      "ニュース・決定・予定などを発表する、告知する",
-      "人に出来事や情報を知らせる",
-      "人や物の到着・開始などを告げる",
-      "将来起こる出来事を予告する",
-      "兆候などが出来事の到来を示す"
-    ],
-    "it": [
-      "Comunicare pubblicamente una notizia, una decisione o un programma.",
-      "Far sapere qualcosa a una persona.",
-      "Segnalare l’arrivo, l’inizio o la presenza di qualcuno o qualcosa.",
-      "Preannunciare un evento futuro.",
-      "Indicare, come segno o indizio, che qualcosa sta per accadere."
-    ]
-  },
-
-  "nuance": {
-    "ja": "新しい情報や重要な出来事を、相手または公衆に向けて明確に知らせることを表す。direが一般的な「言う」、informareが必要な情報を提供することに重点を置くのに対し、annunciareはニュース性のある事柄を正式または目立つ形で発表するニュアンスを持つ。内容は直接目的語、知らせる相手はaで示す。",
-    "it": "Mette in rilievo la comunicazione chiara di una novità o di un avvenimento significativo, spesso a una persona o al pubblico. Dire è il verbo generale del parlare; informare sottolinea la trasmissione di informazioni utili; annunciare presenta invece qualcosa come una notizia o una comunicazione ufficiale. Il contenuto è l’oggetto diretto e il destinatario è introdotto da a."
-  },
-
-  "etymology": {
-    "ja": "ラテン語 annuntiāre（知らせる、告げる）に由来し、ad-（～へ）とnuntius（使者、知らせ）から成る。接頭辞の子音同化によりad-がan-となった。同じ語族にはannuncio、nunzio、denunciare、pronunciareなどがある。",
-    "it": "Dal latino annuntiāre, formato da ad-, «verso», e nuntius, «messaggero, notizia», con assimilazione consonantica. Alla stessa famiglia appartengono annuncio, nunzio, denunciare e preannunciare."
-  },
-
-  "minimal": [
-    {
-      "word": "annunciare",
-      "ja": "新しい情報・決定・出来事などを公的または明確に発表する",
-      "it": "comunicare come notizia una decisione, un fatto o un evento"
-    },
-    {
-      "word": "informare",
-      "ja": "人が必要とする事実・状況・手続きなどの情報を提供する",
-      "it": "fornire a qualcuno informazioni utili su fatti, condizioni o procedure"
-    },
-    {
-      "word": "comunicare",
-      "ja": "情報・考え・決定などを他者へ伝達することを広く表す",
-      "it": "trasmettere in generale informazioni, idee, decisioni o sentimenti"
-    },
-    {
-      "word": "avvisare",
-      "ja": "注意・準備・行動が必要な事柄を前もって知らせる",
-      "it": "informare qualcuno di qualcosa che richiede attenzione o preparazione"
-    }
-  ],
-
-  "synonyms": [
-    "comunicare",
-    "rendere noto",
-    "informare",
-    "dichiarare",
-    "preannunciare"
-  ],
-
-  "equivalents": {
-    "en": [
-      "announce",
-      "declare",
-      "notify"
-    ],
-    "de": [
-      "ankündigen",
-      "bekannt geben",
-      "verkünden"
-    ],
-    "fr": [
-      "annoncer",
-      "faire savoir",
-      "déclarer"
-    ],
-    "es": [
-      "anunciar",
-      "comunicar",
-      "dar a conocer"
-    ]
-  },
-
-  "collocations": [
-    "annunciare una notizia",
-    "annunciare una decisione",
-    "annunciare un accordo",
-    "annunciare un cambiamento",
-    "annunciare un progetto",
-    "annunciare un’iniziativa",
-    "annunciare i risultati",
-    "annunciare la propria candidatura",
-    "annunciare le dimissioni",
-    "annunciare la nascita di un bambino",
-    "annunciare un matrimonio",
-    "annunciare la morte di qualcuno",
-    "annunciare l’arrivo",
-    "annunciare la partenza",
-    "annunciare ufficialmente",
-    "annunciare pubblicamente",
-    "annunciare improvvisamente",
-    "annunciare in anticipo",
-    "annunciare qualcosa a qualcuno",
-    "annunciare che qualcosa accadrà",
-    "essere lieto di annunciare",
-    "venire annunciato",
-    "la primavera si annuncia",
-    "nuvole che annunciano la pioggia"
-  ],
-
-  "examples": [
-    {
-      "it": "L’azienda ha annunciato un nuovo progetto.",
-      "ja": "会社は新しい計画を発表した。"
-    },
-    {
-      "it": "Il governo annuncerà la decisione domani.",
-      "ja": "政府は明日その決定を発表する。"
-    },
-    {
-      "it": "Siamo lieti di annunciare la nascita di nostra figlia.",
-      "ja": "私たちの娘の誕生を喜んでお知らせします。"
-    },
-    {
-      "it": "Ha annunciato ai colleghi che avrebbe lasciato il lavoro.",
-      "ja": "彼は同僚たちに仕事を辞めるつもりだと告げた。"
-    },
-    {
-      "it": "Una voce ha annunciato l’arrivo del treno.",
-      "ja": "アナウンスが列車の到着を告げた。"
-    },
-    {
-      "it": "Le nuvole scure annunciavano un temporale.",
-      "ja": "黒い雲が嵐の到来を予告していた。"
-    }
-  ],
-
-  "conjugations": {
-    "Indicativo": {
-      "Presente": [
-        "annuncio",
-        "annunci",
-        "annuncia",
-        "annunciamo",
-        "annunciate",
-        "annunciano"
-      ],
-
-      "Imperfetto": [
-        "annunciavo",
-        "annunciavi",
-        "annunciava",
-        "annunciavamo",
-        "annunciavate",
-        "annunciavano"
-      ],
-
-      "Passato prossimo": [
-        "ho annunciato",
-        "hai annunciato",
-        "ha annunciato",
-        "abbiamo annunciato",
-        "avete annunciato",
-        "hanno annunciato"
-      ],
-
-      "Passato remoto": [
-        "annunciai",
-        "annunciasti",
-        "annunciò",
-        "annunciammo",
-        "annunciaste",
-        "annunciarono"
-      ],
-
-      "Trapassato prossimo": [
-        "avevo annunciato",
-        "avevi annunciato",
-        "aveva annunciato",
-        "avevamo annunciato",
-        "avevate annunciato",
-        "avevano annunciato"
-      ],
-
-      "Trapassato remoto": [
-        "ebbi annunciato",
-        "avesti annunciato",
-        "ebbe annunciato",
-        "avemmo annunciato",
-        "aveste annunciato",
-        "ebbero annunciato"
-      ],
-
-      "Futuro semplice": [
-        "annuncerò",
-        "annuncerai",
-        "annuncerà",
-        "annunceremo",
-        "annuncerete",
-        "annunceranno"
-      ],
-
-      "Futuro anteriore": [
-        "avrò annunciato",
-        "avrai annunciato",
-        "avrà annunciato",
-        "avremo annunciato",
-        "avrete annunciato",
-        "avranno annunciato"
-      ]
-    },
-
-    "Congiuntivo": {
-      "Presente": [
-        "annunci",
-        "annunci",
-        "annunci",
-        "annunciamo",
-        "annunciate",
-        "annuncino"
-      ],
-
-      "Imperfetto": [
-        "annunciassi",
-        "annunciassi",
-        "annunciasse",
-        "annunciassimo",
-        "annunciaste",
-        "annunciassero"
-      ],
-
-      "Passato": [
-        "abbia annunciato",
-        "abbia annunciato",
-        "abbia annunciato",
-        "abbiamo annunciato",
-        "abbiate annunciato",
-        "abbiano annunciato"
-      ],
-
-      "Trapassato": [
-        "avessi annunciato",
-        "avessi annunciato",
-        "avesse annunciato",
-        "avessimo annunciato",
-        "aveste annunciato",
-        "avessero annunciato"
-      ]
-    },
-
-    "Condizionale": {
-      "Presente": [
-        "annuncerei",
-        "annunceresti",
-        "annuncerebbe",
-        "annunceremmo",
-        "annuncereste",
-        "annuncerebbero"
-      ],
-
-      "Passato": [
-        "avrei annunciato",
-        "avresti annunciato",
-        "avrebbe annunciato",
-        "avremmo annunciato",
-        "avreste annunciato",
-        "avrebbero annunciato"
-      ]
-    },
-
-    "Imperativo": {
-      "Presente": [
-        "—",
-        "annuncia",
-        "annunci",
-        "annunciamo",
-        "annunciate",
-        "annuncino"
-      ]
-    },
-
-    "Forme indefinite": {
-      "Forme": [
-        "annunciare",
-        "avere annunciato",
-        "annunciante",
-        "annunciato",
-        "annunciando",
-        "avendo annunciato"
-      ]
-    }
-  }
-},
-{
   "id": "accogliere",
   "sid": "2026-00154",
   "word": "accogliere",
@@ -17436,6 +17106,336 @@
         "svegliato",
         "svegliando",
         "avendo svegliato"
+      ]
+    }
+  }
+},
+{
+  "id": "bagnare",
+  "sid": "2026-00175",
+  "word": "bagnare",
+  "ipa": "/baɲˈɲare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "bagnato",
+    "gerundPresent": "bagnando",
+    "pattern": "bagnare qualcosa / bagnare con, in + liquido / bagnare una pianta / mare o fiume che bagna un luogo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "cooking",
+      "gardening",
+      "geography"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "物や人を水・液体で濡らす",
+      "布・食材などに液体を染み込ませる",
+      "植物や土に水を与える",
+      "料理に水・酒・ソースなどを加える",
+      "海・川などが土地や海岸に接する、沿岸を洗う",
+      "涙・汗・血などが表面を濡らす"
+    ],
+    "it": [
+      "Rendere umida o coprire di liquido una persona o una cosa.",
+      "Impregnare un tessuto, un alimento o un altro materiale con un liquido.",
+      "Dare acqua alle piante o al terreno.",
+      "Aggiungere acqua, vino, brodo o salsa durante una preparazione culinaria.",
+      "Toccare o costeggiare un territorio, con riferimento a un mare, un lago o un fiume.",
+      "Ricoprire una superficie, con riferimento a lacrime, sudore o sangue."
+    ]
+  },
+
+  "nuance": {
+    "ja": "乾いた物に水分・液体を付着または浸透させることを表す。自分自身が濡れる場合や水浴びをする場合はbagnarsiを用いる。annaffiareは植物に水を与えることに特化しているが、bagnareも口語で同じ意味に使える。料理では「液体を少量加える」「シロップなどを染み込ませる」という意味になる。",
+    "it": "Indica che un liquido viene applicato o assorbito da qualcosa. Quando il soggetto diventa bagnato o fa il bagno si usa normalmente bagnarsi. Annaffiare è specifico per il dare acqua alle piante, mentre bagnare può avere lo stesso significato nel linguaggio comune. In cucina può indicare l’aggiunta di liquido o l’impregnazione di un alimento."
+  },
+
+  "etymology": {
+    "ja": "俗ラテン語baneāreに由来し、ラテン語balneum（浴場、入浴）と関係する。balneumはギリシャ語balaneîon（浴場）から借用された語である。同じ語族にはbagno、bagnato、bagnarsi、bagnanteなどがある。",
+    "it": "Dal latino volgare baneāre, collegato al latino balneum, «bagno», a sua volta dal greco balaneîon, «stabilimento per il bagno». Alla stessa famiglia appartengono bagno, bagnato, bagnarsi e bagnante."
+  },
+
+  "minimal": [
+    {
+      "word": "bagnare",
+      "ja": "人・物・表面に水や液体を付けて濡らす",
+      "it": "applicare un liquido a qualcuno o qualcosa rendendolo umido"
+    },
+    {
+      "word": "bagnarsi",
+      "ja": "自分の体や衣服が濡れる、または水浴びをする",
+      "it": "diventare bagnato oppure entrare in acqua per fare il bagno"
+    },
+    {
+      "word": "annaffiare",
+      "ja": "植物や土に成長のための水を与える",
+      "it": "dare acqua alle piante o al terreno per mantenerli vivi"
+    },
+    {
+      "word": "inumidire",
+      "ja": "物を完全には濡らさず、わずかに湿らせる",
+      "it": "rendere qualcosa leggermente umido senza bagnarlo completamente"
+    }
+  ],
+
+  "synonyms": [
+    "inumidire",
+    "impregnare",
+    "annaffiare",
+    "irrorare",
+    "inzuppare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "wet",
+      "moisten",
+      "soak"
+    ],
+    "de": [
+      "nass machen",
+      "befeuchten",
+      "tränken"
+    ],
+    "fr": [
+      "mouiller",
+      "humidifier",
+      "tremper"
+    ],
+    "es": [
+      "mojar",
+      "humedecer",
+      "empapar"
+    ]
+  },
+
+  "collocations": [
+    "bagnare qualcosa",
+    "bagnare i vestiti",
+    "bagnare i capelli",
+    "bagnare le mani",
+    "bagnare il viso",
+    "bagnare un panno",
+    "bagnare un asciugamano",
+    "bagnare il pane",
+    "bagnare un biscotto",
+    "bagnare una torta",
+    "bagnare con l’acqua",
+    "bagnare con il vino",
+    "bagnare con il brodo",
+    "bagnare nel latte",
+    "bagnare le piante",
+    "bagnare i fiori",
+    "bagnare il terreno",
+    "bagnare abbondantemente",
+    "bagnare leggermente",
+    "bagnare completamente",
+    "pioggia che bagna la strada",
+    "lacrime che bagnano il viso",
+    "mare che bagna le coste",
+    "fiume che bagna una città"
+  ],
+
+  "examples": [
+    {
+      "it": "La pioggia ha bagnato tutti i vestiti.",
+      "ja": "雨が衣服をすべて濡らした。"
+    },
+    {
+      "it": "Bagna il panno prima di pulire il tavolo.",
+      "ja": "テーブルを拭く前に布を濡らしてください。"
+    },
+    {
+      "it": "Devo bagnare le piante ogni mattina.",
+      "ja": "私は毎朝植物に水をやらなければならない。"
+    },
+    {
+      "it": "Bagna la torta con un po’ di liquore.",
+      "ja": "少量のリキュールをケーキに染み込ませてください。"
+    },
+    {
+      "it": "Le lacrime le bagnavano il viso.",
+      "ja": "涙が彼女の顔を濡らしていた。"
+    },
+    {
+      "it": "Il Mar Adriatico bagna la costa orientale dell’Italia.",
+      "ja": "アドリア海はイタリア東岸に接している。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "bagno",
+        "bagni",
+        "bagna",
+        "bagniamo",
+        "bagnate",
+        "bagnano"
+      ],
+
+      "Imperfetto": [
+        "bagnavo",
+        "bagnavi",
+        "bagnava",
+        "bagnavamo",
+        "bagnavate",
+        "bagnavano"
+      ],
+
+      "Passato prossimo": [
+        "ho bagnato",
+        "hai bagnato",
+        "ha bagnato",
+        "abbiamo bagnato",
+        "avete bagnato",
+        "hanno bagnato"
+      ],
+
+      "Passato remoto": [
+        "bagnai",
+        "bagnasti",
+        "bagnò",
+        "bagnammo",
+        "bagnaste",
+        "bagnarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo bagnato",
+        "avevi bagnato",
+        "aveva bagnato",
+        "avevamo bagnato",
+        "avevate bagnato",
+        "avevano bagnato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi bagnato",
+        "avesti bagnato",
+        "ebbe bagnato",
+        "avemmo bagnato",
+        "aveste bagnato",
+        "ebbero bagnato"
+      ],
+
+      "Futuro semplice": [
+        "bagnerò",
+        "bagnerai",
+        "bagnerà",
+        "bagneremo",
+        "bagnerete",
+        "bagneranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò bagnato",
+        "avrai bagnato",
+        "avrà bagnato",
+        "avremo bagnato",
+        "avrete bagnato",
+        "avranno bagnato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "bagni",
+        "bagni",
+        "bagni",
+        "bagniamo",
+        "bagniate",
+        "bagnino"
+      ],
+
+      "Imperfetto": [
+        "bagnassi",
+        "bagnassi",
+        "bagnasse",
+        "bagnassimo",
+        "bagnaste",
+        "bagnassero"
+      ],
+
+      "Passato": [
+        "abbia bagnato",
+        "abbia bagnato",
+        "abbia bagnato",
+        "abbiamo bagnato",
+        "abbiate bagnato",
+        "abbiano bagnato"
+      ],
+
+      "Trapassato": [
+        "avessi bagnato",
+        "avessi bagnato",
+        "avesse bagnato",
+        "avessimo bagnato",
+        "aveste bagnato",
+        "avessero bagnato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "bagnerei",
+        "bagneresti",
+        "bagnerebbe",
+        "bagneremmo",
+        "bagnereste",
+        "bagnerebbero"
+      ],
+
+      "Passato": [
+        "avrei bagnato",
+        "avresti bagnato",
+        "avrebbe bagnato",
+        "avremmo bagnato",
+        "avreste bagnato",
+        "avrebbero bagnato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "bagna",
+        "bagni",
+        "bagniamo",
+        "bagnate",
+        "bagnino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "bagnare",
+        "avere bagnato",
+        "bagnante",
+        "bagnato",
+        "bagnando",
+        "avendo bagnato"
       ]
     }
   }
