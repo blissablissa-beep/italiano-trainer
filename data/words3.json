@@ -9265,6 +9265,990 @@
       ]
     }
   }
+},
+{
+  "id": "odorare",
+  "sid": "2026-00151",
+  "word": "odorare",
+  "ipa": "/odoˈrare/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "odorato",
+    "gerundPresent": "odorando",
+    "pattern": "odorare di + sostanza / odorare qualcosa / far odorare qualcosa"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "food",
+      "nature",
+      "home",
+      "literary"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "ある匂い・香りがする",
+      "匂いや香りを放つ",
+      "物の匂いを嗅ぐ、嗅いで確かめる",
+      "場所や物に特定の匂いを感じさせる",
+      "比喩的に、ある性質や雰囲気を感じさせる"
+    ],
+    "it": [
+      "Avere o emanare un determinato odore.",
+      "Diffondere nell’aria un profumo o un’altra sensazione olfattiva.",
+      "Annusare qualcosa per percepirne o controllarne l’odore.",
+      "Caratterizzare un luogo o un oggetto con un particolare odore.",
+      "In senso figurato, suggerire una determinata qualità o atmosfera."
+    ]
+  },
+
+  "nuance": {
+    "ja": "自動詞では「～の匂いがする」、他動詞では「～の匂いを嗅ぐ」を表す。ただし現代の日常会話で「匂いを嗅ぐ」という意味にはannusareのほうが一般的である。odorareは文脈によって良い香りにも悪い匂いにも使えるが、puzzareは明確に悪臭、profumareは通常心地よい香りを表す。",
+    "it": "Nell’uso intransitivo significa avere o emanare un odore; nell’uso transitivo può significare percepire l’odore di qualcosa. Nel parlato moderno, tuttavia, annusare è generalmente più comune nel senso attivo di usare l’olfatto. Odorare è neutro rispetto alla qualità dell’odore, mentre puzzare è negativo e profumare è normalmente positivo."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 odōrāri（匂いを嗅ぐ、匂いによって探知する）に由来し、名詞odor（匂い、香り）から形成された。同じ語族にはodore、odoroso、inodore、deodorante、英語odorなどがある。",
+    "it": "Dal latino odōrāri, «fiutare, percepire con l’olfatto», derivato da odor, «odore, profumo». Alla stessa famiglia appartengono odore, odoroso, inodore e deodorante."
+  },
+
+  "minimal": [
+    {
+      "word": "odorare",
+      "ja": "匂いを放つ、または物の匂いを嗅ぐことを中立的に表す",
+      "it": "emanare un odore oppure percepirlo intenzionalmente"
+    },
+    {
+      "word": "annusare",
+      "ja": "鼻を近づけるなどして、意識的に匂いを嗅ぐ",
+      "it": "inspirare intenzionalmente con il naso per riconoscere un odore"
+    },
+    {
+      "word": "profumare",
+      "ja": "心地よい香りを放つ、または物に香りを付ける",
+      "it": "emanare un odore gradevole oppure rendere qualcosa profumato"
+    },
+    {
+      "word": "puzzare",
+      "ja": "不快で嫌な臭いを放つ",
+      "it": "emanare un odore cattivo e sgradevole"
+    }
+  ],
+
+  "synonyms": [
+    "avere odore",
+    "emanare un odore",
+    "annusare",
+    "profumare",
+    "sentire l’odore"
+  ],
+
+  "equivalents": {
+    "en": [
+      "smell",
+      "smell of",
+      "sniff"
+    ],
+    "de": [
+      "riechen",
+      "duften",
+      "beschnuppern"
+    ],
+    "fr": [
+      "sentir",
+      "exhaler une odeur",
+      "flairer"
+    ],
+    "es": [
+      "oler",
+      "desprender olor",
+      "olfatear"
+    ]
+  },
+
+  "collocations": [
+    "odorare di qualcosa",
+    "odorare di fiori",
+    "odorare di rosa",
+    "odorare di limone",
+    "odorare di spezie",
+    "odorare di caffè",
+    "odorare di pane",
+    "odorare di terra",
+    "odorare di mare",
+    "odorare di legno",
+    "odorare di fumo",
+    "odorare di muffa",
+    "odorare intensamente",
+    "odorare piacevolmente",
+    "odorare leggermente",
+    "odorare un fiore",
+    "odorare un profumo",
+    "odorare il vino",
+    "odorare il cibo",
+    "far odorare la stanza",
+    "aria che odora di primavera",
+    "casa che odora di pulito"
+  ],
+
+  "examples": [
+    {
+      "it": "La stanza odorava di caffè appena fatto.",
+      "ja": "部屋には入れたてのコーヒーの香りがしていた。"
+    },
+    {
+      "it": "L’aria odora di primavera.",
+      "ja": "空気に春の香りがする。"
+    },
+    {
+      "it": "Ha odorato il latte prima di berlo.",
+      "ja": "彼は牛乳を飲む前に匂いを嗅いだ。"
+    },
+    {
+      "it": "Questi fiori odorano intensamente.",
+      "ja": "これらの花は強い香りを放っている。"
+    },
+    {
+      "it": "La cucina odorava di pane caldo.",
+      "ja": "台所には温かいパンの香りが漂っていた。"
+    },
+    {
+      "it": "Il vecchio mobile odorava leggermente di muffa.",
+      "ja": "その古い家具は少しカビ臭かった。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "odoro",
+        "odori",
+        "odora",
+        "odoriamo",
+        "odorate",
+        "odorano"
+      ],
+
+      "Imperfetto": [
+        "odoravo",
+        "odoravi",
+        "odorava",
+        "odoravamo",
+        "odoravate",
+        "odoravano"
+      ],
+
+      "Passato prossimo": [
+        "ho odorato",
+        "hai odorato",
+        "ha odorato",
+        "abbiamo odorato",
+        "avete odorato",
+        "hanno odorato"
+      ],
+
+      "Passato remoto": [
+        "odorai",
+        "odorasti",
+        "odorò",
+        "odorammo",
+        "odoraste",
+        "odorarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo odorato",
+        "avevi odorato",
+        "aveva odorato",
+        "avevamo odorato",
+        "avevate odorato",
+        "avevano odorato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi odorato",
+        "avesti odorato",
+        "ebbe odorato",
+        "avemmo odorato",
+        "aveste odorato",
+        "ebbero odorato"
+      ],
+
+      "Futuro semplice": [
+        "odorerò",
+        "odorerai",
+        "odorerà",
+        "odoreremo",
+        "odorerete",
+        "odoreranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò odorato",
+        "avrai odorato",
+        "avrà odorato",
+        "avremo odorato",
+        "avrete odorato",
+        "avranno odorato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "odori",
+        "odori",
+        "odori",
+        "odoriamo",
+        "odoriate",
+        "odorino"
+      ],
+
+      "Imperfetto": [
+        "odorassi",
+        "odorassi",
+        "odorasse",
+        "odorassimo",
+        "odoraste",
+        "odorassero"
+      ],
+
+      "Passato": [
+        "abbia odorato",
+        "abbia odorato",
+        "abbia odorato",
+        "abbiamo odorato",
+        "abbiate odorato",
+        "abbiano odorato"
+      ],
+
+      "Trapassato": [
+        "avessi odorato",
+        "avessi odorato",
+        "avesse odorato",
+        "avessimo odorato",
+        "aveste odorato",
+        "avessero odorato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "odorerei",
+        "odoreresti",
+        "odorerebbe",
+        "odoreremmo",
+        "odorereste",
+        "odorerebbero"
+      ],
+
+      "Passato": [
+        "avrei odorato",
+        "avresti odorato",
+        "avrebbe odorato",
+        "avremmo odorato",
+        "avreste odorato",
+        "avrebbero odorato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "odora",
+        "odori",
+        "odoriamo",
+        "odorate",
+        "odorino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "odorare",
+        "avere odorato",
+        "odorante",
+        "odorato",
+        "odorando",
+        "avendo odorato"
+      ]
+    }
+  }
+},
+{
+  "id": "profumare",
+  "sid": "2026-00152",
+  "word": "profumare",
+  "ipa": "/profuˈmare/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "profumato",
+    "gerundPresent": "profumando",
+    "pattern": "profumare di + sostanza / profumare qualcosa con + aroma / profumare l’ambiente"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "food",
+      "cosmetics",
+      "nature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "よい香りを放つ、香る",
+      "場所や物をよい香りで満たす",
+      "香水・香料などで香りを付ける",
+      "料理や飲み物に香草・香辛料などの香りを加える",
+      "香りによって場所や雰囲気を特徴づける"
+    ],
+    "it": [
+      "Emanare un odore gradevole.",
+      "Riempire un luogo di un profumo piacevole.",
+      "Dare un buon odore a una persona o a una cosa mediante una sostanza aromatica.",
+      "Aromatizzare una pietanza o una bevanda con erbe, spezie o altri ingredienti.",
+      "Caratterizzare un ambiente o un’atmosfera mediante un particolare profumo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "自動詞では「よい香りがする」、他動詞では「物や場所によい香りを付ける」を表す。odorareは匂いの良し悪しについて中立的だが、profumareは原則として心地よい香りを示す。料理では、香草・柑橘類・酒などを加えて香りを豊かにするという意味でもよく使われる。",
+    "it": "Nell’uso intransitivo indica che qualcosa emana un odore piacevole; nell’uso transitivo significa rendere profumata o aromatica una persona, una cosa o una preparazione. Odorare è neutro rispetto alla qualità dell’odore, mentre profumare ha normalmente valore positivo. In cucina è comune nel senso di arricchire una preparazione con un aroma."
+  },
+
+  "etymology": {
+    "ja": "名詞profumoから形成された動詞である。profumoはラテン語の表現per fumum（煙を通して）に由来し、香料を燃やして香りを広げた習慣と関係する。同じ語族にはprofumato、profumeria、profumiereなどがある。",
+    "it": "Derivato dal sostantivo profumo, che risale all’espressione latina per fumum, «attraverso il fumo», con riferimento all’uso di bruciare sostanze aromatiche. Alla stessa famiglia appartengono profumato, profumeria e profumiere."
+  },
+
+  "minimal": [
+    {
+      "word": "profumare",
+      "ja": "心地よい香りを放つ、または物によい香りを付ける",
+      "it": "emanare un odore gradevole oppure rendere qualcosa profumato"
+    },
+    {
+      "word": "odorare",
+      "ja": "良い悪いを問わず匂いを放つ、または匂いを嗅ぐ",
+      "it": "emanare un odore di qualsiasi qualità oppure percepirlo con l’olfatto"
+    },
+    {
+      "word": "puzzare",
+      "ja": "不快で嫌な臭いを放つ",
+      "it": "emanare un odore cattivo e sgradevole"
+    },
+    {
+      "word": "aromatizzare",
+      "ja": "食品・飲料などに特定の風味や香りを加える",
+      "it": "aggiungere a un alimento o a una bevanda un aroma determinato"
+    }
+  ],
+
+  "synonyms": [
+    "emanare profumo",
+    "odorare piacevolmente",
+    "aromatizzare",
+    "fragranza",
+    "imbalsamare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "smell fragrant",
+      "perfume",
+      "scent"
+    ],
+    "de": [
+      "duften",
+      "parfümieren",
+      "aromatisieren"
+    ],
+    "fr": [
+      "parfumer",
+      "embaumer",
+      "aromatiser"
+    ],
+    "es": [
+      "perfumar",
+      "oler bien",
+      "aromatizar"
+    ]
+  },
+
+  "collocations": [
+    "profumare molto",
+    "profumare intensamente",
+    "profumare delicatamente",
+    "profumare di fiori",
+    "profumare di rosa",
+    "profumare di lavanda",
+    "profumare di limone",
+    "profumare di vaniglia",
+    "profumare di caffè",
+    "profumare di pane",
+    "profumare l’aria",
+    "profumare la stanza",
+    "profumare la casa",
+    "profumare il bucato",
+    "profumare la pelle",
+    "profumare i capelli",
+    "profumare un piatto",
+    "profumare una salsa",
+    "profumare con il basilico",
+    "profumare con le spezie",
+    "profumare con la scorza di limone",
+    "fiori che profumano",
+    "pane appena sfornato che profuma"
+  ],
+
+  "examples": [
+    {
+      "it": "Questi fiori profumano di primavera.",
+      "ja": "これらの花は春の香りがする。"
+    },
+    {
+      "it": "Il pane appena sfornato profuma tutta la cucina.",
+      "ja": "焼きたてのパンの香りが台所中に広がっている。"
+    },
+    {
+      "it": "Ha profumato la stanza con alcune candele.",
+      "ja": "彼女は何本かのキャンドルで部屋に香りを付けた。"
+    },
+    {
+      "it": "Puoi profumare la salsa con un po’ di basilico.",
+      "ja": "少量のバジルでソースに香りを加えることができます。"
+    },
+    {
+      "it": "Il giardino profumava intensamente di rose.",
+      "ja": "庭にはバラの香りが強く漂っていた。"
+    },
+    {
+      "it": "La scorza d’arancia ha profumato il dolce.",
+      "ja": "オレンジの皮が菓子によい香りを加えた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "profumo",
+        "profumi",
+        "profuma",
+        "profumiamo",
+        "profumate",
+        "profumano"
+      ],
+
+      "Imperfetto": [
+        "profumavo",
+        "profumavi",
+        "profumava",
+        "profumavamo",
+        "profumavate",
+        "profumavano"
+      ],
+
+      "Passato prossimo": [
+        "ho profumato",
+        "hai profumato",
+        "ha profumato",
+        "abbiamo profumato",
+        "avete profumato",
+        "hanno profumato"
+      ],
+
+      "Passato remoto": [
+        "profumai",
+        "profumasti",
+        "profumò",
+        "profumammo",
+        "profumaste",
+        "profumarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo profumato",
+        "avevi profumato",
+        "aveva profumato",
+        "avevamo profumato",
+        "avevate profumato",
+        "avevano profumato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi profumato",
+        "avesti profumato",
+        "ebbe profumato",
+        "avemmo profumato",
+        "aveste profumato",
+        "ebbero profumato"
+      ],
+
+      "Futuro semplice": [
+        "profumerò",
+        "profumerai",
+        "profumerà",
+        "profumeremo",
+        "profumerete",
+        "profumeranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò profumato",
+        "avrai profumato",
+        "avrà profumato",
+        "avremo profumato",
+        "avrete profumato",
+        "avranno profumato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "profumi",
+        "profumi",
+        "profumi",
+        "profumiamo",
+        "profumiate",
+        "profumino"
+      ],
+
+      "Imperfetto": [
+        "profumassi",
+        "profumassi",
+        "profumasse",
+        "profumassimo",
+        "profumaste",
+        "profumassero"
+      ],
+
+      "Passato": [
+        "abbia profumato",
+        "abbia profumato",
+        "abbia profumato",
+        "abbiamo profumato",
+        "abbiate profumato",
+        "abbiano profumato"
+      ],
+
+      "Trapassato": [
+        "avessi profumato",
+        "avessi profumato",
+        "avesse profumato",
+        "avessimo profumato",
+        "aveste profumato",
+        "avessero profumato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "profumerei",
+        "profumeresti",
+        "profumerebbe",
+        "profumeremmo",
+        "profumereste",
+        "profumerebbero"
+      ],
+
+      "Passato": [
+        "avrei profumato",
+        "avresti profumato",
+        "avrebbe profumato",
+        "avremmo profumato",
+        "avreste profumato",
+        "avrebbero profumato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "profuma",
+        "profumi",
+        "profumiamo",
+        "profumate",
+        "profumino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "profumare",
+        "avere profumato",
+        "profumante",
+        "profumato",
+        "profumando",
+        "avendo profumato"
+      ]
+    }
+  }
+},
+{
+  "id": "annunciare",
+  "sid": "2026-00153",
+  "word": "annunciare",
+  "ipa": "/annunˈtʃare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "annunciato",
+    "gerundPresent": "annunciando",
+    "pattern": "annunciare qualcosa / annunciare qualcosa a qualcuno / annunciare che + frase"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "journalistic"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "news",
+      "political",
+      "formal_correspondence"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "ニュース・決定・予定などを発表する、告知する",
+      "人に出来事や情報を知らせる",
+      "人や物の到着・開始などを告げる",
+      "将来起こる出来事を予告する",
+      "兆候などが出来事の到来を示す"
+    ],
+    "it": [
+      "Comunicare pubblicamente una notizia, una decisione o un programma.",
+      "Far sapere qualcosa a una persona.",
+      "Segnalare l’arrivo, l’inizio o la presenza di qualcuno o qualcosa.",
+      "Preannunciare un evento futuro.",
+      "Indicare, come segno o indizio, che qualcosa sta per accadere."
+    ]
+  },
+
+  "nuance": {
+    "ja": "新しい情報や重要な出来事を、相手または公衆に向けて明確に知らせることを表す。direが一般的な「言う」、informareが必要な情報を提供することに重点を置くのに対し、annunciareはニュース性のある事柄を正式または目立つ形で発表するニュアンスを持つ。内容は直接目的語、知らせる相手はaで示す。",
+    "it": "Mette in rilievo la comunicazione chiara di una novità o di un avvenimento significativo, spesso a una persona o al pubblico. Dire è il verbo generale del parlare; informare sottolinea la trasmissione di informazioni utili; annunciare presenta invece qualcosa come una notizia o una comunicazione ufficiale. Il contenuto è l’oggetto diretto e il destinatario è introdotto da a."
+  },
+
+  "etymology": {
+    "ja": "ラテン語 annuntiāre（知らせる、告げる）に由来し、ad-（～へ）とnuntius（使者、知らせ）から成る。接頭辞の子音同化によりad-がan-となった。同じ語族にはannuncio、nunzio、denunciare、pronunciareなどがある。",
+    "it": "Dal latino annuntiāre, formato da ad-, «verso», e nuntius, «messaggero, notizia», con assimilazione consonantica. Alla stessa famiglia appartengono annuncio, nunzio, denunciare e preannunciare."
+  },
+
+  "minimal": [
+    {
+      "word": "annunciare",
+      "ja": "新しい情報・決定・出来事などを公的または明確に発表する",
+      "it": "comunicare come notizia una decisione, un fatto o un evento"
+    },
+    {
+      "word": "informare",
+      "ja": "人が必要とする事実・状況・手続きなどの情報を提供する",
+      "it": "fornire a qualcuno informazioni utili su fatti, condizioni o procedure"
+    },
+    {
+      "word": "comunicare",
+      "ja": "情報・考え・決定などを他者へ伝達することを広く表す",
+      "it": "trasmettere in generale informazioni, idee, decisioni o sentimenti"
+    },
+    {
+      "word": "avvisare",
+      "ja": "注意・準備・行動が必要な事柄を前もって知らせる",
+      "it": "informare qualcuno di qualcosa che richiede attenzione o preparazione"
+    }
+  ],
+
+  "synonyms": [
+    "comunicare",
+    "rendere noto",
+    "informare",
+    "dichiarare",
+    "preannunciare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "announce",
+      "declare",
+      "notify"
+    ],
+    "de": [
+      "ankündigen",
+      "bekannt geben",
+      "verkünden"
+    ],
+    "fr": [
+      "annoncer",
+      "faire savoir",
+      "déclarer"
+    ],
+    "es": [
+      "anunciar",
+      "comunicar",
+      "dar a conocer"
+    ]
+  },
+
+  "collocations": [
+    "annunciare una notizia",
+    "annunciare una decisione",
+    "annunciare un accordo",
+    "annunciare un cambiamento",
+    "annunciare un progetto",
+    "annunciare un’iniziativa",
+    "annunciare i risultati",
+    "annunciare la propria candidatura",
+    "annunciare le dimissioni",
+    "annunciare la nascita di un bambino",
+    "annunciare un matrimonio",
+    "annunciare la morte di qualcuno",
+    "annunciare l’arrivo",
+    "annunciare la partenza",
+    "annunciare ufficialmente",
+    "annunciare pubblicamente",
+    "annunciare improvvisamente",
+    "annunciare in anticipo",
+    "annunciare qualcosa a qualcuno",
+    "annunciare che qualcosa accadrà",
+    "essere lieto di annunciare",
+    "venire annunciato",
+    "la primavera si annuncia",
+    "nuvole che annunciano la pioggia"
+  ],
+
+  "examples": [
+    {
+      "it": "L’azienda ha annunciato un nuovo progetto.",
+      "ja": "会社は新しい計画を発表した。"
+    },
+    {
+      "it": "Il governo annuncerà la decisione domani.",
+      "ja": "政府は明日その決定を発表する。"
+    },
+    {
+      "it": "Siamo lieti di annunciare la nascita di nostra figlia.",
+      "ja": "私たちの娘の誕生を喜んでお知らせします。"
+    },
+    {
+      "it": "Ha annunciato ai colleghi che avrebbe lasciato il lavoro.",
+      "ja": "彼は同僚たちに仕事を辞めるつもりだと告げた。"
+    },
+    {
+      "it": "Una voce ha annunciato l’arrivo del treno.",
+      "ja": "アナウンスが列車の到着を告げた。"
+    },
+    {
+      "it": "Le nuvole scure annunciavano un temporale.",
+      "ja": "黒い雲が嵐の到来を予告していた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "annuncio",
+        "annunci",
+        "annuncia",
+        "annunciamo",
+        "annunciate",
+        "annunciano"
+      ],
+
+      "Imperfetto": [
+        "annunciavo",
+        "annunciavi",
+        "annunciava",
+        "annunciavamo",
+        "annunciavate",
+        "annunciavano"
+      ],
+
+      "Passato prossimo": [
+        "ho annunciato",
+        "hai annunciato",
+        "ha annunciato",
+        "abbiamo annunciato",
+        "avete annunciato",
+        "hanno annunciato"
+      ],
+
+      "Passato remoto": [
+        "annunciai",
+        "annunciasti",
+        "annunciò",
+        "annunciammo",
+        "annunciaste",
+        "annunciarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo annunciato",
+        "avevi annunciato",
+        "aveva annunciato",
+        "avevamo annunciato",
+        "avevate annunciato",
+        "avevano annunciato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi annunciato",
+        "avesti annunciato",
+        "ebbe annunciato",
+        "avemmo annunciato",
+        "aveste annunciato",
+        "ebbero annunciato"
+      ],
+
+      "Futuro semplice": [
+        "annuncerò",
+        "annuncerai",
+        "annuncerà",
+        "annunceremo",
+        "annuncerete",
+        "annunceranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò annunciato",
+        "avrai annunciato",
+        "avrà annunciato",
+        "avremo annunciato",
+        "avrete annunciato",
+        "avranno annunciato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "annunci",
+        "annunci",
+        "annunci",
+        "annunciamo",
+        "annunciate",
+        "annuncino"
+      ],
+
+      "Imperfetto": [
+        "annunciassi",
+        "annunciassi",
+        "annunciasse",
+        "annunciassimo",
+        "annunciaste",
+        "annunciassero"
+      ],
+
+      "Passato": [
+        "abbia annunciato",
+        "abbia annunciato",
+        "abbia annunciato",
+        "abbiamo annunciato",
+        "abbiate annunciato",
+        "abbiano annunciato"
+      ],
+
+      "Trapassato": [
+        "avessi annunciato",
+        "avessi annunciato",
+        "avesse annunciato",
+        "avessimo annunciato",
+        "aveste annunciato",
+        "avessero annunciato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "annuncerei",
+        "annunceresti",
+        "annuncerebbe",
+        "annunceremmo",
+        "annuncereste",
+        "annuncerebbero"
+      ],
+
+      "Passato": [
+        "avrei annunciato",
+        "avresti annunciato",
+        "avrebbe annunciato",
+        "avremmo annunciato",
+        "avreste annunciato",
+        "avrebbero annunciato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "annuncia",
+        "annunci",
+        "annunciamo",
+        "annunciate",
+        "annuncino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "annunciare",
+        "avere annunciato",
+        "annunciante",
+        "annunciato",
+        "annunciando",
+        "avendo annunciato"
+      ]
+    }
+  }
 }
 ]
 
