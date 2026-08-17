@@ -15481,6 +15481,1311 @@
       ]
     }
   }
+},
+{
+  "id": "entrare",
+  "sid": "2026-00169",
+  "word": "entrare",
+  "ipa": "/enˈtrare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞",
+      "it": "verbo intransitivo"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "entrato",
+    "gerundPresent": "entrando",
+    "pattern": "entrare in + luogo o stato / entrare a, da + luogo o persona / entrare in funzione"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "travel",
+      "business",
+      "social"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "建物・部屋・場所などの中に入る",
+      "組織・集団・学校・職業などに加入する",
+      "ある状態・段階・状況に入る",
+      "物が容器や空間の中に収まる",
+      "法律・制度・装置などが効力・作動を開始する",
+      "会話・議論・関係などに加わる"
+    ],
+    "it": [
+      "Passare dall’esterno all’interno di un luogo.",
+      "Essere ammesso o cominciare a far parte di un’organizzazione, un gruppo, una scuola o una professione.",
+      "Passare a una determinata condizione, fase o situazione.",
+      "Poter essere contenuto o trovare spazio all’interno di qualcosa.",
+      "Cominciare a produrre effetti o a funzionare, con riferimento a norme, sistemi o dispositivi.",
+      "Inserirsi in una conversazione, una discussione o un rapporto."
+    ]
+  },
+
+  "nuance": {
+    "ja": "外側から内側への移動を表す基本動詞であり、通常は前置詞inを伴う。英語のenterと異なり、場所を直接目的語にはせず、entrare nella stanzaのように言う。建物内の人を訪ねる場合はentrare da qualcuno、機関・職業への加入にはentrare inを用いる。反対語はuscireである。",
+    "it": "È il verbo fondamentale del passaggio dall’esterno all’interno e regge normalmente una preposizione, soprattutto in. A differenza dell’inglese enter, il luogo non è generalmente un oggetto diretto: si dice entrare nella stanza. Da può introdurre la persona o l’attività presso cui si accede; in è comune anche con organizzazioni, professioni e stati."
+  },
+
+  "etymology": {
+    "ja": "ラテン語intrāre（中へ入る）に由来し、副詞・前置詞intrā（内側に、中へ）から形成された。同じ語族にはentrata、rientrare、penetrare、interioreなどがある。",
+    "it": "Dal latino intrāre, «andare dentro», derivato dall’avverbio e preposizione intrā, «dentro, all’interno». Alla stessa famiglia appartengono entrata, rientrare e interiore."
+  },
+
+  "minimal": [
+    {
+      "word": "entrare",
+      "ja": "外側から場所・集団・状態などの内側へ移る",
+      "it": "passare dall’esterno all’interno di un luogo, gruppo o stato"
+    },
+    {
+      "word": "uscire",
+      "ja": "場所・状態などの内側から外へ出る",
+      "it": "passare dall’interno all’esterno di un luogo o di una situazione"
+    },
+    {
+      "word": "accedere",
+      "ja": "施設・情報・制度などへ入る権利や手段を得て利用する",
+      "it": "ottenere l’ingresso o la possibilità di utilizzare un luogo, un servizio o dei dati"
+    },
+    {
+      "word": "inserirsi",
+      "ja": "集団・会話・環境などの中に入り、その一部となる",
+      "it": "entrare e trovare posto all’interno di un gruppo, un discorso o un ambiente"
+    }
+  ],
+
+  "synonyms": [
+    "accedere",
+    "introdursi",
+    "inserirsi",
+    "penetrare",
+    "fare ingresso"
+  ],
+
+  "equivalents": {
+    "en": [
+      "enter",
+      "go in",
+      "come in"
+    ],
+    "de": [
+      "eintreten",
+      "hineingehen",
+      "betreten"
+    ],
+    "fr": [
+      "entrer",
+      "pénétrer"
+    ],
+    "es": [
+      "entrar",
+      "ingresar"
+    ]
+  },
+
+  "collocations": [
+    "entrare in casa",
+    "entrare in una stanza",
+    "entrare in ufficio",
+    "entrare in un negozio",
+    "entrare in chiesa",
+    "entrare in città",
+    "entrare dalla porta",
+    "entrare dalla finestra",
+    "entrare da qualcuno",
+    "entrare a scuola",
+    "entrare all’università",
+    "entrare in azienda",
+    "entrare in un gruppo",
+    "entrare in una squadra",
+    "entrare in politica",
+    "entrare in servizio",
+    "entrare in funzione",
+    "entrare in vigore",
+    "entrare in crisi",
+    "entrare in contatto",
+    "entrare in discussione",
+    "entrare nei dettagli",
+    "entrare a far parte di",
+    "lasciare entrare",
+    "vietare di entrare",
+    "riuscire a entrare"
+  ],
+
+  "examples": [
+    {
+      "it": "Posso entrare?",
+      "ja": "入ってもよいですか。"
+    },
+    {
+      "it": "È entrata nella stanza senza dire nulla.",
+      "ja": "彼女は何も言わずに部屋へ入った。"
+    },
+    {
+      "it": "Sono entrato in azienda cinque anni fa.",
+      "ja": "私は5年前にその会社へ入社した。"
+    },
+    {
+      "it": "Questa valigia non entra nel bagagliaio.",
+      "ja": "このスーツケースはトランクに入らない。"
+    },
+    {
+      "it": "La nuova legge entrerà in vigore il mese prossimo.",
+      "ja": "新しい法律は来月施行される。"
+    },
+    {
+      "it": "Vorrei entrare più nel dettaglio.",
+      "ja": "さらに詳しく説明したいと思います。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "entro",
+        "entri",
+        "entra",
+        "entriamo",
+        "entrate",
+        "entrano"
+      ],
+
+      "Imperfetto": [
+        "entravo",
+        "entravi",
+        "entrava",
+        "entravamo",
+        "entravate",
+        "entravano"
+      ],
+
+      "Passato prossimo": [
+        "sono entrato/a",
+        "sei entrato/a",
+        "è entrato/a",
+        "siamo entrati/e",
+        "siete entrati/e",
+        "sono entrati/e"
+      ],
+
+      "Passato remoto": [
+        "entrai",
+        "entrasti",
+        "entrò",
+        "entrammo",
+        "entraste",
+        "entrarono"
+      ],
+
+      "Trapassato prossimo": [
+        "ero entrato/a",
+        "eri entrato/a",
+        "era entrato/a",
+        "eravamo entrati/e",
+        "eravate entrati/e",
+        "erano entrati/e"
+      ],
+
+      "Trapassato remoto": [
+        "fui entrato/a",
+        "fosti entrato/a",
+        "fu entrato/a",
+        "fummo entrati/e",
+        "foste entrati/e",
+        "furono entrati/e"
+      ],
+
+      "Futuro semplice": [
+        "entrerò",
+        "entrerai",
+        "entrerà",
+        "entreremo",
+        "entrerete",
+        "entreranno"
+      ],
+
+      "Futuro anteriore": [
+        "sarò entrato/a",
+        "sarai entrato/a",
+        "sarà entrato/a",
+        "saremo entrati/e",
+        "sarete entrati/e",
+        "saranno entrati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "entri",
+        "entri",
+        "entri",
+        "entriamo",
+        "entriate",
+        "entrino"
+      ],
+
+      "Imperfetto": [
+        "entrassi",
+        "entrassi",
+        "entrasse",
+        "entrassimo",
+        "entraste",
+        "entrassero"
+      ],
+
+      "Passato": [
+        "sia entrato/a",
+        "sia entrato/a",
+        "sia entrato/a",
+        "siamo entrati/e",
+        "siate entrati/e",
+        "siano entrati/e"
+      ],
+
+      "Trapassato": [
+        "fossi entrato/a",
+        "fossi entrato/a",
+        "fosse entrato/a",
+        "fossimo entrati/e",
+        "foste entrati/e",
+        "fossero entrati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "entrerei",
+        "entreresti",
+        "entrerebbe",
+        "entreremmo",
+        "entrereste",
+        "entrerebbero"
+      ],
+
+      "Passato": [
+        "sarei entrato/a",
+        "saresti entrato/a",
+        "sarebbe entrato/a",
+        "saremmo entrati/e",
+        "sareste entrati/e",
+        "sarebbero entrati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "entra",
+        "entri",
+        "entriamo",
+        "entrate",
+        "entrino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "entrare",
+        "essere entrato/a/i/e",
+        "entrante",
+        "entrato",
+        "entrando",
+        "essendo entrato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "ballare",
+  "sid": "2026-00170",
+  "word": "ballare",
+  "ipa": "/balˈlare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "ballato",
+    "gerundPresent": "ballando",
+    "pattern": "ballare / ballare con + persona / ballare su, al ritmo di + musica / ballare + nome di danza"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "social",
+      "entertainment",
+      "music",
+      "celebration"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "音楽やリズムに合わせて踊る",
+      "人と一緒にダンスをする",
+      "特定の種類の踊りを踊る",
+      "物が揺れる、がたつく、不安定に動く",
+      "文字・映像などが揺れて見える",
+      "比喩的に、数値・意見・状況などが安定せず変動する"
+    ],
+    "it": [
+      "Muovere ritmicamente il corpo seguendo la musica.",
+      "Danzare insieme a un’altra persona.",
+      "Eseguire un determinato tipo di danza.",
+      "Muoversi o oscillare perché non si è stabili o ben fissati.",
+      "Apparire instabile o in movimento, con riferimento a immagini, lettere o alla vista.",
+      "In senso figurato, variare o risultare incerti, con riferimento a dati, opinioni o situazioni."
+    ]
+  },
+
+  "nuance": {
+    "ja": "日常語として、社交・娯楽のために音楽に合わせて踊ることを広く表す。特定の踊りはballare il tangoのように直接目的語にできる。danzareも「踊る」を意味するが、より芸術的・専門的・文学的な響きを持つ場合がある。物を主語にすると「ぐらつく、がたつく」という意味になる。",
+    "it": "È il verbo comune per indicare il movimento del corpo a ritmo di musica, soprattutto in contesti sociali e ricreativi. Il nome di una danza può essere usato direttamente come oggetto: ballare il tango. Danzare può avere una sfumatura più artistica, tecnica o letteraria. Con oggetti come soggetto, ballare significa oscillare o non essere stabile."
+  },
+
+  "etymology": {
+    "ja": "後期ラテン語ballāre（踊る）に由来し、ギリシャ語ballízein（踊る、跳ねる）と関係すると考えられている。同じ語族にはballo、ballerino、ballata、ballabileなどがある。",
+    "it": "Dal latino tardo ballāre, «danzare», probabilmente collegato al greco ballízein, «danzare, saltare». Alla stessa famiglia appartengono ballo, ballerino, ballata e ballabile."
+  },
+
+  "minimal": [
+    {
+      "word": "ballare",
+      "ja": "娯楽・社交などで音楽やリズムに合わせて踊る",
+      "it": "muoversi a ritmo di musica, soprattutto per divertimento o socialità"
+    },
+    {
+      "word": "danzare",
+      "ja": "芸術的・表現的・専門的な踊りを踊ることを表しやすい",
+      "it": "eseguire movimenti ritmici con una sfumatura spesso più artistica o espressiva"
+    },
+    {
+      "word": "saltare",
+      "ja": "地面を蹴って跳ぶ、または急に上下・前方へ動く",
+      "it": "staccarsi da terra con uno slancio o compiere un movimento improvviso"
+    },
+    {
+      "word": "oscillare",
+      "ja": "物や数値などが一定の範囲内で前後・上下に揺れ動く",
+      "it": "muoversi alternativamente oppure variare entro determinati limiti"
+    }
+  ],
+
+  "synonyms": [
+    "danzare",
+    "muoversi a ritmo",
+    "scatenarsi",
+    "oscillare",
+    "traballare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "dance",
+      "sway",
+      "wobble"
+    ],
+    "de": [
+      "tanzen",
+      "wackeln",
+      "schwanken"
+    ],
+    "fr": [
+      "danser",
+      "bouger",
+      "vaciller"
+    ],
+    "es": [
+      "bailar",
+      "danzar",
+      "tambalearse"
+    ]
+  },
+
+  "collocations": [
+    "ballare bene",
+    "ballare male",
+    "ballare insieme",
+    "ballare da solo",
+    "ballare con qualcuno",
+    "ballare con gli amici",
+    "ballare tutta la notte",
+    "ballare fino all’alba",
+    "ballare a una festa",
+    "ballare in discoteca",
+    "ballare sul palco",
+    "ballare al ritmo della musica",
+    "ballare su una canzone",
+    "ballare il tango",
+    "ballare il valzer",
+    "ballare la salsa",
+    "ballare il flamenco",
+    "imparare a ballare",
+    "cominciare a ballare",
+    "avere voglia di ballare",
+    "invitare qualcuno a ballare",
+    "far ballare qualcuno",
+    "tavolo che balla",
+    "dente che balla",
+    "numeri che ballano"
+  ],
+
+  "examples": [
+    {
+      "it": "Mi piace ballare con mia moglie.",
+      "ja": "私は妻と踊るのが好きだ。"
+    },
+    {
+      "it": "Abbiamo ballato tutta la notte.",
+      "ja": "私たちは一晩中踊った。"
+    },
+    {
+      "it": "Sai ballare il tango?",
+      "ja": "タンゴを踊れますか。"
+    },
+    {
+      "it": "Tutti hanno cominciato a ballare.",
+      "ja": "全員が踊り始めた。"
+    },
+    {
+      "it": "Questo tavolo balla: una gamba è troppo corta.",
+      "ja": "このテーブルはがたつく。脚の一本が短すぎる。"
+    },
+    {
+      "it": "Le lettere mi ballavano davanti agli occhi.",
+      "ja": "文字が目の前で揺れて見えた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "ballo",
+        "balli",
+        "balla",
+        "balliamo",
+        "ballate",
+        "ballano"
+      ],
+
+      "Imperfetto": [
+        "ballavo",
+        "ballavi",
+        "ballava",
+        "ballavamo",
+        "ballavate",
+        "ballavano"
+      ],
+
+      "Passato prossimo": [
+        "ho ballato",
+        "hai ballato",
+        "ha ballato",
+        "abbiamo ballato",
+        "avete ballato",
+        "hanno ballato"
+      ],
+
+      "Passato remoto": [
+        "ballai",
+        "ballasti",
+        "ballò",
+        "ballammo",
+        "ballaste",
+        "ballarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo ballato",
+        "avevi ballato",
+        "aveva ballato",
+        "avevamo ballato",
+        "avevate ballato",
+        "avevano ballato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi ballato",
+        "avesti ballato",
+        "ebbe ballato",
+        "avemmo ballato",
+        "aveste ballato",
+        "ebbero ballato"
+      ],
+
+      "Futuro semplice": [
+        "ballerò",
+        "ballerai",
+        "ballerà",
+        "balleremo",
+        "ballerete",
+        "balleranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò ballato",
+        "avrai ballato",
+        "avrà ballato",
+        "avremo ballato",
+        "avrete ballato",
+        "avranno ballato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "balli",
+        "balli",
+        "balli",
+        "balliamo",
+        "balliate",
+        "ballino"
+      ],
+
+      "Imperfetto": [
+        "ballassi",
+        "ballassi",
+        "ballasse",
+        "ballassimo",
+        "ballaste",
+        "ballassero"
+      ],
+
+      "Passato": [
+        "abbia ballato",
+        "abbia ballato",
+        "abbia ballato",
+        "abbiamo ballato",
+        "abbiate ballato",
+        "abbiano ballato"
+      ],
+
+      "Trapassato": [
+        "avessi ballato",
+        "avessi ballato",
+        "avesse ballato",
+        "avessimo ballato",
+        "aveste ballato",
+        "avessero ballato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "ballerei",
+        "balleresti",
+        "ballerebbe",
+        "balleremmo",
+        "ballereste",
+        "ballerebbero"
+      ],
+
+      "Passato": [
+        "avrei ballato",
+        "avresti ballato",
+        "avrebbe ballato",
+        "avremmo ballato",
+        "avreste ballato",
+        "avrebbero ballato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "balla",
+        "balli",
+        "balliamo",
+        "ballate",
+        "ballino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "ballare",
+        "avere ballato",
+        "ballante",
+        "ballato",
+        "ballando",
+        "avendo ballato"
+      ]
+    }
+  }
+},
+{
+  "id": "piovere",
+  "sid": "2026-00171",
+  "word": "piovere",
+  "ipa": "/ˈpjɔvere/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "非人称動詞・自動詞",
+      "it": "verbo impersonale e intransitivo"
+    },
+    "auxiliary": "essere／avere",
+    "pastParticiple": "piovuto",
+    "gerundPresent": "piovendo",
+    "pattern": "piove / piovere molto o poco / piovere su + luogo / piovere qualcosa"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "weather",
+      "travel",
+      "news",
+      "literary"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "雨が降る",
+      "大量の物が雨のように上から降ってくる",
+      "質問・批判・注文などが次々に押し寄せる",
+      "幸運・災難などが突然もたらされる",
+      "非人称表現で天候を述べる"
+    ],
+    "it": [
+      "Cadere dal cielo sotto forma di pioggia.",
+      "Cadere dall’alto in grande quantità, come se si trattasse di pioggia.",
+      "Arrivare numerosi e rapidamente, con riferimento a domande, critiche, richieste o ordini.",
+      "Sopraggiungere improvvisamente, con riferimento a fortune, problemi o altri eventi.",
+      "Descrivere in forma impersonale una condizione meteorologica."
+    ]
+  },
+
+  "nuance": {
+    "ja": "天候を表す場合は主語を置かず、通常は三人称単数のpioveを用いる。複合時制ではè piovutoとha piovutoの両方が認められる。伝統的にはessereが多いが、降雨という活動や継続時間を述べる場合にはavereも広く使われる。物が大量に来る比喩表現では、主語に応じて複数形も用いられる。",
+    "it": "Nell’uso meteorologico è impersonale e compare normalmente alla terza persona singolare: piove. Nei tempi composti sono ammessi sia è piovuto sia ha piovuto. Essere è tradizionale; avere è molto comune quando la pioggia è presentata come fenomeno o attività, specialmente con indicazioni di durata. Negli usi figurati il verbo può concordare con un soggetto plurale."
+  },
+
+  "etymology": {
+    "ja": "ラテン語pluĕre（雨が降る）に由来する。語幹の変化を経てイタリア語piovereとなった。同じ印欧語根に属する語にはラテン語pluvia（雨）、イタリア語pioggia、pluviale、英語pluvialなどがある。",
+    "it": "Dal latino pluĕre, «piovere». Attraverso l’evoluzione fonetica della forma latina si è giunti all’italiano piovere. Alla stessa famiglia etimologica appartengono pioggia, pluviale e pluviometro."
+  },
+
+  "minimal": [
+    {
+      "word": "piovere",
+      "ja": "空から雨が降ることを非人称的に表す",
+      "it": "indicare impersonalmente la caduta della pioggia"
+    },
+    {
+      "word": "nevicare",
+      "ja": "空から雪が降る",
+      "it": "cadere dal cielo sotto forma di neve"
+    },
+    {
+      "word": "grandinate",
+      "ja": "雹が激しく降ることを表す",
+      "it": "cadere sotto forma di grandine"
+    },
+    {
+      "word": "precipitare",
+      "ja": "雨・雪などが降水として落ちる、または物が急速に落下する",
+      "it": "cadere rapidamente oppure depositarsi come precipitazione atmosferica"
+    }
+  ],
+
+  "synonyms": [
+    "cadere la pioggia",
+    "precipitare",
+    "diluviare",
+    "piovigginare",
+    "rovesciare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "rain",
+      "pour",
+      "shower down"
+    ],
+    "de": [
+      "regnen",
+      "herabregnen"
+    ],
+    "fr": [
+      "pleuvoir",
+      "tomber en pluie"
+    ],
+    "es": [
+      "llover",
+      "caer como lluvia"
+    ]
+  },
+
+  "collocations": [
+    "piovere molto",
+    "piovere poco",
+    "piovere forte",
+    "piovere intensamente",
+    "piovere continuamente",
+    "piovere tutto il giorno",
+    "piovere tutta la notte",
+    "piovere a dirotto",
+    "piovere senza sosta",
+    "cominciare a piovere",
+    "continuare a piovere",
+    "smettere di piovere",
+    "sembrare che debba piovere",
+    "sperare che non piova",
+    "può piovere",
+    "sta per piovere",
+    "sta piovendo",
+    "è piovuto molto",
+    "ha piovuto per ore",
+    "piovere sul bagnato",
+    "piovere dal cielo",
+    "piovere critiche",
+    "piovere domande",
+    "piovere richieste",
+    "piovono proteste"
+  ],
+
+  "examples": [
+    {
+      "it": "Oggi piove molto.",
+      "ja": "今日は雨がたくさん降っている。"
+    },
+    {
+      "it": "Ha piovuto per tutta la notte.",
+      "ja": "一晩中雨が降った。"
+    },
+    {
+      "it": "Quando siamo usciti, era appena piovuto.",
+      "ja": "私たちが外へ出たとき、雨が上がったばかりだった。"
+    },
+    {
+      "it": "Spero che domani non piova.",
+      "ja": "明日は雨が降らないことを願っている。"
+    },
+    {
+      "it": "All’improvviso cominciò a piovere a dirotto.",
+      "ja": "突然、土砂降りの雨が降り始めた。"
+    },
+    {
+      "it": "Dopo l’annuncio sono piovute molte critiche.",
+      "ja": "発表後、多くの批判が殺到した。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "piovo",
+        "piovi",
+        "piove",
+        "pioviamo",
+        "piovete",
+        "piovono"
+      ],
+
+      "Imperfetto": [
+        "piovevo",
+        "piovevi",
+        "pioveva",
+        "piovevamo",
+        "piovevate",
+        "piovevano"
+      ],
+
+      "Passato prossimo": [
+        "sono piovuto/a / ho piovuto",
+        "sei piovuto/a / hai piovuto",
+        "è piovuto/a / ha piovuto",
+        "siamo piovuti/e / abbiamo piovuto",
+        "siete piovuti/e / avete piovuto",
+        "sono piovuti/e / hanno piovuto"
+      ],
+
+      "Passato remoto": [
+        "piovvi",
+        "piovesti",
+        "piovve",
+        "piovemmo",
+        "pioveste",
+        "piovvero"
+      ],
+
+      "Trapassato prossimo": [
+        "ero piovuto/a / avevo piovuto",
+        "eri piovuto/a / avevi piovuto",
+        "era piovuto/a / aveva piovuto",
+        "eravamo piovuti/e / avevamo piovuto",
+        "eravate piovuti/e / avevate piovuto",
+        "erano piovuti/e / avevano piovuto"
+      ],
+
+      "Trapassato remoto": [
+        "fui piovuto/a / ebbi piovuto",
+        "fosti piovuto/a / avesti piovuto",
+        "fu piovuto/a / ebbe piovuto",
+        "fummo piovuti/e / avemmo piovuto",
+        "foste piovuti/e / aveste piovuto",
+        "furono piovuti/e / ebbero piovuto"
+      ],
+
+      "Futuro semplice": [
+        "pioverò",
+        "pioverai",
+        "pioverà",
+        "pioveremo",
+        "pioverete",
+        "pioveranno"
+      ],
+
+      "Futuro anteriore": [
+        "sarò piovuto/a / avrò piovuto",
+        "sarai piovuto/a / avrai piovuto",
+        "sarà piovuto/a / avrà piovuto",
+        "saremo piovuti/e / avremo piovuto",
+        "sarete piovuti/e / avrete piovuto",
+        "saranno piovuti/e / avranno piovuto"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "piova",
+        "piova",
+        "piova",
+        "pioviamo",
+        "pioviate",
+        "piovano"
+      ],
+
+      "Imperfetto": [
+        "piovessi",
+        "piovessi",
+        "piovesse",
+        "piovessimo",
+        "pioveste",
+        "piovessero"
+      ],
+
+      "Passato": [
+        "sia piovuto/a / abbia piovuto",
+        "sia piovuto/a / abbia piovuto",
+        "sia piovuto/a / abbia piovuto",
+        "siamo piovuti/e / abbiamo piovuto",
+        "siate piovuti/e / abbiate piovuto",
+        "siano piovuti/e / abbiano piovuto"
+      ],
+
+      "Trapassato": [
+        "fossi piovuto/a / avessi piovuto",
+        "fossi piovuto/a / avessi piovuto",
+        "fosse piovuto/a / avesse piovuto",
+        "fossimo piovuti/e / avessimo piovuto",
+        "foste piovuti/e / aveste piovuto",
+        "fossero piovuti/e / avessero piovuto"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "pioverei",
+        "pioveresti",
+        "pioverebbe",
+        "pioveremmo",
+        "piovereste",
+        "pioverebbero"
+      ],
+
+      "Passato": [
+        "sarei piovuto/a / avrei piovuto",
+        "saresti piovuto/a / avresti piovuto",
+        "sarebbe piovuto/a / avrebbe piovuto",
+        "saremmo piovuti/e / avremmo piovuto",
+        "sareste piovuti/e / avreste piovuto",
+        "sarebbero piovuti/e / avrebbero piovuto"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "piovi",
+        "piova",
+        "pioviamo",
+        "piovete",
+        "piovano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "piovere",
+        "essere piovuto/a/i/e / avere piovuto",
+        "piovente",
+        "piovuto",
+        "piovendo",
+        "essendo piovuto/a/i/e / avendo piovuto"
+      ]
+    }
+  }
+},
+{
+  "id": "nevicare",
+  "sid": "2026-00172",
+  "word": "nevicare",
+  "ipa": "/neviˈkare/",
+  "level": "A1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "非人称動詞・自動詞",
+      "it": "verbo impersonale e intransitivo"
+    },
+    "auxiliary": "avere／essere",
+    "pastParticiple": "nevicato",
+    "gerundPresent": "nevicando",
+    "pattern": "nevica / nevicare molto o poco / nevicare su, in + luogo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "weather",
+      "travel",
+      "news"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "雪が降る",
+      "雪が大量または継続的に降る",
+      "物が雪のように上から舞い落ちる",
+      "非人称表現で雪の天候を述べる"
+    ],
+    "it": [
+      "Cadere dal cielo sotto forma di neve.",
+      "Avere una precipitazione nevosa intensa o prolungata.",
+      "Cadere o diffondersi dall’alto come fiocchi di neve.",
+      "Descrivere impersonalmente una condizione meteorologica caratterizzata dalla neve."
+    ]
+  },
+
+  "nuance": {
+    "ja": "天候を表す場合は主語を置かず、通常は三人称単数nevicaを用いる。複合時制ではha nevicatoが現在最も一般的だが、è nevicatoも認められる。語尾が-careなので、eまたはiで始まる語尾の前では硬い/k/音を保つためhを加え、nevicherà、nevichiのように活用する。",
+    "it": "Nell’uso meteorologico è impersonale e compare normalmente alla terza persona singolare: nevica. Nei tempi composti ha nevicato è oggi molto comune, ma è nevicato è ugualmente ammesso. Poiché termina in -care, conserva il suono duro di c aggiungendo h davanti alle desinenze che iniziano per e o i: nevicherà, nevichi."
+  },
+
+  "etymology": {
+    "ja": "名詞neve（雪）から形成された動詞である。neveはラテン語nix、属格nivis（雪）に由来する。同じ印欧語根には英語snow、ドイツ語Schnee、ラテン語由来のnivaleなどがある。",
+    "it": "Derivato dal sostantivo neve, dal latino nix, genitivo nivis. Alla stessa famiglia appartengono nevoso, nevaio, innevare e nivale."
+  },
+
+  "minimal": [
+    {
+      "word": "nevicare",
+      "ja": "空から雪が降ることを非人称的に表す",
+      "it": "indicare impersonalmente la caduta della neve"
+    },
+    {
+      "word": "piovere",
+      "ja": "空から雨が降る",
+      "it": "cadere dal cielo sotto forma di pioggia"
+    },
+    {
+      "word": "grandinare",
+      "ja": "空から雹が降る",
+      "it": "cadere dal cielo sotto forma di grandine"
+    },
+    {
+      "word": "fioccare",
+      "ja": "雪などが大きな片となって舞い落ちる",
+      "it": "cadere in fiocchi, soprattutto con riferimento alla neve"
+    }
+  ],
+
+  "synonyms": [
+    "cadere la neve",
+    "fioccare",
+    "precipitare come neve",
+    "imbiancare",
+    "fare neve"
+  ],
+
+  "equivalents": {
+    "en": [
+      "snow",
+      "be snowing"
+    ],
+    "de": [
+      "schneien",
+      "verschneien"
+    ],
+    "fr": [
+      "neiger"
+    ],
+    "es": [
+      "nevar"
+    ]
+  },
+
+  "collocations": [
+    "nevicare molto",
+    "nevicare poco",
+    "nevicare forte",
+    "nevicare intensamente",
+    "nevicare abbondantemente",
+    "nevicare continuamente",
+    "nevicare tutta la notte",
+    "nevicare per ore",
+    "cominciare a nevicare",
+    "continuare a nevicare",
+    "smettere di nevicare",
+    "sta nevicando",
+    "sta per nevicare",
+    "può nevicare",
+    "sembrare che debba nevicare",
+    "sperare che nevichi",
+    "ha nevicato molto",
+    "è nevicato tutta la notte",
+    "nevicare in montagna",
+    "nevicare in città",
+    "nevicare sulle Alpi",
+    "nevicare a bassa quota",
+    "nevicare fuori stagione"
+  ],
+
+  "examples": [
+    {
+      "it": "Oggi nevica molto.",
+      "ja": "今日は雪がたくさん降っている。"
+    },
+    {
+      "it": "Ha nevicato per tutta la notte.",
+      "ja": "一晩中雪が降った。"
+    },
+    {
+      "it": "Domani potrebbe nevicare.",
+      "ja": "明日は雪が降るかもしれない。"
+    },
+    {
+      "it": "Quando siamo arrivati, aveva appena smesso di nevicare.",
+      "ja": "私たちが到着したとき、雪がやんだばかりだった。"
+    },
+    {
+      "it": "Spero che nevichi durante le vacanze.",
+      "ja": "休暇中に雪が降ることを願っている。"
+    },
+    {
+      "it": "Cominciò a nevicare sulle montagne.",
+      "ja": "山々で雪が降り始めた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "nevico",
+        "nevichi",
+        "nevica",
+        "nevichiamo",
+        "nevicate",
+        "nevicano"
+      ],
+
+      "Imperfetto": [
+        "nevicavo",
+        "nevicavi",
+        "nevicava",
+        "nevicavamo",
+        "nevicavate",
+        "nevicavano"
+      ],
+
+      "Passato prossimo": [
+        "ho nevicato / sono nevicato/a",
+        "hai nevicato / sei nevicato/a",
+        "ha nevicato / è nevicato/a",
+        "abbiamo nevicato / siamo nevicati/e",
+        "avete nevicato / siete nevicati/e",
+        "hanno nevicato / sono nevicati/e"
+      ],
+
+      "Passato remoto": [
+        "nevicai",
+        "nevicasti",
+        "nevicò",
+        "nevicammo",
+        "nevicaste",
+        "nevicarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo nevicato / ero nevicato/a",
+        "avevi nevicato / eri nevicato/a",
+        "aveva nevicato / era nevicato/a",
+        "avevamo nevicato / eravamo nevicati/e",
+        "avevate nevicato / eravate nevicati/e",
+        "avevano nevicato / erano nevicati/e"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi nevicato / fui nevicato/a",
+        "avesti nevicato / fosti nevicato/a",
+        "ebbe nevicato / fu nevicato/a",
+        "avemmo nevicato / fummo nevicati/e",
+        "aveste nevicato / foste nevicati/e",
+        "ebbero nevicato / furono nevicati/e"
+      ],
+
+      "Futuro semplice": [
+        "nevicherò",
+        "nevicherai",
+        "nevicherà",
+        "nevicheremo",
+        "nevicherete",
+        "nevicheranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò nevicato / sarò nevicato/a",
+        "avrai nevicato / sarai nevicato/a",
+        "avrà nevicato / sarà nevicato/a",
+        "avremo nevicato / saremo nevicati/e",
+        "avrete nevicato / sarete nevicati/e",
+        "avranno nevicato / saranno nevicati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "nevichi",
+        "nevichi",
+        "nevichi",
+        "nevichiamo",
+        "nevichiate",
+        "nevichino"
+      ],
+
+      "Imperfetto": [
+        "nevicassi",
+        "nevicassi",
+        "nevicasse",
+        "nevicassimo",
+        "nevicaste",
+        "nevicassero"
+      ],
+
+      "Passato": [
+        "abbia nevicato / sia nevicato/a",
+        "abbia nevicato / sia nevicato/a",
+        "abbia nevicato / sia nevicato/a",
+        "abbiamo nevicato / siamo nevicati/e",
+        "abbiate nevicato / siate nevicati/e",
+        "abbiano nevicato / siano nevicati/e"
+      ],
+
+      "Trapassato": [
+        "avessi nevicato / fossi nevicato/a",
+        "avessi nevicato / fossi nevicato/a",
+        "avesse nevicato / fosse nevicato/a",
+        "avessimo nevicato / fossimo nevicati/e",
+        "aveste nevicato / foste nevicati/e",
+        "avessero nevicato / fossero nevicati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "nevicherei",
+        "nevicheresti",
+        "nevicherebbe",
+        "nevicheremmo",
+        "nevichereste",
+        "nevicherebbero"
+      ],
+
+      "Passato": [
+        "avrei nevicato / sarei nevicato/a",
+        "avresti nevicato / saresti nevicato/a",
+        "avrebbe nevicato / sarebbe nevicato/a",
+        "avremmo nevicato / saremmo nevicati/e",
+        "avreste nevicato / sareste nevicati/e",
+        "avrebbero nevicato / sarebbero nevicati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "nevica",
+        "nevichi",
+        "nevichiamo",
+        "nevicate",
+        "nevichino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "nevicare",
+        "avere nevicato / essere nevicato/a/i/e",
+        "nevicante",
+        "nevicato",
+        "nevicando",
+        "avendo nevicato / essendo nevicato/a/i/e"
+      ]
+    }
+  }
 }
 ]
 
