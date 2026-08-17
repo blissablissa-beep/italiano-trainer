@@ -16786,6 +16786,659 @@
       ]
     }
   }
+},
+{
+  "id": "svegliarsi",
+  "sid": "2026-00173",
+  "word": "svegliarsi",
+  "ipa": "/zveʎˈʎarsi/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "再帰動詞・代名動詞",
+      "it": "verbo riflessivo e pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "svegliato",
+    "gerundPresent": "svegliandosi",
+    "pattern": "svegliarsi / svegliarsi a + ora / svegliarsi per, a causa di + motivo / svegliarsi da + stato"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "health",
+      "travel",
+      "workplace"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "眠りから覚める、目を覚ます",
+      "特定の時刻に起きる",
+      "音・光・夢などが原因で目を覚ます",
+      "意識を取り戻す、ぼんやりした状態から覚める",
+      "比喩的に、現実・危険・問題などに気づく",
+      "感情・関心・能力などが活発になる"
+    ],
+    "it": [
+      "Uscire dal sonno e tornare coscienti.",
+      "Aprire gli occhi o interrompere il sonno a una determinata ora.",
+      "Interrompere il sonno a causa di un rumore, della luce, di un sogno o di un altro motivo.",
+      "Riprendere piena coscienza dopo uno stato di torpore o confusione.",
+      "In senso figurato, rendersi conto della realtà, di un pericolo o di un problema.",
+      "Diventare attivi o manifestarsi nuovamente, con riferimento a sentimenti, interessi o capacità."
+    ]
+  },
+
+  "nuance": {
+    "ja": "眠っている状態から意識のある状態へ移る瞬間を表す。alzarsiはベッドや椅子から身体を起こすことなので、目を覚ましても起き上がらない場合にはMi sono svegliato, ma sono rimasto a lettoと言える。svegliareは他人を起こす他動詞で、svegliarsiは自分が目を覚ますことを表す。",
+    "it": "Indica il passaggio dal sonno allo stato di coscienza. Alzarsi significa invece lasciare il letto o sollevare il corpo; perciò ci si può svegliare e rimanere a letto. Svegliare è transitivo e significa interrompere il sonno di un’altra persona, mentre svegliarsi riguarda il soggetto stesso."
+  },
+
+  "etymology": {
+    "ja": "動詞svegliareの再帰・代名動詞形である。svegliareは俗ラテン語exvigilāreに由来し、ラテン語vigil（目覚めている、注意深い）と関係する。同じ語族にはveglia、vegliare、vigile、vigilareなどがある。",
+    "it": "Forma riflessiva e pronominale di svegliare, dal latino volgare exvigilāre, collegato a vigil, «sveglio, attento». Alla stessa famiglia appartengono veglia, vegliare, vigile e vigilare."
+  },
+
+  "minimal": [
+    {
+      "word": "svegliarsi",
+      "ja": "眠りから覚めて意識のある状態になる",
+      "it": "uscire dal sonno e tornare coscienti"
+    },
+    {
+      "word": "svegliare",
+      "ja": "眠っている人や動物を起こす",
+      "it": "far uscire un’altra persona o un animale dal sonno"
+    },
+    {
+      "word": "alzarsi",
+      "ja": "ベッド・椅子などから身体を起こして立ち上がる",
+      "it": "sollevarsi dal letto, da una sedia o da un’altra posizione"
+    },
+    {
+      "word": "addormentarsi",
+      "ja": "目覚めている状態から眠りに入る",
+      "it": "passare dallo stato di veglia al sonno"
+    }
+  ],
+
+  "synonyms": [
+    "destarsi",
+    "ridestarsi",
+    "aprire gli occhi",
+    "riprendere coscienza",
+    "rendersi conto"
+  ],
+
+  "equivalents": {
+    "en": [
+      "wake up",
+      "awaken",
+      "become aware"
+    ],
+    "de": [
+      "aufwachen",
+      "erwachen"
+    ],
+    "fr": [
+      "se réveiller",
+      "s’éveiller"
+    ],
+    "es": [
+      "despertarse",
+      "despabilarse"
+    ]
+  },
+
+  "collocations": [
+    "svegliarsi presto",
+    "svegliarsi tardi",
+    "svegliarsi all’alba",
+    "svegliarsi a mezzogiorno",
+    "svegliarsi alle sette",
+    "svegliarsi ogni mattina",
+    "svegliarsi durante la notte",
+    "svegliarsi improvvisamente",
+    "svegliarsi lentamente",
+    "svegliarsi riposato",
+    "svegliarsi stanco",
+    "svegliarsi di buon umore",
+    "svegliarsi di cattivo umore",
+    "svegliarsi con il rumore",
+    "svegliarsi per un rumore",
+    "svegliarsi a causa della luce",
+    "svegliarsi da un sogno",
+    "svegliarsi da un incubo",
+    "svegliarsi senza sveglia",
+    "fare fatica a svegliarsi",
+    "non riuscire a svegliarsi",
+    "appena svegliarsi",
+    "svegliarsi alla realtà",
+    "svegliarsi di soprassalto"
+  ],
+
+  "examples": [
+    {
+      "it": "Mi sveglio ogni mattina alle sette.",
+      "ja": "私は毎朝7時に目を覚ます。"
+    },
+    {
+      "it": "Mi sono svegliato tardi e ho perso il treno.",
+      "ja": "私は寝坊して列車に乗り遅れた。"
+    },
+    {
+      "it": "Il bambino si è svegliato per il rumore.",
+      "ja": "その子どもは物音で目を覚ました。"
+    },
+    {
+      "it": "Quando ti svegli, chiamami.",
+      "ja": "目が覚めたら私に電話してください。"
+    },
+    {
+      "it": "Si era già svegliata, ma era ancora a letto.",
+      "ja": "彼女はすでに目を覚ましていたが、まだベッドにいた。"
+    },
+    {
+      "it": "È ora che tutti si sveglino alla realtà.",
+      "ja": "皆が現実に気づくべき時だ。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi sveglio",
+        "ti svegli",
+        "si sveglia",
+        "ci svegliamo",
+        "vi svegliate",
+        "si svegliano"
+      ],
+
+      "Imperfetto": [
+        "mi svegliavo",
+        "ti svegliavi",
+        "si svegliava",
+        "ci svegliavamo",
+        "vi svegliavate",
+        "si svegliavano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono svegliato/a",
+        "ti sei svegliato/a",
+        "si è svegliato/a",
+        "ci siamo svegliati/e",
+        "vi siete svegliati/e",
+        "si sono svegliati/e"
+      ],
+
+      "Passato remoto": [
+        "mi svegliai",
+        "ti svegliasti",
+        "si svegliò",
+        "ci svegliammo",
+        "vi svegliaste",
+        "si svegliarono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero svegliato/a",
+        "ti eri svegliato/a",
+        "si era svegliato/a",
+        "ci eravamo svegliati/e",
+        "vi eravate svegliati/e",
+        "si erano svegliati/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui svegliato/a",
+        "ti fosti svegliato/a",
+        "si fu svegliato/a",
+        "ci fummo svegliati/e",
+        "vi foste svegliati/e",
+        "si furono svegliati/e"
+      ],
+
+      "Futuro semplice": [
+        "mi sveglierò",
+        "ti sveglierai",
+        "si sveglierà",
+        "ci sveglieremo",
+        "vi sveglierete",
+        "si sveglieranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò svegliato/a",
+        "ti sarai svegliato/a",
+        "si sarà svegliato/a",
+        "ci saremo svegliati/e",
+        "vi sarete svegliati/e",
+        "si saranno svegliati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi svegli",
+        "ti svegli",
+        "si svegli",
+        "ci svegliamo",
+        "vi svegliate",
+        "si sveglino"
+      ],
+
+      "Imperfetto": [
+        "mi svegliassi",
+        "ti svegliassi",
+        "si svegliasse",
+        "ci svegliassimo",
+        "vi svegliaste",
+        "si svegliassero"
+      ],
+
+      "Passato": [
+        "mi sia svegliato/a",
+        "ti sia svegliato/a",
+        "si sia svegliato/a",
+        "ci siamo svegliati/e",
+        "vi siate svegliati/e",
+        "si siano svegliati/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi svegliato/a",
+        "ti fossi svegliato/a",
+        "si fosse svegliato/a",
+        "ci fossimo svegliati/e",
+        "vi foste svegliati/e",
+        "si fossero svegliati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi sveglierei",
+        "ti sveglieresti",
+        "si sveglierebbe",
+        "ci sveglieremmo",
+        "vi svegliereste",
+        "si sveglierebbero"
+      ],
+
+      "Passato": [
+        "mi sarei svegliato/a",
+        "ti saresti svegliato/a",
+        "si sarebbe svegliato/a",
+        "ci saremmo svegliati/e",
+        "vi sareste svegliati/e",
+        "si sarebbero svegliati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "svegliati",
+        "si svegli",
+        "svegliamoci",
+        "svegliatevi",
+        "si sveglino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "svegliarsi",
+        "essersi svegliato/a/i/e",
+        "svegliantesi",
+        "svegliato",
+        "svegliandosi",
+        "essendosi svegliato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "svegliare",
+  "sid": "2026-00174",
+  "word": "svegliare",
+  "ipa": "/zveʎˈʎare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "svegliato",
+    "gerundPresent": "svegliando",
+    "pattern": "svegliare qualcuno / svegliare qualcuno a + ora / svegliare interesse, ricordi o sentimenti"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "family",
+      "health",
+      "travel"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "眠っている人や動物を起こす",
+      "特定の時刻に人を起こす",
+      "音・光・動作などによって睡眠を中断させる",
+      "意識・注意・警戒心などを呼び起こす",
+      "興味・好奇心・感情・記憶などを喚起する",
+      "比喩的に、人や社会に問題を認識させる"
+    ],
+    "it": [
+      "Far uscire una persona o un animale dal sonno.",
+      "Interrompere il sonno di qualcuno a una determinata ora.",
+      "Far cessare il sonno mediante un rumore, una luce, un movimento o un’altra causa.",
+      "Rendere attenti, coscienti o vigili.",
+      "Suscitare interesse, curiosità, emozioni o ricordi.",
+      "In senso figurato, rendere una persona o una collettività consapevole di un problema."
+    ]
+  },
+
+  "nuance": {
+    "ja": "眠っている他者を目覚めさせる他動詞で、目を覚ます人を直接目的語に取る。svegliarsiは主語自身が目を覚ますことを表す。人をベッドから立ち上がらせるalzareとは異なり、svegliareは睡眠を終わらせることに焦点を置く。抽象名詞とともに「興味・記憶などを呼び起こす」という意味でも用いられる。",
+    "it": "È transitivo e indica che il soggetto interrompe il sonno di un’altra persona o di un animale. Svegliarsi significa invece uscire personalmente dal sonno. A differenza di alzare, svegliare riguarda il ritorno alla coscienza e non necessariamente l’uscita dal letto. Con nomi astratti può significare suscitare interesse, emozioni o ricordi."
+  },
+
+  "etymology": {
+    "ja": "俗ラテン語exvigilāreに由来し、ラテン語vigil（目覚めている、注意深い）と関係する。接頭辞ex-は状態から外へ出すことを示す。同じ語族にはveglia、vegliare、vigile、vigilare、svegliarsiなどがある。",
+    "it": "Dal latino volgare exvigilāre, collegato a vigil, «sveglio, attento». Il prefisso ex- suggeriva l’uscita da uno stato. Alla stessa famiglia appartengono veglia, vegliare, vigile, vigilare e svegliarsi."
+  },
+
+  "minimal": [
+    {
+      "word": "svegliare",
+      "ja": "眠っている他者を目覚めさせる",
+      "it": "far uscire un’altra persona o un animale dal sonno"
+    },
+    {
+      "word": "svegliarsi",
+      "ja": "主語自身が眠りから覚める",
+      "it": "uscire personalmente dal sonno"
+    },
+    {
+      "word": "alzare",
+      "ja": "人や物を低い位置から高い位置へ動かす",
+      "it": "spostare qualcuno o qualcosa verso una posizione più alta"
+    },
+    {
+      "word": "destare",
+      "ja": "人を目覚めさせる、または感情・反応を喚起する、やや文章語的な表現",
+      "it": "svegliare oppure suscitare una reazione, con tono spesso più formale o letterario"
+    }
+  ],
+
+  "synonyms": [
+    "destare",
+    "ridestare",
+    "far alzare",
+    "allertare",
+    "suscitare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "wake",
+      "wake up",
+      "awaken"
+    ],
+    "de": [
+      "wecken",
+      "aufwecken",
+      "wachrufen"
+    ],
+    "fr": [
+      "réveiller",
+      "éveiller"
+    ],
+    "es": [
+      "despertar",
+      "despertar a alguien"
+    ]
+  },
+
+  "collocations": [
+    "svegliare qualcuno",
+    "svegliare un bambino",
+    "svegliare i genitori",
+    "svegliare il paziente",
+    "svegliare alle sette",
+    "svegliare presto",
+    "svegliare delicatamente",
+    "svegliare improvvisamente",
+    "svegliare con la sveglia",
+    "svegliare con un rumore",
+    "svegliare nel cuore della notte",
+    "non voler svegliare qualcuno",
+    "avere paura di svegliare qualcuno",
+    "cercare di svegliare qualcuno",
+    "riuscire a svegliare qualcuno",
+    "svegliare l’interesse",
+    "svegliare la curiosità",
+    "svegliare l’attenzione",
+    "svegliare un ricordo",
+    "svegliare antiche emozioni",
+    "svegliare la coscienza",
+    "svegliare il paese"
+  ],
+
+  "examples": [
+    {
+      "it": "Puoi svegliarmi alle sette?",
+      "ja": "7時に起こしてもらえますか。"
+    },
+    {
+      "it": "Il rumore ha svegliato il bambino.",
+      "ja": "その物音が子どもを起こした。"
+    },
+    {
+      "it": "Non parlare forte: potresti svegliarla.",
+      "ja": "大きな声で話さないでください。彼女を起こしてしまうかもしれません。"
+    },
+    {
+      "it": "Ho provato a svegliarlo, ma dormiva profondamente.",
+      "ja": "彼を起こそうとしたが、ぐっすり眠っていた。"
+    },
+    {
+      "it": "Il viaggio ha svegliato in lui una nuova curiosità.",
+      "ja": "その旅行は彼の中に新たな好奇心を呼び起こした。"
+    },
+    {
+      "it": "La notizia ha svegliato la coscienza dell’opinione pubblica.",
+      "ja": "その知らせは世論の問題意識を呼び覚ました。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "sveglio",
+        "svegli",
+        "sveglia",
+        "svegliamo",
+        "svegliate",
+        "svegliano"
+      ],
+
+      "Imperfetto": [
+        "svegliavo",
+        "svegliavi",
+        "svegliava",
+        "svegliavamo",
+        "svegliavate",
+        "svegliavano"
+      ],
+
+      "Passato prossimo": [
+        "ho svegliato",
+        "hai svegliato",
+        "ha svegliato",
+        "abbiamo svegliato",
+        "avete svegliato",
+        "hanno svegliato"
+      ],
+
+      "Passato remoto": [
+        "svegliai",
+        "svegliasti",
+        "svegliò",
+        "svegliammo",
+        "svegliaste",
+        "svegliarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo svegliato",
+        "avevi svegliato",
+        "aveva svegliato",
+        "avevamo svegliato",
+        "avevate svegliato",
+        "avevano svegliato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi svegliato",
+        "avesti svegliato",
+        "ebbe svegliato",
+        "avemmo svegliato",
+        "aveste svegliato",
+        "ebbero svegliato"
+      ],
+
+      "Futuro semplice": [
+        "sveglierò",
+        "sveglierai",
+        "sveglierà",
+        "sveglieremo",
+        "sveglierete",
+        "sveglieranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò svegliato",
+        "avrai svegliato",
+        "avrà svegliato",
+        "avremo svegliato",
+        "avrete svegliato",
+        "avranno svegliato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "svegli",
+        "svegli",
+        "svegli",
+        "svegliamo",
+        "svegliate",
+        "sveglino"
+      ],
+
+      "Imperfetto": [
+        "svegliassi",
+        "svegliassi",
+        "svegliasse",
+        "svegliassimo",
+        "svegliaste",
+        "svegliassero"
+      ],
+
+      "Passato": [
+        "abbia svegliato",
+        "abbia svegliato",
+        "abbia svegliato",
+        "abbiamo svegliato",
+        "abbiate svegliato",
+        "abbiano svegliato"
+      ],
+
+      "Trapassato": [
+        "avessi svegliato",
+        "avessi svegliato",
+        "avesse svegliato",
+        "avessimo svegliato",
+        "aveste svegliato",
+        "avessero svegliato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "sveglierei",
+        "sveglieresti",
+        "sveglierebbe",
+        "sveglieremmo",
+        "svegliereste",
+        "sveglierebbero"
+      ],
+
+      "Passato": [
+        "avrei svegliato",
+        "avresti svegliato",
+        "avrebbe svegliato",
+        "avremmo svegliato",
+        "avreste svegliato",
+        "avrebbero svegliato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "sveglia",
+        "svegli",
+        "svegliamo",
+        "svegliate",
+        "sveglino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "svegliare",
+        "avere svegliato",
+        "svegliante",
+        "svegliato",
+        "svegliando",
+        "avendo svegliato"
+      ]
+    }
+  }
 }
 ]
 
