@@ -19128,6 +19128,356 @@
       ]
     }
   }
+},
+{
+  "id": "portare",
+  "sid": "2026-00180",
+  "word": "portare",
+  "ipa": "/porˈtare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "portato",
+    "gerundPresent": "portando",
+    "pattern": "portare qualcuno o qualcosa a/in + luogo / portare qualcosa a qualcuno / portare + indumento o accessorio"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "business",
+      "home",
+      "social"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人・物をある場所へ持っていく、運ぶ、連れていく",
+      "人に物を持ってくる、届ける",
+      "衣服・靴・眼鏡・装飾品などを身に着けている",
+      "人をある場所・状態・結果へ導く",
+      "原因となって結果・変化をもたらす",
+      "物・身体などが重さや負担を支える",
+      "ある名称・番号・印・特徴などを持つ",
+      "行為・移動・完成などに一定の時間を要する"
+    ],
+    "it": [
+      "Trasportare o accompagnare una persona o una cosa verso un luogo.",
+      "Consegnare o far avere qualcosa a qualcuno.",
+      "Indossare un capo, delle scarpe, degli occhiali o un accessorio.",
+      "Condurre una persona verso un luogo, una condizione o un risultato.",
+      "Produrre o causare una conseguenza, un cambiamento o un vantaggio.",
+      "Sostenere un peso o un carico.",
+      "Avere un nome, un numero, un segno o una determinata caratteristica.",
+      "Richiedere una determinata quantità di tempo per essere svolto o completato."
+    ]
+  },
+
+  "nuance": {
+    "ja": "人や物を伴って別の場所へ移動させることを表す非常に多義的な基本動詞である。英語では文脈によってbring、take、carry、wearなどに訳し分けられるが、イタリア語のportareは話し手から遠ざかる移動にも近づく移動にも使える。人を目的語にすると「連れていく」、物なら「持っていく・運ぶ」となる。衣服については、着る動作ではなく身に着けている状態を表すことが多い。",
+    "it": "È un verbo fondamentale e molto polisemico. Può corrispondere, secondo il contesto, agli inglesi bring, take, carry e wear. Non distingue necessariamente il movimento verso il parlante da quello che se ne allontana. Con una persona significa spesso accompagnarla o condurla; con una cosa, trasportarla o consegnarla. Riferito all’abbigliamento indica normalmente ciò che una persona indossa, non il momento in cui se lo mette."
+  },
+
+  "etymology": {
+    "ja": "ラテン語portāre（運ぶ、持つ）に由来する。名詞porta（門）とは意味上の関連を感じさせるが、portareは印欧祖語の「運ぶ」を表す語根にさかのぼる。同じ語族にはportatore、trasportare、importare、esportare、comportareなどがある。",
+    "it": "Dal latino portāre, «trasportare, recare». Risale a una radice indoeuropea con il significato di portare o attraversare. Alla stessa famiglia appartengono portatore, trasportare, importare, esportare e comportare."
+  },
+
+  "minimal": [
+    {
+      "word": "portare",
+      "ja": "人・物を伴って目的地へ移動させる、または物を身に着けている",
+      "it": "trasportare o condurre qualcuno o qualcosa verso un luogo, oppure indossare qualcosa"
+    },
+    {
+      "word": "prendere",
+      "ja": "人・物を手に取る、選ぶ、受け取る、利用する",
+      "it": "afferrare, ricevere, scegliere o utilizzare una persona, una cosa o un mezzo"
+    },
+    {
+      "word": "trasportare",
+      "ja": "人・貨物・物品を乗り物などで別の場所へ運搬する",
+      "it": "spostare persone o merci da un luogo a un altro, spesso mediante un veicolo"
+    },
+    {
+      "word": "accompagnare",
+      "ja": "人と一緒に目的地まで行く、付き添う",
+      "it": "andare insieme a una persona fino a un luogo o durante un percorso"
+    },
+    {
+      "word": "indossare",
+      "ja": "衣服・靴・装飾品などを身に着ける、または身に着けている",
+      "it": "mettere o avere addosso un capo, delle scarpe o un accessorio"
+    }
+  ],
+
+  "synonyms": [
+    "trasportare",
+    "condurre",
+    "accompagnare",
+    "recare",
+    "indossare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "bring",
+      "take",
+      "carry",
+      "wear"
+    ],
+    "de": [
+      "bringen",
+      "tragen",
+      "mitnehmen",
+      "führen"
+    ],
+    "fr": [
+      "porter",
+      "apporter",
+      "emmener",
+      "amener"
+    ],
+    "es": [
+      "llevar",
+      "traer",
+      "transportar",
+      "vestir"
+    ]
+  },
+
+  "collocations": [
+    "portare qualcosa",
+    "portare una valigia",
+    "portare una borsa",
+    "portare i bagagli",
+    "portare un regalo",
+    "portare dei documenti",
+    "portare qualcosa a qualcuno",
+    "portare qualcuno a casa",
+    "portare i bambini a scuola",
+    "portare il cane dal veterinario",
+    "portare un amico alla stazione",
+    "portare in ufficio",
+    "portare con sé",
+    "portare via",
+    "portare indietro",
+    "portare fuori",
+    "portare dentro",
+    "portare gli occhiali",
+    "portare la barba",
+    "portare i capelli lunghi",
+    "portare un vestito elegante",
+    "portare fortuna",
+    "portare sfortuna",
+    "portare benefici",
+    "portare risultati",
+    "portare a una conclusione",
+    "portare a termine",
+    "portare il nome di",
+    "portare il numero",
+    "portare un peso",
+    "quanto tempo ci vuole per"
+  ],
+
+  "examples": [
+    {
+      "it": "Puoi portare questi documenti in ufficio?",
+      "ja": "この書類を事務所へ持っていってもらえますか。"
+    },
+    {
+      "it": "Domani porterò i bambini a scuola.",
+      "ja": "明日は私が子どもたちを学校へ連れていく。"
+    },
+    {
+      "it": "Ti ho portato un piccolo regalo.",
+      "ja": "あなたにちょっとしたプレゼントを持ってきました。"
+    },
+    {
+      "it": "Quando legge, porta gli occhiali.",
+      "ja": "彼は本を読むとき眼鏡をかける。"
+    },
+    {
+      "it": "Questa strada porta al centro della città.",
+      "ja": "この道は市の中心部へ通じている。"
+    },
+    {
+      "it": "Il nuovo sistema ha portato molti vantaggi.",
+      "ja": "新しい制度は多くの利点をもたらした。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "porto",
+        "porti",
+        "porta",
+        "portiamo",
+        "portate",
+        "portano"
+      ],
+
+      "Imperfetto": [
+        "portavo",
+        "portavi",
+        "portava",
+        "portavamo",
+        "portavate",
+        "portavano"
+      ],
+
+      "Passato prossimo": [
+        "ho portato",
+        "hai portato",
+        "ha portato",
+        "abbiamo portato",
+        "avete portato",
+        "hanno portato"
+      ],
+
+      "Passato remoto": [
+        "portai",
+        "portasti",
+        "portò",
+        "portammo",
+        "portaste",
+        "portarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo portato",
+        "avevi portato",
+        "aveva portato",
+        "avevamo portato",
+        "avevate portato",
+        "avevano portato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi portato",
+        "avesti portato",
+        "ebbe portato",
+        "avemmo portato",
+        "aveste portato",
+        "ebbero portato"
+      ],
+
+      "Futuro semplice": [
+        "porterò",
+        "porterai",
+        "porterà",
+        "porteremo",
+        "porterete",
+        "porteranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò portato",
+        "avrai portato",
+        "avrà portato",
+        "avremo portato",
+        "avrete portato",
+        "avranno portato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "porti",
+        "porti",
+        "porti",
+        "portiamo",
+        "portiate",
+        "portino"
+      ],
+
+      "Imperfetto": [
+        "portassi",
+        "portassi",
+        "portasse",
+        "portassimo",
+        "portaste",
+        "portassero"
+      ],
+
+      "Passato": [
+        "abbia portato",
+        "abbia portato",
+        "abbia portato",
+        "abbiamo portato",
+        "abbiate portato",
+        "abbiano portato"
+      ],
+
+      "Trapassato": [
+        "avessi portato",
+        "avessi portato",
+        "avesse portato",
+        "avessimo portato",
+        "aveste portato",
+        "avessero portato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "porterei",
+        "porteresti",
+        "porterebbe",
+        "porteremmo",
+        "portereste",
+        "porterebbero"
+      ],
+
+      "Passato": [
+        "avrei portato",
+        "avresti portato",
+        "avrebbe portato",
+        "avremmo portato",
+        "avreste portato",
+        "avrebbero portato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "porta",
+        "porti",
+        "portiamo",
+        "portate",
+        "portino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "portare",
+        "avere portato",
+        "portante",
+        "portato",
+        "portando",
+        "avendo portato"
+      ]
+    }
+  }
 }
 ]
 
