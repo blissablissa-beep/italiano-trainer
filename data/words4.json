@@ -682,5 +682,341 @@
       ]
     }
   }
+},
+{
+  "id": "aiutare",
+  "sid": "2026-00183",
+  "word": "aiutare",
+  "ipa": "/ajuˈtare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "aiutato",
+    "gerundPresent": "aiutando",
+    "pattern": "aiutare qualcuno / aiutare qualcuno a + infinito / aiutare in, con + attività o problema"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "social",
+      "business",
+      "emergency"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "困っている人や助けを必要とする人を手伝う",
+      "人が何かを行うのを助ける、手助けする",
+      "問題の解決や目標の達成に役立つ",
+      "金銭・物資・情報などを提供して支援する",
+      "危険・困難・苦痛などから人を救う",
+      "物・方法・状況などが結果を得やすくする"
+    ],
+    "it": [
+      "Prestare assistenza a una persona che ne ha bisogno.",
+      "Rendere più facile a qualcuno lo svolgimento di un’azione.",
+      "Contribuire alla soluzione di un problema o al raggiungimento di un obiettivo.",
+      "Sostenere qualcuno fornendo denaro, beni, informazioni o altri mezzi.",
+      "Soccorrere una persona in una situazione di pericolo, difficoltà o sofferenza.",
+      "Favorire un risultato o rendere più semplice un processo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "人の負担を軽くしたり、目的を達成しやすくしたりするために力を貸すことを広く表す。助ける相手は前置詞なしの直接目的語となり、aiutare qualcunoと言う。「人が～するのを手伝う」はaiutare qualcuno a fare qualcosaの形を取る。soccorrereは事故・急病・危険などでの緊急援助、assistereは継続的・専門的な付き添いや支援を表しやすい。",
+    "it": "Indica in senso ampio il prestare il proprio sostegno per ridurre una difficoltà o facilitare il raggiungimento di uno scopo. La persona aiutata è un oggetto diretto: aiutare qualcuno. La costruzione aiutare qualcuno a fare qualcosa introduce con a l’azione resa più facile. Soccorrere richiama un intervento urgente; assistere può indicare un sostegno più continuativo o professionale."
+  },
+
+  "etymology": {
+    "ja": "ラテン語adiūtāre（助ける、支援する）に由来する。これはadiuvāre（助ける、役立つ）の反復・強意形で、ad-（～へ）とiuvāre（助ける、喜ばせる）から成る。同じ語族にはaiuto、coadiuvare、adiuvanteなどがある。",
+    "it": "Dal latino adiūtāre, forma intensiva di adiuvāre, «aiutare, giovare», composto da ad- e iuvāre. Alla stessa famiglia appartengono aiuto, aiutante, coadiuvare e adiuvante."
+  },
+
+  "minimal": [
+    {
+      "word": "aiutare",
+      "ja": "人の負担を軽くし、行為や目標の達成を容易にする",
+      "it": "prestare sostegno a qualcuno rendendo più facile un’azione o il raggiungimento di uno scopo"
+    },
+    {
+      "word": "assistere",
+      "ja": "人に付き添い、継続的・専門的な世話や支援を与える",
+      "it": "fornire a qualcuno una presenza, una cura o un sostegno spesso continuativo o professionale"
+    },
+    {
+      "word": "soccorrere",
+      "ja": "事故・急病・危険にある人へ緊急の援助を与える",
+      "it": "prestare aiuto immediato a chi si trova in pericolo o in grave difficoltà"
+    },
+    {
+      "word": "sostenere",
+      "ja": "人・活動・主張などを物質的、精神的または論理的に支える",
+      "it": "appoggiare una persona, un’attività o una posizione sul piano materiale o morale"
+    }
+  ],
+
+  "synonyms": [
+    "assistere",
+    "sostenere",
+    "soccorrere",
+    "agevolare",
+    "dare una mano"
+  ],
+
+  "equivalents": {
+    "en": [
+      "help",
+      "assist",
+      "support"
+    ],
+    "de": [
+      "helfen",
+      "unterstützen",
+      "beistehen"
+    ],
+    "fr": [
+      "aider",
+      "assister",
+      "soutenir"
+    ],
+    "es": [
+      "ayudar",
+      "asistir",
+      "apoyar"
+    ]
+  },
+
+  "collocations": [
+    "aiutare qualcuno",
+    "aiutare un amico",
+    "aiutare la famiglia",
+    "aiutare i genitori",
+    "aiutare un collega",
+    "aiutare una persona anziana",
+    "aiutare chi è in difficoltà",
+    "aiutare qualcuno a capire",
+    "aiutare qualcuno a studiare",
+    "aiutare qualcuno a lavorare",
+    "aiutare qualcuno a trovare qualcosa",
+    "aiutare qualcuno a risolvere un problema",
+    "aiutare qualcuno a prepararsi",
+    "aiutare in casa",
+    "aiutare con i lavori domestici",
+    "aiutare con un problema",
+    "aiutare economicamente",
+    "aiutare concretamente",
+    "aiutare volontariamente",
+    "cercare di aiutare",
+    "riuscire ad aiutare",
+    "essere pronto ad aiutare",
+    "chiedere di essere aiutato",
+    "lasciarsi aiutare",
+    "aiutarsi a vicenda",
+    "aiutare sé stessi",
+    "dare una mano",
+    "questo può aiutare",
+    "aiutare a migliorare",
+    "aiutare a prevenire"
+  ],
+
+  "examples": [
+    {
+      "it": "Puoi aiutarmi, per favore?",
+      "ja": "手伝ってもらえますか。"
+    },
+    {
+      "it": "Ho aiutato mio fratello a preparare la cena.",
+      "ja": "私は弟が夕食を準備するのを手伝った。"
+    },
+    {
+      "it": "Questa spiegazione mi ha aiutato a capire il problema.",
+      "ja": "この説明のおかげで私は問題を理解できた。"
+    },
+    {
+      "it": "Dobbiamo aiutare le persone che si trovano in difficoltà.",
+      "ja": "私たちは困っている人々を助けなければならない。"
+    },
+    {
+      "it": "I colleghi si aiutano a vicenda.",
+      "ja": "同僚たちは互いに助け合っている。"
+    },
+    {
+      "it": "Una breve pausa ti aiuterà a lavorare meglio.",
+      "ja": "少し休憩すれば、もっとよく仕事ができるようになるでしょう。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "aiuto",
+        "aiuti",
+        "aiuta",
+        "aiutiamo",
+        "aiutate",
+        "aiutano"
+      ],
+
+      "Imperfetto": [
+        "aiutavo",
+        "aiutavi",
+        "aiutava",
+        "aiutavamo",
+        "aiutavate",
+        "aiutavano"
+      ],
+
+      "Passato prossimo": [
+        "ho aiutato",
+        "hai aiutato",
+        "ha aiutato",
+        "abbiamo aiutato",
+        "avete aiutato",
+        "hanno aiutato"
+      ],
+
+      "Passato remoto": [
+        "aiutai",
+        "aiutasti",
+        "aiutò",
+        "aiutammo",
+        "aiutaste",
+        "aiutarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo aiutato",
+        "avevi aiutato",
+        "aveva aiutato",
+        "avevamo aiutato",
+        "avevate aiutato",
+        "avevano aiutato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi aiutato",
+        "avesti aiutato",
+        "ebbe aiutato",
+        "avemmo aiutato",
+        "aveste aiutato",
+        "ebbero aiutato"
+      ],
+
+      "Futuro semplice": [
+        "aiuterò",
+        "aiuterai",
+        "aiuterà",
+        "aiuteremo",
+        "aiuterete",
+        "aiuteranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò aiutato",
+        "avrai aiutato",
+        "avrà aiutato",
+        "avremo aiutato",
+        "avrete aiutato",
+        "avranno aiutato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "aiuti",
+        "aiuti",
+        "aiuti",
+        "aiutiamo",
+        "aiutiate",
+        "aiutino"
+      ],
+
+      "Imperfetto": [
+        "aiutassi",
+        "aiutassi",
+        "aiutasse",
+        "aiutassimo",
+        "aiutaste",
+        "aiutassero"
+      ],
+
+      "Passato": [
+        "abbia aiutato",
+        "abbia aiutato",
+        "abbia aiutato",
+        "abbiamo aiutato",
+        "abbiate aiutato",
+        "abbiano aiutato"
+      ],
+
+      "Trapassato": [
+        "avessi aiutato",
+        "avessi aiutato",
+        "avesse aiutato",
+        "avessimo aiutato",
+        "aveste aiutato",
+        "avessero aiutato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "aiuterei",
+        "aiuteresti",
+        "aiuterebbe",
+        "aiuteremmo",
+        "aiutereste",
+        "aiuterebbero"
+      ],
+
+      "Passato": [
+        "avrei aiutato",
+        "avresti aiutato",
+        "avrebbe aiutato",
+        "avremmo aiutato",
+        "avreste aiutato",
+        "avrebbero aiutato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "aiuta",
+        "aiuti",
+        "aiutiamo",
+        "aiutate",
+        "aiutino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "aiutare",
+        "avere aiutato",
+        "aiutante",
+        "aiutato",
+        "aiutando",
+        "avendo aiutato"
+      ]
+    }
+  }
 }
 ]
