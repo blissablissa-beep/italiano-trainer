@@ -1018,5 +1018,1012 @@
       ]
     }
   }
+},
+{
+  "id": "rispondere",
+  "sid": "2026-00184",
+  "word": "rispondere",
+  "ipa": "/riˈspondere/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "risposto",
+    "gerundPresent": "rispondendo",
+    "pattern": "rispondere a + persona, domanda o messaggio / rispondere che + frase / rispondere di + fatto o persona"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "education",
+      "social",
+      "communication"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "質問・発言・呼びかけなどに答える",
+      "人・電話・手紙・メールなどに返事をする",
+      "批判・非難・攻撃などに反応する、応じる",
+      "要求・期待・条件などに合致する、対応する",
+      "自分の行為・結果・責任について説明責任を負う",
+      "人や物の安全・行動などについて責任を持つ"
+    ],
+    "it": [
+      "Dare una risposta a una domanda, a un’affermazione o a un richiamo.",
+      "Dare una risposta a una persona, a una telefonata, a una lettera o a un messaggio.",
+      "Reagire a una critica, a un’accusa, a un attacco o a un comportamento.",
+      "Corrispondere a una richiesta, a un’aspettativa, a una condizione o a un criterio.",
+      "Essere responsabili delle proprie azioni o dei loro risultati.",
+      "Assumersi la responsabilità di una persona, di un bene o di una determinata attività."
+    ]
+  },
+
+  "nuance": {
+    "ja": "質問・人・連絡など、返答の対象は通常aで導き、rispondere a una domanda、rispondere a qualcuno、rispondere a un messaggioと言う。日本語や英語の感覚から前置詞を省かないよう注意が必要である。返答の内容を文で示す場合はrispondere che、直接話法ではha risposto: «Sì»のように使う。rispondere diは「～について責任を負う」を意味する。",
+    "it": "La persona, la domanda o il messaggio a cui si dà una risposta è normalmente introdotto dalla preposizione a: rispondere a qualcuno, a una domanda, a un’e-mail. Il contenuto della risposta può essere introdotto da che oppure espresso con il discorso diretto. Rispondere di qualcuno o qualcosa significa esserne responsabili e doverne rendere conto."
+  },
+
+  "etymology": {
+    "ja": "ラテン語respondēre（返答する、約束に応じる）に由来し、接頭辞re-（返して、再び）とspondēre（厳粛に約束する）から成る。本来は相手の誓約や約束に応じることを表した。同じ語族にはrisposta、responsabile、responsabilità、英語respondやresponseなどがある。",
+    "it": "Dal latino respondēre, formato da re- e spondēre, «promettere solennemente». Indicava originariamente il ricambiare un impegno o una promessa. Alla stessa famiglia appartengono risposta, responsabile, responsabilità e corrispondere."
+  },
+
+  "minimal": [
+    {
+      "word": "rispondere",
+      "ja": "質問・発言・連絡・人などに対して返答する",
+      "it": "dare una risposta a una persona, una domanda, un messaggio o un’affermazione"
+    },
+    {
+      "word": "dire",
+      "ja": "言葉によって情報・考え・意思などを表現する",
+      "it": "esprimere verbalmente un’informazione, un pensiero o una volontà"
+    },
+    {
+      "word": "replicare",
+      "ja": "発言・批判・反論などに対して言葉を返す、やや改まった表現",
+      "it": "rispondere a un’affermazione o a un’obiezione, spesso controbattendo"
+    },
+    {
+      "word": "reagire",
+      "ja": "出来事・刺激・行為などを受けて、態度や行動で反応する",
+      "it": "manifestare una reazione fisica, emotiva o comportamentale a uno stimolo"
+    }
+  ],
+
+  "synonyms": [
+    "replicare",
+    "ribattere",
+    "reagire",
+    "corrispondere",
+    "dare una risposta"
+  ],
+
+  "equivalents": {
+    "en": [
+      "answer",
+      "reply",
+      "respond"
+    ],
+    "de": [
+      "antworten",
+      "erwidern",
+      "reagieren"
+    ],
+    "fr": [
+      "répondre",
+      "répliquer",
+      "réagir"
+    ],
+    "es": [
+      "responder",
+      "contestar",
+      "replicar"
+    ]
+  },
+
+  "collocations": [
+    "rispondere a qualcuno",
+    "rispondere a una domanda",
+    "rispondere a una richiesta",
+    "rispondere a un messaggio",
+    "rispondere a un’e-mail",
+    "rispondere a una lettera",
+    "rispondere al telefono",
+    "rispondere a una chiamata",
+    "rispondere a un annuncio",
+    "rispondere a una critica",
+    "rispondere a un’accusa",
+    "rispondere a un attacco",
+    "rispondere correttamente",
+    "rispondere chiaramente",
+    "rispondere sinceramente",
+    "rispondere immediatamente",
+    "rispondere rapidamente",
+    "rispondere brevemente",
+    "rispondere gentilmente",
+    "rispondere male",
+    "rispondere di sì",
+    "rispondere di no",
+    "rispondere che",
+    "sapere che cosa rispondere",
+    "non riuscire a rispondere",
+    "rifiutarsi di rispondere",
+    "evitare di rispondere",
+    "rispondere alle aspettative",
+    "rispondere alle esigenze",
+    "rispondere di qualcosa",
+    "rispondere delle proprie azioni"
+  ],
+
+  "examples": [
+    {
+      "it": "Non so come rispondere a questa domanda.",
+      "ja": "この質問にどう答えればよいか分かりません。"
+    },
+    {
+      "it": "Ti ho scritto ieri, ma non mi hai risposto.",
+      "ja": "昨日あなたにメッセージを送ったが、返事がなかった。"
+    },
+    {
+      "it": "Puoi rispondere al telefono?",
+      "ja": "電話に出てもらえますか。"
+    },
+    {
+      "it": "Ha risposto che sarebbe arrivato più tardi.",
+      "ja": "彼はもっと遅く到着すると答えた。"
+    },
+    {
+      "it": "Il prodotto non risponde alle nostre esigenze.",
+      "ja": "その製品は私たちの要求を満たしていない。"
+    },
+    {
+      "it": "Ognuno deve rispondere delle proprie azioni.",
+      "ja": "誰もが自分の行為について責任を負わなければならない。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "rispondo",
+        "rispondi",
+        "risponde",
+        "rispondiamo",
+        "rispondete",
+        "rispondono"
+      ],
+
+      "Imperfetto": [
+        "rispondevo",
+        "rispondevi",
+        "rispondeva",
+        "rispondevamo",
+        "rispondevate",
+        "rispondevano"
+      ],
+
+      "Passato prossimo": [
+        "ho risposto",
+        "hai risposto",
+        "ha risposto",
+        "abbiamo risposto",
+        "avete risposto",
+        "hanno risposto"
+      ],
+
+      "Passato remoto": [
+        "risposi",
+        "rispondesti",
+        "rispose",
+        "rispondemmo",
+        "rispondeste",
+        "risposero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo risposto",
+        "avevi risposto",
+        "aveva risposto",
+        "avevamo risposto",
+        "avevate risposto",
+        "avevano risposto"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi risposto",
+        "avesti risposto",
+        "ebbe risposto",
+        "avemmo risposto",
+        "aveste risposto",
+        "ebbero risposto"
+      ],
+
+      "Futuro semplice": [
+        "risponderò",
+        "risponderai",
+        "risponderà",
+        "risponderemo",
+        "risponderete",
+        "risponderanno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò risposto",
+        "avrai risposto",
+        "avrà risposto",
+        "avremo risposto",
+        "avrete risposto",
+        "avranno risposto"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "risponda",
+        "risponda",
+        "risponda",
+        "rispondiamo",
+        "rispondiate",
+        "rispondano"
+      ],
+
+      "Imperfetto": [
+        "rispondessi",
+        "rispondessi",
+        "rispondesse",
+        "rispondessimo",
+        "rispondeste",
+        "rispondessero"
+      ],
+
+      "Passato": [
+        "abbia risposto",
+        "abbia risposto",
+        "abbia risposto",
+        "abbiamo risposto",
+        "abbiate risposto",
+        "abbiano risposto"
+      ],
+
+      "Trapassato": [
+        "avessi risposto",
+        "avessi risposto",
+        "avesse risposto",
+        "avessimo risposto",
+        "aveste risposto",
+        "avessero risposto"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "risponderei",
+        "risponderesti",
+        "risponderebbe",
+        "risponderemmo",
+        "rispondereste",
+        "risponderebbero"
+      ],
+
+      "Passato": [
+        "avrei risposto",
+        "avresti risposto",
+        "avrebbe risposto",
+        "avremmo risposto",
+        "avreste risposto",
+        "avrebbero risposto"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "rispondi",
+        "risponda",
+        "rispondiamo",
+        "rispondete",
+        "rispondano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "rispondere",
+        "avere risposto",
+        "rispondente",
+        "risposto",
+        "rispondendo",
+        "avendo risposto"
+      ]
+    }
+  }
+},
+{
+  "id": "ricordare",
+  "sid": "2026-00185",
+  "word": "ricordare",
+  "ipa": "/rikorˈdare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "ricordato",
+    "gerundPresent": "ricordando",
+    "pattern": "ricordare qualcuno o qualcosa / ricordare di + infinito / ricordare a qualcuno di + infinito / ricordare che + frase"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "social",
+      "business",
+      "education"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人・出来事・情報などを覚えている、思い出す",
+      "忘れずに行為をする、～することを覚えておく",
+      "人に予定・義務・情報などを思い出させる",
+      "過去の人・出来事などを回想する、記念する",
+      "人や物を見て別の人・物を連想する",
+      "情報・事実・注意事項などを改めて伝える"
+    ],
+    "it": [
+      "Conservare o richiamare alla memoria una persona, un fatto o un’informazione.",
+      "Tenere presente la necessità di compiere un’azione senza dimenticarla.",
+      "Far tornare alla memoria di qualcuno un impegno, un fatto o un’informazione.",
+      "Commemorare o rievocare una persona o un avvenimento del passato.",
+      "Far pensare a un’altra persona o cosa per una somiglianza o un’associazione.",
+      "Richiamare l’attenzione su un’informazione, una regola o una circostanza."
+    ]
+  },
+
+  "nuance": {
+    "ja": "他動詞のricordareは、覚えている人・物・事柄を前置詞なしの直接目的語に取り、ricordo quella giornataのように使う。ricordare di + 不定詞は「忘れずに～する」、ricordare a qualcuno di + 不定詞は「人に～するよう念を押す」を表す。再帰・代名動詞形ricordarsiでは、対象を通常diで導き、ricordarsi di qualcosaと言う。両形は多くの場合近い意味だが、文型が異なる。",
+    "it": "Nell’uso transitivo, la persona o la cosa conservata nella memoria è un oggetto diretto: ricordo quella giornata. Ricordare di fare qualcosa significa non dimenticare di compiere l’azione; ricordare a qualcuno di farla significa richiamargliela alla mente. La forma pronominale ricordarsi introduce invece normalmente l’oggetto con di: ricordarsi di qualcosa."
+  },
+
+  "etymology": {
+    "ja": "ラテン語recordāri（思い出す、心に呼び戻す）に由来し、接頭辞re-（再び）とcor、属格cordis（心）に関係する。したがって語源的には、過去のものを「再び心へ戻す」ことを表す。同じ語族にはricordo、cordiale、concordiaなどがある。",
+    "it": "Dal latino recordāri, formato da re- e cor, genitivo cordis, «cuore». Etimologicamente significa quindi «richiamare al cuore». Alla stessa famiglia appartengono ricordo, cordiale, concordia e discordia."
+  },
+
+  "minimal": [
+    {
+      "word": "ricordare",
+      "ja": "人・出来事・情報を記憶に保つ、または記憶へ呼び戻す",
+      "it": "conservare o richiamare alla memoria una persona, un fatto o un’informazione"
+    },
+    {
+      "word": "ricordarsi",
+      "ja": "人・物・行為などを忘れずに覚えている、通常diを伴う",
+      "it": "tenere presente qualcuno o qualcosa, normalmente con la preposizione di"
+    },
+    {
+      "word": "rammentare",
+      "ja": "何かを思い出す、または人に思い出させる、やや改まった表現",
+      "it": "ricordare o far ricordare qualcosa, con un tono spesso più formale"
+    },
+    {
+      "word": "dimenticare",
+      "ja": "記憶していた人・事柄・予定などを思い出せなくなる",
+      "it": "non conservare o non riuscire a richiamare qualcosa alla memoria"
+    }
+  ],
+
+  "synonyms": [
+    "rammentare",
+    "rievocare",
+    "richiamare alla memoria",
+    "commemorare",
+    "menzionare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "remember",
+      "remind",
+      "recall"
+    ],
+    "de": [
+      "sich erinnern",
+      "erinnern",
+      "gedenken"
+    ],
+    "fr": [
+      "se souvenir",
+      "rappeler",
+      "commémorer"
+    ],
+    "es": [
+      "recordar",
+      "acordarse",
+      "hacer recordar"
+    ]
+  },
+
+  "collocations": [
+    "ricordare qualcuno",
+    "ricordare un amico",
+    "ricordare il passato",
+    "ricordare un avvenimento",
+    "ricordare una data",
+    "ricordare un nome",
+    "ricordare una parola",
+    "ricordare una promessa",
+    "ricordare un appuntamento",
+    "ricordare bene",
+    "ricordare chiaramente",
+    "ricordare perfettamente",
+    "ricordare vagamente",
+    "ricordare improvvisamente",
+    "ricordare con piacere",
+    "ricordare con affetto",
+    "ricordare con tristezza",
+    "ricordare di telefonare",
+    "ricordare di comprare qualcosa",
+    "ricordare di fare qualcosa",
+    "ricordare a qualcuno un appuntamento",
+    "ricordare a qualcuno di telefonare",
+    "ricordare che",
+    "far ricordare qualcosa",
+    "non riuscire a ricordare",
+    "cercare di ricordare",
+    "se ricordo bene",
+    "come ricorderai",
+    "vale la pena ricordare",
+    "ricordare una persona scomparsa",
+    "ricordare molto qualcuno"
+  ],
+
+  "examples": [
+    {
+      "it": "Non ricordo il suo nome.",
+      "ja": "私は彼の名前を覚えていません。"
+    },
+    {
+      "it": "Ricordo bene il giorno in cui ci siamo incontrati.",
+      "ja": "私たちが出会った日のことをよく覚えている。"
+    },
+    {
+      "it": "Ricorda di chiudere la porta prima di uscire.",
+      "ja": "外出する前に忘れずにドアを閉めてください。"
+    },
+    {
+      "it": "Puoi ricordarmi di telefonare al medico?",
+      "ja": "医師に電話するよう私に念を押してもらえますか。"
+    },
+    {
+      "it": "Questa città mi ricorda il luogo in cui sono cresciuto.",
+      "ja": "この町を見ると、私が育った場所を思い出す。"
+    },
+    {
+      "it": "La cerimonia ricorda le vittime della guerra.",
+      "ja": "その式典は戦争の犠牲者を追悼するものである。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "ricordo",
+        "ricordi",
+        "ricorda",
+        "ricordiamo",
+        "ricordate",
+        "ricordano"
+      ],
+
+      "Imperfetto": [
+        "ricordavo",
+        "ricordavi",
+        "ricordava",
+        "ricordavamo",
+        "ricordavate",
+        "ricordavano"
+      ],
+
+      "Passato prossimo": [
+        "ho ricordato",
+        "hai ricordato",
+        "ha ricordato",
+        "abbiamo ricordato",
+        "avete ricordato",
+        "hanno ricordato"
+      ],
+
+      "Passato remoto": [
+        "ricordai",
+        "ricordasti",
+        "ricordò",
+        "ricordammo",
+        "ricordaste",
+        "ricordarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo ricordato",
+        "avevi ricordato",
+        "aveva ricordato",
+        "avevamo ricordato",
+        "avevate ricordato",
+        "avevano ricordato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi ricordato",
+        "avesti ricordato",
+        "ebbe ricordato",
+        "avemmo ricordato",
+        "aveste ricordato",
+        "ebbero ricordato"
+      ],
+
+      "Futuro semplice": [
+        "ricorderò",
+        "ricorderai",
+        "ricorderà",
+        "ricorderemo",
+        "ricorderete",
+        "ricorderanno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò ricordato",
+        "avrai ricordato",
+        "avrà ricordato",
+        "avremo ricordato",
+        "avrete ricordato",
+        "avranno ricordato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "ricordi",
+        "ricordi",
+        "ricordi",
+        "ricordiamo",
+        "ricordiate",
+        "ricordino"
+      ],
+
+      "Imperfetto": [
+        "ricordassi",
+        "ricordassi",
+        "ricordasse",
+        "ricordassimo",
+        "ricordaste",
+        "ricordassero"
+      ],
+
+      "Passato": [
+        "abbia ricordato",
+        "abbia ricordato",
+        "abbia ricordato",
+        "abbiamo ricordato",
+        "abbiate ricordato",
+        "abbiano ricordato"
+      ],
+
+      "Trapassato": [
+        "avessi ricordato",
+        "avessi ricordato",
+        "avesse ricordato",
+        "avessimo ricordato",
+        "aveste ricordato",
+        "avessero ricordato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "ricorderei",
+        "ricorderesti",
+        "ricorderebbe",
+        "ricorderemmo",
+        "ricordereste",
+        "ricorderebbero"
+      ],
+
+      "Passato": [
+        "avrei ricordato",
+        "avresti ricordato",
+        "avrebbe ricordato",
+        "avremmo ricordato",
+        "avreste ricordato",
+        "avrebbero ricordato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "ricorda",
+        "ricordi",
+        "ricordiamo",
+        "ricordate",
+        "ricordino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "ricordare",
+        "avere ricordato",
+        "ricordante",
+        "ricordato",
+        "ricordando",
+        "avendo ricordato"
+      ]
+    }
+  }
+},
+{
+  "id": "preferire",
+  "sid": "2026-00186",
+  "word": "preferire",
+  "ipa": "/prefeˈrire/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "preferito",
+    "gerundPresent": "preferendo",
+    "pattern": "preferire qualcosa o qualcuno / preferire + infinito / preferire qualcosa a qualcos’altro / preferire che + congiuntivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "social",
+      "business",
+      "travel",
+      "shopping"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "複数の選択肢の中で一方をより好む",
+      "人や物をほかの人や物より気に入る",
+      "別の行為よりも、ある行為をしたいと思う",
+      "状況を考慮して、ある選択をより望ましいと判断する",
+      "人にある行為をしてもらうほうを望む",
+      "丁寧に希望・選択・辞退の意思を示す"
+    ],
+    "it": [
+      "Considerare una possibilità più piacevole o desiderabile di un’altra.",
+      "Apprezzare una persona o una cosa più di un’altra.",
+      "Voler compiere un’azione invece di un’altra.",
+      "Ritenere una scelta più opportuna o conveniente in una determinata situazione.",
+      "Desiderare che qualcuno compia una determinata azione.",
+      "Esprimere cortesemente una scelta, una preferenza o un rifiuto."
+    ]
+  },
+
+  "nuance": {
+    "ja": "二つ以上の選択肢を比較し、そのうち一方をより望ましいと考えることを表す。比較対象はaで導き、preferisco il tè al caffèのように言う。行為を選ぶ場合はpreferire + 不定詞を使う。主語が異なる行為を望む場合はpreferire che + 接続法を用いる。現在形の一部では語幹に-isc-が加わり、preferisco、preferisci、preferisce、preferisconoとなる。",
+    "it": "Indica una scelta favorevole tra due o più possibilità. Il secondo termine del confronto è normalmente introdotto da a: preferisco il tè al caffè. Se la preferenza riguarda un’azione del soggetto si usa l’infinito; se riguarda l’azione di un altro soggetto si usa preferire che con il congiuntivo. Al presente inserisce -isc- in alcune persone."
+  },
+
+  "etymology": {
+    "ja": "ラテン語praeferre（前に置く、ほかより重んじる）に由来し、prae-（前に）とferre（運ぶ、持つ）から成る。あるものを別のものより「前に置く」という具体的な発想から、「より好む」という意味が生じた。同じ語族にはpreferenza、preferibile、preferitoなどがある。",
+    "it": "Dal latino praeferre, formato da prae-, «davanti», e ferre, «portare». Il significato originario era «porre davanti a qualcos’altro», da cui si è sviluppato quello di considerare una scelta migliore o più desiderabile. Alla stessa famiglia appartengono preferenza, preferibile e preferito."
+  },
+
+  "minimal": [
+    {
+      "word": "preferire",
+      "ja": "複数の選択肢を比較し、一方をほかより望ましいと考える",
+      "it": "considerare una persona, una cosa o un’azione più desiderabile di un’altra"
+    },
+    {
+      "word": "piacere",
+      "ja": "人に好ましい感情や満足感を与え、気に入られる",
+      "it": "produrre in qualcuno una sensazione di gradimento o soddisfazione"
+    },
+    {
+      "word": "scegliere",
+      "ja": "複数の選択肢から、実際に一つ以上を選び取る",
+      "it": "selezionare concretamente una possibilità tra diverse alternative"
+    },
+    {
+      "word": "volere",
+      "ja": "物・行為・結果などを直接的に欲する、望む",
+      "it": "desiderare direttamente una cosa, un’azione o un risultato"
+    }
+  ],
+
+  "synonyms": [
+    "prediligere",
+    "privilegiare",
+    "gradire",
+    "scegliere",
+    "volere piuttosto"
+  ],
+
+  "equivalents": {
+    "en": [
+      "prefer",
+      "favor",
+      "would rather"
+    ],
+    "de": [
+      "bevorzugen",
+      "lieber mögen",
+      "vorziehen"
+    ],
+    "fr": [
+      "préférer",
+      "privilégier",
+      "aimer mieux"
+    ],
+    "es": [
+      "preferir",
+      "inclinarse por",
+      "elegir antes"
+    ]
+  },
+
+  "collocations": [
+    "preferire qualcosa",
+    "preferire qualcuno",
+    "preferire una soluzione",
+    "preferire un metodo",
+    "preferire il tè al caffè",
+    "preferire la città alla campagna",
+    "preferire il treno all’aereo",
+    "preferire una cosa a un’altra",
+    "preferire fare qualcosa",
+    "preferire restare a casa",
+    "preferire andare a piedi",
+    "preferire non parlare",
+    "preferire aspettare",
+    "preferire evitare",
+    "preferire che qualcuno faccia qualcosa",
+    "preferire che tutto rimanga così",
+    "preferire di gran lunga",
+    "preferire nettamente",
+    "preferire generalmente",
+    "preferire personalmente",
+    "se preferisci",
+    "come preferisci",
+    "preferirei di no",
+    "preferirei non rispondere",
+    "avrei preferito",
+    "essere preferito a",
+    "senza preferire l’uno all’altro"
+  ],
+
+  "examples": [
+    {
+      "it": "Preferisco il tè al caffè.",
+      "ja": "私はコーヒーより紅茶のほうが好きです。"
+    },
+    {
+      "it": "Preferisci andare in treno o in macchina?",
+      "ja": "列車で行くのと車で行くのでは、どちらがよいですか。"
+    },
+    {
+      "it": "Stasera preferisco restare a casa.",
+      "ja": "今晩は家にいたいです。"
+    },
+    {
+      "it": "Preferirei non parlare di questo argomento.",
+      "ja": "この話題については話さないでおきたいです。"
+    },
+    {
+      "it": "Preferisco che tu mi dica la verità.",
+      "ja": "あなたには本当のことを言ってほしい。"
+    },
+    {
+      "it": "Avremmo preferito una soluzione più semplice.",
+      "ja": "私たちはもっと簡単な解決策のほうがよかった。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "preferisco",
+        "preferisci",
+        "preferisce",
+        "preferiamo",
+        "preferite",
+        "preferiscono"
+      ],
+
+      "Imperfetto": [
+        "preferivo",
+        "preferivi",
+        "preferiva",
+        "preferivamo",
+        "preferivate",
+        "preferivano"
+      ],
+
+      "Passato prossimo": [
+        "ho preferito",
+        "hai preferito",
+        "ha preferito",
+        "abbiamo preferito",
+        "avete preferito",
+        "hanno preferito"
+      ],
+
+      "Passato remoto": [
+        "preferii",
+        "preferisti",
+        "preferì",
+        "preferimmo",
+        "preferiste",
+        "preferirono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo preferito",
+        "avevi preferito",
+        "aveva preferito",
+        "avevamo preferito",
+        "avevate preferito",
+        "avevano preferito"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi preferito",
+        "avesti preferito",
+        "ebbe preferito",
+        "avemmo preferito",
+        "aveste preferito",
+        "ebbero preferito"
+      ],
+
+      "Futuro semplice": [
+        "preferirò",
+        "preferirai",
+        "preferirà",
+        "preferiremo",
+        "preferirete",
+        "preferiranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò preferito",
+        "avrai preferito",
+        "avrà preferito",
+        "avremo preferito",
+        "avrete preferito",
+        "avranno preferito"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "preferisca",
+        "preferisca",
+        "preferisca",
+        "preferiamo",
+        "preferiate",
+        "preferiscano"
+      ],
+
+      "Imperfetto": [
+        "preferissi",
+        "preferissi",
+        "preferisse",
+        "preferissimo",
+        "preferiste",
+        "preferissero"
+      ],
+
+      "Passato": [
+        "abbia preferito",
+        "abbia preferito",
+        "abbia preferito",
+        "abbiamo preferito",
+        "abbiate preferito",
+        "abbiano preferito"
+      ],
+
+      "Trapassato": [
+        "avessi preferito",
+        "avessi preferito",
+        "avesse preferito",
+        "avessimo preferito",
+        "aveste preferito",
+        "avessero preferito"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "preferirei",
+        "preferiresti",
+        "preferirebbe",
+        "preferiremmo",
+        "preferireste",
+        "preferirebbero"
+      ],
+
+      "Passato": [
+        "avrei preferito",
+        "avresti preferito",
+        "avrebbe preferito",
+        "avremmo preferito",
+        "avreste preferito",
+        "avrebbero preferito"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "preferisci",
+        "preferisca",
+        "preferiamo",
+        "preferite",
+        "preferiscano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "preferire",
+        "avere preferito",
+        "preferente",
+        "preferito",
+        "preferendo",
+        "avendo preferito"
+      ]
+    }
+  }
 }
 ]
