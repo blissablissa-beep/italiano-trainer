@@ -17756,6 +17756,1378 @@
       ]
     }
   }
+},
+{
+  "id": "leggere",
+  "sid": "2026-00176",
+  "word": "leggere",
+  "ipa": "/ˈlɛddʒere/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "letto",
+    "gerundPresent": "leggendo",
+    "pattern": "leggere qualcosa / leggere qualcosa a qualcuno / leggere di + argomento / leggere che + frase"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "education",
+      "academic",
+      "business",
+      "media"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "文字・文章・本などを読む",
+      "書かれた内容を読み取って理解する",
+      "人に文章などを読み聞かせる",
+      "声に出して読む、朗読する",
+      "数字・記号・計器などの表示を読み取る",
+      "表情・態度・状況などから意味や感情を読み取る",
+      "文書・発言などを特定の意味に解釈する"
+    ],
+    "it": [
+      "Riconoscere e comprendere lettere, parole e testi scritti.",
+      "Acquisire le informazioni contenute in un libro, un documento o un messaggio.",
+      "Pronunciare un testo ad alta voce per un’altra persona.",
+      "Recitare o esporre oralmente un testo scritto.",
+      "Interpretare numeri, simboli, strumenti o valori indicati.",
+      "Comprendere sentimenti, intenzioni o situazioni attraverso segni e comportamenti.",
+      "Interpretare un documento, una dichiarazione o un fatto in un determinato modo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "文字を音に変えるだけでなく、文章の意味を理解するところまで広く表す基本動詞である。目的物は通常、前置詞なしで直接目的語にし、leggere un libro、leggere il giornaleのように用いる。人に読み聞かせる場合は、内容を直接目的語、聞き手をaで示してleggere una storia ai bambiniと言う。比喩的には表情・行間・状況・データなどから、直接書かれていない意味を読み取る場合にも使われる。過去分詞は不規則形letto、遠過去はlessi、lesse、lesseroとなる。",
+    "it": "È il verbo fondamentale della lettura e comprende sia il riconoscimento dei segni scritti sia la comprensione del loro significato. Il testo letto è normalmente un oggetto diretto: leggere un libro, leggere il giornale. Quando si legge per un’altra persona, il contenuto rimane l’oggetto diretto e il destinatario è introdotto da a: leggere una storia ai bambini. In senso figurato può indicare l’interpretazione di espressioni, dati, situazioni o significati non espliciti. Il participio passato è l’irregolare letto."
+  },
+
+  "etymology": {
+    "ja": "ラテン語legĕre（集める、選ぶ、読み取る）に由来する。もともとは、ばらばらの物を「集める・選び取る」ことを表し、そこから文字を一つずつ拾い集めて意味を理解するという「読む」の意味が発達した。同じ語族にはlettura、lettore、lezione、leggereの過去分詞letto、さらにeleggere、scegliere、raccogliereなどがある。",
+    "it": "Dal latino legĕre, che significava originariamente «raccogliere, scegliere» e successivamente anche «leggere». Il senso moderno può essere ricondotto all’idea di raccogliere e collegare i segni scritti per ricavarne un significato. Alla stessa famiglia appartengono lettura, lettore, lezione, eleggere e raccogliere."
+  },
+
+  "minimal": [
+    {
+      "word": "leggere",
+      "ja": "文字・文章・記号などを読み取り、その内容を理解する",
+      "it": "riconoscere e comprendere parole, testi, simboli o altri segni"
+    },
+    {
+      "word": "studiare",
+      "ja": "知識の習得や分析のために、対象へ継続的・体系的に取り組む",
+      "it": "applicarsi sistematicamente all’apprendimento o all’analisi di qualcosa"
+    },
+    {
+      "word": "sfogliare",
+      "ja": "本・雑誌などのページをめくりながら、ざっと見る",
+      "it": "voltare le pagine di un libro o di una rivista, spesso osservandone rapidamente il contenuto"
+    },
+    {
+      "word": "consultare",
+      "ja": "必要な情報を得るために、辞書・資料・文書などを調べる",
+      "it": "esaminare una fonte o un documento per ricavarne informazioni specifiche"
+    }
+  ],
+
+  "synonyms": [
+    "consultare",
+    "esaminare",
+    "decifrare",
+    "interpretare",
+    "scorrere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "read",
+      "read aloud",
+      "interpret"
+    ],
+    "de": [
+      "lesen",
+      "vorlesen",
+      "ablesen"
+    ],
+    "fr": [
+      "lire",
+      "lire à voix haute",
+      "interpréter"
+    ],
+    "es": [
+      "leer",
+      "leer en voz alta",
+      "interpretar"
+    ]
+  },
+
+  "collocations": [
+    "leggere un libro",
+    "leggere un romanzo",
+    "leggere un racconto",
+    "leggere una poesia",
+    "leggere il giornale",
+    "leggere una rivista",
+    "leggere un articolo",
+    "leggere un documento",
+    "leggere un contratto",
+    "leggere una lettera",
+    "leggere un messaggio",
+    "leggere un’e-mail",
+    "leggere le istruzioni",
+    "leggere un cartello",
+    "leggere una parola",
+    "leggere una frase",
+    "leggere ad alta voce",
+    "leggere a bassa voce",
+    "leggere in silenzio",
+    "leggere attentamente",
+    "leggere rapidamente",
+    "leggere lentamente",
+    "leggere tutto d’un fiato",
+    "leggere qualcosa a qualcuno",
+    "leggere una storia ai bambini",
+    "imparare a leggere",
+    "saper leggere",
+    "cominciare a leggere",
+    "continuare a leggere",
+    "finire di leggere",
+    "avere voglia di leggere",
+    "leggere tra le righe",
+    "leggere negli occhi",
+    "leggere nel pensiero",
+    "leggere un contatore",
+    "leggere i dati",
+    "leggere una mappa",
+    "leggere che qualcosa è accaduto"
+  ],
+
+  "examples": [
+    {
+      "it": "Leggo il giornale ogni mattina.",
+      "ja": "私は毎朝新聞を読む。"
+    },
+    {
+      "it": "Ho letto questo libro durante il viaggio.",
+      "ja": "私は旅行中にこの本を読んだ。"
+    },
+    {
+      "it": "Prima di firmare, legga attentamente il contratto.",
+      "ja": "署名する前に、契約書を注意深く読んでください。"
+    },
+    {
+      "it": "La madre ha letto una storia ai bambini.",
+      "ja": "母親は子どもたちに物語を読み聞かせた。"
+    },
+    {
+      "it": "Non riesco a leggere quello che hai scritto.",
+      "ja": "あなたが書いたものを読み取ることができない。"
+    },
+    {
+      "it": "Ho letto sul giornale che la mostra aprirà domani.",
+      "ja": "その展覧会が明日開幕すると新聞で読んだ。"
+    },
+    {
+      "it": "Dal suo volto si poteva leggere la preoccupazione.",
+      "ja": "彼の表情から不安を読み取ることができた。"
+    },
+    {
+      "it": "Bisogna leggere tra le righe per capire il vero significato.",
+      "ja": "本当の意味を理解するには、行間を読む必要がある。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "leggo",
+        "leggi",
+        "legge",
+        "leggiamo",
+        "leggete",
+        "leggono"
+      ],
+
+      "Imperfetto": [
+        "leggevo",
+        "leggevi",
+        "leggeva",
+        "leggevamo",
+        "leggevate",
+        "leggevano"
+      ],
+
+      "Passato prossimo": [
+        "ho letto",
+        "hai letto",
+        "ha letto",
+        "abbiamo letto",
+        "avete letto",
+        "hanno letto"
+      ],
+
+      "Passato remoto": [
+        "lessi",
+        "leggesti",
+        "lesse",
+        "leggemmo",
+        "leggeste",
+        "lessero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo letto",
+        "avevi letto",
+        "aveva letto",
+        "avevamo letto",
+        "avevate letto",
+        "avevano letto"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi letto",
+        "avesti letto",
+        "ebbe letto",
+        "avemmo letto",
+        "aveste letto",
+        "ebbero letto"
+      ],
+
+      "Futuro semplice": [
+        "leggerò",
+        "leggerai",
+        "leggerà",
+        "leggeremo",
+        "leggerete",
+        "leggeranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò letto",
+        "avrai letto",
+        "avrà letto",
+        "avremo letto",
+        "avrete letto",
+        "avranno letto"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "legga",
+        "legga",
+        "legga",
+        "leggiamo",
+        "leggiate",
+        "leggano"
+      ],
+
+      "Imperfetto": [
+        "leggessi",
+        "leggessi",
+        "leggesse",
+        "leggessimo",
+        "leggeste",
+        "leggessero"
+      ],
+
+      "Passato": [
+        "abbia letto",
+        "abbia letto",
+        "abbia letto",
+        "abbiamo letto",
+        "abbiate letto",
+        "abbiano letto"
+      ],
+
+      "Trapassato": [
+        "avessi letto",
+        "avessi letto",
+        "avesse letto",
+        "avessimo letto",
+        "aveste letto",
+        "avessero letto"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "leggerei",
+        "leggeresti",
+        "leggerebbe",
+        "leggeremmo",
+        "leggereste",
+        "leggerebbero"
+      ],
+
+      "Passato": [
+        "avrei letto",
+        "avresti letto",
+        "avrebbe letto",
+        "avremmo letto",
+        "avreste letto",
+        "avrebbero letto"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "leggi",
+        "legga",
+        "leggiamo",
+        "leggete",
+        "leggano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "leggere",
+        "avere letto",
+        "leggente",
+        "letto",
+        "leggendo",
+        "avendo letto"
+      ]
+    }
+  }
+},
+{
+  "id": "ascoltare",
+  "sid": "2026-00177",
+  "word": "ascoltare",
+  "ipa": "/askolˈtare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞的用法を持つ動詞",
+      "it": "verbo transitivo con alcuni usi intransitivi"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "ascoltato",
+    "gerundPresent": "ascoltando",
+    "pattern": "ascoltare qualcuno o qualcosa / ascoltare con + attenzione / ascoltare per + scopo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "education",
+      "business",
+      "music",
+      "media"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "音・声・音楽などに注意を向けて聞く",
+      "人の話を聞く、耳を傾ける",
+      "説明・助言・意見などを注意して聞く",
+      "ラジオ・音声番組・録音などを聴く",
+      "人の助言や要求に従う、言うことを聞く",
+      "自分の感情・身体・直感などに注意を払う"
+    ],
+    "it": [
+      "Prestare attenzione a un suono, a una voce o alla musica.",
+      "Seguire con attenzione ciò che una persona dice.",
+      "Considerare una spiegazione, un consiglio o un’opinione.",
+      "Sentire intenzionalmente una trasmissione radiofonica, una registrazione o un contenuto audio.",
+      "Dare retta a una persona, a un consiglio o a una richiesta.",
+      "Prestare attenzione ai propri sentimenti, al proprio corpo o alla propria intuizione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "単に音が耳に入ることではなく、意識的に注意を向けて聞くことを表す。sentireが自然に音を知覚する「聞こえる」や、感覚・感情を「感じる」ことまで広く表すのに対し、ascoltareは聞こうとする意志や集中を含む。英語のlisten toと異なり、通常は前置詞を置かず、ascoltare la musica、ascoltare qualcunoのように直接目的語を取る。人についてnon mi ascoltaと言えば、「私の話を聞かない」だけでなく「私の言うことに従わない」という意味にもなりうる。",
+    "it": "Indica un atto intenzionale di attenzione verso suoni, parole o musica. Sentire può indicare la semplice percezione involontaria di un suono e ha inoltre molti significati legati alle sensazioni e ai sentimenti; ascoltare implica invece volontà e concentrazione. Regge normalmente un oggetto diretto, senza preposizione: ascoltare la musica, ascoltare qualcuno. Con una persona può anche significare darle retta o seguirne il consiglio."
+  },
+
+  "etymology": {
+    "ja": "ラテン語auscultāre（注意して聞く、耳を傾ける）に由来する。医学用語auscultazione（聴診）も同じ語に由来し、英語auscultationとも同語源である。俗ラテン語および初期イタリア語での音韻変化を経て、現在のascoltareという形になった。",
+    "it": "Dal latino auscultāre, «ascoltare attentamente, prestare orecchio». Attraverso l’evoluzione fonetica del latino parlato si è sviluppata la forma italiana ascoltare. Alla stessa origine risalgono auscultazione e auscultare, usati soprattutto in ambito medico."
+  },
+
+  "minimal": [
+    {
+      "word": "ascoltare",
+      "ja": "音・声・話などへ意識的に注意を向けて聞く",
+      "it": "prestare intenzionalmente attenzione a suoni, parole o musica"
+    },
+    {
+      "word": "sentire",
+      "ja": "音が自然に聞こえる、または身体・感情などを感じる",
+      "it": "percepire un suono, una sensazione fisica o un sentimento"
+    },
+    {
+      "word": "udire",
+      "ja": "音や声を耳で知覚することを表す、やや改まった語",
+      "it": "percepire un suono con l’udito, con tono spesso più formale o letterario"
+    },
+    {
+      "word": "dare retta",
+      "ja": "人の話・忠告を聞き入れ、その内容に従う",
+      "it": "tenere conto delle parole o dei consigli di qualcuno e seguirli"
+    }
+  ],
+
+  "synonyms": [
+    "sentire attentamente",
+    "prestare orecchio",
+    "seguire",
+    "dare retta",
+    "udire"
+  ],
+
+  "equivalents": {
+    "en": [
+      "listen",
+      "listen to",
+      "heed"
+    ],
+    "de": [
+      "zuhören",
+      "anhören",
+      "auf jemanden hören"
+    ],
+    "fr": [
+      "écouter",
+      "prêter attention à"
+    ],
+    "es": [
+      "escuchar",
+      "prestar atención",
+      "hacer caso"
+    ]
+  },
+
+  "collocations": [
+    "ascoltare qualcuno",
+    "ascoltare un amico",
+    "ascoltare i genitori",
+    "ascoltare l’insegnante",
+    "ascoltare il medico",
+    "ascoltare una spiegazione",
+    "ascoltare un consiglio",
+    "ascoltare un’opinione",
+    "ascoltare una storia",
+    "ascoltare una conferenza",
+    "ascoltare una lezione",
+    "ascoltare la musica",
+    "ascoltare una canzone",
+    "ascoltare un concerto",
+    "ascoltare la radio",
+    "ascoltare un podcast",
+    "ascoltare una registrazione",
+    "ascoltare un audiolibro",
+    "ascoltare le notizie",
+    "ascoltare attentamente",
+    "ascoltare con attenzione",
+    "ascoltare in silenzio",
+    "ascoltare distrattamente",
+    "ascoltare fino alla fine",
+    "fermarsi ad ascoltare",
+    "mettersi ad ascoltare",
+    "continuare ad ascoltare",
+    "stare ad ascoltare",
+    "non voler ascoltare",
+    "farsi ascoltare",
+    "ascoltare il proprio corpo",
+    "ascoltare il proprio cuore",
+    "ascoltare la propria coscienza",
+    "ascoltare la voce della ragione"
+  ],
+
+  "examples": [
+    {
+      "it": "Ascolto la musica mentre lavoro.",
+      "ja": "私は仕事をしながら音楽を聴く。"
+    },
+    {
+      "it": "Per favore, ascoltami attentamente.",
+      "ja": "どうか私の話を注意して聞いてください。"
+    },
+    {
+      "it": "Abbiamo ascoltato un interessante programma alla radio.",
+      "ja": "私たちはラジオで興味深い番組を聴いた。"
+    },
+    {
+      "it": "Gli studenti ascoltavano la spiegazione dell’insegnante.",
+      "ja": "学生たちは教師の説明を聞いていた。"
+    },
+    {
+      "it": "Avresti dovuto ascoltare il consiglio del medico.",
+      "ja": "医師の助言に従うべきだった。"
+    },
+    {
+      "it": "Non mi ascolta mai quando cerco di spiegargli qualcosa.",
+      "ja": "私が何かを説明しようとしても、彼は決して私の話を聞かない。"
+    },
+    {
+      "it": "Bisogna imparare ad ascoltare il proprio corpo.",
+      "ja": "自分の身体が発するサインに耳を傾けることを学ばなければならない。"
+    },
+    {
+      "it": "Stava ascoltando un podcast in italiano.",
+      "ja": "彼女はイタリア語のポッドキャストを聴いているところだった。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "ascolto",
+        "ascolti",
+        "ascolta",
+        "ascoltiamo",
+        "ascoltate",
+        "ascoltano"
+      ],
+
+      "Imperfetto": [
+        "ascoltavo",
+        "ascoltavi",
+        "ascoltava",
+        "ascoltavamo",
+        "ascoltavate",
+        "ascoltavano"
+      ],
+
+      "Passato prossimo": [
+        "ho ascoltato",
+        "hai ascoltato",
+        "ha ascoltato",
+        "abbiamo ascoltato",
+        "avete ascoltato",
+        "hanno ascoltato"
+      ],
+
+      "Passato remoto": [
+        "ascoltai",
+        "ascoltasti",
+        "ascoltò",
+        "ascoltammo",
+        "ascoltaste",
+        "ascoltarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo ascoltato",
+        "avevi ascoltato",
+        "aveva ascoltato",
+        "avevamo ascoltato",
+        "avevate ascoltato",
+        "avevano ascoltato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi ascoltato",
+        "avesti ascoltato",
+        "ebbe ascoltato",
+        "avemmo ascoltato",
+        "aveste ascoltato",
+        "ebbero ascoltato"
+      ],
+
+      "Futuro semplice": [
+        "ascolterò",
+        "ascolterai",
+        "ascolterà",
+        "ascolteremo",
+        "ascolterete",
+        "ascolteranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò ascoltato",
+        "avrai ascoltato",
+        "avrà ascoltato",
+        "avremo ascoltato",
+        "avrete ascoltato",
+        "avranno ascoltato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "ascolti",
+        "ascolti",
+        "ascolti",
+        "ascoltiamo",
+        "ascoltiate",
+        "ascoltino"
+      ],
+
+      "Imperfetto": [
+        "ascoltassi",
+        "ascoltassi",
+        "ascoltasse",
+        "ascoltassimo",
+        "ascoltaste",
+        "ascoltassero"
+      ],
+
+      "Passato": [
+        "abbia ascoltato",
+        "abbia ascoltato",
+        "abbia ascoltato",
+        "abbiamo ascoltato",
+        "abbiate ascoltato",
+        "abbiano ascoltato"
+      ],
+
+      "Trapassato": [
+        "avessi ascoltato",
+        "avessi ascoltato",
+        "avesse ascoltato",
+        "avessimo ascoltato",
+        "aveste ascoltato",
+        "avessero ascoltato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "ascolterei",
+        "ascolteresti",
+        "ascolterebbe",
+        "ascolteremmo",
+        "ascoltereste",
+        "ascolterebbero"
+      ],
+
+      "Passato": [
+        "avrei ascoltato",
+        "avresti ascoltato",
+        "avrebbe ascoltato",
+        "avremmo ascoltato",
+        "avreste ascoltato",
+        "avrebbero ascoltato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "ascolta",
+        "ascolti",
+        "ascoltiamo",
+        "ascoltate",
+        "ascoltino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "ascoltare",
+        "avere ascoltato",
+        "ascoltante",
+        "ascoltato",
+        "ascoltando",
+        "avendo ascoltato"
+      ]
+    }
+  }
+},
+{
+  "id": "capire",
+  "sid": "2026-00178",
+  "word": "capire",
+  "ipa": "/kaˈpire/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "capito",
+    "gerundPresent": "capendo",
+    "pattern": "capire qualcosa o qualcuno / capire che + frase / capire come, perché, dove o che cosa + frase"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "education",
+      "business",
+      "social",
+      "travel"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "言葉・説明・意味などを理解する",
+      "人の考え・感情・立場を理解する",
+      "状況・原因・仕組みなどを把握する",
+      "考えた末に事実や答えに気づく",
+      "聞き取る、相手の言っていることが分かる",
+      "ある分野や物事について知識・判断力を持つ"
+    ],
+    "it": [
+      "Comprendere il significato di parole, spiegazioni, messaggi o concetti.",
+      "Comprendere i pensieri, i sentimenti o la situazione di una persona.",
+      "Riconoscere il funzionamento, la causa o la natura di qualcosa.",
+      "Rendersi conto di un fatto o arrivare a una conclusione.",
+      "Riuscire a distinguere e interpretare ciò che qualcuno dice.",
+      "Avere conoscenza, esperienza o capacità di giudizio in un determinato campo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "日常会話で「分かる」「理解する」を表す最も基本的な動詞の一つである。言葉や説明などを知的に理解する場合だけでなく、人の感情や事情に共感して理解する場合にも使える。sapereが知識や情報を持っている状態を表すのに対し、capireは意味・理由・仕組みなどを把握する過程や結果に焦点を置く。現在形の一部では語幹に-isc-が加わり、capisco、capisci、capisce、capisconoとなる。",
+    "it": "È uno dei verbi fondamentali per esprimere la comprensione. Può riguardare parole, concetti e situazioni, ma anche i sentimenti e le intenzioni di una persona. Sapere indica soprattutto il possesso di un’informazione o di una conoscenza; capire mette in rilievo il processo o il risultato della comprensione. Al presente appartiene al gruppo dei verbi in -ire che inseriscono -isc- in alcune persone: capisco, capisci, capisce e capiscono."
+  },
+
+  "etymology": {
+    "ja": "ラテン語capĕre（取る、つかむ、受け入れる）に由来する。物を手で「つかむ」という具体的な意味から、考えや意味を頭で「つかむ」、すなわち理解するという意味が発達した。同じ語族にはcapace、capacità、concepire、ricevereなどがある。",
+    "it": "Dal latino capĕre, «prendere, accogliere, contenere». Dall’idea concreta di afferrare qualcosa si è sviluppato il significato figurato di afferrarne il senso. Alla stessa famiglia etimologica appartengono capace, capacità, concepire e ricevere."
+  },
+
+  "minimal": [
+    {
+      "word": "capire",
+      "ja": "言葉・意味・理由・状況などを考えて理解する",
+      "it": "comprendere il significato, la ragione o il funzionamento di qualcosa"
+    },
+    {
+      "word": "sapere",
+      "ja": "情報・事実・方法を知っている、または能力を身につけている",
+      "it": "possedere un’informazione, una conoscenza o la capacità di fare qualcosa"
+    },
+    {
+      "word": "comprendere",
+      "ja": "内容や関係を十分に理解する、capireよりやや改まった表現",
+      "it": "cogliere pienamente il significato di qualcosa, spesso con tono più formale"
+    },
+    {
+      "word": "accorgersi",
+      "ja": "感覚や状況の変化を通して、ある事実に気づく",
+      "it": "rendersi conto di un fatto attraverso l’osservazione o un cambiamento percepito"
+    }
+  ],
+
+  "synonyms": [
+    "comprendere",
+    "intendere",
+    "afferrare",
+    "rendersi conto",
+    "cogliere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "understand",
+      "figure out",
+      "realize"
+    ],
+    "de": [
+      "verstehen",
+      "begreifen",
+      "erkennen"
+    ],
+    "fr": [
+      "comprendre",
+      "saisir",
+      "se rendre compte"
+    ],
+    "es": [
+      "entender",
+      "comprender",
+      "darse cuenta"
+    ]
+  },
+
+  "collocations": [
+    "capire bene",
+    "capire male",
+    "capire tutto",
+    "non capire niente",
+    "capire subito",
+    "capire finalmente",
+    "capire facilmente",
+    "capire perfettamente",
+    "capire una parola",
+    "capire una frase",
+    "capire una domanda",
+    "capire una spiegazione",
+    "capire il significato",
+    "capire il problema",
+    "capire la situazione",
+    "capire il motivo",
+    "capire la differenza",
+    "capire una persona",
+    "capire qualcuno al volo",
+    "capire che cosa fare",
+    "capire come funziona",
+    "capire perché",
+    "cercare di capire",
+    "riuscire a capire",
+    "far capire qualcosa a qualcuno",
+    "lasciar capire",
+    "dare a capire",
+    "non farsi capire",
+    "non c’è niente da capire"
+  ],
+
+  "examples": [
+    {
+      "it": "Non capisco questa parola.",
+      "ja": "私はこの単語の意味が分かりません。"
+    },
+    {
+      "it": "Hai capito quello che ho detto?",
+      "ja": "私が言ったことを理解しましたか。"
+    },
+    {
+      "it": "Finalmente ho capito come funziona il programma.",
+      "ja": "私はようやくそのプログラムの仕組みを理解した。"
+    },
+    {
+      "it": "Capisco perfettamente la tua situazione.",
+      "ja": "あなたの状況はよく分かります。"
+    },
+    {
+      "it": "Non riesco a capire perché sia così arrabbiato.",
+      "ja": "彼がなぜそれほど怒っているのか理解できない。"
+    },
+    {
+      "it": "Puoi parlare più lentamente? Non ti capisco bene.",
+      "ja": "もう少しゆっくり話してもらえますか。よく聞き取れません。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "capisco",
+        "capisci",
+        "capisce",
+        "capiamo",
+        "capite",
+        "capiscono"
+      ],
+
+      "Imperfetto": [
+        "capivo",
+        "capivi",
+        "capiva",
+        "capivamo",
+        "capivate",
+        "capivano"
+      ],
+
+      "Passato prossimo": [
+        "ho capito",
+        "hai capito",
+        "ha capito",
+        "abbiamo capito",
+        "avete capito",
+        "hanno capito"
+      ],
+
+      "Passato remoto": [
+        "capii",
+        "capisti",
+        "capì",
+        "capimmo",
+        "capiste",
+        "capirono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo capito",
+        "avevi capito",
+        "aveva capito",
+        "avevamo capito",
+        "avevate capito",
+        "avevano capito"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi capito",
+        "avesti capito",
+        "ebbe capito",
+        "avemmo capito",
+        "aveste capito",
+        "ebbero capito"
+      ],
+
+      "Futuro semplice": [
+        "capirò",
+        "capirai",
+        "capirà",
+        "capiremo",
+        "capirete",
+        "capiranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò capito",
+        "avrai capito",
+        "avrà capito",
+        "avremo capito",
+        "avrete capito",
+        "avranno capito"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "capisca",
+        "capisca",
+        "capisca",
+        "capiamo",
+        "capiate",
+        "capiscano"
+      ],
+
+      "Imperfetto": [
+        "capissi",
+        "capissi",
+        "capisse",
+        "capissimo",
+        "capiste",
+        "capissero"
+      ],
+
+      "Passato": [
+        "abbia capito",
+        "abbia capito",
+        "abbia capito",
+        "abbiamo capito",
+        "abbiate capito",
+        "abbiano capito"
+      ],
+
+      "Trapassato": [
+        "avessi capito",
+        "avessi capito",
+        "avesse capito",
+        "avessimo capito",
+        "aveste capito",
+        "avessero capito"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "capirei",
+        "capiresti",
+        "capirebbe",
+        "capiremmo",
+        "capireste",
+        "capirebbero"
+      ],
+
+      "Passato": [
+        "avrei capito",
+        "avresti capito",
+        "avrebbe capito",
+        "avremmo capito",
+        "avreste capito",
+        "avrebbero capito"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "capisci",
+        "capisca",
+        "capiamo",
+        "capite",
+        "capiscano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "capire",
+        "avere capito",
+        "capente",
+        "capito",
+        "capendo",
+        "avendo capito"
+      ]
+    }
+  }
+},
+{
+  "id": "arrivare",
+  "sid": "2026-00179",
+  "word": "arrivare",
+  "ipa": "/arriˈvare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞",
+      "it": "verbo intransitivo"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "arrivato",
+    "gerundPresent": "arrivando",
+    "pattern": "arrivare a/in + luogo / arrivare da + persona o provenienza / arrivare a + infinito, risultato o quantità"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "business",
+      "social",
+      "transport"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "目的地・場所に到着する、着く",
+      "人・物・手紙・荷物などが届く",
+      "ある時刻・段階・年齢・数量などに達する",
+      "努力や過程を経て結果・結論に至る",
+      "順番・機会・時期などが巡ってくる",
+      "ある場所や範囲まで届く、及ぶ"
+    ],
+    "it": [
+      "Giungere nel luogo verso cui ci si è diretti.",
+      "Giungere a destinazione, con riferimento a persone, oggetti, lettere, merci o messaggi.",
+      "Raggiungere un’ora, una fase, un’età, una quantità o un determinato livello.",
+      "Raggiungere un risultato o una conclusione dopo un percorso o un ragionamento.",
+      "Presentarsi o verificarsi, con riferimento a un momento, un’occasione o un turno.",
+      "Estendersi o giungere fino a un determinato punto o limite."
+    ]
+  },
+
+  "nuance": {
+    "ja": "移動や過程の終点に到達することを表す基本動詞である。都市・小さな場所には通常aを使い、arrivare a Roma、国・地域にはinを使ってarrivare in Italiaと言う。人のいる場所にはdaを使い、arrivare da Marcoのように表せる。raggiungereと異なり通常は目的語を直接取らず、前置詞を伴う。複合時制ではessereを用い、過去分詞は主語の性・数に一致する。",
+    "it": "È il verbo fondamentale per indicare il raggiungimento del punto finale di uno spostamento o di un processo. Si usa normalmente a con città e luoghi puntuali, in con paesi e regioni, e da con persone o luoghi identificati attraverso una persona. A differenza di raggiungere, non regge normalmente un oggetto diretto. Nei tempi composti usa essere e il participio concorda con il soggetto."
+  },
+
+  "etymology": {
+    "ja": "俗ラテン語arripāre（岸に着く）に由来し、接頭辞ad-（～へ）とripa（岸、川岸）から形成された。もともとは船が岸へ到達することを表したが、後に移動手段や目的地を問わず「到着する」という一般的な意味へ広がった。",
+    "it": "Dal latino medievale o volgare arripāre, formato da ad- e ripa, «riva». Indicava originariamente l’approdo di un’imbarcazione alla riva; in seguito il significato si è esteso a qualsiasi forma di raggiungimento di una destinazione."
+  },
+
+  "minimal": [
+    {
+      "word": "arrivare",
+      "ja": "移動や過程の終点となる場所・時点・結果に到達する",
+      "it": "giungere al punto finale di uno spostamento o di un processo"
+    },
+    {
+      "word": "raggiungere",
+      "ja": "人・場所・目標などに追いつく、またはそこまで到達する",
+      "it": "giungere fino a una persona, un luogo o un obiettivo, reggendo direttamente l’oggetto"
+    },
+    {
+      "word": "venire",
+      "ja": "話し手や基準となる場所の方向へ移動して来る",
+      "it": "muoversi verso il parlante o verso un luogo assunto come punto di riferimento"
+    },
+    {
+      "word": "partire",
+      "ja": "ある場所を離れ、別の目的地へ向けて出発する",
+      "it": "lasciare un luogo per iniziare uno spostamento verso una destinazione"
+    }
+  ],
+
+  "synonyms": [
+    "giungere",
+    "raggiungere",
+    "pervenire",
+    "sopraggiungere",
+    "approdare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "arrive",
+      "reach",
+      "come"
+    ],
+    "de": [
+      "ankommen",
+      "eintreffen",
+      "gelangen"
+    ],
+    "fr": [
+      "arriver",
+      "parvenir",
+      "atteindre"
+    ],
+    "es": [
+      "llegar",
+      "alcanzar",
+      "arribar"
+    ]
+  },
+
+  "collocations": [
+    "arrivare presto",
+    "arrivare tardi",
+    "arrivare puntuale",
+    "arrivare in anticipo",
+    "arrivare in ritardo",
+    "arrivare a casa",
+    "arrivare a scuola",
+    "arrivare in ufficio",
+    "arrivare alla stazione",
+    "arrivare all’aeroporto",
+    "arrivare a Roma",
+    "arrivare in Italia",
+    "arrivare dall’estero",
+    "arrivare da qualcuno",
+    "arrivare a piedi",
+    "arrivare in macchina",
+    "arrivare in treno",
+    "arrivare a destinazione",
+    "arrivare fino a",
+    "arrivare a un accordo",
+    "arrivare a una conclusione",
+    "arrivare a capire",
+    "arrivare a decidere",
+    "arrivare al punto",
+    "arrivare al successo",
+    "arrivare a cento euro",
+    "arrivare primo",
+    "stare per arrivare",
+    "appena arrivato",
+    "essere appena arrivato"
+  ],
+
+  "examples": [
+    {
+      "it": "Siamo arrivati alla stazione alle otto.",
+      "ja": "私たちは8時に駅へ到着した。"
+    },
+    {
+      "it": "Quando arriverai a Roma?",
+      "ja": "あなたはいつローマに到着しますか。"
+    },
+    {
+      "it": "Il treno è arrivato con venti minuti di ritardo.",
+      "ja": "列車は20分遅れて到着した。"
+    },
+    {
+      "it": "Il pacco non è ancora arrivato.",
+      "ja": "荷物はまだ届いていない。"
+    },
+    {
+      "it": "Dopo una lunga discussione siamo arrivati a un accordo.",
+      "ja": "長い話し合いの末、私たちは合意に達した。"
+    },
+    {
+      "it": "Non riesco ad arrivare allo scaffale più alto.",
+      "ja": "一番上の棚まで手が届かない。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "arrivo",
+        "arrivi",
+        "arriva",
+        "arriviamo",
+        "arrivate",
+        "arrivano"
+      ],
+
+      "Imperfetto": [
+        "arrivavo",
+        "arrivavi",
+        "arrivava",
+        "arrivavamo",
+        "arrivavate",
+        "arrivavano"
+      ],
+
+      "Passato prossimo": [
+        "sono arrivato/a",
+        "sei arrivato/a",
+        "è arrivato/a",
+        "siamo arrivati/e",
+        "siete arrivati/e",
+        "sono arrivati/e"
+      ],
+
+      "Passato remoto": [
+        "arrivai",
+        "arrivasti",
+        "arrivò",
+        "arrivammo",
+        "arrivaste",
+        "arrivarono"
+      ],
+
+      "Trapassato prossimo": [
+        "ero arrivato/a",
+        "eri arrivato/a",
+        "era arrivato/a",
+        "eravamo arrivati/e",
+        "eravate arrivati/e",
+        "erano arrivati/e"
+      ],
+
+      "Trapassato remoto": [
+        "fui arrivato/a",
+        "fosti arrivato/a",
+        "fu arrivato/a",
+        "fummo arrivati/e",
+        "foste arrivati/e",
+        "furono arrivati/e"
+      ],
+
+      "Futuro semplice": [
+        "arriverò",
+        "arriverai",
+        "arriverà",
+        "arriveremo",
+        "arriverete",
+        "arriveranno"
+      ],
+
+      "Futuro anteriore": [
+        "sarò arrivato/a",
+        "sarai arrivato/a",
+        "sarà arrivato/a",
+        "saremo arrivati/e",
+        "sarete arrivati/e",
+        "saranno arrivati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "arrivi",
+        "arrivi",
+        "arrivi",
+        "arriviamo",
+        "arriviate",
+        "arrivino"
+      ],
+
+      "Imperfetto": [
+        "arrivassi",
+        "arrivassi",
+        "arrivasse",
+        "arrivassimo",
+        "arrivaste",
+        "arrivassero"
+      ],
+
+      "Passato": [
+        "sia arrivato/a",
+        "sia arrivato/a",
+        "sia arrivato/a",
+        "siamo arrivati/e",
+        "siate arrivati/e",
+        "siano arrivati/e"
+      ],
+
+      "Trapassato": [
+        "fossi arrivato/a",
+        "fossi arrivato/a",
+        "fosse arrivato/a",
+        "fossimo arrivati/e",
+        "foste arrivati/e",
+        "fossero arrivati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "arriverei",
+        "arriveresti",
+        "arriverebbe",
+        "arriveremmo",
+        "arrivereste",
+        "arriverebbero"
+      ],
+
+      "Passato": [
+        "sarei arrivato/a",
+        "saresti arrivato/a",
+        "sarebbe arrivato/a",
+        "saremmo arrivati/e",
+        "sareste arrivati/e",
+        "sarebbero arrivati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "arriva",
+        "arrivi",
+        "arriviamo",
+        "arrivate",
+        "arrivino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "arrivare",
+        "essere arrivato/a/i/e",
+        "arrivante",
+        "arrivato",
+        "arrivando",
+        "essendo arrivato/a/i/e"
+      ]
+    }
+  }
 }
 ]
 
