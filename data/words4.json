@@ -1,2 +1,686 @@
 
-[]
+[
+  {
+    "id": "passare",
+    "sid": "2026-00181",
+    "word": "passare",
+    "ipa": "/pasˈsare/",
+    "level": "A1",
+    "frequency": "very_common",
+
+    "grammar": {
+      "pos": "verb",
+      "label": {
+        "ja": "自動詞・他動詞",
+        "it": "verbo intransitivo e transitivo"
+      },
+      "auxiliary": "essere（移動・状態変化）／avere（他動詞・時間を過ごすなど）",
+      "pastParticiple": "passato",
+      "gerundPresent": "passando",
+      "pattern": "passare da/per/in + luogo / passare qualcosa a qualcuno / passare + tempo / passare a + attività"
+    },
+
+    "usage": {
+      "register": [
+        "neutral"
+      ],
+      "medium": [
+        "spoken",
+        "written"
+      ],
+      "situations": [
+        "conversation",
+        "travel",
+        "business",
+        "social",
+        "home"
+      ]
+    },
+
+    "meaning": {
+      "ja": [
+        "場所を通る、通過する、立ち寄る",
+        "ある場所・状態・段階から別のものへ移る",
+        "時間が経過する、出来事や状態が過ぎ去る",
+        "一定の時間を過ごす",
+        "人に物を渡す、回す",
+        "試験・検査などに合格する、通過する",
+        "限度・数量・程度などを超える",
+        "乗り物・人・機会などがやって来る"
+      ],
+      "it": [
+        "Attraversare un luogo o transitarvi, anche fermandosi brevemente.",
+        "Spostarsi da un luogo, uno stato, una fase o un’attività a un altro.",
+        "Trascorrere o finire, con riferimento al tempo, a un evento o a una condizione.",
+        "Trascorrere un determinato periodo di tempo.",
+        "Dare o consegnare qualcosa a un’altra persona.",
+        "Superare un esame, una prova, un controllo o una selezione.",
+        "Oltrepassare un limite, una quantità o un determinato livello.",
+        "Giungere o transitare, con riferimento a persone, veicoli o occasioni."
+      ]
+    },
+
+    "nuance": {
+      "ja": "「通る」という空間的な移動を中心として、時間の経過、状態の変化、物の受け渡し、時間を過ごすことなどへ意味が広がった非常に多義的な基本動詞である。移動や状態変化を表す自動詞用法では通常essereを使い、目的語を取る場合や「時間を過ごす」という意味ではavereを使う。passare da qualcunoは「人のところへ立ち寄る」、passare a qualcosaは「次の話題・段階・活動へ移る」を表す。",
+      "it": "È un verbo fondamentale e molto polisemico. Dal significato spaziale di attraversare si sono sviluppati gli usi relativi al trascorrere del tempo, al cambiamento di stato, alla consegna di un oggetto e al superamento di una prova. Nei significati intransitivi di movimento o cambiamento usa normalmente essere; negli usi transitivi e nel significato di trascorrere un periodo usa avere."
+    },
+
+    "etymology": {
+      "ja": "俗ラテン語passāre（歩みを進める、通過する）に由来し、名詞passus（歩み、一歩）から形成された。空間内を一歩ずつ進むという意味から、場所を通る、時間が過ぎる、段階を移るなどの意味が発達した。同じ語族にはpasso、passaggio、passeggiare、oltrepassareなどがある。",
+      "it": "Dal latino tardo passāre, derivato da passus, «passo». Dall’idea concreta di avanzare compiendo dei passi si sono sviluppati i significati di attraversare, trascorrere, superare e trasferire. Alla stessa famiglia appartengono passo, passaggio, passeggiare e oltrepassare."
+    },
+
+    "minimal": [
+      {
+        "word": "passare",
+        "ja": "場所を通過する、時間を過ごす、段階を移る、または物を人に渡す",
+        "it": "attraversare un luogo, trascorrere del tempo, cambiare fase oppure trasferire qualcosa"
+      },
+      {
+        "word": "attraversare",
+        "ja": "場所・道路・区域などの一方から反対側まで横切る",
+        "it": "andare da un lato all’altro di un luogo, una strada o una zona"
+      },
+      {
+        "word": "trascorrere",
+        "ja": "一定の時間を過ごす、または時間が経過することを表す",
+        "it": "passare un periodo di tempo oppure svolgersi nel corso del tempo"
+      },
+      {
+        "word": "superare",
+        "ja": "限度・障害・試験・相手などを越える、克服する",
+        "it": "andare oltre un limite, vincere un ostacolo o riuscire in una prova"
+      }
+    ],
+
+    "synonyms": [
+      "attraversare",
+      "transitare",
+      "trascorrere",
+      "superare",
+      "consegnare"
+    ],
+
+    "equivalents": {
+      "en": [
+        "pass",
+        "go through",
+        "spend",
+        "hand"
+      ],
+      "de": [
+        "vorbeigehen",
+        "verbringen",
+        "reichen",
+        "bestehen"
+      ],
+      "fr": [
+        "passer",
+        "traverser",
+        "donner",
+        "réussir"
+      ],
+      "es": [
+        "pasar",
+        "atravesar",
+        "entregar",
+        "aprobar"
+      ]
+    },
+
+    "collocations": [
+      "passare da un luogo",
+      "passare per il centro",
+      "passare davanti a",
+      "passare accanto a",
+      "passare attraverso",
+      "passare dalla porta",
+      "passare da qualcuno",
+      "passare a trovare qualcuno",
+      "passare a casa",
+      "passare in ufficio",
+      "passare di qui",
+      "passare oltre",
+      "passare il confine",
+      "passare la strada",
+      "passare il tempo",
+      "passare una giornata",
+      "passare una settimana",
+      "passare le vacanze",
+      "passare la notte",
+      "passare un momento difficile",
+      "passare un esame",
+      "passare un controllo",
+      "passare qualcosa a qualcuno",
+      "passare il sale",
+      "passare la palla",
+      "passare una telefonata",
+      "passare a un altro argomento",
+      "passare dalla teoria alla pratica",
+      "passare di moda",
+      "lasciar passare",
+      "veder passare",
+      "il tempo passa",
+      "passare inosservato"
+    ],
+
+    "examples": [
+      {
+        "it": "Ogni mattina passo davanti alla stazione.",
+        "ja": "私は毎朝、駅の前を通る。"
+      },
+      {
+        "it": "Ieri sono passato da Marco dopo il lavoro.",
+        "ja": "昨日、仕事の後にマルコのところへ立ち寄った。"
+      },
+      {
+        "it": "Abbiamo passato una settimana in Sicilia.",
+        "ja": "私たちはシチリアで1週間を過ごした。"
+      },
+      {
+        "it": "Mi passi il sale, per favore?",
+        "ja": "塩を取ってもらえますか。"
+      },
+      {
+        "it": "Il tempo passa più velocemente di quanto immaginiamo.",
+        "ja": "時間は私たちが思うよりも速く過ぎていく。"
+      },
+      {
+        "it": "Ha studiato molto ed è riuscito a passare l’esame.",
+        "ja": "彼はよく勉強し、試験に合格することができた。"
+      }
+    ],
+
+    "conjugations": {
+      "Indicativo": {
+        "Presente": [
+          "passo",
+          "passi",
+          "passa",
+          "passiamo",
+          "passate",
+          "passano"
+        ],
+
+        "Imperfetto": [
+          "passavo",
+          "passavi",
+          "passava",
+          "passavamo",
+          "passavate",
+          "passavano"
+        ],
+
+        "Passato prossimo": [
+          "ho passato / sono passato/a",
+          "hai passato / sei passato/a",
+          "ha passato / è passato/a",
+          "abbiamo passato / siamo passati/e",
+          "avete passato / siete passati/e",
+          "hanno passato / sono passati/e"
+        ],
+
+        "Passato remoto": [
+          "passai",
+          "passasti",
+          "passò",
+          "passammo",
+          "passaste",
+          "passarono"
+        ],
+
+        "Trapassato prossimo": [
+          "avevo passato / ero passato/a",
+          "avevi passato / eri passato/a",
+          "aveva passato / era passato/a",
+          "avevamo passato / eravamo passati/e",
+          "avevate passato / eravate passati/e",
+          "avevano passato / erano passati/e"
+        ],
+
+        "Trapassato remoto": [
+          "ebbi passato / fui passato/a",
+          "avesti passato / fosti passato/a",
+          "ebbe passato / fu passato/a",
+          "avemmo passato / fummo passati/e",
+          "aveste passato / foste passati/e",
+          "ebbero passato / furono passati/e"
+        ],
+
+        "Futuro semplice": [
+          "passerò",
+          "passerai",
+          "passerà",
+          "passeremo",
+          "passerete",
+          "passeranno"
+        ],
+
+        "Futuro anteriore": [
+          "avrò passato / sarò passato/a",
+          "avrai passato / sarai passato/a",
+          "avrà passato / sarà passato/a",
+          "avremo passato / saremo passati/e",
+          "avrete passato / sarete passati/e",
+          "avranno passato / saranno passati/e"
+        ]
+      },
+
+      "Congiuntivo": {
+        "Presente": [
+          "passi",
+          "passi",
+          "passi",
+          "passiamo",
+          "passiate",
+          "passino"
+        ],
+
+        "Imperfetto": [
+          "passassi",
+          "passassi",
+          "passasse",
+          "passassimo",
+          "passaste",
+          "passassero"
+        ],
+
+        "Passato": [
+          "abbia passato / sia passato/a",
+          "abbia passato / sia passato/a",
+          "abbia passato / sia passato/a",
+          "abbiamo passato / siamo passati/e",
+          "abbiate passato / siate passati/e",
+          "abbiano passato / siano passati/e"
+        ],
+
+        "Trapassato": [
+          "avessi passato / fossi passato/a",
+          "avessi passato / fossi passato/a",
+          "avesse passato / fosse passato/a",
+          "avessimo passato / fossimo passati/e",
+          "aveste passato / foste passati/e",
+          "avessero passato / fossero passati/e"
+        ]
+      },
+
+      "Condizionale": {
+        "Presente": [
+          "passerei",
+          "passeresti",
+          "passerebbe",
+          "passeremmo",
+          "passereste",
+          "passerebbero"
+        ],
+
+        "Passato": [
+          "avrei passato / sarei passato/a",
+          "avresti passato / saresti passato/a",
+          "avrebbe passato / sarebbe passato/a",
+          "avremmo passato / saremmo passati/e",
+          "avreste passato / sareste passati/e",
+          "avrebbero passato / sarebbero passati/e"
+        ]
+      },
+
+      "Imperativo": {
+        "Presente": [
+          "—",
+          "passa",
+          "passi",
+          "passiamo",
+          "passate",
+          "passino"
+        ]
+      },
+
+      "Forme indefinite": {
+        "Forme": [
+          "passare",
+          "avere passato / essere passato/a/i/e",
+          "passante",
+          "passato",
+          "passando",
+          "avendo passato / essendo passato/a/i/e"
+        ]
+      }
+    }
+  },
+{
+  "id": "attraversare",
+  "sid": "2026-00182",
+  "word": "attraversare",
+  "ipa": "/attraverˈsare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "attraversato",
+    "gerundPresent": "attraversando",
+    "pattern": "attraversare + luogo, strada o periodo / attraversare qualcosa da + punto a + punto"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "transport",
+      "business",
+      "social"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "道路・川・部屋・地域などを一方から反対側へ横切る",
+      "国・都市・地域などを通り抜ける",
+      "物が空間・物体・区域などを貫いて通る",
+      "困難・危機・変化などの時期を経験する",
+      "考え・感情・疑念などが心や頭に一瞬浮かぶ",
+      "光・音・視線などが空間や物を通過する"
+    ],
+    "it": [
+      "Andare da un lato all’altro di una strada, un fiume, una stanza o un altro spazio.",
+      "Percorrere un paese, una città o una regione passando al suo interno.",
+      "Passare attraverso uno spazio, un corpo o una zona.",
+      "Vivere o affrontare un periodo di difficoltà, crisi o trasformazione.",
+      "Presentarsi rapidamente nella mente, con riferimento a un pensiero, un’emozione o un dubbio.",
+      "Passare attraverso uno spazio o un materiale, con riferimento alla luce, al suono o allo sguardo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "場所や空間の一方から入り、内部を通って反対側へ出ることを表す。通常は前置詞を置かず、attraversare la strada、attraversare il ponteのように目的語を直接取る。passareは単にある地点を通る場合にも使えるが、attraversareは対象の内部や幅全体を横断することを強く示す。比喩的には、危機や困難な時期を経験することにも使われる。",
+    "it": "Indica normalmente il movimento da un lato all’altro di uno spazio, passando al suo interno o lungo tutta la sua estensione. Regge direttamente l’oggetto: attraversare la strada, non attraversare per la strada. Passare è più generale e può indicare il semplice transito; attraversare mette maggiormente in evidenza il superamento dell’intera larghezza o estensione di qualcosa."
+  },
+
+  "etymology": {
+    "ja": "前置詞・副詞attraverso（横切って、～を通って）から形成された。attraversoはラテン語transversus（横向きの、斜めの）に由来し、trans-（越えて）とvertere（向きを変える）から成る。同じ語族にはtrasversale、traversa、traversataなどがある。",
+    "it": "Derivato da attraverso, continuazione del latino transversus, «posto di traverso», formato da trans-, «oltre», e vertere, «volgere». Alla stessa famiglia appartengono trasversale, traversa, traversata e traversare."
+  },
+
+  "minimal": [
+    {
+      "word": "attraversare",
+      "ja": "場所・区域・障害などの一方から反対側まで横切る",
+      "it": "andare da un lato all’altro di uno spazio o di un ostacolo"
+    },
+    {
+      "word": "passare",
+      "ja": "ある場所を通る、時間を過ごす、または別の段階へ移る",
+      "it": "transitare in un luogo, trascorrere del tempo oppure cambiare fase"
+    },
+    {
+      "word": "oltrepassare",
+      "ja": "境界・限界・障害などを越えて、その先へ進む",
+      "it": "superare un confine, un limite o un ostacolo andando oltre"
+    },
+    {
+      "word": "percorrere",
+      "ja": "道・距離・経路などを進み、その全体または一定部分を移動する",
+      "it": "muoversi lungo una strada, un itinerario o una determinata distanza"
+    }
+  ],
+
+  "synonyms": [
+    "percorrere",
+    "passare attraverso",
+    "valicare",
+    "oltrepassare",
+    "tagliare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "cross",
+      "go through",
+      "traverse"
+    ],
+    "de": [
+      "überqueren",
+      "durchqueren",
+      "durchziehen"
+    ],
+    "fr": [
+      "traverser",
+      "franchir",
+      "parcourir"
+    ],
+    "es": [
+      "atravesar",
+      "cruzar",
+      "recorrer"
+    ]
+  },
+
+  "collocations": [
+    "attraversare la strada",
+    "attraversare sulle strisce pedonali",
+    "attraversare un incrocio",
+    "attraversare un ponte",
+    "attraversare un fiume",
+    "attraversare il mare",
+    "attraversare l’oceano",
+    "attraversare un confine",
+    "attraversare una frontiera",
+    "attraversare un tunnel",
+    "attraversare una galleria",
+    "attraversare una stanza",
+    "attraversare un corridoio",
+    "attraversare un bosco",
+    "attraversare una foresta",
+    "attraversare il deserto",
+    "attraversare le montagne",
+    "attraversare una città",
+    "attraversare il paese",
+    "attraversare da nord a sud",
+    "attraversare a piedi",
+    "attraversare in macchina",
+    "attraversare un periodo difficile",
+    "attraversare una crisi",
+    "attraversare una fase",
+    "attraversare un momento delicato",
+    "un pensiero attraversa la mente",
+    "un brivido attraversa il corpo",
+    "la luce attraversa il vetro",
+    "essere attraversato da"
+  ],
+
+  "examples": [
+    {
+      "it": "Guarda bene prima di attraversare la strada.",
+      "ja": "道路を渡る前によく確認してください。"
+    },
+    {
+      "it": "Abbiamo attraversato il fiume su un piccolo ponte.",
+      "ja": "私たちは小さな橋を渡って川を越えた。"
+    },
+    {
+      "it": "Il treno attraversa il paese da nord a sud.",
+      "ja": "その列車は国を北から南へ縦断する。"
+    },
+    {
+      "it": "L’azienda sta attraversando un periodo difficile.",
+      "ja": "その会社は現在、困難な時期を経験している。"
+    },
+    {
+      "it": "Un dubbio improvviso gli attraversò la mente.",
+      "ja": "突然、一つの疑念が彼の頭をよぎった。"
+    },
+    {
+      "it": "La luce del sole attraversava le tende.",
+      "ja": "太陽の光がカーテンを通り抜けていた。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "attraverso",
+        "attraversi",
+        "attraversa",
+        "attraversiamo",
+        "attraversate",
+        "attraversano"
+      ],
+
+      "Imperfetto": [
+        "attraversavo",
+        "attraversavi",
+        "attraversava",
+        "attraversavamo",
+        "attraversavate",
+        "attraversavano"
+      ],
+
+      "Passato prossimo": [
+        "ho attraversato",
+        "hai attraversato",
+        "ha attraversato",
+        "abbiamo attraversato",
+        "avete attraversato",
+        "hanno attraversato"
+      ],
+
+      "Passato remoto": [
+        "attraversai",
+        "attraversasti",
+        "attraversò",
+        "attraversammo",
+        "attraversaste",
+        "attraversarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo attraversato",
+        "avevi attraversato",
+        "aveva attraversato",
+        "avevamo attraversato",
+        "avevate attraversato",
+        "avevano attraversato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi attraversato",
+        "avesti attraversato",
+        "ebbe attraversato",
+        "avemmo attraversato",
+        "aveste attraversato",
+        "ebbero attraversato"
+      ],
+
+      "Futuro semplice": [
+        "attraverserò",
+        "attraverserai",
+        "attraverserà",
+        "attraverseremo",
+        "attraverserete",
+        "attraverseranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò attraversato",
+        "avrai attraversato",
+        "avrà attraversato",
+        "avremo attraversato",
+        "avrete attraversato",
+        "avranno attraversato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "attraversi",
+        "attraversi",
+        "attraversi",
+        "attraversiamo",
+        "attraversiate",
+        "attraversino"
+      ],
+
+      "Imperfetto": [
+        "attraversassi",
+        "attraversassi",
+        "attraversasse",
+        "attraversassimo",
+        "attraversaste",
+        "attraversassero"
+      ],
+
+      "Passato": [
+        "abbia attraversato",
+        "abbia attraversato",
+        "abbia attraversato",
+        "abbiamo attraversato",
+        "abbiate attraversato",
+        "abbiano attraversato"
+      ],
+
+      "Trapassato": [
+        "avessi attraversato",
+        "avessi attraversato",
+        "avesse attraversato",
+        "avessimo attraversato",
+        "aveste attraversato",
+        "avessero attraversato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "attraverserei",
+        "attraverseresti",
+        "attraverserebbe",
+        "attraverseremmo",
+        "attraversereste",
+        "attraverserebbero"
+      ],
+
+      "Passato": [
+        "avrei attraversato",
+        "avresti attraversato",
+        "avrebbe attraversato",
+        "avremmo attraversato",
+        "avreste attraversato",
+        "avrebbero attraversato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "attraversa",
+        "attraversi",
+        "attraversiamo",
+        "attraversate",
+        "attraversino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "attraversare",
+        "avere attraversato",
+        "attraversante",
+        "attraversato",
+        "attraversando",
+        "avendo attraversato"
+      ]
+    }
+  }
+}
+]
