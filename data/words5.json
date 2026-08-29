@@ -341,5 +341,3856 @@
       ]
     }
   }
+},
+{
+  "id": "rassegnarsi",
+  "sid": "2026-00229",
+  "word": "rassegnarsi",
+  "ipa": "/rasseɲˈɲarsi/",
+  "level": "B2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "代名動詞",
+      "it": "verbo pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "rassegnato",
+    "gerundPresent": "rassegnandosi",
+    "pattern": "rassegnarsi a qualcosa / rassegnarsi a + infinito / rassegnarsi all’idea di o che / non rassegnarsi"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "emotion",
+      "difficulty",
+      "relationships",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "変えられない不本意な状況を仕方なく受け入れる",
+      "望んでいた結果が得られないことを認め、抵抗をやめる",
+      "喪失・失敗・別れなどの現実を受け入れる",
+      "避けられない行為をする覚悟を決める",
+      "希望や改善への期待を捨て、諦める",
+      "non rassegnarsiで、困難な状況を受け入れず抵抗・努力を続ける"
+    ],
+    "it": [
+      "Accettare controvoglia una situazione spiacevole che non sembra modificabile.",
+      "Riconoscere che un risultato desiderato non sarà raggiunto e cessare di opporsi.",
+      "Accettare la realtà di una perdita, di un fallimento o di una separazione.",
+      "Decidersi a compiere un’azione inevitabile o sgradita.",
+      "Abbandonare la speranza che una situazione possa migliorare.",
+      "Nella forma negativa non rassegnarsi, continuare a resistere o a impegnarsi nonostante le difficoltà."
+    ]
+  },
+
+  "nuance": {
+    "ja": "単なる中立的なaccettareと異なり、状況を好ましく思ってはいないものの、変えることができないと判断して抵抗をやめる含意がある。rassegnarsi a una sconfittaは「敗北を受け入れる」、rassegnarsi a partireは「仕方なく出発する覚悟を決める」。rinunciare aは物・権利・計画・行為などを手放す決定に焦点があり、rassegnarsiは不本意な現実を心理的に受容することに焦点がある。",
+    "it": "A differenza del neutro accettare, implica che la situazione rimanga sgradita ma venga considerata inevitabile o impossibile da modificare. Rassegnarsi a una sconfitta significa accettarne la realtà; rassegnarsi a partire significa decidersi controvoglia a farlo. Rinunciare a mette in rilievo l’abbandono di un bene, un diritto o un progetto; rassegnarsi riguarda soprattutto l’accettazione psicologica della realtà."
+  },
+
+  "etymology": {
+    "ja": "動詞rassegnareの代名詞形で、ラテン語resignāre（封印を解く、取り消す、返却する）に由来する。re-（元へ、反対に）とsignāre（印を付ける、署名する）から成り、権利や主張を正式に返上する意味から、自分の抵抗や期待を手放して現実を受け入れる意味へ発展した。同じ語族にはsegno、segnare、assegnare、英語resignなどがある。",
+    "it": "Forma pronominale di rassegnare, dal latino resignāre, formato da re- e signāre, «segnare, sigillare». Dal significato di annullare o restituire formalmente qualcosa si è sviluppata l’idea figurata di abbandonare la resistenza e accettare ciò che non può essere cambiato."
+  },
+
+  "minimal": [
+    {
+      "word": "rassegnarsi",
+      "ja": "変えられない不本意な現実を認め、抵抗をやめて受け入れる",
+      "it": "accettare controvoglia una realtà considerata inevitabile o non modificabile"
+    },
+    {
+      "word": "accettare",
+      "ja": "提案・事実・状況などを受け入れる、必ずしも不満や諦めを伴わない",
+      "it": "ricevere o riconoscere una proposta, un fatto o una situazione, senza implicare necessariamente riluttanza"
+    },
+    {
+      "word": "rinunciare",
+      "ja": "権利・物・計画・行為などを自発的またはやむを得ず手放す",
+      "it": "abbandonare un diritto, un possesso, un progetto o un’azione"
+    },
+    {
+      "word": "arrendersi",
+      "ja": "抵抗・戦い・努力をやめて相手や困難に屈する",
+      "it": "cessare di combattere o resistere e dichiararsi vinti"
+    },
+    {
+      "word": "adattarsi",
+      "ja": "新しい環境・条件に合うよう、行動や考え方を変える",
+      "it": "modificare il proprio comportamento per adeguarsi a nuove condizioni"
+    }
+  ],
+
+  "synonyms": [
+    "accettare",
+    "arrendersi",
+    "rinunciare",
+    "farsi una ragione",
+    "piegarsi",
+    "sottomettersi"
+  ],
+
+  "equivalents": {
+    "en": [
+      "resign oneself",
+      "accept",
+      "come to terms with"
+    ],
+    "de": [
+      "sich abfinden",
+      "sich fügen",
+      "sich ergeben"
+    ],
+    "fr": [
+      "se résigner",
+      "s’y faire",
+      "accepter"
+    ],
+    "es": [
+      "resignarse",
+      "conformarse",
+      "aceptar"
+    ]
+  },
+
+  "collocations": [
+    "rassegnarsi a qualcosa",
+    "rassegnarsi alla realtà",
+    "rassegnarsi alla situazione",
+    "rassegnarsi al proprio destino",
+    "rassegnarsi a una sconfitta",
+    "rassegnarsi a una perdita",
+    "rassegnarsi alla solitudine",
+    "rassegnarsi all’inevitabile",
+    "rassegnarsi al peggio",
+    "rassegnarsi alla fine",
+    "rassegnarsi alla malattia",
+    "rassegnarsi alla decisione",
+    "rassegnarsi a partire",
+    "rassegnarsi ad aspettare",
+    "rassegnarsi a perdere",
+    "rassegnarsi a vivere così",
+    "rassegnarsi a fare qualcosa",
+    "rassegnarsi all’idea di partire",
+    "rassegnarsi all’idea della sconfitta",
+    "rassegnarsi al fatto che",
+    "non riuscire a rassegnarsi",
+    "non volersi rassegnare",
+    "dover rassegnarsi",
+    "finire per rassegnarsi",
+    "essere costretto a rassegnarsi",
+    "sembrare rassegnarsi",
+    "rifiutarsi di rassegnarsi",
+    "non rassegnarsi mai",
+    "non rassegnarsi alla sconfitta",
+    "non rassegnarsi di fronte alle difficoltà",
+    "rassegnarsi lentamente",
+    "rassegnarsi con tristezza",
+    "rassegnarsi senza protestare",
+    "essersi ormai rassegnato"
+  ],
+
+  "examples": [
+    {
+      "it": "Dobbiamo rassegnarci alla realtà.",
+      "ja": "私たちは現実を受け入れなければなりません。"
+    },
+    {
+      "it": "Si è rassegnato a perdere il lavoro.",
+      "ja": "彼は職を失うことを仕方なく受け入れました。"
+    },
+    {
+      "it": "Non riesce a rassegnarsi alla fine della relazione.",
+      "ja": "彼女は関係が終わったことを受け入れられません。"
+    },
+    {
+      "it": "Alla fine mi sono rassegnato ad aspettare.",
+      "ja": "結局、私は仕方なく待つことにしました。"
+    },
+    {
+      "it": "Non mi rassegnerò mai a questa ingiustizia.",
+      "ja": "私はこの不正を決して受け入れません。"
+    },
+    {
+      "it": "Nonostante le difficoltà, non si è rassegnata e ha continuato a lottare.",
+      "ja": "困難にもかかわらず、彼女は諦めずに闘い続けました。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi rassegno",
+        "ti rassegni",
+        "si rassegna",
+        "ci rassegniamo",
+        "vi rassegnate",
+        "si rassegnano"
+      ],
+
+      "Imperfetto": [
+        "mi rassegnavo",
+        "ti rassegnavi",
+        "si rassegnava",
+        "ci rassegnavamo",
+        "vi rassegnavate",
+        "si rassegnavano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono rassegnato/a",
+        "ti sei rassegnato/a",
+        "si è rassegnato/a",
+        "ci siamo rassegnati/e",
+        "vi siete rassegnati/e",
+        "si sono rassegnati/e"
+      ],
+
+      "Passato remoto": [
+        "mi rassegnai",
+        "ti rassegnasti",
+        "si rassegnò",
+        "ci rassegnammo",
+        "vi rassegnaste",
+        "si rassegnarono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero rassegnato/a",
+        "ti eri rassegnato/a",
+        "si era rassegnato/a",
+        "ci eravamo rassegnati/e",
+        "vi eravate rassegnati/e",
+        "si erano rassegnati/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui rassegnato/a",
+        "ti fosti rassegnato/a",
+        "si fu rassegnato/a",
+        "ci fummo rassegnati/e",
+        "vi foste rassegnati/e",
+        "si furono rassegnati/e"
+      ],
+
+      "Futuro semplice": [
+        "mi rassegnerò",
+        "ti rassegnerai",
+        "si rassegnerà",
+        "ci rassegneremo",
+        "vi rassegnerete",
+        "si rassegneranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò rassegnato/a",
+        "ti sarai rassegnato/a",
+        "si sarà rassegnato/a",
+        "ci saremo rassegnati/e",
+        "vi sarete rassegnati/e",
+        "si saranno rassegnati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi rassegni",
+        "ti rassegni",
+        "si rassegni",
+        "ci rassegniamo",
+        "vi rassegniate",
+        "si rassegnino"
+      ],
+
+      "Imperfetto": [
+        "mi rassegnassi",
+        "ti rassegnassi",
+        "si rassegnasse",
+        "ci rassegnassimo",
+        "vi rassegnaste",
+        "si rassegnassero"
+      ],
+
+      "Passato": [
+        "mi sia rassegnato/a",
+        "ti sia rassegnato/a",
+        "si sia rassegnato/a",
+        "ci siamo rassegnati/e",
+        "vi siate rassegnati/e",
+        "si siano rassegnati/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi rassegnato/a",
+        "ti fossi rassegnato/a",
+        "si fosse rassegnato/a",
+        "ci fossimo rassegnati/e",
+        "vi foste rassegnati/e",
+        "si fossero rassegnati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi rassegnerei",
+        "ti rassegneresti",
+        "si rassegnerebbe",
+        "ci rassegneremmo",
+        "vi rassegnereste",
+        "si rassegnerebbero"
+      ],
+
+      "Passato": [
+        "mi sarei rassegnato/a",
+        "ti saresti rassegnato/a",
+        "si sarebbe rassegnato/a",
+        "ci saremmo rassegnati/e",
+        "vi sareste rassegnati/e",
+        "si sarebbero rassegnati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "rassegnati",
+        "si rassegni",
+        "rassegniamoci",
+        "rassegnatevi",
+        "si rassegnino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "rassegnarsi",
+        "essersi rassegnato",
+        "rassegnantesi",
+        "rassegnatosi",
+        "rassegnandosi",
+        "essendosi rassegnato"
+      ]
+    }
+  }
+},
+{
+  "id": "rinunciare",
+  "sid": "2026-00230",
+  "word": "rinunciare",
+  "ipa": "/rinunˈtʃare/",
+  "level": "B1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞",
+      "it": "verbo intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "rinunciato",
+    "gerundPresent": "rinunciando",
+    "pattern": "rinunciare a qualcosa / rinunciare a + infinito / rinunciare a qualcosa in favore di qualcuno / rinunciare per + motivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "legal",
+      "relationships",
+      "decision"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "欲しかった物・機会・利益などを得ることを諦める",
+      "計画・行為・目標などを実行しないことに決める",
+      "権利・請求・相続などを正式に放棄する",
+      "役職・任務・候補資格などを引き受けない、または手放す",
+      "人・習慣・楽しみなどから自発的に離れる",
+      "自分の利益を手放して他人へ譲る",
+      "困難や犠牲のために、当初望んでいたことを断念する"
+    ],
+    "it": [
+      "Decidere di non ottenere o conservare un bene, un’opportunità o un vantaggio desiderato.",
+      "Scegliere di non realizzare un progetto, un’azione o un obiettivo.",
+      "Abbandonare formalmente un diritto, una pretesa o un’eredità.",
+      "Non accettare o lasciare un incarico, un compito o una candidatura.",
+      "Privarsi volontariamente di una persona, di un’abitudine o di un piacere.",
+      "Cedere un proprio vantaggio a favore di un’altra persona.",
+      "Abbandonare un’intenzione iniziale a causa delle difficoltà o dei sacrifici richiesti."
+    ]
+  },
+
+  "nuance": {
+    "ja": "物・権利・計画・行為などを自発的またはやむを得ず手放すことを表す。対象はaで導き、rinunciare a un diritto、rinunciare a partireと言う。arrendersiは抵抗や闘いをやめて敗北を認めること、rassegnarsiは変えられない現実を心理的に受け入れることに重点がある。役職についてrinunciare all’incaricoは就任辞退にも辞任にもなり得るが、在職中の正式な辞任にはdimettersiがより明確である。",
+    "it": "Indica l’abbandono volontario o necessario di un bene, un diritto, un progetto o un’azione. L’oggetto è introdotto da a: rinunciare a un diritto, rinunciare a partire. Arrendersi mette in rilievo la cessazione della resistenza; rassegnarsi l’accettazione psicologica di una realtà inevitabile. Rinunciare a un incarico può significare non accettarlo o lasciarlo, mentre dimettersi indica più chiaramente l’abbandono di una carica già ricoperta."
+  },
+
+  "etymology": {
+    "ja": "ラテン語renuntiāre（知らせ返す、拒絶を表明する、放棄する）に由来し、re-（返して、反対に）とnuntiāre（知らせる）から成る。nuntiāreはnuntius（使者、知らせ）に由来する。もともとは拒絶や撤回を正式に「通知する」ことを表した。同じ語族にはannunciare、denunciare、pronunciare、nunzio、英語renounceなどがある。",
+    "it": "Dal latino renuntiāre, formato da re- e nuntiāre, «annunciare», a sua volta derivato da nuntius, «messaggero, notizia». Significava originariamente comunicare formalmente un rifiuto o un abbandono. Alla stessa famiglia appartengono annunciare, denunciare, pronunciare e nunzio."
+  },
+
+  "minimal": [
+    {
+      "word": "rinunciare",
+      "ja": "物・権利・計画・行為などを手放す、または実行しないと決める",
+      "it": "abbandonare un bene, un diritto, un progetto o la decisione di compiere un’azione"
+    },
+    {
+      "word": "rassegnarsi",
+      "ja": "変えられない不本意な現実を認め、抵抗をやめて受け入れる",
+      "it": "accettare controvoglia una situazione considerata inevitabile o non modificabile"
+    },
+    {
+      "word": "arrendersi",
+      "ja": "闘い・抵抗・努力をやめ、敗北や相手の優位を認める",
+      "it": "cessare di combattere o resistere e riconoscersi vinti"
+    },
+    {
+      "word": "dimettersi",
+      "ja": "現在就いている職務・役職を自ら辞する",
+      "it": "lasciare volontariamente una carica o un impiego già ricoperto"
+    },
+    {
+      "word": "rifiutare",
+      "ja": "提案・依頼・物などを受け入れないとはっきり示す",
+      "it": "dichiarare di non voler accettare una proposta, una richiesta o una cosa offerta"
+    }
+  ],
+
+  "synonyms": [
+    "abbandonare",
+    "desistere da",
+    "privarsi di",
+    "fare a meno di",
+    "cedere",
+    "rifiutare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "give up",
+      "renounce",
+      "waive"
+    ],
+    "de": [
+      "verzichten auf",
+      "aufgeben",
+      "entsagen"
+    ],
+    "fr": [
+      "renoncer à",
+      "abandonner",
+      "se passer de"
+    ],
+    "es": [
+      "renunciar a",
+      "abandonar",
+      "prescindir de"
+    ]
+  },
+
+  "collocations": [
+    "rinunciare a qualcosa",
+    "rinunciare a un diritto",
+    "rinunciare a un privilegio",
+    "rinunciare a un vantaggio",
+    "rinunciare a un’occasione",
+    "rinunciare a un’opportunità",
+    "rinunciare a un’offerta",
+    "rinunciare a un premio",
+    "rinunciare a un’eredità",
+    "rinunciare alla proprietà",
+    "rinunciare alla cittadinanza",
+    "rinunciare a una pretesa",
+    "rinunciare al risarcimento",
+    "rinunciare al proprio posto",
+    "rinunciare a un incarico",
+    "rinunciare alla candidatura",
+    "rinunciare al trono",
+    "rinunciare a partire",
+    "rinunciare a partecipare",
+    "rinunciare a comprare qualcosa",
+    "rinunciare a fare qualcosa",
+    "rinunciare al viaggio",
+    "rinunciare al progetto",
+    "rinunciare al proprio sogno",
+    "rinunciare alla carriera",
+    "rinunciare a tutto",
+    "rinunciare per paura",
+    "rinunciare per motivi economici",
+    "rinunciare in favore di qualcuno",
+    "essere disposto a rinunciare",
+    "essere costretto a rinunciare",
+    "decidere di rinunciare",
+    "rifiutarsi di rinunciare",
+    "non voler rinunciare",
+    "non poter rinunciare",
+    "senza rinunciare a",
+    "non rinunciare mai",
+    "rinunciare definitivamente"
+  ],
+
+  "examples": [
+    {
+      "it": "Ho rinunciato al viaggio per motivi economici.",
+      "ja": "私は経済的な理由で旅行を断念しました。"
+    },
+    {
+      "it": "Non voglio rinunciare al mio sogno.",
+      "ja": "私は自分の夢を諦めたくありません。"
+    },
+    {
+      "it": "Ha deciso di rinunciare alla candidatura.",
+      "ja": "彼女は立候補を辞退することに決めました。"
+    },
+    {
+      "it": "L’erede può rinunciare all’eredità.",
+      "ja": "相続人は相続を放棄できます。"
+    },
+    {
+      "it": "Sarei disposto a rinunciare al mio posto in suo favore.",
+      "ja": "私は彼のために自分の席を譲っても構いません。"
+    },
+    {
+      "it": "Non bisogna rinunciare solo perché il compito è difficile.",
+      "ja": "課題が難しいというだけで諦めるべきではありません。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "rinuncio",
+        "rinunci",
+        "rinuncia",
+        "rinunciamo",
+        "rinunciate",
+        "rinunciano"
+      ],
+
+      "Imperfetto": [
+        "rinunciavo",
+        "rinunciavi",
+        "rinunciava",
+        "rinunciavamo",
+        "rinunciavate",
+        "rinunciavano"
+      ],
+
+      "Passato prossimo": [
+        "ho rinunciato",
+        "hai rinunciato",
+        "ha rinunciato",
+        "abbiamo rinunciato",
+        "avete rinunciato",
+        "hanno rinunciato"
+      ],
+
+      "Passato remoto": [
+        "rinunciai",
+        "rinunciasti",
+        "rinunciò",
+        "rinunciammo",
+        "rinunciaste",
+        "rinunciarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo rinunciato",
+        "avevi rinunciato",
+        "aveva rinunciato",
+        "avevamo rinunciato",
+        "avevate rinunciato",
+        "avevano rinunciato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi rinunciato",
+        "avesti rinunciato",
+        "ebbe rinunciato",
+        "avemmo rinunciato",
+        "aveste rinunciato",
+        "ebbero rinunciato"
+      ],
+
+      "Futuro semplice": [
+        "rinuncerò",
+        "rinuncerai",
+        "rinuncerà",
+        "rinunceremo",
+        "rinuncerete",
+        "rinunceranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò rinunciato",
+        "avrai rinunciato",
+        "avrà rinunciato",
+        "avremo rinunciato",
+        "avrete rinunciato",
+        "avranno rinunciato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "rinunci",
+        "rinunci",
+        "rinunci",
+        "rinunciamo",
+        "rinunciate",
+        "rinuncino"
+      ],
+
+      "Imperfetto": [
+        "rinunciassi",
+        "rinunciassi",
+        "rinunciasse",
+        "rinunciassimo",
+        "rinunciaste",
+        "rinunciassero"
+      ],
+
+      "Passato": [
+        "abbia rinunciato",
+        "abbia rinunciato",
+        "abbia rinunciato",
+        "abbiamo rinunciato",
+        "abbiate rinunciato",
+        "abbiano rinunciato"
+      ],
+
+      "Trapassato": [
+        "avessi rinunciato",
+        "avessi rinunciato",
+        "avesse rinunciato",
+        "avessimo rinunciato",
+        "aveste rinunciato",
+        "avessero rinunciato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "rinuncerei",
+        "rinunceresti",
+        "rinuncerebbe",
+        "rinunceremmo",
+        "rinuncereste",
+        "rinuncerebbero"
+      ],
+
+      "Passato": [
+        "avrei rinunciato",
+        "avresti rinunciato",
+        "avrebbe rinunciato",
+        "avremmo rinunciato",
+        "avreste rinunciato",
+        "avrebbero rinunciato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "rinuncia",
+        "rinunci",
+        "rinunciamo",
+        "rinunciate",
+        "rinuncino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "rinunciare",
+        "avere rinunciato",
+        "rinunciante",
+        "rinunciato",
+        "rinunciando",
+        "avendo rinunciato"
+      ]
+    }
+  }
+},
+{
+  "id": "arrabbiarsi",
+  "sid": "2026-00231",
+  "word": "arrabbiarsi",
+  "ipa": "/arrabˈbjarsi/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "代名動詞",
+      "it": "verbo pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "arrabbiato",
+    "gerundPresent": "arrabbiandosi",
+    "pattern": "arrabbiarsi / arrabbiarsi con qualcuno / arrabbiarsi per qualcosa / arrabbiarsi a causa di qualcosa / arrabbiarsi perché + frase"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "work",
+      "emotion"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人の言動や出来事に反応して怒る、腹を立てる",
+      "人に対して不満や憤りを抱く",
+      "失敗・遅延・不公平などを理由にいら立つ",
+      "言い争いや対立の中で感情的になる",
+      "思いどおりにならないことに腹を立てる",
+      "non arrabbiarsiで、怒らず冷静でいる"
+    ],
+    "it": [
+      "Provare rabbia in reazione al comportamento di qualcuno o a un avvenimento.",
+      "Cominciare a nutrire irritazione o risentimento verso una persona.",
+      "Irritarsi a causa di un errore, di un ritardo, di un’ingiustizia o di un inconveniente.",
+      "Perdere la calma e diventare emotivamente coinvolti durante un contrasto.",
+      "Reagire con rabbia quando qualcosa non avviene come si desidera.",
+      "Nella forma negativa non arrabbiarsi, mantenere la calma e non reagire con rabbia."
+    ]
+  },
+
+  "nuance": {
+    "ja": "怒りが生じるという変化に焦点があり、essere arrabbiatoはその結果として怒っている状態を表す。怒りの対象となる人はcon、原因となる出来事や事柄はperで導く。Mi sono arrabbiato con lui per il ritardoは「私は遅刻のことで彼に腹を立てた」となる。irritarsiは比較的軽い苛立ちにも使え、infuriarsiは非常に激しく怒ることを表す。",
+    "it": "Mette in rilievo il passaggio allo stato di rabbia, mentre essere arrabbiato descrive lo stato risultante. La persona verso cui è diretta la rabbia è introdotta da con; il motivo è normalmente introdotto da per. Irritarsi può indicare un fastidio meno intenso, mentre infuriarsi esprime una rabbia molto forte e improvvisa."
+  },
+
+  "etymology": {
+    "ja": "名詞rabbia（怒り、狂犬病）から作られた動詞で、rabbiaはラテン語rabiēs（狂暴、激怒、狂犬病）に由来する。もともとは動物や人が理性を失ったように激しく興奮する状態を表した。同じ語族にはarrabbiato、rabbioso、英語rabiesやrageなどがある。",
+    "it": "Deriva da rabbia, dal latino rabiēs, «furore, violenza, rabbia come malattia». Il termine indicava originariamente uno stato di agitazione e aggressività estrema. Alla stessa famiglia appartengono arrabbiato e rabbioso."
+  },
+
+  "minimal": [
+    {
+      "word": "arrabbiarsi",
+      "ja": "人・出来事などに反応して怒った状態になる",
+      "it": "cominciare a provare rabbia verso una persona o a causa di una situazione"
+    },
+    {
+      "word": "essere arrabbiato",
+      "ja": "すでに怒っている状態にある",
+      "it": "trovarsi in uno stato di rabbia già presente"
+    },
+    {
+      "word": "irritarsi",
+      "ja": "不快な刺激や言動によって、いら立った状態になる",
+      "it": "provare fastidio o nervosismo, spesso con intensità inferiore alla rabbia"
+    },
+    {
+      "word": "infuriarsi",
+      "ja": "非常に激しい怒りを突然感じる、激怒する",
+      "it": "essere preso da una rabbia molto intensa e spesso improvvisa"
+    },
+    {
+      "word": "offendersi",
+      "ja": "言葉や態度によって自尊心・感情を傷つけられ、不快に思う",
+      "it": "sentirsi feriti o mancati di rispetto da parole o comportamenti"
+    }
+  ],
+
+  "synonyms": [
+    "irritarsi",
+    "adirarsi",
+    "infuriarsi",
+    "innervosirsi",
+    "perdere la calma",
+    "andare in collera"
+  ],
+
+  "equivalents": {
+    "en": [
+      "get angry",
+      "become angry",
+      "get mad"
+    ],
+    "de": [
+      "sich ärgern",
+      "wütend werden",
+      "zornig werden"
+    ],
+    "fr": [
+      "se fâcher",
+      "se mettre en colère",
+      "s’énerver"
+    ],
+    "es": [
+      "enfadarse",
+      "enojarse",
+      "ponerse furioso"
+    ]
+  },
+
+  "collocations": [
+    "arrabbiarsi con qualcuno",
+    "arrabbiarsi con un amico",
+    "arrabbiarsi con il partner",
+    "arrabbiarsi con i figli",
+    "arrabbiarsi con un collega",
+    "arrabbiarsi con sé stessi",
+    "arrabbiarsi per qualcosa",
+    "arrabbiarsi per un ritardo",
+    "arrabbiarsi per un errore",
+    "arrabbiarsi per una sciocchezza",
+    "arrabbiarsi per niente",
+    "arrabbiarsi per il comportamento di qualcuno",
+    "arrabbiarsi a causa di un malinteso",
+    "arrabbiarsi perché qualcuno è in ritardo",
+    "arrabbiarsi facilmente",
+    "arrabbiarsi subito",
+    "arrabbiarsi molto",
+    "arrabbiarsi davvero",
+    "arrabbiarsi seriamente",
+    "arrabbiarsi inutilmente",
+    "cominciare ad arrabbiarsi",
+    "continuare ad arrabbiarsi",
+    "smettere di arrabbiarsi",
+    "cercare di non arrabbiarsi",
+    "avere motivo di arrabbiarsi",
+    "non volersi arrabbiare",
+    "far arrabbiare qualcuno",
+    "non farmi arrabbiare",
+    "non c’è bisogno di arrabbiarsi",
+    "non vale la pena arrabbiarsi",
+    "essersi arrabbiato",
+    "sembrare arrabbiarsi",
+    "arrabbiarsi e gridare",
+    "arrabbiarsi senza motivo",
+    "arrabbiarsi ogni volta"
+  ],
+
+  "examples": [
+    {
+      "it": "Mi sono arrabbiato con lui per il ritardo.",
+      "ja": "私は遅刻のことで彼に腹を立てました。"
+    },
+    {
+      "it": "Non arrabbiarti: non l’ho fatto apposta.",
+      "ja": "怒らないでください。わざとしたのではありません。"
+    },
+    {
+      "it": "Si arrabbia facilmente quando è stanco.",
+      "ja": "彼は疲れていると、すぐに腹を立てます。"
+    },
+    {
+      "it": "Perché ti sei arrabbiata?",
+      "ja": "どうして怒ったのですか。"
+    },
+    {
+      "it": "Non vale la pena arrabbiarsi per una cosa così piccola.",
+      "ja": "こんな小さなことで腹を立てる価値はありません。"
+    },
+    {
+      "it": "Se scoprissero la verità, si arrabbierebbero molto.",
+      "ja": "もし彼らが真実を知ったら、ひどく怒るでしょう。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi arrabbio",
+        "ti arrabbi",
+        "si arrabbia",
+        "ci arrabbiamo",
+        "vi arrabbiate",
+        "si arrabbiano"
+      ],
+
+      "Imperfetto": [
+        "mi arrabbiavo",
+        "ti arrabbiavi",
+        "si arrabbiava",
+        "ci arrabbiavamo",
+        "vi arrabbiavate",
+        "si arrabbiavano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono arrabbiato/a",
+        "ti sei arrabbiato/a",
+        "si è arrabbiato/a",
+        "ci siamo arrabbiati/e",
+        "vi siete arrabbiati/e",
+        "si sono arrabbiati/e"
+      ],
+
+      "Passato remoto": [
+        "mi arrabbiai",
+        "ti arrabbiasti",
+        "si arrabbiò",
+        "ci arrabbiammo",
+        "vi arrabbiaste",
+        "si arrabbiarono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero arrabbiato/a",
+        "ti eri arrabbiato/a",
+        "si era arrabbiato/a",
+        "ci eravamo arrabbiati/e",
+        "vi eravate arrabbiati/e",
+        "si erano arrabbiati/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui arrabbiato/a",
+        "ti fosti arrabbiato/a",
+        "si fu arrabbiato/a",
+        "ci fummo arrabbiati/e",
+        "vi foste arrabbiati/e",
+        "si furono arrabbiati/e"
+      ],
+
+      "Futuro semplice": [
+        "mi arrabbierò",
+        "ti arrabbierai",
+        "si arrabbierà",
+        "ci arrabbieremo",
+        "vi arrabbierete",
+        "si arrabbieranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò arrabbiato/a",
+        "ti sarai arrabbiato/a",
+        "si sarà arrabbiato/a",
+        "ci saremo arrabbiati/e",
+        "vi sarete arrabbiati/e",
+        "si saranno arrabbiati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi arrabbi",
+        "ti arrabbi",
+        "si arrabbi",
+        "ci arrabbiamo",
+        "vi arrabbiate",
+        "si arrabbino"
+      ],
+
+      "Imperfetto": [
+        "mi arrabbiassi",
+        "ti arrabbiassi",
+        "si arrabbiasse",
+        "ci arrabbiassimo",
+        "vi arrabbiaste",
+        "si arrabbiassero"
+      ],
+
+      "Passato": [
+        "mi sia arrabbiato/a",
+        "ti sia arrabbiato/a",
+        "si sia arrabbiato/a",
+        "ci siamo arrabbiati/e",
+        "vi siate arrabbiati/e",
+        "si siano arrabbiati/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi arrabbiato/a",
+        "ti fossi arrabbiato/a",
+        "si fosse arrabbiato/a",
+        "ci fossimo arrabbiati/e",
+        "vi foste arrabbiati/e",
+        "si fossero arrabbiati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi arrabbierei",
+        "ti arrabbieresti",
+        "si arrabbierebbe",
+        "ci arrabbieremmo",
+        "vi arrabbiereste",
+        "si arrabbierebbero"
+      ],
+
+      "Passato": [
+        "mi sarei arrabbiato/a",
+        "ti saresti arrabbiato/a",
+        "si sarebbe arrabbiato/a",
+        "ci saremmo arrabbiati/e",
+        "vi sareste arrabbiati/e",
+        "si sarebbero arrabbiati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "arrabbiati",
+        "si arrabbi",
+        "arrabbiamoci",
+        "arrabbiatevi",
+        "si arrabbino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "arrabbiarsi",
+        "essersi arrabbiato",
+        "arrabbiantesi",
+        "arrabbiatosi",
+        "arrabbiandosi",
+        "essendosi arrabbiato"
+      ]
+    }
+  }
+},
+{
+  "id": "risentire",
+  "sid": "2026-00232",
+  "word": "risentire",
+  "ipa": "/risenˈtire/",
+  "level": "B2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "risentito",
+    "gerundPresent": "risentendo",
+    "pattern": "risentire qualcuno o qualcosa / risentire una sensazione / risentire di qualcosa / risentirne / far risentire qualcosa"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "health",
+      "business",
+      "communication",
+      "effects"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "音・声・音楽などを再び聞く",
+      "人の声を電話などで再び聞く、再度連絡を受ける",
+      "感覚・感情・痛みなどを再び感じる",
+      "過去の経験や雰囲気を再び強く感じる",
+      "出来事・環境・疲労などの影響、特に悪影響を受ける",
+      "作品・文章・様式などが別の時代・作家・文化の影響を示す",
+      "人に音声・発言・録音などをもう一度聞かせる"
+    ],
+    "it": [
+      "Udire nuovamente un suono, una voce, una musica o altre parole.",
+      "Sentire nuovamente la voce di qualcuno, per esempio al telefono.",
+      "Provare di nuovo una sensazione, un’emozione o un dolore.",
+      "Percepire nuovamente e intensamente un’esperienza o un’atmosfera del passato.",
+      "Subire gli effetti, soprattutto negativi, di un evento, di una condizione o della stanchezza.",
+      "Mostrare l’influenza di un’epoca, di un autore, di una cultura o di uno stile.",
+      "Fare ascoltare nuovamente a qualcuno una voce, una frase o una registrazione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "直接目的語を取る場合はsentireの反復として「再び聞く・感じる」を表す。risentire di qualcosaは異なる重要な構文で、健康・経済・品質などが「～の影響を受ける」、特に悪化することを表す。代名詞neを使ってLa qualità ne risente「品質がその影響を受ける」と言える。代名動詞risentirsiは「気分を害する、憤慨する」という別の意味なので区別が必要である。",
+    "it": "Con un oggetto diretto indica normalmente la ripetizione del sentire: udire o provare nuovamente qualcosa. La costruzione risentire di ha invece il significato di subire l’influenza, spesso negativa, di una causa. Con il pronome ne si dice la qualità ne risente. La forma pronominale risentirsi significa offendersi o provare risentimento e deve essere distinta da questi usi."
+  },
+
+  "etymology": {
+    "ja": "接頭辞ri-（再び、元へ）とsentire（聞く、感じる）から成る。sentireはラテン語sentīre（知覚する、感じる、考える）に由来する。「再び知覚する」という意味から、ある原因の作用を身体・物事の中に「感じる」、すなわち影響を受けるという意味も生じた。同じ語族にはsenso、sensazione、sentimento、risentimentoなどがある。",
+    "it": "È formato dal prefisso ri-, «di nuovo», e sentire, dal latino sentīre, «percepire, provare». Dal significato di percepire nuovamente si è sviluppato anche quello di avvertire dentro di sé gli effetti di una causa. Alla stessa famiglia appartengono senso, sensazione, sentimento e risentimento."
+  },
+
+  "minimal": [
+    {
+      "word": "risentire",
+      "ja": "音・感覚を再び知覚する、または原因の影響を受ける",
+      "it": "udire o provare nuovamente qualcosa oppure subire gli effetti di una causa"
+    },
+    {
+      "word": "sentire",
+      "ja": "音を聞く、感覚・感情を覚えることを広く表す",
+      "it": "udire un suono oppure percepire una sensazione o un sentimento"
+    },
+    {
+      "word": "risentirsi",
+      "ja": "人の言葉・態度などによって気分を害し、憤慨する",
+      "it": "offendersi o provare risentimento per parole o comportamenti"
+    },
+    {
+      "word": "subire",
+      "ja": "被害・影響・処置などを自分の意思によらず受ける",
+      "it": "ricevere passivamente un danno, un effetto o un trattamento"
+    },
+    {
+      "word": "influenzare",
+      "ja": "人・物・結果などに作用して変化を与える",
+      "it": "esercitare un effetto capace di modificare una persona, una cosa o un risultato"
+    }
+  ],
+
+  "synonyms": [
+    "sentire di nuovo",
+    "riudire",
+    "riprovare",
+    "subire",
+    "avvertire",
+    "mostrare l’influenza di"
+  ],
+
+  "equivalents": {
+    "en": [
+      "hear again",
+      "feel again",
+      "be affected by"
+    ],
+    "de": [
+      "wieder hören",
+      "wieder spüren",
+      "unter etwas leiden"
+    ],
+    "fr": [
+      "entendre de nouveau",
+      "ressentir",
+      "subir les effets de"
+    ],
+    "es": [
+      "volver a oír",
+      "volver a sentir",
+      "resentirse de"
+    ]
+  },
+
+  "collocations": [
+    "risentire una voce",
+    "risentire una canzone",
+    "risentire una registrazione",
+    "risentire un rumore",
+    "risentire le stesse parole",
+    "risentire qualcuno",
+    "sperare di risentire qualcuno",
+    "essere felice di risentire qualcuno",
+    "risentire un dolore",
+    "risentire una sensazione",
+    "risentire la stessa emozione",
+    "risentire la paura",
+    "risentire un profumo",
+    "risentire l’atmosfera del passato",
+    "risentire di qualcosa",
+    "risentire della stanchezza",
+    "risentire del caldo",
+    "risentire del freddo",
+    "risentire dell’età",
+    "risentire della crisi",
+    "risentire della mancanza di investimenti",
+    "risentire delle conseguenze",
+    "risentire dell’influenza di qualcuno",
+    "risentire di uno stile",
+    "risentire di una tradizione",
+    "la salute ne risente",
+    "la qualità ne risente",
+    "il lavoro ne risente",
+    "l’economia ne risente",
+    "non risentirne affatto",
+    "risentirne pesantemente",
+    "cominciare a risentirne",
+    "far risentire una registrazione",
+    "voler risentire qualcosa",
+    "ascoltare e risentire"
+  ],
+
+  "examples": [
+    {
+      "it": "Vorrei risentire quella canzone.",
+      "ja": "あの歌をもう一度聞きたいです。"
+    },
+    {
+      "it": "È stato un piacere risentirti dopo tanto tempo.",
+      "ja": "久しぶりにまたあなたの声を聞けてうれしかったです。"
+    },
+    {
+      "it": "Ho cominciato a risentire il dolore alla schiena.",
+      "ja": "私はまた背中の痛みを感じ始めました。"
+    },
+    {
+      "it": "Il settore risente ancora della crisi economica.",
+      "ja": "その業界は今も経済危機の影響を受けています。"
+    },
+    {
+      "it": "Se dormi poco, anche il tuo lavoro ne risente.",
+      "ja": "睡眠不足だと、仕事にも悪影響が出ます。"
+    },
+    {
+      "it": "Il romanzo risente dell’influenza della letteratura francese.",
+      "ja": "その小説にはフランス文学の影響が見られます。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "risento",
+        "risenti",
+        "risente",
+        "risentiamo",
+        "risentite",
+        "risentono"
+      ],
+
+      "Imperfetto": [
+        "risentivo",
+        "risentivi",
+        "risentiva",
+        "risentivamo",
+        "risentivate",
+        "risentivano"
+      ],
+
+      "Passato prossimo": [
+        "ho risentito",
+        "hai risentito",
+        "ha risentito",
+        "abbiamo risentito",
+        "avete risentito",
+        "hanno risentito"
+      ],
+
+      "Passato remoto": [
+        "risentii",
+        "risentisti",
+        "risentì",
+        "risentimmo",
+        "risentiste",
+        "risentirono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo risentito",
+        "avevi risentito",
+        "aveva risentito",
+        "avevamo risentito",
+        "avevate risentito",
+        "avevano risentito"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi risentito",
+        "avesti risentito",
+        "ebbe risentito",
+        "avemmo risentito",
+        "aveste risentito",
+        "ebbero risentito"
+      ],
+
+      "Futuro semplice": [
+        "risentirò",
+        "risentirai",
+        "risentirà",
+        "risentiremo",
+        "risentirete",
+        "risentiranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò risentito",
+        "avrai risentito",
+        "avrà risentito",
+        "avremo risentito",
+        "avrete risentito",
+        "avranno risentito"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "risenta",
+        "risenta",
+        "risenta",
+        "risentiamo",
+        "risentiate",
+        "risentano"
+      ],
+
+      "Imperfetto": [
+        "risentissi",
+        "risentissi",
+        "risentisse",
+        "risentissimo",
+        "risentiste",
+        "risentissero"
+      ],
+
+      "Passato": [
+        "abbia risentito",
+        "abbia risentito",
+        "abbia risentito",
+        "abbiamo risentito",
+        "abbiate risentito",
+        "abbiano risentito"
+      ],
+
+      "Trapassato": [
+        "avessi risentito",
+        "avessi risentito",
+        "avesse risentito",
+        "avessimo risentito",
+        "aveste risentito",
+        "avessero risentito"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "risentirei",
+        "risentiresti",
+        "risentirebbe",
+        "risentiremmo",
+        "risentireste",
+        "risentirebbero"
+      ],
+
+      "Passato": [
+        "avrei risentito",
+        "avresti risentito",
+        "avrebbe risentito",
+        "avremmo risentito",
+        "avreste risentito",
+        "avrebbero risentito"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "risenti",
+        "risenta",
+        "risentiamo",
+        "risentite",
+        "risentano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "risentire",
+        "avere risentito",
+        "risentente",
+        "risentito",
+        "risentendo",
+        "avendo risentito"
+      ]
+    }
+  }
+},
+{
+  "id": "risentirsi",
+  "sid": "2026-00233",
+  "word": "risentirsi",
+  "ipa": "/risenˈtirsi/",
+  "level": "B2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "代名動詞",
+      "it": "verbo pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "risentito",
+    "gerundPresent": "risentendosi",
+    "pattern": "risentirsi per qualcosa / risentirsi di qualcosa / risentirsi con qualcuno / risentirsene / non te ne risentire"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "relationships",
+      "business",
+      "conflict",
+      "emotion"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人の発言・態度・扱いによって気分を害する",
+      "侮辱・批判・軽視などを受けたと感じて憤慨する",
+      "不公平または失礼な扱いに反感を抱く",
+      "過去の行為に対する恨み・わだかまりを感じる",
+      "自分の価値・立場・好意が認められなかったことに不満を持つ",
+      "non risentirseneで、発言や行為を気にせず腹を立てない"
+    ],
+    "it": [
+      "Offendersi per le parole, l’atteggiamento o il trattamento ricevuto.",
+      "Provare irritazione perché ci si considera insultati, criticati o sottovalutati.",
+      "Reagire con risentimento a un comportamento ritenuto ingiusto o scortese.",
+      "Conservare rancore o amarezza per un’azione passata.",
+      "Provare dispiacere perché il proprio valore, ruolo o gesto non è stato riconosciuto.",
+      "Nella forma negativa non risentirsene, non offendersi e non attribuire eccessiva importanza a un gesto o a delle parole."
+    ]
+  },
+
+  "nuance": {
+    "ja": "単なる怒りよりも、自尊心を傷つけられた、正当に扱われなかったという感覚を伴いやすい。arrabbiarsiは原因を問わず広く「怒る」、offendersiは「傷つく、侮辱されたと感じる」、risentirsiはそこから反感やわだかまりが生じることに重点がある。原因はperまたはdiで導き、代名詞neを使ったNon te ne risentire「そのことで気を悪くしないで」がよく使われる。",
+    "it": "Implica spesso che la persona si senta ferita nell’orgoglio, poco rispettata o trattata ingiustamente. Arrabbiarsi indica in generale il diventare adirati; offendersi mette in rilievo il sentirsi feriti; risentirsi suggerisce anche la nascita di amarezza o rancore. La causa può essere introdotta da per o di. È frequente la costruzione con ne: non te ne risentire."
+  },
+
+  "etymology": {
+    "ja": "動詞risentire（再び感じる、影響を受ける）の代名詞形で、ri-（再び、強く）とsentire（感じる）から成る。自分に向けられた行為の影響を内面で強く「感じる」ことから、不快感・憤り・恨みを抱く意味が生じた。同じ語族にはsentimento、risentimento、risentitoなどがある。",
+    "it": "Forma pronominale di risentire, composto da ri- e sentire. Dall’idea di avvertire intensamente dentro di sé gli effetti di un comportamento si è sviluppato il significato di provare offesa, amarezza o rancore. Alla stessa famiglia appartengono risentimento e risentito."
+  },
+
+  "minimal": [
+    {
+      "word": "risentirsi",
+      "ja": "不当・失礼に扱われたと感じ、気分を害して反感を抱く",
+      "it": "offendersi e provare amarezza perché ci si considera trattati ingiustamente o senza rispetto"
+    },
+    {
+      "word": "offendersi",
+      "ja": "言葉・行為によって感情や自尊心を傷つけられたと感じる",
+      "it": "sentirsi feriti nell’orgoglio o nei sentimenti da parole o comportamenti"
+    },
+    {
+      "word": "arrabbiarsi",
+      "ja": "人・出来事などに反応して広く怒った状態になる",
+      "it": "cominciare a provare rabbia in reazione a una persona o a una situazione"
+    },
+    {
+      "word": "irritarsi",
+      "ja": "不快な刺激や言動によっていら立つ",
+      "it": "provare fastidio o nervosismo a causa di uno stimolo o di un comportamento"
+    },
+    {
+      "word": "risentire",
+      "ja": "音・感覚を再び知覚する、または何らかの影響を受ける",
+      "it": "udire o provare nuovamente qualcosa oppure subire gli effetti di una causa"
+    }
+  ],
+
+  "synonyms": [
+    "offendersi",
+    "indispettirsi",
+    "irritarsi",
+    "impermalosirsi",
+    "adirarsi",
+    "provare risentimento"
+  ],
+
+  "equivalents": {
+    "en": [
+      "take offense",
+      "feel resentful",
+      "be offended"
+    ],
+    "de": [
+      "übelnehmen",
+      "sich gekränkt fühlen",
+      "nachtragend sein"
+    ],
+    "fr": [
+      "s’offenser",
+      "se formaliser",
+      "éprouver du ressentiment"
+    ],
+    "es": [
+      "resentirse",
+      "ofenderse",
+      "sentirse molesto"
+    ]
+  },
+
+  "collocations": [
+    "risentirsi per qualcosa",
+    "risentirsi per una critica",
+    "risentirsi per un’osservazione",
+    "risentirsi per uno scherzo",
+    "risentirsi per il comportamento di qualcuno",
+    "risentirsi per una mancanza di rispetto",
+    "risentirsi di un’offesa",
+    "risentirsi delle parole di qualcuno",
+    "risentirsi del tono usato",
+    "risentirsi con qualcuno",
+    "risentirsi con un collega",
+    "risentirsi facilmente",
+    "risentirsi subito",
+    "risentirsi profondamente",
+    "risentirsi molto",
+    "risentirsi ingiustamente",
+    "cominciare a risentirsi",
+    "avere motivo di risentirsi",
+    "non avere motivo di risentirsi",
+    "sembrare risentirsi",
+    "non volersi risentire",
+    "non risentirsene",
+    "non te ne risentire",
+    "non se ne risenta",
+    "non ve ne risentite",
+    "non essersene risentito",
+    "temere che qualcuno si risenta",
+    "senza risentirsi",
+    "risentirsi e protestare",
+    "risentirsi per essere stato escluso",
+    "risentirsi per non essere stato invitato",
+    "risentirsi dell’accusa",
+    "essersi risentito per una battuta"
+  ],
+
+  "examples": [
+    {
+      "it": "Si è risentito per la mia osservazione.",
+      "ja": "彼は私の発言に気分を害しました。"
+    },
+    {
+      "it": "Non te ne risentire, ma non condivido la tua opinione.",
+      "ja": "気を悪くしないでほしいのですが、私はあなたの意見に賛成できません。"
+    },
+    {
+      "it": "Si è risentita perché non era stata invitata.",
+      "ja": "彼女は招待されなかったことに腹を立てました。"
+    },
+    {
+      "it": "Non c’era motivo di risentirsi per una battuta innocente.",
+      "ja": "悪意のない冗談に気分を害する理由はありませんでした。"
+    },
+    {
+      "it": "Temevo che si risentisse delle mie parole.",
+      "ja": "私は彼が私の言葉に気を悪くするのではないかと心配していました。"
+    },
+    {
+      "it": "Pur essendo stato criticato, non se n’è risentito.",
+      "ja": "批判されたにもかかわらず、彼は気を悪くしませんでした。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi risento",
+        "ti risenti",
+        "si risente",
+        "ci risentiamo",
+        "vi risentite",
+        "si risentono"
+      ],
+
+      "Imperfetto": [
+        "mi risentivo",
+        "ti risentivi",
+        "si risentiva",
+        "ci risentivamo",
+        "vi risentivate",
+        "si risentivano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono risentito/a",
+        "ti sei risentito/a",
+        "si è risentito/a",
+        "ci siamo risentiti/e",
+        "vi siete risentiti/e",
+        "si sono risentiti/e"
+      ],
+
+      "Passato remoto": [
+        "mi risentii",
+        "ti risentisti",
+        "si risentì",
+        "ci risentimmo",
+        "vi risentiste",
+        "si risentirono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero risentito/a",
+        "ti eri risentito/a",
+        "si era risentito/a",
+        "ci eravamo risentiti/e",
+        "vi eravate risentiti/e",
+        "si erano risentiti/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui risentito/a",
+        "ti fosti risentito/a",
+        "si fu risentito/a",
+        "ci fummo risentiti/e",
+        "vi foste risentiti/e",
+        "si furono risentiti/e"
+      ],
+
+      "Futuro semplice": [
+        "mi risentirò",
+        "ti risentirai",
+        "si risentirà",
+        "ci risentiremo",
+        "vi risentirete",
+        "si risentiranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò risentito/a",
+        "ti sarai risentito/a",
+        "si sarà risentito/a",
+        "ci saremo risentiti/e",
+        "vi sarete risentiti/e",
+        "si saranno risentiti/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi risenta",
+        "ti risenta",
+        "si risenta",
+        "ci risentiamo",
+        "vi risentiate",
+        "si risentano"
+      ],
+
+      "Imperfetto": [
+        "mi risentissi",
+        "ti risentissi",
+        "si risentisse",
+        "ci risentissimo",
+        "vi risentiste",
+        "si risentissero"
+      ],
+
+      "Passato": [
+        "mi sia risentito/a",
+        "ti sia risentito/a",
+        "si sia risentito/a",
+        "ci siamo risentiti/e",
+        "vi siate risentiti/e",
+        "si siano risentiti/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi risentito/a",
+        "ti fossi risentito/a",
+        "si fosse risentito/a",
+        "ci fossimo risentiti/e",
+        "vi foste risentiti/e",
+        "si fossero risentiti/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi risentirei",
+        "ti risentiresti",
+        "si risentirebbe",
+        "ci risentiremmo",
+        "vi risentireste",
+        "si risentirebbero"
+      ],
+
+      "Passato": [
+        "mi sarei risentito/a",
+        "ti saresti risentito/a",
+        "si sarebbe risentito/a",
+        "ci saremmo risentiti/e",
+        "vi sareste risentiti/e",
+        "si sarebbero risentiti/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "risentiti",
+        "si risenta",
+        "risentiamoci",
+        "risentitevi",
+        "si risentano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "risentirsi",
+        "essersi risentito",
+        "risententesi",
+        "risentitosi",
+        "risentendosi",
+        "essendosi risentito"
+      ]
+    }
+  }
+},
+{
+  "id": "svegliarsi",
+  "sid": "2026-00234",
+  "word": "svegliarsi",
+  "ipa": "/zveʎˈʎarsi/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "代名動詞",
+      "it": "verbo pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "svegliato",
+    "gerundPresent": "svegliandosi",
+    "pattern": "svegliarsi / svegliarsi alle + ora / svegliarsi presto o tardi / svegliarsi per, da o a causa di qualcosa / svegliarsi con qualcosa"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "health",
+      "routine",
+      "emotion"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "眠っている状態から意識のある状態へ戻る、目を覚ます",
+      "音・光・夢・痛みなどによって睡眠から覚める",
+      "特定の時刻に目を覚ます",
+      "目覚めたときに特定の気分・身体状態にある",
+      "それまで気付かなかった現実・問題などに気付く",
+      "感情・能力・関心などが活発になる、目覚める",
+      "ぼんやりした状態から意識をはっきりさせる"
+    ],
+    "it": [
+      "Passare dal sonno allo stato di coscienza.",
+      "Interrompere il sonno a causa di un rumore, della luce, di un sogno o di un dolore.",
+      "Uscire dal sonno a una determinata ora.",
+      "Trovarsi in una certa condizione fisica o emotiva nel momento del risveglio.",
+      "Prendere coscienza di una realtà o di un problema precedentemente ignorato.",
+      "Diventare attivi o intensi, riferito a sentimenti, capacità o interessi.",
+      "Uscire da uno stato di torpore o scarsa attenzione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "睡眠が終わって意識が戻る瞬間に焦点がある。alzarsiは身体を起こしてベッドから出ることなので、目覚めてもすぐには起きない場合がある。svegliare qualcunoは「人を起こす」という他動詞、svegliarsiは「自分が目覚める」という代名詞形である。比喩的にはsvegliarsi alla realtà「現実に目覚める」のように、認識や注意が生じることも表す。",
+    "it": "Mette in rilievo la fine del sonno e il ritorno alla coscienza. Alzarsi indica invece il movimento di sollevarsi e lasciare il letto, che può avvenire più tardi. Svegliare qualcuno è transitivo e significa interrompere il sonno di un’altra persona; svegliarsi indica che il soggetto si desta. In senso figurato può significare prendere coscienza, come in svegliarsi alla realtà."
+  },
+
+  "etymology": {
+    "ja": "動詞svegliare（目を覚まさせる）の代名詞形。svegliareは俗ラテン語*exvigilāreに由来するとされ、ラテン語vigilāre（目を覚ましている、見張る）およびvigil（目覚めている）と関係する。同じ語族にはveglia、vigilare、vigile、英語vigilやvigilantなどがある。",
+    "it": "Forma pronominale di svegliare, ricondotto a un latino volgare *exvigilāre, collegato al latino vigilāre, «restare sveglio, sorvegliare», e vigil, «sveglio». Alla stessa famiglia appartengono veglia, vigilare e vigile."
+  },
+
+  "minimal": [
+    {
+      "word": "svegliarsi",
+      "ja": "眠りが終わり、意識のある状態へ戻る",
+      "it": "passare dal sonno allo stato di coscienza"
+    },
+    {
+      "word": "svegliare",
+      "ja": "音・声・接触などによって、人の睡眠を中断させる",
+      "it": "far uscire un’altra persona dal sonno"
+    },
+    {
+      "word": "alzarsi",
+      "ja": "横たわった・座った状態から起き上がる、特にベッドから出る",
+      "it": "sollevarsi da una posizione distesa o seduta, in particolare lasciare il letto"
+    },
+    {
+      "word": "destarsi",
+      "ja": "眠り・無気力・無関心などから目覚める、やや文章語的な表現",
+      "it": "svegliarsi dal sonno o da uno stato di inerzia, spesso in un registro letterario"
+    },
+    {
+      "word": "addormentarsi",
+      "ja": "目覚めている状態から眠りに入る",
+      "it": "passare dallo stato di veglia al sonno"
+    }
+  ],
+
+  "synonyms": [
+    "destarsi",
+    "ridestarsi",
+    "aprire gli occhi",
+    "riprendere coscienza",
+    "rendersi conto",
+    "riattivarsi"
+  ],
+
+  "equivalents": {
+    "en": [
+      "wake up",
+      "awaken",
+      "come to"
+    ],
+    "de": [
+      "aufwachen",
+      "erwachen",
+      "zu sich kommen"
+    ],
+    "fr": [
+      "se réveiller",
+      "s’éveiller",
+      "reprendre conscience"
+    ],
+    "es": [
+      "despertarse",
+      "despertar",
+      "recobrar el conocimiento"
+    ]
+  },
+
+  "collocations": [
+    "svegliarsi presto",
+    "svegliarsi tardi",
+    "svegliarsi all’alba",
+    "svegliarsi a mezzogiorno",
+    "svegliarsi alle sette",
+    "svegliarsi ogni mattina",
+    "svegliarsi durante la notte",
+    "svegliarsi nel cuore della notte",
+    "svegliarsi improvvisamente",
+    "svegliarsi lentamente",
+    "svegliarsi naturalmente",
+    "svegliarsi da soli",
+    "svegliarsi con la sveglia",
+    "svegliarsi per un rumore",
+    "svegliarsi a causa del caldo",
+    "svegliarsi da un sogno",
+    "svegliarsi da un incubo",
+    "svegliarsi di soprassalto",
+    "svegliarsi spaventato",
+    "svegliarsi stanco",
+    "svegliarsi riposato",
+    "svegliarsi di buon umore",
+    "svegliarsi con il mal di testa",
+    "svegliarsi con la fame",
+    "non riuscire a svegliarsi",
+    "fare fatica a svegliarsi",
+    "cominciare a svegliarsi",
+    "finire per svegliarsi",
+    "svegliarsi e alzarsi",
+    "svegliarsi senza sveglia",
+    "svegliarsi alla realtà",
+    "svegliarsi dal torpore",
+    "svegliarsi dal coma",
+    "svegliarsi completamente",
+    "essersi appena svegliato"
+  ],
+
+  "examples": [
+    {
+      "it": "Mi sveglio ogni mattina alle sette.",
+      "ja": "私は毎朝7時に目を覚まします。"
+    },
+    {
+      "it": "Mi sono svegliato, ma sono rimasto a letto.",
+      "ja": "私は目を覚ましましたが、ベッドに残っていました。"
+    },
+    {
+      "it": "Il bambino si è svegliato per il rumore.",
+      "ja": "その子供は物音で目を覚ましました。"
+    },
+    {
+      "it": "Stamattina mi sono svegliata con il mal di testa.",
+      "ja": "今朝、私は頭痛がする状態で目を覚ましました。"
+    },
+    {
+      "it": "Domani dovremo svegliarci molto presto.",
+      "ja": "明日はとても早く起きなければなりません。"
+    },
+    {
+      "it": "È ora che si sveglino alla realtà.",
+      "ja": "彼らが現実に目を覚ますべき時です。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi sveglio",
+        "ti svegli",
+        "si sveglia",
+        "ci svegliamo",
+        "vi svegliate",
+        "si svegliano"
+      ],
+
+      "Imperfetto": [
+        "mi svegliavo",
+        "ti svegliavi",
+        "si svegliava",
+        "ci svegliavamo",
+        "vi svegliavate",
+        "si svegliavano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono svegliato/a",
+        "ti sei svegliato/a",
+        "si è svegliato/a",
+        "ci siamo svegliati/e",
+        "vi siete svegliati/e",
+        "si sono svegliati/e"
+      ],
+
+      "Passato remoto": [
+        "mi svegliai",
+        "ti svegliasti",
+        "si svegliò",
+        "ci svegliammo",
+        "vi svegliaste",
+        "si svegliarono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero svegliato/a",
+        "ti eri svegliato/a",
+        "si era svegliato/a",
+        "ci eravamo svegliati/e",
+        "vi eravate svegliati/e",
+        "si erano svegliati/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui svegliato/a",
+        "ti fosti svegliato/a",
+        "si fu svegliato/a",
+        "ci fummo svegliati/e",
+        "vi foste svegliati/e",
+        "si furono svegliati/e"
+      ],
+
+      "Futuro semplice": [
+        "mi sveglierò",
+        "ti sveglierai",
+        "si sveglierà",
+        "ci sveglieremo",
+        "vi sveglierete",
+        "si sveglieranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò svegliato/a",
+        "ti sarai svegliato/a",
+        "si sarà svegliato/a",
+        "ci saremo svegliati/e",
+        "vi sarete svegliati/e",
+        "si saranno svegliati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi svegli",
+        "ti svegli",
+        "si svegli",
+        "ci svegliamo",
+        "vi svegliate",
+        "si sveglino"
+      ],
+
+      "Imperfetto": [
+        "mi svegliassi",
+        "ti svegliassi",
+        "si svegliasse",
+        "ci svegliassimo",
+        "vi svegliaste",
+        "si svegliassero"
+      ],
+
+      "Passato": [
+        "mi sia svegliato/a",
+        "ti sia svegliato/a",
+        "si sia svegliato/a",
+        "ci siamo svegliati/e",
+        "vi siate svegliati/e",
+        "si siano svegliati/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi svegliato/a",
+        "ti fossi svegliato/a",
+        "si fosse svegliato/a",
+        "ci fossimo svegliati/e",
+        "vi foste svegliati/e",
+        "si fossero svegliati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi sveglierei",
+        "ti sveglieresti",
+        "si sveglierebbe",
+        "ci sveglieremmo",
+        "vi svegliereste",
+        "si sveglierebbero"
+      ],
+
+      "Passato": [
+        "mi sarei svegliato/a",
+        "ti saresti svegliato/a",
+        "si sarebbe svegliato/a",
+        "ci saremmo svegliati/e",
+        "vi sareste svegliati/e",
+        "si sarebbero svegliati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "svegliati",
+        "si svegli",
+        "svegliamoci",
+        "svegliatevi",
+        "si sveglino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "svegliarsi",
+        "essersi svegliato",
+        "svegliantesi",
+        "svegliatosi",
+        "svegliandosi",
+        "essendosi svegliato"
+      ]
+    }
+  }
+},
+{
+  "id": "scappare",
+  "sid": "2026-00235",
+  "word": "scappare",
+  "ipa": "/skapˈpare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞",
+      "it": "verbo intransitivo"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "scappato",
+    "gerundPresent": "scappando",
+    "pattern": "scappare / scappare da un luogo o da qualcuno / scappare di casa / scappare via / qualcosa scappa di mano / mi scappa qualcosa"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "colloquial"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "emergency",
+      "home",
+      "crime",
+      "involuntary_action"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "危険・拘束・追跡などから急いで逃げる",
+      "人・場所・不快な状況などから離れて逃げ出す",
+      "家・学校・施設などから無断で立ち去る",
+      "物が手・容器・制御などから滑り落ちる、逃れる",
+      "笑い・言葉・秘密などが意図せず口から出る",
+      "状況・仕事・感情などが人の制御を離れる",
+      "尿意などの身体的欲求を抑えにくい状態にある",
+      "口語で、急いでその場を立ち去る"
+    ],
+    "it": [
+      "Allontanarsi rapidamente da un pericolo, da una costrizione o da un inseguitore.",
+      "Fuggire da una persona, da un luogo o da una situazione sgradevole.",
+      "Abbandonare senza permesso la propria casa, una scuola o un istituto.",
+      "Sfuggire dalla mano, da un contenitore o da un controllo.",
+      "Uscire involontariamente dalla bocca, riferito a una risata, una parola o un segreto.",
+      "Sfuggire al controllo di qualcuno, riferito a una situazione, un lavoro o un’emozione.",
+      "Essere difficile da trattenere, riferito a un bisogno fisico.",
+      "Nel parlato, andarsene rapidamente da un luogo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "fuggireより日常的・口語的で、危険からの逃走だけでなく、その場から急いで立ち去る場合にも使える。起点・逃げる相手はdaで導き、scappare dalla polizia、scappare da casaと言うが、定型的にはscappare di casaも使う。間接目的語代名詞を伴うmi è scappatoは、物・言葉・反応などが本人の意思に反して「出てしまった」ことを表す。",
+    "it": "È più quotidiano e colloquiale di fuggire e può indicare sia una vera fuga sia il semplice andarsene in fretta. Il luogo o la persona da cui ci si allontana sono normalmente introdotti da da, anche se è comune la locuzione scappare di casa. Nelle costruzioni mi è scappato o mi scappa, qualcosa avviene o esce involontariamente, fuori dal controllo del soggetto."
+  },
+
+  "etymology": {
+    "ja": "俗ラテン語*excappāre（外套から抜け出す）に由来するとされ、ex-（外へ）とcappa（外套、マント）から成る。追跡者につかまれた外套を残して「外套から抜け出す」という具体的な発想から、逃げる一般を表すようになった。フランス語échapper、英語escapeも同じ語源に関係する。",
+    "it": "È ricondotto al latino medievale *excappāre, formato da ex-, «fuori», e cappa, «mantello». L’immagine originaria sarebbe quella di liberarsi lasciando il mantello nelle mani di chi tenta di trattenere. Alla stessa origine sono collegati il francese échapper e l’inglese escape."
+  },
+
+  "minimal": [
+    {
+      "word": "scappare",
+      "ja": "危険・人・場所から急いで逃げる、または物事が意図せず制御を離れる",
+      "it": "allontanarsi rapidamente oppure sfuggire involontariamente al controllo"
+    },
+    {
+      "word": "fuggire",
+      "ja": "危険・敵・拘束などから逃走する、比較的中立的または文章語的な語",
+      "it": "allontanarsi da un pericolo, un nemico o una costrizione, in tono spesso più serio o formale"
+    },
+    {
+      "word": "sfuggire",
+      "ja": "捕捉・理解・記憶・制御などから意図せず逃れる",
+      "it": "sottrarsi a una cattura, alla comprensione, alla memoria o al controllo"
+    },
+    {
+      "word": "evadere",
+      "ja": "刑務所・拘禁施設などから脱走する、または義務・税を不法に免れる",
+      "it": "fuggire da un luogo di detenzione oppure sottrarsi illegalmente a un obbligo"
+    },
+    {
+      "word": "andarsene",
+      "ja": "ある場所を離れて行く、立ち去ることを広く表す",
+      "it": "lasciare un luogo e andare via, senza implicare necessariamente una fuga"
+    }
+  ],
+
+  "synonyms": [
+    "fuggire",
+    "evadere",
+    "andarsene",
+    "dileguarsi",
+    "filarsela",
+    "sfuggire"
+  ],
+
+  "equivalents": {
+    "en": [
+      "run away",
+      "escape",
+      "slip out"
+    ],
+    "de": [
+      "weglaufen",
+      "fliehen",
+      "entwischen"
+    ],
+    "fr": [
+      "s’enfuir",
+      "s’échapper",
+      "filer"
+    ],
+    "es": [
+      "escapar",
+      "huir",
+      "salir corriendo"
+    ]
+  },
+
+  "collocations": [
+    "scappare via",
+    "scappare lontano",
+    "scappare rapidamente",
+    "scappare di corsa",
+    "scappare da qualcuno",
+    "scappare dalla polizia",
+    "scappare da un aggressore",
+    "scappare dal nemico",
+    "scappare da un pericolo",
+    "scappare da una situazione",
+    "scappare da un problema",
+    "scappare di casa",
+    "scappare da casa",
+    "scappare dalla scuola",
+    "scappare dalla prigione",
+    "scappare all’estero",
+    "cercare di scappare",
+    "riuscire a scappare",
+    "tentare di scappare",
+    "impedire a qualcuno di scappare",
+    "lasciare scappare qualcuno",
+    "avere voglia di scappare",
+    "essere costretto a scappare",
+    "scappare senza dire nulla",
+    "scappare al controllo",
+    "scappare di mano",
+    "la situazione scappa di mano",
+    "mi è scappato il bicchiere",
+    "mi è scappata una parola",
+    "mi è scappato un segreto",
+    "mi è scappata una risata",
+    "mi è scappato da ridere",
+    "mi scappa da ridere",
+    "mi scappa la pipì",
+    "devo scappare",
+    "ora scappo",
+    "scappare dopo cena"
+  ],
+
+  "examples": [
+    {
+      "it": "Il ladro è scappato dalla polizia.",
+      "ja": "泥棒は警察から逃げました。"
+    },
+    {
+      "it": "Il bambino ha cercato di scappare di casa.",
+      "ja": "その子供は家出しようとしました。"
+    },
+    {
+      "it": "La situazione ci è scappata di mano.",
+      "ja": "状況は私たちの手に負えなくなりました。"
+    },
+    {
+      "it": "Mi è scappata una risata durante la riunione.",
+      "ja": "会議中、思わず笑ってしまいました。"
+    },
+    {
+      "it": "Scusate, mi scappa la pipì.",
+      "ja": "すみません、お手洗いに行きたいです。"
+    },
+    {
+      "it": "È già tardi: adesso devo scappare.",
+      "ja": "もう遅いので、そろそろ急いで帰らなければなりません。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "scappo",
+        "scappi",
+        "scappa",
+        "scappiamo",
+        "scappate",
+        "scappano"
+      ],
+
+      "Imperfetto": [
+        "scappavo",
+        "scappavi",
+        "scappava",
+        "scappavamo",
+        "scappavate",
+        "scappavano"
+      ],
+
+      "Passato prossimo": [
+        "sono scappato/a",
+        "sei scappato/a",
+        "è scappato/a",
+        "siamo scappati/e",
+        "siete scappati/e",
+        "sono scappati/e"
+      ],
+
+      "Passato remoto": [
+        "scappai",
+        "scappasti",
+        "scappò",
+        "scappammo",
+        "scappaste",
+        "scapparono"
+      ],
+
+      "Trapassato prossimo": [
+        "ero scappato/a",
+        "eri scappato/a",
+        "era scappato/a",
+        "eravamo scappati/e",
+        "eravate scappati/e",
+        "erano scappati/e"
+      ],
+
+      "Trapassato remoto": [
+        "fui scappato/a",
+        "fosti scappato/a",
+        "fu scappato/a",
+        "fummo scappati/e",
+        "foste scappati/e",
+        "furono scappati/e"
+      ],
+
+      "Futuro semplice": [
+        "scapperò",
+        "scapperai",
+        "scapperà",
+        "scapperemo",
+        "scapperete",
+        "scapperanno"
+      ],
+
+      "Futuro anteriore": [
+        "sarò scappato/a",
+        "sarai scappato/a",
+        "sarà scappato/a",
+        "saremo scappati/e",
+        "sarete scappati/e",
+        "saranno scappati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "scappi",
+        "scappi",
+        "scappi",
+        "scappiamo",
+        "scappiate",
+        "scappino"
+      ],
+
+      "Imperfetto": [
+        "scappassi",
+        "scappassi",
+        "scappasse",
+        "scappassimo",
+        "scappaste",
+        "scappassero"
+      ],
+
+      "Passato": [
+        "sia scappato/a",
+        "sia scappato/a",
+        "sia scappato/a",
+        "siamo scappati/e",
+        "siate scappati/e",
+        "siano scappati/e"
+      ],
+
+      "Trapassato": [
+        "fossi scappato/a",
+        "fossi scappato/a",
+        "fosse scappato/a",
+        "fossimo scappati/e",
+        "foste scappati/e",
+        "fossero scappati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "scapperei",
+        "scapperesti",
+        "scapperebbe",
+        "scapperemmo",
+        "scappereste",
+        "scapperebbero"
+      ],
+
+      "Passato": [
+        "sarei scappato/a",
+        "saresti scappato/a",
+        "sarebbe scappato/a",
+        "saremmo scappati/e",
+        "sareste scappati/e",
+        "sarebbero scappati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "scappa",
+        "scappi",
+        "scappiamo",
+        "scappate",
+        "scappino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "scappare",
+        "essere scappato",
+        "scappante",
+        "scappato",
+        "scappando",
+        "essendo scappato"
+      ]
+    }
+  }
+},
+{
+  "id": "sciare",
+  "sid": "2026-00236",
+  "word": "sciare",
+  "ipa": "/ʃiˈare/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞",
+      "it": "verbo intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "sciato",
+    "gerundPresent": "sciando",
+    "pattern": "sciare / sciare su una pista o sulla neve / sciare a o in un luogo / sciare con qualcuno / sciare bene o male"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "sports",
+      "travel",
+      "leisure",
+      "winter"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "スキー板を履いて雪の上を滑る",
+      "スポーツ・娯楽としてスキーをする",
+      "ゲレンデや雪山でアルペンスキーを行う",
+      "クロスカントリースキーなどで雪上を移動する",
+      "競技としてスキーのレースや種目に参加する",
+      "特定の技術・姿勢・速度でスキーを滑る"
+    ],
+    "it": [
+      "Scivolare sulla neve utilizzando un paio di sci.",
+      "Praticare lo sci come sport o attività ricreativa.",
+      "Praticare lo sci alpino su piste o pendii innevati.",
+      "Spostarsi sulla neve praticando lo sci di fondo o discipline simili.",
+      "Partecipare a una gara o a una disciplina sciistica.",
+      "Muoversi sugli sci con una determinata tecnica, postura o velocità."
+    ]
+  },
+
+  "nuance": {
+    "ja": "スキーという活動そのものを表し、通常は目的語を取らない。場所はsciare a Cortina、sciare sulle Alpi、sciare in montagnaのように表す。ゲレンデ外を滑る場合はsciare fuori pista、クロスカントリースキーはfare sci di fondoまたはpraticare lo sci di fondoとも言う。andare a sciareは「スキーをしに行く」という非常によく使われる表現である。",
+    "it": "Indica l’attività dello sci e normalmente non richiede un oggetto diretto. Il luogo può essere espresso con a, in o su: sciare a Cortina, sulle Alpi, in montagna. Sciare fuori pista indica la pratica al di fuori delle piste preparate. Per lo sci di fondo sono comuni anche fare o praticare sci di fondo. Andare a sciare significa recarsi in un luogo per praticare questo sport."
+  },
+
+  "etymology": {
+    "ja": "名詞sci（スキー）から作られた動詞。sciはノルウェー語skiに由来し、これは古ノルド語skíð（割った木片、板）にさかのぼる。もともとスキー板そのものを「細長い木の板」として表した語である。英語ski、ドイツ語Ski、フランス語skiも同じ北欧語を借用している。",
+    "it": "Deriva dal sostantivo sci, prestito dal norvegese ski, a sua volta dall’antico nordico skíð, «pezzo di legno spaccato, asse». Il termine indicava quindi originariamente la lunga tavola di legno usata per muoversi sulla neve. La stessa parola è stata presa in prestito da numerose lingue europee."
+  },
+
+  "minimal": [
+    {
+      "word": "sciare",
+      "ja": "スキー板を使って雪上を滑り、スポーツや移動を行う",
+      "it": "muoversi sulla neve mediante gli sci, per sport, svago o spostamento"
+    },
+    {
+      "word": "pattinare",
+      "ja": "スケート靴を使って氷上または専用の床を滑る",
+      "it": "scivolare sul ghiaccio o su una pista mediante pattini"
+    },
+    {
+      "word": "slittare",
+      "ja": "そりで滑る、または車両などが地面で横滑りする",
+      "it": "scivolare con una slitta oppure perdere aderenza e scorrere lateralmente"
+    },
+    {
+      "word": "scivolare",
+      "ja": "滑りやすい表面で足・物などが滑る",
+      "it": "muoversi senza aderenza su una superficie liscia o scivolosa"
+    },
+    {
+      "word": "fare snowboard",
+      "ja": "一枚のボードを使って雪上を滑る",
+      "it": "scendere sulla neve utilizzando una singola tavola da snowboard"
+    }
+  ],
+
+  "synonyms": [
+    "praticare lo sci",
+    "andare sugli sci",
+    "fare sci",
+    "scendere sugli sci",
+    "slittare",
+    "scivolare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "ski",
+      "go skiing",
+      "ski down"
+    ],
+    "de": [
+      "Ski fahren",
+      "skifahren",
+      "Ski laufen"
+    ],
+    "fr": [
+      "skier",
+      "faire du ski",
+      "descendre à ski"
+    ],
+    "es": [
+      "esquiar",
+      "practicar esquí",
+      "bajar esquiando"
+    ]
+  },
+
+  "collocations": [
+    "sciare bene",
+    "sciare male",
+    "sciare velocemente",
+    "sciare lentamente",
+    "sciare con prudenza",
+    "sciare da soli",
+    "sciare con gli amici",
+    "sciare con la famiglia",
+    "sciare sulla neve",
+    "sciare su una pista",
+    "sciare sulle piste",
+    "sciare in montagna",
+    "sciare sulle Alpi",
+    "sciare a Cortina",
+    "sciare all’estero",
+    "sciare fuori pista",
+    "sciare su neve fresca",
+    "sciare su neve artificiale",
+    "sciare in discesa",
+    "sciare in piano",
+    "sciare per la prima volta",
+    "imparare a sciare",
+    "saper sciare",
+    "non saper sciare",
+    "insegnare a sciare",
+    "cominciare a sciare",
+    "continuare a sciare",
+    "andare a sciare",
+    "voler andare a sciare",
+    "essere capace di sciare",
+    "sciare tutto il giorno",
+    "sciare durante l’inverno",
+    "sciare ogni fine settimana",
+    "sciare a livello professionale",
+    "sciare a livello agonistico",
+    "sciare in sicurezza",
+    "smettere di sciare"
+  ],
+
+  "examples": [
+    {
+      "it": "Mi piace sciare durante l’inverno.",
+      "ja": "私は冬にスキーをするのが好きです。"
+    },
+    {
+      "it": "Hai mai sciato sulle Alpi?",
+      "ja": "アルプスでスキーをしたことがありますか。"
+    },
+    {
+      "it": "I bambini stanno imparando a sciare.",
+      "ja": "子供たちはスキーを習っているところです。"
+    },
+    {
+      "it": "Domani andiamo a sciare con alcuni amici.",
+      "ja": "明日は何人かの友人とスキーに行きます。"
+    },
+    {
+      "it": "Non bisogna sciare fuori pista senza una preparazione adeguata.",
+      "ja": "十分な準備なしにコース外を滑るべきではありません。"
+    },
+    {
+      "it": "Da giovane sciava a livello agonistico.",
+      "ja": "彼女は若いころ、競技レベルでスキーをしていました。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "scio",
+        "scii",
+        "scia",
+        "sciamo",
+        "sciate",
+        "sciano"
+      ],
+
+      "Imperfetto": [
+        "sciavo",
+        "sciavi",
+        "sciava",
+        "sciavamo",
+        "sciavate",
+        "sciavano"
+      ],
+
+      "Passato prossimo": [
+        "ho sciato",
+        "hai sciato",
+        "ha sciato",
+        "abbiamo sciato",
+        "avete sciato",
+        "hanno sciato"
+      ],
+
+      "Passato remoto": [
+        "sciai",
+        "sciasti",
+        "sciò",
+        "sciammo",
+        "sciaste",
+        "sciarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo sciato",
+        "avevi sciato",
+        "aveva sciato",
+        "avevamo sciato",
+        "avevate sciato",
+        "avevano sciato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi sciato",
+        "avesti sciato",
+        "ebbe sciato",
+        "avemmo sciato",
+        "aveste sciato",
+        "ebbero sciato"
+      ],
+
+      "Futuro semplice": [
+        "scierò",
+        "scierai",
+        "scierà",
+        "scieremo",
+        "scierete",
+        "scieranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò sciato",
+        "avrai sciato",
+        "avrà sciato",
+        "avremo sciato",
+        "avrete sciato",
+        "avranno sciato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "scii",
+        "scii",
+        "scii",
+        "sciamo",
+        "sciate",
+        "sciino"
+      ],
+
+      "Imperfetto": [
+        "sciassi",
+        "sciassi",
+        "sciasse",
+        "sciassimo",
+        "sciaste",
+        "sciassero"
+      ],
+
+      "Passato": [
+        "abbia sciato",
+        "abbia sciato",
+        "abbia sciato",
+        "abbiamo sciato",
+        "abbiate sciato",
+        "abbiano sciato"
+      ],
+
+      "Trapassato": [
+        "avessi sciato",
+        "avessi sciato",
+        "avesse sciato",
+        "avessimo sciato",
+        "aveste sciato",
+        "avessero sciato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "scierei",
+        "scieresti",
+        "scierebbe",
+        "scieremmo",
+        "sciereste",
+        "scierebbero"
+      ],
+
+      "Passato": [
+        "avrei sciato",
+        "avresti sciato",
+        "avrebbe sciato",
+        "avremmo sciato",
+        "avreste sciato",
+        "avrebbero sciato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "scia",
+        "scii",
+        "sciamo",
+        "sciate",
+        "sciino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "sciare",
+        "avere sciato",
+        "sciante",
+        "sciato",
+        "sciando",
+        "avendo sciato"
+      ]
+    }
+  }
+},
+{
+  "id": "contare",
+  "sid": "2026-00237",
+  "word": "contare",
+  "ipa": "/konˈtare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "contato",
+    "gerundPresent": "contando",
+    "pattern": "contare qualcosa / contare fino a + numero / qualcosa conta + quantità / contare su qualcuno o qualcosa / contare di + infinito"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "mathematics",
+      "planning",
+      "relationships"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "数を順番に唱える、数える",
+      "人・物・金銭などの個数・数量を調べる",
+      "集団・組織・場所などが一定数の構成員・要素を有する",
+      "人・物・事柄などを計算や予定の中に含める",
+      "人にとって重要である、価値や影響力を持つ",
+      "人・物・能力などを信頼し、頼りにする",
+      "将来、ある行為をする意図・予定を持つ"
+    ],
+    "it": [
+      "Pronunciare i numeri nella loro successione.",
+      "Determinare il numero o la quantità di persone, oggetti o somme di denaro.",
+      "Comprendere un determinato numero di membri o elementi.",
+      "Includere una persona o una cosa in un calcolo, in un gruppo o in un programma.",
+      "Avere importanza, valore, peso o influenza.",
+      "Fare affidamento su una persona, una cosa o una capacità.",
+      "Avere l’intenzione o il progetto di compiere un’azione futura."
+    ]
+  },
+
+  "nuance": {
+    "ja": "直接目的語を取るcontare qualcosaは「何かを数える」。主語が組織・集団の場合、La città conta centomila abitantiのように「～を有する」を表す。自動詞のcontareは「重要である」で、Quello che contaは「重要なのは」。contare suは信頼・依存、contare di + 不定詞は予定・意図を表す。英語countと同様に多義的だが、「計算する」一般にはcalcolareも使われる。",
+    "it": "Con un oggetto diretto significa determinare una quantità. Se il soggetto è un’organizzazione o un luogo, può significare comprendere un certo numero di elementi: la città conta centomila abitanti. Nell’uso assoluto significa avere importanza. Contare su esprime affidamento; contare di più infinito indica un’intenzione o un progetto. Per operazioni matematiche più complesse si usa spesso calcolare."
+  },
+
+  "etymology": {
+    "ja": "ラテン語computāre（計算する、合計する）が俗ラテン語で短縮・変化した形に由来する。computāreはcom-（ともに、まとめて）とputāre（整理する、評価する、計算する）から成る。複数の項目をまとめて評価することから、「数える」の意味が生じた。同じ語族にはconto、contabile、computer、英語computeなどがある。",
+    "it": "Deriva dal latino computāre, attraverso una forma ridotta del latino volgare. Computāre è formato da com-, «insieme», e putāre, «ordinare, valutare, calcolare». Il significato originario era quindi quello di riunire più elementi in un calcolo. Alla stessa famiglia appartengono conto, contabile e computare."
+  },
+
+  "minimal": [
+    {
+      "word": "contare",
+      "ja": "数や数量を調べるほか、重要である、頼りにする、予定することを表す",
+      "it": "determinare una quantità oppure avere importanza, fare affidamento o progettare un’azione"
+    },
+    {
+      "word": "calcolare",
+      "ja": "数式・データなどを用いて結果や数量を算出する",
+      "it": "determinare un risultato numerico mediante operazioni o dati"
+    },
+    {
+      "word": "numerare",
+      "ja": "物・ページ・項目などに順番を示す番号を付ける",
+      "it": "assegnare numeri progressivi a oggetti, pagine o elementi"
+    },
+    {
+      "word": "importare",
+      "ja": "人にとって重要である、関心や価値を持つ",
+      "it": "avere valore, interesse o significato per qualcuno"
+    },
+    {
+      "word": "affidarsi",
+      "ja": "人・能力・手段などを信頼して、その助けに身を委ねる",
+      "it": "riporre fiducia in una persona, una capacità o un mezzo"
+    }
+  ],
+
+  "synonyms": [
+    "calcolare",
+    "enumerare",
+    "comprendere",
+    "includere",
+    "importare",
+    "fare affidamento"
+  ],
+
+  "equivalents": {
+    "en": [
+      "count",
+      "matter",
+      "rely on"
+    ],
+    "de": [
+      "zählen",
+      "wichtig sein",
+      "rechnen mit"
+    ],
+    "fr": [
+      "compter",
+      "avoir de l’importance",
+      "compter sur"
+    ],
+    "es": [
+      "contar",
+      "importar",
+      "contar con"
+    ]
+  },
+
+  "collocations": [
+    "contare i soldi",
+    "contare le persone",
+    "contare gli oggetti",
+    "contare i giorni",
+    "contare i voti",
+    "contare i punti",
+    "contare uno per uno",
+    "contare mentalmente",
+    "contare rapidamente",
+    "contare da uno a dieci",
+    "contare fino a dieci",
+    "saper contare",
+    "imparare a contare",
+    "cominciare a contare",
+    "smettere di contare",
+    "senza contare",
+    "senza contare che",
+    "contare qualcuno tra gli amici",
+    "contare qualcosa nel totale",
+    "un gruppo conta dieci membri",
+    "una città conta molti abitanti",
+    "contare molto",
+    "contare poco",
+    "non contare nulla",
+    "quello che conta",
+    "ogni voto conta",
+    "contare su qualcuno",
+    "contare sull’aiuto di qualcuno",
+    "contare sul proprio lavoro",
+    "contare sulle proprie forze",
+    "poter contare su",
+    "non poter contare su",
+    "contare di partire",
+    "contare di finire presto",
+    "contare di fare qualcosa",
+    "contare tra i migliori",
+    "giorni contati"
+  ],
+
+  "examples": [
+    {
+      "it": "Il bambino sa già contare fino a cento.",
+      "ja": "その子供はもう100まで数えられます。"
+    },
+    {
+      "it": "Ho contato i soldi due volte.",
+      "ja": "私はお金を2回数えました。"
+    },
+    {
+      "it": "La città conta circa cinquantamila abitanti.",
+      "ja": "その町の人口は約5万人です。"
+    },
+    {
+      "it": "La tua opinione conta molto per me.",
+      "ja": "あなたの意見は私にとって非常に重要です。"
+    },
+    {
+      "it": "Puoi sempre contare sul mio aiuto.",
+      "ja": "いつでも私の助けを頼りにして構いません。"
+    },
+    {
+      "it": "Conto di finire il lavoro entro domani.",
+      "ja": "私は明日までに仕事を終えるつもりです。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "conto",
+        "conti",
+        "conta",
+        "contiamo",
+        "contate",
+        "contano"
+      ],
+
+      "Imperfetto": [
+        "contavo",
+        "contavi",
+        "contava",
+        "contavamo",
+        "contavate",
+        "contavano"
+      ],
+
+      "Passato prossimo": [
+        "ho contato",
+        "hai contato",
+        "ha contato",
+        "abbiamo contato",
+        "avete contato",
+        "hanno contato"
+      ],
+
+      "Passato remoto": [
+        "contai",
+        "contasti",
+        "contò",
+        "contammo",
+        "contaste",
+        "contarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo contato",
+        "avevi contato",
+        "aveva contato",
+        "avevamo contato",
+        "avevate contato",
+        "avevano contato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi contato",
+        "avesti contato",
+        "ebbe contato",
+        "avemmo contato",
+        "aveste contato",
+        "ebbero contato"
+      ],
+
+      "Futuro semplice": [
+        "conterò",
+        "conterai",
+        "conterà",
+        "conteremo",
+        "conterete",
+        "conteranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò contato",
+        "avrai contato",
+        "avrà contato",
+        "avremo contato",
+        "avrete contato",
+        "avranno contato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "conti",
+        "conti",
+        "conti",
+        "contiamo",
+        "contiate",
+        "contino"
+      ],
+
+      "Imperfetto": [
+        "contassi",
+        "contassi",
+        "contasse",
+        "contassimo",
+        "contaste",
+        "contassero"
+      ],
+
+      "Passato": [
+        "abbia contato",
+        "abbia contato",
+        "abbia contato",
+        "abbiamo contato",
+        "abbiate contato",
+        "abbiano contato"
+      ],
+
+      "Trapassato": [
+        "avessi contato",
+        "avessi contato",
+        "avesse contato",
+        "avessimo contato",
+        "aveste contato",
+        "avessero contato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "conterei",
+        "conteresti",
+        "conterebbe",
+        "conteremmo",
+        "contereste",
+        "conterebbero"
+      ],
+
+      "Passato": [
+        "avrei contato",
+        "avresti contato",
+        "avrebbe contato",
+        "avremmo contato",
+        "avreste contato",
+        "avrebbero contato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "conta",
+        "conti",
+        "contiamo",
+        "contate",
+        "contino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "contare",
+        "avere contato",
+        "contante",
+        "contato",
+        "contando",
+        "avendo contato"
+      ]
+    }
+  }
+},
+{
+  "id": "costruire",
+  "sid": "2026-00238",
+  "word": "costruire",
+  "ipa": "/koˈstruire/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "costruito",
+    "gerundPresent": "costruendo",
+    "pattern": "costruire qualcosa / costruire qualcosa con o in un materiale / costruire qualcosa su una base / costruire qualcosa per qualcuno / costruire una relazione, una teoria o un futuro"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "construction",
+      "business",
+      "education",
+      "relationships"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "材料や部品を組み合わせて建物・構造物などを造る",
+      "機械・道具・製品などを組み立てて製造する",
+      "道路・橋・都市・設備などを整備する",
+      "関係・信頼・評判・経歴などを時間をかけて築く",
+      "理論・議論・計画・制度などを体系的に組み立てる",
+      "文章・文・図形・模型などを一定の規則に従って作る",
+      "将来・社会・生活などを努力によって形成する"
+    ],
+    "it": [
+      "Realizzare un edificio o una struttura unendo materiali e componenti.",
+      "Fabbricare una macchina, uno strumento o un prodotto assemblandone le parti.",
+      "Realizzare infrastrutture come strade, ponti, città o impianti.",
+      "Sviluppare nel tempo una relazione, la fiducia, una reputazione o una carriera.",
+      "Elaborare sistematicamente una teoria, un’argomentazione, un piano o un sistema.",
+      "Formare una frase, una figura geometrica o un modello seguendo determinate regole.",
+      "Creare attraverso il proprio impegno un futuro, una società o una vita."
+    ]
+  },
+
+  "nuance": {
+    "ja": "複数の材料・要素・段階を組み合わせ、ある全体を形作るという発想が中心にある。建物にはedificareも使えるが、costruireは建物以外の機械・制度・関係・議論などにも広く使える。fabbricareは工業製品などの製造に焦点があり、creareは新しいものを生み出すこと一般を表す。抽象的な目的語では、継続的・段階的な形成を感じさせる。",
+    "it": "L’idea centrale è quella di unire materiali, elementi o fasi per formare un insieme organizzato. Edificare si usa soprattutto per edifici; costruire ha un’estensione molto maggiore e comprende macchine, sistemi, relazioni e argomentazioni. Fabbricare mette in rilievo la produzione materiale, spesso industriale; creare indica più generalmente il dare origine a qualcosa di nuovo. Con oggetti astratti suggerisce spesso uno sviluppo graduale."
+  },
+
+  "etymology": {
+    "ja": "ラテン語construere（積み上げる、組み立てる）に由来し、con-（ともに）とstruere（積み重ねる、並べる）から成る。複数の要素を「一緒に積み上げる」ことが語源的な意味である。同じ語族にはcostruzione、struttura、distruggere、istruire、英語constructやstructureなどがある。",
+    "it": "Dal latino construere, formato da con-, «insieme», e struere, «ammucchiare, disporre a strati». Il significato etimologico è quindi quello di riunire e disporre più elementi in una struttura. Alla stessa famiglia appartengono costruzione, struttura, distruggere e istruire."
+  },
+
+  "minimal": [
+    {
+      "word": "costruire",
+      "ja": "複数の材料・要素を組み合わせ、具体物または抽象的な全体を形作る",
+      "it": "unire materiali o elementi per formare una struttura concreta o un insieme astratto"
+    },
+    {
+      "word": "edificare",
+      "ja": "住宅・建物などを建設する、比較的建築物に限定された語",
+      "it": "costruire un edificio o una struttura architettonica"
+    },
+    {
+      "word": "fabbricare",
+      "ja": "材料を加工して製品・部品などを製造する",
+      "it": "produrre materialmente oggetti o componenti, spesso in modo industriale"
+    },
+    {
+      "word": "creare",
+      "ja": "それまで存在しなかった物・作品・状態などを生み出す",
+      "it": "dare origine a qualcosa di nuovo che prima non esisteva"
+    },
+    {
+      "word": "sviluppare",
+      "ja": "計画・能力・関係などを段階的に成長・発展させる",
+      "it": "far crescere e progredire gradualmente un progetto, una capacità o una relazione"
+    }
+  ],
+
+  "synonyms": [
+    "edificare",
+    "fabbricare",
+    "realizzare",
+    "creare",
+    "formare",
+    "elaborare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "build",
+      "construct",
+      "develop"
+    ],
+    "de": [
+      "bauen",
+      "konstruieren",
+      "aufbauen"
+    ],
+    "fr": [
+      "construire",
+      "bâtir",
+      "élaborer"
+    ],
+    "es": [
+      "construir",
+      "edificar",
+      "elaborar"
+    ]
+  },
+
+  "collocations": [
+    "costruire una casa",
+    "costruire un edificio",
+    "costruire un muro",
+    "costruire un ponte",
+    "costruire una strada",
+    "costruire una città",
+    "costruire una scuola",
+    "costruire una fabbrica",
+    "costruire una macchina",
+    "costruire un robot",
+    "costruire un modello",
+    "costruire un mobile",
+    "costruire con il legno",
+    "costruire in pietra",
+    "costruire in cemento",
+    "costruire su un terreno",
+    "costruire su solide fondamenta",
+    "costruire da zero",
+    "costruire a mano",
+    "costruire rapidamente",
+    "costruire con cura",
+    "cominciare a costruire",
+    "finire di costruire",
+    "far costruire qualcosa",
+    "costruire una relazione",
+    "costruire un rapporto",
+    "costruire la fiducia",
+    "costruire una reputazione",
+    "costruire una carriera",
+    "costruire il proprio futuro",
+    "costruire una nuova vita",
+    "costruire una società",
+    "costruire la pace",
+    "costruire un’alleanza",
+    "costruire una teoria",
+    "costruire un’argomentazione",
+    "costruire un discorso",
+    "costruire una frase",
+    "costruire un piano",
+    "costruire una figura geometrica"
+  ],
+
+  "examples": [
+    {
+      "it": "Stanno costruendo una nuova scuola.",
+      "ja": "彼らは新しい学校を建設しています。"
+    },
+    {
+      "it": "Il ponte è stato costruito più di cento anni fa.",
+      "ja": "その橋は100年以上前に建設されました。"
+    },
+    {
+      "it": "Mio nonno ha costruito questo tavolo a mano.",
+      "ja": "祖父はこのテーブルを手作りしました。"
+    },
+    {
+      "it": "È necessario costruire un rapporto di fiducia con i clienti.",
+      "ja": "顧客との信頼関係を築く必要があります。"
+    },
+    {
+      "it": "Ha costruito la sua carriera con pazienza e impegno.",
+      "ja": "彼女は忍耐と努力によって自分の経歴を築きました。"
+    },
+    {
+      "it": "Gli studenti devono costruire una frase usando queste parole.",
+      "ja": "学生はこれらの単語を使って文を作らなければなりません。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "costruisco",
+        "costruisci",
+        "costruisce",
+        "costruiamo",
+        "costruite",
+        "costruiscono"
+      ],
+
+      "Imperfetto": [
+        "costruivo",
+        "costruivi",
+        "costruiva",
+        "costruivamo",
+        "costruivate",
+        "costruivano"
+      ],
+
+      "Passato prossimo": [
+        "ho costruito",
+        "hai costruito",
+        "ha costruito",
+        "abbiamo costruito",
+        "avete costruito",
+        "hanno costruito"
+      ],
+
+      "Passato remoto": [
+        "costruii",
+        "costruisti",
+        "costruì",
+        "costruimmo",
+        "costruiste",
+        "costruirono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo costruito",
+        "avevi costruito",
+        "aveva costruito",
+        "avevamo costruito",
+        "avevate costruito",
+        "avevano costruito"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi costruito",
+        "avesti costruito",
+        "ebbe costruito",
+        "avemmo costruito",
+        "aveste costruito",
+        "ebbero costruito"
+      ],
+
+      "Futuro semplice": [
+        "costruirò",
+        "costruirai",
+        "costruirà",
+        "costruiremo",
+        "costruirete",
+        "costruiranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò costruito",
+        "avrai costruito",
+        "avrà costruito",
+        "avremo costruito",
+        "avrete costruito",
+        "avranno costruito"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "costruisca",
+        "costruisca",
+        "costruisca",
+        "costruiamo",
+        "costruiate",
+        "costruiscano"
+      ],
+
+      "Imperfetto": [
+        "costruissi",
+        "costruissi",
+        "costruisse",
+        "costruissimo",
+        "costruiste",
+        "costruissero"
+      ],
+
+      "Passato": [
+        "abbia costruito",
+        "abbia costruito",
+        "abbia costruito",
+        "abbiamo costruito",
+        "abbiate costruito",
+        "abbiano costruito"
+      ],
+
+      "Trapassato": [
+        "avessi costruito",
+        "avessi costruito",
+        "avesse costruito",
+        "avessimo costruito",
+        "aveste costruito",
+        "avessero costruito"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "costruirei",
+        "costruiresti",
+        "costruirebbe",
+        "costruiremmo",
+        "costruireste",
+        "costruirebbero"
+      ],
+
+      "Passato": [
+        "avrei costruito",
+        "avresti costruito",
+        "avrebbe costruito",
+        "avremmo costruito",
+        "avreste costruito",
+        "avrebbero costruito"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "costruisci",
+        "costruisca",
+        "costruiamo",
+        "costruite",
+        "costruiscano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "costruire",
+        "avere costruito",
+        "costruente",
+        "costruito",
+        "costruendo",
+        "avendo costruito"
+      ]
+    }
+  }
+},
+{
+  "id": "disperare",
+  "sid": "2026-00239",
+  "word": "disperare",
+  "ipa": "/dispeˈrare/",
+  "level": "B2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "disperato",
+    "gerundPresent": "disperando",
+    "pattern": "disperare / disperare di + infinito / disperare di qualcuno o qualcosa / disperare che + congiuntivo / non disperare"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "emotion",
+      "difficulty",
+      "literature",
+      "religion"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "望んでいる結果が得られる希望を失う、絶望する",
+      "ある行為に成功できないと考える",
+      "人の回復・改善・成功などへの期待を失う",
+      "状況がよくなる可能性はないと判断する",
+      "古風・文章語で、人を絶望させる",
+      "宗教的文脈で、救済や神の慈悲への希望を失う"
+    ],
+    "it": [
+      "Perdere la speranza che si realizzi un risultato desiderato.",
+      "Ritenere di non poter riuscire a compiere una determinata azione.",
+      "Perdere la fiducia nella guarigione, nel miglioramento o nel successo di qualcuno.",
+      "Considerare una situazione priva di possibilità favorevoli.",
+      "In un uso antico o letterario, privare qualcuno della speranza.",
+      "In ambito religioso, perdere la speranza nella salvezza o nella misericordia divina."
+    ]
+  },
+
+  "nuance": {
+    "ja": "将来の好ましい結果に対する希望・期待を失うという認知的な側面に重点がある。disperare di riuscireは「成功できる望みを失う」。一方、disperarsiは絶望して激しく苦しむ、取り乱すという感情や行動に焦点を置く。現代語では否定命令Non disperare!「諦めないで」が特によく使われる。disperare che + 接続法は可能だが、日常語ではtemere cheやnon avere speranza cheのほうが自然な場合も多い。",
+    "it": "Mette in rilievo soprattutto la perdita della speranza in un risultato futuro: disperare di riuscire significa non credere più nel successo. Disperarsi sottolinea invece lo stato emotivo intenso e talvolta il comportamento agitato di chi è senza speranza. Nell’uso moderno è particolarmente comune l’imperativo negativo non disperare. La costruzione disperare che con il congiuntivo è possibile, ma spesso è sostituita da temere che o non avere speranza che."
+  },
+
+  "etymology": {
+    "ja": "ラテン語dēspērāre（希望を失う、絶望する）に由来し、dē-（離れて、欠如して）とspērāre（希望する）から成る。語源的には「希望から離れる」ことを表す。同じ語族にはsperare、speranza、disperazione、disperato、英語despairなどがある。",
+    "it": "Dal latino dēspērāre, formato da dē-, con valore di allontanamento o privazione, e spērāre, «sperare». Il significato etimologico è quindi quello di allontanarsi dalla speranza o perderla. Alla stessa famiglia appartengono speranza, disperazione e disperato."
+  },
+
+  "minimal": [
+    {
+      "word": "disperare",
+      "ja": "望ましい結果が実現する希望を失う",
+      "it": "perdere la speranza che un risultato favorevole possa realizzarsi"
+    },
+    {
+      "word": "disperarsi",
+      "ja": "希望を失って激しく苦しむ、取り乱す",
+      "it": "provare una disperazione intensa e manifestarla emotivamente"
+    },
+    {
+      "word": "scoraggiarsi",
+      "ja": "困難や失敗によって自信・意欲を失う",
+      "it": "perdere fiducia ed entusiasmo davanti a difficoltà o insuccessi"
+    },
+    {
+      "word": "arrendersi",
+      "ja": "抵抗・闘い・努力をやめ、敗北を認める",
+      "it": "cessare di combattere o resistere e riconoscersi vinti"
+    },
+    {
+      "word": "rassegnarsi",
+      "ja": "変えられない不本意な状況を仕方なく受け入れる",
+      "it": "accettare controvoglia una realtà considerata inevitabile"
+    }
+  ],
+
+  "synonyms": [
+    "perdere la speranza",
+    "scoraggiarsi",
+    "sfiduciarsi",
+    "temere",
+    "non sperare più",
+    "dare per perduto"
+  ],
+
+  "equivalents": {
+    "en": [
+      "despair",
+      "lose hope",
+      "give up hope"
+    ],
+    "de": [
+      "verzweifeln",
+      "die Hoffnung verlieren",
+      "verzagen"
+    ],
+    "fr": [
+      "désespérer",
+      "perdre espoir",
+      "ne plus espérer"
+    ],
+    "es": [
+      "desesperar",
+      "perder la esperanza",
+      "desconfiar"
+    ]
+  },
+
+  "collocations": [
+    "disperare completamente",
+    "disperare troppo presto",
+    "cominciare a disperare",
+    "avere motivo di disperare",
+    "non avere motivo di disperare",
+    "non voler disperare",
+    "non bisogna disperare",
+    "non disperare mai",
+    "non disperare ancora",
+    "disperare di qualcosa",
+    "disperare della riuscita",
+    "disperare della vittoria",
+    "disperare della salvezza",
+    "disperare della guarigione",
+    "disperare del futuro",
+    "disperare di qualcuno",
+    "disperare di un paziente",
+    "disperare di riuscire",
+    "disperare di vincere",
+    "disperare di trovare qualcosa",
+    "disperare di ottenere un risultato",
+    "disperare di arrivare in tempo",
+    "disperare di poter cambiare la situazione",
+    "disperare che qualcosa accada",
+    "far disperare qualcuno",
+    "essere sul punto di disperare",
+    "finire per disperare",
+    "senza disperare",
+    "continuare senza disperare",
+    "non disperare di trovare una soluzione",
+    "disperare della misericordia divina",
+    "disperare della provvidenza",
+    "non disperare della possibilità",
+    "non far disperare qualcuno"
+  ],
+
+  "examples": [
+    {
+      "it": "Non disperare: troveremo una soluzione.",
+      "ja": "諦めないでください。解決策は見つかります。"
+    },
+    {
+      "it": "Cominciavo a disperare di poterlo ritrovare.",
+      "ja": "私はそれを見つけ出せる望みを失いかけていました。"
+    },
+    {
+      "it": "Nonostante le difficoltà, non ha mai disperato della vittoria.",
+      "ja": "困難にもかかわらず、彼は勝利への希望を決して失いませんでした。"
+    },
+    {
+      "it": "I medici non disperano della sua guarigione.",
+      "ja": "医師たちは彼の回復への希望を失っていません。"
+    },
+    {
+      "it": "Non c’è motivo di disperare così presto.",
+      "ja": "こんなに早く絶望する理由はありません。"
+    },
+    {
+      "it": "Aveva quasi disperato di arrivare in tempo.",
+      "ja": "彼女は時間どおりに到着できる望みをほとんど失っていました。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "dispero",
+        "disperi",
+        "dispera",
+        "disperiamo",
+        "disperate",
+        "disperano"
+      ],
+
+      "Imperfetto": [
+        "disperavo",
+        "disperavi",
+        "disperava",
+        "disperavamo",
+        "disperavate",
+        "disperavano"
+      ],
+
+      "Passato prossimo": [
+        "ho disperato",
+        "hai disperato",
+        "ha disperato",
+        "abbiamo disperato",
+        "avete disperato",
+        "hanno disperato"
+      ],
+
+      "Passato remoto": [
+        "disperai",
+        "disperasti",
+        "disperò",
+        "disperammo",
+        "disperaste",
+        "disperarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo disperato",
+        "avevi disperato",
+        "aveva disperato",
+        "avevamo disperato",
+        "avevate disperato",
+        "avevano disperato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi disperato",
+        "avesti disperato",
+        "ebbe disperato",
+        "avemmo disperato",
+        "aveste disperato",
+        "ebbero disperato"
+      ],
+
+      "Futuro semplice": [
+        "dispererò",
+        "dispererai",
+        "dispererà",
+        "dispereremo",
+        "dispererete",
+        "dispereranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò disperato",
+        "avrai disperato",
+        "avrà disperato",
+        "avremo disperato",
+        "avrete disperato",
+        "avranno disperato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "disperi",
+        "disperi",
+        "disperi",
+        "disperiamo",
+        "disperiate",
+        "disperino"
+      ],
+
+      "Imperfetto": [
+        "disperassi",
+        "disperassi",
+        "disperasse",
+        "disperassimo",
+        "disperaste",
+        "disperassero"
+      ],
+
+      "Passato": [
+        "abbia disperato",
+        "abbia disperato",
+        "abbia disperato",
+        "abbiamo disperato",
+        "abbiate disperato",
+        "abbiano disperato"
+      ],
+
+      "Trapassato": [
+        "avessi disperato",
+        "avessi disperato",
+        "avesse disperato",
+        "avessimo disperato",
+        "aveste disperato",
+        "avessero disperato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "dispererei",
+        "dispereresti",
+        "dispererebbe",
+        "dispereremmo",
+        "disperereste",
+        "dispererebbero"
+      ],
+
+      "Passato": [
+        "avrei disperato",
+        "avresti disperato",
+        "avrebbe disperato",
+        "avremmo disperato",
+        "avreste disperato",
+        "avrebbero disperato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "dispera",
+        "disperi",
+        "disperiamo",
+        "disperate",
+        "disperino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "disperare",
+        "avere disperato",
+        "disperante",
+        "disperato",
+        "disperando",
+        "avendo disperato"
+      ]
+    }
+  }
 }
 ]
