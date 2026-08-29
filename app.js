@@ -635,11 +635,11 @@ Promise.all(
     render();
   })
   .catch(error => {
-    console.error(error);
+  console.error(error);
 
-    $("#status").textContent =
-      "データを読み込めませんでした。GitHub Pagesから開いてください。";
-  });
+  $("#status").textContent =
+    `データ読み込みエラー: ${error.message}`;
+});
 
 if (
   "serviceWorker" in navigator &&
