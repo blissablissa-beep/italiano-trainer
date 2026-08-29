@@ -1,4 +1,4 @@
-const CACHE_NAME = "italiano-trainer-v2";
+const CACHE_NAME = "italiano-trainer-v3";
 
 const ASSETS = [
   "./",
