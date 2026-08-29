@@ -4466,28 +4466,29 @@
   }
 },
 {
-  "id": "frequentare",
+  "id": "urlare",
   "sid": "2026-00135",
-  "word": "frequentare",
-  "ipa": "/frekwenˈtare/",
+  "word": "urlare",
+  "ipa": "/urˈlare/",
   "level": "A2",
-  "frequency": "very_common",
+  "frequency": "common",
 
   "grammar": {
     "pos": "verb",
     "label": {
-      "ja": "他動詞",
-      "it": "verbo transitivo"
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
     },
     "auxiliary": "avere",
-    "pastParticiple": "frequentato",
-    "gerundPresent": "frequentando",
-    "pattern": "frequentare + luogo, corso o persona / frequentarsi con qualcuno"
+    "pastParticiple": "urlato",
+    "gerundPresent": "urlando",
+    "pattern": "urlare / urlare a o contro qualcuno / urlare qualcosa / urlare che + frase / urlare per o dal dolore, dalla paura o dalla rabbia"
   },
 
   "usage": {
     "register": [
-      "neutral"
+      "neutral",
+      "informal"
     ],
     "medium": [
       "spoken",
@@ -4495,290 +4496,318 @@
     ],
     "situations": [
       "conversation",
-      "education",
-      "social",
-      "business"
+      "emotion",
+      "conflict",
+      "emergency",
+      "communication"
     ]
   },
 
   "meaning": {
     "ja": [
-      "学校・講座・授業などに通う、受講する",
-      "場所へ定期的または頻繁に通う",
-      "人と付き合う、交流する",
-      "人と恋愛関係を前提に交際する",
-      "特定の集団・環境に出入りする"
+      "非常に大きく激しい声を出す、叫ぶ",
+      "遠くにいる人や騒音の中にいる人へ大声で呼びかける",
+      "怒りながら人に大声で話す、怒鳴る",
+      "恐怖・苦痛・驚きなどによって悲鳴を上げる",
+      "言葉・命令・要求などを大声で発する",
+      "動物や機械などが叫び声のような激しい音を出す"
     ],
     "it": [
-      "Seguire regolarmente una scuola, un corso o delle lezioni.",
-      "Recarsi abitualmente o spesso in un determinato luogo.",
-      "Avere rapporti sociali regolari con una persona o un gruppo.",
-      "Avere una relazione sentimentale o conoscersi in vista di essa.",
-      "Far parte abitualmente di un determinato ambiente sociale o culturale."
+      "Emettere una voce molto forte e intensa.",
+      "Chiamare ad alta voce una persona lontana o in mezzo al rumore.",
+      "Parlare aggressivamente a qualcuno alzando molto la voce.",
+      "Emettere grida a causa della paura, del dolore o della sorpresa.",
+      "Pronunciare ad alta voce parole, ordini, richieste o proteste.",
+      "Produrre un suono forte e simile a un grido, riferito a un animale o a una macchina."
     ]
   },
 
   "nuance": {
-    "ja": "一度だけ訪れるのではなく、ある場所・授業・人物と継続的または反復的に接触することを表す。frequentare una scuolaは、建物を訪問するのではなく「その学校に通う」という意味である。人を目的語にすると、単なる交流から恋愛上の交際まで表せるため、意味は文脈によって決まる。",
-    "it": "Indica un rapporto abituale o ripetuto con un luogo, un’attività, una persona o un ambiente. Frequentare una scuola significa seguirne regolarmente le lezioni, non semplicemente visitarla. Con una persona può indicare una normale relazione sociale oppure, secondo il contesto, una relazione sentimentale."
+    "ja": "単に声量を上げるalzare la voceよりも強く、感情的で制御されていない叫び声を表しやすい。gridareとは多くの場合同義だが、urlareは怒り・恐怖・苦痛などによる、より激しく耳障りな声を感じさせることが多い。相手はurlare a qualcunoまたはurlare contro qualcuno、叫んだ内容は直接目的語またはche節で表せる。",
+    "it": "È più intenso del semplice alzare la voce e suggerisce spesso un grido emotivo, violento o poco controllato. È frequentemente sinonimo di gridare, ma urlare richiama più facilmente una voce molto forte e aspra dovuta a rabbia, paura o dolore. La persona può essere introdotta da a o contro; le parole pronunciate possono essere espresse mediante un oggetto diretto o una frase introdotta da che."
   },
 
   "etymology": {
-    "ja": "ラテン語 frequentāre（頻繁に訪れる、多数で満たす）に由来し、形容詞frequens（多数の、頻繁な、人の多い）から形成された。同じ語族にはfrequente、frequenza、frequentazioneなどがある。",
-    "it": "Dal latino frequentāre, «visitare spesso, rendere affollato», derivato da frequens, «numeroso, assiduo, frequente». Alla stessa famiglia appartengono frequente, frequenza e frequentazione."
+    "ja": "ラテン語ululāre（遠吠えする、泣き叫ぶ）に由来し、動物の遠吠えや人の悲痛な叫びを模した擬声的な語と考えられる。語中の音が変化して、イタリア語のurlareとなった。同じ語族にはululare（遠吠えする）、urlo（叫び声）、urlatore（大声で叫ぶ人）などがある。",
+    "it": "Deriva dal latino ululāre, «ululare, emettere grida lamentose», verbo di origine onomatopeica che imitava il verso degli animali o un grido umano prolungato. Attraverso mutamenti fonetici si è sviluppata la forma italiana urlare. Alla stessa famiglia appartengono urlo, urlatore e ululare."
   },
 
   "minimal": [
     {
-      "word": "frequentare",
-      "ja": "場所・授業・人などと継続的または反復的に関わる",
-      "it": "avere un rapporto abituale e ripetuto con un luogo, un’attività o una persona"
+      "word": "urlare",
+      "ja": "怒り・恐怖・苦痛などによって、非常に大きく激しい声を出す",
+      "it": "emettere una voce molto forte e intensa, spesso per rabbia, paura o dolore"
     },
     {
-      "word": "visitare",
-      "ja": "場所や人のもとを、特定の機会に訪れる",
-      "it": "recarsi presso una persona o un luogo in una determinata occasione"
+      "word": "gridare",
+      "ja": "大声を出す、叫ぶことを広く表し、呼びかけや命令にも使う",
+      "it": "emettere una voce forte per chiamare, protestare, ordinare o esprimere un’emozione"
     },
     {
-      "word": "partecipare",
-      "ja": "行事・会議・活動などに参加して、その一員となる",
-      "it": "prendere parte a un evento, una riunione o un’attività"
+      "word": "strillare",
+      "ja": "甲高く耳障りな声で叫ぶ、金切り声を上げる",
+      "it": "gridare con una voce molto acuta, penetrante e spesso sgradevole"
+    },
+    {
+      "word": "esclamare",
+      "ja": "驚き・喜びなどを込めて言葉を発する、必ずしも大声ではない",
+      "it": "pronunciare delle parole con particolare emozione, senza implicare necessariamente un volume molto alto"
+    },
+    {
+      "word": "alzare la voce",
+      "ja": "通常より声を大きくする、怒鳴るほど激しいとは限らない",
+      "it": "parlare con un volume superiore al normale, senza necessariamente arrivare a urlare"
     }
   ],
 
   "synonyms": [
-    "seguire",
-    "assistere a",
-    "andare abitualmente",
-    "vedere",
-    "praticare"
+    "gridare",
+    "strillare",
+    "sbraitare",
+    "vociferare",
+    "strepitare",
+    "alzare la voce"
   ],
 
   "equivalents": {
     "en": [
-      "attend",
-      "frequent",
-      "date"
+      "shout",
+      "yell",
+      "scream"
     ],
     "de": [
-      "besuchen",
-      "verkehren mit",
-      "mit jemandem ausgehen"
+      "schreien",
+      "brüllen",
+      "herumschreien"
     ],
     "fr": [
-      "fréquenter",
-      "suivre",
-      "sortir avec"
+      "crier",
+      "hurler",
+      "vociférer"
     ],
     "es": [
-      "frecuentar",
-      "asistir a",
-      "salir con"
+      "gritar",
+      "chillar",
+      "vociferar"
     ]
   },
 
   "collocations": [
-    "frequentare una scuola",
-    "frequentare l’università",
-    "frequentare un corso",
-    "frequentare le lezioni",
-    "frequentare il primo anno",
-    "frequentare regolarmente",
-    "frequentare assiduamente",
-    "frequentare una palestra",
-    "frequentare una biblioteca",
-    "frequentare un locale",
-    "frequentare un ristorante",
-    "frequentare un ambiente",
-    "frequentare un gruppo",
-    "frequentare gli amici",
-    "frequentare qualcuno",
-    "frequentare una ragazza",
-    "frequentare un ragazzo",
-    "cominciare a frequentare qualcuno",
-    "smettere di frequentare qualcuno",
-    "persone che si frequentano"
+    "urlare forte",
+    "urlare a squarciagola",
+    "urlare con tutte le proprie forze",
+    "urlare disperatamente",
+    "urlare improvvisamente",
+    "urlare continuamente",
+    "urlare a qualcuno",
+    "urlare contro qualcuno",
+    "urlare contro i figli",
+    "urlare contro un collega",
+    "urlare in faccia a qualcuno",
+    "urlare il nome di qualcuno",
+    "urlare un ordine",
+    "urlare una minaccia",
+    "urlare una risposta",
+    "urlare aiuto",
+    "urlare che",
+    "urlare di smettere",
+    "urlare di fare silenzio",
+    "urlare per la rabbia",
+    "urlare per la paura",
+    "urlare per la gioia",
+    "urlare dal dolore",
+    "urlare dalla paura",
+    "urlare dalla disperazione",
+    "cominciare a urlare",
+    "continuare a urlare",
+    "smettere di urlare",
+    "sentire qualcuno urlare",
+    "mettersi a urlare",
+    "non c’è bisogno di urlare",
+    "urlare senza motivo",
+    "urlare come un pazzo",
+    "urlare fino a perdere la voce"
   ],
 
   "examples": [
     {
-      "it": "Frequento un corso di italiano due volte alla settimana.",
-      "ja": "私は週に2回イタリア語講座に通っている。"
+      "it": "Non c’è bisogno di urlare: ti sento benissimo.",
+      "ja": "叫ぶ必要はありません。よく聞こえています。"
     },
     {
-      "it": "Mia figlia frequenta ancora l’università.",
-      "ja": "私の娘はまだ大学に通っている。"
+      "it": "Ha urlato il mio nome dall’altra parte della strada.",
+      "ja": "彼は道路の反対側から私の名前を大声で呼びました。"
     },
     {
-      "it": "Abbiamo frequentato spesso quel ristorante.",
-      "ja": "私たちはそのレストランによく通った。"
+      "it": "Il direttore ha urlato contro i dipendenti.",
+      "ja": "その責任者は従業員たちを怒鳴りつけました。"
     },
     {
-      "it": "Da quanto tempo frequenti Marco?",
-      "ja": "マルコとはどのくらい前から付き合っているのですか。"
+      "it": "La bambina ha cominciato a urlare dalla paura.",
+      "ja": "その女の子は恐怖のあまり叫び始めました。"
     },
     {
-      "it": "Non frequento più quel gruppo.",
-      "ja": "私はもうそのグループとは付き合っていない。"
+      "it": "Gli ha urlato di uscire immediatamente.",
+      "ja": "彼女は彼にすぐ出て行くよう怒鳴りました。"
     },
     {
-      "it": "È importante frequentare regolarmente le lezioni.",
-      "ja": "授業に定期的に出席することが重要だ。"
+      "it": "Ho sentito qualcuno urlare aiuto.",
+      "ja": "誰かが助けを求めて叫ぶのが聞こえました。"
     }
   ],
 
   "conjugations": {
     "Indicativo": {
       "Presente": [
-        "frequento",
-        "frequenti",
-        "frequenta",
-        "frequentiamo",
-        "frequentate",
-        "frequentano"
+        "urlo",
+        "urli",
+        "urla",
+        "urliamo",
+        "urlate",
+        "urlano"
       ],
 
       "Imperfetto": [
-        "frequentavo",
-        "frequentavi",
-        "frequentava",
-        "frequentavamo",
-        "frequentavate",
-        "frequentavano"
+        "urlavo",
+        "urlavi",
+        "urlava",
+        "urlavamo",
+        "urlavate",
+        "urlavano"
       ],
 
       "Passato prossimo": [
-        "ho frequentato",
-        "hai frequentato",
-        "ha frequentato",
-        "abbiamo frequentato",
-        "avete frequentato",
-        "hanno frequentato"
+        "ho urlato",
+        "hai urlato",
+        "ha urlato",
+        "abbiamo urlato",
+        "avete urlato",
+        "hanno urlato"
       ],
 
       "Passato remoto": [
-        "frequentai",
-        "frequentasti",
-        "frequentò",
-        "frequentammo",
-        "frequentaste",
-        "frequentarono"
+        "urlai",
+        "urlasti",
+        "urlò",
+        "urlammo",
+        "urlaste",
+        "urlarono"
       ],
 
       "Trapassato prossimo": [
-        "avevo frequentato",
-        "avevi frequentato",
-        "aveva frequentato",
-        "avevamo frequentato",
-        "avevate frequentato",
-        "avevano frequentato"
+        "avevo urlato",
+        "avevi urlato",
+        "aveva urlato",
+        "avevamo urlato",
+        "avevate urlato",
+        "avevano urlato"
       ],
 
       "Trapassato remoto": [
-        "ebbi frequentato",
-        "avesti frequentato",
-        "ebbe frequentato",
-        "avemmo frequentato",
-        "aveste frequentato",
-        "ebbero frequentato"
+        "ebbi urlato",
+        "avesti urlato",
+        "ebbe urlato",
+        "avemmo urlato",
+        "aveste urlato",
+        "ebbero urlato"
       ],
 
       "Futuro semplice": [
-        "frequenterò",
-        "frequenterai",
-        "frequenterà",
-        "frequenteremo",
-        "frequenterete",
-        "frequenteranno"
+        "urlerò",
+        "urlerai",
+        "urlerà",
+        "urleremo",
+        "urlerete",
+        "urleranno"
       ],
 
       "Futuro anteriore": [
-        "avrò frequentato",
-        "avrai frequentato",
-        "avrà frequentato",
-        "avremo frequentato",
-        "avrete frequentato",
-        "avranno frequentato"
+        "avrò urlato",
+        "avrai urlato",
+        "avrà urlato",
+        "avremo urlato",
+        "avrete urlato",
+        "avranno urlato"
       ]
     },
 
     "Congiuntivo": {
       "Presente": [
-        "frequenti",
-        "frequenti",
-        "frequenti",
-        "frequentiamo",
-        "frequentiate",
-        "frequentino"
+        "urli",
+        "urli",
+        "urli",
+        "urliamo",
+        "urliate",
+        "urlino"
       ],
 
       "Imperfetto": [
-        "frequentassi",
-        "frequentassi",
-        "frequentasse",
-        "frequentassimo",
-        "frequentaste",
-        "frequentassero"
+        "urlassi",
+        "urlassi",
+        "urlasse",
+        "urlassimo",
+        "urlaste",
+        "urlassero"
       ],
 
       "Passato": [
-        "abbia frequentato",
-        "abbia frequentato",
-        "abbia frequentato",
-        "abbiamo frequentato",
-        "abbiate frequentato",
-        "abbiano frequentato"
+        "abbia urlato",
+        "abbia urlato",
+        "abbia urlato",
+        "abbiamo urlato",
+        "abbiate urlato",
+        "abbiano urlato"
       ],
 
       "Trapassato": [
-        "avessi frequentato",
-        "avessi frequentato",
-        "avesse frequentato",
-        "avessimo frequentato",
-        "aveste frequentato",
-        "avessero frequentato"
+        "avessi urlato",
+        "avessi urlato",
+        "avesse urlato",
+        "avessimo urlato",
+        "aveste urlato",
+        "avessero urlato"
       ]
     },
 
     "Condizionale": {
       "Presente": [
-        "frequenterei",
-        "frequenteresti",
-        "frequenterebbe",
-        "frequenteremmo",
-        "frequentereste",
-        "frequenterebbero"
+        "urlerei",
+        "urleresti",
+        "urlerebbe",
+        "urleremmo",
+        "urlereste",
+        "urlerebbero"
       ],
 
       "Passato": [
-        "avrei frequentato",
-        "avresti frequentato",
-        "avrebbe frequentato",
-        "avremmo frequentato",
-        "avreste frequentato",
-        "avrebbero frequentato"
+        "avrei urlato",
+        "avresti urlato",
+        "avrebbe urlato",
+        "avremmo urlato",
+        "avreste urlato",
+        "avrebbero urlato"
       ]
     },
 
     "Imperativo": {
       "Presente": [
         "—",
-        "frequenta",
-        "frequenti",
-        "frequentiamo",
-        "frequentate",
-        "frequentino"
+        "urla",
+        "urli",
+        "urliamo",
+        "urlate",
+        "urlino"
       ]
     },
 
     "Forme indefinite": {
       "Forme": [
-        "frequentare",
-        "avere frequentato",
-        "frequentante",
-        "frequentato",
-        "frequentando",
-        "avendo frequentato"
+        "urlare",
+        "avere urlato",
+        "urlante",
+        "urlato",
+        "urlando",
+        "avendo urlato"
       ]
     }
   }
