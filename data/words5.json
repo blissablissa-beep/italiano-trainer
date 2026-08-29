@@ -1,1 +1,345 @@
-[]
+
+[
+{
+  "id": "rassegnare",
+  "sid": "2026-00228",
+  "word": "rassegnare",
+  "ipa": "/rasseɲˈɲare/",
+  "level": "C1",
+  "frequency": "uncommon",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "rassegnato",
+    "gerundPresent": "rassegnando",
+    "pattern": "rassegnare le dimissioni / rassegnare le dimissioni a qualcuno / rassegnare un mandato o un incarico / rassegnare qualcosa nelle mani di qualcuno"
+  },
+
+  "usage": {
+    "register": [
+      "formal",
+      "bureaucratic",
+      "literary"
+    ],
+    "medium": [
+      "written",
+      "spoken"
+    ],
+    "situations": [
+      "business",
+      "politics",
+      "official",
+      "employment",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "辞職の意思を正式に表明し、辞表を提出する",
+      "委任・役職・権限などを正式に返上する",
+      "預かっていた物や権利などを元の所有者・権限者へ返還する、古風な用法",
+      "物を権限者の手へ正式に引き渡す、古風または官僚的な用法",
+      "人・物・事柄などを順に挙げて確認する、古風な用法"
+    ],
+    "it": [
+      "Presentare formalmente le proprie dimissioni da una carica o da un impiego.",
+      "Restituire o rinunciare formalmente a un mandato, a un incarico o a un’autorità.",
+      "Riconsegnare un bene o un diritto alla persona o all’autorità competente, in un uso antico.",
+      "Consegnare formalmente qualcosa nelle mani di un’autorità, in un uso antiquato o burocratico.",
+      "Elencare o esaminare ordinatamente persone, oggetti o fatti, in un uso antico."
+    ]
+  },
+
+  "nuance": {
+    "ja": "現代イタリア語では、ほぼ定型表現rassegnare le dimissioniで使われ、単なるdare le dimissioniより改まった公的な響きがある。政治家・経営者・公職者などの辞任を報じる文章で特に多い。rassegnare il mandatoやrassegnare l’incaricoも可能だが、使用頻度は低い。代名動詞rassegnarsiは「不本意な現実を受け入れる、諦める」という別の重要な意味を持つ。",
+    "it": "Nell’italiano contemporaneo compare soprattutto nella locuzione rassegnare le dimissioni, più formale e solenne di dare le dimissioni. È frequente nel linguaggio politico, amministrativo e giornalistico. Sono possibili anche rassegnare il mandato o l’incarico, ma sono meno comuni. La forma pronominale rassegnarsi ha invece il significato distinto e molto più vivo di accettare una situazione inevitabile."
+  },
+
+  "etymology": {
+    "ja": "ラテン語resignāre（封印を解く、取り消す、返却する）に由来し、re-（元へ、反対に）とsignāre（印を付ける、署名する）から成る。正式な印を解除して権利や物を返すという意味から、職務・権限を返上する意味が生じた。イタリア語assegnareの影響も受けたと考えられる。同じ語族にはsegno、segnare、assegnare、英語resignなどがある。",
+    "it": "Dal latino resignāre, formato da re- e signāre, «segnare, sigillare». Significava «togliere il sigillo, annullare, restituire» e ha poi sviluppato il valore di riconsegnare formalmente una funzione o un’autorità. La forma italiana è stata probabilmente influenzata anche da assegnare."
+  },
+
+  "minimal": [
+    {
+      "word": "rassegnare",
+      "ja": "辞表を提出する、または役職・権限などを正式に返上する",
+      "it": "presentare formalmente le dimissioni o restituire un mandato o un incarico"
+    },
+    {
+      "word": "rassegnarsi",
+      "ja": "変えられない不本意な状況を受け入れ、諦める",
+      "it": "accettare senza ulteriore resistenza una situazione spiacevole o inevitabile"
+    },
+    {
+      "word": "dimettersi",
+      "ja": "自ら役職・職務を辞する、現代語で一般的な表現",
+      "it": "rinunciare volontariamente a una carica o a un impiego"
+    },
+    {
+      "word": "rinunciare",
+      "ja": "権利・機会・計画・所有などを自発的に手放す",
+      "it": "abbandonare volontariamente un diritto, un’opportunità, un progetto o un possesso"
+    },
+    {
+      "word": "restituire",
+      "ja": "借りた物・預かった物・権利などを元の人へ返す",
+      "it": "riconsegnare qualcosa alla persona a cui appartiene o da cui era stato ricevuto"
+    }
+  ],
+
+  "synonyms": [
+    "presentare",
+    "restituire",
+    "riconsegnare",
+    "rinunciare a",
+    "deporre",
+    "rendere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "tender",
+      "submit",
+      "resign"
+    ],
+    "de": [
+      "einreichen",
+      "niederlegen",
+      "zurückgeben"
+    ],
+    "fr": [
+      "présenter",
+      "remettre",
+      "déposer"
+    ],
+    "es": [
+      "presentar",
+      "entregar",
+      "renunciar a"
+    ]
+  },
+
+  "collocations": [
+    "rassegnare le dimissioni",
+    "rassegnare immediatamente le dimissioni",
+    "rassegnare formalmente le dimissioni",
+    "rassegnare volontariamente le dimissioni",
+    "rassegnare irrevocabilmente le dimissioni",
+    "rassegnare le proprie dimissioni",
+    "rassegnare le dimissioni da una carica",
+    "rassegnare le dimissioni da ministro",
+    "rassegnare le dimissioni da presidente",
+    "rassegnare le dimissioni al presidente",
+    "rassegnare le dimissioni al consiglio",
+    "decidere di rassegnare le dimissioni",
+    "essere costretto a rassegnare le dimissioni",
+    "annunciare di voler rassegnare le dimissioni",
+    "rifiutarsi di rassegnare le dimissioni",
+    "invitare qualcuno a rassegnare le dimissioni",
+    "chiedere a qualcuno di rassegnare le dimissioni",
+    "rassegnare il mandato",
+    "rassegnare il proprio mandato",
+    "rassegnare un incarico",
+    "rassegnare una carica",
+    "rassegnare i poteri",
+    "rassegnare qualcosa al proprietario",
+    "rassegnare qualcosa all’autorità",
+    "rassegnare nelle mani di qualcuno",
+    "aver rassegnato le dimissioni",
+    "dopo aver rassegnato le dimissioni",
+    "senza rassegnare le dimissioni",
+    "minacciare di rassegnare le dimissioni",
+    "essere pronto a rassegnare le dimissioni"
+  ],
+
+  "examples": [
+    {
+      "it": "Il ministro ha rassegnato le dimissioni.",
+      "ja": "大臣は辞表を提出しました。"
+    },
+    {
+      "it": "Ha rassegnato le proprie dimissioni al presidente.",
+      "ja": "彼女は大統領に辞表を提出しました。"
+    },
+    {
+      "it": "Il direttore è stato costretto a rassegnare le dimissioni.",
+      "ja": "その取締役は辞任を余儀なくされました。"
+    },
+    {
+      "it": "Ha annunciato che rassegnerà il mandato alla fine del mese.",
+      "ja": "彼は月末に職務を返上すると発表しました。"
+    },
+    {
+      "it": "L’opposizione gli ha chiesto di rassegnare immediatamente le dimissioni.",
+      "ja": "野党は彼に直ちに辞任するよう求めました。"
+    },
+    {
+      "it": "Dopo aver rassegnato le dimissioni, ha lasciato ogni incarico pubblico.",
+      "ja": "辞表を提出したあと、彼はすべての公職から退きました。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "rassegno",
+        "rassegni",
+        "rassegna",
+        "rassegniamo",
+        "rassegnate",
+        "rassegnano"
+      ],
+
+      "Imperfetto": [
+        "rassegnavo",
+        "rassegnavi",
+        "rassegnava",
+        "rassegnavamo",
+        "rassegnavate",
+        "rassegnavano"
+      ],
+
+      "Passato prossimo": [
+        "ho rassegnato",
+        "hai rassegnato",
+        "ha rassegnato",
+        "abbiamo rassegnato",
+        "avete rassegnato",
+        "hanno rassegnato"
+      ],
+
+      "Passato remoto": [
+        "rassegnai",
+        "rassegnasti",
+        "rassegnò",
+        "rassegnammo",
+        "rassegnaste",
+        "rassegnarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo rassegnato",
+        "avevi rassegnato",
+        "aveva rassegnato",
+        "avevamo rassegnato",
+        "avevate rassegnato",
+        "avevano rassegnato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi rassegnato",
+        "avesti rassegnato",
+        "ebbe rassegnato",
+        "avemmo rassegnato",
+        "aveste rassegnato",
+        "ebbero rassegnato"
+      ],
+
+      "Futuro semplice": [
+        "rassegnerò",
+        "rassegnerai",
+        "rassegnerà",
+        "rassegneremo",
+        "rassegnerete",
+        "rassegneranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò rassegnato",
+        "avrai rassegnato",
+        "avrà rassegnato",
+        "avremo rassegnato",
+        "avrete rassegnato",
+        "avranno rassegnato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "rassegni",
+        "rassegni",
+        "rassegni",
+        "rassegniamo",
+        "rassegniate",
+        "rassegnino"
+      ],
+
+      "Imperfetto": [
+        "rassegnassi",
+        "rassegnassi",
+        "rassegnasse",
+        "rassegnassimo",
+        "rassegnaste",
+        "rassegnassero"
+      ],
+
+      "Passato": [
+        "abbia rassegnato",
+        "abbia rassegnato",
+        "abbia rassegnato",
+        "abbiamo rassegnato",
+        "abbiate rassegnato",
+        "abbiano rassegnato"
+      ],
+
+      "Trapassato": [
+        "avessi rassegnato",
+        "avessi rassegnato",
+        "avesse rassegnato",
+        "avessimo rassegnato",
+        "aveste rassegnato",
+        "avessero rassegnato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "rassegnerei",
+        "rassegneresti",
+        "rassegnerebbe",
+        "rassegneremmo",
+        "rassegnereste",
+        "rassegnerebbero"
+      ],
+
+      "Passato": [
+        "avrei rassegnato",
+        "avresti rassegnato",
+        "avrebbe rassegnato",
+        "avremmo rassegnato",
+        "avreste rassegnato",
+        "avrebbero rassegnato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "rassegna",
+        "rassegni",
+        "rassegniamo",
+        "rassegnate",
+        "rassegnino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "rassegnare",
+        "avere rassegnato",
+        "rassegnante",
+        "rassegnato",
+        "rassegnando",
+        "avendo rassegnato"
+      ]
+    }
+  }
+}
+]
