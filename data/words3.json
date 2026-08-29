@@ -1589,29 +1589,29 @@
   }
 },
 {
-  "id": "arrabbiarsi",
+  "id": "suggerire",
   "sid": "2026-00126",
-  "word": "arrabbiarsi",
-  "ipa": "/arrabˈbjarsi/",
+  "word": "suggerire",
+  "ipa": "/suddʒeˈrire/",
   "level": "A2",
   "frequency": "very_common",
 
   "grammar": {
     "pos": "verb",
     "label": {
-      "ja": "代名動詞",
-      "it": "verbo pronominale"
+      "ja": "他動詞",
+      "it": "verbo transitivo"
     },
-    "auxiliary": "essere",
-    "pastParticiple": "arrabbiato",
-    "gerundPresent": "arrabbiandosi",
-    "pattern": "arrabbiarsi con + persona / per + motivo / quando o perché + frase"
+    "auxiliary": "avere",
+    "pastParticiple": "suggerito",
+    "gerundPresent": "suggerendo",
+    "pattern": "suggerire qualcosa a qualcuno / suggerire di + infinito / suggerire a qualcuno di + infinito / suggerire che + congiuntivo"
   },
 
   "usage": {
     "register": [
       "neutral",
-      "informal"
+      "formal"
     ],
     "medium": [
       "spoken",
@@ -1619,285 +1619,321 @@
     ],
     "situations": [
       "conversation",
-      "social",
-      "family",
-      "workplace"
+      "business",
+      "education",
+      "advice",
+      "decision"
     ]
   },
 
   "meaning": {
     "ja": [
-      "怒る、腹を立てる",
-      "人に対して怒る",
-      "出来事や理由のために腹を立てる",
-      "いら立って感情的になる"
+      "考え・方法・選択肢などを人に提案する",
+      "人にある行為をするよう助言する、勧める",
+      "問題を解決するための案や手段を示す",
+      "言葉・答え・台詞などを人にそっと教える",
+      "証拠・状況・結果などが一定の可能性や解釈を示唆する",
+      "作品・光景・香りなどが感情・記憶・連想を呼び起こす"
     ],
     "it": [
-      "Provare o manifestare rabbia.",
-      "Adirarsi nei confronti di una persona.",
-      "Irritarsi a causa di un fatto, di un comportamento o di una situazione.",
-      "Perdere la calma e reagire emotivamente."
+      "Proporre a qualcuno un’idea, un metodo o una possibilità.",
+      "Consigliare a una persona di compiere una determinata azione.",
+      "Indicare una possibile soluzione o un mezzo per affrontare un problema.",
+      "Comunicare discretamente a qualcuno una parola, una risposta o una battuta.",
+      "Indicare indirettamente una possibilità o un’interpretazione, riferito a prove, circostanze o risultati.",
+      "Richiamare alla mente un’emozione, un ricordo o un’associazione."
     ]
   },
 
   "nuance": {
-    "ja": "日常会話で「怒る」「腹を立てる」を表す最も一般的な動詞の一つである。怒りの相手にはcon、原因にはperを用いる。essere arrabbiatoが怒っている状態を表すのに対し、arrabbiarsiは平静な状態から怒った状態への変化に焦点を当てる。adirarsiより口語的で、irritarsiより強い怒りを表すことが多い。",
-    "it": "È uno dei verbi più comuni per indicare il passaggio a uno stato di rabbia. La persona contro cui è diretta la rabbia è introdotta normalmente da con, mentre la causa può essere introdotta da per. Essere arrabbiato descrive uno stato; arrabbiarsi ne sottolinea l’inizio o il cambiamento."
+    "ja": "相手に選択の余地を残しながら、考え・行為・解決策を提示することを表す。consigliareより控えめで、単に可能性を示す場合にも使える。提案内容が行為ならsuggerire di + 不定詞、人を明示するならsuggerire a qualcuno di + 不定詞を用いる。suggerire cheの後には通常接続法を用いる。証拠などを主語にすると、「間接的に示唆する」という意味になる。",
+    "it": "Presenta un’idea, un’azione o una soluzione lasciando normalmente libertà di scelta al destinatario. Può essere meno diretto di consigliare e limitarsi a indicare una possibilità. Si usa suggerire di più infinito oppure suggerire a qualcuno di fare qualcosa. Suggerire che regge normalmente il congiuntivo. Con prove, dati o circostanze come soggetto significa indicare qualcosa in modo indiretto."
   },
 
   "etymology": {
-    "ja": "形容詞arrabbiatoおよび名詞rabbiaから形成された動詞である。rabbiaはラテン語rabies（狂犬病、狂気、激しい怒り）に由来する。本来は病的な激しさを表したが、現在では日常的な怒りにも広く用いられる。",
-    "it": "Deriva da rabbia, attraverso arrabbiare. Rabbia risale al latino rabies, che indicava la malattia, la furia o un’ira violenta. Nell’italiano moderno il verbo si usa comunemente anche per forme ordinarie di collera."
+    "ja": "ラテン語suggerĕre（下に運ぶ、提供する、ひそかに思い起こさせる）に由来し、sub-（下へ、近くへ）とgerĕre（運ぶ、行う）から成る。考えや言葉を相手の心へそっと「運び入れる」という発想から、提案する、示唆するという意味が生じた。同じ語族にはsuggestione、suggestivo、英語suggestなどがある。",
+    "it": "Dal latino suggerĕre, formato da sub-, «sotto, vicino», e gerĕre, «portare, compiere». Il verbo indicava il porgere o introdurre discretamente qualcosa, da cui si sono sviluppati i significati di proporre e far pensare indirettamente. Alla stessa famiglia appartengono suggestione e suggestivo."
   },
 
   "minimal": [
     {
-      "word": "arrabbiarsi",
-      "ja": "怒りが生じて腹を立てた状態になる",
-      "it": "entrare in uno stato di rabbia e manifestare collera"
+      "word": "suggerire",
+      "ja": "考え・方法・行為を控えめに提案したり、可能性を間接的に示したりする",
+      "it": "proporre un’idea o un’azione oppure indicare indirettamente una possibilità"
     },
     {
-      "word": "irritarsi",
-      "ja": "不快なことに反応して、いら立ちや軽い怒りを感じる",
-      "it": "provare fastidio o una forma generalmente più contenuta di rabbia"
+      "word": "consigliare",
+      "ja": "相手にとって望ましいと考える行動を助言する、勧める",
+      "it": "indicare a qualcuno il comportamento ritenuto più opportuno o vantaggioso"
     },
     {
-      "word": "adirarsi",
-      "ja": "怒ることを表す、より改まった文章語的な動詞",
-      "it": "andare in collera, con un tono generalmente più formale o letterario"
+      "word": "proporre",
+      "ja": "検討・承認・実行の対象として、案や計画を明確に提示する",
+      "it": "presentare esplicitamente un’idea o un progetto perché venga valutato o accettato"
+    },
+    {
+      "word": "raccomandare",
+      "ja": "経験・権威・評価に基づいて、人・物・行為を強く勧める",
+      "it": "consigliare con particolare convinzione una persona, una cosa o un comportamento"
+    },
+    {
+      "word": "indicare",
+      "ja": "対象・方向・方法・可能性などを言葉や身ぶりで示す",
+      "it": "segnalare una persona, una direzione, un metodo o una possibilità"
     }
   ],
 
   "synonyms": [
-    "adirarsi",
-    "irritarsi",
-    "innervosirsi",
-    "infuriare",
-    "perdere la calma"
+    "consigliare",
+    "proporre",
+    "indicare",
+    "raccomandare",
+    "inspirare",
+    "lasciare intendere"
   ],
 
   "equivalents": {
     "en": [
-      "get angry",
-      "become angry",
-      "get mad"
+      "suggest",
+      "recommend",
+      "hint"
     ],
     "de": [
-      "sich ärgern",
-      "wütend werden",
-      "sich aufregen"
+      "vorschlagen",
+      "empfehlen",
+      "nahelegen"
     ],
     "fr": [
-      "se fâcher",
-      "se mettre en colère"
+      "suggérer",
+      "proposer",
+      "conseiller"
     ],
     "es": [
-      "enfadarse",
-      "enojarse",
-      "ponerse furioso"
+      "sugerir",
+      "proponer",
+      "aconsejar"
     ]
   },
 
   "collocations": [
-    "arrabbiarsi molto",
-    "arrabbiarsi facilmente",
-    "arrabbiarsi seriamente",
-    "arrabbiarsi improvvisamente",
-    "arrabbiarsi con qualcuno",
-    "arrabbiarsi con sé stessi",
-    "arrabbiarsi per qualcosa",
-    "arrabbiarsi per un errore",
-    "arrabbiarsi per niente",
-    "arrabbiarsi senza motivo",
-    "cominciare ad arrabbiarsi",
-    "finire per arrabbiarsi",
-    "non arrabbiarsi",
-    "non vale la pena arrabbiarsi",
-    "far arrabbiare qualcuno",
-    "avere paura di far arrabbiare qualcuno",
-    "essere troppo arrabbiato per parlare",
-    "arrabbiarsi quando qualcosa non funziona"
+    "suggerire qualcosa",
+    "suggerire un’idea",
+    "suggerire una soluzione",
+    "suggerire un metodo",
+    "suggerire un’alternativa",
+    "suggerire una modifica",
+    "suggerire un nome",
+    "suggerire un titolo",
+    "suggerire un ristorante",
+    "suggerire un libro",
+    "suggerire qualcosa a qualcuno",
+    "suggerire una risposta",
+    "suggerire le parole",
+    "suggerire una battuta",
+    "suggerire discretamente",
+    "suggerire gentilmente",
+    "suggerire indirettamente",
+    "suggerire di aspettare",
+    "suggerire di provare",
+    "suggerire di cambiare",
+    "suggerire di fare qualcosa",
+    "suggerire a qualcuno di partire",
+    "suggerire a qualcuno di consultare un medico",
+    "suggerire che",
+    "i risultati suggeriscono che",
+    "i dati suggeriscono che",
+    "le prove suggeriscono che",
+    "la situazione suggerisce prudenza",
+    "lasciare suggerire",
+    "se posso suggerire",
+    "vorrei suggerire",
+    "posso suggerire qualcosa",
+    "avere qualcosa da suggerire",
+    "non sapere che cosa suggerire",
+    "essere difficile da suggerire",
+    "un’immagine suggerisce",
+    "un profumo suggerisce un ricordo"
   ],
 
   "examples": [
     {
-      "it": "Non arrabbiarti, posso spiegarti tutto.",
-      "ja": "怒らないでください。すべて説明できます。"
+      "it": "Puoi suggerirmi un buon ristorante?",
+      "ja": "よいレストランを教えてもらえますか。"
     },
     {
-      "it": "Si è arrabbiato con me per il ritardo.",
-      "ja": "彼は遅刻したことで私に腹を立てた。"
+      "it": "Ti suggerisco di prenotare in anticipo.",
+      "ja": "前もって予約することをお勧めします。"
     },
     {
-      "it": "Mia moglie si arrabbia quando dimentico un appuntamento.",
-      "ja": "私が約束を忘れると、妻は怒る。"
+      "it": "Il medico gli ha suggerito di riposare.",
+      "ja": "医師は彼に休むよう勧めました。"
     },
     {
-      "it": "Ci siamo arrabbiati per quella decisione ingiusta.",
-      "ja": "私たちはその不公平な決定に腹を立てた。"
+      "it": "Vorrei suggerire una soluzione diversa.",
+      "ja": "別の解決策を提案したいと思います。"
     },
     {
-      "it": "Non vale la pena arrabbiarsi per una cosa così piccola.",
-      "ja": "そのような小さなことで怒る価値はない。"
+      "it": "I risultati suggeriscono che il metodo sia efficace.",
+      "ja": "結果は、その方法が有効であることを示唆しています。"
     },
     {
-      "it": "Temevo che si arrabbiasse con noi.",
-      "ja": "彼が私たちに腹を立てるのではないかと心配していた。"
+      "it": "Quel profumo mi suggerisce ricordi dell’infanzia.",
+      "ja": "その香りを嗅ぐと、子供時代の記憶がよみがえります。"
     }
   ],
 
   "conjugations": {
     "Indicativo": {
       "Presente": [
-        "mi arrabbio",
-        "ti arrabbi",
-        "si arrabbia",
-        "ci arrabbiamo",
-        "vi arrabbiate",
-        "si arrabbiano"
+        "suggerisco",
+        "suggerisci",
+        "suggerisce",
+        "suggeriamo",
+        "suggerite",
+        "suggeriscono"
       ],
 
       "Imperfetto": [
-        "mi arrabbiavo",
-        "ti arrabbiavi",
-        "si arrabbiava",
-        "ci arrabbiavamo",
-        "vi arrabbiavate",
-        "si arrabbiavano"
+        "suggerivo",
+        "suggerivi",
+        "suggeriva",
+        "suggerivamo",
+        "suggerivate",
+        "suggerivano"
       ],
 
       "Passato prossimo": [
-        "mi sono arrabbiato/a",
-        "ti sei arrabbiato/a",
-        "si è arrabbiato/a",
-        "ci siamo arrabbiati/e",
-        "vi siete arrabbiati/e",
-        "si sono arrabbiati/e"
+        "ho suggerito",
+        "hai suggerito",
+        "ha suggerito",
+        "abbiamo suggerito",
+        "avete suggerito",
+        "hanno suggerito"
       ],
 
       "Passato remoto": [
-        "mi arrabbiai",
-        "ti arrabbiasti",
-        "si arrabbiò",
-        "ci arrabbiammo",
-        "vi arrabbiaste",
-        "si arrabbiarono"
+        "suggerii",
+        "suggeristi",
+        "suggerì",
+        "suggerimmo",
+        "suggeriste",
+        "suggerirono"
       ],
 
       "Trapassato prossimo": [
-        "mi ero arrabbiato/a",
-        "ti eri arrabbiato/a",
-        "si era arrabbiato/a",
-        "ci eravamo arrabbiati/e",
-        "vi eravate arrabbiati/e",
-        "si erano arrabbiati/e"
+        "avevo suggerito",
+        "avevi suggerito",
+        "aveva suggerito",
+        "avevamo suggerito",
+        "avevate suggerito",
+        "avevano suggerito"
       ],
 
       "Trapassato remoto": [
-        "mi fui arrabbiato/a",
-        "ti fosti arrabbiato/a",
-        "si fu arrabbiato/a",
-        "ci fummo arrabbiati/e",
-        "vi foste arrabbiati/e",
-        "si furono arrabbiati/e"
+        "ebbi suggerito",
+        "avesti suggerito",
+        "ebbe suggerito",
+        "avemmo suggerito",
+        "aveste suggerito",
+        "ebbero suggerito"
       ],
 
       "Futuro semplice": [
-        "mi arrabbierò",
-        "ti arrabbierai",
-        "si arrabbierà",
-        "ci arrabbieremo",
-        "vi arrabbierete",
-        "si arrabbieranno"
+        "suggerirò",
+        "suggerirai",
+        "suggerirà",
+        "suggeriremo",
+        "suggerirete",
+        "suggeriranno"
       ],
 
       "Futuro anteriore": [
-        "mi sarò arrabbiato/a",
-        "ti sarai arrabbiato/a",
-        "si sarà arrabbiato/a",
-        "ci saremo arrabbiati/e",
-        "vi sarete arrabbiati/e",
-        "si saranno arrabbiati/e"
+        "avrò suggerito",
+        "avrai suggerito",
+        "avrà suggerito",
+        "avremo suggerito",
+        "avrete suggerito",
+        "avranno suggerito"
       ]
     },
 
     "Congiuntivo": {
       "Presente": [
-        "mi arrabbi",
-        "ti arrabbi",
-        "si arrabbi",
-        "ci arrabbiamo",
-        "vi arrabbiate",
-        "si arrabbino"
+        "suggerisca",
+        "suggerisca",
+        "suggerisca",
+        "suggeriamo",
+        "suggeriate",
+        "suggeriscano"
       ],
 
       "Imperfetto": [
-        "mi arrabbiassi",
-        "ti arrabbiassi",
-        "si arrabbiasse",
-        "ci arrabbiassimo",
-        "vi arrabbiaste",
-        "si arrabbiassero"
+        "suggerissi",
+        "suggerissi",
+        "suggerisse",
+        "suggerissimo",
+        "suggeriste",
+        "suggerissero"
       ],
 
       "Passato": [
-        "mi sia arrabbiato/a",
-        "ti sia arrabbiato/a",
-        "si sia arrabbiato/a",
-        "ci siamo arrabbiati/e",
-        "vi siate arrabbiati/e",
-        "si siano arrabbiati/e"
+        "abbia suggerito",
+        "abbia suggerito",
+        "abbia suggerito",
+        "abbiamo suggerito",
+        "abbiate suggerito",
+        "abbiano suggerito"
       ],
 
       "Trapassato": [
-        "mi fossi arrabbiato/a",
-        "ti fossi arrabbiato/a",
-        "si fosse arrabbiato/a",
-        "ci fossimo arrabbiati/e",
-        "vi foste arrabbiati/e",
-        "si fossero arrabbiati/e"
+        "avessi suggerito",
+        "avessi suggerito",
+        "avesse suggerito",
+        "avessimo suggerito",
+        "aveste suggerito",
+        "avessero suggerito"
       ]
     },
 
     "Condizionale": {
       "Presente": [
-        "mi arrabbierei",
-        "ti arrabbieresti",
-        "si arrabbierebbe",
-        "ci arrabbieremmo",
-        "vi arrabbiereste",
-        "si arrabbierebbero"
+        "suggerirei",
+        "suggeriresti",
+        "suggerirebbe",
+        "suggeriremmo",
+        "suggerireste",
+        "suggerirebbero"
       ],
 
       "Passato": [
-        "mi sarei arrabbiato/a",
-        "ti saresti arrabbiato/a",
-        "si sarebbe arrabbiato/a",
-        "ci saremmo arrabbiati/e",
-        "vi sareste arrabbiati/e",
-        "si sarebbero arrabbiati/e"
+        "avrei suggerito",
+        "avresti suggerito",
+        "avrebbe suggerito",
+        "avremmo suggerito",
+        "avreste suggerito",
+        "avrebbero suggerito"
       ]
     },
 
     "Imperativo": {
       "Presente": [
         "—",
-        "arrabbiati",
-        "si arrabbi",
-        "arrabbiamoci",
-        "arrabbiatevi",
-        "si arrabbino"
+        "suggerisci",
+        "suggerisca",
+        "suggeriamo",
+        "suggerite",
+        "suggeriscano"
       ]
     },
 
     "Forme indefinite": {
       "Forme": [
-        "arrabbiarsi",
-        "essersi arrabbiato/a/i/e",
-        "arrabbiante",
-        "arrabbiato",
-        "arrabbiandosi",
-        "essendosi arrabbiato/a/i/e"
+        "suggerire",
+        "avere suggerito",
+        "suggerente",
+        "suggerito",
+        "suggerendo",
+        "avendo suggerito"
       ]
     }
   }
