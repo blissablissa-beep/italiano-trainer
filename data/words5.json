@@ -4192,5 +4192,357 @@
       ]
     }
   }
+},
+{
+  "id": "disperarsi",
+  "sid": "2026-00240",
+  "word": "disperarsi",
+  "ipa": "/dispeˈrarsi/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "代名動詞",
+      "it": "verbo pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "disperato",
+    "gerundPresent": "disperandosi",
+    "pattern": "disperarsi / disperarsi per qualcuno o qualcosa / disperarsi a causa di qualcosa / disperarsi perché + frase / non disperarsi"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "emotion",
+      "family",
+      "difficulty",
+      "loss"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "希望を失い、激しい精神的苦痛を感じる",
+      "失敗・喪失・悪い知らせなどに取り乱す",
+      "解決策が見つからず、ひどく悩み苦しむ",
+      "人の行動・状態などを心配して途方に暮れる",
+      "悲しみ・不安・焦りなどを激しい言動で表す",
+      "比較的小さな問題について大げさに嘆く",
+      "non disperarsiで、困難な状況でも取り乱さず希望を保つ"
+    ],
+    "it": [
+      "Provare una sofferenza intensa perché si è perduta la speranza.",
+      "Reagire con grande angoscia a un fallimento, a una perdita o a una cattiva notizia.",
+      "Tormentarsi perché non si riesce a trovare una soluzione.",
+      "Essere profondamente preoccupati e abbattuti per il comportamento o la situazione di qualcuno.",
+      "Manifestare dolore, ansia o frustrazione con reazioni emotive intense.",
+      "Lamentarsi in modo eccessivo anche per un problema relativamente modesto.",
+      "Nella forma negativa non disperarsi, conservare la calma e la speranza davanti alle difficoltà."
+    ]
+  },
+
+  "nuance": {
+    "ja": "希望がなくなったという判断だけでなく、それによって激しく苦しみ、嘆き、取り乱す状態を表す。disperare di riuscireは「成功への希望を失う」という認識に焦点があるのに対し、disperarsi per un fallimentoは「失敗に絶望してひどく嘆く」という感情的反応を表す。会話ではNon disperarti!が「そんなに落ち込まないで、まだ望みはある」という慰めに使われる。",
+    "it": "Non indica soltanto la perdita della speranza, ma anche la sofferenza e la reazione emotiva intensa che ne derivano. Disperare di riuscire mette in rilievo la mancanza di fiducia nel successo; disperarsi per un fallimento descrive l’angoscia e lo sconforto provocati dall’insuccesso. Nell’uso quotidiano non disperarti è un invito a non abbattersi e a conservare la speranza."
+  },
+
+  "etymology": {
+    "ja": "動詞disperare（絶望する）の代名詞形。disperareはラテン語dēspērāreに由来し、dē-（離れて、欠如して）とspērāre（希望する）から成る。語源的には「希望から離れる」ことであり、代名詞形では、その絶望が主語自身を強く苦しめることが前面に出る。同じ語族にはsperare、speranza、disperazione、disperatoなどがある。",
+    "it": "Forma pronominale di disperare, dal latino dēspērāre, composto da dē-, con valore di privazione o allontanamento, e spērāre, «sperare». Etimologicamente significa quindi allontanarsi dalla speranza. Nella forma pronominale viene messo in rilievo lo stato emotivo vissuto dal soggetto."
+  },
+
+  "minimal": [
+    {
+      "word": "disperarsi",
+      "ja": "希望を失ったことで激しく苦しみ、嘆き、取り乱す",
+      "it": "soffrire e reagire emotivamente in modo intenso perché si è perduta la speranza"
+    },
+    {
+      "word": "disperare",
+      "ja": "望ましい結果が実現する希望を失う",
+      "it": "perdere la speranza che un risultato favorevole possa realizzarsi"
+    },
+    {
+      "word": "scoraggiarsi",
+      "ja": "困難・失敗によって自信や意欲を失い、気落ちする",
+      "it": "perdere fiducia, entusiasmo o motivazione davanti a difficoltà o insuccessi"
+    },
+    {
+      "word": "abbattersi",
+      "ja": "悪い出来事によって精神的に打ちのめされ、ひどく落ち込む",
+      "it": "diventare profondamente tristi e privi di energia a causa di un evento negativo"
+    },
+    {
+      "word": "rassegnarsi",
+      "ja": "変えられない不本意な現実を認め、抵抗をやめて受け入れる",
+      "it": "accettare controvoglia una realtà considerata inevitabile o non modificabile"
+    }
+  ],
+
+  "synonyms": [
+    "abbattersi",
+    "sconfortarsi",
+    "scoraggiarsi",
+    "angosciarsi",
+    "tormentarsi",
+    "perdere ogni speranza"
+  ],
+
+  "equivalents": {
+    "en": [
+      "despair",
+      "become desperate",
+      "be distraught"
+    ],
+    "de": [
+      "verzweifeln",
+      "sich verzweifelt zeigen",
+      "den Mut verlieren"
+    ],
+    "fr": [
+      "se désespérer",
+      "être désespéré",
+      "s’affliger"
+    ],
+    "es": [
+      "desesperarse",
+      "angustiarse",
+      "perder toda esperanza"
+    ]
+  },
+
+  "collocations": [
+    "disperarsi per qualcosa",
+    "disperarsi per un errore",
+    "disperarsi per un fallimento",
+    "disperarsi per una sconfitta",
+    "disperarsi per una perdita",
+    "disperarsi per un ritardo",
+    "disperarsi per un esame",
+    "disperarsi per i soldi",
+    "disperarsi per qualcuno",
+    "disperarsi per un figlio",
+    "disperarsi per la salute di qualcuno",
+    "disperarsi a causa di un problema",
+    "disperarsi perché qualcosa è andato male",
+    "disperarsi inutilmente",
+    "disperarsi troppo",
+    "disperarsi completamente",
+    "disperarsi facilmente",
+    "cominciare a disperarsi",
+    "continuare a disperarsi",
+    "smettere di disperarsi",
+    "non volersi disperare",
+    "non bisogna disperarsi",
+    "non c’è motivo di disperarsi",
+    "non vale la pena disperarsi",
+    "evitare di disperarsi",
+    "vedere qualcuno disperarsi",
+    "lasciare qualcuno disperarsi",
+    "piangere e disperarsi",
+    "gridare e disperarsi",
+    "disperarsi giorno e notte",
+    "disperarsi senza trovare una soluzione",
+    "essersi disperato",
+    "sembrare disperarsi",
+    "far disperare qualcuno",
+    "non far disperare qualcuno",
+    "una situazione che fa disperare"
+  ],
+
+  "examples": [
+    {
+      "it": "Non disperarti: possiamo ancora risolvere il problema.",
+      "ja": "絶望しないでください。まだ問題を解決できます。"
+    },
+    {
+      "it": "Si è disperata quando ha ricevuto la notizia.",
+      "ja": "彼女はその知らせを受けて取り乱しました。"
+    },
+    {
+      "it": "Non c’è motivo di disperarsi per un piccolo errore.",
+      "ja": "小さな間違いで絶望する理由はありません。"
+    },
+    {
+      "it": "I genitori si disperavano per il comportamento del figlio.",
+      "ja": "両親は息子の行動に頭を抱えていました。"
+    },
+    {
+      "it": "Invece di disperarci, dobbiamo cercare una soluzione.",
+      "ja": "絶望しているのではなく、解決策を探さなければなりません。"
+    },
+    {
+      "it": "Ha pianto e si è disperato per tutta la notte.",
+      "ja": "彼は一晩中泣き、悲嘆に暮れていました。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi dispero",
+        "ti disperi",
+        "si dispera",
+        "ci disperiamo",
+        "vi disperate",
+        "si disperano"
+      ],
+
+      "Imperfetto": [
+        "mi disperavo",
+        "ti disperavi",
+        "si disperava",
+        "ci disperavamo",
+        "vi disperavate",
+        "si disperavano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono disperato/a",
+        "ti sei disperato/a",
+        "si è disperato/a",
+        "ci siamo disperati/e",
+        "vi siete disperati/e",
+        "si sono disperati/e"
+      ],
+
+      "Passato remoto": [
+        "mi disperai",
+        "ti disperasti",
+        "si disperò",
+        "ci disperammo",
+        "vi disperaste",
+        "si disperarono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero disperato/a",
+        "ti eri disperato/a",
+        "si era disperato/a",
+        "ci eravamo disperati/e",
+        "vi eravate disperati/e",
+        "si erano disperati/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui disperato/a",
+        "ti fosti disperato/a",
+        "si fu disperato/a",
+        "ci fummo disperati/e",
+        "vi foste disperati/e",
+        "si furono disperati/e"
+      ],
+
+      "Futuro semplice": [
+        "mi dispererò",
+        "ti dispererai",
+        "si dispererà",
+        "ci dispereremo",
+        "vi dispererete",
+        "si dispereranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò disperato/a",
+        "ti sarai disperato/a",
+        "si sarà disperato/a",
+        "ci saremo disperati/e",
+        "vi sarete disperati/e",
+        "si saranno disperati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi disperi",
+        "ti disperi",
+        "si disperi",
+        "ci disperiamo",
+        "vi disperiate",
+        "si disperino"
+      ],
+
+      "Imperfetto": [
+        "mi disperassi",
+        "ti disperassi",
+        "si disperasse",
+        "ci disperassimo",
+        "vi disperaste",
+        "si disperassero"
+      ],
+
+      "Passato": [
+        "mi sia disperato/a",
+        "ti sia disperato/a",
+        "si sia disperato/a",
+        "ci siamo disperati/e",
+        "vi siate disperati/e",
+        "si siano disperati/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi disperato/a",
+        "ti fossi disperato/a",
+        "si fosse disperato/a",
+        "ci fossimo disperati/e",
+        "vi foste disperati/e",
+        "si fossero disperati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi dispererei",
+        "ti dispereresti",
+        "si dispererebbe",
+        "ci dispereremmo",
+        "vi disperereste",
+        "si dispererebbero"
+      ],
+
+      "Passato": [
+        "mi sarei disperato/a",
+        "ti saresti disperato/a",
+        "si sarebbe disperato/a",
+        "ci saremmo disperati/e",
+        "vi sareste disperati/e",
+        "si sarebbero disperati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "disperati",
+        "si disperi",
+        "disperiamoci",
+        "disperatevi",
+        "si disperino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "disperarsi",
+        "essersi disperato",
+        "disperantesi",
+        "disperatosi",
+        "disperandosi",
+        "essendosi disperato"
+      ]
+    }
+  }
 }
 ]
