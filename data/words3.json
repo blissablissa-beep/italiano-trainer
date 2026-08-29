@@ -16840,23 +16840,23 @@
   }
 },
 {
-  "id": "svegliarsi",
+  "id": "vergognarsi",
   "sid": "2026-00173",
-  "word": "svegliarsi",
-  "ipa": "/zveʎˈʎarsi/",
-  "level": "A1",
+  "word": "vergognarsi",
+  "ipa": "/verɡoɲˈɲarsi/",
+  "level": "A2",
   "frequency": "very_common",
 
   "grammar": {
     "pos": "verb",
     "label": {
-      "ja": "再帰動詞・代名動詞",
-      "it": "verbo riflessivo e pronominale"
+      "ja": "代名動詞",
+      "it": "verbo pronominale"
     },
     "auxiliary": "essere",
-    "pastParticiple": "svegliato",
-    "gerundPresent": "svegliandosi",
-    "pattern": "svegliarsi / svegliarsi a + ora / svegliarsi per, a causa di + motivo / svegliarsi da + stato"
+    "pastParticiple": "vergognato",
+    "gerundPresent": "vergognandosi",
+    "pattern": "vergognarsi di qualcuno o qualcosa / vergognarsi di + infinito / vergognarsi per qualcuno o qualcosa / non vergognarsi / far vergognare qualcuno"
   },
 
   "usage": {
@@ -16869,299 +16869,319 @@
     ],
     "situations": [
       "conversation",
-      "home",
-      "health",
-      "travel",
-      "workplace"
+      "emotion",
+      "relationships",
+      "social",
+      "conflict"
     ]
   },
 
   "meaning": {
     "ja": [
-      "眠りから覚める、目を覚ます",
-      "特定の時刻に起きる",
-      "音・光・夢などが原因で目を覚ます",
-      "意識を取り戻す、ぼんやりした状態から覚める",
-      "比喩的に、現実・危険・問題などに気づく",
-      "感情・関心・能力などが活発になる"
+      "自分の行為・失敗・性質などを恥ずかしいと感じる",
+      "人に知られたり見られたりすることを恥じる",
+      "人前である行為をすることに羞恥やためらいを感じる",
+      "家族・友人・所属集団などの行動を自分のことのように恥じる",
+      "自分の境遇・出身・身体的特徴などを恥ずかしく思う",
+      "non vergognarsiで、恥じることなく大胆に行動する"
     ],
     "it": [
-      "Uscire dal sonno e tornare coscienti.",
-      "Aprire gli occhi o interrompere il sonno a una determinata ora.",
-      "Interrompere il sonno a causa di un rumore, della luce, di un sogno o di un altro motivo.",
-      "Riprendere piena coscienza dopo uno stato di torpore o confusione.",
-      "In senso figurato, rendersi conto della realtà, di un pericolo o di un problema.",
-      "Diventare attivi o manifestarsi nuovamente, con riferimento a sentimenti, interessi o capacità."
+      "Provare vergogna per una propria azione, un errore o una caratteristica.",
+      "Sentirsi umiliati o a disagio perché qualcosa può essere conosciuto o osservato dagli altri.",
+      "Provare pudore o esitazione nel compiere un’azione davanti ad altre persone.",
+      "Provare vergogna per il comportamento di un familiare, di un amico o del proprio gruppo.",
+      "Considerare con vergogna la propria condizione, origine o una caratteristica personale.",
+      "Nella forma negativa non vergognarsi, agire senza provare vergogna o esitazione."
     ]
   },
 
   "nuance": {
-    "ja": "眠っている状態から意識のある状態へ移る瞬間を表す。alzarsiはベッドや椅子から身体を起こすことなので、目を覚ましても起き上がらない場合にはMi sono svegliato, ma sono rimasto a lettoと言える。svegliareは他人を起こす他動詞で、svegliarsiは自分が目を覚ますことを表す。",
-    "it": "Indica il passaggio dal sonno allo stato di coscienza. Alzarsi significa invece lasciare il letto o sollevare il corpo; perciò ci si può svegliare e rimanere a letto. Svegliare è transitivo e significa interrompere il sonno di un’altra persona, mentre svegliarsi riguarda il soggetto stesso."
+    "ja": "自分または自分と関係する人・事柄を、社会的・道徳的・個人的な基準に照らして好ましくないと感じることを表す。原因は通常diで導き、vergognarsi di un errore、vergognarsi di parlareと言う。perは他人の行為や特定の出来事を恥じる場合に使われやすい。imbarazzarsiは一時的な気まずさ・照れ、vergognarsiは自己評価を伴う、より深い「恥」を表しやすい。",
+    "it": "Indica un sentimento negativo verso sé stessi o qualcosa a cui si è legati, valutato come indegno, sconveniente o socialmente inaccettabile. La causa è normalmente introdotta da di: vergognarsi di un errore, di parlare. Per è frequente quando si prova vergogna a causa del comportamento altrui o di una particolare situazione. Imbarazzarsi esprime soprattutto disagio momentaneo; vergognarsi implica più facilmente un giudizio negativo su sé stessi."
   },
 
   "etymology": {
-    "ja": "動詞svegliareの再帰・代名動詞形である。svegliareは俗ラテン語exvigilāreに由来し、ラテン語vigil（目覚めている、注意深い）と関係する。同じ語族にはveglia、vegliare、vigile、vigilareなどがある。",
-    "it": "Forma riflessiva e pronominale di svegliare, dal latino volgare exvigilāre, collegato a vigil, «sveglio, attento». Alla stessa famiglia appartengono veglia, vegliare, vigile e vigilare."
+    "ja": "名詞vergogna（恥）から作られた動詞。vergognaはラテン語verēcundia（慎み、羞恥、畏敬）に由来し、verērī（恐れる、敬う）と関係する。もともとは他者や社会的規範への畏れから生じる慎みを表した。同じ語族にはvergognoso、svergognato、verecondoなどがある。",
+    "it": "Deriva da vergogna, continuazione del latino verēcundia, «pudore, modestia, rispetto», collegato a verērī, «temere, rispettare». Il significato originario richiamava quindi il ritegno prodotto dal rispetto per gli altri o per le norme sociali. Alla stessa famiglia appartengono vergognoso, svergognato e verecondo."
   },
 
   "minimal": [
     {
-      "word": "svegliarsi",
-      "ja": "眠りから覚めて意識のある状態になる",
-      "it": "uscire dal sonno e tornare coscienti"
+      "word": "vergognarsi",
+      "ja": "自分や関係する人の行為・性質を好ましくないと判断し、恥を感じる",
+      "it": "provare vergogna per sé stessi, per una propria azione o per qualcuno a cui si è legati"
     },
     {
-      "word": "svegliare",
-      "ja": "眠っている人や動物を起こす",
-      "it": "far uscire un’altra persona o un animale dal sonno"
+      "word": "imbarazzarsi",
+      "ja": "人前や気まずい状況で、一時的な照れ・困惑・居心地の悪さを感じる",
+      "it": "provare un disagio momentaneo o sentirsi impacciati in una situazione sociale"
     },
     {
-      "word": "alzarsi",
-      "ja": "ベッド・椅子などから身体を起こして立ち上がる",
-      "it": "sollevarsi dal letto, da una sedia o da un’altra posizione"
+      "word": "arrossire",
+      "ja": "恥ずかしさ・緊張・怒りなどによって顔が赤くなる",
+      "it": "diventare rossi in viso per vergogna, emozione, timidezza o rabbia"
     },
     {
-      "word": "addormentarsi",
-      "ja": "目覚めている状態から眠りに入る",
-      "it": "passare dallo stato di veglia al sonno"
+      "word": "pentirsi",
+      "ja": "過去の行為・決定を誤りだったと考え、後悔する",
+      "it": "provare rimorso o dispiacere per un’azione o una decisione passata"
+    },
+    {
+      "word": "umiliarsi",
+      "ja": "自尊心や尊厳を損なうほど、自分を低い立場に置く",
+      "it": "abbassarsi volontariamente o perdere la propria dignità davanti agli altri"
     }
   ],
 
   "synonyms": [
-    "destarsi",
-    "ridestarsi",
-    "aprire gli occhi",
-    "riprendere coscienza",
-    "rendersi conto"
+    "provare vergogna",
+    "imbarazzarsi",
+    "sentirsi mortificato",
+    "sentirsi umiliato",
+    "avere pudore",
+    "arrossire"
   ],
 
   "equivalents": {
     "en": [
-      "wake up",
-      "awaken",
-      "become aware"
+      "be ashamed",
+      "feel ashamed",
+      "be embarrassed"
     ],
     "de": [
-      "aufwachen",
-      "erwachen"
+      "sich schämen",
+      "sich genieren",
+      "beschämt sein"
     ],
     "fr": [
-      "se réveiller",
-      "s’éveiller"
+      "avoir honte",
+      "se sentir honteux",
+      "être gêné"
     ],
     "es": [
-      "despertarse",
-      "despabilarse"
+      "avergonzarse",
+      "sentir vergüenza",
+      "apenarse"
     ]
   },
 
   "collocations": [
-    "svegliarsi presto",
-    "svegliarsi tardi",
-    "svegliarsi all’alba",
-    "svegliarsi a mezzogiorno",
-    "svegliarsi alle sette",
-    "svegliarsi ogni mattina",
-    "svegliarsi durante la notte",
-    "svegliarsi improvvisamente",
-    "svegliarsi lentamente",
-    "svegliarsi riposato",
-    "svegliarsi stanco",
-    "svegliarsi di buon umore",
-    "svegliarsi di cattivo umore",
-    "svegliarsi con il rumore",
-    "svegliarsi per un rumore",
-    "svegliarsi a causa della luce",
-    "svegliarsi da un sogno",
-    "svegliarsi da un incubo",
-    "svegliarsi senza sveglia",
-    "fare fatica a svegliarsi",
-    "non riuscire a svegliarsi",
-    "appena svegliarsi",
-    "svegliarsi alla realtà",
-    "svegliarsi di soprassalto"
+    "vergognarsi di qualcosa",
+    "vergognarsi di qualcuno",
+    "vergognarsi di sé stessi",
+    "vergognarsi del proprio comportamento",
+    "vergognarsi delle proprie azioni",
+    "vergognarsi di un errore",
+    "vergognarsi di una bugia",
+    "vergognarsi del proprio passato",
+    "vergognarsi della propria ignoranza",
+    "vergognarsi della propria paura",
+    "vergognarsi della propria famiglia",
+    "vergognarsi delle proprie origini",
+    "vergognarsi del proprio corpo",
+    "vergognarsi di parlare",
+    "vergognarsi di chiedere aiuto",
+    "vergognarsi di piangere",
+    "vergognarsi di ammettere qualcosa",
+    "vergognarsi di essere povero",
+    "vergognarsi di non sapere",
+    "vergognarsi per qualcuno",
+    "vergognarsi per il comportamento di qualcuno",
+    "vergognarsi profondamente",
+    "vergognarsi molto",
+    "vergognarsi inutilmente",
+    "cominciare a vergognarsi",
+    "non riuscire a non vergognarsi",
+    "avere motivo di vergognarsi",
+    "non avere motivo di vergognarsi",
+    "non doversi vergognare",
+    "non vergognarsi affatto",
+    "non vergognarsi di nulla",
+    "far vergognare qualcuno",
+    "dovresti vergognarti",
+    "vergognarsi davanti agli altri",
+    "essersi vergognato"
   ],
 
   "examples": [
     {
-      "it": "Mi sveglio ogni mattina alle sette.",
-      "ja": "私は毎朝7時に目を覚ます。"
+      "it": "Mi vergogno del mio comportamento.",
+      "ja": "私は自分の行動を恥じています。"
     },
     {
-      "it": "Mi sono svegliato tardi e ho perso il treno.",
-      "ja": "私は寝坊して列車に乗り遅れた。"
+      "it": "Non devi vergognarti di chiedere aiuto.",
+      "ja": "助けを求めることを恥ずかしく思う必要はありません。"
     },
     {
-      "it": "Il bambino si è svegliato per il rumore.",
-      "ja": "その子どもは物音で目を覚ました。"
+      "it": "Si è vergognato di aver mentito.",
+      "ja": "彼はうそをついたことを恥じました。"
     },
     {
-      "it": "Quando ti svegli, chiamami.",
-      "ja": "目が覚めたら私に電話してください。"
+      "it": "Mi vergogno per il modo in cui ti ha trattato.",
+      "ja": "彼があなたにした扱いを、私は恥ずかしく思います。"
     },
     {
-      "it": "Si era già svegliata, ma era ancora a letto.",
-      "ja": "彼女はすでに目を覚ましていたが、まだベッドにいた。"
+      "it": "Da bambino si vergognava di parlare davanti alla classe.",
+      "ja": "子供のころ、彼女は教室の前で話すことを恥ずかしがっていました。"
     },
     {
-      "it": "È ora che tutti si sveglino alla realtà.",
-      "ja": "皆が現実に気づくべき時だ。"
+      "it": "Dovrebbero vergognarsi di ciò che hanno fatto.",
+      "ja": "彼らは自分たちのしたことを恥じるべきです。"
     }
   ],
 
   "conjugations": {
     "Indicativo": {
       "Presente": [
-        "mi sveglio",
-        "ti svegli",
-        "si sveglia",
-        "ci svegliamo",
-        "vi svegliate",
-        "si svegliano"
+        "mi vergogno",
+        "ti vergogni",
+        "si vergogna",
+        "ci vergogniamo",
+        "vi vergognate",
+        "si vergognano"
       ],
 
       "Imperfetto": [
-        "mi svegliavo",
-        "ti svegliavi",
-        "si svegliava",
-        "ci svegliavamo",
-        "vi svegliavate",
-        "si svegliavano"
+        "mi vergognavo",
+        "ti vergognavi",
+        "si vergognava",
+        "ci vergognavamo",
+        "vi vergognavate",
+        "si vergognavano"
       ],
 
       "Passato prossimo": [
-        "mi sono svegliato/a",
-        "ti sei svegliato/a",
-        "si è svegliato/a",
-        "ci siamo svegliati/e",
-        "vi siete svegliati/e",
-        "si sono svegliati/e"
+        "mi sono vergognato/a",
+        "ti sei vergognato/a",
+        "si è vergognato/a",
+        "ci siamo vergognati/e",
+        "vi siete vergognati/e",
+        "si sono vergognati/e"
       ],
 
       "Passato remoto": [
-        "mi svegliai",
-        "ti svegliasti",
-        "si svegliò",
-        "ci svegliammo",
-        "vi svegliaste",
-        "si svegliarono"
+        "mi vergognai",
+        "ti vergognasti",
+        "si vergognò",
+        "ci vergognammo",
+        "vi vergognaste",
+        "si vergognarono"
       ],
 
       "Trapassato prossimo": [
-        "mi ero svegliato/a",
-        "ti eri svegliato/a",
-        "si era svegliato/a",
-        "ci eravamo svegliati/e",
-        "vi eravate svegliati/e",
-        "si erano svegliati/e"
+        "mi ero vergognato/a",
+        "ti eri vergognato/a",
+        "si era vergognato/a",
+        "ci eravamo vergognati/e",
+        "vi eravate vergognati/e",
+        "si erano vergognati/e"
       ],
 
       "Trapassato remoto": [
-        "mi fui svegliato/a",
-        "ti fosti svegliato/a",
-        "si fu svegliato/a",
-        "ci fummo svegliati/e",
-        "vi foste svegliati/e",
-        "si furono svegliati/e"
+        "mi fui vergognato/a",
+        "ti fosti vergognato/a",
+        "si fu vergognato/a",
+        "ci fummo vergognati/e",
+        "vi foste vergognati/e",
+        "si furono vergognati/e"
       ],
 
       "Futuro semplice": [
-        "mi sveglierò",
-        "ti sveglierai",
-        "si sveglierà",
-        "ci sveglieremo",
-        "vi sveglierete",
-        "si sveglieranno"
+        "mi vergognerò",
+        "ti vergognerai",
+        "si vergognerà",
+        "ci vergogneremo",
+        "vi vergognerete",
+        "si vergogneranno"
       ],
 
       "Futuro anteriore": [
-        "mi sarò svegliato/a",
-        "ti sarai svegliato/a",
-        "si sarà svegliato/a",
-        "ci saremo svegliati/e",
-        "vi sarete svegliati/e",
-        "si saranno svegliati/e"
+        "mi sarò vergognato/a",
+        "ti sarai vergognato/a",
+        "si sarà vergognato/a",
+        "ci saremo vergognati/e",
+        "vi sarete vergognati/e",
+        "si saranno vergognati/e"
       ]
     },
 
     "Congiuntivo": {
       "Presente": [
-        "mi svegli",
-        "ti svegli",
-        "si svegli",
-        "ci svegliamo",
-        "vi svegliate",
-        "si sveglino"
+        "mi vergogni",
+        "ti vergogni",
+        "si vergogni",
+        "ci vergogniamo",
+        "vi vergogniate",
+        "si vergognino"
       ],
 
       "Imperfetto": [
-        "mi svegliassi",
-        "ti svegliassi",
-        "si svegliasse",
-        "ci svegliassimo",
-        "vi svegliaste",
-        "si svegliassero"
+        "mi vergognassi",
+        "ti vergognassi",
+        "si vergognasse",
+        "ci vergognassimo",
+        "vi vergognaste",
+        "si vergognassero"
       ],
 
       "Passato": [
-        "mi sia svegliato/a",
-        "ti sia svegliato/a",
-        "si sia svegliato/a",
-        "ci siamo svegliati/e",
-        "vi siate svegliati/e",
-        "si siano svegliati/e"
+        "mi sia vergognato/a",
+        "ti sia vergognato/a",
+        "si sia vergognato/a",
+        "ci siamo vergognati/e",
+        "vi siate vergognati/e",
+        "si siano vergognati/e"
       ],
 
       "Trapassato": [
-        "mi fossi svegliato/a",
-        "ti fossi svegliato/a",
-        "si fosse svegliato/a",
-        "ci fossimo svegliati/e",
-        "vi foste svegliati/e",
-        "si fossero svegliati/e"
+        "mi fossi vergognato/a",
+        "ti fossi vergognato/a",
+        "si fosse vergognato/a",
+        "ci fossimo vergognati/e",
+        "vi foste vergognati/e",
+        "si fossero vergognati/e"
       ]
     },
 
     "Condizionale": {
       "Presente": [
-        "mi sveglierei",
-        "ti sveglieresti",
-        "si sveglierebbe",
-        "ci sveglieremmo",
-        "vi svegliereste",
-        "si sveglierebbero"
+        "mi vergognerei",
+        "ti vergogneresti",
+        "si vergognerebbe",
+        "ci vergogneremmo",
+        "vi vergognereste",
+        "si vergognerebbero"
       ],
 
       "Passato": [
-        "mi sarei svegliato/a",
-        "ti saresti svegliato/a",
-        "si sarebbe svegliato/a",
-        "ci saremmo svegliati/e",
-        "vi sareste svegliati/e",
-        "si sarebbero svegliati/e"
+        "mi sarei vergognato/a",
+        "ti saresti vergognato/a",
+        "si sarebbe vergognato/a",
+        "ci saremmo vergognati/e",
+        "vi sareste vergognati/e",
+        "si sarebbero vergognati/e"
       ]
     },
 
     "Imperativo": {
       "Presente": [
         "—",
-        "svegliati",
-        "si svegli",
-        "svegliamoci",
-        "svegliatevi",
-        "si sveglino"
+        "vergognati",
+        "si vergogni",
+        "vergogniamoci",
+        "vergognatevi",
+        "si vergognino"
       ]
     },
 
     "Forme indefinite": {
       "Forme": [
-        "svegliarsi",
-        "essersi svegliato/a/i/e",
-        "svegliantesi",
-        "svegliato",
-        "svegliandosi",
-        "essendosi svegliato/a/i/e"
+        "vergognarsi",
+        "essersi vergognato",
+        "vergognantesi",
+        "vergognatosi",
+        "vergognandosi",
+        "essendosi vergognato"
       ]
     }
   }
