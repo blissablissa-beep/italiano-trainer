@@ -181,9 +181,37 @@ function getFilteredWords() {
   if (state.query) {
     const query = state.query.toLowerCase();
 
-    words = words.filter(word =>
-      JSON.stringify(word).toLowerCase().includes(query)
-    );
+    words = words
+      .filter(word =>
+        JSON.stringify(word).toLowerCase().includes(query)
+      )
+      .sort((a, b) => {
+        const aWord = a.word.toLowerCase();
+        const bWord = b.word.toLowerCase();
+
+        // 見出し語の完全一致
+        if (aWord === query && bWord !== query) {
+          return -1;
+        }
+
+        if (bWord === query && aWord !== query) {
+          return 1;
+        }
+
+        // 見出し語の前方一致
+        const aStarts = aWord.startsWith(query);
+        const bStarts = bWord.startsWith(query);
+
+        if (aStarts && !bStarts) {
+          return -1;
+        }
+
+        if (bStarts && !aStarts) {
+          return 1;
+        }
+
+        return 0;
+      });
   }
 
   if (state.shuffle) {
