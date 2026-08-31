@@ -3891,5 +3891,1797 @@
       ]
     }
   }
+},
+{
+  "id": "trattare",
+  "sid": "2026-00282",
+  "word": "trattare",
+  "ipa": "/tratˈtare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞・代名動詞的用法を持つ動詞",
+      "it": "verbo transitivo, intransitivo e con usi pronominali"
+    },
+    "auxiliary": "avere; essere nella costruzione pronominale trattarsi di",
+    "pastParticiple": "trattato",
+    "gerundPresent": "trattando",
+    "pattern": "trattare qualcuno bene o male / trattare qualcosa / trattare di qualcosa / trattare con qualcuno / trattare per qualcosa / trattarsi di qualcosa"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "education",
+      "health",
+      "negotiation"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人に特定の態度・方法で接する、扱う",
+      "問題・話題・事件などを取り上げて論じる",
+      "物・情報・案件などを処理する、取り扱う",
+      "人・組織などと交渉する、条件について協議する",
+      "価格・契約条件などを交渉して決める",
+      "病気・けが・患者などを治療する",
+      "物質・材料・食品などに加工・処理を施す",
+      "商品・作家・分野などを商業的・専門的に取り扱う",
+      "trattarsi diで、～に関することである、～である"
+    ],
+    "it": [
+      "Comportarsi verso una persona in un determinato modo.",
+      "Affrontare ed esaminare un problema, un argomento o un fatto.",
+      "Gestire o elaborare un oggetto, un’informazione o una pratica.",
+      "Condurre negoziati o discussioni con una persona o un’organizzazione.",
+      "Negoziare un prezzo, un accordo o le condizioni di un contratto.",
+      "Curare una malattia, una lesione o un paziente.",
+      "Sottoporre una sostanza, un materiale o un alimento a una lavorazione.",
+      "Occuparsi professionalmente o commercialmente di prodotti, autori o determinati settori.",
+      "Nella costruzione trattarsi di, riguardare o consistere in qualcosa."
+    ]
+  },
+
+  "nuance": {
+    "ja": "文脈によって意味が大きく変わる基本動詞である。人を目的語にするとtrattare qualcuno bene「人によく接する」のように待遇・接し方を表す。話題を目的語にすると「取り扱う、論じる」、trattare di qualcosaでは「～について述べる」となる。trattare con qualcunoは「人と交渉する」、trattare una malattiaは「病気を治療する」を意味する。非人称的なtrattarsi diは「～のことである」という別の重要な文型なので、単純なtrattareと混同しないよう注意が必要である。",
+    "it": "È un verbo fondamentale e fortemente polisemico. Con una persona come oggetto descrive il modo in cui ci si comporta verso di lei. Con un argomento significa affrontarlo o discuterlo; trattare di introduce il tema di un testo o di un discorso. Trattare con qualcuno significa negoziare, mentre trattare una malattia significa curarla. La costruzione impersonale trattarsi di, molto frequente, significa riguardare o consistere in qualcosa."
+  },
+
+  "etymology": {
+    "ja": "ラテン語tractāre（引っ張る、手で扱う、繰り返し取り扱う）に由来する。tractāreはtrahere（引く）の反復・強意形であり、物を手で動かし扱うという意味から、人への接し方、問題の検討、交渉、治療などへ意味が広がった。同じ語族にはtratto、trattamento、trattativa、trattato、trarre、attrarreなどがある。",
+    "it": "Dal latino tractāre, forma frequentativa di trahere, «tirare». Indicava originariamente il maneggiare o il sottoporre ripetutamente qualcosa a un’azione. Da questa idea si sono sviluppati i significati di gestire, discutere, negoziare e curare. Alla stessa famiglia appartengono tratto, trattamento, trattativa, trattato e trarre."
+  },
+
+  "minimal": [
+    {
+      "word": "trattare",
+      "ja": "人に接する、話題を論じる、案件を処理する、または交渉・治療する",
+      "it": "comportarsi verso qualcuno, affrontare un argomento, gestire una pratica oppure negoziare o curare"
+    },
+    {
+      "word": "gestire",
+      "ja": "活動・組織・資源・問題などを継続的に管理・運営する",
+      "it": "amministrare e coordinare nel tempo un’attività, un’organizzazione, una risorsa o un problema"
+    },
+    {
+      "word": "discutere",
+      "ja": "問題について複数の意見を比較しながら検討・議論する",
+      "it": "esaminare una questione mediante un confronto di opinioni"
+    },
+    {
+      "word": "negoziare",
+      "ja": "合意に達するため、価格・条件・利害などについて協議する",
+      "it": "discutere condizioni e interessi con lo scopo di raggiungere un accordo"
+    },
+    {
+      "word": "curare",
+      "ja": "患者・病気・けがに医療的な処置や世話を与える",
+      "it": "prestare assistenza e applicare terapie a un paziente, una malattia o una lesione"
+    }
+  ],
+
+  "synonyms": [
+    "affrontare",
+    "esaminare",
+    "gestire",
+    "negoziare",
+    "curare",
+    "elaborare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "treat",
+      "deal with",
+      "handle"
+    ],
+    "de": [
+      "behandeln",
+      "umgehen mit",
+      "verhandeln"
+    ],
+    "fr": [
+      "traiter",
+      "aborder",
+      "négocier"
+    ],
+    "es": [
+      "tratar",
+      "abordar",
+      "negociar"
+    ]
+  },
+
+  "collocations": [
+    "trattare qualcuno",
+    "trattare bene qualcuno",
+    "trattare male qualcuno",
+    "trattare qualcuno con rispetto",
+    "trattare qualcuno con gentilezza",
+    "trattare qualcuno con freddezza",
+    "trattare tutti allo stesso modo",
+    "trattare qualcuno come un amico",
+    "essere trattato bene",
+    "essere trattato ingiustamente",
+    "trattare un argomento",
+    "trattare un tema",
+    "trattare una questione",
+    "trattare un problema",
+    "trattare un caso",
+    "trattare un aspetto",
+    "trattare brevemente",
+    "trattare approfonditamente",
+    "trattare di politica",
+    "trattare di storia",
+    "un libro tratta di",
+    "un articolo tratta di",
+    "trattare una pratica",
+    "trattare una richiesta",
+    "trattare i dati",
+    "trattare le informazioni",
+    "trattare con qualcuno",
+    "trattare con un cliente",
+    "trattare con un fornitore",
+    "trattare con il governo",
+    "trattare con rispetto",
+    "trattare un accordo",
+    "trattare un contratto",
+    "trattare il prezzo",
+    "trattare le condizioni",
+    "trattare per la pace",
+    "trattare una malattia",
+    "trattare un’infezione",
+    "trattare un paziente",
+    "trattare una ferita",
+    "trattare il legno",
+    "trattare il metallo",
+    "trattare una superficie",
+    "trattare chimicamente",
+    "trattare prodotti alimentari",
+    "trattare opere d’arte",
+    "trattare prodotti di lusso",
+    "si tratta di",
+    "non si tratta di",
+    "di che cosa si tratta?"
+  ],
+
+  "examples": [
+    {
+      "it": "Dovresti trattare tutti con rispetto.",
+      "ja": "すべての人に敬意を持って接するべきです。"
+    },
+    {
+      "it": "Il libro tratta la storia dell’Italia moderna.",
+      "ja": "その本は近代イタリアの歴史を扱っています。"
+    },
+    {
+      "it": "L’articolo tratta di un problema ambientale.",
+      "ja": "その記事は環境問題について述べています。"
+    },
+    {
+      "it": "Stiamo trattando con il cliente le condizioni del contratto.",
+      "ja": "私たちは顧客と契約条件について交渉しています。"
+    },
+    {
+      "it": "Questa malattia può essere trattata con i farmaci.",
+      "ja": "この病気は薬で治療できます。"
+    },
+    {
+      "it": "Non si tratta di un errore, ma di una scelta intenzionale.",
+      "ja": "これは誤りではなく、意図的な選択です。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "tratto",
+        "tratti",
+        "tratta",
+        "trattiamo",
+        "trattate",
+        "trattano"
+      ],
+
+      "Imperfetto": [
+        "trattavo",
+        "trattavi",
+        "trattava",
+        "trattavamo",
+        "trattavate",
+        "trattavano"
+      ],
+
+      "Passato prossimo": [
+        "ho trattato",
+        "hai trattato",
+        "ha trattato",
+        "abbiamo trattato",
+        "avete trattato",
+        "hanno trattato"
+      ],
+
+      "Passato remoto": [
+        "trattai",
+        "trattasti",
+        "trattò",
+        "trattammo",
+        "trattaste",
+        "trattarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo trattato",
+        "avevi trattato",
+        "aveva trattato",
+        "avevamo trattato",
+        "avevate trattato",
+        "avevano trattato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi trattato",
+        "avesti trattato",
+        "ebbe trattato",
+        "avemmo trattato",
+        "aveste trattato",
+        "ebbero trattato"
+      ],
+
+      "Futuro semplice": [
+        "tratterò",
+        "tratterai",
+        "tratterà",
+        "tratteremo",
+        "tratterete",
+        "tratteranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò trattato",
+        "avrai trattato",
+        "avrà trattato",
+        "avremo trattato",
+        "avrete trattato",
+        "avranno trattato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "tratti",
+        "tratti",
+        "tratti",
+        "trattiamo",
+        "trattiate",
+        "trattino"
+      ],
+
+      "Imperfetto": [
+        "trattassi",
+        "trattassi",
+        "trattasse",
+        "trattassimo",
+        "trattaste",
+        "trattassero"
+      ],
+
+      "Passato": [
+        "abbia trattato",
+        "abbia trattato",
+        "abbia trattato",
+        "abbiamo trattato",
+        "abbiate trattato",
+        "abbiano trattato"
+      ],
+
+      "Trapassato": [
+        "avessi trattato",
+        "avessi trattato",
+        "avesse trattato",
+        "avessimo trattato",
+        "aveste trattato",
+        "avessero trattato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "tratterei",
+        "tratteresti",
+        "tratterebbe",
+        "tratteremmo",
+        "trattereste",
+        "tratterebbero"
+      ],
+
+      "Passato": [
+        "avrei trattato",
+        "avresti trattato",
+        "avrebbe trattato",
+        "avremmo trattato",
+        "avreste trattato",
+        "avrebbero trattato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "tratta",
+        "tratti",
+        "trattiamo",
+        "trattate",
+        "trattino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "trattare",
+        "avere trattato",
+        "trattante",
+        "trattato",
+        "trattando",
+        "avendo trattato"
+      ]
+    }
+  }
+},
+{
+  "id": "negoziare",
+  "sid": "2026-00283",
+  "word": "negoziare",
+  "ipa": "/neɡotˈtsjare/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞",
+      "it": "verbo transitivo e intransitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "negoziato",
+    "gerundPresent": "negoziando",
+    "pattern": "negoziare qualcosa / negoziare con qualcuno / negoziare qualcosa con qualcuno / negoziare per + scopo / negoziare su + questione"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "business",
+      "law",
+      "politics",
+      "diplomacy",
+      "finance"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "合意に達するため、相手と条件・利害などについて交渉する",
+      "価格・報酬・契約条件などを話し合って決める",
+      "契約・協定・取引などの内容を交渉して成立させる",
+      "紛争当事者が和平・停戦・妥協などについて協議する",
+      "人質の解放や問題の解決に向けて条件を話し合う",
+      "証券・金融商品などを市場で売買する",
+      "手形・小切手などの商業証券を譲渡・換金する、専門的用法"
+    ],
+    "it": [
+      "Discutere condizioni e interessi con un’altra parte per raggiungere un accordo.",
+      "Concordare mediante una trattativa un prezzo, un compenso o le condizioni di un contratto.",
+      "Definire e concludere un contratto, un accordo o un’operazione mediante il confronto tra le parti.",
+      "Discutere una pace, una tregua o un compromesso tra parti in conflitto.",
+      "Trattare le condizioni per la liberazione di ostaggi o la soluzione di un problema.",
+      "Comprare e vendere titoli o altri strumenti su un mercato finanziario.",
+      "Trasferire o scontare cambiali, assegni e altri titoli di credito, in un uso specialistico."
+    ]
+  },
+
+  "nuance": {
+    "ja": "複数の当事者が異なる希望や利害を持つ状況で、譲歩・提案・条件調整を通じて合意点を探すことを表す。単に意見を交換するdiscutereよりも、具体的な合意や決定を目標としている。trattareも「交渉する」の意味で使えるが、negoziareは過程と合意形成をより明確に示し、契約・外交・労使関係などで頻繁に用いられる。目的語には価格だけでなく、contratto、accordo、treguaなど交渉によって成立させるものも置ける。",
+    "it": "Indica un confronto tra parti con interessi almeno parzialmente diversi, finalizzato a raggiungere un accordo attraverso proposte, concessioni e modifiche delle condizioni. A differenza di discutere, non implica un semplice scambio di opinioni, ma tende verso un risultato concreto. Trattare può avere lo stesso significato, ma negoziare rende più esplicito il processo di costruzione dell’accordo ed è frequente nei contratti, nella diplomazia e nelle relazioni di lavoro."
+  },
+
+  "etymology": {
+    "ja": "ラテン語negotiāri（商売をする、取引する）に由来し、名詞negotium（仕事、用事、商取引）の派生語である。negotiumはnec（～でない）とotium（余暇、休息）から成り、語源的には「暇ではない状態」、すなわち仕事や用事を意味した。同じ語族にはnegozio、negoziato、negoziazione、英語negotiateなどがある。",
+    "it": "Dal latino negotiāri, «commerciare, condurre affari», derivato da negotium. Negotium è tradizionalmente analizzato come nec, «non», e otium, «ozio, tempo libero», e indicava quindi un’attività o un affare contrapposto al riposo. Alla stessa famiglia appartengono negozio, negoziato e negoziazione."
+  },
+
+  "minimal": [
+    {
+      "word": "negoziare",
+      "ja": "異なる利害や条件を調整し、具体的な合意に達するために交渉する",
+      "it": "confrontare condizioni e interessi con lo scopo concreto di raggiungere un accordo"
+    },
+    {
+      "word": "trattare",
+      "ja": "人に接する、問題を扱う、または人と条件について交渉する",
+      "it": "comportarsi verso qualcuno, affrontare una questione oppure condurre una trattativa"
+    },
+    {
+      "word": "discutere",
+      "ja": "問題について意見を交換・比較しながら検討する",
+      "it": "esaminare una questione mediante uno scambio e un confronto di opinioni"
+    },
+    {
+      "word": "contrattare",
+      "ja": "特に価格・報酬・売買条件について細かく駆け引きする",
+      "it": "discutere soprattutto prezzi, compensi o condizioni di vendita cercando un vantaggio"
+    },
+    {
+      "word": "mediare",
+      "ja": "対立する当事者の間に入り、合意や妥協の成立を助ける",
+      "it": "intervenire tra parti in contrasto per facilitare un accordo o un compromesso"
+    }
+  ],
+
+  "synonyms": [
+    "trattare",
+    "contrattare",
+    "discutere",
+    "concordare",
+    "pattuire",
+    "mercanteggiare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "negotiate",
+      "bargain",
+      "trade"
+    ],
+    "de": [
+      "verhandeln",
+      "aushandeln",
+      "handeln"
+    ],
+    "fr": [
+      "négocier",
+      "marchander",
+      "traiter"
+    ],
+    "es": [
+      "negociar",
+      "pactar",
+      "regatear"
+    ]
+  },
+
+  "collocations": [
+    "negoziare con qualcuno",
+    "negoziare con un cliente",
+    "negoziare con un fornitore",
+    "negoziare con il datore di lavoro",
+    "negoziare con il sindacato",
+    "negoziare con il governo",
+    "negoziare con la controparte",
+    "negoziare direttamente",
+    "negoziare segretamente",
+    "negoziare duramente",
+    "negoziare liberamente",
+    "essere disposto a negoziare",
+    "rifiutarsi di negoziare",
+    "accettare di negoziare",
+    "continuare a negoziare",
+    "tornare a negoziare",
+    "negoziare il prezzo",
+    "negoziare uno stipendio",
+    "negoziare un aumento",
+    "negoziare un compenso",
+    "negoziare le condizioni",
+    "negoziare i termini",
+    "negoziare una scadenza",
+    "negoziare un contratto",
+    "negoziare un accordo",
+    "negoziare un’intesa",
+    "negoziare una soluzione",
+    "negoziare un compromesso",
+    "negoziare un prestito",
+    "negoziare un mutuo",
+    "negoziare una tregua",
+    "negoziare la pace",
+    "negoziare un cessate il fuoco",
+    "negoziare la liberazione degli ostaggi",
+    "negoziare per conto di qualcuno",
+    "negoziare su un punto",
+    "negoziare in buona fede",
+    "negoziare da una posizione di forza",
+    "negoziare titoli",
+    "titoli negoziati in borsa"
+  ],
+
+  "examples": [
+    {
+      "it": "Stiamo negoziando le condizioni del nuovo contratto.",
+      "ja": "私たちは新しい契約の条件を交渉しています。"
+    },
+    {
+      "it": "È possibile negoziare il prezzo con il venditore.",
+      "ja": "売り手と価格を交渉することができます。"
+    },
+    {
+      "it": "Il sindacato ha negoziato un aumento salariale.",
+      "ja": "労働組合は賃上げを交渉によって獲得しました。"
+    },
+    {
+      "it": "Le due parti hanno accettato di negoziare una tregua.",
+      "ja": "双方は停戦について交渉することに同意しました。"
+    },
+    {
+      "it": "L’avvocato negozierà per conto del cliente.",
+      "ja": "弁護士が依頼人に代わって交渉します。"
+    },
+    {
+      "it": "Le azioni della società sono negoziate alla Borsa di Milano.",
+      "ja": "その会社の株式はミラノ証券取引所で取引されています。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "negozio",
+        "negozi",
+        "negozia",
+        "negoziamo",
+        "negoziate",
+        "negoziano"
+      ],
+
+      "Imperfetto": [
+        "negoziavo",
+        "negoziavi",
+        "negoziava",
+        "negoziavamo",
+        "negoziavate",
+        "negoziavano"
+      ],
+
+      "Passato prossimo": [
+        "ho negoziato",
+        "hai negoziato",
+        "ha negoziato",
+        "abbiamo negoziato",
+        "avete negoziato",
+        "hanno negoziato"
+      ],
+
+      "Passato remoto": [
+        "negoziai",
+        "negoziasti",
+        "negoziò",
+        "negoziammo",
+        "negoziaste",
+        "negoziarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo negoziato",
+        "avevi negoziato",
+        "aveva negoziato",
+        "avevamo negoziato",
+        "avevate negoziato",
+        "avevano negoziato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi negoziato",
+        "avesti negoziato",
+        "ebbe negoziato",
+        "avemmo negoziato",
+        "aveste negoziato",
+        "ebbero negoziato"
+      ],
+
+      "Futuro semplice": [
+        "negozierò",
+        "negozierai",
+        "negozierà",
+        "negozieremo",
+        "negozierete",
+        "negozieranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò negoziato",
+        "avrai negoziato",
+        "avrà negoziato",
+        "avremo negoziato",
+        "avrete negoziato",
+        "avranno negoziato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "negozi",
+        "negozi",
+        "negozi",
+        "negoziamo",
+        "negoziate",
+        "negozino"
+      ],
+
+      "Imperfetto": [
+        "negoziassi",
+        "negoziassi",
+        "negoziasse",
+        "negoziassimo",
+        "negoziaste",
+        "negoziassero"
+      ],
+
+      "Passato": [
+        "abbia negoziato",
+        "abbia negoziato",
+        "abbia negoziato",
+        "abbiamo negoziato",
+        "abbiate negoziato",
+        "abbiano negoziato"
+      ],
+
+      "Trapassato": [
+        "avessi negoziato",
+        "avessi negoziato",
+        "avesse negoziato",
+        "avessimo negoziato",
+        "aveste negoziato",
+        "avessero negoziato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "negozierei",
+        "negozieresti",
+        "negozierebbe",
+        "negozieremmo",
+        "negoziereste",
+        "negozierebbero"
+      ],
+
+      "Passato": [
+        "avrei negoziato",
+        "avresti negoziato",
+        "avrebbe negoziato",
+        "avremmo negoziato",
+        "avreste negoziato",
+        "avrebbero negoziato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "negozia",
+        "negozi",
+        "negoziamo",
+        "negoziate",
+        "negozino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "negoziare",
+        "avere negoziato",
+        "negoziante",
+        "negoziato",
+        "negoziando",
+        "avendo negoziato"
+      ]
+    }
+  }
+},
+{
+  "id": "procurarsi",
+  "sid": "2026-00285",
+  "word": "procurarsi",
+  "ipa": "/prokuˈrarsi/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "代名動詞",
+      "it": "verbo pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "procurato",
+    "gerundPresent": "procurandosi",
+    "pattern": "procurarsi qualcosa / procurarsi qualcosa da qualcuno / procurarsi qualcosa per + scopo / procurarsi da vivere / procurarsi un danno o una ferita"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "daily_life",
+      "business",
+      "health",
+      "survival"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "努力・探索・手配などによって自分に必要な物を手に入れる",
+      "書類・情報・資金・道具などを自分で確保する",
+      "食料・住居・収入など生活に必要なものを得る",
+      "人脈・協力者・仕事・機会などを見つけて得る",
+      "自分の行動によってけが・損害・問題などを負う",
+      "敵・悪評・反感などの好ましくない結果を自ら招く"
+    ],
+    "it": [
+      "Ottenere per sé qualcosa di necessario mediante ricerca, impegno o organizzazione.",
+      "Assicurarsi personalmente documenti, informazioni, fondi o strumenti.",
+      "Trovare cibo, alloggio, reddito o altri mezzi necessari alla vita.",
+      "Trovare e ottenere contatti, collaboratori, un lavoro o un’occasione.",
+      "Subire una ferita, un danno o un problema come conseguenza delle proprie azioni.",
+      "Attirarsi conseguenze negative come inimicizie, cattiva fama o ostilità."
+    ]
+  },
+
+  "nuance": {
+    "ja": "必要なものが自然に与えられるのではなく、自ら探す・依頼する・交渉するなどして確保することを表す。ottenereは単に最終的な獲得を示すが、procurarsiは手に入れるための能動的な働きかけを強調する。肯定的・中立的な対象だけでなく、procurarsi una ferita「けがをする」やprocurarsi dei nemici「敵を作る」のように、自分の行動によって好ましくない結果を招く場合にも使われる。",
+    "it": "Indica che il soggetto si attiva personalmente per ottenere ciò di cui ha bisogno, cercandolo, organizzandosi o chiedendolo ad altri. Ottenere mette in evidenza soprattutto il risultato; procurarsi anche lo sforzo o l’iniziativa necessari. Il complemento può essere positivo o neutro, ma anche negativo: procurarsi una ferita o dei nemici significa provocare per sé una conseguenza indesiderata."
+  },
+
+  "etymology": {
+    "ja": "procurareの代名動詞形である。procurareはラテン語prōcūrāre（世話をする、管理する、取り計らう）に由来し、prō-（～のために）とcūrāre（世話をする、配慮する）から成る。自分自身のために必要な措置を講じるという発想から、「自力で確保する」という意味が生じた。",
+    "it": "È la forma pronominale di procurare, dal latino prōcūrāre, composto da prō-, «a favore di», e cūrāre, «aver cura, occuparsi». L’idea di provvedere ai propri bisogni ha prodotto il significato moderno di ottenere qualcosa per sé mediante un’iniziativa personale."
+  },
+
+  "minimal": [
+    {
+      "word": "procurarsi",
+      "ja": "自ら働きかけて、自分に必要な物・手段・機会などを確保する",
+      "it": "attivarsi personalmente per ottenere qualcosa di necessario per sé"
+    },
+    {
+      "word": "procurare",
+      "ja": "人のために必要なものを手配・調達する、または結果を引き起こす",
+      "it": "ottenere qualcosa per qualcuno oppure produrre un determinato effetto"
+    },
+    {
+      "word": "ottenere",
+      "ja": "求めていた物・許可・権利・結果などを最終的に手に入れる",
+      "it": "raggiungere il risultato di ricevere o acquisire qualcosa che si desiderava"
+    },
+    {
+      "word": "reperire",
+      "ja": "すぐには見つからない物・情報・人材などを探し出す",
+      "it": "rintracciare e trovare qualcosa o qualcuno non immediatamente disponibile"
+    },
+    {
+      "word": "assicurarsi",
+      "ja": "必要な物・条件・結果などを確実に自分のものにする",
+      "it": "fare in modo di avere con certezza qualcosa o che una condizione sia soddisfatta"
+    }
+  ],
+
+  "synonyms": [
+    "ottenere",
+    "reperire",
+    "assicurarsi",
+    "acquistare",
+    "trovare",
+    "entrare in possesso di"
+  ],
+
+  "equivalents": {
+    "en": [
+      "procure",
+      "obtain",
+      "get hold of"
+    ],
+    "de": [
+      "sich beschaffen",
+      "sich besorgen",
+      "sich verschaffen"
+    ],
+    "fr": [
+      "se procurer",
+      "obtenir",
+      "se munir de"
+    ],
+    "es": [
+      "procurarse",
+      "conseguir",
+      "hacerse con"
+    ]
+  },
+
+  "collocations": [
+    "procurarsi qualcosa",
+    "procurarsi il necessario",
+    "procurarsi del cibo",
+    "procurarsi dell’acqua",
+    "procurarsi da mangiare",
+    "procurarsi da bere",
+    "procurarsi un alloggio",
+    "procurarsi un riparo",
+    "procurarsi dei vestiti",
+    "procurarsi un documento",
+    "procurarsi un passaporto",
+    "procurarsi un permesso",
+    "procurarsi un biglietto",
+    "procurarsi un certificato",
+    "procurarsi informazioni",
+    "procurarsi una copia",
+    "procurarsi una prova",
+    "procurarsi gli strumenti necessari",
+    "procurarsi i mezzi necessari",
+    "procurarsi dei fondi",
+    "procurarsi un prestito",
+    "procurarsi un lavoro",
+    "procurarsi dei clienti",
+    "procurarsi un contatto",
+    "procurarsi un’occasione",
+    "procurarsi un vantaggio",
+    "procurarsi da vivere",
+    "procurarsi qualcosa illegalmente",
+    "procurarsi qualcosa facilmente",
+    "procurarsi qualcosa con difficoltà",
+    "cercare di procurarsi",
+    "riuscire a procurarsi",
+    "non riuscire a procurarsi",
+    "sapere dove procurarsi qualcosa",
+    "procurarsi una ferita",
+    "procurarsi una lesione",
+    "procurarsi un danno",
+    "procurarsi dei guai",
+    "procurarsi dei nemici",
+    "procurarsi una cattiva reputazione"
+  ],
+
+  "examples": [
+    {
+      "it": "Prima del viaggio dobbiamo procurarci tutti i documenti necessari.",
+      "ja": "旅行前に、私たちは必要な書類をすべてそろえなければなりません。"
+    },
+    {
+      "it": "Sono riuscito a procurarmi un biglietto per il concerto.",
+      "ja": "私はコンサートのチケットを何とか手に入れました。"
+    },
+    {
+      "it": "In quella zona è difficile procurarsi dell’acqua potabile.",
+      "ja": "その地域では飲料水を確保するのが困難です。"
+    },
+    {
+      "it": "Da giovane si procurava da vivere lavorando nei ristoranti.",
+      "ja": "若いころ、彼はレストランで働いて生計を立てていました。"
+    },
+    {
+      "it": "Cadendo dalla bicicletta si è procurata una ferita al ginocchio.",
+      "ja": "彼女は自転車から転び、膝にけがをしました。"
+    },
+    {
+      "it": "Con il suo comportamento si è procurato molti nemici.",
+      "ja": "彼は自分の振る舞いによって多くの敵を作りました。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi procuro",
+        "ti procuri",
+        "si procura",
+        "ci procuriamo",
+        "vi procurate",
+        "si procurano"
+      ],
+
+      "Imperfetto": [
+        "mi procuravo",
+        "ti procuravi",
+        "si procurava",
+        "ci procuravamo",
+        "vi procuravate",
+        "si procuravano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono procurato/a",
+        "ti sei procurato/a",
+        "si è procurato/a",
+        "ci siamo procurati/e",
+        "vi siete procurati/e",
+        "si sono procurati/e"
+      ],
+
+      "Passato remoto": [
+        "mi procurai",
+        "ti procurasti",
+        "si procurò",
+        "ci procurammo",
+        "vi procuraste",
+        "si procurarono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero procurato/a",
+        "ti eri procurato/a",
+        "si era procurato/a",
+        "ci eravamo procurati/e",
+        "vi eravate procurati/e",
+        "si erano procurati/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui procurato/a",
+        "ti fosti procurato/a",
+        "si fu procurato/a",
+        "ci fummo procurati/e",
+        "vi foste procurati/e",
+        "si furono procurati/e"
+      ],
+
+      "Futuro semplice": [
+        "mi procurerò",
+        "ti procurerai",
+        "si procurerà",
+        "ci procureremo",
+        "vi procurerete",
+        "si procureranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò procurato/a",
+        "ti sarai procurato/a",
+        "si sarà procurato/a",
+        "ci saremo procurati/e",
+        "vi sarete procurati/e",
+        "si saranno procurati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi procuri",
+        "ti procuri",
+        "si procuri",
+        "ci procuriamo",
+        "vi procuriate",
+        "si procurino"
+      ],
+
+      "Imperfetto": [
+        "mi procurassi",
+        "ti procurassi",
+        "si procurasse",
+        "ci procurassimo",
+        "vi procuraste",
+        "si procurassero"
+      ],
+
+      "Passato": [
+        "mi sia procurato/a",
+        "ti sia procurato/a",
+        "si sia procurato/a",
+        "ci siamo procurati/e",
+        "vi siate procurati/e",
+        "si siano procurati/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi procurato/a",
+        "ti fossi procurato/a",
+        "si fosse procurato/a",
+        "ci fossimo procurati/e",
+        "vi foste procurati/e",
+        "si fossero procurati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi procurerei",
+        "ti procureresti",
+        "si procurerebbe",
+        "ci procureremmo",
+        "vi procurereste",
+        "si procurerebbero"
+      ],
+
+      "Passato": [
+        "mi sarei procurato/a",
+        "ti saresti procurato/a",
+        "si sarebbe procurato/a",
+        "ci saremmo procurati/e",
+        "vi sareste procurati/e",
+        "si sarebbero procurati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "procurati",
+        "si procuri",
+        "procuriamoci",
+        "procuratevi",
+        "si procurino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "procurarsi",
+        "essersi procurato/a/i/e",
+        "procurantesi",
+        "procuratosi/a/i/e",
+        "procurandosi",
+        "essendosi procurato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "attaccare",
+  "sid": "2026-00286",
+  "word": "attaccare",
+  "ipa": "/attakˈkare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・自動詞・代名動詞的用法を持つ動詞",
+      "it": "verbo transitivo, intransitivo e con forma pronominale"
+    },
+    "auxiliary": "avere; essere nella forma pronominale attaccarsi",
+    "pastParticiple": "attaccato",
+    "gerundPresent": "attaccando",
+    "pattern": "attaccare qualcosa a qualcosa / attaccare qualcuno o qualcosa / attaccare con + arma o argomento / attaccare bottone con qualcuno / attaccarsi a qualcosa"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "technology",
+      "military",
+      "social"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "物を接着剤・釘・留め具などで別の物に付ける、貼る、掛ける",
+      "機器・ケーブル・部品などを接続する",
+      "人・動物・軍隊などを攻撃する、襲う",
+      "人の意見・行動・評判などを厳しく批判する",
+      "病気・害虫・腐食などが身体・植物・物質を侵す",
+      "病気を人にうつす、口語的な用法",
+      "会話・仕事・歌などを始める、取りかかる",
+      "attaccare bottoneで、知らない人などに話しかけて会話を始める",
+      "接着剤・塗料などが表面に付着する、定着する"
+    ],
+    "it": [
+      "Fissare qualcosa a un’altra cosa mediante colla, chiodi, ganci o altri mezzi.",
+      "Collegare un apparecchio, un cavo o un componente a un altro elemento.",
+      "Agire con violenza contro una persona, un animale, un esercito o un obiettivo.",
+      "Criticare duramente le opinioni, le azioni o la reputazione di qualcuno.",
+      "Colpire e danneggiare un organismo o un materiale, con riferimento a malattie, parassiti o corrosione.",
+      "Trasmettere una malattia a qualcuno, in un uso colloquiale.",
+      "Cominciare una conversazione, un lavoro, una canzone o un’altra attività.",
+      "Nell’espressione attaccare bottone, rivolgere la parola a qualcuno e iniziare una conversazione.",
+      "Aderire efficacemente a una superficie, con riferimento a colle, vernici o materiali."
+    ]
+  },
+
+  "nuance": {
+    "ja": "「二つのものを接触・結合させる」という意味と、「相手に向かって攻撃を仕掛ける」という意味を持つ非常に多義的な動詞である。物についてはattaccare un foglio al muro「紙を壁に貼る」のようにaで取り付け先を示す。攻撃の意味では物理的・軍事的攻撃だけでなく、言葉による批判にも使える。collegareは機器や概念を機能的に接続すること、incollareは接着剤で貼ることに意味が限定される。代名動詞attaccarsiは「くっつく・しがみつく」を表す。",
+    "it": "È un verbo molto polisemico, basato soprattutto sulle idee di unire due elementi e di muovere contro un bersaglio. Nella costruzione attaccare qualcosa a qualcosa, la preposizione a introduce il supporto. Nel significato offensivo può indicare tanto un’aggressione fisica o militare quanto una critica verbale. Collegare sottolinea una connessione funzionale; incollare specifica l’uso della colla. La forma attaccarsi significa aderire oppure aggrapparsi."
+  },
+
+  "etymology": {
+    "ja": "一般にa-とtacca（刻み目、切り込み）に関係する語とされ、もともとは刻み目などを合わせて二つの物を固定することを表したと考えられる。フランス語attaquerとも歴史的に関係し、「接触する」という発想から「敵に接近して攻撃する」という意味が発達した。同じ語族にはattacco、attaccamento、staccareなどがある。",
+    "it": "È generalmente collegato a tacca con il prefisso a- e indicava in origine l’unione di elementi mediante un punto di presa o un’incavatura. È storicamente affine al francese attaquer. Dall’idea del venire a contatto si sono sviluppati sia il significato di fissare sia quello di assalire. Alla stessa famiglia appartengono attacco, attaccamento e staccare."
+  },
+
+  "minimal": [
+    {
+      "word": "attaccare",
+      "ja": "物を別の物に取り付ける、または人・標的を攻撃する",
+      "it": "fissare una cosa a un’altra oppure agire offensivamente contro un bersaglio"
+    },
+    {
+      "word": "incollare",
+      "ja": "接着剤を使って二つの物を貼り合わせる",
+      "it": "unire due elementi mediante la colla"
+    },
+    {
+      "word": "collegare",
+      "ja": "機器・場所・情報・概念などを機能的に接続する",
+      "it": "mettere in connessione funzionale apparecchi, luoghi, informazioni o concetti"
+    },
+    {
+      "word": "aggredire",
+      "ja": "人に突然暴力を振るう、または激しい言葉で攻撃する",
+      "it": "assalire improvvisamente qualcuno con violenza fisica o verbale"
+    },
+    {
+      "word": "staccare",
+      "ja": "付着・接続している物を取り外し、離す",
+      "it": "separare qualcosa da una superficie o da un collegamento"
+    }
+  ],
+
+  "synonyms": [
+    "fissare",
+    "incollare",
+    "collegare",
+    "assalire",
+    "aggredire",
+    "criticare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "attach",
+      "stick",
+      "attack"
+    ],
+    "de": [
+      "befestigen",
+      "anschließen",
+      "angreifen"
+    ],
+    "fr": [
+      "attacher",
+      "coller",
+      "attaquer"
+    ],
+    "es": [
+      "pegar",
+      "conectar",
+      "atacar"
+    ]
+  },
+
+  "collocations": [
+    "attaccare qualcosa",
+    "attaccare un foglio",
+    "attaccare un’etichetta",
+    "attaccare un francobollo",
+    "attaccare un adesivo",
+    "attaccare un manifesto",
+    "attaccare una fotografia",
+    "attaccare un quadro al muro",
+    "attaccare un poster alla parete",
+    "attaccare con la colla",
+    "attaccare con il nastro adesivo",
+    "attaccare un bottone",
+    "attaccare un cavo",
+    "attaccare la spina",
+    "attaccare il telefono al caricabatterie",
+    "attaccare un dispositivo alla rete",
+    "attaccare il nemico",
+    "attaccare una posizione",
+    "attaccare una città",
+    "attaccare da nord",
+    "attaccare di sorpresa",
+    "attaccare frontalmente",
+    "attaccare con un coltello",
+    "attaccare verbalmente",
+    "attaccare duramente qualcuno",
+    "attaccare una proposta",
+    "attaccare una decisione",
+    "attaccare il governo",
+    "essere attaccato dalla stampa",
+    "una malattia attacca i polmoni",
+    "un fungo attacca la pianta",
+    "la ruggine attacca il metallo",
+    "attaccare una malattia",
+    "attaccare bottone",
+    "attaccare bottone con qualcuno",
+    "attaccare discorso",
+    "attaccare a parlare",
+    "attaccare a lavorare",
+    "attaccare una canzone",
+    "la colla non attacca"
+  ],
+
+  "examples": [
+    {
+      "it": "Ho attaccato la fotografia alla parete.",
+      "ja": "私は写真を壁に貼りました。"
+    },
+    {
+      "it": "Devi attaccare il computer alla rete.",
+      "ja": "コンピューターをネットワークに接続する必要があります。"
+    },
+    {
+      "it": "L’esercito ha attaccato la città all’alba.",
+      "ja": "軍は夜明けにその都市を攻撃しました。"
+    },
+    {
+      "it": "Il ministro è stato duramente attaccato dalla stampa.",
+      "ja": "その大臣は報道機関から厳しく批判されました。"
+    },
+    {
+      "it": "Questo parassita attacca soprattutto le piante giovani.",
+      "ja": "この害虫は主に若い植物を侵します。"
+    },
+    {
+      "it": "In treno ha attaccato bottone con la persona seduta accanto a lui.",
+      "ja": "彼は列車で隣に座っていた人に話しかけ、会話を始めました。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "attacco",
+        "attacchi",
+        "attacca",
+        "attacchiamo",
+        "attaccate",
+        "attaccano"
+      ],
+
+      "Imperfetto": [
+        "attaccavo",
+        "attaccavi",
+        "attaccava",
+        "attaccavamo",
+        "attaccavate",
+        "attaccavano"
+      ],
+
+      "Passato prossimo": [
+        "ho attaccato",
+        "hai attaccato",
+        "ha attaccato",
+        "abbiamo attaccato",
+        "avete attaccato",
+        "hanno attaccato"
+      ],
+
+      "Passato remoto": [
+        "attaccai",
+        "attaccasti",
+        "attaccò",
+        "attaccammo",
+        "attaccaste",
+        "attaccarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo attaccato",
+        "avevi attaccato",
+        "aveva attaccato",
+        "avevamo attaccato",
+        "avevate attaccato",
+        "avevano attaccato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi attaccato",
+        "avesti attaccato",
+        "ebbe attaccato",
+        "avemmo attaccato",
+        "aveste attaccato",
+        "ebbero attaccato"
+      ],
+
+      "Futuro semplice": [
+        "attaccherò",
+        "attaccherai",
+        "attaccherà",
+        "attaccheremo",
+        "attaccherete",
+        "attaccheranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò attaccato",
+        "avrai attaccato",
+        "avrà attaccato",
+        "avremo attaccato",
+        "avrete attaccato",
+        "avranno attaccato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "attacchi",
+        "attacchi",
+        "attacchi",
+        "attacchiamo",
+        "attacchiate",
+        "attacchino"
+      ],
+
+      "Imperfetto": [
+        "attaccassi",
+        "attaccassi",
+        "attaccasse",
+        "attaccassimo",
+        "attaccaste",
+        "attaccassero"
+      ],
+
+      "Passato": [
+        "abbia attaccato",
+        "abbia attaccato",
+        "abbia attaccato",
+        "abbiamo attaccato",
+        "abbiate attaccato",
+        "abbiano attaccato"
+      ],
+
+      "Trapassato": [
+        "avessi attaccato",
+        "avessi attaccato",
+        "avesse attaccato",
+        "avessimo attaccato",
+        "aveste attaccato",
+        "avessero attaccato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "attaccherei",
+        "attaccheresti",
+        "attaccherebbe",
+        "attaccheremmo",
+        "attacchereste",
+        "attaccherebbero"
+      ],
+
+      "Passato": [
+        "avrei attaccato",
+        "avresti attaccato",
+        "avrebbe attaccato",
+        "avremmo attaccato",
+        "avreste attaccato",
+        "avrebbero attaccato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "attacca",
+        "attacchi",
+        "attacchiamo",
+        "attaccate",
+        "attacchino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "attaccare",
+        "avere attaccato",
+        "attaccante",
+        "attaccato",
+        "attaccando",
+        "avendo attaccato"
+      ]
+    }
+  }
+},
+{
+  "id": "attaccarsi",
+  "sid": "2026-00287",
+  "word": "attaccarsi",
+  "ipa": "/attakˈkarsi/",
+  "level": "B1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "代名動詞",
+      "it": "verbo pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "attaccato",
+    "gerundPresent": "attaccandosi",
+    "pattern": "attaccarsi a qualcosa o qualcuno / attaccarsi con le mani / attaccarsi a un’idea, una speranza o un pretesto / attaccarsi reciprocamente"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "relationships",
+      "conflict",
+      "figurative"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "物が表面や別の物に付着する、くっつく",
+      "人が落ちないように物や人をしっかりつかむ、しがみつく",
+      "人の腕・服・身体などにつかまる",
+      "人・動物・物などに強い愛着を持つようになる",
+      "考え・希望・記憶・習慣などに執着する",
+      "言葉・細部・口実などを取り上げて強くこだわる",
+      "二人以上の人が互いに攻撃する、つかみ合いになる"
+    ],
+    "it": [
+      "Aderire a una superficie o a un altro oggetto.",
+      "Afferrare saldamente una persona o una cosa per non cadere o non essere trascinati.",
+      "Stringersi al braccio, ai vestiti o al corpo di qualcuno.",
+      "Sviluppare un forte legame affettivo verso una persona, un animale o una cosa.",
+      "Restare legati ostinatamente a un’idea, una speranza, un ricordo o un’abitudine.",
+      "Prendere come appiglio una parola, un dettaglio o un pretesto insistendovi eccessivamente.",
+      "Assalirsi reciprocamente o arrivare a uno scontro fisico."
+    ]
+  },
+
+  "nuance": {
+    "ja": "物理的には、物が表面に付着する場合と、人が何かを強くつかむ場合の両方に使われる。対象は通常aで導き、La carta si è attaccata al vetro「紙がガラスにくっついた」、Si è attaccato alla corda「彼はロープにしがみついた」のように言う。比喩的には人への愛着だけでなく、希望・考え・口実などを手放さずに固執する意味を持つ。affezionarsiは主に愛情が生まれること、aggrapparsiは落下や危険を避けるため強くつかむことをより明確に表す。",
+    "it": "Può indicare sia l’adesione fisica di un oggetto a una superficie sia l’atto di afferrare saldamente qualcosa. L’elemento a cui si aderisce o ci si aggrappa è normalmente introdotto da a. Figurativamente può esprimere un legame affettivo oppure un attaccamento ostinato a idee, speranze e pretesti. Affezionarsi riguarda soprattutto la nascita dell’affetto; aggrapparsi sottolinea una presa forte, spesso motivata dalla paura di cadere o perdere qualcosa."
+  },
+
+  "etymology": {
+    "ja": "attaccareの代名動詞形である。attaccareは一般にa-とtacca（刻み目、切り込み）に関係し、もともとは接合点を合わせて物を固定することを表したと考えられる。「物に接触して離れない」という意味から、物理的な付着、しがみつき、心理的な愛着・執着へ意味が発達した。英語attachおよびattackとも歴史的に近い関係を持つ。",
+    "it": "È la forma pronominale di attaccare, generalmente collegato a tacca con il prefisso a-. L’idea originaria di unire saldamente due elementi ha prodotto i significati di aderire, aggrapparsi e sviluppare un legame affettivo o mentale. Il verbo è storicamente affine alle forme da cui derivano gli inglesi attach e attack."
+  },
+
+  "minimal": [
+    {
+      "word": "attaccarsi",
+      "ja": "物にくっつく、人や物にしがみつく、または考え・人などに執着する",
+      "it": "aderire a qualcosa, afferrarlo saldamente oppure sviluppare un forte attaccamento"
+    },
+    {
+      "word": "attaccare",
+      "ja": "物を別の物に取り付ける、または人・標的を攻撃する",
+      "it": "fissare una cosa a un’altra oppure muovere offensivamente contro un bersaglio"
+    },
+    {
+      "word": "aderire",
+      "ja": "表面に密着する、または提案・団体・思想などへ賛同・参加する",
+      "it": "restare a contatto con una superficie oppure accettare e sostenere una proposta o un’organizzazione"
+    },
+    {
+      "word": "aggrapparsi",
+      "ja": "落下・危険を避けるため、人や物を手などで強くつかむ",
+      "it": "afferrare con forza qualcuno o qualcosa per evitare di cadere o perdere sostegno"
+    },
+    {
+      "word": "affezionarsi",
+      "ja": "人・動物・場所などに愛情や親しみを持つようになる",
+      "it": "sviluppare gradualmente affetto verso una persona, un animale o un luogo"
+    }
+  ],
+
+  "synonyms": [
+    "aderire",
+    "appiccicarsi",
+    "aggrapparsi",
+    "afferrarsi",
+    "affezionarsi",
+    "ostinarsi"
+  ],
+
+  "equivalents": {
+    "en": [
+      "stick",
+      "cling",
+      "become attached"
+    ],
+    "de": [
+      "haften",
+      "sich festhalten",
+      "sich anklammern"
+    ],
+    "fr": [
+      "s’attacher",
+      "adhérer",
+      "s’agripper"
+    ],
+    "es": [
+      "pegarse",
+      "aferrarse",
+      "encariñarse"
+    ]
+  },
+
+  "collocations": [
+    "attaccarsi a qualcosa",
+    "attaccarsi a una superficie",
+    "attaccarsi al muro",
+    "attaccarsi al vetro",
+    "attaccarsi alla pelle",
+    "attaccarsi ai vestiti",
+    "attaccarsi ai capelli",
+    "la colla si attacca",
+    "la carta si attacca",
+    "la pasta si attacca",
+    "non attaccarsi alla padella",
+    "attaccarsi con le mani",
+    "attaccarsi a una corda",
+    "attaccarsi a un ramo",
+    "attaccarsi alla ringhiera",
+    "attaccarsi al corrimano",
+    "attaccarsi al braccio di qualcuno",
+    "attaccarsi alla giacca di qualcuno",
+    "attaccarsi alla madre",
+    "attaccarsi a qualcuno",
+    "attaccarsi a una persona",
+    "attaccarsi a un animale",
+    "attaccarsi rapidamente",
+    "attaccarsi profondamente",
+    "attaccarsi troppo",
+    "attaccarsi alle cose",
+    "attaccarsi ai ricordi",
+    "attaccarsi al passato",
+    "attaccarsi a un’idea",
+    "attaccarsi a una speranza",
+    "attaccarsi a un sogno",
+    "attaccarsi a un’abitudine",
+    "attaccarsi a ogni parola",
+    "attaccarsi a un dettaglio",
+    "attaccarsi a un pretesto",
+    "attaccarsi a una scusa",
+    "attaccarsi a qualsiasi cosa",
+    "non sapere a che cosa attaccarsi",
+    "attaccarsi l’uno all’altro",
+    "attaccarsi a vicenda",
+    "finire per attaccarsi"
+  ],
+
+  "examples": [
+    {
+      "it": "La carta bagnata si è attaccata al vetro.",
+      "ja": "ぬれた紙がガラスにくっつきました。"
+    },
+    {
+      "it": "Il bambino si è attaccato al braccio della madre.",
+      "ja": "その子供は母親の腕にしがみつきました。"
+    },
+    {
+      "it": "Si è attaccato alla corda per non cadere.",
+      "ja": "彼は落ちないようにロープへしがみつきました。"
+    },
+    {
+      "it": "Ci siamo subito attaccati a quel piccolo gatto.",
+      "ja": "私たちはすぐにその小さな猫へ愛着を持ちました。"
+    },
+    {
+      "it": "Non dovresti attaccarti troppo a questa speranza.",
+      "ja": "この希望にあまり執着するべきではありません。"
+    },
+    {
+      "it": "Durante la discussione si è attaccato a un dettaglio insignificante.",
+      "ja": "議論中、彼は取るに足りない細部にこだわりました。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi attacco",
+        "ti attacchi",
+        "si attacca",
+        "ci attacchiamo",
+        "vi attaccate",
+        "si attaccano"
+      ],
+
+      "Imperfetto": [
+        "mi attaccavo",
+        "ti attaccavi",
+        "si attaccava",
+        "ci attaccavamo",
+        "vi attaccavate",
+        "si attaccavano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono attaccato/a",
+        "ti sei attaccato/a",
+        "si è attaccato/a",
+        "ci siamo attaccati/e",
+        "vi siete attaccati/e",
+        "si sono attaccati/e"
+      ],
+
+      "Passato remoto": [
+        "mi attaccai",
+        "ti attaccasti",
+        "si attaccò",
+        "ci attaccammo",
+        "vi attaccaste",
+        "si attaccarono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero attaccato/a",
+        "ti eri attaccato/a",
+        "si era attaccato/a",
+        "ci eravamo attaccati/e",
+        "vi eravate attaccati/e",
+        "si erano attaccati/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui attaccato/a",
+        "ti fosti attaccato/a",
+        "si fu attaccato/a",
+        "ci fummo attaccati/e",
+        "vi foste attaccati/e",
+        "si furono attaccati/e"
+      ],
+
+      "Futuro semplice": [
+        "mi attaccherò",
+        "ti attaccherai",
+        "si attaccherà",
+        "ci attaccheremo",
+        "vi attaccherete",
+        "si attaccheranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò attaccato/a",
+        "ti sarai attaccato/a",
+        "si sarà attaccato/a",
+        "ci saremo attaccati/e",
+        "vi sarete attaccati/e",
+        "si saranno attaccati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi attacchi",
+        "ti attacchi",
+        "si attacchi",
+        "ci attacchiamo",
+        "vi attacchiate",
+        "si attacchino"
+      ],
+
+      "Imperfetto": [
+        "mi attaccassi",
+        "ti attaccassi",
+        "si attaccasse",
+        "ci attaccassimo",
+        "vi attaccaste",
+        "si attaccassero"
+      ],
+
+      "Passato": [
+        "mi sia attaccato/a",
+        "ti sia attaccato/a",
+        "si sia attaccato/a",
+        "ci siamo attaccati/e",
+        "vi siate attaccati/e",
+        "si siano attaccati/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi attaccato/a",
+        "ti fossi attaccato/a",
+        "si fosse attaccato/a",
+        "ci fossimo attaccati/e",
+        "vi foste attaccati/e",
+        "si fossero attaccati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi attaccherei",
+        "ti attaccheresti",
+        "si attaccherebbe",
+        "ci attaccheremmo",
+        "vi attacchereste",
+        "si attaccherebbero"
+      ],
+
+      "Passato": [
+        "mi sarei attaccato/a",
+        "ti saresti attaccato/a",
+        "si sarebbe attaccato/a",
+        "ci saremmo attaccati/e",
+        "vi sareste attaccati/e",
+        "si sarebbero attaccati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "attaccati",
+        "si attacchi",
+        "attacchiamoci",
+        "attaccatevi",
+        "si attacchino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "attaccarsi",
+        "essersi attaccato/a/i/e",
+        "attaccantesi",
+        "attaccatosi/a/i/e",
+        "attaccandosi",
+        "essendosi attaccato/a/i/e"
+      ]
+    }
+  }
 }
 ]
