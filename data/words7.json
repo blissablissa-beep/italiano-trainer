@@ -1,1 +1,1580 @@
-[]
+[
+{
+  "id": "pure",
+  "sid": "2026-00321",
+  "word": "pure",
+  "ipa": "/ˈpure/",
+  "level": "B1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "副詞・譲歩表現の構成要素",
+      "it": "avverbio e componente di costruzioni concessive"
+    },
+    "pattern": "pure + elemento aggiunto / imperativo o congiuntivo esortativo + pure / pur(e) + gerundio / pur di + infinito / oppure: forma femminile plurale di puro"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "social",
+      "business",
+      "literature",
+      "argumentation"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "すでに挙げた人・物・事柄に別のものを加える、～も・～もまた",
+      "予想外の人・物・事柄を含める、～さえ・～まで",
+      "命令・依頼表現に添えて、行為を許可または穏やかに促す、どうぞ",
+      "反対の事情を認めながら結論が変わらないことを示す、～ではあるが",
+      "pur diの形で、目的のためなら条件や犠牲を受け入れる、～しさえすれば",
+      "話者が相手の行動を気にしない、または自由に選ばせることを示す",
+      "puroの女性複数形として、純粋な・混じり気のない"
+    ],
+    "it": [
+      "Aggiunge una persona, una cosa o un fatto a quanto è già stato menzionato.",
+      "Include perfino un elemento inatteso o particolarmente significativo.",
+      "Accompagna un comando o un invito per concedere il permesso o incoraggiare gentilmente un’azione.",
+      "Ammette una circostanza contraria senza modificarne la conseguenza.",
+      "Nella costruzione pur di, indica la disponibilità ad accettare una condizione per raggiungere uno scopo.",
+      "Esprime libertà di scelta o indifferenza rispetto all’azione dell’interlocutore.",
+      "Può essere anche la forma femminile plurale dell’aggettivo puro."
+    ]
+  },
+
+  "nuance": {
+    "ja": "追加を表すpureはancheと近く、Vengo pure io「私も行く」のように使えるが、会話的・地域的な響きを持つ場合がある。命令文や接続法による丁寧な命令に添えるpureは非常に一般的で、Entra pureは「遠慮なく入って」、Mi dica pureは「どうぞおっしゃってください」となる。譲歩ではpur sapendolo「それを知っていながら」のように、母音の前以外でもpurと語尾を省くことが多い。pur di riuscireは「成功するためなら」という強い目的・条件を表す。",
+    "it": "Nel valore aggiuntivo pure è vicino ad anche: Vengo pure io. In alcuni contesti può avere un tono più colloquiale o regionale. È molto comune dopo un imperativo o una forma esortativa per concedere il permesso o incoraggiare: Entra pure, Mi dica pure. Nel valore concessivo compare spesso nella forma tronca pur, soprattutto davanti al gerundio: pur sapendolo. Pur di riuscire indica invece che si è disposti ad accettare una condizione o un sacrificio per raggiungere lo scopo."
+  },
+
+  "etymology": {
+    "ja": "ラテン語pūrē「純粋に、明確に」に由来し、これは形容詞pūrus「純粋な、清潔な」の副詞形である。当初の「純粋に、単に」という意味から、「まさに、それでも、～も、どうぞ」といった強調・追加・譲歩・許可の機能が発達した。イタリア語puro、英語pure、フランス語pur、スペイン語puroと同じ語族に属する。",
+    "it": "Dal latino pūrē, avverbio di pūrus, «puro, limpido». Dal valore originario di «puramente, semplicemente» si sono sviluppati gli usi rafforzativi, aggiuntivi, concessivi e permissivi dell’italiano moderno. Appartengono alla stessa famiglia puro, l’inglese pure, il francese pur e lo spagnolo puro."
+  },
+
+  "minimal": [
+    {
+      "word": "pure",
+      "ja": "「～も」の追加、行為を許す「どうぞ」、または譲歩・目的条件を表す",
+      "it": "aggiunge un elemento, concede un permesso oppure introduce concessione o condizione"
+    },
+    {
+      "word": "anche",
+      "ja": "人・物・行為などを中立的に追加する最も一般的な「～も」",
+      "it": "avverbio più generale e neutro per aggiungere un elemento"
+    },
+    {
+      "word": "perfino",
+      "ja": "意外性の高い人・物・事実を「～さえ」と強調して加える",
+      "it": "aggiunge con enfasi un elemento sorprendente o estremo"
+    },
+    {
+      "word": "comunque",
+      "ja": "事情にかかわらず結論や行動が変わらない「いずれにせよ」",
+      "it": "indica che una conclusione resta valida indipendentemente dalle circostanze"
+    },
+    {
+      "word": "neppure",
+      "ja": "pureに否定のnéが結び付いた「～も…ない、～さえ…ない」",
+      "it": "forma negativa storicamente composta da né e pure, con il significato di nemmeno"
+    }
+  ],
+
+  "synonyms": [
+    "anche",
+    "ugualmente",
+    "perfino",
+    "comunque",
+    "liberamente",
+    "ciononostante"
+  ],
+
+  "equivalents": {
+    "en": [
+      "also",
+      "too",
+      "even",
+      "go ahead",
+      "although"
+    ],
+    "de": [
+      "auch",
+      "sogar",
+      "ruhig",
+      "obwohl"
+    ],
+    "fr": [
+      "aussi",
+      "même",
+      "allez-y",
+      "bien que"
+    ],
+    "es": [
+      "también",
+      "incluso",
+      "adelante",
+      "aunque"
+    ]
+  },
+
+  "collocations": [
+    "pure io",
+    "pure tu",
+    "pure lui",
+    "pure lei",
+    "pure noi",
+    "pure loro",
+    "vengo pure io",
+    "lo so pure io",
+    "può pure essere",
+    "potrebbe pure",
+    "deve pure",
+    "bisogna pure",
+    "serve pure",
+    "anche pure",
+    "entra pure",
+    "entri pure",
+    "venite pure",
+    "venga pure",
+    "vai pure",
+    "vada pure",
+    "continua pure",
+    "continui pure",
+    "parla pure",
+    "parli pure",
+    "chiedi pure",
+    "chieda pure",
+    "dica pure",
+    "faccia pure",
+    "si accomodi pure",
+    "mi chiami pure",
+    "scrivimi pure",
+    "prendi pure",
+    "usi pure",
+    "prova pure",
+    "scegli pure",
+    "decidi pure",
+    "aspetta pure",
+    "lascia pure",
+    "fai pure",
+    "fate pure",
+    "pur sapendo",
+    "pur conoscendo",
+    "pur essendo",
+    "pur avendo",
+    "pur volendo",
+    "pur potendo",
+    "pur riconoscendo",
+    "pur ammettendo",
+    "pur considerando",
+    "pur di",
+    "pur di riuscire",
+    "pur di vincere",
+    "pur di evitare",
+    "pur di ottenere",
+    "pur di non perdere",
+    "pur di stare insieme",
+    "pur di raggiungere lo scopo",
+    "a costo di tutto pur di",
+    "non fa pure niente",
+    "fallo pure",
+    "puoi pure dirlo",
+    "può pure andarsene",
+    "che venga pure",
+    "che faccia pure",
+    "eppure",
+    "oppure",
+    "neppure",
+    "purché"
+  ],
+
+  "examples": [
+    {
+      "it": "Vengo pure io alla riunione.",
+      "ja": "私も会議に行きます。"
+    },
+    {
+      "it": "Se hai una domanda, chiedi pure.",
+      "ja": "質問があれば、遠慮なく聞いてください。"
+    },
+    {
+      "it": "Prego, si accomodi pure.",
+      "ja": "どうぞ、お掛けください。"
+    },
+    {
+      "it": "Pur sapendo che era difficile, ha accettato l’incarico.",
+      "ja": "難しいと知りながら、彼女はその任務を引き受けました。"
+    },
+    {
+      "it": "È disposto a tutto pur di raggiungere il suo obiettivo.",
+      "ja": "彼は目標を達成するためなら何でもする覚悟です。"
+    },
+    {
+      "it": "Puoi pure non essere d’accordo, ma devi rispettare la decisione.",
+      "ja": "賛成しなくても構いませんが、その決定には従わなければなりません。"
+    },
+    {
+      "it": "Queste sostanze sono pure e non contengono additivi.",
+      "ja": "これらの物質は純粋で、添加物を含んでいません。"
+    }
+  ]
+},
+{
+  "id": "mai",
+  "sid": "2026-00322",
+  "word": "mai",
+  "ipa": "/mai/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "時間副詞・否定副詞",
+      "it": "avverbio temporale e negativo"
+    },
+    "pattern": "non + verbo + mai / mai + verbo senza non / hai mai + participio passato? / se mai + frase / mai più / come mai?"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "narration",
+      "business",
+      "education",
+      "emphasis"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "否定文で、どの時点においても行為が起こらないことを表す、決して～ない",
+      "疑問文で、過去から現在までに一度でも経験したかを尋ねる、これまでに",
+      "条件文・比較・仮定表現で、いつか・いかなる時でも",
+      "最上級などを伴って、これまでで最も～であると強調する",
+      "mai piùの形で、今後二度と～ない",
+      "come maiの形で、理由や意外な事情を尋ねる、どうして",
+      "mai e poi maiの形で、絶対に～ないと強く拒絶する"
+    ],
+    "it": [
+      "In una frase negativa, indica che un fatto non avviene in nessun momento.",
+      "In una domanda, chiede se qualcosa è accaduto almeno una volta fino al momento presente.",
+      "In proposizioni condizionali, comparative o ipotetiche, significa in un momento qualsiasi.",
+      "Con un superlativo, rafforza il confronto con tutte le esperienze precedenti.",
+      "Nella locuzione mai più, esclude che qualcosa si ripeta in futuro.",
+      "Nella locuzione come mai, introduce una domanda sulla causa di un fatto inatteso.",
+      "Nell’espressione mai e poi mai, rafforza una negazione o un rifiuto assoluto."
+    ]
+  },
+
+  "nuance": {
+    "ja": "動詞の後に置く否定用法では通常nonが必要で、Non bevo mai caffè「私は決してコーヒーを飲まない」となる。maiを動詞より前に置いて否定を強調する場合は、Mai direi una cosa simile「そんなことは決して言わない」のように通常nonを置かない。疑問文Hai mai visitato Roma?では否定ではなく「これまでに一度でも」という意味になる。Non... piùは「もう～ない」、non... maiは「一度も／決して～ない」で、時間的な焦点が異なる。",
+    "it": "Quando segue il verbo con valore negativo, mai richiede normalmente non: Non bevo mai caffè. Se viene anteposto al verbo per dare particolare enfasi alla negazione, non viene normalmente omesso: Mai direi una cosa simile. In una domanda come Hai mai visitato Roma?, mai non è negativo e significa «almeno una volta fino a oggi». Non... più indica la cessazione di un comportamento precedente; non... mai esclude che il fatto avvenga in qualunque momento."
+  },
+
+  "etymology": {
+    "ja": "ラテン語magis「より多く、さらに」に由来する。否定表現non...magis「それ以上は～ない」が時間的に「もはや～ない」、さらに「いつの時点にも～ない」という意味へ発達したと考えられる。同じラテン語magisから、フランス語mais「しかし」やスペイン語jamásの後半要素など、ロマンス諸語で異なる機能を持つ語が生まれた。",
+    "it": "Deriva dal latino magis, «più, maggiormente». In costruzioni negative, sequenze equivalenti a non... magis, «non più», svilupparono progressivamente il valore temporale di «in nessun momento». Dalla stessa parola latina derivano, attraverso evoluzioni semantiche differenti, il francese mais e un elemento dello spagnolo jamás."
+  },
+
+  "minimal": [
+    {
+      "word": "mai",
+      "ja": "否定文ではどの時点にも起こらないこと、疑問文では一度でも起きたかを表す",
+      "it": "nega che qualcosa avvenga in qualsiasi momento oppure domanda se sia mai avvenuto"
+    },
+    {
+      "word": "sempre",
+      "ja": "すべての時点または毎回、行為・状態が続くことを表す",
+      "it": "indica che qualcosa avviene in ogni momento o in tutte le occasioni"
+    },
+    {
+      "word": "più",
+      "ja": "否定文では、以前は起きていたことが現在または今後は起きないことを表す",
+      "it": "con una negazione indica che un fatto precedente non continua o non si ripete"
+    },
+    {
+      "word": "qualche volta",
+      "ja": "頻繁ではないが、ときどき行為・出来事が起こることを表す",
+      "it": "indica che un fatto avviene occasionalmente e non con regolarità"
+    },
+    {
+      "word": "ancora",
+      "ja": "行為・状態が引き続き続くこと、または再び起こることを表す",
+      "it": "indica la continuazione di un fatto oppure il suo ripetersi"
+    }
+  ],
+
+  "synonyms": [
+    "giammai",
+    "in nessun momento",
+    "nessuna volta",
+    "in alcun momento"
+  ],
+
+  "equivalents": {
+    "en": [
+      "never",
+      "ever",
+      "at any time"
+    ],
+    "de": [
+      "nie",
+      "niemals",
+      "jemals"
+    ],
+    "fr": [
+      "jamais",
+      "déjà",
+      "un jour"
+    ],
+    "es": [
+      "nunca",
+      "jamás",
+      "alguna vez"
+    ]
+  },
+
+  "collocations": [
+    "non andare mai",
+    "non venire mai",
+    "non vedere mai",
+    "non sentire mai",
+    "non dire mai",
+    "non sapere mai",
+    "non capire mai",
+    "non dimenticare mai",
+    "non ricordare mai",
+    "non arrendersi mai",
+    "non essere mai",
+    "non avere mai",
+    "non avere mai tempo",
+    "non avere mai paura",
+    "non aver mai visto",
+    "non aver mai sentito",
+    "non essere mai stato",
+    "non essere mai andato",
+    "non fare mai",
+    "non farlo mai",
+    "non pensarci mai",
+    "mai visto",
+    "mai sentito",
+    "mai detto",
+    "mai fatto",
+    "mai successo",
+    "mai accaduto",
+    "mai prima",
+    "mai dopo",
+    "mai più",
+    "mai più tornare",
+    "mai più rivedere",
+    "mai più ripetere",
+    "ora o mai più",
+    "mai e poi mai",
+    "quasi mai",
+    "raramente o mai",
+    "per non dire mai",
+    "come mai",
+    "come mai sei qui?",
+    "chissà mai",
+    "se mai",
+    "se mai fosse necessario",
+    "casomai",
+    "semmai",
+    "hai mai",
+    "avete mai",
+    "ti sei mai chiesto",
+    "sei mai stato",
+    "è mai possibile?",
+    "qualcuno ha mai",
+    "chi mai",
+    "dove mai",
+    "quando mai",
+    "perché mai",
+    "il migliore di sempre",
+    "il più bello mai visto",
+    "la prima volta in assoluto",
+    "più che mai",
+    "oggi più che mai",
+    "come non mai",
+    "mai come oggi",
+    "mai nella vita",
+    "mai al mondo",
+    "mai in nessun caso"
+  ],
+
+  "examples": [
+    {
+      "it": "Non bevo mai caffè dopo cena.",
+      "ja": "私は夕食後には決してコーヒーを飲みません。"
+    },
+    {
+      "it": "Sei mai stato in Sicilia?",
+      "ja": "これまでにシチリアへ行ったことがありますか。"
+    },
+    {
+      "it": "Non avevo mai visto un paesaggio così bello.",
+      "ja": "私はそれほど美しい景色を一度も見たことがありませんでした。"
+    },
+    {
+      "it": "Non farò mai più lo stesso errore.",
+      "ja": "私は二度と同じ間違いをしません。"
+    },
+    {
+      "it": "Come mai la riunione è stata annullata?",
+      "ja": "どうして会議は中止されたのですか。"
+    },
+    {
+      "it": "Mai avrei immaginato un risultato simile.",
+      "ja": "このような結果になるとは夢にも思いませんでした。"
+    },
+    {
+      "it": "È il miglior ristorante in cui abbia mai mangiato.",
+      "ja": "そこは私がこれまで食事をした中で最高のレストランです。"
+    }
+  ]
+},
+{
+  "id": "sempre",
+  "sid": "2026-00323",
+  "word": "sempre",
+  "ipa": "/ˈsɛmpre/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "時間副詞・程度副詞・接続表現の構成要素",
+      "it": "avverbio temporale, avverbio di grado e componente di locuzioni congiuntive"
+    },
+    "pattern": "verbo + sempre / essere sempre + aggettivo / per sempre / da sempre / sempre più o meno + aggettivo o avverbio / sempre che + congiuntivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "narration",
+      "business",
+      "relationships",
+      "education"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "すべての時点で状態が続く、常に・いつも",
+      "同じ行為が毎回または習慣的に繰り返される、いつも",
+      "過去から現在まで継続している、ずっと",
+      "将来にわたって永久に続く、永遠に",
+      "sempre piùの形で、程度や数量が継続的に増す、ますます",
+      "sempre menoの形で、程度や数量が継続的に減る、ますます～なく",
+      "sempre cheの形で、条件が満たされる限り、～という条件で"
+    ],
+    "it": [
+      "In ogni momento, senza interruzione.",
+      "In tutte le occasioni o con regolarità abituale.",
+      "Da molto tempo o fin dall’inizio fino al presente.",
+      "Per tutto il tempo futuro, senza fine.",
+      "Nella costruzione sempre più, indica un aumento progressivo di quantità o intensità.",
+      "Nella costruzione sempre meno, indica una diminuzione progressiva.",
+      "Nella locuzione sempre che, introduce una condizione necessaria."
+    ]
+  },
+
+  "nuance": {
+    "ja": "sempreは、途切れない継続と、毎回繰り返される習慣の両方を表す。È sempre apertoは「常時開いている」、Viene sempre in trenoは「毎回列車で来る」となる。ancoraはある時点で状態が引き続き続いていることを表し、sempreほど「すべての時点」を意味しない。per sempreは将来に向けた「永遠に」、da sempreは「昔からずっと」。sempre cheは通常接続法を伴い、「～である限り、～という条件で」を表す。",
+    "it": "Sempre può indicare sia una continuità senza interruzioni sia la ripetizione abituale di un fatto. È sempre aperto descrive una condizione permanente; Viene sempre in treno significa che usa il treno in ogni occasione. Ancora indica che una situazione continua in un determinato momento, senza necessariamente valere per tutti i momenti. Per sempre guarda alla durata futura; da sempre indica una continuità iniziata nel passato. Sempre che regge normalmente il congiuntivo e introduce una condizione."
+  },
+
+  "etymology": {
+    "ja": "ラテン語semper「常に、いつも」を直接継承した語。semperのさらに古い構成については完全には確定していないが、同じ状態が絶えず続くことを表す印欧語系の要素と関連付けられる。ラテン語semperは英語の成句semper fidelis「常に忠実な」などにも残り、イタリア語sempre、スペイン語siempre、古いフランス語の関連形へ継承された。",
+    "it": "Continua direttamente il latino semper, «sempre, in ogni momento». L’analisi più remota della parola latina non è del tutto certa, ma il suo valore fondamentale è rimasto stabile. La stessa base è continuata anche nello spagnolo siempre ed è conservata in formule latine come semper fidelis."
+  },
+
+  "minimal": [
+    {
+      "word": "sempre",
+      "ja": "すべての時点または毎回、行為・状態が続くことを表す",
+      "it": "indica che un fatto continua in ogni momento o si ripete in tutte le occasioni"
+    },
+    {
+      "word": "mai",
+      "ja": "否定文では、どの時点にも行為・状態が起こらないことを表す",
+      "it": "in una frase negativa esclude che un fatto avvenga in qualsiasi momento"
+    },
+    {
+      "word": "ancora",
+      "ja": "ある基準時点で行為・状態が引き続き続いていることを表す",
+      "it": "indica che una situazione continua nel momento considerato"
+    },
+    {
+      "word": "spesso",
+      "ja": "行為が高い頻度で起こるが、必ず毎回ではないことを表す",
+      "it": "indica che un fatto si verifica frequentemente, ma non in ogni occasione"
+    },
+    {
+      "word": "continuamente",
+      "ja": "途切れず、または非常に頻繁に行為が続くことを強調する",
+      "it": "sottolinea che qualcosa continua senza interruzioni o si ripete con grande frequenza"
+    }
+  ],
+
+  "synonyms": [
+    "continuamente",
+    "costantemente",
+    "invariabilmente",
+    "ogni volta",
+    "eternamente",
+    "comunque"
+  ],
+
+  "equivalents": {
+    "en": [
+      "always",
+      "forever",
+      "still",
+      "increasingly"
+    ],
+    "de": [
+      "immer",
+      "stets",
+      "für immer",
+      "zunehmend"
+    ],
+    "fr": [
+      "toujours",
+      "pour toujours",
+      "de plus en plus"
+    ],
+    "es": [
+      "siempre",
+      "para siempre",
+      "cada vez más"
+    ]
+  },
+
+  "collocations": [
+    "essere sempre",
+    "avere sempre",
+    "fare sempre",
+    "dire sempre",
+    "pensare sempre",
+    "ricordare sempre",
+    "arrivare sempre",
+    "venire sempre",
+    "andare sempre",
+    "lavorare sempre",
+    "studiare sempre",
+    "sorridere sempre",
+    "essere sempre pronto",
+    "essere sempre disponibile",
+    "essere sempre gentile",
+    "essere sempre occupato",
+    "essere sempre in ritardo",
+    "essere sempre lo stesso",
+    "come sempre",
+    "quasi sempre",
+    "non sempre",
+    "sempre e comunque",
+    "sempre così",
+    "sempre insieme",
+    "sempre meglio",
+    "sempre peggio",
+    "sempre prima",
+    "sempre dopo",
+    "sempre in tempo",
+    "sempre in orario",
+    "sempre di più",
+    "sempre di meno",
+    "sempre più",
+    "sempre meno",
+    "sempre più spesso",
+    "sempre più importante",
+    "sempre più difficile",
+    "sempre più grande",
+    "sempre più vicino",
+    "sempre più persone",
+    "sempre meno tempo",
+    "sempre meno frequentemente",
+    "per sempre",
+    "restare per sempre",
+    "andarsene per sempre",
+    "ricordare per sempre",
+    "durare per sempre",
+    "da sempre",
+    "conoscere da sempre",
+    "vivere da sempre",
+    "esistere da sempre",
+    "fin da sempre",
+    "da allora e per sempre",
+    "una volta per sempre",
+    "una volta per tutte",
+    "ora e sempre",
+    "per sempre insieme",
+    "sempre che",
+    "sempre che sia possibile",
+    "sempre che tu voglia",
+    "sempre che non",
+    "sempre se",
+    "da sempre a oggi",
+    "di sempre",
+    "il migliore di sempre",
+    "il più grande di sempre",
+    "perdere sempre",
+    "vincere sempre",
+    "avere sempre bisogno di",
+    "tenere sempre presente",
+    "essere da sempre considerato"
+  ],
+
+  "examples": [
+    {
+      "it": "Bevo sempre un caffè dopo pranzo.",
+      "ja": "私は昼食後にいつもコーヒーを飲みます。"
+    },
+    {
+      "it": "Questo negozio è sempre aperto.",
+      "ja": "この店はいつも開いています。"
+    },
+    {
+      "it": "Ci conosciamo da sempre.",
+      "ja": "私たちは昔からずっと知り合いです。"
+    },
+    {
+      "it": "Ricorderò questo viaggio per sempre.",
+      "ja": "私はこの旅行を永遠に覚えているでしょう。"
+    },
+    {
+      "it": "La situazione sta diventando sempre più complessa.",
+      "ja": "状況はますます複雑になっています。"
+    },
+    {
+      "it": "Abbiamo sempre meno tempo per decidere.",
+      "ja": "私たちが決定に使える時間はますます少なくなっています。"
+    },
+    {
+      "it": "Puoi usare la mia automobile, sempre che tu guidi con prudenza.",
+      "ja": "慎重に運転するという条件なら、私の車を使っても構いません。"
+    }
+  ]
+},
+{
+  "id": "spesso",
+  "sid": "2026-00324",
+  "word": "spesso",
+  "ipa": "/ˈspesso/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "頻度副詞・形容詞",
+      "it": "avverbio di frequenza e aggettivo"
+    },
+    "adjectiveForms": [
+      "spesso",
+      "spessa",
+      "spessi",
+      "spesse"
+    ],
+    "pattern": "verbo + spesso / essere spesso + participio o aggettivo / molto, più o meno spesso / aggettivo: nome + spesso, spessa, spessi o spesse"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "narration",
+      "business",
+      "education",
+      "description"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "ある行為・出来事が高い頻度で起こる、しばしば・よく",
+      "多くの場合に当てはまる、往々にして",
+      "短い間隔を置いて繰り返される、頻繁に",
+      "形容詞として、物の二つの面の間隔が大きい、厚い",
+      "液体・煙・霧・毛などが密で濃い",
+      "人や物が狭い範囲に多く集まっている、密集した"
+    ],
+    "it": [
+      "Con grande frequenza, in molte occasioni.",
+      "Nella maggior parte o in un numero elevato di casi.",
+      "A intervalli brevi o con numerose ripetizioni.",
+      "Come aggettivo, dotato di notevole spessore.",
+      "Denso o poco fluido, con riferimento a liquidi, fumo, nebbia o vegetazione.",
+      "Composto da elementi numerosi e ravvicinati."
+    ]
+  },
+
+  "nuance": {
+    "ja": "副詞spessoは、行為が高い頻度で起こるものの、sempre「常に」のように毎回起こるとは限らない。通常は動詞の後にVado spesso al cinemaのように置くが、強調や文の流れによりSpesso vado al cinemaとも言える。di solitoは個々の回数より習慣・通常の行動を表し、frequentementeはspessoよりやや書き言葉的である。形容詞ではun muro spesso「厚い壁」、una nebbia spessa「濃い霧」のように名詞に性数一致する。",
+    "it": "Come avverbio, spesso indica una frequenza elevata ma non assoluta, diversamente da sempre. La posizione più neutra è generalmente dopo il verbo: Vado spesso al cinema; può però essere collocato all’inizio della frase per metterlo in rilievo. Di solito descrive soprattutto un’abitudine o ciò che accade normalmente, mentre frequentemente può avere un tono leggermente più formale. Come aggettivo concorda con il nome: un muro spesso, una nebbia spessa."
+  },
+
+  "etymology": {
+    "ja": "ラテン語spissus「厚い、密集した、濃い」に由来する。物が空間的に密に並ぶという意味から、出来事が時間的に短い間隔で密に起こることを表す副詞「頻繁に」の意味が発達した。英語の頻度を表すoftenとは語源的関係がないが、英語spissitude「密度・厚さ」のような学術語には同じラテン語の語根が残る。",
+    "it": "Dal latino spissus, «fitto, denso, spesso». Dal significato spaziale di elementi collocati a breve distanza si è sviluppato quello temporale di eventi che si susseguono a intervalli brevi, quindi «frequentemente». La stessa base latina sopravvive in termini colti relativi alla densità e allo spessore."
+  },
+
+  "minimal": [
+    {
+      "word": "spesso",
+      "ja": "行為・出来事が高い頻度で起こるが、必ず毎回ではない",
+      "it": "indica che un fatto avviene con alta frequenza, ma non necessariamente ogni volta"
+    },
+    {
+      "word": "sempre",
+      "ja": "すべての時点または毎回、行為・状態が続くことを表す",
+      "it": "indica che un fatto vale in ogni momento o in tutte le occasioni"
+    },
+    {
+      "word": "di solito",
+      "ja": "例外はあるものの、習慣的・通常の行動や状態であることを表す",
+      "it": "indica ciò che accade normalmente secondo un’abitudine"
+    },
+    {
+      "word": "frequentemente",
+      "ja": "spessoとほぼ同義だが、統計的・説明的な文章にも適する",
+      "it": "equivale a spesso, con un tono talvolta più formale o descrittivo"
+    },
+    {
+      "word": "raramente",
+      "ja": "行為・出来事が低い頻度でしか起こらないことを表す",
+      "it": "indica che un fatto si verifica poche volte"
+    }
+  ],
+
+  "synonyms": [
+    "frequentemente",
+    "sovente",
+    "di frequente",
+    "molte volte",
+    "abitualmente",
+    "fitto"
+  ],
+
+  "equivalents": {
+    "en": [
+      "often",
+      "frequently",
+      "thick",
+      "dense"
+    ],
+    "de": [
+      "oft",
+      "häufig",
+      "dick",
+      "dicht"
+    ],
+    "fr": [
+      "souvent",
+      "fréquemment",
+      "épais",
+      "dense"
+    ],
+    "es": [
+      "a menudo",
+      "frecuentemente",
+      "grueso",
+      "espeso"
+    ]
+  },
+
+  "collocations": [
+    "andare spesso",
+    "venire spesso",
+    "uscire spesso",
+    "viaggiare spesso",
+    "lavorare spesso",
+    "studiare spesso",
+    "parlare spesso",
+    "vedere spesso",
+    "sentire spesso",
+    "incontrare spesso",
+    "usare spesso",
+    "succedere spesso",
+    "accadere spesso",
+    "capitare spesso",
+    "dimenticare spesso",
+    "pensare spesso",
+    "chiedere spesso",
+    "ripetere spesso",
+    "essere spesso",
+    "essere spesso in ritardo",
+    "essere spesso necessario",
+    "essere spesso difficile",
+    "molto spesso",
+    "piuttosto spesso",
+    "abbastanza spesso",
+    "troppo spesso",
+    "così spesso",
+    "altrettanto spesso",
+    "sempre più spesso",
+    "meno spesso",
+    "più spesso",
+    "il più spesso possibile",
+    "non molto spesso",
+    "non così spesso",
+    "non abbastanza spesso",
+    "quanto spesso",
+    "ogni quanto spesso",
+    "spesso e volentieri",
+    "spesso insieme",
+    "spesso in passato",
+    "spesso ancora oggi",
+    "spesso durante",
+    "spesso dopo",
+    "spesso prima",
+    "spesso quando",
+    "spesso perché",
+    "come spesso accade",
+    "come spesso succede",
+    "accade spesso che",
+    "succede spesso che",
+    "si dice spesso",
+    "si usa spesso",
+    "si trova spesso",
+    "venire spesso considerato",
+    "essere spesso associato a",
+    "muro spesso",
+    "libro spesso",
+    "strato spesso",
+    "vetro spesso",
+    "tessuto spesso",
+    "cappotto spesso",
+    "fumo spesso",
+    "nebbia spessa",
+    "salsa spessa",
+    "capelli spessi",
+    "sopracciglia spesse",
+    "bosco spesso",
+    "vegetazione spessa"
+  ],
+
+  "examples": [
+    {
+      "it": "Vado spesso al cinema con mia moglie.",
+      "ja": "私は妻とよく映画館へ行きます。"
+    },
+    {
+      "it": "Marco arriva spesso in ritardo alle riunioni.",
+      "ja": "マルコは会議によく遅刻します。"
+    },
+    {
+      "it": "Questa espressione si usa spesso nella lingua parlata.",
+      "ja": "この表現は話し言葉でよく使われます。"
+    },
+    {
+      "it": "Negli ultimi mesi viaggio meno spesso.",
+      "ja": "ここ数か月は旅行する頻度が下がりました。"
+    },
+    {
+      "it": "Succede spesso che i clienti chiedano ulteriori chiarimenti.",
+      "ja": "顧客が追加説明を求めることはよくあります。"
+    },
+    {
+      "it": "Il muro è troppo spesso per essere perforato facilmente.",
+      "ja": "その壁は厚すぎて、簡単には穴を開けられません。"
+    },
+    {
+      "it": "Una nebbia spessa copriva tutta la valle.",
+      "ja": "濃い霧が谷全体を覆っていました。"
+    }
+  ]
+},
+{
+  "id": "a-volte",
+  "sid": "2026-00325",
+  "word": "a volte",
+  "ipa": "/a ˈvɔlte/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverbial_phrase",
+    "label": {
+      "ja": "副詞句・頻度表現",
+      "it": "locuzione avverbiale di frequenza"
+    },
+    "pattern": "a volte + frase / soggetto + verbo + a volte / a volte sì, a volte no / a volte... altre volte..."
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "narration",
+      "business",
+      "education",
+      "daily_life"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "常にではないが、ある機会には起こる、ときどき",
+      "不規則な間隔で行為・出来事が起こる、たまに",
+      "状況や場合によって異なる結果になることを示す、場合によっては",
+      "a volte sì, a volte noの形で、起こる場合と起こらない場合がある",
+      "a volte... altre volteの形で、異なる機会に対照的な事柄が起こる"
+    ],
+    "it": [
+      "In alcune occasioni, ma non sempre.",
+      "Con una frequenza occasionale e non necessariamente regolare.",
+      "In determinati casi o secondo le circostanze.",
+      "Nella costruzione a volte sì, a volte no, indica l’alternanza tra presenza e assenza di un fatto.",
+      "Nella costruzione a volte... altre volte, contrappone ciò che accade in occasioni diverse."
+    ]
+  },
+
+  "nuance": {
+    "ja": "a volteは、ある出来事が不定期に起こることを表す中立的で非常に一般的な表現である。文頭のA volte vado a piediは頻度を話題として提示し、文中のVado a volte a piediも可能だが、通常はVado a piedi a volteまたはA volte vado a piediのほうが自然である。spessoは高い頻度、raramenteは低い頻度を明示するが、a volteはその中間に位置する。qualche voltaとほぼ同義で、talvoltaはやや文章語的、ogni tantoはより会話的で「時折」という感覚を持つ。",
+    "it": "A volte è un’espressione neutra e molto comune che indica una frequenza occasionale e irregolare. All’inizio della frase mette in rilievo la circostanza temporale: A volte vado a piedi. Spesso indica una frequenza più elevata, mentre raramente indica una frequenza bassa. Qualche volta è quasi equivalente; talvolta può avere un tono leggermente più scritto, mentre ogni tanto è particolarmente comune nella conversazione."
+  },
+
+  "etymology": {
+    "ja": "前置詞aと、女性名詞volta「回・機会」の複数形volteから成る。語源的には「いくつかの回・機会において」という意味である。voltaはvoltare・volgere「回す、向きを変える」と同じ語族で、ラテン語volvĕre「転がす、回転させる」にさかのぼる。一つの回転・循環から「一回」という意味が生じた。",
+    "it": "È formata dalla preposizione a e dal plurale di volta, con il significato letterale di «in alcune occasioni». Volta appartiene alla famiglia di voltare e volgere, riconducibile al latino volvĕre, «girare, far rotolare». Dall’idea di un giro completo si è sviluppato il valore di singola occorrenza."
+  },
+
+  "minimal": [
+    {
+      "word": "a volte",
+      "ja": "不規則な機会に、ときどき物事が起こることを表す中立的な表現",
+      "it": "indica in modo neutro che qualcosa accade in alcune occasioni"
+    },
+    {
+      "word": "spesso",
+      "ja": "行為・出来事が高い頻度で起こることを表す",
+      "it": "indica che un fatto si verifica con una frequenza elevata"
+    },
+    {
+      "word": "qualche volta",
+      "ja": "a volteとほぼ同じく、いくつかの機会に起こることを表す",
+      "it": "equivale quasi sempre ad a volte e indica alcune occasioni non determinate"
+    },
+    {
+      "word": "ogni tanto",
+      "ja": "比較的長い間隔を置いて時折起こることを表す会話的な表現",
+      "it": "indica un fatto occasionale, spesso con intervalli relativamente lunghi"
+    },
+    {
+      "word": "raramente",
+      "ja": "行為・出来事がごく低い頻度でしか起こらないことを表す",
+      "it": "indica che un fatto si verifica poche volte"
+    }
+  ],
+
+  "synonyms": [
+    "qualche volta",
+    "talvolta",
+    "alle volte",
+    "ogni tanto",
+    "occasionalmente",
+    "di quando in quando"
+  ],
+
+  "equivalents": {
+    "en": [
+      "sometimes",
+      "at times",
+      "occasionally"
+    ],
+    "de": [
+      "manchmal",
+      "bisweilen",
+      "gelegentlich"
+    ],
+    "fr": [
+      "parfois",
+      "quelquefois",
+      "de temps en temps"
+    ],
+    "es": [
+      "a veces",
+      "algunas veces",
+      "de vez en cuando"
+    ]
+  },
+
+  "collocations": [
+    "a volte sì",
+    "a volte no",
+    "a volte sì, a volte no",
+    "a volte capita",
+    "a volte succede",
+    "a volte accade",
+    "a volte basta",
+    "a volte serve",
+    "a volte bisogna",
+    "a volte è necessario",
+    "a volte è possibile",
+    "a volte è difficile",
+    "a volte è meglio",
+    "a volte è utile",
+    "a volte è vero",
+    "a volte sembra",
+    "a volte penso",
+    "a volte credo",
+    "a volte dimentico",
+    "a volte sbaglio",
+    "a volte lavoro",
+    "a volte viaggio",
+    "a volte cucino",
+    "a volte esco",
+    "a volte resto a casa",
+    "a volte vado a piedi",
+    "a volte mi chiedo",
+    "a volte mi sento",
+    "a volte ci vuole",
+    "a volte può succedere",
+    "a volte può essere",
+    "a volte anche",
+    "a volte ancora",
+    "a volte troppo",
+    "a volte soltanto",
+    "a volte persino",
+    "a volte durante",
+    "a volte dopo",
+    "a volte prima",
+    "a volte quando",
+    "a volte perché",
+    "a volte invece",
+    "a volte però",
+    "a volte comunque",
+    "a volte... altre volte...",
+    "a volte presto, altre volte tardi",
+    "a volte bene, altre volte male",
+    "solo a volte",
+    "soltanto a volte",
+    "anche a volte",
+    "molto raramente",
+    "come a volte accade",
+    "come a volte succede",
+    "ci sono a volte",
+    "essere a volte difficile",
+    "risultare a volte necessario",
+    "diventare a volte complicato"
+  ],
+
+  "examples": [
+    {
+      "it": "A volte vado al lavoro a piedi.",
+      "ja": "私はときどき歩いて仕事へ行きます。"
+    },
+    {
+      "it": "Anche le decisioni semplici sono a volte difficili.",
+      "ja": "単純な決定でさえ、ときには難しいものです。"
+    },
+    {
+      "it": "A volte basta una breve pausa per lavorare meglio.",
+      "ja": "ときには、少し休憩するだけで仕事の効率が上がります。"
+    },
+    {
+      "it": "Il traghetto arriva in orario? — A volte sì, a volte no.",
+      "ja": "「フェリーは時間どおりに到着しますか」「時間どおりのこともあれば、そうでないこともあります」"
+    },
+    {
+      "it": "A volte ceniamo fuori, altre volte cuciniamo a casa.",
+      "ja": "私たちは外で夕食を取ることもあれば、家で料理することもあります。"
+    },
+    {
+      "it": "A volte mi chiedo se abbiamo fatto la scelta giusta.",
+      "ja": "私たちは正しい選択をしたのだろうかと、ときどき考えます。"
+    },
+    {
+      "it": "Gli errori possono essere a volte più utili dei successi.",
+      "ja": "失敗は、ときには成功よりも役に立つことがあります。"
+    }
+  ]
+},
+{
+  "id": "raramente",
+  "sid": "2026-00326",
+  "word": "raramente",
+  "ipa": "/raraˈmente/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "頻度副詞",
+      "it": "avverbio di frequenza"
+    },
+    "pattern": "verbo + raramente / raramente + frase / molto, piuttosto o relativamente raramente / raramente... senza..."
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "narration",
+      "business",
+      "education",
+      "analysis"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "行為・出来事が低い頻度でしか起こらない、めったに～ない",
+      "通常または一般的ではなく、例外的にしか見られない",
+      "長い間隔を置いて、ごく少ない回数だけ起こる",
+      "統計的・客観的に発生例が少ないことを示す",
+      "習慣としてほとんど行わないことを表す"
+    ],
+    "it": [
+      "Con una frequenza bassa o in poche occasioni.",
+      "In modo non abituale e soltanto in circostanze eccezionali.",
+      "A intervalli lunghi e per un numero limitato di volte.",
+      "Con una presenza o un’incidenza statisticamente ridotta.",
+      "Con riferimento a un comportamento, quasi mai come abitudine."
+    ]
+  },
+
+  "nuance": {
+    "ja": "raramenteは、それ自体に否定的な意味が含まれるため、通常nonを付けずVado raramente al cinema「私はめったに映画館へ行かない」と言う。Non vado raramenteとすると「めったに行かないわけではない」、つまり比較的よく行くという二重否定的な意味になり得る。quasi maiは「ほとんど一度もない」という話者の強い評価を帯びやすく、raramenteは頻度が低いことを比較的中立的・客観的に表す。di radoはほぼ同義で、やや簡潔または文章的に響くことがある。",
+    "it": "Raramente contiene già un valore negativo e normalmente non richiede non: Vado raramente al cinema. Non vado raramente può invece significare che non è vero che ci vado poche volte, quindi suggerire una frequenza abbastanza elevata. Quasi mai presenta spesso la frequenza come vicina allo zero con maggiore enfasi soggettiva; raramente descrive più neutralmente una frequenza bassa. Di rado è quasi sinonimo e può avere un tono leggermente più conciso o letterario."
+  },
+
+  "etymology": {
+    "ja": "形容詞raro「まれな、密度の低い」の女性形raraに、副詞を作る接尾辞-menteを加えて形成された。raroはラテン語rārus「間隔の空いた、まばらな、珍しい」に由来する。-menteはラテン語mens、属格mentis「心、態度」に由来し、もともとのrara menteは「まれな仕方で」という意味だった。同じ語族には英語rare、フランス語rare、スペイン語raroがある。",
+    "it": "È formato dal femminile rara dell’aggettivo raro e dal suffisso avverbiale -mente. Raro deriva dal latino rārus, «rado, sparso, poco frequente»; -mente risale all’ablativo mente di mens, «mente, disposizione». La costruzione originaria significava quindi «in maniera rara». Sono affini l’inglese rare, il francese rare e lo spagnolo raro."
+  },
+
+  "minimal": [
+    {
+      "word": "raramente",
+      "ja": "行為・出来事が低い頻度でしか起こらないことを中立的に表す",
+      "it": "indica in modo neutro che un fatto si verifica con bassa frequenza"
+    },
+    {
+      "word": "a volte",
+      "ja": "頻度の高低を強く限定せず、いくつかの機会に起こることを表す",
+      "it": "indica che qualcosa accade in alcune occasioni, senza insistere sulla rarità"
+    },
+    {
+      "word": "quasi mai",
+      "ja": "頻度がゼロに近く、ほとんど起こらないことを強調する",
+      "it": "indica con enfasi che un fatto avviene in occasioni vicine allo zero"
+    },
+    {
+      "word": "di rado",
+      "ja": "raramenteとほぼ同義の「めったに」、やや簡潔な表現",
+      "it": "locuzione quasi equivalente a raramente, spesso più concisa"
+    },
+    {
+      "word": "occasionalmente",
+      "ja": "特定の機会に不定期で起こることを表し、必ずしも極端に少なくない",
+      "it": "indica che qualcosa avviene in occasioni particolari e non regolarmente"
+    }
+  ],
+
+  "synonyms": [
+    "di rado",
+    "poche volte",
+    "quasi mai",
+    "infrequentemente",
+    "saltuariamente",
+    "sporadicamente"
+  ],
+
+  "equivalents": {
+    "en": [
+      "rarely",
+      "seldom",
+      "infrequently"
+    ],
+    "de": [
+      "selten",
+      "kaum",
+      "nur selten"
+    ],
+    "fr": [
+      "rarement",
+      "peu souvent",
+      "exceptionnellement"
+    ],
+    "es": [
+      "raramente",
+      "pocas veces",
+      "rara vez"
+    ]
+  },
+
+  "collocations": [
+    "andare raramente",
+    "venire raramente",
+    "uscire raramente",
+    "viaggiare raramente",
+    "mangiare raramente",
+    "bere raramente",
+    "cucinare raramente",
+    "comprare raramente",
+    "usare raramente",
+    "vedere raramente",
+    "sentire raramente",
+    "incontrare raramente",
+    "parlare raramente",
+    "rispondere raramente",
+    "chiedere raramente",
+    "sbagliare raramente",
+    "lamentarsi raramente",
+    "ammalarsi raramente",
+    "accadere raramente",
+    "succedere raramente",
+    "capitare raramente",
+    "verificarsi raramente",
+    "comparire raramente",
+    "presentarsi raramente",
+    "essere raramente",
+    "essere raramente necessario",
+    "essere raramente disponibile",
+    "essere raramente vuoto",
+    "essere raramente puntuale",
+    "molto raramente",
+    "piuttosto raramente",
+    "relativamente raramente",
+    "estremamente raramente",
+    "sempre più raramente",
+    "ancora più raramente",
+    "non raramente",
+    "raramente o mai",
+    "raramente visto",
+    "raramente usato",
+    "raramente osservato",
+    "raramente documentato",
+    "raramente disponibile",
+    "raramente necessario",
+    "raramente possibile",
+    "raramente sufficiente",
+    "raramente facile",
+    "raramente gratuito",
+    "raramente in orario",
+    "raramente a casa",
+    "raramente da solo",
+    "raramente durante",
+    "raramente dopo",
+    "raramente prima",
+    "raramente quando",
+    "raramente perché",
+    "raramente senza",
+    "raramente senza conseguenze",
+    "raramente senza motivo",
+    "capita raramente che",
+    "accade raramente che",
+    "succede raramente che",
+    "si verifica raramente",
+    "si usa raramente",
+    "si trova raramente",
+    "si incontra raramente",
+    "come raramente accade",
+    "caso raramente osservato"
+  ],
+
+  "examples": [
+    {
+      "it": "Vado raramente al ristorante durante la settimana.",
+      "ja": "私は平日にレストランへ行くことはめったにありません。"
+    },
+    {
+      "it": "Marco arriva raramente in ritardo.",
+      "ja": "マルコが遅刻することはめったにありません。"
+    },
+    {
+      "it": "Questa parola si usa raramente nella conversazione quotidiana.",
+      "ja": "この単語は日常会話ではめったに使われません。"
+    },
+    {
+      "it": "Un errore simile si verifica molto raramente.",
+      "ja": "このような誤りが発生することは非常にまれです。"
+    },
+    {
+      "it": "Raramente abbiamo la possibilità di discutere con un esperto.",
+      "ja": "私たちが専門家と話し合う機会はめったにありません。"
+    },
+    {
+      "it": "Le trattative complesse si concludono raramente in un solo giorno.",
+      "ja": "複雑な交渉が一日だけでまとまることはめったにありません。"
+    },
+    {
+      "it": "Non raramente, una piccola modifica produce effetti importanti.",
+      "ja": "少なからず、小さな変更が重大な効果をもたらすことがあります。"
+    }
+  ]
+},
+{
+  "id": "di-rado",
+  "sid": "2026-00327",
+  "word": "di rado",
+  "ipa": "/di ˈrado/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "adverbial_phrase",
+    "label": {
+      "ja": "副詞句・頻度表現",
+      "it": "locuzione avverbiale di frequenza"
+    },
+    "pattern": "verbo + di rado / di rado + frase / assai, molto o piuttosto di rado / di rado... senza..."
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "narration",
+      "business",
+      "academic",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "行為・出来事がごく少ない機会にしか起こらない、めったに～ない",
+      "通常・習慣的には行われず、例外的にしか起こらない",
+      "長い時間的間隔を置いて、たまに起こる",
+      "現象・事例・特徴などがまれにしか観察されない",
+      "人がある行動をほとんど習慣にしていないことを表す"
+    ],
+    "it": [
+      "In poche occasioni e con bassa frequenza.",
+      "Non abitualmente, ma soltanto in circostanze eccezionali.",
+      "A intervalli di tempo lunghi.",
+      "Con riferimento a un fenomeno o a un caso, in modo poco frequente.",
+      "Con riferimento a una persona, quasi mai come comportamento abituale."
+    ]
+  },
+
+  "nuance": {
+    "ja": "di radoはraramenteとほぼ完全に置き換えられ、否定的な頻度を表すため通常nonを必要としない。Vado di rado al cinemaは「私はめったに映画館へ行かない」となる。raramenteより短く、文脈によってやや文章的・落ち着いた響きを持つが、日常会話でも使える。quasi maiは頻度がほぼゼロであることをより強く示し、a volteは単に「ときどき」で、di radoほど低い頻度を強調しない。",
+    "it": "Di rado è quasi completamente intercambiabile con raramente e, avendo già un valore negativo, normalmente non richiede non. Vado di rado al cinema significa che ci vado poche volte. Rispetto a raramente è più breve e può avere un tono leggermente più letterario o misurato, ma è possibile anche nella conversazione. Quasi mai avvicina maggiormente la frequenza allo zero; a volte indica semplicemente un fatto occasionale senza sottolinearne altrettanto la rarità."
+  },
+
+  "etymology": {
+    "ja": "前置詞diと、形容詞・副詞rado「まばらな、まれに」から成る。radoはラテン語rārus「まばらな、間隔の空いた、珍しい」に由来し、二つのrの一方がdへ変化する異化によって成立したとされる。raroも同じラテン語から継承された並行形である。空間的に物がまばらであるという意味から、時間的に出来事がまれであるという意味が発達した。",
+    "it": "È formata dalla preposizione di e da rado, aggettivo e avverbio derivato dal latino rārus, «sparso, poco fitto, raro». La forma rado viene generalmente spiegata con la dissimilazione di una delle due r della parola latina; raro rappresenta una forma parallela della stessa origine. Dal valore spaziale di elementi distanti si è sviluppato quello temporale di eventi poco frequenti."
+  },
+
+  "minimal": [
+    {
+      "word": "di rado",
+      "ja": "ごく少ない機会にしか起こらないことを表す簡潔な「めったに」",
+      "it": "indica in modo conciso che qualcosa avviene in poche occasioni"
+    },
+    {
+      "word": "raramente",
+      "ja": "di radoとほぼ同義で、低い頻度を中立的・明示的に表す",
+      "it": "sinonimo quasi perfetto di di rado che descrive esplicitamente una bassa frequenza"
+    },
+    {
+      "word": "quasi mai",
+      "ja": "頻度がゼロに近く、ほとんど起こらないことを強調する",
+      "it": "indica che la frequenza di un fatto è molto vicina allo zero"
+    },
+    {
+      "word": "a volte",
+      "ja": "いくつかの不定の機会に起こる「ときどき」で、低頻度を強く示さない",
+      "it": "indica alcune occasioni senza insistere particolarmente sulla bassa frequenza"
+    },
+    {
+      "word": "sporadicamente",
+      "ja": "規則性がなく、互いに離れた事例として散発的に起こる",
+      "it": "indica fatti isolati che si verificano senza regolarità"
+    }
+  ],
+
+  "synonyms": [
+    "raramente",
+    "poche volte",
+    "quasi mai",
+    "infrequentemente",
+    "saltuariamente",
+    "sporadicamente"
+  ],
+
+  "equivalents": {
+    "en": [
+      "rarely",
+      "seldom",
+      "infrequently"
+    ],
+    "de": [
+      "selten",
+      "nur selten",
+      "kaum"
+    ],
+    "fr": [
+      "rarement",
+      "peu souvent",
+      "exceptionnellement"
+    ],
+    "es": [
+      "rara vez",
+      "pocas veces",
+      "raramente"
+    ]
+  },
+
+  "collocations": [
+    "andare di rado",
+    "venire di rado",
+    "uscire di rado",
+    "viaggiare di rado",
+    "mangiare fuori di rado",
+    "bere di rado",
+    "cucinare di rado",
+    "comprare di rado",
+    "usare di rado",
+    "vedere di rado",
+    "sentire di rado",
+    "incontrare di rado",
+    "parlare di rado",
+    "rispondere di rado",
+    "scrivere di rado",
+    "telefonare di rado",
+    "chiedere di rado",
+    "sbagliare di rado",
+    "lamentarsi di rado",
+    "ammalarsi di rado",
+    "accadere di rado",
+    "succedere di rado",
+    "capitare di rado",
+    "verificarsi di rado",
+    "comparire di rado",
+    "presentarsi di rado",
+    "essere di rado",
+    "assai di rado",
+    "molto di rado",
+    "piuttosto di rado",
+    "sempre più di rado",
+    "ancora più di rado",
+    "di rado o mai",
+    "di rado insieme",
+    "di rado da solo",
+    "di rado a casa",
+    "di rado in orario",
+    "di rado disponibile",
+    "di rado necessario",
+    "di rado possibile",
+    "di rado sufficiente",
+    "di rado facile",
+    "di rado gratuito",
+    "di rado osservato",
+    "di rado documentato",
+    "di rado impiegato",
+    "di rado utilizzato",
+    "di rado menzionato",
+    "di rado durante",
+    "di rado dopo",
+    "di rado prima",
+    "di rado quando",
+    "di rado perché",
+    "di rado senza",
+    "di rado senza conseguenze",
+    "di rado senza motivo",
+    "capita di rado che",
+    "accade di rado che",
+    "succede di rado che",
+    "si verifica di rado",
+    "si usa di rado",
+    "si trova di rado",
+    "si incontra di rado",
+    "come di rado accade",
+    "caso che si presenta di rado"
+  ],
+
+  "examples": [
+    {
+      "it": "Vado di rado al cinema durante la settimana.",
+      "ja": "私は平日に映画館へ行くことはめったにありません。"
+    },
+    {
+      "it": "Marco si lamenta di rado.",
+      "ja": "マルコが不平を言うことはめったにありません。"
+    },
+    {
+      "it": "Questa espressione si incontra di rado nella lingua parlata.",
+      "ja": "この表現は話し言葉ではめったに見られません。"
+    },
+    {
+      "it": "Le occasioni di discutere direttamente con il direttore capitano di rado.",
+      "ja": "責任者と直接話し合う機会はめったにありません。"
+    },
+    {
+      "it": "Un negoziato così complesso si conclude di rado in pochi giorni.",
+      "ja": "これほど複雑な交渉が数日でまとまることはめったにありません。"
+    },
+    {
+      "it": "Di rado prendiamo il traghetto in inverno.",
+      "ja": "私たちは冬にフェリーを利用することはめったにありません。"
+    },
+    {
+      "it": "La vera semplicità si ottiene di rado senza molto lavoro.",
+      "ja": "真の簡潔さは、多大な努力なしに得られることはめったにありません。"
+    }
+  ]
+}
+]
