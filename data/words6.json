@@ -3538,4 +3538,358 @@
     }
   }
 },
+{
+  "id": "navigare",
+  "sid": "2026-00281",
+  "word": "navigare",
+  "ipa": "/naviˈɡare/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・他動詞",
+      "it": "verbo intransitivo e transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "navigato",
+    "gerundPresent": "navigando",
+    "pattern": "navigare in o su + mare, fiume o lago / navigare verso + luogo / navigare su Internet / navigare un sito, un menu o un sistema"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "travel",
+      "transport",
+      "technology",
+      "business",
+      "leisure"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "船・ヨットなどで海・川・湖を航行する",
+      "船が特定の方向・目的地へ進む",
+      "船員・操縦者として船を動かす",
+      "インターネット上のサイトや情報を閲覧する",
+      "ウェブサイト・アプリ・メニューなどの内部を移動する",
+      "情報・文書・選択肢などを順に調べて進む",
+      "複雑・不安定な状況の中をうまく切り抜ける"
+    ],
+    "it": [
+      "Viaggiare o muoversi sull’acqua mediante una nave, una barca o un’altra imbarcazione.",
+      "Procedere con un’imbarcazione in una determinata direzione o verso una destinazione.",
+      "Condurre o governare un’imbarcazione.",
+      "Consultare siti e informazioni disponibili su Internet.",
+      "Spostarsi tra le pagine, le sezioni o i comandi di un sito, un’applicazione o un menu.",
+      "Esaminare progressivamente informazioni, documenti o alternative.",
+      "Muoversi con abilità all’interno di una situazione complessa o incerta."
+    ]
+  },
+
+  "nuance": {
+    "ja": "本来は船で水上を移動することを表す。viaggiareが交通手段を限定しない一般的な「旅行する」であるのに対し、navigareは海・川などを船で進むことに焦点がある。現代ではnavigare su Internet「インターネットを閲覧する」が非常に一般的である。技術分野では、ウェブサイトやメニュー内を移動して目的の情報へ到達することを表す。比喩的には、複雑な制度や困難な状況を慎重に切り抜ける意味でも使われる。",
+    "it": "Nel significato originario indica lo spostamento sull’acqua mediante un’imbarcazione. Viaggiare è generale e non specifica il mezzo; navigare richiama il percorso su mare, fiumi o laghi. Nell’italiano contemporaneo è molto comune navigare su Internet. In ambito tecnologico può anche essere transitivo e indicare il movimento all’interno di un sito, un menu o un sistema. Figurativamente esprime la capacità di orientarsi in una situazione complessa."
+  },
+
+  "etymology": {
+    "ja": "ラテン語nāvigāre（船で航行する）に由来し、nāvis（船）とagere（動かす、導く）から形成された。語源的には「船を動かす、導く」ことを意味する。水上で経路を選びながら進むという発想から、現代ではコンピューター上の情報空間を移動する意味にも使われる。同じ語族にはnave、navigazione、navigatore、navaleなどがある。",
+    "it": "Dal latino nāvigāre, formato da nāvis, «nave», e agere, «condurre, spingere». Il significato etimologico è quindi «condurre una nave». L’idea di orientarsi lungo un percorso si è poi estesa allo spazio digitale. Alla stessa famiglia appartengono nave, navigazione, navigatore e navale."
+  },
+
+  "minimal": [
+    {
+      "word": "navigare",
+      "ja": "船で水上を進む、またはウェブサイトや情報空間の中を移動する",
+      "it": "muoversi sull’acqua con un’imbarcazione oppure spostarsi all’interno di uno spazio digitale"
+    },
+    {
+      "word": "viaggiare",
+      "ja": "交通手段を問わず、ある場所から別の場所へ移動する",
+      "it": "spostarsi da un luogo a un altro indipendentemente dal mezzo utilizzato"
+    },
+    {
+      "word": "veleggiare",
+      "ja": "風を受けた帆を使って船で進む",
+      "it": "navigare utilizzando la forza del vento sulle vele"
+    },
+    {
+      "word": "esplorare",
+      "ja": "未知の場所・分野・情報などを詳しく調べる",
+      "it": "percorrere o esaminare qualcosa di poco conosciuto per scoprirne le caratteristiche"
+    },
+    {
+      "word": "consultare",
+      "ja": "必要な情報を得るため、資料・ウェブサイトなどを調べる",
+      "it": "esaminare una fonte, un documento o un sito per ricavarne informazioni"
+    }
+  ],
+
+  "synonyms": [
+    "veleggiare",
+    "solcare",
+    "viaggiare per mare",
+    "esplorare",
+    "consultare",
+    "orientarsi"
+  ],
+
+  "equivalents": {
+    "en": [
+      "navigate",
+      "sail",
+      "browse"
+    ],
+    "de": [
+      "navigieren",
+      "segeln",
+      "surfen"
+    ],
+    "fr": [
+      "naviguer",
+      "voguer",
+      "surfer"
+    ],
+    "es": [
+      "navegar",
+      "surcar",
+      "explorar"
+    ]
+  },
+
+  "collocations": [
+    "navigare in mare",
+    "navigare sul mare",
+    "navigare nell’oceano",
+    "navigare su un fiume",
+    "navigare su un lago",
+    "navigare lungo la costa",
+    "navigare in acque tranquille",
+    "navigare in acque agitate",
+    "navigare in alto mare",
+    "navigare controcorrente",
+    "navigare con il vento",
+    "navigare a vela",
+    "navigare a vista",
+    "navigare verso nord",
+    "navigare verso il porto",
+    "navigare per molti giorni",
+    "imparare a navigare",
+    "saper navigare",
+    "continuare a navigare",
+    "una nave naviga",
+    "navigare su Internet",
+    "navigare sul web",
+    "navigare online",
+    "navigare in rete",
+    "navigare con il telefono",
+    "navigare in modo sicuro",
+    "navigare in forma anonima",
+    "navigare senza pubblicità",
+    "navigare tra diversi siti",
+    "navigare tra le pagine",
+    "navigare un sito web",
+    "navigare un menu",
+    "navigare un’applicazione",
+    "navigare un sistema",
+    "navigare nel documento",
+    "navigare tra le opzioni",
+    "facile da navigare",
+    "difficile da navigare",
+    "navigare in una situazione complessa",
+    "navigare nell’incertezza"
+  ],
+
+  "examples": [
+    {
+      "it": "Abbiamo navigato lungo la costa per tre giorni.",
+      "ja": "私たちは3日間、海岸沿いを航行しました。"
+    },
+    {
+      "it": "La nave navigava verso il porto nonostante la tempesta.",
+      "ja": "嵐にもかかわらず、その船は港へ向かって進んでいました。"
+    },
+    {
+      "it": "Mio padre mi ha insegnato a navigare a vela.",
+      "ja": "父は私にヨットの操縦を教えてくれました。"
+    },
+    {
+      "it": "Passo troppo tempo a navigare su Internet.",
+      "ja": "私はインターネットの閲覧に時間を使いすぎています。"
+    },
+    {
+      "it": "Il nuovo sito è facile da navigare anche dal telefono.",
+      "ja": "新しいサイトは携帯電話からでも簡単に操作できます。"
+    },
+    {
+      "it": "L’azienda deve imparare a navigare in un mercato molto incerto.",
+      "ja": "その会社は非常に不安定な市場をうまく切り抜ける方法を学ばなければなりません。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "navigo",
+        "navighi",
+        "naviga",
+        "navighiamo",
+        "navigate",
+        "navigano"
+      ],
+
+      "Imperfetto": [
+        "navigavo",
+        "navigavi",
+        "navigava",
+        "navigavamo",
+        "navigavate",
+        "navigavano"
+      ],
+
+      "Passato prossimo": [
+        "ho navigato",
+        "hai navigato",
+        "ha navigato",
+        "abbiamo navigato",
+        "avete navigato",
+        "hanno navigato"
+      ],
+
+      "Passato remoto": [
+        "navigai",
+        "navigasti",
+        "navigò",
+        "navigammo",
+        "navigaste",
+        "navigarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo navigato",
+        "avevi navigato",
+        "aveva navigato",
+        "avevamo navigato",
+        "avevate navigato",
+        "avevano navigato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi navigato",
+        "avesti navigato",
+        "ebbe navigato",
+        "avemmo navigato",
+        "aveste navigato",
+        "ebbero navigato"
+      ],
+
+      "Futuro semplice": [
+        "navigherò",
+        "navigherai",
+        "navigherà",
+        "navigheremo",
+        "navigherete",
+        "navigheranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò navigato",
+        "avrai navigato",
+        "avrà navigato",
+        "avremo navigato",
+        "avrete navigato",
+        "avranno navigato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "navighi",
+        "navighi",
+        "navighi",
+        "navighiamo",
+        "navighiate",
+        "navighino"
+      ],
+
+      "Imperfetto": [
+        "navigassi",
+        "navigassi",
+        "navigasse",
+        "navigassimo",
+        "navigaste",
+        "navigassero"
+      ],
+
+      "Passato": [
+        "abbia navigato",
+        "abbia navigato",
+        "abbia navigato",
+        "abbiamo navigato",
+        "abbiate navigato",
+        "abbiano navigato"
+      ],
+
+      "Trapassato": [
+        "avessi navigato",
+        "avessi navigato",
+        "avesse navigato",
+        "avessimo navigato",
+        "aveste navigato",
+        "avessero navigato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "navigherei",
+        "navigheresti",
+        "navigherebbe",
+        "navigheremmo",
+        "navighereste",
+        "navigherebbero"
+      ],
+
+      "Passato": [
+        "avrei navigato",
+        "avresti navigato",
+        "avrebbe navigato",
+        "avremmo navigato",
+        "avreste navigato",
+        "avrebbero navigato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "naviga",
+        "navighi",
+        "navighiamo",
+        "navigate",
+        "navighino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "navigare",
+        "avere navigato",
+        "navigante",
+        "navigato",
+        "navigando",
+        "avendo navigato"
+      ]
+    }
+  }
+}
 ]
