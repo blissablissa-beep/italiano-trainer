@@ -1,1 +1,3541 @@
-[]
+[
+{
+  "id": "escludere",
+  "sid": "2026-00271",
+  "word": "escludere",
+  "ipa": "/esˈkludere/",
+  "level": "B1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "escluso",
+    "gerundPresent": "escludendo",
+    "pattern": "escludere qualcuno o qualcosa da + gruppo o attività / escludere una possibilità / escludere che + congiuntivo / non si può escludere che + congiuntivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "education",
+      "law",
+      "analysis"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人を集団・活動・場所などに参加させない、締め出す",
+      "人やチームを試験・競技・選考などから外す",
+      "物・項目・事例などを対象や範囲に含めない",
+      "可能性・仮説・原因などを否定する、排除する",
+      "ある事態が起こらない、または事実でないと断定する",
+      "二つの物事が互いに両立しないことを示す",
+      "条件・事情などが人の参加や実現を妨げる"
+    ],
+    "it": [
+      "Impedire a qualcuno di partecipare a un gruppo, un’attività o un luogo.",
+      "Estromettere una persona o una squadra da un esame, una gara o una selezione.",
+      "Non comprendere un elemento, un caso o una voce in un insieme o in un calcolo.",
+      "Scartare una possibilità, un’ipotesi o una causa perché ritenuta non valida.",
+      "Affermare che un fatto o un evento non è possibile o non si verificherà.",
+      "Essere incompatibile con qualcosa o impedirne contemporaneamente l’esistenza.",
+      "Costituire una condizione che impedisce la partecipazione o la realizzazione di qualcosa."
+    ]
+  },
+
+  "nuance": {
+    "ja": "人・物・可能性などを、ある集団・範囲・検討対象の「外に置く」ことを表す。人について使う場合は、意図的または制度的に参加を認めない響きを持つことがある。可能性についてはescludere che + 接続法を用い、「～という可能性を否定する」となる。否定形non escludere cheやnon si può escludere cheは、逆に「～の可能性がある」「～も否定できない」という慎重な表現になる。eliminareは対象そのものを除去すること、escludereは一定の範囲に含めないことに重点がある。",
+    "it": "Indica il collocare una persona, una cosa o una possibilità fuori da un gruppo, da un ambito o da una valutazione. Riferito a persone può suggerire una decisione intenzionale o istituzionale di non ammetterle. Con una proposizione si usa escludere che seguito dal congiuntivo. Le forme negative non escludere che e non si può escludere che indicano invece che una possibilità rimane aperta. Eliminare sottolinea la rimozione dell’elemento; escludere il fatto che esso non venga incluso in un determinato ambito."
+  },
+
+  "etymology": {
+    "ja": "ラテン語exclūdere（外へ締め出す、閉め出す）に由来し、ex-（外へ）とclaudere（閉じる）から成る。語源的には、扉を閉じて人や物を「外側に置く」ことを表した。そこから、参加させない、範囲に含めない、可能性を否定するという意味が発達した。同じ語族にはesclusione、esclusivo、includere、concludere、chiudereなどがある。",
+    "it": "Dal latino exclūdere, formato da ex-, «fuori», e claudere, «chiudere». Il significato originario era «chiudere fuori, impedire l’ingresso». Da questa immagine concreta si sono sviluppati i significati di non ammettere, non comprendere in un insieme e scartare una possibilità. Alla stessa famiglia appartengono esclusione, esclusivo, includere e concludere."
+  },
+
+  "minimal": [
+    {
+      "word": "escludere",
+      "ja": "人・物・可能性を集団・範囲・検討対象に含めない",
+      "it": "non ammettere o non comprendere qualcuno o qualcosa in un gruppo, un ambito o una valutazione"
+    },
+    {
+      "word": "eliminare",
+      "ja": "不要・有害な対象を取り除き、その存在や影響をなくす",
+      "it": "rimuovere completamente qualcosa e farne cessare la presenza o gli effetti"
+    },
+    {
+      "word": "rifiutare",
+      "ja": "提案・要求・招待・物などを受け入れない",
+      "it": "non accettare una proposta, una richiesta, un invito o qualcosa che viene offerto"
+    },
+    {
+      "word": "scartare",
+      "ja": "複数の候補から不適切なものを選び出して除く",
+      "it": "mettere da parte un elemento perché giudicato inadatto tra più possibilità"
+    },
+    {
+      "word": "vietare",
+      "ja": "規則・命令によって行為をしてはならないと定める",
+      "it": "impedire formalmente un’azione mediante una regola o un ordine"
+    }
+  ],
+
+  "synonyms": [
+    "estromettere",
+    "scartare",
+    "eliminare",
+    "omettere",
+    "impedire",
+    "non ammettere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "exclude",
+      "rule out",
+      "leave out"
+    ],
+    "de": [
+      "ausschließen",
+      "ausgrenzen",
+      "ausscheiden"
+    ],
+    "fr": [
+      "exclure",
+      "écarter",
+      "éliminer"
+    ],
+    "es": [
+      "excluir",
+      "descartar",
+      "dejar fuera"
+    ]
+  },
+
+  "collocations": [
+    "escludere qualcuno",
+    "escludere un partecipante",
+    "escludere un candidato",
+    "escludere un concorrente",
+    "escludere una squadra",
+    "escludere qualcuno dal gruppo",
+    "escludere qualcuno dalla discussione",
+    "escludere qualcuno dalla riunione",
+    "escludere qualcuno dalla competizione",
+    "escludere qualcuno dalla selezione",
+    "escludere qualcuno dalla società",
+    "sentirsi escluso",
+    "essere escluso dal progetto",
+    "essere escluso dalla gara",
+    "escludere un elemento",
+    "escludere un caso",
+    "escludere una categoria",
+    "escludere una voce dal calcolo",
+    "escludere una possibilità",
+    "escludere un’ipotesi",
+    "escludere una causa",
+    "escludere un errore",
+    "escludere un rischio",
+    "escludere categoricamente",
+    "escludere completamente",
+    "escludere a priori",
+    "non escludere nulla",
+    "non escludere una possibilità",
+    "non escludere che",
+    "non si può escludere che",
+    "escludere che sia vero",
+    "escludere che possa accadere",
+    "escludersi a vicenda",
+    "due possibilità si escludono",
+    "un’opzione esclude l’altra",
+    "la mancanza di requisiti esclude",
+    "senza escludere altre soluzioni",
+    "cercare di escludere",
+    "poter escludere",
+    "impossibile da escludere"
+  ],
+
+  "examples": [
+    {
+      "it": "Hanno escluso due candidati dalla selezione.",
+      "ja": "彼らは二人の候補者を選考から外しました。"
+    },
+    {
+      "it": "Il regolamento esclude la partecipazione dei minori.",
+      "ja": "規則では未成年者の参加が認められていません。"
+    },
+    {
+      "it": "Il medico ha escluso un’infezione.",
+      "ja": "医師は感染症の可能性を否定しました。"
+    },
+    {
+      "it": "Non possiamo escludere che il problema si ripresenti.",
+      "ja": "その問題が再発する可能性は否定できません。"
+    },
+    {
+      "it": "Queste due interpretazioni non si escludono a vicenda.",
+      "ja": "この二つの解釈は互いに両立しないわけではありません。"
+    },
+    {
+      "it": "Mi sono sentito escluso dalla conversazione.",
+      "ja": "私は会話から仲間外れにされたように感じました。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "escludo",
+        "escludi",
+        "esclude",
+        "escludiamo",
+        "escludete",
+        "escludono"
+      ],
+
+      "Imperfetto": [
+        "escludevo",
+        "escludevi",
+        "escludeva",
+        "escludevamo",
+        "escludevate",
+        "escludevano"
+      ],
+
+      "Passato prossimo": [
+        "ho escluso",
+        "hai escluso",
+        "ha escluso",
+        "abbiamo escluso",
+        "avete escluso",
+        "hanno escluso"
+      ],
+
+      "Passato remoto": [
+        "esclusi",
+        "escludesti",
+        "escluse",
+        "escludemmo",
+        "escludeste",
+        "esclussero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo escluso",
+        "avevi escluso",
+        "aveva escluso",
+        "avevamo escluso",
+        "avevate escluso",
+        "avevano escluso"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi escluso",
+        "avesti escluso",
+        "ebbe escluso",
+        "avemmo escluso",
+        "aveste escluso",
+        "ebbero escluso"
+      ],
+
+      "Futuro semplice": [
+        "escluderò",
+        "escluderai",
+        "escluderà",
+        "escluderemo",
+        "escluderete",
+        "escluderanno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò escluso",
+        "avrai escluso",
+        "avrà escluso",
+        "avremo escluso",
+        "avrete escluso",
+        "avranno escluso"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "escluda",
+        "escluda",
+        "escluda",
+        "escludiamo",
+        "escludiate",
+        "escludano"
+      ],
+
+      "Imperfetto": [
+        "escludessi",
+        "escludessi",
+        "escludesse",
+        "escludessimo",
+        "escludeste",
+        "escludessero"
+      ],
+
+      "Passato": [
+        "abbia escluso",
+        "abbia escluso",
+        "abbia escluso",
+        "abbiamo escluso",
+        "abbiate escluso",
+        "abbiano escluso"
+      ],
+
+      "Trapassato": [
+        "avessi escluso",
+        "avessi escluso",
+        "avesse escluso",
+        "avessimo escluso",
+        "aveste escluso",
+        "avessero escluso"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "escluderei",
+        "escluderesti",
+        "escluderebbe",
+        "escluderemmo",
+        "escludereste",
+        "escluderebbero"
+      ],
+
+      "Passato": [
+        "avrei escluso",
+        "avresti escluso",
+        "avrebbe escluso",
+        "avremmo escluso",
+        "avreste escluso",
+        "avrebbero escluso"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "escludi",
+        "escluda",
+        "escludiamo",
+        "escludete",
+        "escludano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "escludere",
+        "avere escluso",
+        "escludente",
+        "escluso",
+        "escludendo",
+        "avendo escluso"
+      ]
+    }
+  }
+},
+{
+  "id": "selezionare",
+  "sid": "2026-00272",
+  "word": "selezionare",
+  "ipa": "/seletsjoˈnare/",
+  "level": "B1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "selezionato",
+    "gerundPresent": "selezionando",
+    "pattern": "selezionare qualcuno o qualcosa / selezionare qualcuno per + ruolo o attività / selezionare qualcosa tra o fra più elementi / selezionare un’opzione"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "business",
+      "technology",
+      "education",
+      "sports",
+      "shopping"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "複数の人・物の中から基準に従って適切なものを選び出す",
+      "仕事・役割・競技などの候補者を審査して選抜する",
+      "情報・資料・作品などを評価して採用するものを選ぶ",
+      "画面上の項目・文字・ファイル・選択肢などを選択する",
+      "商品・材料・個体などを品質や特徴によって選別する",
+      "生物の望ましい特徴を基準として繁殖する個体を選ぶ"
+    ],
+    "it": [
+      "Scegliere tra più persone o cose quelle che soddisfano determinati criteri.",
+      "Valutare e scegliere dei candidati per un lavoro, un ruolo o una competizione.",
+      "Esaminare informazioni, documenti o opere per decidere quali utilizzare o accettare.",
+      "Indicare sullo schermo un comando, un testo, un file o un’opzione.",
+      "Separare prodotti, materiali o esemplari secondo la qualità o determinate caratteristiche.",
+      "Scegliere gli organismi da riprodurre in base a caratteristiche considerate desiderabili."
+    ]
+  },
+
+  "nuance": {
+    "ja": "複数の候補を何らかの基準で評価し、その中から適切なものを選び出すことを表す。scegliereは個人的な好みや単純な決定を含む最も一般的な「選ぶ」であるのに対し、selezionareは比較・審査・分類などの過程を暗示し、業務・採用・競技・情報処理で特によく使われる。コンピューターでは、クリックやタップによって項目を選択状態にすることも表す。",
+    "it": "Indica una scelta compiuta tra più elementi mediante criteri di valutazione, qualità o adeguatezza. Scegliere è il verbo più generale e può riferirsi anche a una semplice preferenza personale; selezionare suggerisce più chiaramente un confronto, un esame o un processo organizzato. È particolarmente frequente nella selezione del personale, nello sport, nella gestione delle informazioni e nelle interfacce informatiche."
+  },
+
+  "etymology": {
+    "ja": "名詞selezioneから形成された動詞で、selezioneはラテン語selectio（選択、選別）に由来する。selectioはseligere（選び出す）の派生語で、se-（離して、別に）とlegere（集める、選ぶ、読む）から成る。語源的には、集団の中から特定のものを「分けて選び取る」ことを表す。同じ語族にはselezione、selettivo、selezionato、eleggereなどがある。",
+    "it": "Deriva da selezione, dal latino selectio, a sua volta collegato a seligere, «scegliere separando». Il verbo latino era formato da se-, con valore separativo, e legere, «raccogliere, scegliere». L’idea etimologica è quindi quella di individuare e separare gli elementi ritenuti adatti all’interno di un insieme."
+  },
+
+  "minimal": [
+    {
+      "word": "selezionare",
+      "ja": "複数の候補を一定の基準で評価し、適切なものを選び出す",
+      "it": "scegliere tra più elementi quelli che soddisfano determinati criteri"
+    },
+    {
+      "word": "scegliere",
+      "ja": "好み・意思・必要性に基づき、複数の可能性から一つ以上を選ぶ",
+      "it": "decidere liberamente quale possibilità preferire tra diverse alternative"
+    },
+    {
+      "word": "eleggere",
+      "ja": "投票や正式な手続によって、人を役職・代表者として選出する",
+      "it": "scegliere formalmente una persona per una carica mediante un voto o una procedura"
+    },
+    {
+      "word": "reclutare",
+      "ja": "組織・会社・軍隊などへ加えるために人を募集・採用する",
+      "it": "cercare e inserire persone in un’organizzazione, un’impresa o un corpo"
+    },
+    {
+      "word": "filtrare",
+      "ja": "条件に合わない要素を除き、必要な情報や物だけを残す",
+      "it": "escludere gli elementi che non soddisfano determinate condizioni lasciando quelli pertinenti"
+    }
+  ],
+
+  "synonyms": [
+    "scegliere",
+    "individuare",
+    "vagliare",
+    "cernere",
+    "filtrare",
+    "prescegliere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "select",
+      "choose",
+      "screen"
+    ],
+    "de": [
+      "auswählen",
+      "selektieren",
+      "aussuchen"
+    ],
+    "fr": [
+      "sélectionner",
+      "choisir",
+      "retenir"
+    ],
+    "es": [
+      "seleccionar",
+      "escoger",
+      "elegir"
+    ]
+  },
+
+  "collocations": [
+    "selezionare qualcuno",
+    "selezionare un candidato",
+    "selezionare il personale",
+    "selezionare nuovi dipendenti",
+    "selezionare un collaboratore",
+    "selezionare un giocatore",
+    "selezionare una squadra",
+    "selezionare un partecipante",
+    "selezionare qualcuno per un incarico",
+    "selezionare qualcuno per un colloquio",
+    "essere selezionato per un ruolo",
+    "essere selezionato tra molti candidati",
+    "selezionare un prodotto",
+    "selezionare una materia prima",
+    "selezionare gli ingredienti",
+    "selezionare i migliori esemplari",
+    "selezionare un’opera",
+    "selezionare un testo",
+    "selezionare una fonte",
+    "selezionare le informazioni",
+    "selezionare i dati",
+    "selezionare i risultati",
+    "selezionare un’opzione",
+    "selezionare una voce",
+    "selezionare un file",
+    "selezionare una cartella",
+    "selezionare un’immagine",
+    "selezionare una parte del testo",
+    "selezionare dal menu",
+    "selezionare con il mouse",
+    "selezionare facendo clic",
+    "selezionare attentamente",
+    "selezionare accuratamente",
+    "selezionare automaticamente",
+    "selezionare manualmente",
+    "selezionare in base alla qualità",
+    "selezionare secondo determinati criteri",
+    "cercare di selezionare",
+    "procedere a selezionare",
+    "difficile da selezionare"
+  ],
+
+  "examples": [
+    {
+      "it": "L’azienda ha selezionato cinque candidati per il colloquio.",
+      "ja": "その会社は面接のために候補者を5人選抜しました。"
+    },
+    {
+      "it": "Abbiamo selezionato soltanto le fonti più affidabili.",
+      "ja": "私たちは最も信頼できる情報源だけを選びました。"
+    },
+    {
+      "it": "Seleziona la lingua che vuoi utilizzare.",
+      "ja": "使用したい言語を選択してください。"
+    },
+    {
+      "it": "Per copiare la frase, devi prima selezionare il testo.",
+      "ja": "その文をコピーするには、まずテキストを選択する必要があります。"
+    },
+    {
+      "it": "Il ristorante seleziona con cura gli ingredienti.",
+      "ja": "そのレストランは食材を慎重に選んでいます。"
+    },
+    {
+      "it": "È stata selezionata tra più di cento partecipanti.",
+      "ja": "彼女は100人を超える参加者の中から選ばれました。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "seleziono",
+        "selezioni",
+        "seleziona",
+        "selezioniamo",
+        "selezionate",
+        "selezionano"
+      ],
+
+      "Imperfetto": [
+        "selezionavo",
+        "selezionavi",
+        "selezionava",
+        "selezionavamo",
+        "selezionavate",
+        "selezionavano"
+      ],
+
+      "Passato prossimo": [
+        "ho selezionato",
+        "hai selezionato",
+        "ha selezionato",
+        "abbiamo selezionato",
+        "avete selezionato",
+        "hanno selezionato"
+      ],
+
+      "Passato remoto": [
+        "selezionai",
+        "selezionasti",
+        "selezionò",
+        "selezionammo",
+        "selezionaste",
+        "selezionarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo selezionato",
+        "avevi selezionato",
+        "aveva selezionato",
+        "avevamo selezionato",
+        "avevate selezionato",
+        "avevano selezionato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi selezionato",
+        "avesti selezionato",
+        "ebbe selezionato",
+        "avemmo selezionato",
+        "aveste selezionato",
+        "ebbero selezionato"
+      ],
+
+      "Futuro semplice": [
+        "selezionerò",
+        "selezionerai",
+        "selezionerà",
+        "selezioneremo",
+        "selezionerete",
+        "selezioneranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò selezionato",
+        "avrai selezionato",
+        "avrà selezionato",
+        "avremo selezionato",
+        "avrete selezionato",
+        "avranno selezionato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "selezioni",
+        "selezioni",
+        "selezioni",
+        "selezioniamo",
+        "selezioniate",
+        "selezionino"
+      ],
+
+      "Imperfetto": [
+        "selezionassi",
+        "selezionassi",
+        "selezionasse",
+        "selezionassimo",
+        "selezionaste",
+        "selezionassero"
+      ],
+
+      "Passato": [
+        "abbia selezionato",
+        "abbia selezionato",
+        "abbia selezionato",
+        "abbiamo selezionato",
+        "abbiate selezionato",
+        "abbiano selezionato"
+      ],
+
+      "Trapassato": [
+        "avessi selezionato",
+        "avessi selezionato",
+        "avesse selezionato",
+        "avessimo selezionato",
+        "aveste selezionato",
+        "avessero selezionato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "selezionerei",
+        "selezioneresti",
+        "selezionerebbe",
+        "selezioneremmo",
+        "selezionereste",
+        "selezionerebbero"
+      ],
+
+      "Passato": [
+        "avrei selezionato",
+        "avresti selezionato",
+        "avrebbe selezionato",
+        "avremmo selezionato",
+        "avreste selezionato",
+        "avrebbero selezionato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "seleziona",
+        "selezioni",
+        "selezioniamo",
+        "selezionate",
+        "selezionino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "selezionare",
+        "avere selezionato",
+        "selezionante",
+        "selezionato",
+        "selezionando",
+        "avendo selezionato"
+      ]
+    }
+  }
+},
+{
+  "id": "intrattenere",
+  "sid": "2026-00273",
+  "word": "intrattenere",
+  "ipa": "/intratteˈnere/",
+  "level": "B2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・代名動詞",
+      "it": "verbo transitivo e pronominale"
+    },
+    "auxiliary": "avere; essere nella forma pronominale intrattenersi",
+    "pastParticiple": "intrattenuto",
+    "gerundPresent": "intrattenendo",
+    "pattern": "intrattenere qualcuno / intrattenere qualcuno con qualcosa / intrattenere rapporti con qualcuno / intrattenersi con qualcuno / intrattenersi a + infinito"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "social",
+      "business",
+      "media",
+      "entertainment"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人を楽しい活動・話・演技などで楽しませる",
+      "客や参加者の相手をして退屈させないようにする",
+      "人と会話を交わし、しばらく話し相手になる",
+      "人・組織・国家などと関係・交流・取引を維持する",
+      "考え・希望・疑念などを心の中に抱く、改まった用法",
+      "代名動詞intrattenersiで、人としばらく話す、交流する",
+      "代名動詞intrattenersiで、ある場所や話題にしばらくとどまる"
+    ],
+    "it": [
+      "Divertire qualcuno mediante racconti, attività, spettacoli o altre forme di svago.",
+      "Tenere compagnia a ospiti o partecipanti impedendo che si annoino.",
+      "Conversare con qualcuno e trattenerlo per un certo tempo.",
+      "Mantenere rapporti, relazioni, scambi o contatti con persone, organizzazioni o Stati.",
+      "Coltivare interiormente un pensiero, una speranza o un dubbio, in un uso formale.",
+      "Nella forma intrattenersi, conversare o trascorrere del tempo con qualcuno.",
+      "Nella forma intrattenersi, soffermarsi per qualche tempo in un luogo o su un argomento."
+    ]
+  },
+
+  "nuance": {
+    "ja": "中心的な意味は、相手の注意を引きつけながら、楽しい時間を過ごさせることである。divertireが「笑わせる・楽しませる」という結果を強調するのに対し、intrattenereは会話・演技・活動などによって相手の時間を満たすことに重点がある。改まった文脈ではintrattenere rapporti commerciali「商取引関係を維持する」のように、人・組織間の継続的な関係にも使われる。代名動詞intrattenersiは「人と歓談する」「ある話題についてしばらく話す」を意味する。",
+    "it": "Nel significato principale indica il mantenere viva l’attenzione di qualcuno mediante conversazioni, attività o spettacoli piacevoli. Divertire sottolinea maggiormente il risultato del divertimento; intrattenere mette in rilievo il modo in cui si occupa piacevolmente il tempo di una persona. In registri formali è frequente con rapporti, relazioni e contatti. La forma intrattenersi significa conversare, trascorrere del tempo con qualcuno oppure soffermarsi su un argomento."
+  },
+
+  "etymology": {
+    "ja": "ラテン語intertenēreにさかのぼる語で、inter-（間に）とtenēre（保つ、つかんでおく）から成る。語源的には、人をその場に「引き留めておく」ことを表し、そこから会話や催しで時間を過ごさせる、楽しませるという意味が生じた。同じ語族にはtenere、trattenere、mantenere、intrattenimentoなどがある。",
+    "it": "Deriva dal latino intertenēre, formato da inter-, «fra», e tenēre, «tenere». L’idea originaria è quella di trattenere qualcuno e mantenerlo occupato. Da qui si sono sviluppati i significati di divertire, conversare e mantenere rapporti. Alla stessa famiglia appartengono tenere, trattenere, mantenere e intrattenimento."
+  },
+
+  "minimal": [
+    {
+      "word": "intrattenere",
+      "ja": "会話・活動・演技などで相手の時間を満たし、楽しく過ごさせる",
+      "it": "occupare piacevolmente il tempo e l’attenzione di qualcuno con conversazioni o attività"
+    },
+    {
+      "word": "divertire",
+      "ja": "人に楽しさや笑いを与え、愉快な気持ちにさせる",
+      "it": "procurare piacere, allegria o riso a qualcuno"
+    },
+    {
+      "word": "trattenere",
+      "ja": "人をその場に引き留める、または感情・物などを抑えて保持する",
+      "it": "impedire a qualcuno di andare via oppure contenere e conservare qualcosa"
+    },
+    {
+      "word": "ospitare",
+      "ja": "人を自宅・施設・番組などへ客として迎え入れる",
+      "it": "accogliere qualcuno come ospite in una casa, una struttura o un programma"
+    },
+    {
+      "word": "conversare",
+      "ja": "一人以上の相手と言葉を交わし、会話する",
+      "it": "scambiare parole e idee con una o più persone"
+    }
+  ],
+
+  "synonyms": [
+    "divertire",
+    "svagare",
+    "allietare",
+    "tenere compagnia",
+    "conversare",
+    "mantenere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "entertain",
+      "engage",
+      "maintain"
+    ],
+    "de": [
+      "unterhalten",
+      "beschäftigen",
+      "pflegen"
+    ],
+    "fr": [
+      "divertir",
+      "entretenir",
+      "tenir compagnie"
+    ],
+    "es": [
+      "entretener",
+      "divertir",
+      "mantener"
+    ]
+  },
+
+  "collocations": [
+    "intrattenere qualcuno",
+    "intrattenere gli ospiti",
+    "intrattenere il pubblico",
+    "intrattenere i bambini",
+    "intrattenere i clienti",
+    "intrattenere i partecipanti",
+    "intrattenere qualcuno con una storia",
+    "intrattenere qualcuno con la musica",
+    "intrattenere qualcuno con uno spettacolo",
+    "intrattenere qualcuno durante l’attesa",
+    "intrattenere una conversazione",
+    "intrattenere un dialogo",
+    "intrattenere rapporti",
+    "intrattenere relazioni",
+    "intrattenere rapporti diplomatici",
+    "intrattenere rapporti commerciali",
+    "intrattenere rapporti professionali",
+    "intrattenere stretti rapporti",
+    "intrattenere contatti",
+    "intrattenere scambi culturali",
+    "intrattenere una corrispondenza",
+    "intrattenere una speranza",
+    "intrattenere un dubbio",
+    "intrattenersi con qualcuno",
+    "intrattenersi con gli ospiti",
+    "intrattenersi con gli amici",
+    "intrattenersi in conversazione",
+    "intrattenersi a parlare",
+    "intrattenersi a lungo",
+    "intrattenersi piacevolmente",
+    "intrattenersi su un argomento",
+    "intrattenersi sui dettagli",
+    "intrattenersi dopo la riunione",
+    "intrattenersi per qualche minuto",
+    "saper intrattenere",
+    "cercare di intrattenere",
+    "essere facile da intrattenere",
+    "un programma destinato a intrattenere"
+  ],
+
+  "examples": [
+    {
+      "it": "Il musicista ha intrattenuto il pubblico per tutta la serata.",
+      "ja": "その音楽家は一晩中、観客を楽しませました。"
+    },
+    {
+      "it": "Puoi intrattenere gli ospiti mentre preparo la cena?",
+      "ja": "私が夕食を準備している間、客の相手をしてもらえますか。"
+    },
+    {
+      "it": "Le due aziende intrattengono rapporti commerciali da molti anni.",
+      "ja": "その二社は長年にわたって取引関係を維持しています。"
+    },
+    {
+      "it": "Il nostro Paese intrattiene relazioni diplomatiche con numerosi Stati.",
+      "ja": "わが国は多くの国と外交関係を維持しています。"
+    },
+    {
+      "it": "Dopo la conferenza mi sono intrattenuto con alcuni partecipanti.",
+      "ja": "講演のあと、私は何人かの参加者としばらく歓談しました。"
+    },
+    {
+      "it": "Non voglio intrattenermi troppo a lungo su questo argomento.",
+      "ja": "この話題についてあまり長く話し続けるつもりはありません。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "intrattengo",
+        "intrattieni",
+        "intrattiene",
+        "intratteniamo",
+        "intrattenete",
+        "intrattengono"
+      ],
+
+      "Imperfetto": [
+        "intrattenevo",
+        "intrattenevi",
+        "intratteneva",
+        "intrattenevamo",
+        "intrattenevate",
+        "intrattenevano"
+      ],
+
+      "Passato prossimo": [
+        "ho intrattenuto",
+        "hai intrattenuto",
+        "ha intrattenuto",
+        "abbiamo intrattenuto",
+        "avete intrattenuto",
+        "hanno intrattenuto"
+      ],
+
+      "Passato remoto": [
+        "intrattenni",
+        "intrattenesti",
+        "intrattenne",
+        "intrattenemmo",
+        "intratteneste",
+        "intrattennero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo intrattenuto",
+        "avevi intrattenuto",
+        "aveva intrattenuto",
+        "avevamo intrattenuto",
+        "avevate intrattenuto",
+        "avevano intrattenuto"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi intrattenuto",
+        "avesti intrattenuto",
+        "ebbe intrattenuto",
+        "avemmo intrattenuto",
+        "aveste intrattenuto",
+        "ebbero intrattenuto"
+      ],
+
+      "Futuro semplice": [
+        "intratterrò",
+        "intratterrai",
+        "intratterrà",
+        "intratterremo",
+        "intratterrete",
+        "intratterranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò intrattenuto",
+        "avrai intrattenuto",
+        "avrà intrattenuto",
+        "avremo intrattenuto",
+        "avrete intrattenuto",
+        "avranno intrattenuto"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "intrattenga",
+        "intrattenga",
+        "intrattenga",
+        "intratteniamo",
+        "intratteniate",
+        "intrattengano"
+      ],
+
+      "Imperfetto": [
+        "intrattenessi",
+        "intrattenessi",
+        "intrattenesse",
+        "intrattenessimo",
+        "intratteneste",
+        "intrattenessero"
+      ],
+
+      "Passato": [
+        "abbia intrattenuto",
+        "abbia intrattenuto",
+        "abbia intrattenuto",
+        "abbiamo intrattenuto",
+        "abbiate intrattenuto",
+        "abbiano intrattenuto"
+      ],
+
+      "Trapassato": [
+        "avessi intrattenuto",
+        "avessi intrattenuto",
+        "avesse intrattenuto",
+        "avessimo intrattenuto",
+        "aveste intrattenuto",
+        "avessero intrattenuto"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "intratterrei",
+        "intratterresti",
+        "intratterrebbe",
+        "intratterremmo",
+        "intratterreste",
+        "intratterrebbero"
+      ],
+
+      "Passato": [
+        "avrei intrattenuto",
+        "avresti intrattenuto",
+        "avrebbe intrattenuto",
+        "avremmo intrattenuto",
+        "avreste intrattenuto",
+        "avrebbero intrattenuto"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "intrattieni",
+        "intrattenga",
+        "intratteniamo",
+        "intrattenete",
+        "intrattengano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "intrattenere",
+        "avere intrattenuto",
+        "intrattenente",
+        "intrattenuto",
+        "intrattenendo",
+        "avendo intrattenuto"
+      ]
+    }
+  }
+},
+{
+  "id": "intrattenersi",
+  "sid": "2026-00274",
+  "word": "intrattenersi",
+  "ipa": "/intratteˈnersi/",
+  "level": "B2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "代名動詞",
+      "it": "verbo pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "intrattenuto",
+    "gerundPresent": "intrattenendosi",
+    "pattern": "intrattenersi con qualcuno / intrattenersi a + infinito / intrattenersi in + attività / intrattenersi su qualcosa / intrattenersi in un luogo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "social",
+      "business",
+      "events",
+      "leisure"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人としばらく会話する、歓談する",
+      "人と一緒に楽しく時間を過ごす",
+      "ある場所に予定より長くとどまる",
+      "活動をしながら時間を過ごす",
+      "特定の話題について詳しく、または長く話す",
+      "会合・式典などのあとに残って人々と交流する",
+      "何かをして自分自身の気を紛らわせる、楽しむ"
+    ],
+    "it": [
+      "Conversare con qualcuno per un certo periodo di tempo.",
+      "Trascorrere piacevolmente del tempo in compagnia di qualcuno.",
+      "Fermarsi in un luogo più a lungo del previsto o del necessario.",
+      "Passare il tempo dedicandosi a un’attività.",
+      "Soffermarsi a parlare o a scrivere dettagliatamente di un argomento.",
+      "Rimanere dopo un incontro o una cerimonia per conversare con i presenti.",
+      "Distrarsi o divertirsi svolgendo un’attività."
+    ]
+  },
+
+  "nuance": {
+    "ja": "人と会話を交わしながら、一定の時間その場にとどまるという意味が中心である。parlareやconversareよりも、その会話や交流がある程度続くことを示し、やや改まった響きを持つ。intrattenersi con qualcunoは「人と歓談する」、intrattenersi su un argomentoは「ある話題について詳しく話す」、intrattenersi in un luogoは「ある場所にしばらくとどまる」を表す。単に遅れたり意図せず足止めされたりする場合はtrattenersiのほうが一般的である。",
+    "it": "Esprime soprattutto il rimanere per un certo tempo conversando o svolgendo un’attività, spesso in un contesto sociale e con un tono leggermente formale. Intrattenersi con qualcuno significa conversare piacevolmente; intrattenersi su un argomento significa soffermarsi a parlarne; intrattenersi in un luogo indica il rimanervi per un certo periodo. Trattenersi è più generale e può indicare anche un ritardo o una permanenza non necessariamente piacevole."
+  },
+
+  "etymology": {
+    "ja": "intrattenereの代名動詞形である。intrattenereはラテン語intertenēreに由来し、inter-（間に）とtenēre（保つ、引き留める）から成る。人と関わりながら自分をその場に「とどめておく」という発想から、歓談する、時間を過ごす、話題に立ち入るという意味が発達した。",
+    "it": "È la forma pronominale di intrattenere, dal latino intertenēre, composto da inter-, «fra», e tenēre, «tenere». L’idea di trattenersi insieme ad altre persone ha prodotto i significati moderni di conversare, trascorrere del tempo e soffermarsi su un argomento."
+  },
+
+  "minimal": [
+    {
+      "word": "intrattenersi",
+      "ja": "人と歓談したり活動をしたりしながら、一定の時間を過ごす",
+      "it": "trascorrere un certo tempo conversando con qualcuno o dedicandosi a un’attività"
+    },
+    {
+      "word": "intrattenere",
+      "ja": "会話・活動・演技などで人を楽しませる、または関係を維持する",
+      "it": "occupare piacevolmente il tempo di qualcuno oppure mantenere rapporti e relazioni"
+    },
+    {
+      "word": "trattenersi",
+      "ja": "ある場所に残る、予定より長くとどまる、または感情を抑える",
+      "it": "rimanere in un luogo, fermarsi più a lungo oppure controllare una reazione"
+    },
+    {
+      "word": "conversare",
+      "ja": "一人以上の相手と言葉や意見を交わす",
+      "it": "scambiare parole, informazioni e opinioni con una o più persone"
+    },
+    {
+      "word": "soffermarsi",
+      "ja": "場所・考え・話題などに一時的にとどまり、注意を向ける",
+      "it": "fermarsi temporaneamente in un luogo oppure dedicare particolare attenzione a un argomento"
+    }
+  ],
+
+  "synonyms": [
+    "conversare",
+    "trattenersi",
+    "soffermarsi",
+    "chiacchierare",
+    "svagarsi",
+    "passare il tempo"
+  ],
+
+  "equivalents": {
+    "en": [
+      "converse",
+      "linger",
+      "spend time"
+    ],
+    "de": [
+      "sich unterhalten",
+      "verweilen",
+      "sich aufhalten"
+    ],
+    "fr": [
+      "s’entretenir",
+      "s’attarder",
+      "passer du temps"
+    ],
+    "es": [
+      "conversar",
+      "entretenerse",
+      "quedarse"
+    ]
+  },
+
+  "collocations": [
+    "intrattenersi con qualcuno",
+    "intrattenersi con gli ospiti",
+    "intrattenersi con gli amici",
+    "intrattenersi con i colleghi",
+    "intrattenersi con i partecipanti",
+    "intrattenersi con il pubblico",
+    "intrattenersi amichevolmente",
+    "intrattenersi piacevolmente",
+    "intrattenersi cordialmente",
+    "intrattenersi a lungo",
+    "intrattenersi per qualche minuto",
+    "intrattenersi dopo la riunione",
+    "intrattenersi dopo la cena",
+    "intrattenersi dopo lo spettacolo",
+    "intrattenersi a parlare",
+    "intrattenersi a conversare",
+    "intrattenersi a discutere",
+    "intrattenersi in conversazione",
+    "intrattenersi in piacevoli conversazioni",
+    "intrattenersi in compagnia",
+    "intrattenersi con la lettura",
+    "intrattenersi con un gioco",
+    "intrattenersi ascoltando musica",
+    "intrattenersi su un argomento",
+    "intrattenersi su una questione",
+    "intrattenersi sui dettagli",
+    "intrattenersi su un problema",
+    "intrattenersi su un punto particolare",
+    "intrattenersi in un luogo",
+    "intrattenersi nel salone",
+    "intrattenersi al ristorante",
+    "intrattenersi fino a tardi",
+    "fermarsi a intrattenersi",
+    "decidere di intrattenersi",
+    "avere il piacere di intrattenersi",
+    "non volersi intrattenere",
+    "senza intrattenersi troppo",
+    "evitare di intrattenersi",
+    "intrattenersi brevemente",
+    "intrattenersi volentieri"
+  ],
+
+  "examples": [
+    {
+      "it": "Dopo la conferenza mi sono intrattenuto con alcuni partecipanti.",
+      "ja": "講演のあと、私は何人かの参加者としばらく歓談しました。"
+    },
+    {
+      "it": "Gli ospiti si sono intrattenuti a parlare fino a mezzanotte.",
+      "ja": "客たちは真夜中まで話をしながら過ごしました。"
+    },
+    {
+      "it": "Il direttore si è intrattenuto cordialmente con i dipendenti.",
+      "ja": "部長は従業員たちと親しく歓談しました。"
+    },
+    {
+      "it": "Non voglio intrattenermi troppo sui dettagli tecnici.",
+      "ja": "技術的な細部についてあまり長く話すつもりはありません。"
+    },
+    {
+      "it": "Ci siamo intrattenuti nel giardino dopo cena.",
+      "ja": "私たちは夕食後、庭にしばらく残って過ごしました。"
+    },
+    {
+      "it": "Durante l’attesa si è intrattenuta leggendo una rivista.",
+      "ja": "待っている間、彼女は雑誌を読んで時間を過ごしました。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi intrattengo",
+        "ti intrattieni",
+        "si intrattiene",
+        "ci intratteniamo",
+        "vi intrattenete",
+        "si intrattengono"
+      ],
+
+      "Imperfetto": [
+        "mi intrattenevo",
+        "ti intrattenevi",
+        "si intratteneva",
+        "ci intrattenevamo",
+        "vi intrattenevate",
+        "si intrattenevano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono intrattenuto/a",
+        "ti sei intrattenuto/a",
+        "si è intrattenuto/a",
+        "ci siamo intrattenuti/e",
+        "vi siete intrattenuti/e",
+        "si sono intrattenuti/e"
+      ],
+
+      "Passato remoto": [
+        "mi intrattenni",
+        "ti intrattenesti",
+        "si intrattenne",
+        "ci intrattenemmo",
+        "vi intratteneste",
+        "si intrattennero"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero intrattenuto/a",
+        "ti eri intrattenuto/a",
+        "si era intrattenuto/a",
+        "ci eravamo intrattenuti/e",
+        "vi eravate intrattenuti/e",
+        "si erano intrattenuti/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui intrattenuto/a",
+        "ti fosti intrattenuto/a",
+        "si fu intrattenuto/a",
+        "ci fummo intrattenuti/e",
+        "vi foste intrattenuti/e",
+        "si furono intrattenuti/e"
+      ],
+
+      "Futuro semplice": [
+        "mi intratterrò",
+        "ti intratterrai",
+        "si intratterrà",
+        "ci intratterremo",
+        "vi intratterrete",
+        "si intratterranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò intrattenuto/a",
+        "ti sarai intrattenuto/a",
+        "si sarà intrattenuto/a",
+        "ci saremo intrattenuti/e",
+        "vi sarete intrattenuti/e",
+        "si saranno intrattenuti/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi intrattenga",
+        "ti intrattenga",
+        "si intrattenga",
+        "ci intratteniamo",
+        "vi intratteniate",
+        "si intrattengano"
+      ],
+
+      "Imperfetto": [
+        "mi intrattenessi",
+        "ti intrattenessi",
+        "si intrattenesse",
+        "ci intrattenessimo",
+        "vi intratteneste",
+        "si intrattenessero"
+      ],
+
+      "Passato": [
+        "mi sia intrattenuto/a",
+        "ti sia intrattenuto/a",
+        "si sia intrattenuto/a",
+        "ci siamo intrattenuti/e",
+        "vi siate intrattenuti/e",
+        "si siano intrattenuti/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi intrattenuto/a",
+        "ti fossi intrattenuto/a",
+        "si fosse intrattenuto/a",
+        "ci fossimo intrattenuti/e",
+        "vi foste intrattenuti/e",
+        "si fossero intrattenuti/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi intratterrei",
+        "ti intratterresti",
+        "si intratterrebbe",
+        "ci intratterremmo",
+        "vi intratterreste",
+        "si intratterrebbero"
+      ],
+
+      "Passato": [
+        "mi sarei intrattenuto/a",
+        "ti saresti intrattenuto/a",
+        "si sarebbe intrattenuto/a",
+        "ci saremmo intrattenuti/e",
+        "vi sareste intrattenuti/e",
+        "si sarebbero intrattenuti/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "intrattieniti",
+        "si intrattenga",
+        "intratteniamoci",
+        "intrattenetevi",
+        "si intrattengano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "intrattenersi",
+        "essersi intrattenuto/a/i/e",
+        "intrattenentesi",
+        "intrattenutosi/a/i/e",
+        "intrattenendosi",
+        "essendosi intrattenuto/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "distrarre",
+  "sid": "2026-00275",
+  "word": "distrarre",
+  "ipa": "/disˈtrarre/",
+  "level": "B1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞・代名動詞的用法を持つ動詞",
+      "it": "verbo transitivo con forma pronominale"
+    },
+    "auxiliary": "avere; essere nella forma pronominale distrarsi",
+    "pastParticiple": "distratto",
+    "gerundPresent": "distraendo",
+    "pattern": "distrarre qualcuno / distrarre qualcuno da qualcosa / distrarre l’attenzione da qualcosa / distrarsi con qualcosa"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "education",
+      "work",
+      "leisure",
+      "psychology"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人の注意・集中を対象からそらす",
+      "注意を別の人・物・問題などへ向けさせる",
+      "心配・苦痛・退屈などを一時的に忘れさせ、気を紛らわせる",
+      "楽しい活動などによって人を気分転換させる",
+      "重要な問題から人々の関心を意図的にそらす",
+      "資金・財産などを本来の目的から外して流用する、専門的な用法",
+      "代名動詞distrarsiで、注意散漫になる、気晴らしをする"
+    ],
+    "it": [
+      "Deviare l’attenzione o la concentrazione di qualcuno dall’oggetto a cui era rivolta.",
+      "Dirigere l’attenzione verso una persona, una cosa o un problema differente.",
+      "Far dimenticare temporaneamente a qualcuno una preoccupazione, un dolore o la noia.",
+      "Offrire a qualcuno un’attività piacevole che gli permetta di svagarsi.",
+      "Allontanare intenzionalmente l’interesse pubblico da una questione importante.",
+      "Destinare fondi o beni a uno scopo diverso da quello previsto, spesso illecitamente.",
+      "Nella forma distrarsi, perdere la concentrazione oppure dedicarsi a uno svago."
+    ]
+  },
+
+  "nuance": {
+    "ja": "中心的な意味は、ある対象に向けられていた注意を別の方向へ引くことである。注意を妨げる否定的な場合にも、心配や苦痛を忘れさせる肯定的な場合にも使える。disturbareは作業や平穏を「邪魔する」こと、distrarreは注意そのものを「そらす」ことに重点がある。divertireは楽しませる結果を強調するが、distrarreは悩みなどから意識を離すという意味を持つ。代名動詞distrarsiは、意図せず注意を失う場合と、意図的に気分転換する場合の両方に使われる。",
+    "it": "Il significato centrale è quello di deviare l’attenzione da un oggetto verso un altro. Può avere un valore negativo, quando impedisce la concentrazione, oppure positivo, quando allontana temporaneamente una preoccupazione o un dolore. Disturbare indica più generalmente l’interruzione di un’attività o della tranquillità; distrarre riguarda specificamente l’attenzione. Divertire sottolinea il piacere, mentre distrarre può semplicemente aiutare a non pensare a qualcosa."
+  },
+
+  "etymology": {
+    "ja": "ラテン語distrahere（別々の方向へ引く、引き離す）に由来し、dis-（離れて、別々に）とtrahere（引く）から成る。注意を本来の対象から別の方向へ「引き離す」という具体的なイメージが現在の意味に残っている。同じ語族にはdistrazione、distratto、trarre、attrarre、contrarre、estrarreなどがある。",
+    "it": "Dal latino distrahere, formato da dis-, «in direzioni diverse», e trahere, «tirare». L’immagine originaria è quella di tirare qualcosa lontano dalla sua direzione o posizione. Da qui deriva il significato mentale di allontanare l’attenzione dal suo oggetto. Alla stessa famiglia appartengono distrazione, distratto, attrarre, contrarre ed estrarre."
+  },
+
+  "minimal": [
+    {
+      "word": "distrarre",
+      "ja": "人の注意を現在の対象から別の方向へそらす、または悩みを忘れさせる",
+      "it": "deviare l’attenzione di qualcuno oppure allontanarlo temporaneamente da una preoccupazione"
+    },
+    {
+      "word": "disturbare",
+      "ja": "人の作業・睡眠・平穏などを邪魔し、中断させる",
+      "it": "interrompere o rendere meno tranquilla un’attività, il riposo o la condizione di qualcuno"
+    },
+    {
+      "word": "divertire",
+      "ja": "人に楽しさや笑いを与え、愉快な気持ちにさせる",
+      "it": "procurare piacere, allegria o divertimento a qualcuno"
+    },
+    {
+      "word": "svagare",
+      "ja": "悩みや日常から意識を離し、気晴らしをさせる",
+      "it": "far allontanare la mente dalle preoccupazioni mediante un’attività piacevole"
+    },
+    {
+      "word": "interrompere",
+      "ja": "進行中の行為・発言・過程などを途中で止める",
+      "it": "far cessare temporaneamente o definitivamente qualcosa che era in corso"
+    }
+  ],
+
+  "synonyms": [
+    "svagare",
+    "distogliere",
+    "deviare",
+    "divertire",
+    "deconcentrare",
+    "far distrarre"
+  ],
+
+  "equivalents": {
+    "en": [
+      "distract",
+      "divert",
+      "take one’s mind off"
+    ],
+    "de": [
+      "ablenken",
+      "zerstreuen",
+      "auf andere Gedanken bringen"
+    ],
+    "fr": [
+      "distraire",
+      "détourner",
+      "changer les idées"
+    ],
+    "es": [
+      "distraer",
+      "desviar",
+      "hacer olvidar"
+    ]
+  },
+
+  "collocations": [
+    "distrarre qualcuno",
+    "distrarre un bambino",
+    "distrarre gli studenti",
+    "distrarre il conducente",
+    "distrarre qualcuno dal lavoro",
+    "distrarre qualcuno dallo studio",
+    "distrarre qualcuno dalla guida",
+    "distrarre qualcuno dai propri compiti",
+    "distrarre qualcuno da un pensiero",
+    "distrarre qualcuno dalle preoccupazioni",
+    "distrarre qualcuno dal dolore",
+    "distrarre la mente",
+    "distrarre l’attenzione",
+    "distrarre l’attenzione da qualcosa",
+    "distrarre l’attenzione del pubblico",
+    "distrarre l’opinione pubblica",
+    "tentare di distrarre",
+    "cercare di distrarre",
+    "riuscire a distrarre",
+    "facile da distrarre",
+    "lasciarsi distrarre",
+    "non farsi distrarre",
+    "distrarre con una domanda",
+    "distrarre con un rumore",
+    "distrarre con un gioco",
+    "distrarre con la musica",
+    "distrarre con una storia",
+    "un rumore distrae",
+    "il telefono distrae",
+    "la televisione distrae",
+    "distrarre fondi",
+    "distrarre denaro",
+    "distrarre risorse",
+    "distrarsi facilmente",
+    "distrarsi durante la lezione",
+    "distrarsi con il telefono",
+    "distrarsi leggendo",
+    "uscire per distrarsi",
+    "aver bisogno di distrarsi",
+    "un modo per distrarsi"
+  ],
+
+  "examples": [
+    {
+      "it": "Il rumore della strada mi distrae mentre lavoro.",
+      "ja": "仕事中、道路の騒音で気が散ります。"
+    },
+    {
+      "it": "Non distrarre il conducente mentre guida.",
+      "ja": "運転中の運転手の注意をそらしてはいけません。"
+    },
+    {
+      "it": "Ho cercato di distrarla dalle sue preoccupazioni.",
+      "ja": "私は彼女の気を心配事からそらそうとしました。"
+    },
+    {
+      "it": "Il governo è stato accusato di voler distrarre l’attenzione dal problema.",
+      "ja": "政府はその問題から注意をそらそうとしていると非難されました。"
+    },
+    {
+      "it": "Un dipendente aveva distratto fondi destinati al progetto.",
+      "ja": "ある従業員がプロジェクト用の資金を不正に流用していました。"
+    },
+    {
+      "it": "Ho bisogno di uscire e distrarmi un po’.",
+      "ja": "外出して少し気分転換する必要があります。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "distraggo",
+        "distrai",
+        "distrae",
+        "distraiamo",
+        "distraete",
+        "distraggono"
+      ],
+
+      "Imperfetto": [
+        "distraevo",
+        "distraevi",
+        "distraeva",
+        "distraevamo",
+        "distraevate",
+        "distraevano"
+      ],
+
+      "Passato prossimo": [
+        "ho distratto",
+        "hai distratto",
+        "ha distratto",
+        "abbiamo distratto",
+        "avete distratto",
+        "hanno distratto"
+      ],
+
+      "Passato remoto": [
+        "distrassi",
+        "distraesti",
+        "distrasse",
+        "distraemmo",
+        "distraeste",
+        "distrassero"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo distratto",
+        "avevi distratto",
+        "aveva distratto",
+        "avevamo distratto",
+        "avevate distratto",
+        "avevano distratto"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi distratto",
+        "avesti distratto",
+        "ebbe distratto",
+        "avemmo distratto",
+        "aveste distratto",
+        "ebbero distratto"
+      ],
+
+      "Futuro semplice": [
+        "distrarrò",
+        "distrarrai",
+        "distrarrà",
+        "distrarremo",
+        "distrarrete",
+        "distrarranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò distratto",
+        "avrai distratto",
+        "avrà distratto",
+        "avremo distratto",
+        "avrete distratto",
+        "avranno distratto"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "distragga",
+        "distragga",
+        "distragga",
+        "distraiamo",
+        "distraiate",
+        "distraggano"
+      ],
+
+      "Imperfetto": [
+        "distraessi",
+        "distraessi",
+        "distraesse",
+        "distraessimo",
+        "distraeste",
+        "distraessero"
+      ],
+
+      "Passato": [
+        "abbia distratto",
+        "abbia distratto",
+        "abbia distratto",
+        "abbiamo distratto",
+        "abbiate distratto",
+        "abbiano distratto"
+      ],
+
+      "Trapassato": [
+        "avessi distratto",
+        "avessi distratto",
+        "avesse distratto",
+        "avessimo distratto",
+        "aveste distratto",
+        "avessero distratto"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "distrarrei",
+        "distrarresti",
+        "distrarrebbe",
+        "distrarremmo",
+        "distrarreste",
+        "distrarrebbero"
+      ],
+
+      "Passato": [
+        "avrei distratto",
+        "avresti distratto",
+        "avrebbe distratto",
+        "avremmo distratto",
+        "avreste distratto",
+        "avrebbero distratto"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "distrai",
+        "distragga",
+        "distraiamo",
+        "distraete",
+        "distraggano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "distrarre",
+        "avere distratto",
+        "distraente",
+        "distratto",
+        "distraendo",
+        "avendo distratto"
+      ]
+    }
+  }
+},
+{
+  "id": "distrarsi",
+  "sid": "2026-00276",
+  "word": "distrarsi",
+  "ipa": "/disˈtrarsi/",
+  "level": "B1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "代名動詞",
+      "it": "verbo pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "distratto",
+    "gerundPresent": "distraendosi",
+    "pattern": "distrarsi durante qualcosa / distrarsi con qualcosa / distrarsi da qualcosa / distrarsi facendo qualcosa / uscire per distrarsi"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "education",
+      "work",
+      "leisure",
+      "wellbeing"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "作業・勉強・会話などの途中で注意や集中を失う",
+      "音・人・物などに注意を奪われる、気が散る",
+      "不注意になり、していたことや必要なことを忘れる",
+      "悩み・不安・苦痛などを一時的に忘れる",
+      "楽しい活動をして気晴らしをする、気分転換する",
+      "仕事や日常生活から離れてくつろぐ"
+    ],
+    "it": [
+      "Perdere la concentrazione durante un’attività, lo studio o una conversazione.",
+      "Lasciare che l’attenzione venga attirata da un rumore, una persona o un oggetto.",
+      "Commettere una disattenzione o dimenticare ciò che si stava facendo.",
+      "Allontanare temporaneamente la mente da una preoccupazione, un’ansia o un dolore.",
+      "Dedicarsi a un’attività piacevole per svagarsi.",
+      "Prendersi una pausa dal lavoro o dalla vita quotidiana per rilassarsi."
+    ]
+  },
+
+  "nuance": {
+    "ja": "二つの主要な用法がある。一つは、外部の刺激や不注意によって集中を失う「気が散る」であり、Mi distraggo facilmenteのように使う。もう一つは、悩みや仕事から離れて意識的に「気晴らしをする」であり、Esco per distrarmiのように使う。前者は通常望ましくない状態、後者は休息や気分転換という肯定的な行為である。svagarsiは主に後者の意味に限られ、deconcentrarsiは集中力を失うことをより直接的に表す。",
+    "it": "Ha due usi principali. Può indicare la perdita involontaria della concentrazione, come in Mi distraggo facilmente, oppure la scelta volontaria di allontanare la mente dalle preoccupazioni, come in Esco per distrarmi. Nel primo caso la distrazione è normalmente indesiderata; nel secondo rappresenta uno svago o una pausa positiva. Svagarsi corrisponde soprattutto al secondo uso, mentre deconcentrarsi indica più specificamente la perdita di concentrazione."
+  },
+
+  "etymology": {
+    "ja": "distrarreの代名動詞形で、ラテン語distrahere（別々の方向へ引く、引き離す）に由来する。distrahereはdis-（離れて、別々に）とtrahere（引く）から成る。注意が本来の対象から別方向へ「引かれる」という発想から、「気が散る」という意味が生じ、さらに悩みから意識を離す「気晴らしをする」という意味へ広がった。",
+    "it": "È la forma pronominale di distrarre, dal latino distrahere, composto da dis-, «in direzioni diverse», e trahere, «tirare». L’immagine di un’attenzione tirata lontano dal proprio oggetto ha prodotto il significato di perdere la concentrazione e, successivamente, quello positivo di allontanare la mente dalle preoccupazioni."
+  },
+
+  "minimal": [
+    {
+      "word": "distrarsi",
+      "ja": "注意を失って気が散る、または悩みを忘れるために気分転換する",
+      "it": "perdere la concentrazione oppure dedicarsi a uno svago per non pensare alle preoccupazioni"
+    },
+    {
+      "word": "distrarre",
+      "ja": "他人の注意をそらす、または心配・苦痛などを忘れさせる",
+      "it": "deviare l’attenzione di qualcuno oppure fargli dimenticare temporaneamente una preoccupazione"
+    },
+    {
+      "word": "svagarsi",
+      "ja": "楽しい活動をして、悩みや日常から意識を離す",
+      "it": "dedicarsi a un’attività piacevole per riposare la mente e dimenticare le preoccupazioni"
+    },
+    {
+      "word": "deconcentrarsi",
+      "ja": "それまで保っていた集中力を失う",
+      "it": "perdere lo stato di concentrazione che si aveva durante un’attività"
+    },
+    {
+      "word": "rilassarsi",
+      "ja": "緊張や疲労を和らげ、心身をくつろがせる",
+      "it": "ridurre la tensione fisica o mentale e raggiungere uno stato di calma"
+    }
+  ],
+
+  "synonyms": [
+    "svagarsi",
+    "deconcentrarsi",
+    "divagare",
+    "rilassarsi",
+    "perdere la concentrazione",
+    "cambiare aria"
+  ],
+
+  "equivalents": {
+    "en": [
+      "get distracted",
+      "distract oneself",
+      "take one’s mind off things"
+    ],
+    "de": [
+      "sich ablenken",
+      "sich zerstreuen",
+      "unkonzentriert werden"
+    ],
+    "fr": [
+      "se distraire",
+      "se déconcentrer",
+      "se changer les idées"
+    ],
+    "es": [
+      "distraerse",
+      "desconcentrarse",
+      "despejarse"
+    ]
+  },
+
+  "collocations": [
+    "distrarsi facilmente",
+    "distrarsi continuamente",
+    "distrarsi spesso",
+    "distrarsi un momento",
+    "distrarsi durante la lezione",
+    "distrarsi durante una riunione",
+    "distrarsi durante il lavoro",
+    "distrarsi durante la guida",
+    "distrarsi mentre si studia",
+    "distrarsi mentre si parla",
+    "distrarsi per un rumore",
+    "distrarsi per un attimo",
+    "distrarsi a causa del telefono",
+    "distrarsi con il cellulare",
+    "distrarsi con la televisione",
+    "distrarsi con i social network",
+    "distrarsi guardando fuori",
+    "distrarsi pensando ad altro",
+    "lasciarsi distrarre",
+    "evitare di distrarsi",
+    "cercare di non distrarsi",
+    "non potersi distrarre",
+    "basta distrarsi un attimo",
+    "distrarsi dalle preoccupazioni",
+    "distrarsi dai problemi",
+    "distrarsi dal lavoro",
+    "uscire per distrarsi",
+    "leggere per distrarsi",
+    "giocare per distrarsi",
+    "ascoltare musica per distrarsi",
+    "fare una passeggiata per distrarsi",
+    "aver bisogno di distrarsi",
+    "volersi distrarre",
+    "riuscire a distrarsi",
+    "un modo per distrarsi",
+    "distrarsi un po’",
+    "distrarsi in compagnia",
+    "distrarsi facendo sport",
+    "distrarsi con un buon libro",
+    "distrarsi dalla routine quotidiana"
+  ],
+
+  "examples": [
+    {
+      "it": "Mi distraggo facilmente quando studio a casa.",
+      "ja": "私は家で勉強していると、すぐに気が散ります。"
+    },
+    {
+      "it": "Si è distratto guardando il telefono e ha perso la fermata.",
+      "ja": "彼は携帯電話を見ていて注意がそれ、降りる駅を通り過ぎました。"
+    },
+    {
+      "it": "Durante la guida basta distrarsi un attimo per provocare un incidente.",
+      "ja": "運転中は、ほんの一瞬注意をそらすだけで事故を起こしかねません。"
+    },
+    {
+      "it": "Ho bisogno di uscire e distrarmi un po’.",
+      "ja": "外出して少し気分転換する必要があります。"
+    },
+    {
+      "it": "Per distrarsi dalle preoccupazioni, ha cominciato a dipingere.",
+      "ja": "心配事から気を紛らわせるため、彼女は絵を描き始めました。"
+    },
+    {
+      "it": "Nel fine settimana ci siamo distratti facendo una lunga passeggiata.",
+      "ja": "週末、私たちは長い散歩をして気分転換しました。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi distraggo",
+        "ti distrai",
+        "si distrae",
+        "ci distraiamo",
+        "vi distraete",
+        "si distraggono"
+      ],
+
+      "Imperfetto": [
+        "mi distraevo",
+        "ti distraevi",
+        "si distraeva",
+        "ci distraevamo",
+        "vi distraevate",
+        "si distraevano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono distratto/a",
+        "ti sei distratto/a",
+        "si è distratto/a",
+        "ci siamo distratti/e",
+        "vi siete distratti/e",
+        "si sono distratti/e"
+      ],
+
+      "Passato remoto": [
+        "mi distrassi",
+        "ti distraesti",
+        "si distrasse",
+        "ci distraemmo",
+        "vi distraeste",
+        "si distrassero"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero distratto/a",
+        "ti eri distratto/a",
+        "si era distratto/a",
+        "ci eravamo distratti/e",
+        "vi eravate distratti/e",
+        "si erano distratti/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui distratto/a",
+        "ti fosti distratto/a",
+        "si fu distratto/a",
+        "ci fummo distratti/e",
+        "vi foste distratti/e",
+        "si furono distratti/e"
+      ],
+
+      "Futuro semplice": [
+        "mi distrarrò",
+        "ti distrarrai",
+        "si distrarrà",
+        "ci distrarremo",
+        "vi distrarrete",
+        "si distrarranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò distratto/a",
+        "ti sarai distratto/a",
+        "si sarà distratto/a",
+        "ci saremo distratti/e",
+        "vi sarete distratti/e",
+        "si saranno distratti/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi distragga",
+        "ti distragga",
+        "si distragga",
+        "ci distraiamo",
+        "vi distraiate",
+        "si distraggano"
+      ],
+
+      "Imperfetto": [
+        "mi distraessi",
+        "ti distraessi",
+        "si distraesse",
+        "ci distraessimo",
+        "vi distraeste",
+        "si distraessero"
+      ],
+
+      "Passato": [
+        "mi sia distratto/a",
+        "ti sia distratto/a",
+        "si sia distratto/a",
+        "ci siamo distratti/e",
+        "vi siate distratti/e",
+        "si siano distratti/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi distratto/a",
+        "ti fossi distratto/a",
+        "si fosse distratto/a",
+        "ci fossimo distratti/e",
+        "vi foste distratti/e",
+        "si fossero distratti/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi distrarrei",
+        "ti distrarresti",
+        "si distrarrebbe",
+        "ci distrarremmo",
+        "vi distrarreste",
+        "si distrarrebbero"
+      ],
+
+      "Passato": [
+        "mi sarei distratto/a",
+        "ti saresti distratto/a",
+        "si sarebbe distratto/a",
+        "ci saremmo distratti/e",
+        "vi sareste distratti/e",
+        "si sarebbero distratti/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "distraiti",
+        "si distragga",
+        "distraiamoci",
+        "distraetevi",
+        "si distraggano"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "distrarsi",
+        "essersi distratto/a/i/e",
+        "distraentesi",
+        "distrattosi/a/i/e",
+        "distraendosi",
+        "essendosi distratto/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "rilassarsi",
+  "sid": "2026-00277",
+  "word": "rilassarsi",
+  "ipa": "/rilasˈsarsi/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "代名動詞",
+      "it": "verbo pronominale"
+    },
+    "auxiliary": "essere",
+    "pastParticiple": "rilassato",
+    "gerundPresent": "rilassandosi",
+    "pattern": "rilassarsi / rilassarsi con qualcosa / rilassarsi facendo qualcosa / rilassarsi dopo qualcosa / cercare di rilassarsi"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "leisure",
+      "health",
+      "wellbeing"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "精神的な緊張や不安を和らげ、くつろぐ",
+      "仕事・勉強・活動のあとに休んで気分を落ち着かせる",
+      "筋肉や身体の力を抜き、緊張を解く",
+      "音楽・読書・入浴などの活動によって心身を休ませる",
+      "警戒・集中・努力を一時的に弱める",
+      "人間関係・状況・雰囲気などの緊張が和らぐ"
+    ],
+    "it": [
+      "Liberarsi dalla tensione mentale, dall’ansia o dal nervosismo.",
+      "Riposarsi e recuperare tranquillità dopo il lavoro, lo studio o un’attività.",
+      "Ridurre la tensione dei muscoli e lasciare il corpo meno rigido.",
+      "Raggiungere uno stato di benessere mediante la musica, la lettura, un bagno o altre attività.",
+      "Ridurre temporaneamente la vigilanza, la concentrazione o lo sforzo.",
+      "Diventare meno teso, con riferimento a un rapporto, una situazione o un’atmosfera."
+    ]
+  },
+
+  "nuance": {
+    "ja": "心身に存在する緊張やこわばりが弱まり、落ち着いた状態になることを表す。riposarsiは疲労を回復するために休むこと、rilassarsiは緊張を解いてくつろぐことに重点があるため、横にならなくても音楽を聴いたり散歩したりしてrilassarsiできる。calmarsiは怒り・興奮・不安などの強い感情が静まることを表す。否定命令Non rilassarti troppoは、文脈によって「油断しすぎるな」という意味にもなる。",
+    "it": "Indica il passaggio da uno stato di tensione fisica o mentale a uno stato di maggiore calma e benessere. Riposarsi mette in primo piano il recupero dalla stanchezza; rilassarsi la diminuzione della tensione, che può avvenire anche ascoltando musica o passeggiando. Calmarsi si riferisce più specificamente alla riduzione di una forte emozione come rabbia, agitazione o paura. In alcuni contesti, rilassarsi troppo può significare abbassare eccessivamente la vigilanza."
+  },
+
+  "etymology": {
+    "ja": "rilassareの代名動詞形で、rilassareはラテン語relaxāre（緩める、解放する）に由来する。これはre-（後ろへ、元へ）とlaxāre（緩める）から成り、laxāreは形容詞laxus（緩い、ゆったりした）の派生語である。物理的なひもや筋肉を緩める意味から、精神的緊張を和らげる意味へ発展した。同じ語族にはrelax、lasso、lassativoなどがある。",
+    "it": "È la forma pronominale di rilassare, dal latino relaxāre, composto da re- e laxāre, «allentare», derivato da laxus, «largo, non teso». Dal significato concreto di rendere meno teso un oggetto o un muscolo si è sviluppato quello psicologico di liberarsi dalla tensione."
+  },
+
+  "minimal": [
+    {
+      "word": "rilassarsi",
+      "ja": "身体的・精神的な緊張を解き、落ち着いてくつろぐ",
+      "it": "ridurre la tensione fisica o mentale e raggiungere uno stato di calma"
+    },
+    {
+      "word": "riposarsi",
+      "ja": "活動をやめたり睡眠を取ったりして、疲労を回復する",
+      "it": "interrompere un’attività per recuperare le energie e ridurre la stanchezza"
+    },
+    {
+      "word": "calmarsi",
+      "ja": "怒り・興奮・恐怖・不安などの強い感情を静める",
+      "it": "ridurre uno stato di rabbia, agitazione, paura o forte ansia"
+    },
+    {
+      "word": "svagarsi",
+      "ja": "楽しい活動によって日常や悩みから意識を離す",
+      "it": "dedicarsi a un’attività piacevole per allontanare la mente dalle preoccupazioni"
+    },
+    {
+      "word": "distrarsi",
+      "ja": "注意を失って気が散る、または悩みを忘れるために気分転換する",
+      "it": "perdere la concentrazione oppure allontanare temporaneamente la mente dai problemi"
+    }
+  ],
+
+  "synonyms": [
+    "distendersi",
+    "riposarsi",
+    "calmarsi",
+    "svagarsi",
+    "decontrarsi",
+    "prendersela comoda"
+  ],
+
+  "equivalents": {
+    "en": [
+      "relax",
+      "unwind",
+      "loosen up"
+    ],
+    "de": [
+      "sich entspannen",
+      "sich erholen",
+      "locker werden"
+    ],
+    "fr": [
+      "se détendre",
+      "se relaxer",
+      "décompresser"
+    ],
+    "es": [
+      "relajarse",
+      "descansar",
+      "desconectar"
+    ]
+  },
+
+  "collocations": [
+    "rilassarsi un po’",
+    "rilassarsi completamente",
+    "rilassarsi profondamente",
+    "rilassarsi finalmente",
+    "rilassarsi a casa",
+    "rilassarsi sul divano",
+    "rilassarsi in giardino",
+    "rilassarsi in vacanza",
+    "rilassarsi dopo il lavoro",
+    "rilassarsi dopo una giornata difficile",
+    "rilassarsi prima di dormire",
+    "rilassarsi durante il fine settimana",
+    "rilassarsi con la musica",
+    "rilassarsi con un buon libro",
+    "rilassarsi con un bagno caldo",
+    "rilassarsi con una tazza di tè",
+    "rilassarsi ascoltando musica",
+    "rilassarsi leggendo",
+    "rilassarsi guardando un film",
+    "rilassarsi facendo una passeggiata",
+    "rilassarsi facendo yoga",
+    "rilassarsi respirando lentamente",
+    "cercare di rilassarsi",
+    "riuscire a rilassarsi",
+    "non riuscire a rilassarsi",
+    "aver bisogno di rilassarsi",
+    "volersi rilassare",
+    "imparare a rilassarsi",
+    "aiutare a rilassarsi",
+    "lasciarsi andare e rilassarsi",
+    "rilassarsi mentalmente",
+    "rilassarsi fisicamente",
+    "rilassare i muscoli",
+    "rilassarsi troppo",
+    "non rilassarsi mai",
+    "l’atmosfera si rilassa",
+    "la tensione si rilassa",
+    "i rapporti si rilassano",
+    "sentirsi rilassato",
+    "apparire rilassato"
+  ],
+
+  "examples": [
+    {
+      "it": "Dopo il lavoro mi piace rilassarmi ascoltando musica.",
+      "ja": "仕事のあと、私は音楽を聴きながらくつろぐのが好きです。"
+    },
+    {
+      "it": "Cerca di rilassarti e respira lentamente.",
+      "ja": "力を抜いて、ゆっくり呼吸してみてください。"
+    },
+    {
+      "it": "Durante il fine settimana ci siamo rilassati in campagna.",
+      "ja": "週末、私たちは田舎でのんびり過ごしました。"
+    },
+    {
+      "it": "Non riesco a rilassarmi quando ho troppo lavoro.",
+      "ja": "仕事が多すぎると、私はなかなかくつろげません。"
+    },
+    {
+      "it": "Questo esercizio aiuta i muscoli a rilassarsi.",
+      "ja": "この運動は筋肉の緊張をほぐすのに役立ちます。"
+    },
+    {
+      "it": "Dopo le sue parole, l’atmosfera si è finalmente rilassata.",
+      "ja": "彼の言葉のあと、場の緊張がようやく和らぎました。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "mi rilasso",
+        "ti rilassi",
+        "si rilassa",
+        "ci rilassiamo",
+        "vi rilassate",
+        "si rilassano"
+      ],
+
+      "Imperfetto": [
+        "mi rilassavo",
+        "ti rilassavi",
+        "si rilassava",
+        "ci rilassavamo",
+        "vi rilassavate",
+        "si rilassavano"
+      ],
+
+      "Passato prossimo": [
+        "mi sono rilassato/a",
+        "ti sei rilassato/a",
+        "si è rilassato/a",
+        "ci siamo rilassati/e",
+        "vi siete rilassati/e",
+        "si sono rilassati/e"
+      ],
+
+      "Passato remoto": [
+        "mi rilassai",
+        "ti rilassasti",
+        "si rilassò",
+        "ci rilassammo",
+        "vi rilassaste",
+        "si rilassarono"
+      ],
+
+      "Trapassato prossimo": [
+        "mi ero rilassato/a",
+        "ti eri rilassato/a",
+        "si era rilassato/a",
+        "ci eravamo rilassati/e",
+        "vi eravate rilassati/e",
+        "si erano rilassati/e"
+      ],
+
+      "Trapassato remoto": [
+        "mi fui rilassato/a",
+        "ti fosti rilassato/a",
+        "si fu rilassato/a",
+        "ci fummo rilassati/e",
+        "vi foste rilassati/e",
+        "si furono rilassati/e"
+      ],
+
+      "Futuro semplice": [
+        "mi rilasserò",
+        "ti rilasserai",
+        "si rilasserà",
+        "ci rilasseremo",
+        "vi rilasserete",
+        "si rilasseranno"
+      ],
+
+      "Futuro anteriore": [
+        "mi sarò rilassato/a",
+        "ti sarai rilassato/a",
+        "si sarà rilassato/a",
+        "ci saremo rilassati/e",
+        "vi sarete rilassati/e",
+        "si saranno rilassati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "mi rilassi",
+        "ti rilassi",
+        "si rilassi",
+        "ci rilassiamo",
+        "vi rilassiate",
+        "si rilassino"
+      ],
+
+      "Imperfetto": [
+        "mi rilassassi",
+        "ti rilassassi",
+        "si rilassasse",
+        "ci rilassassimo",
+        "vi rilassaste",
+        "si rilassassero"
+      ],
+
+      "Passato": [
+        "mi sia rilassato/a",
+        "ti sia rilassato/a",
+        "si sia rilassato/a",
+        "ci siamo rilassati/e",
+        "vi siate rilassati/e",
+        "si siano rilassati/e"
+      ],
+
+      "Trapassato": [
+        "mi fossi rilassato/a",
+        "ti fossi rilassato/a",
+        "si fosse rilassato/a",
+        "ci fossimo rilassati/e",
+        "vi foste rilassati/e",
+        "si fossero rilassati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "mi rilasserei",
+        "ti rilasseresti",
+        "si rilasserebbe",
+        "ci rilasseremmo",
+        "vi rilassereste",
+        "si rilasserebbero"
+      ],
+
+      "Passato": [
+        "mi sarei rilassato/a",
+        "ti saresti rilassato/a",
+        "si sarebbe rilassato/a",
+        "ci saremmo rilassati/e",
+        "vi sareste rilassati/e",
+        "si sarebbero rilassati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "rilassati",
+        "si rilassi",
+        "rilassiamoci",
+        "rilassatevi",
+        "si rilassino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "rilassarsi",
+        "essersi rilassato/a/i/e",
+        "rilassantesi",
+        "rilassatosi/a/i/e",
+        "rilassandosi",
+        "essendosi rilassato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "spazzare",
+  "sid": "2026-00278",
+  "word": "spazzare",
+  "ipa": "/spatˈtsare/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "spazzato",
+    "gerundPresent": "spazzando",
+    "pattern": "spazzare un luogo / spazzare qualcosa da + superficie / spazzare via qualcuno o qualcosa / essere spazzato da + vento o acqua"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "home",
+      "cleaning",
+      "weather",
+      "news",
+      "figurative"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "床・道路・地面などをほうきで掃く",
+      "ほこり・ごみ・落ち葉などを掃いて取り除く",
+      "風・水・波などが物を押し流す、吹き飛ばす",
+      "spazzare viaで、人・物・障害などを一掃する",
+      "災害・戦争などが建物・地域・集団を壊滅させる",
+      "考え・疑念・感情などを完全に取り除く",
+      "競技などで相手を圧倒し、容易に破る"
+    ],
+    "it": [
+      "Pulire un pavimento, una strada o un’altra superficie mediante una scopa.",
+      "Rimuovere polvere, rifiuti, foglie o altri materiali spingendoli con una scopa.",
+      "Trascinare o portare via qualcosa con la forza del vento, dell’acqua o delle onde.",
+      "Nell’espressione spazzare via, eliminare completamente persone, oggetti o ostacoli.",
+      "Distruggere gravemente edifici, territori o gruppi, con riferimento a calamità o guerre.",
+      "Eliminare completamente un pensiero, un dubbio o un sentimento.",
+      "Sconfiggere nettamente un avversario in una gara o competizione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "本来は、ほうきなどを使って表面のごみを押し動かし、取り除くことを表す。pulireは方法を限定しない一般的な「清掃する」だが、spazzareは掃く動作に重点がある。副詞viaを伴うspazzare viaは、物理的にも比喩的にも対象を勢いよく完全に取り除くことを強調する。風・波・災害を主語にすると「吹き飛ばす・押し流す・壊滅させる」という強い表現になる。",
+    "it": "Nel significato concreto indica la pulizia di una superficie mediante una scopa o un movimento simile. Pulire è generale e non specifica il metodo; spazzare mette in evidenza l’azione di spingere e rimuovere lo sporco. La costruzione spazzare via rafforza l’idea di eliminazione completa e rapida, tanto in senso materiale quanto figurato. Con vento, onde o calamità come soggetto può esprimere una forza distruttiva."
+  },
+
+  "etymology": {
+    "ja": "名詞spazzo（掃除された空間、床面）と関係する動詞で、語源をさかのぼるとラテン語spatium（空間、広がり）に結び付けられる。もともとは場所を掃いて空間を空けることを表したと考えられる。spazioも同じラテン語spatiumに由来する。同じ語族にはspazzatura、spazzino、spazzola、spazzolareなどがある。",
+    "it": "Deriva da spazzo ed è storicamente collegato al latino spatium, «spazio, estensione». L’idea originaria era probabilmente quella di liberare e rendere sgombro uno spazio. Alla stessa famiglia lessicale appartengono spazzatura, spazzino, spazzola e spazzolare."
+  },
+
+  "minimal": [
+    {
+      "word": "spazzare",
+      "ja": "ほうきなどで床・道路を掃き、ごみやほこりを取り除く",
+      "it": "pulire una superficie rimuovendo polvere e rifiuti con una scopa"
+    },
+    {
+      "word": "pulire",
+      "ja": "方法を限定せず、汚れや不要物を取り除いて清潔にする",
+      "it": "rimuovere lo sporco e rendere pulito qualcosa, senza specificare necessariamente il metodo"
+    },
+    {
+      "word": "spazzolare",
+      "ja": "ブラシを使って物・衣類・髪・歯などをこする",
+      "it": "passare una spazzola su una superficie, un indumento, i capelli o i denti"
+    },
+    {
+      "word": "raccogliere",
+      "ja": "散らばった物・ごみなどを一か所に集めて取る",
+      "it": "riunire e prendere oggetti o materiali dispersi"
+    },
+    {
+      "word": "eliminare",
+      "ja": "不要・有害な対象を完全に取り除き、その影響をなくす",
+      "it": "rimuovere completamente qualcosa perché considerato inutile o dannoso"
+    }
+  ],
+
+  "synonyms": [
+    "scopare",
+    "pulire",
+    "rimuovere",
+    "sgomberare",
+    "eliminare",
+    "portare via"
+  ],
+
+  "equivalents": {
+    "en": [
+      "sweep",
+      "sweep away",
+      "wipe out"
+    ],
+    "de": [
+      "fegen",
+      "wegfegen",
+      "hinwegspülen"
+    ],
+    "fr": [
+      "balayer",
+      "emporter",
+      "anéantir"
+    ],
+    "es": [
+      "barrer",
+      "arrastrar",
+      "eliminar"
+    ]
+  },
+
+  "collocations": [
+    "spazzare il pavimento",
+    "spazzare la cucina",
+    "spazzare la stanza",
+    "spazzare il corridoio",
+    "spazzare il cortile",
+    "spazzare il marciapiede",
+    "spazzare la strada",
+    "spazzare le scale",
+    "spazzare sotto il tavolo",
+    "spazzare con una scopa",
+    "spazzare ogni mattina",
+    "spazzare accuratamente",
+    "spazzare velocemente",
+    "spazzare la polvere",
+    "spazzare i rifiuti",
+    "spazzare le briciole",
+    "spazzare le foglie",
+    "spazzare la neve",
+    "spazzare qualcosa da terra",
+    "spazzare qualcosa dal pavimento",
+    "spazzare via la polvere",
+    "spazzare via le foglie",
+    "spazzare via tutto",
+    "spazzare via un ostacolo",
+    "spazzare via ogni dubbio",
+    "spazzare via le paure",
+    "spazzare via il passato",
+    "il vento spazza la costa",
+    "il vento spazza via le nuvole",
+    "le onde spazzano il ponte",
+    "essere spazzato dal vento",
+    "essere spazzato dalle onde",
+    "una tempesta spazza la regione",
+    "un’alluvione spazza via le case",
+    "spazzare via un’intera città",
+    "spazzare via la concorrenza",
+    "spazzare via gli avversari",
+    "spazzare l’avversario",
+    "spazzare dal potere",
+    "finire di spazzare"
+  ],
+
+  "examples": [
+    {
+      "it": "Devo spazzare il pavimento della cucina.",
+      "ja": "台所の床を掃かなければなりません。"
+    },
+    {
+      "it": "Ha spazzato le foglie dal marciapiede.",
+      "ja": "彼は歩道から落ち葉を掃きました。"
+    },
+    {
+      "it": "Il vento ha spazzato via tutte le nuvole.",
+      "ja": "風がすべての雲を吹き払いました。"
+    },
+    {
+      "it": "Le onde hanno spazzato diversi oggetti dal ponte.",
+      "ja": "波が甲板からいくつもの物を押し流しました。"
+    },
+    {
+      "it": "La nuova prova ha spazzato via ogni dubbio.",
+      "ja": "新しい証拠によって、あらゆる疑念が完全に払拭されました。"
+    },
+    {
+      "it": "La squadra di casa ha spazzato via gli avversari.",
+      "ja": "ホームチームは相手を圧倒しました。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "spazzo",
+        "spazzi",
+        "spazza",
+        "spazziamo",
+        "spazzate",
+        "spazzano"
+      ],
+
+      "Imperfetto": [
+        "spazzavo",
+        "spazzavi",
+        "spazzava",
+        "spazzavamo",
+        "spazzavate",
+        "spazzavano"
+      ],
+
+      "Passato prossimo": [
+        "ho spazzato",
+        "hai spazzato",
+        "ha spazzato",
+        "abbiamo spazzato",
+        "avete spazzato",
+        "hanno spazzato"
+      ],
+
+      "Passato remoto": [
+        "spazzai",
+        "spazzasti",
+        "spazzò",
+        "spazzammo",
+        "spazzaste",
+        "spazzarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo spazzato",
+        "avevi spazzato",
+        "aveva spazzato",
+        "avevamo spazzato",
+        "avevate spazzato",
+        "avevano spazzato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi spazzato",
+        "avesti spazzato",
+        "ebbe spazzato",
+        "avemmo spazzato",
+        "aveste spazzato",
+        "ebbero spazzato"
+      ],
+
+      "Futuro semplice": [
+        "spazzerò",
+        "spazzerai",
+        "spazzerà",
+        "spazzeremo",
+        "spazzerete",
+        "spazzeranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò spazzato",
+        "avrai spazzato",
+        "avrà spazzato",
+        "avremo spazzato",
+        "avrete spazzato",
+        "avranno spazzato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "spazzi",
+        "spazzi",
+        "spazzi",
+        "spazziamo",
+        "spazziate",
+        "spazzino"
+      ],
+
+      "Imperfetto": [
+        "spazzassi",
+        "spazzassi",
+        "spazzasse",
+        "spazzassimo",
+        "spazzaste",
+        "spazzassero"
+      ],
+
+      "Passato": [
+        "abbia spazzato",
+        "abbia spazzato",
+        "abbia spazzato",
+        "abbiamo spazzato",
+        "abbiate spazzato",
+        "abbiano spazzato"
+      ],
+
+      "Trapassato": [
+        "avessi spazzato",
+        "avessi spazzato",
+        "avesse spazzato",
+        "avessimo spazzato",
+        "aveste spazzato",
+        "avessero spazzato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "spazzerei",
+        "spazzeresti",
+        "spazzerebbe",
+        "spazzeremmo",
+        "spazzereste",
+        "spazzerebbero"
+      ],
+
+      "Passato": [
+        "avrei spazzato",
+        "avresti spazzato",
+        "avrebbe spazzato",
+        "avremmo spazzato",
+        "avreste spazzato",
+        "avrebbero spazzato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "spazza",
+        "spazzi",
+        "spazziamo",
+        "spazzate",
+        "spazzino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "spazzare",
+        "avere spazzato",
+        "spazzante",
+        "spazzato",
+        "spazzando",
+        "avendo spazzato"
+      ]
+    }
+  }
+},
+{
+  "id": "volare",
+  "sid": "2026-00279",
+  "word": "volare",
+  "ipa": "/voˈlare/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "自動詞・まれに他動詞",
+      "it": "verbo intransitivo e, raramente, transitivo"
+    },
+    "auxiliary": "avere; essere negli usi di movimento risultativo, soprattutto con via, fuori o giù",
+    "pastParticiple": "volato",
+    "gerundPresent": "volando",
+    "pattern": "volare / volare a o verso + luogo / volare sopra qualcosa / volare con + compagnia / volare via, alto, basso"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "nature",
+      "transport",
+      "figurative"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "鳥・昆虫などが翼を使って空中を移動する",
+      "飛行機・ヘリコプターなどが空を飛ぶ、飛行する",
+      "飛行機で目的地へ移動する",
+      "物が空中を飛ぶ、勢いよく投げ出される",
+      "非常に速く移動する、急いで向かう",
+      "時間・金銭・機会などが急速に過ぎ去る、なくなる",
+      "想像・気持ち・思考などが現実を離れて自由に広がる",
+      "人が高い成果を上げる、人気・価格などが急上昇する"
+    ],
+    "it": [
+      "Muoversi nell’aria mediante le ali, con riferimento a uccelli, insetti e altri animali.",
+      "Spostarsi nell’aria mediante un aeromobile.",
+      "Viaggiare in aereo verso una destinazione.",
+      "Essere lanciato o trasportato rapidamente attraverso l’aria.",
+      "Muoversi o recarsi in un luogo con estrema rapidità.",
+      "Trascorrere o consumarsi molto rapidamente, con riferimento al tempo, al denaro o alle occasioni.",
+      "Allontanarsi dalla realtà con la fantasia, il pensiero o le emozioni.",
+      "Raggiungere rapidamente risultati elevati oppure aumentare bruscamente."
+    ]
+  },
+
+  "nuance": {
+    "ja": "翼や航空機による空中移動が基本義だが、「非常に速く動く」というイメージから比喩的用法が広く発達している。Il tempo volaは「時間があっという間に過ぎる」、i prezzi volanoは「価格が急騰する」を意味する。複合時制では飛行という活動を表す場合にavereが一般的で、Ho volato per dieci oreと言う。一方、via・fuori・giùなどを伴い、ある場所から飛び去った結果を強調する場合にはessereが使われやすい。",
+    "it": "Il significato fondamentale è il movimento nell’aria mediante ali o aeromobili, ma l’idea di rapidità ha prodotto numerosi usi figurati. Il tempo vola significa che passa rapidamente; i prezzi volano indica un forte aumento. Nei tempi composti si usa normalmente avere quando si considera l’attività del volo: ho volato per dieci ore. Essere è frequente quando si sottolinea uno spostamento concluso o risultativo, soprattutto con via, fuori o giù."
+  },
+
+  "etymology": {
+    "ja": "ラテン語volāre（飛ぶ）を直接継承した語である。さらに古い語源は、鳥の飛行や空中での素早い移動を表す印欧語根と関係すると考えられる。同じ語族にはvolo、volante、sorvolare、involarsi、volataなどがある。英語volatileも、ラテン語volātilis（飛ぶことのできる、揮発性の）を介して同じ語族に属する。",
+    "it": "Continua direttamente il latino volāre, «volare». Alla stessa famiglia appartengono volo, volante, sorvolare, involarsi e volata. Anche termini internazionali come volatile derivano dal latino volātilis, «capace di volare», poi passato a indicare ciò che si disperde facilmente."
+  },
+
+  "minimal": [
+    {
+      "word": "volare",
+      "ja": "翼や航空機によって空中を移動する、または非常に速く進む",
+      "it": "muoversi nell’aria mediante ali o aeromobili oppure procedere molto rapidamente"
+    },
+    {
+      "word": "viaggiare",
+      "ja": "交通手段を問わず、ある場所から別の場所へ移動する",
+      "it": "spostarsi da un luogo a un altro indipendentemente dal mezzo di trasporto"
+    },
+    {
+      "word": "decollare",
+      "ja": "航空機が地面を離れて飛行を開始する",
+      "it": "lasciare il suolo e iniziare il volo, con riferimento a un aeromobile"
+    },
+    {
+      "word": "atterrare",
+      "ja": "航空機・鳥などが空中から地面へ降りる",
+      "it": "scendere dall’aria e raggiungere il suolo"
+    },
+    {
+      "word": "sorvolare",
+      "ja": "場所・地域の上空を飛んで通過する",
+      "it": "volare sopra un luogo o una regione attraversandone lo spazio aereo"
+    }
+  ],
+
+  "synonyms": [
+    "librarsi",
+    "planare",
+    "sfrecciare",
+    "precipitarsi",
+    "viaggiare in aereo",
+    "andare velocissimo"
+  ],
+
+  "equivalents": {
+    "en": [
+      "fly",
+      "soar",
+      "speed"
+    ],
+    "de": [
+      "fliegen",
+      "schweben",
+      "rasen"
+    ],
+    "fr": [
+      "voler",
+      "s’envoler",
+      "filer"
+    ],
+    "es": [
+      "volar",
+      "elevarse",
+      "ir rápidamente"
+    ]
+  },
+
+  "collocations": [
+    "volare alto",
+    "volare basso",
+    "volare lontano",
+    "volare velocemente",
+    "volare liberamente",
+    "volare nel cielo",
+    "volare nell’aria",
+    "volare sopra la città",
+    "volare sopra il mare",
+    "volare tra le nuvole",
+    "volare controvento",
+    "volare in formazione",
+    "imparare a volare",
+    "essere capace di volare",
+    "un uccello vola",
+    "un insetto vola",
+    "un aereo vola",
+    "volare in aereo",
+    "volare a Roma",
+    "volare verso Londra",
+    "volare da Roma a Milano",
+    "volare con una compagnia aerea",
+    "volare in prima classe",
+    "volare senza scalo",
+    "volare per dieci ore",
+    "volare di notte",
+    "aver paura di volare",
+    "volare via",
+    "volare fuori dalla finestra",
+    "volare giù",
+    "far volare un aquilone",
+    "far volare un drone",
+    "volare come il vento",
+    "correre volando",
+    "il tempo vola",
+    "le ore volano",
+    "i soldi volano",
+    "i prezzi volano",
+    "volare con la fantasia",
+    "volare con il pensiero",
+    "far volare l’immaginazione"
+  ],
+
+  "examples": [
+    {
+      "it": "Gli uccelli volano sopra il lago.",
+      "ja": "鳥たちが湖の上を飛んでいます。"
+    },
+    {
+      "it": "Domani voleremo da Roma a Parigi.",
+      "ja": "明日、私たちはローマからパリへ飛行機で移動します。"
+    },
+    {
+      "it": "Non avevo mai volato prima di quel viaggio.",
+      "ja": "その旅行まで、私は飛行機に乗ったことがありませんでした。"
+    },
+    {
+      "it": "Il foglio è volato via dalla finestra.",
+      "ja": "その紙は窓から飛んでいってしまいました。"
+    },
+    {
+      "it": "Quando siamo insieme, il tempo vola.",
+      "ja": "私たちが一緒にいると、時間はあっという間に過ぎます。"
+    },
+    {
+      "it": "Negli ultimi mesi i prezzi dell’energia sono volati.",
+      "ja": "ここ数か月でエネルギー価格が急騰しました。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "volo",
+        "voli",
+        "vola",
+        "voliamo",
+        "volate",
+        "volano"
+      ],
+
+      "Imperfetto": [
+        "volavo",
+        "volavi",
+        "volava",
+        "volavamo",
+        "volavate",
+        "volavano"
+      ],
+
+      "Passato prossimo": [
+        "ho volato / sono volato/a",
+        "hai volato / sei volato/a",
+        "ha volato / è volato/a",
+        "abbiamo volato / siamo volati/e",
+        "avete volato / siete volati/e",
+        "hanno volato / sono volati/e"
+      ],
+
+      "Passato remoto": [
+        "volai",
+        "volasti",
+        "volò",
+        "volammo",
+        "volaste",
+        "volarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo volato / ero volato/a",
+        "avevi volato / eri volato/a",
+        "aveva volato / era volato/a",
+        "avevamo volato / eravamo volati/e",
+        "avevate volato / eravate volati/e",
+        "avevano volato / erano volati/e"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi volato / fui volato/a",
+        "avesti volato / fosti volato/a",
+        "ebbe volato / fu volato/a",
+        "avemmo volato / fummo volati/e",
+        "aveste volato / foste volati/e",
+        "ebbero volato / furono volati/e"
+      ],
+
+      "Futuro semplice": [
+        "volerò",
+        "volerai",
+        "volerà",
+        "voleremo",
+        "volerete",
+        "voleranno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò volato / sarò volato/a",
+        "avrai volato / sarai volato/a",
+        "avrà volato / sarà volato/a",
+        "avremo volato / saremo volati/e",
+        "avrete volato / sarete volati/e",
+        "avranno volato / saranno volati/e"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "voli",
+        "voli",
+        "voli",
+        "voliamo",
+        "voliate",
+        "volino"
+      ],
+
+      "Imperfetto": [
+        "volassi",
+        "volassi",
+        "volasse",
+        "volassimo",
+        "volaste",
+        "volassero"
+      ],
+
+      "Passato": [
+        "abbia volato / sia volato/a",
+        "abbia volato / sia volato/a",
+        "abbia volato / sia volato/a",
+        "abbiamo volato / siamo volati/e",
+        "abbiate volato / siate volati/e",
+        "abbiano volato / siano volati/e"
+      ],
+
+      "Trapassato": [
+        "avessi volato / fossi volato/a",
+        "avessi volato / fossi volato/a",
+        "avesse volato / fosse volato/a",
+        "avessimo volato / fossimo volati/e",
+        "aveste volato / foste volati/e",
+        "avessero volato / fossero volati/e"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "volerei",
+        "voleresti",
+        "volerebbe",
+        "voleremmo",
+        "volereste",
+        "volerebbero"
+      ],
+
+      "Passato": [
+        "avrei volato / sarei volato/a",
+        "avresti volato / saresti volato/a",
+        "avrebbe volato / sarebbe volato/a",
+        "avremmo volato / saremmo volati/e",
+        "avreste volato / sareste volati/e",
+        "avrebbero volato / sarebbero volati/e"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "vola",
+        "voli",
+        "voliamo",
+        "volate",
+        "volino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "volare",
+        "avere volato / essere volato/a/i/e",
+        "volante",
+        "volato",
+        "volando",
+        "avendo volato / essendo volato/a/i/e"
+      ]
+    }
+  }
+},
+{
+  "id": "bombardare",
+  "sid": "2026-00280",
+  "word": "bombardare",
+  "ipa": "/bombarˈdare/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "verb",
+    "label": {
+      "ja": "他動詞",
+      "it": "verbo transitivo"
+    },
+    "auxiliary": "avere",
+    "pastParticiple": "bombardato",
+    "gerundPresent": "bombardando",
+    "pattern": "bombardare qualcuno o qualcosa / bombardare con + armi, domande o messaggi / bombardare di + domande, richieste o pubblicità"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "news",
+      "military",
+      "conversation",
+      "media",
+      "science"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "航空機・大砲・ミサイルなどで場所や標的を爆撃する",
+      "爆弾・砲弾などを標的へ大量に撃ち込む",
+      "人に質問・要求・批判などを次々と浴びせる",
+      "メッセージ・電話・メールなどを大量に送りつける",
+      "広告・情報・映像などを繰り返し大量に見せる",
+      "物質・細胞などに粒子・放射線・電磁波を照射する"
+    ],
+    "it": [
+      "Attaccare un luogo o un obiettivo mediante bombe, artiglieria o missili.",
+      "Lanciare una grande quantità di bombe o proiettili contro un bersaglio.",
+      "Rivolgere a qualcuno una successione intensa di domande, richieste o critiche.",
+      "Inviare a qualcuno moltissimi messaggi, telefonate o e-mail.",
+      "Esporre ripetutamente una persona a pubblicità, informazioni o immagini.",
+      "Sottoporre una sostanza, una cellula o un altro bersaglio a particelle, radiazioni o onde elettromagnetiche."
+    ]
+  },
+
+  "nuance": {
+    "ja": "本来は爆弾・砲弾を標的へ繰り返し撃ち込む軍事行為を表す。そこから、短時間に大量の刺激や情報を一方的に浴びせるという比喩的意味が発達した。bombardare qualcuno di domandeは「人を質問攻めにする」、bombardare qualcuno di messaggiは「人に大量のメッセージを送りつける」を意味し、量の多さによる圧迫感を伴いやすい。colpireは一度または少数回攻撃する場合にも使えるが、bombardareは通常、反復性・大量性を強調する。",
+    "it": "Nel significato proprio indica un attacco ripetuto con bombe, proiettili o missili. Da questa idea di colpi numerosi e continui deriva l’uso figurato per una quantità eccessiva di domande, messaggi, richieste o informazioni. Bombardare qualcuno di domande suggerisce spesso pressione e difficoltà nel rispondere. Colpire può riferirsi anche a un singolo attacco; bombardare mette normalmente in evidenza la ripetizione e l’intensità."
+  },
+
+  "etymology": {
+    "ja": "名詞bombarda（初期の大砲、砲撃兵器）から形成された動詞である。bombardaは中世ラテン語bombardaに由来し、さらにギリシャ語ómbosまたはbombos（低く響く音、うなり）と結び付けられる。もともとは大きな爆音を発する火砲で攻撃することを表した。同じ語族にはbomba、bombardamento、bombardiereなどがある。",
+    "it": "Deriva da bombarda, nome medievale di un’antica arma da fuoco. Bombarda risale al latino medievale bombarda ed è collegata a una base greca riferita a un rumore profondo e risonante. Il verbo indicava originariamente l’attacco mediante tali armi. Alla stessa famiglia appartengono bomba, bombardamento e bombardiere."
+  },
+
+  "minimal": [
+    {
+      "word": "bombardare",
+      "ja": "爆弾・砲弾を繰り返し撃ち込む、または質問・情報などを大量に浴びせる",
+      "it": "attaccare ripetutamente con bombe o proiettili oppure sommergere qualcuno di domande o informazioni"
+    },
+    {
+      "word": "colpire",
+      "ja": "人・物・標的に打撃や攻撃を加える、命中させる",
+      "it": "raggiungere qualcuno o qualcosa con un urto, un colpo o un attacco"
+    },
+    {
+      "word": "attaccare",
+      "ja": "人・場所・組織などに対して攻撃を開始する",
+      "it": "iniziare un’azione offensiva contro una persona, un luogo o un’organizzazione"
+    },
+    {
+      "word": "bersagliare",
+      "ja": "同じ標的に攻撃・批判・質問などを繰り返し集中させる",
+      "it": "dirigere ripetutamente colpi, critiche o domande contro lo stesso bersaglio"
+    },
+    {
+      "word": "sommergere",
+      "ja": "水中に沈める、または仕事・要求・連絡などで人を圧倒する",
+      "it": "coprire completamente con un liquido oppure sopraffare qualcuno con una grande quantità di cose"
+    }
+  ],
+
+  "synonyms": [
+    "bersagliare",
+    "cannoneggiare",
+    "colpire",
+    "attaccare",
+    "martellare",
+    "sommergere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "bomb",
+      "bombard",
+      "pelt"
+    ],
+    "de": [
+      "bombardieren",
+      "beschießen",
+      "überhäufen"
+    ],
+    "fr": [
+      "bombarder",
+      "pilonner",
+      "assaillir"
+    ],
+    "es": [
+      "bombardear",
+      "cañonear",
+      "acosar"
+    ]
+  },
+
+  "collocations": [
+    "bombardare una città",
+    "bombardare un villaggio",
+    "bombardare una regione",
+    "bombardare una base militare",
+    "bombardare un aeroporto",
+    "bombardare una posizione nemica",
+    "bombardare un obiettivo",
+    "bombardare il territorio",
+    "bombardare dall’alto",
+    "bombardare dal mare",
+    "bombardare con gli aerei",
+    "bombardare con l’artiglieria",
+    "bombardare con i missili",
+    "bombardare con bombe incendiarie",
+    "bombardare intensamente",
+    "bombardare ripetutamente",
+    "continuare a bombardare",
+    "minacciare di bombardare",
+    "essere bombardato",
+    "essere pesantemente bombardato",
+    "una città bombardata",
+    "bombardare qualcuno di domande",
+    "bombardare qualcuno di richieste",
+    "bombardare qualcuno di critiche",
+    "bombardare qualcuno di informazioni",
+    "bombardare qualcuno di messaggi",
+    "bombardare qualcuno di telefonate",
+    "bombardare qualcuno di e-mail",
+    "bombardare il pubblico di pubblicità",
+    "bombardare i consumatori di offerte",
+    "bombardare i social network di contenuti",
+    "sentirsi bombardato di informazioni",
+    "bombardare una sostanza",
+    "bombardare con particelle",
+    "bombardare con elettroni",
+    "bombardare con neutroni",
+    "bombardare con radiazioni",
+    "bombardare una cellula",
+    "bombardare un bersaglio",
+    "smettere di bombardare"
+  ],
+
+  "examples": [
+    {
+      "it": "Durante la notte gli aerei hanno bombardato la base militare.",
+      "ja": "夜間、航空機がその軍事基地を爆撃しました。"
+    },
+    {
+      "it": "La città fu bombardata più volte durante la guerra.",
+      "ja": "その都市は戦争中に何度も爆撃されました。"
+    },
+    {
+      "it": "I giornalisti hanno bombardato il ministro di domande.",
+      "ja": "記者たちは大臣を質問攻めにしました。"
+    },
+    {
+      "it": "Non bombardarmi di messaggi mentre sono al lavoro.",
+      "ja": "私が仕事中のときに大量のメッセージを送らないでください。"
+    },
+    {
+      "it": "Siamo continuamente bombardati da pubblicità online.",
+      "ja": "私たちは絶えずオンライン広告を浴びせられています。"
+    },
+    {
+      "it": "Gli scienziati hanno bombardato il materiale con particelle ad alta energia.",
+      "ja": "科学者たちはその物質に高エネルギー粒子を照射しました。"
+    }
+  ],
+
+  "conjugations": {
+    "Indicativo": {
+      "Presente": [
+        "bombardo",
+        "bombardi",
+        "bombarda",
+        "bombardiamo",
+        "bombardate",
+        "bombardano"
+      ],
+
+      "Imperfetto": [
+        "bombardavo",
+        "bombardavi",
+        "bombardava",
+        "bombardavamo",
+        "bombardavate",
+        "bombardavano"
+      ],
+
+      "Passato prossimo": [
+        "ho bombardato",
+        "hai bombardato",
+        "ha bombardato",
+        "abbiamo bombardato",
+        "avete bombardato",
+        "hanno bombardato"
+      ],
+
+      "Passato remoto": [
+        "bombardai",
+        "bombardasti",
+        "bombardò",
+        "bombardammo",
+        "bombardaste",
+        "bombardarono"
+      ],
+
+      "Trapassato prossimo": [
+        "avevo bombardato",
+        "avevi bombardato",
+        "aveva bombardato",
+        "avevamo bombardato",
+        "avevate bombardato",
+        "avevano bombardato"
+      ],
+
+      "Trapassato remoto": [
+        "ebbi bombardato",
+        "avesti bombardato",
+        "ebbe bombardato",
+        "avemmo bombardato",
+        "aveste bombardato",
+        "ebbero bombardato"
+      ],
+
+      "Futuro semplice": [
+        "bombarderò",
+        "bombarderai",
+        "bombarderà",
+        "bombarderemo",
+        "bombarderete",
+        "bombarderanno"
+      ],
+
+      "Futuro anteriore": [
+        "avrò bombardato",
+        "avrai bombardato",
+        "avrà bombardato",
+        "avremo bombardato",
+        "avrete bombardato",
+        "avranno bombardato"
+      ]
+    },
+
+    "Congiuntivo": {
+      "Presente": [
+        "bombardi",
+        "bombardi",
+        "bombardi",
+        "bombardiamo",
+        "bombardiate",
+        "bombardino"
+      ],
+
+      "Imperfetto": [
+        "bombardassi",
+        "bombardassi",
+        "bombardasse",
+        "bombardassimo",
+        "bombardaste",
+        "bombardassero"
+      ],
+
+      "Passato": [
+        "abbia bombardato",
+        "abbia bombardato",
+        "abbia bombardato",
+        "abbiamo bombardato",
+        "abbiate bombardato",
+        "abbiano bombardato"
+      ],
+
+      "Trapassato": [
+        "avessi bombardato",
+        "avessi bombardato",
+        "avesse bombardato",
+        "avessimo bombardato",
+        "aveste bombardato",
+        "avessero bombardato"
+      ]
+    },
+
+    "Condizionale": {
+      "Presente": [
+        "bombarderei",
+        "bombarderesti",
+        "bombarderebbe",
+        "bombarderemmo",
+        "bombardereste",
+        "bombarderebbero"
+      ],
+
+      "Passato": [
+        "avrei bombardato",
+        "avresti bombardato",
+        "avrebbe bombardato",
+        "avremmo bombardato",
+        "avreste bombardato",
+        "avrebbero bombardato"
+      ]
+    },
+
+    "Imperativo": {
+      "Presente": [
+        "—",
+        "bombarda",
+        "bombardi",
+        "bombardiamo",
+        "bombardate",
+        "bombardino"
+      ]
+    },
+
+    "Forme indefinite": {
+      "Forme": [
+        "bombardare",
+        "avere bombardato",
+        "bombardante",
+        "bombardato",
+        "bombardando",
+        "avendo bombardato"
+      ]
+    }
+  }
+},
+]
