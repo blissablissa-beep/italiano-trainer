@@ -2,33 +2,68 @@
 <html lang="ja">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-  <meta name="theme-color" content="#176b5b">
+
+  <meta
+    name="viewport"
+    content="width=device-width,initial-scale=1,viewport-fit=cover"
+  >
+
+  <meta
+    name="theme-color"
+    content="#176b5b"
+  >
 
   <title>Italiano Trainer</title>
 
-  <link rel="manifest" href="./manifest.webmanifest">
-  <link rel="icon" href="./icon.svg">
-  <link rel="stylesheet" href="./styles.css">
+  <link
+    rel="manifest"
+    href="./manifest.webmanifest"
+  >
+
+  <link
+    rel="icon"
+    href="./icon.svg"
+  >
+
+  <link
+    rel="stylesheet"
+    href="./styles.css?v=4"
+  >
 </head>
 
 <body>
   <header class="topbar">
     <div class="brand">
-      <span class="flag" aria-hidden="true">
-        <i></i><i></i><i></i>
+      <span
+        class="flag"
+        aria-hidden="true"
+      >
+        <i></i>
+        <i></i>
+        <i></i>
       </span>
-      <span><b>Italiano</b> Trainer</span>
+
+      <span>
+        <b>Italiano</b> Trainer
+      </span>
     </div>
 
     <div class="header-actions">
-      <button id="langBtn" class="pill" type="button"
-              aria-label="表示言語を切り替える">
+      <button
+        id="langBtn"
+        class="pill"
+        type="button"
+        aria-label="表示言語を切り替える"
+      >
         JA
       </button>
 
-      <button id="themeBtn" class="icon-btn" type="button"
-              aria-label="配色を切り替える">
+      <button
+        id="themeBtn"
+        class="icon-btn"
+        type="button"
+        aria-label="配色を切り替える"
+      >
         ◐
       </button>
     </div>
@@ -36,7 +71,9 @@
 
   <main class="shell">
     <section class="intro">
-      <p class="eyebrow">IL TUO LESSICO, UN PO’ ALLA VOLTA</p>
+      <p class="eyebrow">
+        IL TUO LESSICO, UN PO’ ALLA VOLTA
+      </p>
 
       <h1>
         言葉の輪郭まで、<br>
@@ -44,29 +81,87 @@
       </h1>
 
       <p id="introText">
-        意味だけでなく、語感・語源・結びつき・活用まで。
-        使えるイタリア語を静かに積み上げます。
+        意味だけでなく、語感・語源・結びつき・活用まで。使えるイタリア語を静かに積み上げます。
       </p>
     </section>
 
-    <section class="controls" aria-label="カード操作">
-      <nav class="tabs" aria-label="学習モード">
-        <button class="tab active" data-mode="today" type="button">
-          Today <span id="todayCount">0</span>
+    <section
+      class="controls"
+      aria-label="カード操作"
+    >
+      <nav
+        class="tabs"
+        aria-label="表示モード"
+      >
+        <button
+          class="tab active"
+          data-mode="today"
+          type="button"
+        >
+          <b
+            class="tab-label"
+            id="todayLabel"
+          >
+            Today
+          </b>
+
+          <span
+            class="tab-count"
+            id="todayCount"
+          >
+            0
+          </span>
         </button>
 
-        <button class="tab" data-mode="review" type="button">
-          Review <span id="reviewCount">0</span>
+        <button
+          class="tab"
+          data-mode="dictionary"
+          type="button"
+        >
+          <b
+            class="tab-label"
+            id="dictionaryLabel"
+          >
+            Dictionary
+          </b>
+
+          <span
+            class="tab-count"
+            id="dictionaryCount"
+          >
+            0
+          </span>
         </button>
 
-        <button class="tab" data-mode="bookmarks" type="button">
-          ★ <span id="bookmarkCount">0</span>
+        <button
+          class="tab"
+          data-mode="bookmarks"
+          type="button"
+        >
+          ★
+
+          <b
+            class="tab-label"
+            id="bookmarkLabel"
+          >
+            ブックマーク
+          </b>
+
+          <span
+            class="tab-count"
+            id="bookmarkCount"
+          >
+            0
+          </span>
         </button>
       </nav>
 
       <div class="tools">
         <label class="search">
-          <span>⌕</span>
+          <span aria-hidden="true">
+            ⌕
+          </span>
+
           <input
             id="searchInput"
             type="search"
@@ -75,25 +170,64 @@
           >
         </label>
 
-        <button id="shuffleBtn" class="tool-btn" type="button">
-          ↝ <span>Shuffle</span>
+        <button
+          id="shuffleBtn"
+          class="tool-btn"
+          type="button"
+        >
+          ↝
+          <span>Shuffle</span>
         </button>
       </div>
     </section>
 
-    <div id="status" class="status" aria-live="polite"></div>
+    <section
+      id="filterPanel"
+      class="filter-panel"
+      aria-label="辞書フィルター"
+      hidden
+    >
+      <div
+        id="levelFilters"
+        class="filter-row"
+      ></div>
 
-    <section id="cards" class="cards" aria-label="語彙カード"></section>
+      <div
+        id="posFilters"
+        class="filter-row"
+      ></div>
+    </section>
+
+    <div
+      id="status"
+      class="status"
+      aria-live="polite"
+    ></div>
+
+    <section
+      id="cards"
+      class="cards"
+      aria-label="語彙カード"
+    ></section>
   </main>
 
   <template id="emptyTemplate">
     <div class="empty">
       <div>◇</div>
-      <h2>該当するカードがありません</h2>
-      <p>検索条件または表示モードを変更してください。</p>
+
+      <h2>
+        該当する単語がありません
+      </h2>
+
+      <p>
+        検索条件またはフィルターを変更してください。
+      </p>
     </div>
   </template>
 
-  <script src="./app.js" defer></script>
+  <script
+    src="./app.js?v=4"
+    defer
+  ></script>
 </body>
 </html>
