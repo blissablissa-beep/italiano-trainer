@@ -1,5 +1,5 @@
 const CACHE_NAME =
-  "italiano-trainer-v5";
+  "italiano-trainer-v4";
 
 const ASSETS = [
   "./",
