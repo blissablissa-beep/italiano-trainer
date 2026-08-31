@@ -1811,5 +1811,243 @@
       "ja": "19世紀には、その旅は駅馬車で行われていました。"
     }
   ]
+},
+{
+  "id": "giornata",
+  "sid": "2026-00329",
+  "word": "giornata",
+  "ipa": "/dʒorˈnata/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "giornate",
+    "pattern": "passare, trascorrere o avere una giornata / giornata di + attività o evento / per tutta la giornata / in giornata / buona giornata"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "work",
+      "weather",
+      "travel",
+      "events",
+      "daily_life"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "朝から晩までの一日という時間のまとまり",
+      "特定の日に経験した出来事・活動・気分の全体",
+      "仕事・勉強・旅行などに費やされる一日の時間",
+      "天候や雰囲気から見た一日",
+      "特定のテーマ・記念・活動に充てられた日",
+      "競技・会議・催事などが行われる一日または開催日程",
+      "一定量の一日分の労働、古い用法ではその賃金"
+    ],
+    "it": [
+      "Periodo della giornata considerato nella sua durata, normalmente dal mattino alla sera.",
+      "Insieme delle esperienze, delle attività e degli stati d’animo vissuti in un determinato giorno.",
+      "Tempo quotidiano dedicato al lavoro, allo studio, al viaggio o a un’altra attività.",
+      "Giorno considerato in relazione al tempo atmosferico o all’atmosfera generale.",
+      "Giorno dedicato a un tema, a una commemorazione o a una determinata iniziativa.",
+      "Giorno di svolgimento di una competizione, di un convegno o di una manifestazione.",
+      "Quantità di lavoro compiuta in un giorno e, in usi storici, la relativa retribuzione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "giornoとgiornataはどちらも「日」だが、giornoは暦上の日付・日数・昼夜の単位に重点があり、giornataはその一日がどのように過ぎたか、どれほど長く感じられたか、どのような内容だったかに焦点を置く。Oggi è un giorno importanteは「今日は重要な日」、Ho avuto una giornata difficileは「今日は一日大変だった」となる。Buongiornoは挨拶、Buona giornataは別れ際などに「よい一日を」と願う表現である。",
+    "it": "Giorno e giornata possono entrambi riferirsi a un giorno, ma giorno mette più facilmente in rilievo la data, il numero o l’unità del calendario; giornata considera invece la durata, il contenuto o la qualità del tempo vissuto. Oggi è un giorno importante identifica il giorno; Ho avuto una giornata difficile valuta l’esperienza complessiva. Buongiorno è un saluto, mentre Buona giornata è normalmente un augurio rivolto a chi prosegue le proprie attività."
+  },
+
+  "etymology": {
+    "ja": "名詞giornoに、まとまり・期間・行為の結果などを表す接尾辞-ataを加えて形成された。giornoは俗ラテン語*diurnumを経て、ラテン語diurnus「昼の、日々の」に由来し、dies「日」と同じ語族に属する。英語diurnal「昼行性の、日々の」、フランス語journal・journéeも同じラテン語系統に属する。",
+    "it": "Deriva da giorno con il suffisso -ata, che in questo caso indica un periodo considerato nella sua intera estensione. Giorno continua il latino volgare *diurnum, dal latino diurnus, «del giorno, quotidiano», appartenente alla famiglia di dies. Sono storicamente affini il francese journée e journal e l’inglese diurnal."
+  },
+
+  "minimal": [
+    {
+      "word": "giornata",
+      "ja": "長さ・内容・体験・天候などの面から一日全体を捉える語",
+      "it": "giorno considerato nella sua durata, nelle attività svolte o nella qualità dell’esperienza"
+    },
+    {
+      "word": "giorno",
+      "ja": "暦上の日付、24時間の単位、または夜に対する昼を表す",
+      "it": "unità del calendario, periodo di ventiquattro ore oppure parte luminosa opposta alla notte"
+    },
+    {
+      "word": "data",
+      "ja": "出来事・期限などが置かれる暦上の特定の日付",
+      "it": "indicazione precisa del giorno, del mese e spesso dell’anno"
+    },
+    {
+      "word": "quotidiano",
+      "ja": "毎日起こることを表す形容詞、または日刊新聞",
+      "it": "ciò che avviene ogni giorno oppure un giornale pubblicato giornalmente"
+    },
+    {
+      "word": "turno",
+      "ja": "一日のうち、人に割り当てられた勤務・担当の時間帯",
+      "it": "periodo di lavoro assegnato a una persona secondo un sistema di alternanza"
+    }
+  ],
+
+  "synonyms": [
+    "giorno",
+    "dì",
+    "periodo",
+    "turno",
+    "sessione",
+    "giorno lavorativo"
+  ],
+
+  "equivalents": {
+    "en": [
+      "day",
+      "daytime",
+      "working day",
+      "day’s experience"
+    ],
+    "de": [
+      "Tag",
+      "Tagesverlauf",
+      "Arbeitstag",
+      "Tageszeit"
+    ],
+    "fr": [
+      "journée",
+      "journée de travail",
+      "jour"
+    ],
+    "es": [
+      "jornada",
+      "día",
+      "jornada laboral"
+    ]
+  },
+
+  "collocations": [
+    "passare una giornata",
+    "trascorrere una giornata",
+    "avere una giornata",
+    "vivere una giornata",
+    "affrontare una giornata",
+    "iniziare la giornata",
+    "cominciare la giornata",
+    "organizzare la giornata",
+    "programmare la giornata",
+    "continuare la giornata",
+    "finire la giornata",
+    "concludere la giornata",
+    "godersi la giornata",
+    "rovinare la giornata",
+    "riempire la giornata",
+    "dedicare una giornata a",
+    "occupare tutta la giornata",
+    "giornata bella",
+    "bella giornata",
+    "giornata splendida",
+    "giornata meravigliosa",
+    "giornata piacevole",
+    "giornata tranquilla",
+    "giornata serena",
+    "giornata soleggiata",
+    "giornata calda",
+    "giornata fredda",
+    "giornata piovosa",
+    "giornata nuvolosa",
+    "giornata ventosa",
+    "giornata difficile",
+    "giornata dura",
+    "giornata pesante",
+    "giornata lunga",
+    "giornata intensa",
+    "giornata impegnativa",
+    "giornata stressante",
+    "giornata faticosa",
+    "giornata positiva",
+    "giornata negativa",
+    "giornata speciale",
+    "giornata importante",
+    "giornata indimenticabile",
+    "giornata libera",
+    "giornata lavorativa",
+    "giornata di lavoro",
+    "giornata di studio",
+    "giornata di riposo",
+    "giornata di vacanza",
+    "giornata di viaggio",
+    "giornata di formazione",
+    "giornata di sciopero",
+    "giornata di negoziati",
+    "giornata di incontri",
+    "giornata di campionato",
+    "giornata elettorale",
+    "giornata mondiale",
+    "giornata nazionale",
+    "giornata commemorativa",
+    "intera giornata",
+    "tutta la giornata",
+    "per tutta la giornata",
+    "nel corso della giornata",
+    "durante la giornata",
+    "a fine giornata",
+    "all’inizio della giornata",
+    "entro la giornata",
+    "in giornata",
+    "ricevere una risposta in giornata",
+    "consegnare in giornata",
+    "dalla mattina alla sera",
+    "buona giornata",
+    "augurare una buona giornata",
+    "fine giornata"
+  ],
+
+  "examples": [
+    {
+      "it": "Oggi ho avuto una giornata molto impegnativa.",
+      "ja": "今日はとても忙しい一日でした。"
+    },
+    {
+      "it": "Abbiamo trascorso una splendida giornata al mare.",
+      "ja": "私たちは海辺ですばらしい一日を過ごしました。"
+    },
+    {
+      "it": "Ha piovuto per tutta la giornata.",
+      "ja": "一日中、雨が降っていました。"
+    },
+    {
+      "it": "Cerco di organizzare la giornata la sera prima.",
+      "ja": "私は前日の夜に一日の予定を組むようにしています。"
+    },
+    {
+      "it": "Le invieremo i documenti entro la giornata.",
+      "ja": "本日中に書類をお送りします。"
+    },
+    {
+      "it": "La conferenza proseguirà per tre giornate.",
+      "ja": "その会議は3日間にわたって続きます。"
+    },
+    {
+      "it": "Grazie per l’aiuto e buona giornata!",
+      "ja": "ご協力ありがとうございました。よい一日を。"
+    }
+  ]
 }
 ]
