@@ -2049,5 +2049,229 @@
       "ja": "ご協力ありがとうございました。よい一日を。"
     }
   ]
+},
+{
+  "id": "spazzatura",
+  "sid": "2026-00330",
+  "word": "spazzatura",
+  "ipa": "/spaddzaˈtura/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞・通常は集合名詞",
+      "it": "sostantivo femminile, normalmente collettivo"
+    },
+    "gender": "feminine",
+    "plural": "spazzature（まれ。種類・複数の堆積物などを区別する場合）",
+    "pattern": "buttare qualcosa nella spazzatura / portare fuori la spazzatura / raccogliere la spazzatura / un sacco o un mucchio di spazzatura"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "home",
+      "daily_life",
+      "environment",
+      "cleaning",
+      "media",
+      "criticism"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "家庭や施設などで不要となり捨てられる物、ごみ",
+      "掃除によって集められたほこり・紙くず・汚れなど",
+      "一か所に集められた雑多な廃棄物",
+      "道路・公園・海岸などに捨てられたごみ",
+      "価値・品質・内容が非常に低い物、くだらない物",
+      "低俗・粗悪と評価される番組・記事・情報など"
+    ],
+    "it": [
+      "Insieme delle cose inutili o indesiderate che vengono gettate via.",
+      "Polvere, carta, residui e sporco raccolti durante la pulizia.",
+      "Massa eterogenea di materiali destinati allo smaltimento.",
+      "Rifiuti abbandonati in strade, parchi, spiagge o altri luoghi.",
+      "In senso figurato, oggetto o prodotto giudicato privo di valore o di pessima qualità.",
+      "Contenuto mediatico, informativo o culturale considerato volgare, falso o scadente."
+    ]
+  },
+
+  "nuance": {
+    "ja": "spazzaturaは家庭でまとめて捨てる雑多な「ごみ」を表し、通常は単数形で使う。rifiutoは個々の廃棄物や法令・環境管理上の「廃棄物」を表し、複数形rifiutiが一般的である。immondiziaはspazzaturaに近いが、汚さや不衛生さをより強く感じさせることがある。ごみを「ごみ箱へ捨てる」はbuttare nella spazzatura、家庭のごみ袋を外へ出すことはportare fuori la spazzaturaと言う。",
+    "it": "Spazzatura indica normalmente l’insieme indistinto dei rifiuti domestici o dello sporco raccolto e si usa soprattutto al singolare. Rifiuto può indicare un singolo oggetto scartato ed è il termine tecnico usato nella gestione ambientale, normalmente al plurale rifiuti. Immondizia è molto vicina a spazzatura, ma può mettere maggiormente in rilievo lo sporco e il carattere sgradevole. Portare fuori la spazzatura significa trasferire fuori casa il sacco destinato alla raccolta."
+  },
+
+  "etymology": {
+    "ja": "動詞spazzare「ほうきで掃く、払い除ける」に接尾辞-turaを加えて形成された。語源的には「掃いて集められた物」「掃いて取り除かれる物」を意味する。spazzareは俗ラテン語または後期ラテン語のspatiāreに関連するとされ、空間を動き回ることから、表面を広く掃いて空ける意味へ発達したと考えられている。同じ語族にはspazza、spazzola、spazzinoがある。",
+    "it": "Deriva da spazzare con il suffisso -tura e indicava originariamente ciò che veniva raccolto o eliminato spazzando. Spazzare è generalmente collegato a una forma del latino tardo spatiāre, appartenente alla famiglia di spatium, «spazio», attraverso l’idea di percorrere e liberare una superficie. Alla stessa famiglia italiana appartengono spazza, spazzola e spazzino."
+  },
+
+  "minimal": [
+    {
+      "word": "spazzatura",
+      "ja": "家庭や掃除によって生じ、まとめて捨てられる雑多なごみ",
+      "it": "insieme indistinto di materiali inutili o sporchi destinati a essere gettati"
+    },
+    {
+      "word": "rifiuti",
+      "ja": "家庭・産業などから生じる廃棄物を表す一般的・技術的な語",
+      "it": "materiali scartati da attività domestiche o produttive, soprattutto nel linguaggio tecnico"
+    },
+    {
+      "word": "immondizia",
+      "ja": "汚れ・不潔さを伴うごみを集合的に表す語",
+      "it": "insieme di rifiuti considerati soprattutto nel loro aspetto sporco o sgradevole"
+    },
+    {
+      "word": "scarto",
+      "ja": "製造・選別・調理などの過程で不要として除かれた部分",
+      "it": "parte eliminata durante la produzione, la selezione o la preparazione"
+    },
+    {
+      "word": "pattume",
+      "ja": "悪臭・汚れを伴う雑多なごみを指す、やや強い語",
+      "it": "insieme di rifiuti sporchi e maleodoranti, con una sfumatura spesso spregiativa"
+    }
+  ],
+
+  "synonyms": [
+    "immondizia",
+    "rifiuti",
+    "pattume",
+    "sudiciume",
+    "scarti",
+    "ciarpame"
+  ],
+
+  "equivalents": {
+    "en": [
+      "garbage",
+      "trash",
+      "rubbish",
+      "junk"
+    ],
+    "de": [
+      "Müll",
+      "Abfall",
+      "Unrat",
+      "Schund"
+    ],
+    "fr": [
+      "ordures",
+      "déchets",
+      "poubelle",
+      "camelote"
+    ],
+    "es": [
+      "basura",
+      "residuos",
+      "desperdicios",
+      "porquería"
+    ]
+  },
+
+  "collocations": [
+    "buttare la spazzatura",
+    "gettare la spazzatura",
+    "portare fuori la spazzatura",
+    "lasciare la spazzatura",
+    "raccogliere la spazzatura",
+    "spazzare la spazzatura",
+    "rimuovere la spazzatura",
+    "eliminare la spazzatura",
+    "smaltire la spazzatura",
+    "bruciare la spazzatura",
+    "abbandonare la spazzatura",
+    "separare la spazzatura",
+    "ridurre la spazzatura",
+    "produrre spazzatura",
+    "accumulare spazzatura",
+    "frugare nella spazzatura",
+    "buttare qualcosa nella spazzatura",
+    "finire nella spazzatura",
+    "recuperare qualcosa dalla spazzatura",
+    "spazzatura domestica",
+    "spazzatura urbana",
+    "spazzatura organica",
+    "spazzatura indifferenziata",
+    "spazzatura riciclabile",
+    "spazzatura elettronica",
+    "spazzatura industriale",
+    "spazzatura abbandonata",
+    "spazzatura sparsa",
+    "spazzatura maleodorante",
+    "spazzatura accumulata",
+    "spazzatura galleggiante",
+    "spazzatura spaziale",
+    "spazzatura marina",
+    "spazzatura sulla strada",
+    "spazzatura nel parco",
+    "spazzatura sulla spiaggia",
+    "sacco della spazzatura",
+    "sacchetto della spazzatura",
+    "bidone della spazzatura",
+    "pattumiera della spazzatura",
+    "contenitore della spazzatura",
+    "mucchio di spazzatura",
+    "cumulo di spazzatura",
+    "raccolta della spazzatura",
+    "servizio di raccolta della spazzatura",
+    "camion della spazzatura",
+    "odore di spazzatura",
+    "quantità di spazzatura",
+    "spazzatura televisiva",
+    "televisione spazzatura",
+    "programma spazzatura",
+    "giornalismo spazzatura",
+    "informazione spazzatura",
+    "contenuto spazzatura",
+    "posta spazzatura",
+    "pubblicità spazzatura",
+    "considerare qualcosa spazzatura",
+    "essere pura spazzatura",
+    "trattare qualcuno come spazzatura"
+  ],
+
+  "examples": [
+    {
+      "it": "Puoi portare fuori la spazzatura, per favore?",
+      "ja": "ごみを外へ出してもらえますか。"
+    },
+    {
+      "it": "Ho buttato la confezione vuota nella spazzatura.",
+      "ja": "私は空の容器をごみ箱へ捨てました。"
+    },
+    {
+      "it": "La spazzatura viene raccolta tre volte alla settimana.",
+      "ja": "ごみは週に3回収集されます。"
+    },
+    {
+      "it": "Non lasciate la spazzatura sulla spiaggia.",
+      "ja": "海岸にごみを放置しないでください。"
+    },
+    {
+      "it": "Bisogna separare i materiali riciclabili dalla spazzatura indifferenziata.",
+      "ja": "リサイクル可能な物を一般ごみから分別する必要があります。"
+    },
+    {
+      "it": "Quell’articolo è pieno di informazioni spazzatura.",
+      "ja": "その記事は質の低い情報であふれています。"
+    },
+    {
+      "it": "Un oggetto riparabile non dovrebbe finire subito nella spazzatura.",
+      "ja": "修理できる物をすぐにごみとして捨てるべきではありません。"
+    }
+  ]
 }
 ]
