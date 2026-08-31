@@ -1576,5 +1576,240 @@
       "ja": "真の簡潔さは、多大な努力なしに得られることはめったにありません。"
     }
   ]
+},
+{
+  "id": "diligenza",
+  "sid": "2026-00328",
+  "word": "diligenza",
+  "ipa": "/diliˈdʒɛntsa/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "diligenze",
+    "pattern": "agire, operare o svolgere qualcosa con diligenza / usare la dovuta diligenza / obbligo o dovere di diligenza / diligenza nel + nome o infinito"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "legal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "business",
+      "law",
+      "work",
+      "education",
+      "administration",
+      "history"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "仕事・義務などを注意深く、正確かつ誠実に行う態度",
+      "目的を達成するために継続的に努力する勤勉さ",
+      "損害や誤りを避けるために必要な注意・配慮",
+      "契約・職務・専門業務などで要求される法的な注意水準",
+      "必要な調査・確認・手続を適切に行うこと",
+      "行政・司法上の通知、調査、執行などの手続、専門的用法",
+      "一定の路線を走った歴史的な乗合馬車、駅馬車"
+    ],
+    "it": [
+      "Cura, attenzione e precisione con cui si svolge un’attività o si adempie un obbligo.",
+      "Impegno costante e operosità nel perseguire uno scopo.",
+      "Prudenza necessaria per evitare errori, rischi o danni.",
+      "Livello di attenzione giuridicamente richiesto nell’esecuzione di un contratto o di un incarico professionale.",
+      "Svolgimento appropriato delle verifiche, delle ricerche o delle formalità necessarie.",
+      "Atto o attività procedurale compiuti da un’autorità o da un funzionario, in linguaggio tecnico.",
+      "Veicolo pubblico trainato da cavalli che percorreva regolarmente una determinata linea."
+    ]
+  },
+
+  "nuance": {
+    "ja": "diligenzaは、単に熱心に働くことだけでなく、状況に応じて期待される注意・正確さ・慎重さを尽くすことを表す。法律ではdiligenza del buon padre di famigliaが一般人に期待される合理的な注意水準を表し、専門職には活動の性質に応じたより専門的な注意が求められる。英語due diligenceはイタリア語でもそのまま使われるが、文脈により「相当な注意」または取引前の詳細調査を意味する。歴史的なdiligenza「駅馬車」は注意義務とは異なる語義である。",
+    "it": "Diligenza non indica soltanto il lavorare molto, ma soprattutto l’impiego della cura, della precisione e della prudenza richieste dalle circostanze. Nel diritto, la diligenza del buon padre di famiglia rappresenta un criterio generale di condotta ragionevole; nelle attività professionali la valutazione tiene conto della natura tecnica dell’incarico. L’espressione inglese due diligence è comune anche in italiano e può indicare sia la dovuta attenzione sia una verifica approfondita precedente a un’operazione."
+  },
+
+  "etymology": {
+    "ja": "ラテン語diligentia「注意深さ、配慮、熱意」に由来し、動詞diligĕre「選び取る、大切にする、評価する」と同じ語族に属する。diligĕreはdis-「分けて」とlegĕre「選ぶ、集める」から成り、慎重に選び、価値を認めて配慮するという観念を持つ。英語diligence、フランス語diligence、スペイン語diligenciaも同語源である。",
+    "it": "Dal latino diligentia, «cura, attenzione, premura», appartenente alla famiglia di diligĕre, «scegliere, apprezzare, amare», formato da dis- e legĕre, «scegliere, raccogliere». L’idea originaria è quella di valutare attentamente e quindi di occuparsi con cura di qualcosa. Sono affini l’inglese diligence, il francese diligence e lo spagnolo diligencia."
+  },
+
+  "minimal": [
+    {
+      "word": "diligenza",
+      "ja": "義務・仕事を適切に遂行するために必要な注意・正確さ・誠実さ",
+      "it": "cura, precisione e prudenza impiegate nell’esecuzione di un’attività o di un obbligo"
+    },
+    {
+      "word": "attenzione",
+      "ja": "特定の対象へ意識を向け、見落としや誤りを防ぐこと",
+      "it": "concentrazione della mente su un oggetto o un’attività"
+    },
+    {
+      "word": "cura",
+      "ja": "人・物・仕事などを良い状態に保つために注ぐ配慮",
+      "it": "interessamento attento rivolto al benessere o alla corretta gestione di qualcosa"
+    },
+    {
+      "word": "scrupolo",
+      "ja": "細部や規則まで厳密に守ろうとする慎重さ",
+      "it": "attenzione rigorosa ai dettagli, alle regole o alle conseguenze morali"
+    },
+    {
+      "word": "negligenza",
+      "ja": "必要な注意・配慮を怠り、適切に行動しないこと",
+      "it": "mancanza della cura e dell’attenzione richieste dalle circostanze"
+    }
+  ],
+
+  "synonyms": [
+    "cura",
+    "attenzione",
+    "precisione",
+    "scrupolo",
+    "premura",
+    "operosità"
+  ],
+
+  "equivalents": {
+    "en": [
+      "diligence",
+      "due care",
+      "carefulness",
+      "stagecoach"
+    ],
+    "de": [
+      "Sorgfalt",
+      "Fleiß",
+      "Gewissenhaftigkeit",
+      "Postkutsche"
+    ],
+    "fr": [
+      "diligence",
+      "soin",
+      "application",
+      "diligence"
+    ],
+    "es": [
+      "diligencia",
+      "cuidado",
+      "esmero",
+      "diligencia"
+    ]
+  },
+
+  "collocations": [
+    "agire con diligenza",
+    "operare con diligenza",
+    "lavorare con diligenza",
+    "procedere con diligenza",
+    "adempiere con diligenza",
+    "eseguire con diligenza",
+    "svolgere un incarico con diligenza",
+    "esaminare con diligenza",
+    "controllare con diligenza",
+    "custodire con diligenza",
+    "conservare con diligenza",
+    "usare diligenza",
+    "usare la dovuta diligenza",
+    "prestare la dovuta diligenza",
+    "osservare la dovuta diligenza",
+    "dimostrare diligenza",
+    "mancare di diligenza",
+    "agire senza diligenza",
+    "diligenza ordinaria",
+    "diligenza normale",
+    "diligenza ragionevole",
+    "diligenza richiesta",
+    "diligenza necessaria",
+    "diligenza adeguata",
+    "diligenza professionale",
+    "diligenza qualificata",
+    "diligenza specifica",
+    "diligenza del debitore",
+    "diligenza del creditore",
+    "diligenza del professionista",
+    "diligenza dell’amministratore",
+    "diligenza del mandatario",
+    "diligenza del buon padre di famiglia",
+    "criterio della diligenza",
+    "grado di diligenza",
+    "standard di diligenza",
+    "obbligo di diligenza",
+    "dovere di diligenza",
+    "violazione del dovere di diligenza",
+    "mancanza di diligenza",
+    "prova della diligenza",
+    "diligenza nell’adempimento",
+    "diligenza nell’esecuzione",
+    "diligenza nella custodia",
+    "diligenza nella verifica",
+    "diligenza nella ricerca",
+    "diligenza nel controllo",
+    "diligenza nello studio",
+    "diligenza sul lavoro",
+    "massima diligenza",
+    "particolare diligenza",
+    "ogni ragionevole diligenza",
+    "con la massima diligenza",
+    "due diligence",
+    "due diligence legale",
+    "due diligence finanziaria",
+    "due diligence fiscale",
+    "due diligence tecnica",
+    "procedura di due diligence",
+    "attività di due diligence",
+    "eseguire una due diligence",
+    "condurre una due diligence",
+    "salire sulla diligenza",
+    "viaggiare in diligenza",
+    "diligenza postale",
+    "diligenza trainata da cavalli",
+    "assalto alla diligenza"
+  ],
+
+  "examples": [
+    {
+      "it": "Ha svolto l’incarico con grande diligenza.",
+      "ja": "彼女は細心の注意を払って任務を遂行しました。"
+    },
+    {
+      "it": "Il debitore deve adempiere l’obbligazione con la dovuta diligenza.",
+      "ja": "債務者は相当な注意をもって債務を履行しなければなりません。"
+    },
+    {
+      "it": "Il professionista è tenuto ad agire con una diligenza adeguata alla natura dell’incarico.",
+      "ja": "専門家は、業務の性質に応じた適切な注意をもって行動する義務があります。"
+    },
+    {
+      "it": "Una verifica più diligente avrebbe evitato l’errore.",
+      "ja": "より注意深く確認していれば、その誤りは避けられたでしょう。"
+    },
+    {
+      "it": "Prima dell’acquisizione, l’azienda ha condotto una due diligence legale e finanziaria.",
+      "ja": "買収前に、その会社は法務・財務デューデリジェンスを実施しました。"
+    },
+    {
+      "it": "La mancanza di diligenza può comportare una responsabilità per danni.",
+      "ja": "注意義務を怠ると、損害賠償責任が生じることがあります。"
+    },
+    {
+      "it": "Nel XIX secolo il viaggio veniva effettuato in diligenza.",
+      "ja": "19世紀には、その旅は駅馬車で行われていました。"
+    }
+  ]
 }
 ]
