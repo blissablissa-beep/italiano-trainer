@@ -644,7 +644,8 @@ Promise.all(
     "./data/words3.json",
     "./data/words4.json",
     "./data/words5.json",
-    "./data/words6.json"
+    "./data/words6.json",
+    "./data/words7.json"
   
   ].map(path =>
     fetch(`${path}?v=2`, { cache: "no-store" })
