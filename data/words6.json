@@ -2123,23 +2123,23 @@
   }
 },
 {
-  "id": "rilassarsi",
+  "id": "pettinarsi",
   "sid": "2026-00277",
-  "word": "rilassarsi",
-  "ipa": "/rilasˈsarsi/",
-  "level": "A2",
-  "frequency": "very_common",
+  "word": "pettinarsi",
+  "ipa": "/pettiˈnarsi/",
+  "level": "A1",
+  "frequency": "common",
 
   "grammar": {
     "pos": "verb",
     "label": {
-      "ja": "代名動詞",
-      "it": "verbo pronominale"
+      "ja": "再帰動詞・代名動詞",
+      "it": "verbo riflessivo e pronominale"
     },
     "auxiliary": "essere",
-    "pastParticiple": "rilassato",
-    "gerundPresent": "rilassandosi",
-    "pattern": "rilassarsi / rilassarsi con qualcosa / rilassarsi facendo qualcosa / rilassarsi dopo qualcosa / cercare di rilassarsi"
+    "pastParticiple": "pettinato",
+    "gerundPresent": "pettinandosi",
+    "pattern": "pettinarsi / pettinarsi i capelli / pettinarsi con + strumento / pettinarsi davanti allo specchio"
   },
 
   "usage": {
@@ -2153,323 +2153,306 @@
     "situations": [
       "conversation",
       "home",
-      "leisure",
-      "health",
-      "wellbeing"
+      "personal_care",
+      "daily_routine"
     ]
   },
 
   "meaning": {
     "ja": [
-      "精神的な緊張や不安を和らげ、くつろぐ",
-      "仕事・勉強・活動のあとに休んで気分を落ち着かせる",
-      "筋肉や身体の力を抜き、緊張を解く",
-      "音楽・読書・入浴などの活動によって心身を休ませる",
-      "警戒・集中・努力を一時的に弱める",
-      "人間関係・状況・雰囲気などの緊張が和らぐ"
+      "くしやブラシを使って自分の髪をとかす",
+      "髪のもつれをほどき、形を整える",
+      "外出や仕事などに備えて髪を整える",
+      "特定の髪型になるよう自分の髪をセットする",
+      "比喩的・くだけた用法で、身なりを整える"
     ],
     "it": [
-      "Liberarsi dalla tensione mentale, dall’ansia o dal nervosismo.",
-      "Riposarsi e recuperare tranquillità dopo il lavoro, lo studio o un’attività.",
-      "Ridurre la tensione dei muscoli e lasciare il corpo meno rigido.",
-      "Raggiungere uno stato di benessere mediante la musica, la lettura, un bagno o altre attività.",
-      "Ridurre temporaneamente la vigilanza, la concentrazione o lo sforzo.",
-      "Diventare meno teso, con riferimento a un rapporto, una situazione o un’atmosfera."
+      "Passare il pettine o la spazzola tra i propri capelli.",
+      "Districare e ordinare i propri capelli.",
+      "Sistemarsi i capelli prima di uscire o di svolgere un’attività.",
+      "Disporre i propri capelli secondo una determinata acconciatura.",
+      "In alcuni usi colloquiali, rendere più ordinato il proprio aspetto."
     ]
   },
 
   "nuance": {
-    "ja": "心身に存在する緊張やこわばりが弱まり、落ち着いた状態になることを表す。riposarsiは疲労を回復するために休むこと、rilassarsiは緊張を解いてくつろぐことに重点があるため、横にならなくても音楽を聴いたり散歩したりしてrilassarsiできる。calmarsiは怒り・興奮・不安などの強い感情が静まることを表す。否定命令Non rilassarti troppoは、文脈によって「油断しすぎるな」という意味にもなる。",
-    "it": "Indica il passaggio da uno stato di tensione fisica o mentale a uno stato di maggiore calma e benessere. Riposarsi mette in primo piano il recupero dalla stanchezza; rilassarsi la diminuzione della tensione, che può avvenire anche ascoltando musica o passeggiando. Calmarsi si riferisce più specificamente alla riduzione di una forte emozione come rabbia, agitazione o paura. In alcuni contesti, rilassarsi troppo può significare abbassare eccessivamente la vigilanza."
+    "ja": "pettinare「人や動物の髪・毛をとかす」の再帰形で、動作を行う人と髪の持ち主が同じであることを示す。単にMi pettinoと言えば、通常は「自分の髪をとかす」という意味になる。身体部分を明示する場合、所有形容詞ではなく定冠詞を使い、Mi pettino i capelliと言うのが自然である。acconciarsiは髪型をより意識的・本格的に整えることを表し、pettinarsiは日常的にくしやブラシでとかす動作を中心とする。",
+    "it": "È la forma riflessiva di pettinare e indica che la persona compie l’azione sui propri capelli. Mi pettino è normalmente sufficiente; quando si nomina la parte del corpo si usa l’articolo determinativo: mi pettino i capelli, non normalmente i miei capelli. Acconciarsi mette maggiormente in rilievo la creazione di una pettinatura, mentre pettinarsi indica soprattutto l’azione quotidiana di ordinare i capelli con un pettine o una spazzola."
   },
 
   "etymology": {
-    "ja": "rilassareの代名動詞形で、rilassareはラテン語relaxāre（緩める、解放する）に由来する。これはre-（後ろへ、元へ）とlaxāre（緩める）から成り、laxāreは形容詞laxus（緩い、ゆったりした）の派生語である。物理的なひもや筋肉を緩める意味から、精神的緊張を和らげる意味へ発展した。同じ語族にはrelax、lasso、lassativoなどがある。",
-    "it": "È la forma pronominale di rilassare, dal latino relaxāre, composto da re- e laxāre, «allentare», derivato da laxus, «largo, non teso». Dal significato concreto di rendere meno teso un oggetto o un muscolo si è sviluppato quello psicologico di liberarsi dalla tensione."
+    "ja": "pettinare「くしでとかす」に再帰代名詞siが付いた形。pettinareは名詞pettine「くし」から作られ、pettineはラテン語pecten、属格pectinis（くし、櫛状の物）に由来する。ラテン語pectere「髪や羊毛をとかす」とも同じ語族に属する。英語pectinate「櫛状の」やpectin「ペクチン」も、櫛状・組織状という発想を介して関連する。",
+    "it": "È la forma riflessiva di pettinare, verbo derivato da pettine. Pettine continua il latino pecten, genitivo pectinis, «pettine», ed è collegato al verbo latino pectere, «pettinare, cardare». Alla stessa famiglia appartengono pettinatura, pettinato, spettinare e pettinino."
   },
 
   "minimal": [
     {
-      "word": "rilassarsi",
-      "ja": "身体的・精神的な緊張を解き、落ち着いてくつろぐ",
-      "it": "ridurre la tensione fisica o mentale e raggiungere uno stato di calma"
+      "word": "pettinarsi",
+      "ja": "くしやブラシを使って自分の髪をとかし、整える",
+      "it": "ordinare i propri capelli con un pettine o una spazzola"
     },
     {
-      "word": "riposarsi",
-      "ja": "活動をやめたり睡眠を取ったりして、疲労を回復する",
-      "it": "interrompere un’attività per recuperare le energie e ridurre la stanchezza"
+      "word": "pettinare",
+      "ja": "人や動物の髪・毛をくしやブラシでとかす",
+      "it": "passare il pettine o la spazzola tra i capelli o il pelo di qualcuno"
     },
     {
-      "word": "calmarsi",
-      "ja": "怒り・興奮・恐怖・不安などの強い感情を静める",
-      "it": "ridurre uno stato di rabbia, agitazione, paura o forte ansia"
+      "word": "acconciarsi",
+      "ja": "自分の髪や身なりを意識的に整え、一定の形に仕上げる",
+      "it": "sistemare con cura i propri capelli o il proprio aspetto"
     },
     {
-      "word": "svagarsi",
-      "ja": "楽しい活動によって日常や悩みから意識を離す",
-      "it": "dedicarsi a un’attività piacevole per allontanare la mente dalle preoccupazioni"
+      "word": "spettinarsi",
+      "ja": "髪型が乱れる、または自分の髪を乱す",
+      "it": "avere o rendere i propri capelli disordinati"
     },
     {
-      "word": "distrarsi",
-      "ja": "注意を失って気が散る、または悩みを忘れるために気分転換する",
-      "it": "perdere la concentrazione oppure allontanare temporaneamente la mente dai problemi"
+      "word": "spazzolarsi",
+      "ja": "自分の髪・歯・衣服などにブラシをかける",
+      "it": "passare una spazzola sui propri capelli, denti o vestiti"
     }
   ],
 
   "synonyms": [
-    "distendersi",
-    "riposarsi",
-    "calmarsi",
-    "svagarsi",
-    "decontrarsi",
-    "prendersela comoda"
+    "sistemarsi i capelli",
+    "acconciarsi",
+    "ravviarsi i capelli",
+    "spazzolarsi i capelli",
+    "mettersi in ordine"
   ],
 
   "equivalents": {
     "en": [
-      "relax",
-      "unwind",
-      "loosen up"
+      "comb one’s hair",
+      "brush one’s hair",
+      "do one’s hair"
     ],
     "de": [
-      "sich entspannen",
-      "sich erholen",
-      "locker werden"
+      "sich kämmen",
+      "sich die Haare kämmen",
+      "sich frisieren"
     ],
     "fr": [
-      "se détendre",
-      "se relaxer",
-      "décompresser"
+      "se peigner",
+      "se brosser les cheveux",
+      "se coiffer"
     ],
     "es": [
-      "relajarse",
-      "descansar",
-      "desconectar"
+      "peinarse",
+      "cepillarse el pelo",
+      "arreglarse el cabello"
     ]
   },
 
   "collocations": [
-    "rilassarsi un po’",
-    "rilassarsi completamente",
-    "rilassarsi profondamente",
-    "rilassarsi finalmente",
-    "rilassarsi a casa",
-    "rilassarsi sul divano",
-    "rilassarsi in giardino",
-    "rilassarsi in vacanza",
-    "rilassarsi dopo il lavoro",
-    "rilassarsi dopo una giornata difficile",
-    "rilassarsi prima di dormire",
-    "rilassarsi durante il fine settimana",
-    "rilassarsi con la musica",
-    "rilassarsi con un buon libro",
-    "rilassarsi con un bagno caldo",
-    "rilassarsi con una tazza di tè",
-    "rilassarsi ascoltando musica",
-    "rilassarsi leggendo",
-    "rilassarsi guardando un film",
-    "rilassarsi facendo una passeggiata",
-    "rilassarsi facendo yoga",
-    "rilassarsi respirando lentamente",
-    "cercare di rilassarsi",
-    "riuscire a rilassarsi",
-    "non riuscire a rilassarsi",
-    "aver bisogno di rilassarsi",
-    "volersi rilassare",
-    "imparare a rilassarsi",
-    "aiutare a rilassarsi",
-    "lasciarsi andare e rilassarsi",
-    "rilassarsi mentalmente",
-    "rilassarsi fisicamente",
-    "rilassare i muscoli",
-    "rilassarsi troppo",
-    "non rilassarsi mai",
-    "l’atmosfera si rilassa",
-    "la tensione si rilassa",
-    "i rapporti si rilassano",
-    "sentirsi rilassato",
-    "apparire rilassato"
+    "pettinarsi i capelli",
+    "pettinarsi con il pettine",
+    "pettinarsi con la spazzola",
+    "pettinarsi davanti allo specchio",
+    "pettinarsi al mattino",
+    "pettinarsi ogni giorno",
+    "pettinarsi prima di uscire",
+    "pettinarsi prima di andare al lavoro",
+    "pettinarsi dopo la doccia",
+    "pettinarsi con cura",
+    "pettinarsi velocemente",
+    "pettinarsi lentamente",
+    "pettinarsi bene",
+    "pettinarsi male",
+    "pettinarsi da soli",
+    "imparare a pettinarsi",
+    "aiutare un bambino a pettinarsi",
+    "dimenticarsi di pettinarsi",
+    "finire di pettinarsi",
+    "stare pettinandosi",
+    "essersi appena pettinato",
+    "pettinarsi all’indietro",
+    "pettinarsi con la riga in mezzo",
+    "pettinarsi con la riga di lato",
+    "pettinarsi i capelli bagnati",
+    "pettinarsi i capelli lunghi",
+    "pettinarsi senza tirare i capelli"
   ],
 
   "examples": [
     {
-      "it": "Dopo il lavoro mi piace rilassarmi ascoltando musica.",
-      "ja": "仕事のあと、私は音楽を聴きながらくつろぐのが好きです。"
+      "it": "Mi pettino ogni mattina davanti allo specchio.",
+      "ja": "私は毎朝、鏡の前で髪をとかします。"
     },
     {
-      "it": "Cerca di rilassarti e respira lentamente.",
-      "ja": "力を抜いて、ゆっくり呼吸してみてください。"
+      "it": "Vai a pettinarti prima di uscire.",
+      "ja": "出かける前に髪をとかしてきなさい。"
     },
     {
-      "it": "Durante il fine settimana ci siamo rilassati in campagna.",
-      "ja": "週末、私たちは田舎でのんびり過ごしました。"
+      "it": "Si è pettinata i capelli con una spazzola.",
+      "ja": "彼女はブラシで髪をとかしました。"
     },
     {
-      "it": "Non riesco a rilassarmi quando ho troppo lavoro.",
-      "ja": "仕事が多すぎると、私はなかなかくつろげません。"
+      "it": "Il bambino sta imparando a pettinarsi da solo.",
+      "ja": "その子供は自分で髪をとかす練習をしています。"
     },
     {
-      "it": "Questo esercizio aiuta i muscoli a rilassarsi.",
-      "ja": "この運動は筋肉の緊張をほぐすのに役立ちます。"
+      "it": "Mi sono appena pettinato, ma il vento mi ha già spettinato.",
+      "ja": "髪をとかしたばかりなのに、もう風で乱れてしまいました。"
     },
     {
-      "it": "Dopo le sue parole, l’atmosfera si è finalmente rilassata.",
-      "ja": "彼の言葉のあと、場の緊張がようやく和らぎました。"
+      "it": "Per questa occasione si è pettinata con molta cura.",
+      "ja": "この機会のために、彼女はとても丁寧に髪を整えました。"
     }
   ],
 
   "conjugations": {
     "Indicativo": {
       "Presente": [
-        "mi rilasso",
-        "ti rilassi",
-        "si rilassa",
-        "ci rilassiamo",
-        "vi rilassate",
-        "si rilassano"
+        "mi pettino",
+        "ti pettini",
+        "si pettina",
+        "ci pettiniamo",
+        "vi pettinate",
+        "si pettinano"
       ],
 
       "Imperfetto": [
-        "mi rilassavo",
-        "ti rilassavi",
-        "si rilassava",
-        "ci rilassavamo",
-        "vi rilassavate",
-        "si rilassavano"
+        "mi pettinavo",
+        "ti pettinavi",
+        "si pettinava",
+        "ci pettinavamo",
+        "vi pettinavate",
+        "si pettinavano"
       ],
 
       "Passato prossimo": [
-        "mi sono rilassato/a",
-        "ti sei rilassato/a",
-        "si è rilassato/a",
-        "ci siamo rilassati/e",
-        "vi siete rilassati/e",
-        "si sono rilassati/e"
+        "mi sono pettinato/a",
+        "ti sei pettinato/a",
+        "si è pettinato/a",
+        "ci siamo pettinati/e",
+        "vi siete pettinati/e",
+        "si sono pettinati/e"
       ],
 
       "Passato remoto": [
-        "mi rilassai",
-        "ti rilassasti",
-        "si rilassò",
-        "ci rilassammo",
-        "vi rilassaste",
-        "si rilassarono"
+        "mi pettinai",
+        "ti pettinasti",
+        "si pettinò",
+        "ci pettinammo",
+        "vi pettinaste",
+        "si pettinarono"
       ],
 
       "Trapassato prossimo": [
-        "mi ero rilassato/a",
-        "ti eri rilassato/a",
-        "si era rilassato/a",
-        "ci eravamo rilassati/e",
-        "vi eravate rilassati/e",
-        "si erano rilassati/e"
+        "mi ero pettinato/a",
+        "ti eri pettinato/a",
+        "si era pettinato/a",
+        "ci eravamo pettinati/e",
+        "vi eravate pettinati/e",
+        "si erano pettinati/e"
       ],
 
       "Trapassato remoto": [
-        "mi fui rilassato/a",
-        "ti fosti rilassato/a",
-        "si fu rilassato/a",
-        "ci fummo rilassati/e",
-        "vi foste rilassati/e",
-        "si furono rilassati/e"
+        "mi fui pettinato/a",
+        "ti fosti pettinato/a",
+        "si fu pettinato/a",
+        "ci fummo pettinati/e",
+        "vi foste pettinati/e",
+        "si furono pettinati/e"
       ],
 
       "Futuro semplice": [
-        "mi rilasserò",
-        "ti rilasserai",
-        "si rilasserà",
-        "ci rilasseremo",
-        "vi rilasserete",
-        "si rilasseranno"
+        "mi pettinerò",
+        "ti pettinerai",
+        "si pettinerà",
+        "ci pettineremo",
+        "vi pettinerete",
+        "si pettineranno"
       ],
 
       "Futuro anteriore": [
-        "mi sarò rilassato/a",
-        "ti sarai rilassato/a",
-        "si sarà rilassato/a",
-        "ci saremo rilassati/e",
-        "vi sarete rilassati/e",
-        "si saranno rilassati/e"
+        "mi sarò pettinato/a",
+        "ti sarai pettinato/a",
+        "si sarà pettinato/a",
+        "ci saremo pettinati/e",
+        "vi sarete pettinati/e",
+        "si saranno pettinati/e"
       ]
     },
 
     "Congiuntivo": {
       "Presente": [
-        "mi rilassi",
-        "ti rilassi",
-        "si rilassi",
-        "ci rilassiamo",
-        "vi rilassiate",
-        "si rilassino"
+        "mi pettini",
+        "ti pettini",
+        "si pettini",
+        "ci pettiniamo",
+        "vi pettiniate",
+        "si pettinino"
       ],
 
       "Imperfetto": [
-        "mi rilassassi",
-        "ti rilassassi",
-        "si rilassasse",
-        "ci rilassassimo",
-        "vi rilassaste",
-        "si rilassassero"
+        "mi pettinassi",
+        "ti pettinassi",
+        "si pettinasse",
+        "ci pettinassimo",
+        "vi pettinaste",
+        "si pettinassero"
       ],
 
       "Passato": [
-        "mi sia rilassato/a",
-        "ti sia rilassato/a",
-        "si sia rilassato/a",
-        "ci siamo rilassati/e",
-        "vi siate rilassati/e",
-        "si siano rilassati/e"
+        "mi sia pettinato/a",
+        "ti sia pettinato/a",
+        "si sia pettinato/a",
+        "ci siamo pettinati/e",
+        "vi siate pettinati/e",
+        "si siano pettinati/e"
       ],
 
       "Trapassato": [
-        "mi fossi rilassato/a",
-        "ti fossi rilassato/a",
-        "si fosse rilassato/a",
-        "ci fossimo rilassati/e",
-        "vi foste rilassati/e",
-        "si fossero rilassati/e"
+        "mi fossi pettinato/a",
+        "ti fossi pettinato/a",
+        "si fosse pettinato/a",
+        "ci fossimo pettinati/e",
+        "vi foste pettinati/e",
+        "si fossero pettinati/e"
       ]
     },
 
     "Condizionale": {
       "Presente": [
-        "mi rilasserei",
-        "ti rilasseresti",
-        "si rilasserebbe",
-        "ci rilasseremmo",
-        "vi rilassereste",
-        "si rilasserebbero"
+        "mi pettinerei",
+        "ti pettineresti",
+        "si pettinerebbe",
+        "ci pettineremmo",
+        "vi pettinereste",
+        "si pettinerebbero"
       ],
 
       "Passato": [
-        "mi sarei rilassato/a",
-        "ti saresti rilassato/a",
-        "si sarebbe rilassato/a",
-        "ci saremmo rilassati/e",
-        "vi sareste rilassati/e",
-        "si sarebbero rilassati/e"
+        "mi sarei pettinato/a",
+        "ti saresti pettinato/a",
+        "si sarebbe pettinato/a",
+        "ci saremmo pettinati/e",
+        "vi sareste pettinati/e",
+        "si sarebbero pettinati/e"
       ]
     },
 
     "Imperativo": {
       "Presente": [
         "—",
-        "rilassati",
-        "si rilassi",
-        "rilassiamoci",
-        "rilassatevi",
-        "si rilassino"
+        "pettinati",
+        "si pettini",
+        "pettiniamoci",
+        "pettinatevi",
+        "si pettinino"
       ]
     },
 
     "Forme indefinite": {
       "Forme": [
-        "rilassarsi",
-        "essersi rilassato/a/i/e",
-        "rilassantesi",
-        "rilassatosi/a/i/e",
-        "rilassandosi",
-        "essendosi rilassato/a/i/e"
+        "pettinarsi",
+        "essersi pettinato/a/i/e",
+        "pettinantesi",
+        "pettinatosi/a/i/e",
+        "pettinandosi",
+        "essendosi pettinato/a/i/e"
       ]
     }
   }
