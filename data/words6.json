@@ -13889,6 +13889,202 @@
   ]
 },
 {
+  "id": "calendario",
+  "sid": "2026-00313",
+  "word": "calendario",
+  "ipa": "/kalenˈdarjo/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "nome maschile"
+    },
+    "gender": "masculine",
+    "plural": "calendari",
+    "pattern": "il calendario / un calendario / calendario di + anno, eventi o attività / segnare qualcosa sul calendario"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written",
+      "digital"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "business",
+      "education",
+      "planning",
+      "technology"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "一年を月・週・日に分けて示した暦、カレンダー",
+      "予定・約束・締切などを書き込むための予定表",
+      "会議・授業・行事・試合などの日程表",
+      "一定期間に予定されている出来事の全体",
+      "コンピューターやスマートフォンのカレンダー機能",
+      "特定の文化・宗教・制度で使用される暦法"
+    ],
+    "it": [
+      "Sistema che suddivide l’anno in mesi, settimane e giorni.",
+      "Tabella o supporto su cui sono indicati i giorni dell’anno.",
+      "Strumento utilizzato per annotare appuntamenti, scadenze e impegni.",
+      "Programma ordinato di riunioni, lezioni, eventi, gare o altre attività.",
+      "Applicazione digitale utilizzata per organizzare date e impegni.",
+      "Sistema di computo del tempo proprio di una cultura, religione o tradizione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "日・月・曜日を示す物理的または電子的な「カレンダー」を広く表す。予定を書き込む場合はsegnare qualcosa sul calendario、予定を確認する場合はcontrollareまたはconsultare il calendarioと言う。agendaは個人の予定・約束・作業を管理する手帳や予定表に重点があり、calendarioは日付の体系や、複数の行事を日付順に配置した日程表に重点がある。orarioは授業・列車・営業時間など、時刻を中心とする表を指す。",
+    "it": "Indica sia il sistema dei giorni, dei mesi e degli anni sia il supporto cartaceo o digitale che li rappresenta. Può inoltre indicare il programma cronologico di eventi, incontri o competizioni. L’agenda è destinata soprattutto alla gestione degli impegni personali; il calendario mette maggiormente in evidenza la loro collocazione nelle date. L’orario riguarda invece principalmente le ore di lezioni, trasporti, uffici o attività."
+  },
+
+  "etymology": {
+    "ja": "ラテン語calendariumに由来する。calendariumは本来「金銭出納簿、債務帳」を意味し、利息や債務の支払期日が各月のKalendae（カレンダエ、月の第1日）に設定されていたことにちなむ。Kalendaeはcalāre「呼び集める、宣言する」と関係し、古代ローマでは神官が月初めを宣言した。そこから日付を体系的に記録したものを指すようになった。",
+    "it": "Dal latino calendarium, originariamente «registro dei crediti e dei debiti». Gli interessi e i pagamenti venivano registrati alle Kalendae, il primo giorno del mese romano. Kalendae è collegato a calāre, «chiamare, proclamare», perché anticamente l’inizio del mese veniva annunciato pubblicamente. Dal registro delle scadenze il significato passò al sistema ordinato dei giorni dell’anno."
+  },
+
+  "minimal": [
+    {
+      "word": "calendario",
+      "ja": "日・月・年の体系、または行事や予定を日付順に示した表",
+      "it": "sistema dei giorni dell’anno o programma di eventi ordinati per data"
+    },
+    {
+      "word": "agenda",
+      "ja": "個人の予定・約束・作業などを書き込んで管理する手帳や予定表",
+      "it": "strumento cartaceo o digitale usato soprattutto per organizzare gli impegni personali"
+    },
+    {
+      "word": "orario",
+      "ja": "授業・交通・勤務などの開始時刻や終了時刻を示す時間表",
+      "it": "prospetto che indica le ore di lezioni, trasporti, lavoro o apertura"
+    },
+    {
+      "word": "programma",
+      "ja": "行事・活動・作品などの内容と進行順序をまとめた計画",
+      "it": "insieme organizzato delle attività o delle parti previste per un evento"
+    },
+    {
+      "word": "scadenzario",
+      "ja": "支払・提出・更新などの期限を管理するための一覧表",
+      "it": "registro ordinato delle scadenze amministrative, economiche o professionali"
+    }
+  ],
+
+  "synonyms": [
+    "agenda",
+    "almanacco",
+    "programma",
+    "cronologia",
+    "scadenzario"
+  ],
+
+  "equivalents": {
+    "en": [
+      "calendar",
+      "schedule",
+      "event calendar"
+    ],
+    "de": [
+      "Kalender",
+      "Terminkalender",
+      "Veranstaltungskalender"
+    ],
+    "fr": [
+      "calendrier",
+      "emploi du temps",
+      "programme"
+    ],
+    "es": [
+      "calendario",
+      "agenda",
+      "programación"
+    ]
+  },
+
+  "collocations": [
+    "consultare il calendario",
+    "controllare il calendario",
+    "guardare il calendario",
+    "aprire il calendario",
+    "chiudere il calendario",
+    "aggiornare il calendario",
+    "organizzare il calendario",
+    "preparare un calendario",
+    "creare un calendario",
+    "stampare un calendario",
+    "condividere un calendario",
+    "sincronizzare il calendario",
+    "segnare una data sul calendario",
+    "annotare un appuntamento sul calendario",
+    "aggiungere un evento al calendario",
+    "eliminare un evento dal calendario",
+    "inserire una riunione nel calendario",
+    "avere il calendario pieno",
+    "avere il calendario libero",
+    "il calendario dell’anno",
+    "il calendario annuale",
+    "il calendario mensile",
+    "il calendario settimanale",
+    "il calendario scolastico",
+    "il calendario accademico",
+    "il calendario lavorativo",
+    "il calendario delle riunioni",
+    "il calendario degli appuntamenti",
+    "il calendario degli eventi",
+    "il calendario delle scadenze",
+    "il calendario delle partite",
+    "il calendario del campionato",
+    "il calendario gregoriano",
+    "il calendario giuliano",
+    "il calendario lunare",
+    "il calendario digitale",
+    "il calendario condiviso",
+    "secondo il calendario",
+    "in base al calendario",
+    "rispettare il calendario"
+  ],
+
+  "examples": [
+    {
+      "it": "Ho segnato l’appuntamento sul calendario.",
+      "ja": "私はその約束をカレンダーに記入しました。"
+    },
+    {
+      "it": "Controlla il calendario prima di fissare la riunione.",
+      "ja": "会議の日程を決める前にカレンダーを確認してください。"
+    },
+    {
+      "it": "Il calendario scolastico è disponibile sul sito della scuola.",
+      "ja": "学校の年間日程は学校のウェブサイトで確認できます。"
+    },
+    {
+      "it": "Abbiamo condiviso il calendario con tutti i colleghi.",
+      "ja": "私たちはカレンダーを同僚全員と共有しました。"
+    },
+    {
+      "it": "Il calendario del campionato è stato modificato.",
+      "ja": "リーグ戦の日程が変更されました。"
+    },
+    {
+      "it": "Il calendario gregoriano è utilizzato nella maggior parte del mondo.",
+      "ja": "グレゴリオ暦は世界の大部分で使用されています。"
+    }
+  ]
+},
+{
   "id": "volta",
   "sid": "2026-00314",
   "word": "volta",
