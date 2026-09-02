@@ -2273,5 +2273,422 @@
       "ja": "修理できる物をすぐにごみとして捨てるべきではありません。"
     }
   ]
+},
+{
+  "id": "pettine",
+  "sid": "2026-00331",
+  "word": "pettine",
+  "ipa": "/ˈpettine/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "pettini",
+    "pattern": "passare, usare o prendere il pettine / pettine per + tipo di capelli o funzione / pettine a denti + aggettivo / denti del pettine"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "home",
+      "personal_care",
+      "hairdressing",
+      "textiles",
+      "technology",
+      "anatomy"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "歯を一定間隔で並べ、髪を整えたりもつれを解いたりする道具、くし",
+      "髪を分ける、逆立てる、切りそろえるなどのために使う美容用具",
+      "織機で経糸を整え、緯糸を押し込む櫛状の部品、おさ",
+      "機械・器具などに備えられた歯の並ぶ櫛状部品",
+      "解剖学・動物学で、櫛状の形を持つ器官・突起・構造",
+      "農業・園芸などで物を選別またはかき分ける櫛状器具"
+    ],
+    "it": [
+      "Utensile dotato di denti allineati usato per ordinare e districare i capelli.",
+      "Strumento da parrucchiere impiegato per dividere, cotonare o tagliare i capelli.",
+      "Parte del telaio che mantiene ordinati i fili dell’ordito e compatta la trama.",
+      "Elemento dentato di una macchina o di un apparecchio, simile a un pettine.",
+      "In anatomia e zoologia, organo, processo o struttura dalla forma dentata.",
+      "Attrezzo dentato usato in agricoltura o in altri lavori per separare o raccogliere materiali."
+    ]
+  },
+
+  "nuance": {
+    "ja": "pettineは硬い歯を一列または複数列に並べた「くし」で、髪をとかすだけでなく、分け目を作る、髪を切る際にそろえるなどの精密な操作に適する。spazzolaは多数の毛や柔軟なピンを持つ「ブラシ」で、髪全体を滑らかにしたり、ほこりを払ったりする用途が中心である。目の粗いくしはpettine a denti larghi、目の細かいくしはpettine a denti strettiまたはfittiと言う。",
+    "it": "Il pettine possiede denti rigidi disposti ordinatamente ed è adatto sia a districare i capelli sia a dividerli o controllarli durante il taglio. La spazzola ha invece numerose setole o punte flessibili e viene usata soprattutto per lisciare la capigliatura o rimuovere polvere e residui. Un pettine a denti larghi è adatto ai capelli ricci o bagnati; uno a denti stretti o fitti permette un lavoro più preciso."
+  },
+
+  "etymology": {
+    "ja": "ラテン語pecten、属格pectĭnis「くし、櫛状の器具」に由来し、動詞pectĕre「髪をとかす」と同じ語族に属する。子音群-ct-がイタリア語で-tt-へ変化し、pectenからpettineとなった。英語の学術語pecten「櫛状器官」やpectinate「櫛状の」にも同じラテン語が残っている。",
+    "it": "Dal latino pecten, genitivo pectĭnis, «pettine, strumento dentato», appartenente alla famiglia del verbo pectĕre, «pettinare». Il gruppo latino -ct- si è assimilato in -tt-, dando la forma italiana pettine. La base latina è conservata anche nei termini scientifici pecten e pettinato."
+  },
+
+  "minimal": [
+    {
+      "word": "pettine",
+      "ja": "一定間隔の硬い歯で髪をとかし、分け、整える道具",
+      "it": "strumento a denti rigidi usato per districare, dividere e ordinare i capelli"
+    },
+    {
+      "word": "spazzola",
+      "ja": "多数の毛や柔軟なピンで髪・衣服・表面などを整えたり掃除したりする道具",
+      "it": "utensile con setole o punte flessibili usato per lisciare o pulire"
+    },
+    {
+      "word": "pettinino",
+      "ja": "携帯用・装飾用などの小型のくし",
+      "it": "pettine di piccole dimensioni, portatile oppure decorativo"
+    },
+    {
+      "word": "rastrello",
+      "ja": "長い柄と複数の歯を持ち、落ち葉・土などを集める道具",
+      "it": "attrezzo con lungo manico e denti usato per raccogliere foglie o lavorare il terreno"
+    },
+    {
+      "word": "forchetta",
+      "ja": "食べ物を刺し、持ち上げるための複数の歯を持つ食器",
+      "it": "posata munita di rebbi usata per prendere e portare il cibo alla bocca"
+    }
+  ],
+
+  "synonyms": [
+    "pettinino",
+    "scriminatore",
+    "striglia",
+    "carda",
+    "pettine da telaio"
+  ],
+
+  "equivalents": {
+    "en": [
+      "comb",
+      "hair comb",
+      "reed",
+      "pecten"
+    ],
+    "de": [
+      "Kamm",
+      "Haarkamm",
+      "Webkamm",
+      "Riet"
+    ],
+    "fr": [
+      "peigne",
+      "peigne à cheveux",
+      "peigne de métier"
+    ],
+    "es": [
+      "peine",
+      "peineta",
+      "peine de telar"
+    ]
+  },
+
+  "collocations": [
+    "usare il pettine",
+    "prendere il pettine",
+    "passare il pettine",
+    "lavare il pettine",
+    "pulire il pettine",
+    "disinfettare il pettine",
+    "perdere il pettine",
+    "rompere il pettine",
+    "comprare un pettine",
+    "tenere un pettine in borsa",
+    "passare il pettine tra i capelli",
+    "far scorrere il pettine",
+    "pettine per capelli",
+    "pettine da uomo",
+    "pettine da donna",
+    "pettine da parrucchiere",
+    "pettine professionale",
+    "pettine tascabile",
+    "pettine pieghevole",
+    "pettine di plastica",
+    "pettine di legno",
+    "pettine di metallo",
+    "pettine d’osso",
+    "pettine d’avorio",
+    "pettine antistatico",
+    "pettine resistente",
+    "pettine sottile",
+    "pettine lungo",
+    "pettine piccolo",
+    "pettine a denti larghi",
+    "pettine a denti stretti",
+    "pettine a denti fitti",
+    "pettine a denti radi",
+    "pettine a doppia dentatura",
+    "pettine a coda",
+    "pettine a punta",
+    "pettine per capelli ricci",
+    "pettine per capelli lisci",
+    "pettine per capelli bagnati",
+    "pettine per barba",
+    "pettine per baffi",
+    "pettine antipidocchi",
+    "pettine per cotonare",
+    "denti del pettine",
+    "manico del pettine",
+    "punta del pettine",
+    "dente rotto del pettine",
+    "pettine decorativo",
+    "pettine per capelli tradizionale",
+    "pettine del telaio",
+    "pettine tessile",
+    "pettine meccanico",
+    "pettine separatore",
+    "pettine raccoglitore",
+    "struttura a pettine",
+    "disposizione a pettine",
+    "antenna a pettine",
+    "filtro a pettine",
+    "pettine ciliato",
+    "organo a pettine"
+  ],
+
+  "examples": [
+    {
+      "it": "Non riesco a trovare il mio pettine.",
+      "ja": "自分のくしが見つかりません。"
+    },
+    {
+      "it": "Passa delicatamente il pettine tra i capelli.",
+      "ja": "髪に優しくくしを通してください。"
+    },
+    {
+      "it": "Per i capelli ricci è meglio usare un pettine a denti larghi.",
+      "ja": "巻き毛には目の粗いくしを使うほうがよいです。"
+    },
+    {
+      "it": "Il parrucchiere teneva le forbici in una mano e il pettine nell’altra.",
+      "ja": "美容師は片手にはさみを、もう一方の手にくしを持っていました。"
+    },
+    {
+      "it": "Uno dei denti del pettine si è rotto.",
+      "ja": "くしの歯が一本折れました。"
+    },
+    {
+      "it": "Il pettine del telaio mantiene separati i fili dell’ordito.",
+      "ja": "織機のおさは経糸を分けた状態に保ちます。"
+    },
+    {
+      "it": "Il dispositivo presenta una struttura a pettine.",
+      "ja": "その装置は櫛状の構造を備えています。"
+    }
+  ]
+},
+{
+  "id": "pullman",
+  "sid": "2026-00332",
+  "word": "pullman",
+  "ipa": "/ˈpulman/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞・不変化名詞",
+      "it": "nome maschile invariabile"
+    },
+    "gender": "masculine",
+    "plural": "pullman",
+    "pattern": "il pullman / i pullman / andare in pullman / prendere il pullman per + luogo / salire sul pullman / scendere dal pullman"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "transport",
+      "tourism",
+      "school",
+      "group_travel"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "都市間の移動や長距離輸送に使われる大型バス",
+      "観光旅行や団体旅行のために貸し切られる大型バス",
+      "遠足・修学旅行・送迎などに使用されるバス",
+      "定められた経路を都市間で運行する長距離バス",
+      "歴史的に、設備の整った豪華な鉄道客車"
+    ],
+    "it": [
+      "Grande autobus destinato soprattutto ai viaggi su media o lunga distanza.",
+      "Autobus utilizzato per viaggi turistici o organizzati in gruppo.",
+      "Veicolo impiegato per escursioni, gite scolastiche e servizi di trasferimento.",
+      "Autobus che collega città o località diverse seguendo un percorso prestabilito.",
+      "Storicamente, carrozza ferroviaria particolarmente comoda o lussuosa."
+    ]
+  },
+
+  "nuance": {
+    "ja": "現代イタリア語では、都市内を走る一般的な路線バスよりも、都市間移動・観光・団体旅行に使う大型バスを指すことが多い。移動手段を示す場合はandareまたはviaggiare in pullmanと言う一方、特定の車内にいる場合はessere sul pullman、乗車・降車にはsalire sul pullman、scendere dal pullmanを使う。autobusは市内バスを含む最も一般的な語で、corrieraは地方や都市間を結ぶ定期バスを指す伝統的な語である。",
+    "it": "Nell’uso contemporaneo indica soprattutto un autobus destinato ai viaggi interurbani, turistici o di gruppo, più che un normale autobus urbano. Come mezzo di trasporto si dice andare o viaggiare in pullman; per indicare la presenza a bordo si usa essere sul pullman. Si sale sul pullman e si scende dal pullman. Autobus è il termine più generale, mentre corriera indica tradizionalmente un servizio di linea extraurbano."
+  },
+
+  "etymology": {
+    "ja": "アメリカの実業家・発明家ジョージ・モーティマー・プルマンGeorge Mortimer Pullman（1831–1897）の姓に由来する。プルマンは豪華な寝台車・客車を製造したPullman Companyで知られ、その名が快適な鉄道客車を表す普通名詞として欧州諸語に広まった。イタリア語ではその後、快適な長距離輸送用の大型自動車、すなわち観光・都市間バスを指すようになった。",
+    "it": "Dal cognome dell’imprenditore statunitense George Mortimer Pullman, fondatore della Pullman Company, celebre per le carrozze ferroviarie comode e lussuose. Il nome proprio divenne in diverse lingue il nome di un tipo di carrozza ferroviaria. In italiano il significato si estese successivamente ai grandi autobus destinati ai viaggi turistici o interurbani."
+  },
+
+  "minimal": [
+    {
+      "word": "pullman",
+      "ja": "観光・団体旅行・都市間移動などに使われる大型バス",
+      "it": "grande autobus utilizzato soprattutto per viaggi turistici o interurbani"
+    },
+    {
+      "word": "autobus",
+      "ja": "市内交通を含め、人を運ぶバス全般を指す最も一般的な語",
+      "it": "termine generale per un veicolo destinato al trasporto collettivo di passeggeri"
+    },
+    {
+      "word": "corriera",
+      "ja": "町や都市を結ぶ定期運行の地方・都市間バス",
+      "it": "autobus di linea che collega regolarmente città o località diverse"
+    },
+    {
+      "word": "minibus",
+      "ja": "通常のバスより小さく、少人数を運ぶ小型バス",
+      "it": "autobus di dimensioni ridotte destinato a un numero limitato di passeggeri"
+    },
+    {
+      "word": "treno",
+      "ja": "線路上を走り、複数の車両で人や物を運ぶ鉄道の乗り物",
+      "it": "mezzo ferroviario composto da una o più carrozze o vagoni"
+    }
+  ],
+
+  "synonyms": [
+    "autobus",
+    "autocarro turistico",
+    "corriera",
+    "torpedone",
+    "autobus da turismo"
+  ],
+
+  "equivalents": {
+    "en": [
+      "coach",
+      "tour bus",
+      "long-distance bus"
+    ],
+    "de": [
+      "Reisebus",
+      "Fernbus",
+      "Touristenbus"
+    ],
+    "fr": [
+      "autocar",
+      "car de tourisme",
+      "car longue distance"
+    ],
+    "es": [
+      "autocar",
+      "autobús turístico",
+      "autobús de larga distancia"
+    ]
+  },
+
+  "collocations": [
+    "andare in pullman",
+    "viaggiare in pullman",
+    "partire in pullman",
+    "arrivare in pullman",
+    "prendere il pullman",
+    "aspettare il pullman",
+    "perdere il pullman",
+    "raggiungere il pullman",
+    "prenotare un posto sul pullman",
+    "salire sul pullman",
+    "scendere dal pullman",
+    "essere sul pullman",
+    "sedersi sul pullman",
+    "dormire sul pullman",
+    "lasciare qualcosa sul pullman",
+    "caricare i bagagli sul pullman",
+    "mettere la valigia nel pullman",
+    "il conducente del pullman",
+    "l’autista del pullman",
+    "la fermata del pullman",
+    "la stazione dei pullman",
+    "il terminal dei pullman",
+    "il biglietto del pullman",
+    "l’orario del pullman",
+    "il viaggio in pullman",
+    "un pullman turistico",
+    "un pullman di linea",
+    "un pullman privato",
+    "un pullman a due piani",
+    "un pullman pieno",
+    "un pullman vuoto",
+    "un pullman diretto",
+    "un pullman notturno",
+    "un pullman per Roma",
+    "un gruppo di turisti in pullman",
+    "una gita in pullman",
+    "un’escursione in pullman",
+    "noleggiare un pullman",
+    "cambiare pullman",
+    "il pullman parte",
+    "il pullman arriva",
+    "il pullman è in ritardo"
+  ],
+
+  "examples": [
+    {
+      "it": "Andremo a Firenze in pullman.",
+      "ja": "私たちは大型バスでフィレンツェへ行きます。"
+    },
+    {
+      "it": "Il pullman per Roma parte alle sette.",
+      "ja": "ローマ行きの長距離バスは7時に出発します。"
+    },
+    {
+      "it": "Gli studenti sono saliti sul pullman davanti alla scuola.",
+      "ja": "生徒たちは学校の前でバスに乗りました。"
+    },
+    {
+      "it": "Ho lasciato lo zaino sul pullman.",
+      "ja": "私はバスの中にリュックを置き忘れました。"
+    },
+    {
+      "it": "L’agenzia ha noleggiato due pullman per il viaggio.",
+      "ja": "旅行会社はその旅行のために大型バスを2台借りました。"
+    },
+    {
+      "it": "Il viaggio in pullman è durato quasi cinque ore.",
+      "ja": "バスでの移動には5時間近くかかりました。"
+    }
+  ]
 }
 ]
