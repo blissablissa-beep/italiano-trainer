@@ -2690,5 +2690,1745 @@
       "ja": "バスでの移動には5時間近くかかりました。"
     }
   ]
+},
+{
+  "id": "vasca",
+  "sid": "2026-00333",
+  "word": "vasca",
+  "ipa": "/ˈvaska/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "nome femminile"
+    },
+    "gender": "feminine",
+    "plural": "vasche",
+    "pattern": "la vasca / le vasche / vasca da + funzione / vasca di + materiale / riempire la vasca di + sostanza / fare una vasca"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "bathroom",
+      "sport",
+      "construction",
+      "industry"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "水その他の液体をためるための、上部が開いた大型の容器",
+      "身体を浸して入浴するための浴槽、バスタブ",
+      "水泳用プールの水をたたえる部分、プール",
+      "水泳でプールの一端から反対側まで泳ぐ一区間",
+      "工業・農業・浄水などで液体を貯蔵・処理する槽",
+      "噴水・水槽・水族館などで水をたたえる部分",
+      "fare le vascheの形で、同じ通りなどを何度も行き来すること"
+    ],
+    "it": [
+      "Grande recipiente aperto nella parte superiore, destinato a contenere acqua o altri liquidi.",
+      "Recipiente sanitario nel quale una persona può immergersi per lavarsi.",
+      "Parte di una piscina destinata a contenere l’acqua.",
+      "Tratto percorso nuotando da un’estremità della piscina all’altra.",
+      "Contenitore utilizzato in ambito industriale, agricolo o tecnico per raccogliere o trattare liquidi.",
+      "Bacino che contiene l’acqua di una fontana, di un acquario o di un’altra struttura.",
+      "Nell’espressione fare le vasche, percorrere ripetutamente avanti e indietro la stessa strada."
+    ]
+  },
+
+  "nuance": {
+    "ja": "単独でla vascaと言うと、家庭内の文脈では通常「浴槽」を指す。より明確にはvasca da bagnoと言う。水泳ではuna vascaがプールの一端から反対側までの一区間を意味し、往復ならdue vascheとなる。piscinaは施設またはプール全体を指し、vascaは特に水をたたえる構造部分に注目する。serbatoioは通常、液体や気体を密閉または半密閉状態で貯蔵するタンクであり、上部が開いていることの多いvascaとは形状・用途が異なる。",
+    "it": "In un contesto domestico, la vasca indica normalmente la vasca da bagno. Nel nuoto, una vasca è il percorso da un’estremità della piscina all’altra; andare e tornare corrisponde quindi a due vasche. Piscina può indicare l’intero impianto, mentre vasca mette in rilievo la struttura che contiene l’acqua. Un serbatoio è generalmente destinato alla conservazione di liquidi o gas ed è spesso chiuso, mentre una vasca è tipicamente aperta nella parte superiore."
+  },
+
+  "etymology": {
+    "ja": "ラテン語vascaに由来し、一般にvascus「内側が空洞の、くぼんだ」の女性形が名詞化したものと説明される。液体を受け入れる「くぼんだ物」という具体的な意味から、水槽・浴槽・プールなどを表すようになった。同じ語からvaschetta「小型の容器、トレー」、vascone「大型槽」などが派生している。",
+    "it": "Dal latino vasca, generalmente interpretato come il femminile sostantivato di vascus, «concavo, vuoto all’interno». Dall’idea di una struttura incavata capace di contenere liquidi si sono sviluppati gli usi relativi al bagno, alle piscine e agli impianti tecnici. Dalla stessa base derivano vaschetta e vascone."
+  },
+
+  "minimal": [
+    {
+      "word": "vasca",
+      "ja": "液体をためる上部の開いた大型容器、または浴槽・プールの水槽部分",
+      "it": "grande recipiente aperto destinato a contenere liquidi, oppure struttura di un bagno o di una piscina"
+    },
+    {
+      "word": "vaschetta",
+      "ja": "食品・氷・小物などを入れる小型で浅い容器",
+      "it": "recipiente piccolo e generalmente poco profondo"
+    },
+    {
+      "word": "serbatoio",
+      "ja": "液体や気体を一定期間貯蔵する、通常は閉じたタンク",
+      "it": "contenitore generalmente chiuso destinato a conservare liquidi o gas"
+    },
+    {
+      "word": "piscina",
+      "ja": "水泳・遊泳用の水槽、またはそれを含む施設全体",
+      "it": "impianto o struttura contenente acqua destinata al nuoto e alla balneazione"
+    },
+    {
+      "word": "bacino",
+      "ja": "水を集めるくぼ地・貯水池・人工的な水域",
+      "it": "cavità naturale o artificiale nella quale si raccoglie una quantità d’acqua"
+    }
+  ],
+
+  "synonyms": [
+    "tinozza",
+    "bacino",
+    "recipiente",
+    "serbatoio",
+    "piscina"
+  ],
+
+  "equivalents": {
+    "en": [
+      "tub",
+      "bathtub",
+      "tank",
+      "pool length"
+    ],
+    "de": [
+      "Wanne",
+      "Badewanne",
+      "Becken",
+      "Schwimmbahnlänge"
+    ],
+    "fr": [
+      "bac",
+      "baignoire",
+      "bassin",
+      "longueur de piscine"
+    ],
+    "es": [
+      "bañera",
+      "tina",
+      "depósito",
+      "largo de piscina"
+    ]
+  },
+
+  "collocations": [
+    "vasca da bagno",
+    "vasca da bagno piena",
+    "vasca da bagno vuota",
+    "vasca da bagno con doccia",
+    "vasca idromassaggio",
+    "vasca termale",
+    "vasca olimpionica",
+    "vasca coperta",
+    "vasca all’aperto",
+    "vasca per bambini",
+    "vasca dell’acquario",
+    "vasca della fontana",
+    "vasca di raccolta",
+    "vasca di accumulo",
+    "vasca di decantazione",
+    "vasca di sedimentazione",
+    "vasca di depurazione",
+    "vasca di irrigazione",
+    "vasca in ceramica",
+    "vasca in marmo",
+    "vasca in cemento",
+    "riempire la vasca",
+    "riempire la vasca d’acqua",
+    "svuotare la vasca",
+    "pulire la vasca",
+    "lavare la vasca",
+    "entrare nella vasca",
+    "uscire dalla vasca",
+    "immergersi nella vasca",
+    "fare il bagno nella vasca",
+    "lasciare scorrere l’acqua nella vasca",
+    "il bordo della vasca",
+    "il fondo della vasca",
+    "il tappo della vasca",
+    "l’acqua della vasca",
+    "nuotare in vasca",
+    "fare una vasca",
+    "fare dieci vasche",
+    "completare una vasca",
+    "attraversare la vasca",
+    "fare le vasche in centro"
+  ],
+
+  "examples": [
+    {
+      "it": "Ho riempito la vasca d’acqua calda.",
+      "ja": "私は浴槽に温かいお湯をためました。"
+    },
+    {
+      "it": "Preferisci fare la doccia o il bagno nella vasca?",
+      "ja": "シャワーを浴びるのと浴槽につかるのでは、どちらがよいですか。"
+    },
+    {
+      "it": "La piscina dispone di una vasca olimpionica.",
+      "ja": "そのプール施設にはオリンピック規格のプールがあります。"
+    },
+    {
+      "it": "Ogni mattina nuota per venti vasche.",
+      "ja": "彼は毎朝プールを20区間泳ぎます。"
+    },
+    {
+      "it": "L’acqua viene raccolta in una grande vasca.",
+      "ja": "水は大きな槽に集められます。"
+    },
+    {
+      "it": "I pesci sono stati trasferiti in un’altra vasca.",
+      "ja": "魚は別の水槽へ移されました。"
+    },
+    {
+      "it": "Da ragazzi facevamo le vasche lungo il corso principale.",
+      "ja": "若いころ、私たちは目抜き通りを何度も行き来していました。"
+    }
+  ]
+},
+{
+  "id": "piscina",
+  "sid": "2026-00334",
+  "word": "piscina",
+  "ipa": "/piʃˈʃina/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "nome femminile"
+    },
+    "gender": "feminine",
+    "plural": "piscine",
+    "pattern": "la piscina / le piscine / andare in piscina / nuotare in piscina / piscina di + dimensione o tipo / piscina con + attrezzatura"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "sport",
+      "leisure",
+      "travel",
+      "hotel",
+      "home"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "水泳・水遊び・運動などのために水を張った人工的な設備",
+      "水泳プールを中心とする施設または建物全体",
+      "住宅・ホテル・庭園などに設置された遊泳用の水槽",
+      "競泳・飛び込み・水球などの競技に使用されるプール",
+      "温水・海水・温泉水などを満たした入浴・保養用の設備",
+      "古代・歴史的用法で、魚を飼育するための養魚池"
+    ],
+    "it": [
+      "Struttura artificiale riempita d’acqua e destinata al nuoto, al gioco o all’esercizio fisico.",
+      "Impianto o edificio comprendente una o più vasche e i relativi servizi.",
+      "Vasca per il nuoto installata presso un’abitazione, un albergo o un giardino.",
+      "Impianto utilizzato per gare di nuoto, tuffi, pallanuoto o altre discipline acquatiche.",
+      "Vasca contenente acqua riscaldata, marina o termale a scopo ricreativo o terapeutico.",
+      "Storicamente, bacino destinato all’allevamento o alla conservazione dei pesci."
+    ]
+  },
+
+  "nuance": {
+    "ja": "水をたたえた部分だけでなく、更衣室・シャワー・受付などを含む施設全体も表す。andare in piscinaは「プールへ行く」、essere in piscinaは「プール施設にいる」、nuotare in piscinaは「プールで泳ぐ」という意味になる。水槽部分を構造物として述べる場合はvascaを使い、una piscina con due vasche「水槽が二つあるプール施設」のように区別できる。海で泳ぐ場合はnuotare al mareと言い、通常piscinaは使わない。",
+    "it": "Può indicare sia la struttura contenente l’acqua sia l’intero impianto con spogliatoi, docce e altri servizi. Andare in piscina significa recarsi all’impianto; nuotare in piscina indica l’attività svolta al suo interno. Vasca mette maggiormente in rilievo il bacino che contiene l’acqua: una piscina può quindi comprendere più vasche. Per il nuoto in mare si usa normalmente nuotare al mare."
+  },
+
+  "etymology": {
+    "ja": "ラテン語piscīnaに由来し、piscis「魚」から形成された。古代ローマのpiscinaは、もともと魚を飼育・保存するための池や水槽を指した。その後、人が水浴びや水泳をするための水槽にも用いられるようになり、現代の「プール」という意味が中心になった。同じ語族にはpesce「魚」、pescare「釣る」、pescatore「漁師」、英語piscine「魚の」などがある。",
+    "it": "Dal latino piscīna, derivato da piscis, «pesce». Nell’antichità indicava originariamente una vasca o un bacino destinato all’allevamento e alla conservazione dei pesci. Il termine passò poi a designare le vasche utilizzate per il bagno e il nuoto. Alla stessa famiglia appartengono pesce, pescare, pescatore e ittico-piscicolo."
+  },
+
+  "minimal": [
+    {
+      "word": "piscina",
+      "ja": "水泳・運動・水遊びのための人工的なプール、またはその施設全体",
+      "it": "struttura artificiale destinata al nuoto o impianto che contiene una o più vasche"
+    },
+    {
+      "word": "vasca",
+      "ja": "液体をためる容器、またはプールの水をたたえる構造部分",
+      "it": "recipiente o bacino che contiene acqua o altri liquidi"
+    },
+    {
+      "word": "laghetto",
+      "ja": "庭園や公園などにある小さな天然または人工の池",
+      "it": "piccolo lago naturale o artificiale, spesso situato in un parco o in un giardino"
+    },
+    {
+      "word": "stabilimento balneare",
+      "ja": "海岸で更衣室・日傘・シャワーなどを提供する海水浴施設",
+      "it": "struttura attrezzata sulla spiaggia con cabine, ombrelloni e servizi"
+    },
+    {
+      "word": "terme",
+      "ja": "温泉水を利用した入浴・療養・保養施設",
+      "it": "complesso destinato ai bagni e ai trattamenti con acque termali"
+    }
+  ],
+
+  "synonyms": [
+    "impianto natatorio",
+    "vasca",
+    "centro natatorio",
+    "stabilimento natatorio",
+    "bacino artificiale"
+  ],
+
+  "equivalents": {
+    "en": [
+      "swimming pool",
+      "pool",
+      "swimming facility"
+    ],
+    "de": [
+      "Schwimmbad",
+      "Swimmingpool",
+      "Schwimmbecken"
+    ],
+    "fr": [
+      "piscine",
+      "bassin",
+      "centre aquatique"
+    ],
+    "es": [
+      "piscina",
+      "alberca",
+      "centro acuático"
+    ]
+  },
+
+  "collocations": [
+    "andare in piscina",
+    "venire in piscina",
+    "essere in piscina",
+    "nuotare in piscina",
+    "allenarsi in piscina",
+    "fare il bagno in piscina",
+    "tuffarsi in piscina",
+    "entrare in piscina",
+    "uscire dalla piscina",
+    "cadere in piscina",
+    "portare i bambini in piscina",
+    "iscriversi in piscina",
+    "frequentare una piscina",
+    "aprire una piscina",
+    "chiudere una piscina",
+    "costruire una piscina",
+    "riempire la piscina",
+    "svuotare la piscina",
+    "pulire la piscina",
+    "riscaldare la piscina",
+    "una piscina pubblica",
+    "una piscina privata",
+    "una piscina comunale",
+    "una piscina coperta",
+    "una piscina scoperta",
+    "una piscina all’aperto",
+    "una piscina al chiuso",
+    "una piscina riscaldata",
+    "una piscina olimpionica",
+    "una piscina termale",
+    "una piscina naturale",
+    "una piscina gonfiabile",
+    "una piscina per bambini",
+    "una piscina per tuffi",
+    "una piscina con due vasche",
+    "una piscina con acqua salata",
+    "la piscina dell’albergo",
+    "la piscina dell’hotel",
+    "la piscina di casa",
+    "il bordo della piscina",
+    "il fondo della piscina",
+    "l’acqua della piscina",
+    "la temperatura della piscina",
+    "l’ingresso della piscina",
+    "l’orario della piscina",
+    "il costume da piscina",
+    "la cuffia da piscina"
+  ],
+
+  "examples": [
+    {
+      "it": "Vado in piscina due volte alla settimana.",
+      "ja": "私は週に2回プールへ行きます。"
+    },
+    {
+      "it": "I bambini stanno giocando in piscina.",
+      "ja": "子供たちはプールで遊んでいます。"
+    },
+    {
+      "it": "L’albergo dispone di una piscina all’aperto.",
+      "ja": "そのホテルには屋外プールがあります。"
+    },
+    {
+      "it": "Prima di entrare in piscina bisogna fare la doccia.",
+      "ja": "プールに入る前にシャワーを浴びる必要があります。"
+    },
+    {
+      "it": "La piscina comunale chiude alle nove.",
+      "ja": "市営プールは9時に閉まります。"
+    },
+    {
+      "it": "Questa piscina ha una vasca olimpionica e una vasca per bambini.",
+      "ja": "このプール施設にはオリンピック規格のプールと子供用プールがあります。"
+    }
+  ]
+},
+{
+  "id": "bagno",
+  "sid": "2026-00335",
+  "word": "bagno",
+  "ipa": "/ˈbaɲɲo/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "nome maschile"
+    },
+    "gender": "masculine",
+    "plural": "bagni",
+    "pattern": "il bagno / i bagni / andare in bagno / fare il bagno / bagno in, di o con + sostanza / bagno da + tipo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "travel",
+      "hotel",
+      "health",
+      "leisure"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "浴槽・シャワー・洗面台などを備えた浴室",
+      "便器を備えたトイレ、化粧室",
+      "身体を水や湯に浸して洗うこと、入浴",
+      "海・川・湖・プールなどに入って泳いだり水浴びしたりすること",
+      "身体の一部を水・薬液などに浸す処置",
+      "物を液体・薬品・染料などに浸す工程またはその液体",
+      "公衆浴場・温泉・海水浴場などの入浴施設"
+    ],
+    "it": [
+      "Stanza dotata di sanitari, lavabo, doccia o vasca.",
+      "Locale contenente il gabinetto, indicato spesso in modo generico o cortese.",
+      "Azione di immergere il corpo nell’acqua per lavarsi o rilassarsi.",
+      "Azione di entrare in mare, in un lago, in un fiume o in piscina per nuotare o rinfrescarsi.",
+      "Trattamento che consiste nell’immergere il corpo o una sua parte in acqua o in un’altra sostanza.",
+      "Immersione di un oggetto in un liquido, in una soluzione chimica o in una sostanza colorante.",
+      "Struttura pubblica o termale destinata alla balneazione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "Dov’è il bagno?は旅行や飲食店で「トイレはどこですか」という最も一般的な尋ね方であり、浴槽の場所を質問しているわけではない。andare in bagnoも通常「トイレへ行く」を意味する。fare il bagnoは、自宅では「浴槽につかる」、海・湖・プールでは「泳ぐ、水浴びする」と文脈により意味が変わる。fare una docciaはシャワーを浴びること、vascaは液体をためる浴槽そのものを指す。",
+    "it": "Dov’è il bagno? è il modo più comune e neutro per chiedere dove si trovi la toilette. Anche andare in bagno indica normalmente l’andare alla toilette. Fare il bagno può significare lavarsi immergendosi nella vasca oppure nuotare e rinfrescarsi al mare, al lago o in piscina. Fare una doccia indica invece il lavarsi sotto la doccia, mentre vasca designa il recipiente nel quale ci si immerge."
+  },
+
+  "etymology": {
+    "ja": "ラテン語balneum「浴場、入浴」に由来し、さらに古代ギリシア語balaneîon「浴場」へさかのぼる。俗ラテン語で子音の変化と語形の縮約が起こり、イタリア語bagnoとなった。同じ語族にはbagnare「ぬらす」、bagnarsi「ぬれる、入浴する」、bagnato「ぬれた」、bagnante「海水浴客」などがある。英語balneology「温泉療法学」も同じギリシア・ラテン系の語源を持つ。",
+    "it": "Dal latino balneum, «bagno, stabilimento balneare», a sua volta derivato dal greco balaneîon, «luogo per il bagno». Attraverso l’evoluzione fonetica del latino parlato si è formato bagno. Alla stessa famiglia appartengono bagnare, bagnarsi, bagnato, bagnante e balneare."
+  },
+
+  "minimal": [
+    {
+      "word": "bagno",
+      "ja": "浴室・トイレとして使われる部屋、または入浴・水浴びという行為",
+      "it": "stanza con servizi igienici oppure azione di lavarsi o immergersi nell’acqua"
+    },
+    {
+      "word": "vasca",
+      "ja": "水や湯をためて身体を浸すための浴槽そのもの",
+      "it": "recipiente nel quale si raccoglie l’acqua per immergere il corpo"
+    },
+    {
+      "word": "doccia",
+      "ja": "上から流れる水で身体を洗う設備、またはその行為",
+      "it": "impianto che fa cadere acqua sul corpo oppure lavaggio effettuato con tale impianto"
+    },
+    {
+      "word": "toilette",
+      "ja": "トイレを指す、やや婉曲的または国際的な表現",
+      "it": "termine di origine francese usato come denominazione discreta del gabinetto"
+    },
+    {
+      "word": "servizi igienici",
+      "ja": "公共施設などでトイレを示す改まった一般的な表現",
+      "it": "espressione formale che indica i locali dotati di gabinetti e lavabi"
+    }
+  ],
+
+  "synonyms": [
+    "toilette",
+    "servizi igienici",
+    "gabinetto",
+    "lavabo",
+    "immersione",
+    "balneazione"
+  ],
+
+  "equivalents": {
+    "en": [
+      "bathroom",
+      "restroom",
+      "bath",
+      "swim"
+    ],
+    "de": [
+      "Badezimmer",
+      "Toilette",
+      "Bad",
+      "Baden"
+    ],
+    "fr": [
+      "salle de bains",
+      "toilettes",
+      "bain",
+      "baignade"
+    ],
+    "es": [
+      "baño",
+      "cuarto de baño",
+      "aseo",
+      "bañarse"
+    ]
+  },
+
+  "collocations": [
+    "andare in bagno",
+    "essere in bagno",
+    "entrare in bagno",
+    "uscire dal bagno",
+    "usare il bagno",
+    "cercare il bagno",
+    "chiedere dov’è il bagno",
+    "accompagnare qualcuno in bagno",
+    "aspettare fuori dal bagno",
+    "un bagno libero",
+    "un bagno occupato",
+    "un bagno pubblico",
+    "un bagno privato",
+    "un bagno in comune",
+    "un bagno interno",
+    "un bagno completo",
+    "un bagno di servizio",
+    "un bagno accessibile",
+    "un bagno pulito",
+    "un bagno sporco",
+    "pulire il bagno",
+    "lavare il bagno",
+    "ristrutturare il bagno",
+    "il pavimento del bagno",
+    "la porta del bagno",
+    "lo specchio del bagno",
+    "il mobile del bagno",
+    "gli asciugamani da bagno",
+    "fare il bagno",
+    "fare un bagno caldo",
+    "fare un bagno freddo",
+    "fare un bagno rilassante",
+    "preparare il bagno",
+    "riempire la vasca per il bagno",
+    "fare il bagno nella vasca",
+    "fare il bagno al mare",
+    "fare il bagno nel lago",
+    "fare il bagno in piscina",
+    "non fare il bagno",
+    "costume da bagno",
+    "sala da bagno",
+    "bagno turco",
+    "bagno termale",
+    "bagno pubblico",
+    "bagno di vapore",
+    "bagno di sole",
+    "bagno di colore",
+    "bagno chimico",
+    "bagno galvanico",
+    "bagno per i piedi",
+    "stabilimento balneare"
+  ],
+
+  "examples": [
+    {
+      "it": "Scusi, dov’è il bagno?",
+      "ja": "すみません、トイレはどこですか。"
+    },
+    {
+      "it": "Il nostro appartamento ha due camere e un bagno.",
+      "ja": "私たちのアパートには寝室が二つと浴室が一つあります。"
+    },
+    {
+      "it": "Dopo il lavoro ho fatto un bagno caldo.",
+      "ja": "仕事のあと、私は温かい風呂に入りました。"
+    },
+    {
+      "it": "I bambini stanno facendo il bagno in mare.",
+      "ja": "子供たちは海で泳いでいます。"
+    },
+    {
+      "it": "Oggi l’acqua è troppo fredda per fare il bagno.",
+      "ja": "今日は水が冷たすぎて泳げません。"
+    },
+    {
+      "it": "Il medico mi ha consigliato un bagno caldo per i piedi.",
+      "ja": "医師は私に温かい足湯を勧めました。"
+    },
+    {
+      "it": "Il metallo viene immerso in un bagno chimico.",
+      "ja": "その金属は薬液槽に浸されます。"
+    }
+  ]
+},
+{
+  "id": "stanza",
+  "sid": "2026-00336",
+  "word": "stanza",
+  "ipa": "/ˈstantsa/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "nome femminile"
+    },
+    "gender": "feminine",
+    "plural": "stanze",
+    "pattern": "la stanza / le stanze / stanza da + funzione / stanza di + persona o struttura / entrare in una stanza / uscire da una stanza"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "hotel",
+      "travel",
+      "work",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "壁・床・天井で区切られた建物内の部屋",
+      "住宅やホテルで睡眠・仕事・食事など特定の目的に使われる空間",
+      "ホテル・下宿・共同住宅などで個人に割り当てられた客室",
+      "ある人が使用または居住している部屋",
+      "詩を構成する複数の詩行のまとまり、連、節",
+      "特定の活動・機能・機器のために設けられた区画"
+    ],
+    "it": [
+      "Spazio interno di un edificio delimitato da pareti, pavimento e soffitto.",
+      "Ambiente di una casa o di un’altra struttura destinato a una determinata funzione.",
+      "Camera assegnata a una persona in un albergo, in una pensione o in un’abitazione condivisa.",
+      "Ambiente utilizzato o abitato da una determinata persona.",
+      "In poesia, gruppo organizzato di versi che costituisce una parte del componimento.",
+      "Ambiente predisposto per una particolare attività, funzione o apparecchiatura."
+    ]
+  },
+
+  "nuance": {
+    "ja": "建物内の「部屋」を広く表す最も一般的な語の一つである。cameraは特にcamera da letto「寝室」やcamera d’albergo「ホテルの客室」を指すことが多いが、stanzaは用途を限定せず、居間・仕事部屋・空き部屋などにも使える。salaは通常、人が集まる比較的大きな部屋、localeは不動産・行政・技術的な文脈で一つの室内空間を客観的に示す。詩の意味のstanzaは英語にもそのまま借用されている。",
+    "it": "È uno dei termini più generali per indicare un ambiente interno di un edificio. Camera designa spesso una camera da letto o una camera d’albergo, mentre stanza non specifica necessariamente la funzione dell’ambiente. Sala indica normalmente un locale più ampio destinato alla presenza di più persone; locale è frequente nel linguaggio immobiliare, amministrativo o tecnico. Nel linguaggio poetico, stanza indica un gruppo strutturato di versi."
+  },
+
+  "etymology": {
+    "ja": "俗ラテン語または中世ラテン語stantia「滞在する場所、住居」に由来し、これはラテン語stāre「立つ、とどまる」の現在分詞stānsと関係する。もともとは人が「とどまる場所」を意味し、そこから建物内の部屋を指すようになった。さらに詩人が一定の形式の中に「とどまる」詩行のまとまりをstanzaと呼び、この文学的意味が英語・フランス語・ドイツ語などへ借用された。",
+    "it": "Dal latino medievale stantia, «luogo in cui si sta, dimora», collegato al verbo latino stāre, «stare, fermarsi». Il significato passò dal luogo di permanenza all’ambiente interno di un edificio. Nel linguaggio poetico stanza assunse il valore di gruppo ordinato di versi; con questo significato il termine italiano fu adottato anche dall’inglese e da altre lingue europee."
+  },
+
+  "minimal": [
+    {
+      "word": "stanza",
+      "ja": "用途を限定せず、建物内の壁で区切られた部屋を広く表す",
+      "it": "ambiente interno delimitato da pareti, senza indicarne necessariamente la funzione"
+    },
+    {
+      "word": "camera",
+      "ja": "主に寝室、ホテルの客室、または私的に使用する部屋",
+      "it": "stanza destinata soprattutto al sonno, all’alloggio o a un uso privato"
+    },
+    {
+      "word": "sala",
+      "ja": "会議・食事・待機・催しなどに使われる比較的大きな部屋",
+      "it": "ambiente generalmente ampio destinato a riunioni, pasti, attese o eventi"
+    },
+    {
+      "word": "locale",
+      "ja": "不動産・行政・技術的な文脈で捉えた一つの室内空間",
+      "it": "spazio interno considerato soprattutto dal punto di vista tecnico, immobiliare o funzionale"
+    },
+    {
+      "word": "appartamento",
+      "ja": "複数の部屋や設備から構成される独立した住居",
+      "it": "abitazione autonoma composta normalmente da più stanze e servizi"
+    }
+  ],
+
+  "synonyms": [
+    "camera",
+    "ambiente",
+    "locale",
+    "vano",
+    "sala",
+    "strofa"
+  ],
+
+  "equivalents": {
+    "en": [
+      "room",
+      "chamber",
+      "stanza"
+    ],
+    "de": [
+      "Zimmer",
+      "Raum",
+      "Strophe"
+    ],
+    "fr": [
+      "pièce",
+      "chambre",
+      "strophe"
+    ],
+    "es": [
+      "habitación",
+      "cuarto",
+      "estancia",
+      "estrofa"
+    ]
+  },
+
+  "collocations": [
+    "una stanza grande",
+    "una stanza piccola",
+    "una stanza luminosa",
+    "una stanza buia",
+    "una stanza silenziosa",
+    "una stanza rumorosa",
+    "una stanza vuota",
+    "una stanza piena",
+    "una stanza libera",
+    "una stanza occupata",
+    "una stanza singola",
+    "una stanza doppia",
+    "una stanza privata",
+    "una stanza condivisa",
+    "una stanza ammobiliata",
+    "una stanza in affitto",
+    "stanza da letto",
+    "stanza da bagno",
+    "stanza da pranzo",
+    "stanza degli ospiti",
+    "stanza dei bambini",
+    "stanza di servizio",
+    "stanza d’albergo",
+    "stanza d’ospedale",
+    "stanza di lavoro",
+    "stanza per le riunioni",
+    "entrare nella stanza",
+    "uscire dalla stanza",
+    "attraversare la stanza",
+    "rimanere nella stanza",
+    "aspettare nella stanza",
+    "dormire nella stanza",
+    "chiudersi in una stanza",
+    "guardarsi intorno nella stanza",
+    "aprire la porta della stanza",
+    "chiudere la porta della stanza",
+    "pulire la stanza",
+    "ordinare la stanza",
+    "riordinare la stanza",
+    "arieggiare la stanza",
+    "riscaldare la stanza",
+    "raffreddare la stanza",
+    "illuminare la stanza",
+    "prenotare una stanza",
+    "affittare una stanza",
+    "condividere una stanza",
+    "il centro della stanza",
+    "l’angolo della stanza",
+    "le pareti della stanza",
+    "la finestra della stanza",
+    "la stanza dei bottoni",
+    "una stanza poetica",
+    "la prima stanza della poesia"
+  ],
+
+  "examples": [
+    {
+      "it": "La mia stanza è al secondo piano.",
+      "ja": "私の部屋は3階にあります。"
+    },
+    {
+      "it": "Abbiamo prenotato una stanza per due notti.",
+      "ja": "私たちは2泊分の部屋を予約しました。"
+    },
+    {
+      "it": "Quando sono entrato, la stanza era vuota.",
+      "ja": "私が入ったとき、部屋には誰もいませんでした。"
+    },
+    {
+      "it": "Puoi aprire la finestra e arieggiare la stanza?",
+      "ja": "窓を開けて部屋の空気を入れ替えてもらえますか。"
+    },
+    {
+      "it": "I due bambini condividono la stessa stanza.",
+      "ja": "その二人の子供は同じ部屋を使っています。"
+    },
+    {
+      "it": "La riunione si terrà nella stanza accanto.",
+      "ja": "会議は隣の部屋で開かれます。"
+    },
+    {
+      "it": "La poesia è composta da quattro stanze.",
+      "ja": "その詩は四つの連から構成されています。"
+    }
+  ]
+},
+{
+  "id": "camera",
+  "sid": "2026-00337",
+  "word": "camera",
+  "ipa": "/ˈkamera/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "nome femminile"
+    },
+    "gender": "feminine",
+    "plural": "camere",
+    "pattern": "la camera / le camere / camera da + funzione / camera di + struttura o istituzione / prenotare una camera / essere in camera"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "hotel",
+      "travel",
+      "politics",
+      "business",
+      "technology"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "住宅内で主に睡眠のために使う部屋、寝室",
+      "ホテル・旅館・病院などで個人に割り当てられる客室・病室",
+      "特定の用途のために設けられた閉じた空間や区画",
+      "議会を構成する一方の院、特にイタリアの代議院",
+      "Camera di commercioの形で、商工会議所",
+      "裁判・行政・専門的審査などを行う会議体または非公開の部屋",
+      "機械・装置内部の密閉された空間",
+      "camera oscuraなど、撮影・光学に関する装置または空間"
+    ],
+    "it": [
+      "Stanza di un’abitazione destinata soprattutto al riposo e al sonno.",
+      "Stanza assegnata a un ospite in un albergo o a un paziente in una struttura sanitaria.",
+      "Spazio chiuso predisposto per una particolare funzione.",
+      "Ciascuna delle assemblee che compongono un parlamento, in particolare la Camera dei deputati.",
+      "Nell’espressione Camera di commercio, ente che rappresenta e registra le attività economiche di un territorio.",
+      "Organo collegiale o ambiente riservato nel quale si svolgono determinate deliberazioni.",
+      "Spazio chiuso presente all’interno di una macchina o di un dispositivo.",
+      "Ambiente o dispositivo connesso alla fotografia e all’ottica."
+    ]
+  },
+
+  "nuance": {
+    "ja": "家庭についてcameraと言うと通常はcamera da letto「寝室」が想起される。ホテルではcameraだけで「客室」を意味し、Vorrei prenotare una cameraのように使う。stanzaは用途を問わず建物内の部屋を広く指すため、すべてのcamereはstanzeであるが、すべてのstanzeがcamere da lettoとは限らない。なお、現代イタリア語で一般的な写真機はmacchina fotograficaであり、英語の影響によるcameraも見られるが、単独のcameraはまず「部屋」と理解される。",
+    "it": "In una casa, camera richiama normalmente la camera da letto. In albergo può essere usato da solo con il significato di camera per gli ospiti. Stanza è più generale e non specifica la funzione dell’ambiente: una camera è una stanza, ma non ogni stanza è una camera da letto. Per indicare l’apparecchio fotografico, il termine tradizionale e più chiaro è macchina fotografica; camera da sola continua a significare innanzitutto una stanza."
+  },
+
+  "etymology": {
+    "ja": "ラテン語cameraまたはcamara「丸天井の部屋」に由来し、さらに古代ギリシア語kamára「丸天井、アーチ状の覆い」へさかのぼる。丸天井で覆われた空間から、一般的な「部屋」の意味が生じた。camera obscura「暗い部屋」は小さな穴から入る光によって外の像を投影する装置であり、この表現から英語camera「カメラ」が成立した。同じ語族にはcameriere、camerino、camerataなどがある。",
+    "it": "Dal latino camera o camara, «ambiente coperto da una volta», a sua volta dal greco kamára, «volta, struttura arcuata». Dal significato di spazio coperto si sviluppò quello generale di stanza. L’espressione camera oscura indicava un ambiente nel quale la luce proiettava un’immagine; da questa espressione deriva il significato moderno dell’inglese camera come apparecchio fotografico."
+  },
+
+  "minimal": [
+    {
+      "word": "camera",
+      "ja": "主に寝室、ホテルの客室、または個人に割り当てられた部屋",
+      "it": "stanza destinata soprattutto al sonno, all’alloggio o a un uso privato"
+    },
+    {
+      "word": "stanza",
+      "ja": "用途を限定せず、建物内の壁で区切られた部屋全般",
+      "it": "ambiente interno delimitato da pareti, senza indicarne necessariamente la funzione"
+    },
+    {
+      "word": "sala",
+      "ja": "会議・食事・待機・催しなどに使う比較的大きな部屋",
+      "it": "ambiente generalmente ampio destinato a riunioni, pasti, attese o eventi"
+    },
+    {
+      "word": "appartamento",
+      "ja": "寝室・居間・台所など複数の部屋から構成される独立した住居",
+      "it": "abitazione autonoma composta da più stanze e servizi"
+    },
+    {
+      "word": "macchina fotografica",
+      "ja": "写真を撮影するためのカメラ",
+      "it": "apparecchio utilizzato per scattare fotografie"
+    }
+  ],
+
+  "synonyms": [
+    "stanza",
+    "ambiente",
+    "locale",
+    "vano",
+    "camera da letto",
+    "assemblea"
+  ],
+
+  "equivalents": {
+    "en": [
+      "bedroom",
+      "hotel room",
+      "chamber",
+      "house"
+    ],
+    "de": [
+      "Zimmer",
+      "Schlafzimmer",
+      "Hotelzimmer",
+      "Kammer"
+    ],
+    "fr": [
+      "chambre",
+      "pièce",
+      "chambre d’hôtel",
+      "assemblée"
+    ],
+    "es": [
+      "habitación",
+      "dormitorio",
+      "cuarto",
+      "cámara"
+    ]
+  },
+
+  "collocations": [
+    "camera da letto",
+    "camera matrimoniale",
+    "camera singola",
+    "camera doppia",
+    "camera tripla",
+    "camera familiare",
+    "camera privata",
+    "camera condivisa",
+    "camera comunicante",
+    "camera ammobiliata",
+    "camera libera",
+    "camera occupata",
+    "camera disponibile",
+    "camera con bagno",
+    "camera con balcone",
+    "camera con vista",
+    "camera con aria condizionata",
+    "camera d’albergo",
+    "camera degli ospiti",
+    "camera dei bambini",
+    "camera del paziente",
+    "entrare in camera",
+    "uscire dalla camera",
+    "rimanere in camera",
+    "dormire in camera",
+    "tornare in camera",
+    "portare qualcosa in camera",
+    "fare colazione in camera",
+    "prenotare una camera",
+    "riservare una camera",
+    "cambiare camera",
+    "condividere una camera",
+    "affittare una camera",
+    "mostrare la camera",
+    "pulire la camera",
+    "riordinare la camera",
+    "rifare la camera",
+    "la chiave della camera",
+    "il numero della camera",
+    "la porta della camera",
+    "il servizio in camera",
+    "Camera dei deputati",
+    "Camera di commercio",
+    "camera di consiglio",
+    "camera oscura",
+    "camera blindata",
+    "camera sterile",
+    "camera di sicurezza",
+    "camera di combustione",
+    "camera d’aria",
+    "camera di decompressione"
+  ],
+
+  "examples": [
+    {
+      "it": "La mia camera è piccola ma luminosa.",
+      "ja": "私の寝室は小さいですが、明るいです。"
+    },
+    {
+      "it": "Vorrei prenotare una camera singola per tre notti.",
+      "ja": "シングルルームを3泊予約したいのですが。"
+    },
+    {
+      "it": "La camera ha un balcone con vista sul mare.",
+      "ja": "その客室には海の見えるバルコニーがあります。"
+    },
+    {
+      "it": "I bambini stanno giocando nella loro camera.",
+      "ja": "子供たちは自分たちの部屋で遊んでいます。"
+    },
+    {
+      "it": "Possiamo fare colazione in camera?",
+      "ja": "客室で朝食を取ることはできますか。"
+    },
+    {
+      "it": "La proposta sarà discussa alla Camera dei deputati.",
+      "ja": "その提案は代議院で審議されます。"
+    },
+    {
+      "it": "La Camera di commercio ha pubblicato i nuovi dati.",
+      "ja": "商工会議所は新しいデータを公表しました。"
+    }
+  ]
+},
+{
+  "id": "cameriere",
+  "sid": "2026-00338",
+  "word": "cameriere",
+  "ipa": "/kameˈrjɛre/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞・女性形 cameriera",
+      "it": "nome maschile; femminile cameriera"
+    },
+    "gender": "masculine",
+    "feminine": "cameriera",
+    "plural": "camerieri; femminile cameriere",
+    "pattern": "il cameriere / la cameriera / i camerieri / le cameriere / cameriere di + luogo / cameriere ai piani"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "restaurant",
+      "bar",
+      "hotel",
+      "travel",
+      "work"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "レストラン・食堂などで注文を取り、料理や飲み物を運ぶ給仕、ウェイター",
+      "カフェ・バーなどで客席への給仕を担当する従業員",
+      "ホテルで客室の清掃・整備を担当する係員",
+      "船・列車・高級施設などで乗客や利用者の世話をする給仕係",
+      "歴史的用法で、宮廷や貴族の私室に仕える従者"
+    ],
+    "it": [
+      "Persona che in un ristorante prende le ordinazioni e serve cibi e bevande ai clienti.",
+      "Addetto al servizio ai tavoli in un bar, in un caffè o in un altro locale.",
+      "Dipendente di un albergo incaricato della pulizia e della sistemazione delle camere.",
+      "Addetto all’assistenza e al servizio dei passeggeri su una nave, un treno o in una struttura di lusso.",
+      "Storicamente, servitore addetto alle camere private di una corte o di una famiglia nobile."
+    ]
+  },
+
+  "nuance": {
+    "ja": "現代の日常語では、単独のcameriereは通常レストランなどの「ウェイター」を意味し、女性はcamerieraという。ホテルの客室係を明確にする場合はcameriere ai pianiまたはcameriera ai pianiを使う。baristaはバーカウンターでコーヒーや飲み物を作る人、cuocoは調理人、commessoは店舗の販売員である。客として呼びかける際にCameriere!と言うことも可能だが、強く叫ぶとぶっきらぼうに聞こえるため、Scusi!のほうが一般に丁寧である。",
+    "it": "Nell’uso quotidiano, cameriere indica normalmente chi serve ai tavoli in un ristorante. La forma femminile è cameriera. Per il personale che pulisce e sistema le camere d’albergo si specifica cameriere o cameriera ai piani. Il barista prepara e serve bevande soprattutto al banco, il cuoco lavora in cucina e il commesso assiste i clienti in un negozio. Per richiamare l’attenzione del personale è spesso più cortese dire Scusi! che gridare Cameriere!"
+  },
+
+  "etymology": {
+    "ja": "名詞camera「部屋」に職業・役割を表す接尾辞-iereが付いた語で、もともとは宮廷や貴族のcamera「私室」に仕える従者を意味した。私室で主人の身の回りの世話をする役割から、宿泊施設や食事の場で客に奉仕する人へと意味が広がった。同じ形成を持つ語にはportiere「門番、受付係」、giardiniere「庭師」、cavaliere「騎士」などがある。",
+    "it": "Deriva da camera con il suffisso professionale -iere. In origine indicava il servitore addetto alla camera privata di un sovrano o di un nobile. Dal servizio personale svolto nelle stanze il significato si estese al personale degli alberghi e quindi a chi serve cibi e bevande ai tavoli. Presentano lo stesso suffisso parole come portiere, giardiniere e cavaliere."
+  },
+
+  "minimal": [
+    {
+      "word": "cameriere",
+      "ja": "レストランなどで注文を取り、客席へ料理や飲み物を運ぶ人",
+      "it": "persona che prende le ordinazioni e serve cibi e bevande ai tavoli"
+    },
+    {
+      "word": "barista",
+      "ja": "バーカウンターでコーヒー・酒・飲み物などを準備して提供する人",
+      "it": "persona che prepara e serve caffè, bevande e altri prodotti soprattutto al banco"
+    },
+    {
+      "word": "cuoco",
+      "ja": "厨房で料理を作る調理人、料理人",
+      "it": "persona che prepara e cucina i piatti in una cucina professionale"
+    },
+    {
+      "word": "commesso",
+      "ja": "店内で商品を販売し、客の応対をする販売員",
+      "it": "persona che assiste i clienti e vende prodotti in un negozio"
+    },
+    {
+      "word": "maître",
+      "ja": "レストランの客席部門を統括し、案内や給仕を管理する責任者",
+      "it": "responsabile della sala che coordina il servizio e accoglie i clienti"
+    }
+  ],
+
+  "synonyms": [
+    "addetto di sala",
+    "personale di sala",
+    "servitore",
+    "inserviente",
+    "garzone"
+  ],
+
+  "equivalents": {
+    "en": [
+      "waiter",
+      "server",
+      "room attendant",
+      "steward"
+    ],
+    "de": [
+      "Kellner",
+      "Bedienung",
+      "Zimmerkellner",
+      "Steward"
+    ],
+    "fr": [
+      "serveur",
+      "garçon de café",
+      "employé d’étage",
+      "steward"
+    ],
+    "es": [
+      "camarero",
+      "mesero",
+      "mozo",
+      "camarero de pisos"
+    ]
+  },
+
+  "collocations": [
+    "chiamare il cameriere",
+    "aspettare il cameriere",
+    "parlare con il cameriere",
+    "chiedere al cameriere",
+    "ordinare al cameriere",
+    "lasciare la mancia al cameriere",
+    "ringraziare il cameriere",
+    "il cameriere prende l’ordinazione",
+    "il cameriere porta il menù",
+    "il cameriere serve il pranzo",
+    "il cameriere serve la cena",
+    "il cameriere porta i piatti",
+    "il cameriere porta le bevande",
+    "il cameriere sparecchia il tavolo",
+    "il cameriere prepara il tavolo",
+    "il cameriere consiglia un piatto",
+    "il cameriere presenta il conto",
+    "lavorare come cameriere",
+    "fare il cameriere",
+    "cercare lavoro come cameriere",
+    "assumere un cameriere",
+    "un cameriere gentile",
+    "un cameriere cortese",
+    "un cameriere professionale",
+    "un cameriere esperto",
+    "un cameriere giovane",
+    "un cameriere disponibile",
+    "un cameriere distratto",
+    "un cameriere di ristorante",
+    "un cameriere di sala",
+    "un cameriere di bordo",
+    "un cameriere ai piani",
+    "una cameriera ai piani",
+    "la divisa del cameriere",
+    "il vassoio del cameriere",
+    "il grembiule del cameriere",
+    "il turno del cameriere",
+    "il lavoro del cameriere",
+    "il personale dei camerieri",
+    "cameriere, per favore",
+    "scusi, possiamo ordinare"
+  ],
+
+  "examples": [
+    {
+      "it": "Il cameriere ci ha portato il menù.",
+      "ja": "ウェイターが私たちにメニューを持ってきました。"
+    },
+    {
+      "it": "Possiamo chiedere il conto al cameriere.",
+      "ja": "ウェイターに会計をお願いできます。"
+    },
+    {
+      "it": "La cameriera ha consigliato il piatto del giorno.",
+      "ja": "ウェイトレスは本日の料理を勧めてくれました。"
+    },
+    {
+      "it": "Mio fratello lavora come cameriere in un ristorante italiano.",
+      "ja": "私の兄弟はイタリア料理店でウェイターとして働いています。"
+    },
+    {
+      "it": "Scusi, possiamo ordinare?",
+      "ja": "すみません、注文してもよいですか。"
+    },
+    {
+      "it": "Abbiamo lasciato una mancia al cameriere.",
+      "ja": "私たちはウェイターにチップを残しました。"
+    },
+    {
+      "it": "La cameriera ai piani pulisce le camere ogni mattina.",
+      "ja": "客室係は毎朝、客室を清掃します。"
+    }
+  ]
+},
+{
+  "id": "bene",
+  "sid": "2026-00339",
+  "word": "bene",
+  "ipa": "/ˈbɛne/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "副詞・間投詞・男性名詞",
+      "it": "avverbio, interiezione e nome maschile"
+    },
+    "invariable": true,
+    "plural": "beni（名詞用法）",
+    "comparative": "meglio",
+    "superlative": "benissimo / molto bene",
+    "pattern": "verbo + bene / stare bene / andare bene / fare bene a qualcuno / bene! / il bene / i beni"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "business",
+      "education",
+      "health",
+      "evaluation",
+      "law",
+      "economics"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "良い方法・状態で、うまく、適切に",
+      "十分に、詳しく、正確に",
+      "健康・気分・体調が良く",
+      "都合よく、問題なく、期待どおりに",
+      "Va bene.などで、よい、分かった、承知した、大丈夫だ",
+      "間投詞として、よし、それでは、さて",
+      "名詞として、善、正しいこと、幸福、利益",
+      "複数形beniで、財産・資産・物品・商品"
+    ],
+    "it": [
+      "In modo buono, corretto, soddisfacente o appropriato.",
+      "In maniera completa, approfondita o precisa.",
+      "In buone condizioni fisiche, psicologiche o emotive.",
+      "In modo conveniente, regolare o conforme alle aspettative.",
+      "Nell’espressione va bene, indica accordo, accettazione o assenza di problemi.",
+      "Come interiezione, introduce una decisione, una conclusione o il passaggio a un nuovo punto.",
+      "Come nome, ciò che è moralmente giusto, utile o favorevole.",
+      "Al plurale beni, oggetti, proprietà, risorse o valori economicamente rilevanti."
+    ]
+  },
+
+  "nuance": {
+    "ja": "副詞beneは主に動詞を修飾し、parlare bene「上手に話す」、lavorare bene「よく働く」のように使う。これに対してbuonoは形容詞で、un buon libro「良い本」のように名詞を修飾する。Sono buonoは「私は善良だ」、Sto beneは「私は元気だ」であり、意味が異なる。比較級はpiù beneではなく通常meglioを使う。形容詞・過去分詞の前ではben fatto「よくできた」のようにbenとなることが多い。名詞用法では単数il beneが「善・利益」、複数i beniが「財産・物品」を表す。",
+    "it": "Come avverbio modifica soprattutto un verbo: parlare bene, lavorare bene. Buono è invece un aggettivo e accompagna un nome: un buon libro. Sono buono significa che ho un carattere moralmente positivo, mentre sto bene indica una buona condizione fisica o emotiva. Il comparativo normale è meglio, non più bene. Davanti ad aggettivi e participi compare spesso la forma apocopata ben: ben fatto, ben noto. Come nome, il bene indica ciò che è giusto o vantaggioso; i beni sono proprietà, risorse o oggetti."
+  },
+
+  "etymology": {
+    "ja": "ラテン語bene「よく」に直接由来する。beneは形容詞bonus「良い」の副詞形であり、イタリア語でもbuonoとbeneの関係として受け継がれた。名詞il bene「善・利益」は副詞が名詞化したものではなく、ラテン語bonum「良いもの、善」に対応する意味をbeneが担うようになったものである。英語benefit、benevolent、benedictionなどのbene-も同じラテン語の「良い」という要素に由来する。",
+    "it": "Continua direttamente il latino bene, avverbio collegato a bonus, «buono». La relazione latina tra bonus e bene si conserva nell’italiano buono e bene. Nell’uso sostantivato ha assunto anche i significati di «ciò che è buono», «vantaggio» e «proprietà». Lo stesso elemento latino bene- compare in parole internazionali come beneficio, benevolo e benedizione."
+  },
+
+  "minimal": [
+    {
+      "word": "bene",
+      "ja": "行為が良い方法・状態で行われることを表す副詞",
+      "it": "avverbio che indica che un’azione si svolge in modo buono o soddisfacente"
+    },
+    {
+      "word": "buono",
+      "ja": "人・物・食べ物などの性質が良いことを表す形容詞",
+      "it": "aggettivo che attribuisce una qualità positiva a una persona o a una cosa"
+    },
+    {
+      "word": "bravo",
+      "ja": "人がある活動に熟練している、または立派であることを表す形容詞",
+      "it": "aggettivo che indica capacità, competenza o comportamento apprezzabile"
+    },
+    {
+      "word": "meglio",
+      "ja": "beneの比較級として、よりよく、よりうまく",
+      "it": "comparativo di bene, con il significato di «in modo migliore»"
+    },
+    {
+      "word": "male",
+      "ja": "悪い方法・状態で、うまくいかずに",
+      "it": "in modo cattivo, scorretto, doloroso o insoddisfacente"
+    }
+  ],
+
+  "synonyms": [
+    "correttamente",
+    "adeguatamente",
+    "ottimamente",
+    "favorevolmente",
+    "perfettamente",
+    "d’accordo"
+  ],
+
+  "equivalents": {
+    "en": [
+      "well",
+      "fine",
+      "all right",
+      "good",
+      "property"
+    ],
+    "de": [
+      "gut",
+      "wohl",
+      "in Ordnung",
+      "das Gute",
+      "Güter"
+    ],
+    "fr": [
+      "bien",
+      "d’accord",
+      "le bien",
+      "les biens"
+    ],
+    "es": [
+      "bien",
+      "de acuerdo",
+      "el bien",
+      "los bienes"
+    ]
+  },
+
+  "collocations": [
+    "stare bene",
+    "sentirsi bene",
+    "dormire bene",
+    "mangiare bene",
+    "vivere bene",
+    "lavorare bene",
+    "studiare bene",
+    "parlare bene",
+    "scrivere bene",
+    "leggere bene",
+    "capire bene",
+    "conoscere bene",
+    "ricordare bene",
+    "ascoltare bene",
+    "vedere bene",
+    "sentire bene",
+    "spiegare bene",
+    "pronunciare bene",
+    "cucinare bene",
+    "vestirsi bene",
+    "comportarsi bene",
+    "trattare bene qualcuno",
+    "fare bene qualcosa",
+    "fare bene a qualcuno",
+    "voler bene a qualcuno",
+    "andare bene",
+    "funzionare bene",
+    "finire bene",
+    "cominciare bene",
+    "procedere bene",
+    "tutto bene",
+    "molto bene",
+    "abbastanza bene",
+    "piuttosto bene",
+    "veramente bene",
+    "perfettamente bene",
+    "bene o male",
+    "per bene",
+    "va bene",
+    "andrà bene",
+    "sta bene",
+    "ti sta bene",
+    "se ho capito bene",
+    "se ricordo bene",
+    "fare del bene",
+    "volere il bene di qualcuno",
+    "per il bene comune",
+    "distinguere il bene dal male",
+    "un bene pubblico",
+    "un bene privato",
+    "un bene culturale",
+    "un bene immobile",
+    "beni mobili",
+    "beni immobili",
+    "beni di consumo",
+    "beni e servizi",
+    "ben fatto",
+    "ben detto",
+    "ben noto",
+    "ben organizzato"
+  ],
+
+  "examples": [
+    {
+      "it": "Parla italiano molto bene.",
+      "ja": "彼女はイタリア語をとても上手に話します。"
+    },
+    {
+      "it": "Oggi non mi sento molto bene.",
+      "ja": "今日はあまり体調がよくありません。"
+    },
+    {
+      "it": "Va bene, ci vediamo domani alle nove.",
+      "ja": "分かりました。明日の9時に会いましょう。"
+    },
+    {
+      "it": "Il nuovo sistema funziona bene.",
+      "ja": "新しいシステムはうまく機能しています。"
+    },
+    {
+      "it": "Se ho capito bene, la riunione è stata rimandata.",
+      "ja": "私の理解が正しければ、会議は延期されたのですね。"
+    },
+    {
+      "it": "Voglio molto bene alla mia famiglia.",
+      "ja": "私は家族をとても大切に思っています。"
+    },
+    {
+      "it": "Dobbiamo agire per il bene comune.",
+      "ja": "私たちは公共の利益のために行動しなければなりません。"
+    },
+    {
+      "it": "L’azienda possiede diversi beni immobili.",
+      "ja": "その会社はいくつかの不動産を所有しています。"
+    }
+  ]
+},
+{
+  "id": "male",
+  "sid": "2026-00340",
+  "word": "male",
+  "ipa": "/ˈmale/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "副詞・男性名詞",
+      "it": "avverbio e nome maschile"
+    },
+    "invariable": true,
+    "plural": "mali（名詞用法）",
+    "comparative": "peggio",
+    "superlative": "malissimo / molto male",
+    "pattern": "verbo + male / stare male / sentirsi male / fare male a qualcuno / avere male a + parte del corpo / il male / i mali"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "health",
+      "evaluation",
+      "relationships",
+      "ethics"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "悪い方法・状態で、うまくいかずに、不適切に",
+      "不十分に、誤って、期待に反して",
+      "健康状態や気分が悪く、具合が悪く",
+      "苦痛・不快感・悲しみなどを伴って",
+      "名詞として、身体の痛みや不調",
+      "病気・疾患・社会問題などの好ましくない状態",
+      "損害・害悪・不利益",
+      "道徳的な悪、邪悪な行為や性質"
+    ],
+    "it": [
+      "In modo cattivo, scorretto, inadeguato o insoddisfacente.",
+      "In maniera insufficiente, erronea o contraria alle aspettative.",
+      "In cattive condizioni fisiche, psicologiche o emotive.",
+      "Con dolore, disagio, tristezza o sofferenza.",
+      "Come nome, dolore o disturbo localizzato in una parte del corpo.",
+      "Malattia, problema o condizione negativa che colpisce una persona o la società.",
+      "Danno, conseguenza negativa o ciò che produce sofferenza.",
+      "In senso morale, ciò che è ingiusto, cattivo o contrario al bene."
+    ]
+  },
+
+  "nuance": {
+    "ja": "副詞maleは動詞を修飾し、parlare male「下手に話す」、lavorare male「よくない働き方をする」のように使う。形容詞として名詞を修飾する場合は通常cattivoまたはbruttoを使う。Sto maleは「具合が悪い」、Mi fa male la testaは「頭が痛い」、Mi sono fatto maleは「けがをした」という意味になる。比較級はpiù maleではなく通常peggioを使う。形容詞・過去分詞の前ではmal fatto「出来が悪い」のようにmalとなることが多い。",
+    "it": "Come avverbio modifica un verbo: parlare male, lavorare male. Per attribuire una qualità negativa a un nome si usano normalmente cattivo o brutto. Sto male indica una cattiva condizione fisica o emotiva; mi fa male la testa esprime dolore; mi sono fatto male significa che mi sono ferito. Il comparativo normale è peggio, non più male. Davanti ad aggettivi e participi compare spesso la forma apocopata mal: mal fatto, mal organizzato."
+  },
+
+  "etymology": {
+    "ja": "ラテン語male「悪く」に直接由来し、形容詞malus「悪い」の副詞形である。名詞il male「悪・害・病気」はラテン語malum「悪いもの、災い」に対応する意味を引き継いでいる。イタリア語のcattivoとmaleの関係は、buonoとbeneの関係にほぼ対応する。英語malice、malady、malfunctionや、フランス語malも同じラテン語語族に属する。",
+    "it": "Continua il latino male, avverbio derivato da malus, «cattivo». L’uso sostantivato il male prosegue semanticamente il latino malum, «ciò che è cattivo, disgrazia, danno». Il rapporto tra cattivo e male corrisponde in larga misura a quello tra buono e bene. Lo stesso elemento latino mal- compare in parole come malattia, malizia e malfunzionamento."
+  },
+
+  "minimal": [
+    {
+      "word": "male",
+      "ja": "行為が悪い方法・状態で行われることを表す副詞、または痛み・悪を表す名詞",
+      "it": "avverbio che indica un modo negativo oppure nome che indica dolore, danno o malvagità"
+    },
+    {
+      "word": "cattivo",
+      "ja": "人・物・行為などの性質が悪いことを表す形容詞",
+      "it": "aggettivo che attribuisce una qualità negativa a una persona, una cosa o un comportamento"
+    },
+    {
+      "word": "brutto",
+      "ja": "外見が美しくない、または出来事・状況が不快で好ましくない",
+      "it": "aggettivo che indica mancanza di bellezza oppure una situazione spiacevole"
+    },
+    {
+      "word": "peggio",
+      "ja": "maleの比較級として、より悪く、さらにひどく",
+      "it": "comparativo di male, con il significato di «in modo peggiore»"
+    },
+    {
+      "word": "bene",
+      "ja": "良い方法・状態で、うまく、適切に",
+      "it": "in modo buono, corretto, soddisfacente o appropriato"
+    }
+  ],
+
+  "synonyms": [
+    "malamente",
+    "scorrettamente",
+    "dolorosamente",
+    "dolore",
+    "danno",
+    "malattia",
+    "malvagità"
+  ],
+
+  "equivalents": {
+    "en": [
+      "badly",
+      "poorly",
+      "pain",
+      "harm",
+      "evil"
+    ],
+    "de": [
+      "schlecht",
+      "übel",
+      "Schmerz",
+      "Schaden",
+      "das Böse"
+    ],
+    "fr": [
+      "mal",
+      "douleur",
+      "dommage",
+      "le mal"
+    ],
+    "es": [
+      "mal",
+      "dolor",
+      "daño",
+      "el mal"
+    ]
+  },
+
+  "collocations": [
+    "stare male",
+    "sentirsi male",
+    "dormire male",
+    "mangiare male",
+    "vivere male",
+    "lavorare male",
+    "studiare male",
+    "parlare male",
+    "scrivere male",
+    "leggere male",
+    "capire male",
+    "interpretare male",
+    "pronunciare male",
+    "cucinare male",
+    "vestirsi male",
+    "comportarsi male",
+    "trattare male qualcuno",
+    "rispondere male",
+    "reagire male",
+    "finire male",
+    "cominciare male",
+    "andare male",
+    "funzionare male",
+    "procedere male",
+    "male o bene",
+    "piuttosto male",
+    "molto male",
+    "veramente male",
+    "terribilmente male",
+    "sempre peggio",
+    "fare male",
+    "fare male a qualcuno",
+    "farsi male",
+    "farsi molto male",
+    "non volere fare male a nessuno",
+    "avere male alla testa",
+    "avere male alla schiena",
+    "avere male a un braccio",
+    "avere mal di testa",
+    "avere mal di denti",
+    "avere mal di stomaco",
+    "mi fa male",
+    "ti fa male",
+    "il male fisico",
+    "il male morale",
+    "il bene e il male",
+    "distinguere il bene dal male",
+    "fare del male",
+    "volere il male di qualcuno",
+    "causare un male",
+    "curare un male",
+    "un male grave",
+    "un male incurabile",
+    "i mali della società",
+    "il male minore",
+    "mal fatto",
+    "mal detto",
+    "mal scritto",
+    "mal organizzato",
+    "mal interpretato"
+  ],
+
+  "examples": [
+    {
+      "it": "Oggi mi sento male e preferisco restare a casa.",
+      "ja": "今日は具合が悪いので、家にいたいです。"
+    },
+    {
+      "it": "Ho dormito male tutta la notte.",
+      "ja": "私は一晩中よく眠れませんでした。"
+    },
+    {
+      "it": "Mi fa male la schiena.",
+      "ja": "背中が痛いです。"
+    },
+    {
+      "it": "È caduto dalle scale e si è fatto male.",
+      "ja": "彼は階段から落ちてけがをしました。"
+    },
+    {
+      "it": "La riunione è andata peggio del previsto.",
+      "ja": "会議は予想よりもうまくいきませんでした。"
+    },
+    {
+      "it": "Non parlare male degli altri.",
+      "ja": "ほかの人の悪口を言ってはいけません。"
+    },
+    {
+      "it": "Non volevo farti del male.",
+      "ja": "あなたを傷つけるつもりはありませんでした。"
+    },
+    {
+      "it": "Il romanzo descrive il conflitto tra il bene e il male.",
+      "ja": "その小説は善と悪の対立を描いています。"
+    }
+  ]
 }
 ]
