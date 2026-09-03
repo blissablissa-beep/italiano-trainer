@@ -4430,5 +4430,3201 @@
       "ja": "その小説は善と悪の対立を描いています。"
     }
   ]
+},
+{
+  "id": "spigolo",
+  "sid": "2026-00341",
+  "word": "spigolo",
+  "ipa": "/ˈspiɡolo/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "nome maschile"
+    },
+    "gender": "masculine",
+    "plural": "spigoli",
+    "pattern": "lo spigolo / gli spigoli / spigolo di + oggetto / urtare contro uno spigolo / smussare gli spigoli"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "technical",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "geometry",
+      "architecture",
+      "design",
+      "relationships"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "二つの面が交わることによってできる線状の角、稜、エッジ",
+      "机・家具・箱・壁などの外側へ突き出した鋭い角",
+      "多面体を構成する二つの面が交わる線分、辺",
+      "建築物の二つの壁面などが交わる外側の稜線",
+      "物の鋭くとがった縁や部分",
+      "比喩的に、人の性格・表現・関係などにある厳しさやとげとげしさ"
+    ],
+    "it": [
+      "Linea formata dall’incontro di due superfici.",
+      "Parte angolosa e spesso sporgente di un mobile, di una scatola, di una parete o di un altro oggetto.",
+      "In geometria, segmento comune a due facce di un poliedro.",
+      "In architettura, linea esterna lungo la quale si incontrano due superfici murarie.",
+      "Bordo duro, affilato o appuntito capace di provocare un urto o una ferita.",
+      "In senso figurato, asprezza o rigidità presente nel carattere, nel linguaggio o nei rapporti personali."
+    ]
+  },
+
+  "nuance": {
+    "ja": "spigoloは、二つの面が交わって生じる線状の部分、特に外側へ突き出した硬いエッジを指す。angoloは二本の線・二つの面によって作られる角度や空間、verticeは複数の辺が集まる一点である。したがって箱には面facce、稜spigoli、頂点verticiがある。日常語では机の角などをspigoloと呼び、Sbattere contro lo spigolo del tavoloのように使う。smussare gli spigoliは文字どおり「角を丸くする」、比喩的には「対立や表現のきつさを和らげる」を意味する。",
+    "it": "Spigolo indica una linea prodotta dall’incontro di due superfici, soprattutto quando forma un bordo esterno duro o sporgente. Angolo indica l’apertura o lo spazio formato da due linee o superfici, mentre vertice è il punto nel quale si incontrano più lati o spigoli. Un solido presenta quindi facce, spigoli e vertici. Smussare gli spigoli significa sia arrotondare materialmente i bordi sia attenuare rigidità, contrasti o aspetti sgradevoli."
+  },
+
+  "etymology": {
+    "ja": "ラテン語spiculum「小さな穂先、尖端」に由来し、これはspica「穂、先端」の縮小形である。先のとがった物という意味から、物体の鋭い稜や突き出した角を表すようになった。イタリア語spiga「穀物の穂」、spina「とげ」とも、尖った形を表す古い語彙の連想関係を持つ。",
+    "it": "Dal latino spiculum, «piccola punta, punta di un’arma», diminutivo di spica, «spiga, punta». Dall’idea di una parte appuntita il termine passò a indicare il bordo duro e sporgente formato dall’incontro di due superfici. È semanticamente vicino alla famiglia di spiga e ad altre parole riferite a forme appuntite."
+  },
+
+  "minimal": [
+    {
+      "word": "spigolo",
+      "ja": "二つの面が交わってできる線状の稜、特に外側へ突き出したエッジ",
+      "it": "linea, spesso esterna e sporgente, formata dall’incontro di due superfici"
+    },
+    {
+      "word": "angolo",
+      "ja": "二本の線または二つの面が交わって作る角度・空間・隅",
+      "it": "figura, apertura o spazio determinato dall’incontro di due linee o superfici"
+    },
+    {
+      "word": "vertice",
+      "ja": "二本以上の辺や稜が交わる一点、頂点",
+      "it": "punto nel quale si incontrano due o più lati o spigoli"
+    },
+    {
+      "word": "bordo",
+      "ja": "物の表面・領域・容器などの外周や境界部分",
+      "it": "parte periferica o limite esterno di una superficie, di un’area o di un recipiente"
+    },
+    {
+      "word": "lato",
+      "ja": "図形を囲む線分、または物体・問題などの一つの側面",
+      "it": "segmento che delimita una figura piana oppure una delle parti laterali di qualcosa"
+    }
+  ],
+
+  "synonyms": [
+    "bordo",
+    "angolo",
+    "canto",
+    "costola",
+    "margine",
+    "asperità"
+  ],
+
+  "equivalents": {
+    "en": [
+      "edge",
+      "arris",
+      "sharp corner",
+      "rough edge"
+    ],
+    "de": [
+      "Kante",
+      "Ecke",
+      "Grat",
+      "Schärfe"
+    ],
+    "fr": [
+      "arête",
+      "coin",
+      "angle saillant",
+      "aspérité"
+    ],
+    "es": [
+      "arista",
+      "esquina",
+      "canto",
+      "aspereza"
+    ]
+  },
+
+  "collocations": [
+    "lo spigolo del tavolo",
+    "lo spigolo del mobile",
+    "lo spigolo del letto",
+    "lo spigolo della parete",
+    "lo spigolo della porta",
+    "lo spigolo di una scatola",
+    "lo spigolo di un edificio",
+    "lo spigolo di un gradino",
+    "lo spigolo di un cubo",
+    "uno spigolo vivo",
+    "uno spigolo netto",
+    "uno spigolo acuto",
+    "uno spigolo tagliente",
+    "uno spigolo appuntito",
+    "uno spigolo arrotondato",
+    "uno spigolo smussato",
+    "uno spigolo sporgente",
+    "uno spigolo pericoloso",
+    "urtare contro uno spigolo",
+    "sbattere contro uno spigolo",
+    "battere la testa contro uno spigolo",
+    "farsi male contro uno spigolo",
+    "proteggere gli spigoli",
+    "coprire gli spigoli",
+    "arrotondare uno spigolo",
+    "smussare uno spigolo",
+    "levigare uno spigolo",
+    "eliminare uno spigolo",
+    "segnare gli spigoli",
+    "calcolare gli spigoli",
+    "contare gli spigoli",
+    "l’incontro degli spigoli",
+    "la lunghezza dello spigolo",
+    "gli spigoli di un poliedro",
+    "avere un carattere pieno di spigoli",
+    "mostrare gli spigoli del proprio carattere",
+    "smussare gli spigoli del carattere",
+    "smussare gli spigoli di una proposta",
+    "smussare gli spigoli di un conflitto",
+    "una personalità spigolosa"
+  ],
+
+  "examples": [
+    {
+      "it": "Ho sbattuto il ginocchio contro lo spigolo del tavolo.",
+      "ja": "私はテーブルの角に膝をぶつけました。"
+    },
+    {
+      "it": "Bisogna coprire gli spigoli dei mobili per proteggere il bambino.",
+      "ja": "子供を守るため、家具の角を覆う必要があります。"
+    },
+    {
+      "it": "Un cubo ha dodici spigoli e otto vertici.",
+      "ja": "立方体には12本の稜と8個の頂点があります。"
+    },
+    {
+      "it": "L’architetto ha progettato un edificio dagli spigoli molto netti.",
+      "ja": "建築家は非常に明確な稜線を持つ建物を設計しました。"
+    },
+    {
+      "it": "Lo spigolo è stato arrotondato per motivi di sicurezza.",
+      "ja": "その角は安全上の理由から丸く加工されました。"
+    },
+    {
+      "it": "Con il tempo ha imparato a smussare gli spigoli del proprio carattere.",
+      "ja": "時がたつにつれ、彼は自分の性格のとげを和らげることを覚えました。"
+    },
+    {
+      "it": "Le due parti hanno smussato gli spigoli della proposta per raggiungere un accordo.",
+      "ja": "双方は合意に達するため、提案の対立的な部分を和らげました。"
+    }
+  ]
+},
+{
+  "id": "stella",
+  "sid": "2026-00342",
+  "word": "stella",
+  "ipa": "/ˈstɛlla/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "nome femminile"
+    },
+    "gender": "feminine",
+    "plural": "stelle",
+    "pattern": "la stella / le stelle / stella di + nome o tipo / a forma di stella / essere una stella / alle stelle"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "literary",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "science",
+      "nature",
+      "entertainment",
+      "evaluation",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "内部でエネルギーを生み出し、自ら光を放つ天体、恒星",
+      "夜空に見える星や星のような光点",
+      "複数の先端を持つ星形の図形・記号・装飾",
+      "ホテル・レストラン・商品などの等級や評価を示す星印",
+      "映画・音楽・スポーツなどの世界で非常に有名な人物、スター",
+      "優れた才能や活躍によって集団の中心となる人物",
+      "象徴的に、人を導く存在、希望、運命または幸運",
+      "stella marinaなどの形で、星形をした動植物や物の名称の一部"
+    ],
+    "it": [
+      "Corpo celeste che produce energia ed emette luce propria.",
+      "Punto luminoso visibile nel cielo notturno e identificato comunemente come astro.",
+      "Figura o simbolo formato da più punte disposte intorno a un centro.",
+      "Segno utilizzato per esprimere la categoria o la valutazione di un albergo, ristorante, prodotto o servizio.",
+      "Persona molto famosa nel cinema, nella musica, nello sport o in un altro settore.",
+      "Persona che si distingue per talento e successo all’interno di un gruppo.",
+      "In senso simbolico, guida, speranza, destino o fortuna favorevole.",
+      "Elemento di composti che designano animali, piante e oggetti dalla forma stellata."
+    ]
+  },
+
+  "nuance": {
+    "ja": "科学的には太陽もuna stellaであり、惑星pianetaとは異なって自ら光とエネルギーを生み出す。日常語では夜空の光点を広くstellaと呼ぶため、実際には惑星が含まれることもある。人物についてessere una stellaと言えば「花形・スターである」を意味する。価格や人気がalle stelleなら「非常に高い」、vedere le stelleは強い痛みや衝撃を受けることを表す。評価の星はuna stella、due stelleのように数える。",
+    "it": "Scientificamente anche il Sole è una stella, distinta da un pianeta perché produce ed emette energia propria. Nel linguaggio quotidiano, tuttavia, si può chiamare stella qualsiasi punto luminoso visibile nel cielo. Riferito a una persona, essere una stella significa essere molto celebre o particolarmente brillante. Alle stelle indica un livello altissimo; vedere le stelle significa provare un dolore o un colpo molto forte."
+  },
+
+  "etymology": {
+    "ja": "ラテン語stella「星」に直接由来する。これは古代ギリシア語astḗr、英語star、ドイツ語Sternなどとともに、インド・ヨーロッパ祖語の「星」を表す語根にさかのぼる。同じラテン語族にはstellare「星の、卓越した」、costellazione「星座」、interstellare「星間の」などがある。スペイン語estrellaとフランス語étoileも、音の変化は大きいが同じラテン語stellaを継承している。",
+    "it": "Dal latino stella, «astro». La parola è collegata, attraverso un’antica radice indoeuropea, al greco astḗr, all’inglese star e al tedesco Stern. Dalla base latina derivano stellare, costellazione e interstellare. Anche lo spagnolo estrella e il francese étoile continuano, attraverso diverse evoluzioni fonetiche, il latino stella."
+  },
+
+  "minimal": [
+    {
+      "word": "stella",
+      "ja": "内部でエネルギーを生み、自ら光を放つ恒星",
+      "it": "corpo celeste che genera energia ed emette luce propria"
+    },
+    {
+      "word": "pianeta",
+      "ja": "恒星の周囲を回り、主としてその光を反射して見える天体",
+      "it": "corpo celeste che orbita intorno a una stella e ne riflette la luce"
+    },
+    {
+      "word": "satellite",
+      "ja": "惑星など別の天体の周囲を公転する天体",
+      "it": "corpo naturale o artificiale che orbita intorno a un altro corpo celeste"
+    },
+    {
+      "word": "costellazione",
+      "ja": "地球から見て一定の形を作ると考えられた星の集まり、星座",
+      "it": "insieme apparente di stelle associato tradizionalmente a una figura"
+    },
+    {
+      "word": "astro",
+      "ja": "恒星・惑星・衛星などの天体を広く指す語、または文学的な「星」",
+      "it": "termine generale o letterario per indicare un corpo celeste"
+    }
+  ],
+
+  "synonyms": [
+    "astro",
+    "corpo celeste",
+    "divo",
+    "celebrità",
+    "campione",
+    "guida"
+  ],
+
+  "equivalents": {
+    "en": [
+      "star",
+      "celebrity",
+      "rating star",
+      "guiding light"
+    ],
+    "de": [
+      "Stern",
+      "Star",
+      "Bewertungsstern",
+      "Leitstern"
+    ],
+    "fr": [
+      "étoile",
+      "star",
+      "vedette",
+      "astre"
+    ],
+    "es": [
+      "estrella",
+      "astro",
+      "celebridad",
+      "figura"
+    ]
+  },
+
+  "collocations": [
+    "guardare le stelle",
+    "osservare le stelle",
+    "studiare le stelle",
+    "contare le stelle",
+    "vedere una stella",
+    "una stella luminosa",
+    "una stella brillante",
+    "una stella lontana",
+    "una stella vicina",
+    "una stella giovane",
+    "una stella gigante",
+    "una stella nana",
+    "una stella variabile",
+    "una stella doppia",
+    "una stella cadente",
+    "una stella cometa",
+    "la Stella Polare",
+    "la luce delle stelle",
+    "il cielo pieno di stelle",
+    "una notte senza stelle",
+    "una pioggia di stelle",
+    "una carta delle stelle",
+    "a forma di stella",
+    "disegnare una stella",
+    "una stella a cinque punte",
+    "una stella a sei punte",
+    "una decorazione a stella",
+    "un albergo a tre stelle",
+    "un hotel a cinque stelle",
+    "un ristorante stellato",
+    "una stella Michelin",
+    "dare cinque stelle",
+    "ricevere una stella",
+    "una recensione a una stella",
+    "una stella del cinema",
+    "una stella della musica",
+    "una stella dello sport",
+    "una stella internazionale",
+    "diventare una stella",
+    "essere una stella",
+    "la stella della squadra",
+    "nascere sotto una buona stella",
+    "avere una buona stella",
+    "seguire la propria stella",
+    "prezzi alle stelle",
+    "popolarità alle stelle",
+    "morale alle stelle",
+    "portare qualcuno alle stelle",
+    "vedere le stelle",
+    "stella marina",
+    "stella alpina",
+    "polvere di stelle"
+  ],
+
+  "examples": [
+    {
+      "it": "Questa sera il cielo è pieno di stelle.",
+      "ja": "今夜は空が星でいっぱいです。"
+    },
+    {
+      "it": "Il Sole è la stella più vicina alla Terra.",
+      "ja": "太陽は地球に最も近い恒星です。"
+    },
+    {
+      "it": "Abbiamo visto una stella cadente.",
+      "ja": "私たちは流れ星を見ました。"
+    },
+    {
+      "it": "L’albergo ha ricevuto cinque stelle.",
+      "ja": "そのホテルは五つ星の評価を受けました。"
+    },
+    {
+      "it": "È diventata una stella del cinema internazionale.",
+      "ja": "彼女は国際的な映画スターになりました。"
+    },
+    {
+      "it": "Il giovane attaccante è la nuova stella della squadra.",
+      "ja": "その若いフォワードはチームの新しい花形選手です。"
+    },
+    {
+      "it": "Negli ultimi mesi i prezzi dell’energia sono saliti alle stelle.",
+      "ja": "ここ数か月でエネルギー価格が急騰しました。"
+    },
+    {
+      "it": "Ho sbattuto il gomito contro lo spigolo e ho visto le stelle.",
+      "ja": "肘を角にぶつけて、目から火が出るほど痛みました。"
+    }
+  ]
+},
+{
+  "id": "sole",
+  "sid": "2026-00343",
+  "word": "sole",
+  "ipa": "/ˈsole/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "nome maschile"
+    },
+    "gender": "masculine",
+    "plural": "soli",
+    "pattern": "il sole / il Sole / al sole / sotto il sole / prendere il sole / c’è il sole / sole + aggettivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "literary",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "weather",
+      "nature",
+      "travel",
+      "science",
+      "leisure",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "地球が公転し、地球に光と熱を与える恒星、太陽",
+      "太陽から届く光や熱、日光",
+      "太陽の光が当たる場所、日なた",
+      "太陽が出ている晴れた天候",
+      "太陽の形を模した図形・紋章・装飾",
+      "比喩的に、人に喜び・希望・生命力を与える存在",
+      "天文学で、別の惑星系の中心となる恒星"
+    ],
+    "it": [
+      "Stella intorno alla quale orbita la Terra e dalla quale riceve luce e calore.",
+      "Luce e calore provenienti dal Sole.",
+      "Luogo direttamente illuminato dai raggi solari.",
+      "Tempo atmosferico sereno caratterizzato dalla presenza del sole.",
+      "Figura, emblema o decorazione che rappresenta il disco solare e i suoi raggi.",
+      "In senso figurato, persona o cosa che porta gioia, speranza o vitalità.",
+      "Per estensione astronomica, stella posta al centro di un altro sistema planetario."
+    ]
+  },
+
+  "nuance": {
+    "ja": "天体として固有名詞的に扱う場合はil Soleと大文字で書くことがあるが、日常文ではil soleと小文字にするのが普通である。C’è il soleは「晴れている」、stare al soleは「日なたにいる」、prendere il soleは「日光浴をする」を意味する。日光そのものを科学的に表す場合はluce solareまたはradiazione solareも使われる。複数形soliは、複数の恒星をそれぞれ惑星系の太陽として捉える場合に用いられる。",
+    "it": "Quando designa il corpo celeste come nome proprio può essere scritto il Sole, ma nell’uso quotidiano è comune la minuscola. C’è il sole significa che il tempo è sereno; stare al sole significa trovarsi in un luogo illuminato direttamente; prendere il sole significa esporsi ai raggi solari. In ambito scientifico si usano anche luce solare e radiazione solare. Il plurale soli è possibile parlando di stelle considerate come centri di altri sistemi planetari."
+  },
+
+  "etymology": {
+    "ja": "ラテン語sōl、属格sōlis「太陽」に直接由来する。さらにインド・ヨーロッパ祖語の太陽を表す語根へさかのぼり、英語sun、ドイツ語Sonne、古代ギリシア語hḗliosなどと遠い関係を持つ。スペイン語solはラテン語形をほぼそのまま継承し、フランス語soleilはラテン語の指小形soliculusから発達した。同じ語族にはsolare、soleggiato、parasole、girasoleなどがある。",
+    "it": "Dal latino sōl, genitivo sōlis, «sole», riconducibile a un’antica radice indoeuropea che designava l’astro solare. Sono lontanamente collegati l’inglese sun e il tedesco Sonne. Lo spagnolo sol continua quasi direttamente la forma latina, mentre il francese soleil deriva da una forma diminutiva latina. Alla stessa famiglia italiana appartengono solare, soleggiato, parasole e girasole."
+  },
+
+  "minimal": [
+    {
+      "word": "sole",
+      "ja": "地球に光と熱を与える恒星、またはそこから届く日光",
+      "it": "stella del sistema solare oppure luce e calore che provengono da essa"
+    },
+    {
+      "word": "stella",
+      "ja": "内部でエネルギーを生み、自ら光を放つ天体の一般名称",
+      "it": "corpo celeste che produce energia ed emette luce propria"
+    },
+    {
+      "word": "luna",
+      "ja": "地球の周囲を公転し、太陽光を反射して見える天然衛星",
+      "it": "satellite naturale della Terra che riflette la luce solare"
+    },
+    {
+      "word": "luce",
+      "ja": "物を見ることを可能にする電磁放射、または明るさ",
+      "it": "radiazione che rende visibili gli oggetti oppure condizione di luminosità"
+    },
+    {
+      "word": "ombra",
+      "ja": "光が物体に遮られることで生じる暗い部分",
+      "it": "zona meno luminosa prodotta dall’interruzione dei raggi di luce"
+    }
+  ],
+
+  "synonyms": [
+    "astro",
+    "stella",
+    "luce solare",
+    "luce del giorno",
+    "calore solare",
+    "astro diurno"
+  ],
+
+  "equivalents": {
+    "en": [
+      "sun",
+      "sunlight",
+      "sunshine"
+    ],
+    "de": [
+      "Sonne",
+      "Sonnenlicht",
+      "Sonnenschein"
+    ],
+    "fr": [
+      "soleil",
+      "lumière solaire",
+      "ensoleillement"
+    ],
+    "es": [
+      "sol",
+      "luz solar",
+      "rayos solares"
+    ]
+  },
+
+  "collocations": [
+    "il Sole e la Terra",
+    "il Sole e la Luna",
+    "la luce del sole",
+    "i raggi del sole",
+    "il calore del sole",
+    "l’energia del sole",
+    "il sorgere del sole",
+    "il tramonto del sole",
+    "il sole sorge",
+    "il sole tramonta",
+    "il sole splende",
+    "il sole brilla",
+    "il sole scalda",
+    "il sole illumina",
+    "il sole entra dalla finestra",
+    "c’è il sole",
+    "uscire con il sole",
+    "una giornata di sole",
+    "una mattina di sole",
+    "un bel sole",
+    "un sole caldo",
+    "un sole forte",
+    "un sole brillante",
+    "un sole pallido",
+    "un sole estivo",
+    "un sole invernale",
+    "stare al sole",
+    "sedersi al sole",
+    "camminare al sole",
+    "lasciare qualcosa al sole",
+    "asciugare al sole",
+    "prendere il sole",
+    "esporsi al sole",
+    "proteggersi dal sole",
+    "ripararsi dal sole",
+    "bruciarsi al sole",
+    "sotto il sole",
+    "contro il sole",
+    "in pieno sole",
+    "lontano dal sole",
+    "occhiali da sole",
+    "crema da sole",
+    "ombrello da sole",
+    "orologio solare",
+    "energia solare",
+    "pannello solare",
+    "sistema solare",
+    "eclissi di Sole",
+    "girasole",
+    "parasole",
+    "alla luce del sole",
+    "un posto al sole",
+    "nulla di nuovo sotto il sole",
+    "essere il sole di qualcuno",
+    "bello come il sole"
+  ],
+
+  "examples": [
+    {
+      "it": "Oggi c’è il sole e fa molto caldo.",
+      "ja": "今日は晴れていて、とても暑いです。"
+    },
+    {
+      "it": "La Terra gira intorno al Sole.",
+      "ja": "地球は太陽の周りを回っています。"
+    },
+    {
+      "it": "Ci siamo seduti al sole davanti al bar.",
+      "ja": "私たちはバールの前の日なたに座りました。"
+    },
+    {
+      "it": "Non lasciare il telefono sotto il sole.",
+      "ja": "携帯電話を直射日光の下に置かないでください。"
+    },
+    {
+      "it": "In estate mi piace prendere il sole sulla spiaggia.",
+      "ja": "夏には海辺で日光浴をするのが好きです。"
+    },
+    {
+      "it": "Questi pannelli trasformano la luce del sole in energia.",
+      "ja": "これらのパネルは太陽光をエネルギーに変換します。"
+    },
+    {
+      "it": "Dopo tanti giorni di pioggia è finalmente tornato il sole.",
+      "ja": "何日も雨が続いたあと、ようやく晴れました。"
+    },
+    {
+      "it": "Sua figlia è il sole della sua vita.",
+      "ja": "娘は彼の人生を明るく照らす存在です。"
+    }
+  ]
+},
+{
+  "id": "luna",
+  "sid": "2026-00344",
+  "word": "luna",
+  "ipa": "/ˈluna/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "nome femminile"
+    },
+    "gender": "feminine",
+    "plural": "lune",
+    "pattern": "la luna / la Luna / luce della luna / sulla Luna / luna + aggettivo / essere di luna + aggettivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "literary",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "nature",
+      "science",
+      "weather",
+      "literature",
+      "relationships"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "地球の周囲を公転する唯一の天然衛星、月",
+      "夜空に見える月の円盤やその形",
+      "月から届くように見える光、月光",
+      "新月・満月・上弦・下弦など、月の見かけ上の形や周期",
+      "地球以外の惑星を公転する天然衛星",
+      "比喩的に、人の気分・機嫌、とりわけ変わりやすい気分",
+      "非現実的な夢・空想・実現困難な望みを象徴するもの"
+    ],
+    "it": [
+      "Unico satellite naturale della Terra.",
+      "Disco o figura della Luna visibile nel cielo.",
+      "Luce solare riflessa dalla superficie lunare e percepita durante la notte.",
+      "Aspetto assunto dalla Luna nelle diverse fasi del suo ciclo.",
+      "Per estensione, satellite naturale che orbita intorno a un altro pianeta.",
+      "In senso figurato, stato d’animo o umore, specialmente se variabile.",
+      "Simbolo di un sogno, di una fantasia o di un desiderio difficilmente realizzabile."
+    ]
+  },
+
+  "nuance": {
+    "ja": "地球の衛星を天文学的な固有名として扱う場合はla Lunaと大文字で書くことがあるが、日常文ではla lunaも一般的である。月は自ら光を発するのではなく、太陽光を反射して見える。essere di buona lunaは「機嫌がよい」、avere la luna stortaは「機嫌が悪い」、vivere nel mondo della lunaは「現実離れしている」、chiedere la lunaは「無理なものを求める」を意味する。",
+    "it": "Quando indica il satellite terrestre come nome astronomico può essere scritto la Luna, ma nella lingua comune è frequente la minuscola. La Luna non produce luce propria, ma riflette quella del Sole. Essere di buona luna significa essere di buon umore; avere la luna storta indica cattivo umore; vivere nel mondo della luna significa essere distratti o lontani dalla realtà; chiedere la luna significa pretendere qualcosa di quasi impossibile."
+  },
+
+  "etymology": {
+    "ja": "ラテン語lūna「月」に直接由来する。この語は伝統的にlūx「光」およびlūcēre「輝く」と同じインド・ヨーロッパ語根に結び付けられ、「光るもの」を意味したと考えられている。英語lunar、lunatic、フランス語lune、スペイン語lunaも同じラテン語族に属する。イタリア語ではlunare、mezzaluna、plenilunioなどが派生している。",
+    "it": "Dal latino lūna, «luna». Il termine è tradizionalmente collegato a lūx, «luce», e lūcēre, «splendere», e risalirebbe quindi all’idea di un corpo luminoso. Alla stessa famiglia appartengono lunare, semiluna, mezzaluna e plenilunio. Anche l’inglese lunar, il francese lune e lo spagnolo luna derivano dalla base latina."
+  },
+
+  "minimal": [
+    {
+      "word": "luna",
+      "ja": "地球または別の惑星の周囲を回る天然衛星",
+      "it": "satellite naturale della Terra o, per estensione, di un altro pianeta"
+    },
+    {
+      "word": "sole",
+      "ja": "地球に光と熱を与え、月を照らす恒星",
+      "it": "stella che fornisce luce e calore alla Terra e illumina la Luna"
+    },
+    {
+      "word": "pianeta",
+      "ja": "恒星の周囲を公転し、ほぼ球形をした天体",
+      "it": "corpo celeste quasi sferico che orbita intorno a una stella"
+    },
+    {
+      "word": "satellite",
+      "ja": "惑星など別の天体の周囲を公転する天然または人工の物体",
+      "it": "corpo naturale o artificiale che orbita intorno a un altro corpo celeste"
+    },
+    {
+      "word": "stella",
+      "ja": "内部でエネルギーを作り、自ら光を放つ天体",
+      "it": "corpo celeste che produce energia ed emette luce propria"
+    }
+  ],
+
+  "synonyms": [
+    "satellite",
+    "astro notturno",
+    "disco lunare",
+    "falce lunare",
+    "chiaro di luna"
+  ],
+
+  "equivalents": {
+    "en": [
+      "moon",
+      "moonlight",
+      "natural satellite"
+    ],
+    "de": [
+      "Mond",
+      "Mondlicht",
+      "Trabanten"
+    ],
+    "fr": [
+      "lune",
+      "clair de lune",
+      "satellite naturel"
+    ],
+    "es": [
+      "luna",
+      "luz de luna",
+      "satélite natural"
+    ]
+  },
+
+  "collocations": [
+    "guardare la luna",
+    "osservare la Luna",
+    "studiare la Luna",
+    "fotografare la luna",
+    "vedere la luna",
+    "la luce della luna",
+    "i raggi della luna",
+    "il chiarore della luna",
+    "il riflesso della luna",
+    "il sorgere della luna",
+    "il tramonto della luna",
+    "la superficie della Luna",
+    "il lato nascosto della Luna",
+    "un cratere lunare",
+    "una missione lunare",
+    "un viaggio sulla Luna",
+    "andare sulla Luna",
+    "atterrare sulla Luna",
+    "camminare sulla Luna",
+    "la luna sorge",
+    "la luna tramonta",
+    "la luna splende",
+    "la luna illumina",
+    "la luna piena",
+    "la luna nuova",
+    "la luna crescente",
+    "la luna calante",
+    "la mezza luna",
+    "la falce di luna",
+    "la luna rossa",
+    "la luna di sangue",
+    "le fasi della luna",
+    "il ciclo della luna",
+    "un’eclissi di Luna",
+    "una notte di luna piena",
+    "una notte senza luna",
+    "al chiaro di luna",
+    "sotto la luna",
+    "luna di miele",
+    "essere di buona luna",
+    "essere di cattiva luna",
+    "avere la luna storta",
+    "cambiare umore come la luna",
+    "vivere nel mondo della luna",
+    "essere nel mondo della luna",
+    "cadere dalla luna",
+    "chiedere la luna",
+    "promettere la luna",
+    "volere la luna",
+    "abbaiare alla luna",
+    "mezzaluna",
+    "pesce luna",
+    "luna park"
+  ],
+
+  "examples": [
+    {
+      "it": "Questa sera c’è la luna piena.",
+      "ja": "今夜は満月です。"
+    },
+    {
+      "it": "La Luna gira intorno alla Terra.",
+      "ja": "月は地球の周りを回っています。"
+    },
+    {
+      "it": "La luce della luna entrava dalla finestra.",
+      "ja": "月明かりが窓から差し込んでいました。"
+    },
+    {
+      "it": "Il primo essere umano camminò sulla Luna nel 1969.",
+      "ja": "人類が初めて月面を歩いたのは1969年です。"
+    },
+    {
+      "it": "Giove ha molte più lune della Terra.",
+      "ja": "木星には地球よりもはるかに多くの衛星があります。"
+    },
+    {
+      "it": "Oggi il direttore ha la luna storta.",
+      "ja": "今日は部長の機嫌が悪いです。"
+    },
+    {
+      "it": "Non puoi chiedere la luna e aspettarti che tutti siano d’accordo.",
+      "ja": "無理な要求をして、全員が同意することを期待するわけにはいきません。"
+    },
+    {
+      "it": "Durante la riunione sembrava vivere nel mondo della luna.",
+      "ja": "会議中、彼は上の空で現実から離れているようでした。"
+    }
+  ]
+},
+{
+  "id": "terra",
+  "sid": "2026-00345",
+  "word": "terra",
+  "ipa": "/ˈtɛrra/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "nome femminile"
+    },
+    "gender": "feminine",
+    "plural": "terre",
+    "pattern": "la terra / la Terra / sulla Terra / a terra / per terra / in terra / terra di + luogo, origine o qualità"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "technical",
+      "literary",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "nature",
+      "science",
+      "agriculture",
+      "travel",
+      "property",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人類が暮らし、太陽の周囲を公転する惑星、地球",
+      "海や湖などの水域に対する陸地",
+      "人や物を支える地面、地表",
+      "植物が育つ、砂・粘土・有機物などからなる土壌、土",
+      "所有・耕作・利用の対象となる土地",
+      "国家・地方・故郷など、人が属する地域",
+      "特定の性質・文化・産物などで知られる地方",
+      "電気を安全に逃がすための接地、アース"
+    ],
+    "it": [
+      "Pianeta del sistema solare sul quale vive l’umanità.",
+      "Parte solida della superficie terrestre contrapposta al mare e alle acque.",
+      "Superficie del suolo sulla quale si cammina o si appoggiano gli oggetti.",
+      "Materiale formato da componenti minerali e organici nel quale crescono le piante.",
+      "Estensione di terreno posseduta, coltivata o destinata a un determinato uso.",
+      "Paese, regione o luogo al quale una persona appartiene.",
+      "Territorio caratterizzato da una particolare cultura, storia, attività o produzione.",
+      "In elettrotecnica, collegamento al suolo destinato alla sicurezza e alla dispersione della corrente."
+    ]
+  },
+
+  "nuance": {
+    "ja": "惑星としてはla Terraまたはil pianeta Terraと大文字で書く。地面に接している状態はa terra、物が床や地面に落ちている・散らばっている状態はper terraで表すことが多い。植物を植える場合はpiantare qualcosa in terraという。suoloは地表・土壌を客観的または技術的に捉える語、terrenoは一区画の土地や土地の性質、pavimentoは建物内部の床を指す。con i piedi per terraは現実的で堅実な態度を表す。",
+    "it": "Come nome del pianeta si scrive spesso la Terra o il pianeta Terra. A terra indica il contatto con il suolo o una posizione bassa; per terra sottolinea spesso che qualcosa è caduto o si trova sparso sul pavimento o sul terreno. Si pianta qualcosa in terra. Suolo è più tecnico e indica la superficie o lo strato terrestre; terreno può indicare una proprietà o le caratteristiche del suolo; pavimento è la superficie interna di una stanza. Avere i piedi per terra significa essere realistici e concreti."
+  },
+
+  "etymology": {
+    "ja": "ラテン語terra「大地、陸地、土」に直接由来する。一般に「乾いた」を表す古いインド・ヨーロッパ語根と結び付けられ、水に対する「乾いた土地」が原義だったと考えられている。同じラテン語族にはterreno、territorio、terrestre、atterrare、sotterraneoなどがある。英語terrestrial、territoryもラテン語terraに由来し、フランス語terreとスペイン語tierraはその直接の継承語である。",
+    "it": "Dal latino terra, «suolo, terraferma, regione». Il termine è generalmente collegato a un’antica radice indoeuropea riferita a ciò che è secco, e avrebbe quindi indicato originariamente la terra asciutta contrapposta all’acqua. Alla stessa famiglia appartengono terreno, territorio, terrestre, atterrare e sotterraneo. Anche gli inglesi terrestrial e territory derivano dalla base latina."
+  },
+
+  "minimal": [
+    {
+      "word": "terra",
+      "ja": "地球・陸地・地面・土・所有される土地を広く表す基本語",
+      "it": "termine generale per il pianeta, la terraferma, il suolo, la materia coltivabile o una proprietà"
+    },
+    {
+      "word": "suolo",
+      "ja": "地表または土壌を地理・農学・法律などの観点から客観的に捉える語",
+      "it": "superficie terrestre o strato del terreno considerato in senso tecnico"
+    },
+    {
+      "word": "terreno",
+      "ja": "性質・用途・所有の対象として捉えた一区画の土地",
+      "it": "estensione di terra considerata per caratteristiche, uso o proprietà"
+    },
+    {
+      "word": "pavimento",
+      "ja": "建物・部屋などの内部で人が歩く床面",
+      "it": "superficie interna di un edificio sulla quale si cammina"
+    },
+    {
+      "word": "mondo",
+      "ja": "地球、人類社会、または存在するものの全体",
+      "it": "la Terra considerata come luogo abitato oppure l’insieme della realtà e della società"
+    }
+  ],
+
+  "synonyms": [
+    "suolo",
+    "terreno",
+    "territorio",
+    "paese",
+    "regione",
+    "mondo",
+    "terraferma"
+  ],
+
+  "equivalents": {
+    "en": [
+      "Earth",
+      "land",
+      "ground",
+      "soil",
+      "earth"
+    ],
+    "de": [
+      "Erde",
+      "Land",
+      "Boden",
+      "Grund"
+    ],
+    "fr": [
+      "Terre",
+      "terre",
+      "sol",
+      "terrain"
+    ],
+    "es": [
+      "Tierra",
+      "tierra",
+      "suelo",
+      "terreno"
+    ]
+  },
+
+  "collocations": [
+    "il pianeta Terra",
+    "la superficie della Terra",
+    "il centro della Terra",
+    "la forma della Terra",
+    "la rotazione della Terra",
+    "l’orbita della Terra",
+    "la Terra gira intorno al Sole",
+    "la vita sulla Terra",
+    "tornare sulla Terra",
+    "osservare la Terra dallo spazio",
+    "terra e mare",
+    "via terra",
+    "trasporto via terra",
+    "raggiungere la terra",
+    "avvistare la terra",
+    "sbarcare a terra",
+    "tornare a terra",
+    "terraferma",
+    "cadere a terra",
+    "cadere per terra",
+    "buttare qualcosa a terra",
+    "mettere qualcosa a terra",
+    "raccogliere qualcosa da terra",
+    "sedersi per terra",
+    "sdraiarsi a terra",
+    "restare a terra",
+    "guardare a terra",
+    "avere i piedi per terra",
+    "tenere i piedi per terra",
+    "una stanza al piano terra",
+    "scavare la terra",
+    "lavorare la terra",
+    "coltivare la terra",
+    "arare la terra",
+    "bagnare la terra",
+    "smuovere la terra",
+    "riempire di terra",
+    "piantare in terra",
+    "sporcare di terra",
+    "terra fertile",
+    "terra arida",
+    "terra secca",
+    "terra umida",
+    "terra rossa",
+    "terra argillosa",
+    "terra coltivabile",
+    "un pezzo di terra",
+    "un appezzamento di terra",
+    "possedere della terra",
+    "comprare una terra",
+    "vendere un terreno",
+    "la propria terra",
+    "la terra natale",
+    "lasciare la propria terra",
+    "tornare nella propria terra",
+    "una terra straniera",
+    "terra di origine",
+    "terra di confine",
+    "terra di vini",
+    "terra di tradizioni",
+    "terra promessa",
+    "madre Terra",
+    "mettere a terra",
+    "presa di terra",
+    "filo di terra",
+    "collegamento a terra",
+    "terra terra"
+  ],
+
+  "examples": [
+    {
+      "it": "La Terra gira intorno al Sole.",
+      "ja": "地球は太陽の周りを回っています。"
+    },
+    {
+      "it": "Dopo settimane di navigazione, i marinai videro finalmente la terra.",
+      "ja": "数週間の航海のあと、船員たちはついに陸地を見ました。"
+    },
+    {
+      "it": "Il bicchiere è caduto per terra e si è rotto.",
+      "ja": "コップが床に落ちて割れました。"
+    },
+    {
+      "it": "Questa pianta ha bisogno di una terra umida.",
+      "ja": "この植物には湿った土が必要です。"
+    },
+    {
+      "it": "La sua famiglia coltiva questa terra da molte generazioni.",
+      "ja": "彼の家族は何世代にもわたってこの土地を耕しています。"
+    },
+    {
+      "it": "Dopo molti anni all’estero è tornata nella sua terra natale.",
+      "ja": "彼女は長年の海外生活を経て故郷へ戻りました。"
+    },
+    {
+      "it": "È una persona concreta che tiene sempre i piedi per terra.",
+      "ja": "彼はいつも地に足をつけている現実的な人です。"
+    },
+    {
+      "it": "L’impianto deve essere correttamente collegato a terra.",
+      "ja": "その設備は正しく接地されなければなりません。"
+    }
+  ]
+},
+{
+  "id": "macchina",
+  "sid": "2026-00346",
+  "word": "macchina",
+  "ipa": "/ˈmakkina/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "nome femminile"
+    },
+    "gender": "feminine",
+    "plural": "macchine",
+    "pattern": "la macchina / le macchine / macchina da + funzione / macchina per + attività / andare in macchina / salire in macchina / scendere dalla macchina"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "technical",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "transport",
+      "home",
+      "work",
+      "industry",
+      "technology",
+      "photography"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "日常語で、人や物を道路上で運ぶ自動車、車",
+      "動力や機械的な仕組みによって仕事を行う機械",
+      "特定の目的のために作られた器具・装置",
+      "複数の部品が連携して働く機構またはシステム",
+      "macchina fotograficaの形で、写真機、カメラ",
+      "生産・行政・政治・組織などを動かす複雑な仕組み",
+      "舞台・建築・軍事などで用いる大規模な機械装置"
+    ],
+    "it": [
+      "Nel linguaggio quotidiano, automobile utilizzata per il trasporto su strada.",
+      "Congegno che compie un lavoro mediante energia e movimenti meccanici.",
+      "Apparecchio costruito per svolgere una determinata funzione.",
+      "Sistema composto da più elementi che operano in modo coordinato.",
+      "Nell’espressione macchina fotografica, apparecchio destinato a scattare fotografie.",
+      "In senso figurato, struttura complessa che permette il funzionamento di un’organizzazione, di uno Stato o di un’attività.",
+      "Grande apparato tecnico utilizzato nel teatro, nell’architettura, nell’industria o in ambito militare."
+    ]
+  },
+
+  "nuance": {
+    "ja": "日常会話でHo comprato una macchinaと言えば、通常は「車を買った」と理解される。機械という意味では用途を示す語を伴い、macchina da scrivere「タイプライター」、macchina per cucire「ミシン」のように使う。移動手段としてはandare in macchina、乗車はsalire in macchina、降車はscendere dalla macchinaという。automobileまたはautoは自動車であることを明確にし、apparecchioは電気・電子機器、dispositivoは特定機能を担う比較的小さな装置を指しやすい。",
+    "it": "Nel linguaggio quotidiano, una macchina senza altre specificazioni indica normalmente un’automobile. Nel significato tecnico è spesso accompagnata dalla funzione: macchina da scrivere, macchina per cucire. Come mezzo di trasporto si usa andare in macchina; si sale in macchina e si scende dalla macchina. Automobile e auto identificano esplicitamente il veicolo; apparecchio è frequente per strumenti elettrici o elettronici, mentre dispositivo indica spesso un componente destinato a una funzione precisa."
+  },
+
+  "etymology": {
+    "ja": "ラテン語machĭna「機械、装置、仕掛け」に由来し、さらに古代ギリシア語mēkhanḗ「手段、工夫、機械」へさかのぼる。困難な仕事を可能にする「仕掛け」という発想が語の中心にある。英語machine、mechanism、mechanic、ドイツ語Maschine、フランス語machine、スペイン語máquinaも同じギリシア・ラテン系の語族に属する。",
+    "it": "Dal latino machĭna, «congegno, struttura, artificio», a sua volta dal greco mēkhanḗ, «mezzo, espediente, macchina». L’idea originaria era quella di uno strumento capace di rendere possibile un’azione complessa. Alla stessa famiglia internazionale appartengono meccanica, meccanismo, l’inglese machine, il tedesco Maschine, il francese machine e lo spagnolo máquina."
+  },
+
+  "minimal": [
+    {
+      "word": "macchina",
+      "ja": "日常語では自動車、一般語では動力や機構によって仕事をする機械",
+      "it": "nel linguaggio comune automobile; in senso generale congegno che svolge un lavoro"
+    },
+    {
+      "word": "automobile",
+      "ja": "道路上で人を運ぶための自動車を明確に指す語",
+      "it": "veicolo a motore destinato principalmente al trasporto di persone su strada"
+    },
+    {
+      "word": "apparecchio",
+      "ja": "特定の働きをする器具、特に電気・電子・医療機器",
+      "it": "strumento destinato a una funzione specifica, spesso elettrica, elettronica o medica"
+    },
+    {
+      "word": "dispositivo",
+      "ja": "機械やシステム内で特定の機能を実行する装置・部品",
+      "it": "elemento o congegno progettato per eseguire una funzione determinata"
+    },
+    {
+      "word": "motore",
+      "ja": "エネルギーを運動へ変換し、機械や車を動かす部分",
+      "it": "organo che trasforma energia in movimento e aziona una macchina o un veicolo"
+    }
+  ],
+
+  "synonyms": [
+    "automobile",
+    "auto",
+    "veicolo",
+    "congegno",
+    "apparecchio",
+    "dispositivo",
+    "meccanismo"
+  ],
+
+  "equivalents": {
+    "en": [
+      "car",
+      "machine",
+      "device",
+      "camera"
+    ],
+    "de": [
+      "Auto",
+      "Wagen",
+      "Maschine",
+      "Gerät"
+    ],
+    "fr": [
+      "voiture",
+      "machine",
+      "appareil",
+      "automobile"
+    ],
+    "es": [
+      "coche",
+      "automóvil",
+      "máquina",
+      "aparato"
+    ]
+  },
+
+  "collocations": [
+    "andare in macchina",
+    "venire in macchina",
+    "partire in macchina",
+    "viaggiare in macchina",
+    "tornare in macchina",
+    "salire in macchina",
+    "scendere dalla macchina",
+    "entrare in macchina",
+    "uscire dalla macchina",
+    "guidare la macchina",
+    "parcheggiare la macchina",
+    "fermare la macchina",
+    "accendere la macchina",
+    "spegnere la macchina",
+    "lavare la macchina",
+    "riparare la macchina",
+    "comprare una macchina",
+    "vendere una macchina",
+    "noleggiare una macchina",
+    "lasciare qualcosa in macchina",
+    "la chiave della macchina",
+    "la porta della macchina",
+    "il motore della macchina",
+    "il bagagliaio della macchina",
+    "una macchina nuova",
+    "una macchina usata",
+    "una macchina elettrica",
+    "una macchina veloce",
+    "una macchina parcheggiata",
+    "un incidente in macchina",
+    "macchina da scrivere",
+    "macchina per scrivere",
+    "macchina da cucire",
+    "macchina per cucire",
+    "macchina da caffè",
+    "macchina del caffè",
+    "macchina fotografica",
+    "macchina da presa",
+    "macchina calcolatrice",
+    "macchina utensile",
+    "macchina industriale",
+    "macchina agricola",
+    "macchina automatica",
+    "macchina a vapore",
+    "macchina elettrica",
+    "mettere in funzione una macchina",
+    "azionare una macchina",
+    "fermare una macchina",
+    "controllare una macchina",
+    "fare manutenzione alla macchina",
+    "la macchina amministrativa",
+    "la macchina statale",
+    "la macchina burocratica",
+    "la macchina organizzativa",
+    "la macchina del tempo",
+    "essere una macchina",
+    "lavorare come una macchina"
+  ],
+
+  "examples": [
+    {
+      "it": "Vado al lavoro in macchina.",
+      "ja": "私は車で仕事へ行きます。"
+    },
+    {
+      "it": "Ho lasciato il telefono in macchina.",
+      "ja": "私は車の中に携帯電話を置き忘れました。"
+    },
+    {
+      "it": "Dobbiamo portare la macchina dal meccanico.",
+      "ja": "車を整備士のところへ持っていかなければなりません。"
+    },
+    {
+      "it": "Questa macchina produce cento pezzi all’ora.",
+      "ja": "この機械は1時間に100個の部品を生産します。"
+    },
+    {
+      "it": "La macchina del caffè non funziona.",
+      "ja": "コーヒーマシンが動きません。"
+    },
+    {
+      "it": "Ho comprato una nuova macchina fotografica.",
+      "ja": "私は新しいカメラを買いました。"
+    },
+    {
+      "it": "La riforma dovrebbe semplificare la macchina amministrativa.",
+      "ja": "その改革は行政機構を簡素化するはずです。"
+    },
+    {
+      "it": "Lavora senza fermarsi, sembra una macchina.",
+      "ja": "彼は休まずに働き、まるで機械のようです。"
+    }
+  ]
+},
+{
+  "id": "treno",
+  "sid": "2026-00347",
+  "word": "treno",
+  "ipa": "/ˈtrɛno/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "treni",
+    "pattern": "il treno / un treno per + destinazione / andare, viaggiare o partire in treno / prendere, aspettare o perdere il treno"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "transport",
+      "tourism",
+      "commuting",
+      "business"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "線路上を走り、人や貨物を運ぶために連結された鉄道車両の一団、列車",
+      "特定の時刻・路線・目的地に向けて運行される列車便",
+      "鉄道を利用する移動手段",
+      "連続して進む人・物・出来事などの列",
+      "一連の思考・出来事・結果などのつながり",
+      "比喩的に、参加したり利用したりすべき機会・計画・時流"
+    ],
+    "it": [
+      "Complesso di veicoli ferroviari collegati tra loro e destinati al trasporto di persone o merci.",
+      "Servizio ferroviario che parte a una determinata ora e segue un particolare itinerario.",
+      "Mezzo di trasporto basato sulla rete ferroviaria.",
+      "Successione di persone, oggetti o avvenimenti che procedono in modo continuo.",
+      "Serie collegata di pensieri, eventi, conseguenze o circostanze.",
+      "In senso figurato, occasione, progetto o processo al quale è opportuno partecipare."
+    ]
+  },
+
+  "nuance": {
+    "ja": "日常語では、個々の車両よりも、連結されて一つの便として運行される列車全体を指す。鉄道という交通システムはferrovia、乗客が乗る個々の車両はcarrozza、機関車はlocomotiva、駅はstazioneという。交通手段を表す場合は前置詞inを使ってandare in trenoと言い、特定の列車に乗る場合はprendere il trenoを使う。un treno per Romaは「ローマ行きの列車」、un treno da Milanoは「ミラノ発の列車」を表す。",
+    "it": "Nell’uso comune indica l’intero convoglio che svolge un determinato servizio, non normalmente il singolo veicolo. Ferrovia designa il sistema e la rete ferroviaria; carrozza il veicolo destinato ai passeggeri; locomotiva il mezzo che fornisce la trazione; stazione il luogo di partenza e di arrivo. Come mezzo di trasporto si dice andare in treno, mentre prendere il treno indica l’atto di servirsi di una determinata corsa. Un treno per Roma è diretto a Roma; un treno da Milano proviene da Milano."
+  },
+
+  "etymology": {
+    "ja": "フランス語trainを経てイタリア語に入った語で、さらにラテン語trahere（引く、引っ張る）に由来する。もともとは、何かに引かれて進む車両や物の列を表した。英語train、フランス語train、スペイン語trenも同じ語源を持つ。同じラテン語の語族にはtrarre、trainare、trazione、trattoreなどがある。",
+    "it": "Dal francese train, derivato dal verbo traîner, «trascinare», e riconducibile al latino trahere, «tirare». Il termine indicava originariamente una successione di veicoli o elementi trascinati l’uno dietro l’altro. Sono della stessa origine l’inglese train, il francese train e lo spagnolo tren; alla famiglia latina appartengono anche trarre, trainare, trazione e trattore."
+  },
+
+  "minimal": [
+    {
+      "word": "treno",
+      "ja": "線路上を一つの便として走る、連結された鉄道車両全体",
+      "it": "insieme di veicoli ferroviari collegati che costituiscono un unico convoglio"
+    },
+    {
+      "word": "ferrovia",
+      "ja": "線路・駅・設備・運行組織を含む鉄道の仕組みや路線",
+      "it": "sistema di trasporto costituito da binari, stazioni, impianti e servizi ferroviari"
+    },
+    {
+      "word": "carrozza",
+      "ja": "列車を構成し、主として乗客を乗せる個々の車両",
+      "it": "singolo veicolo ferroviario destinato prevalentemente al trasporto dei passeggeri"
+    },
+    {
+      "word": "locomotiva",
+      "ja": "列車を牽引または推進するための動力を備えた鉄道車両",
+      "it": "veicolo ferroviario motore impiegato per trainare o spingere un convoglio"
+    },
+    {
+      "word": "metropolitana",
+      "ja": "主に都市内を走り、多数の駅を結ぶ高速公共鉄道",
+      "it": "sistema ferroviario urbano rapido che collega numerose stazioni di una città"
+    }
+  ],
+
+  "synonyms": [
+    "convoglio",
+    "convoglio ferroviario",
+    "ferrovia",
+    "mezzo ferroviario"
+  ],
+
+  "equivalents": {
+    "en": [
+      "train",
+      "rail service"
+    ],
+    "de": [
+      "Zug",
+      "Bahn"
+    ],
+    "fr": [
+      "train",
+      "convoi ferroviaire"
+    ],
+    "es": [
+      "tren",
+      "ferrocarril"
+    ]
+  },
+
+  "collocations": [
+    "andare in treno",
+    "viaggiare in treno",
+    "partire in treno",
+    "tornare in treno",
+    "arrivare in treno",
+    "prendere il treno",
+    "aspettare il treno",
+    "perdere il treno",
+    "riuscire a prendere il treno",
+    "salire sul treno",
+    "scendere dal treno",
+    "cambiare treno",
+    "prendere il treno successivo",
+    "un treno per Roma",
+    "un treno da Milano",
+    "il treno delle otto",
+    "il prossimo treno",
+    "l’ultimo treno",
+    "il primo treno",
+    "un treno diretto",
+    "un treno regionale",
+    "un treno locale",
+    "un treno intercity",
+    "un treno ad alta velocità",
+    "un treno notturno",
+    "un treno passeggeri",
+    "un treno merci",
+    "un treno affollato",
+    "un treno pieno",
+    "un treno vuoto",
+    "un treno veloce",
+    "un treno lento",
+    "un treno in orario",
+    "un treno in ritardo",
+    "il treno parte",
+    "il treno arriva",
+    "il treno ferma",
+    "il treno è stato cancellato",
+    "il treno è soppresso",
+    "il treno ha accumulato ritardo",
+    "orario dei treni",
+    "biglietto del treno",
+    "stazione dei treni",
+    "binario del treno",
+    "coincidenza tra due treni",
+    "a bordo del treno",
+    "sul treno",
+    "sotto il treno",
+    "passaggio del treno",
+    "rumore del treno",
+    "macchinista del treno",
+    "capotreno",
+    "non perdere il treno",
+    "saltare sul treno",
+    "perdere il treno delle occasioni",
+    "un treno di pensieri"
+  ],
+
+  "examples": [
+    {
+      "it": "Ogni mattina prendo il treno per andare al lavoro.",
+      "ja": "私は毎朝、仕事へ行くために列車に乗ります。"
+    },
+    {
+      "it": "A che ora parte il prossimo treno per Firenze?",
+      "ja": "フィレンツェ行きの次の列車は何時に出発しますか。"
+    },
+    {
+      "it": "Il nostro treno è arrivato con venti minuti di ritardo.",
+      "ja": "私たちの列車は20分遅れて到着しました。"
+    },
+    {
+      "it": "Dobbiamo cambiare treno a Bologna.",
+      "ja": "私たちはボローニャで列車を乗り換えなければなりません。"
+    },
+    {
+      "it": "Siamo corsi alla stazione, ma abbiamo perso l’ultimo treno.",
+      "ja": "私たちは駅まで走りましたが、最終列車に乗り遅れました。"
+    },
+    {
+      "it": "Preferisco viaggiare in treno perché posso leggere durante il viaggio.",
+      "ja": "移動中に読書ができるので、私は列車で旅行するほうが好きです。"
+    },
+    {
+      "it": "Il treno regionale ferma in tutte le stazioni.",
+      "ja": "その普通列車はすべての駅に停車します。"
+    },
+    {
+      "it": "È un progetto importante: non possiamo perdere questo treno.",
+      "ja": "これは重要な計画です。この好機を逃すわけにはいきません。"
+    }
+  ]
+},
+{
+  "id": "aeroplano",
+  "sid": "2026-00348",
+  "word": "aeroplano",
+  "ipa": "/aeroˈplano/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "aeroplani",
+    "pattern": "l’aeroplano / un aeroplano da + funzione / viaggiare o andare in aeroplano / salire sull’aeroplano"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "technical",
+      "historical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "transport",
+      "aviation",
+      "history",
+      "technology"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "翼によって揚力を得て空中を飛行する動力付きの航空機、飛行機",
+      "乗客や貨物を空路で運ぶための航空機",
+      "軍事・救助・観測・訓練などの特定の目的に用いられる固定翼航空機",
+      "歴史的文脈における初期の飛行機",
+      "子供の遊びや模型などで飛行機の形をしたもの"
+    ],
+    "it": [
+      "Aeromobile a motore che vola grazie alla portanza prodotta principalmente dalle ali.",
+      "Velivolo utilizzato per trasportare passeggeri o merci per via aerea.",
+      "Aeromobile ad ala fissa destinato a funzioni militari, di soccorso, osservazione o addestramento.",
+      "Velivolo delle prime fasi della storia dell’aviazione.",
+      "Oggetto o giocattolo che riproduce la forma di un velivolo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "現代イタリア語では、一般的な「飛行機」には短縮形のaereoがはるかに頻繁に使われる。aeroplanoも正しい語だが、やや説明的で、航空技術・飛行史・文学などの文脈に現れやすい。交通手段としてはandare in aeroplano、特定の機体への乗降にはsalire sull’aeroplano、scendere dall’aeroplanoと言う。飛行機に搭乗する日常表現ではprendere l’aereoが最も自然である。",
+    "it": "Nell’italiano contemporaneo, per indicare comunemente questo mezzo di trasporto si usa molto più spesso la forma abbreviata aereo. Aeroplano è comunque corretto, ma può avere un tono più descrittivo, tecnico, storico o letterario. Come mezzo di trasporto si dice andare in aeroplano; riferendosi a uno specifico velivolo si usano salire sull’aeroplano e scendere dall’aeroplano. Nella conversazione quotidiana, prendere l’aereo è normalmente la scelta più naturale."
+  },
+
+  "etymology": {
+    "ja": "フランス語aéroplaneを通じて広まった語で、aéro-「空気・空中」と-plane「平面」に相当する要素から成る。前半は古代ギリシア語aḗr（空気）、後半はラテン語planus（平らな）に由来する。もともとは、空気中を翼の平面によって飛ぶ装置という構造を表した。英語aeroplane、フランス語aéroplane、スペイン語aeroplanoも同じ語形成を共有する。",
+    "it": "Dal francese aéroplane, composto di aéro-, dal greco antico aḗr, «aria», e plane, riconducibile al latino planus, «piano». Il nome descriveva originariamente un apparecchio capace di sostenersi nell’aria mediante superfici piane. L’inglese aeroplane, il francese aéroplane e lo spagnolo aeroplano condividono la stessa formazione."
+  },
+
+  "minimal": [
+    {
+      "word": "aeroplano",
+      "ja": "翼によって飛ぶ動力付きの固定翼航空機を指す完全な語形",
+      "it": "termine completo per un aeromobile a motore sostenuto principalmente dalle ali"
+    },
+    {
+      "word": "aereo",
+      "ja": "日常会話で「飛行機」を表す最も一般的な短縮形",
+      "it": "forma abbreviata e più comune nel linguaggio quotidiano per indicare un aeroplano"
+    },
+    {
+      "word": "aeromobile",
+      "ja": "飛行機・ヘリコプターなど、空中を移動できる機械を広く含む専門用語",
+      "it": "termine tecnico generale che comprende i diversi mezzi capaci di muoversi nell’aria"
+    },
+    {
+      "word": "velivolo",
+      "ja": "空を飛ぶ乗り物を表す中立的または技術的な総称",
+      "it": "termine neutro o tecnico per una macchina destinata al volo"
+    },
+    {
+      "word": "elicottero",
+      "ja": "回転翼によって飛行し、垂直に離着陸できる航空機",
+      "it": "aeromobile sostenuto da rotori e capace di decollare e atterrare verticalmente"
+    }
+  ],
+
+  "synonyms": [
+    "aereo",
+    "velivolo",
+    "aeromobile",
+    "apparecchio"
+  ],
+
+  "equivalents": {
+    "en": [
+      "airplane",
+      "aeroplane",
+      "aircraft"
+    ],
+    "de": [
+      "Flugzeug",
+      "Flugmaschine"
+    ],
+    "fr": [
+      "avion",
+      "aéroplane"
+    ],
+    "es": [
+      "avión",
+      "aeroplano"
+    ]
+  },
+
+  "collocations": [
+    "andare in aeroplano",
+    "viaggiare in aeroplano",
+    "partire in aeroplano",
+    "arrivare in aeroplano",
+    "volare in aeroplano",
+    "prendere un aeroplano",
+    "salire sull’aeroplano",
+    "scendere dall’aeroplano",
+    "entrare nell’aeroplano",
+    "uscire dall’aeroplano",
+    "pilotare un aeroplano",
+    "guidare un aeroplano",
+    "far volare un aeroplano",
+    "costruire un aeroplano",
+    "progettare un aeroplano",
+    "riparare un aeroplano",
+    "un aeroplano passeggeri",
+    "un aeroplano da trasporto",
+    "un aeroplano da turismo",
+    "un aeroplano da addestramento",
+    "un aeroplano da combattimento",
+    "un aeroplano militare",
+    "un aeroplano civile",
+    "un aeroplano privato",
+    "un aeroplano di linea",
+    "un aeroplano a reazione",
+    "un aeroplano a elica",
+    "un aeroplano supersonico",
+    "un piccolo aeroplano",
+    "un aeroplano leggero",
+    "un aeroplano moderno",
+    "un vecchio aeroplano",
+    "un aeroplano storico",
+    "un aeroplano telecomandato",
+    "un aeroplano di carta",
+    "un modellino di aeroplano",
+    "il motore dell’aeroplano",
+    "le ali dell’aeroplano",
+    "la cabina dell’aeroplano",
+    "la fusoliera dell’aeroplano",
+    "il pilota dell’aeroplano",
+    "il decollo dell’aeroplano",
+    "l’atterraggio dell’aeroplano",
+    "il volo dell’aeroplano",
+    "il rumore dell’aeroplano",
+    "l’aeroplano decolla",
+    "l’aeroplano atterra",
+    "l’aeroplano prende quota",
+    "l’aeroplano perde quota",
+    "l’aeroplano sorvola la città"
+  ],
+
+  "examples": [
+    {
+      "it": "Da bambino sognavo di pilotare un aeroplano.",
+      "ja": "私は子供のころ、飛行機を操縦することを夢見ていました。"
+    },
+    {
+      "it": "L’aeroplano è decollato nonostante il forte vento.",
+      "ja": "その飛行機は強風にもかかわらず離陸しました。"
+    },
+    {
+      "it": "Abbiamo visto un piccolo aeroplano sorvolare la costa.",
+      "ja": "私たちは小型飛行機が海岸上空を飛ぶのを見ました。"
+    },
+    {
+      "it": "I primi aeroplani erano costruiti con materiali molto leggeri.",
+      "ja": "初期の飛行機は非常に軽い材料で作られていました。"
+    },
+    {
+      "it": "Il museo conserva un aeroplano militare della Seconda guerra mondiale.",
+      "ja": "その博物館には第二次世界大戦期の軍用機が保存されています。"
+    },
+    {
+      "it": "Mio figlio ha costruito un aeroplano di carta.",
+      "ja": "息子は紙飛行機を作りました。"
+    },
+    {
+      "it": "Per i viaggi lunghi preferisco l’aeroplano al treno.",
+      "ja": "長距離旅行では、私は列車より飛行機のほうを好みます。"
+    }
+  ]
+},
+{
+  "id": "aereo",
+  "sid": "2026-00349",
+  "word": "aereo",
+  "ipa": "/ˈaereo/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞・形容詞",
+      "it": "sostantivo maschile e aggettivo"
+    },
+    "gender": "masculine",
+    "plural": "aerei",
+    "pattern": "l’aereo / un aereo per + destinazione / andare o viaggiare in aereo / prendere, aspettare o perdere l’aereo / nome + aereo, aerea, aerei, aeree"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "transport",
+      "tourism",
+      "business",
+      "aviation"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "翼によって揚力を得て空中を飛行する動力付きの航空機、飛行機",
+      "特定の時刻・航路・目的地に向けて運航される航空便",
+      "航空機を利用する移動手段",
+      "形容詞として、空中の、空に関する",
+      "形容詞として、航空機によって行われる、航空輸送の",
+      "形容詞として、軽く空中に浮いているような、軽やかな"
+    ],
+    "it": [
+      "Aeromobile a motore che vola grazie alla portanza prodotta principalmente dalle ali.",
+      "Volo o servizio aereo diretto verso una determinata destinazione.",
+      "Mezzo di trasporto utilizzato per viaggiare attraverso l’aria.",
+      "Come aggettivo, relativo all’aria o allo spazio atmosferico.",
+      "Come aggettivo, effettuato mediante aeromobili o relativo all’aviazione.",
+      "In senso figurato, leggero, delicato o apparentemente sospeso nell’aria."
+    ]
+  },
+
+  "nuance": {
+    "ja": "名詞のaereoはaeroplanoの短縮形で、現代の日常会話における最も一般的な「飛行機」である。交通手段としてはandare in aereo、特定の便を利用する場合はprendere l’aereo、機内に乗り込む場合はsalire sull’aereoと言う。un aereo per Romaは「ローマ行きの飛行機」を表す。形容詞では名詞の性・数に一致し、trasporto aereo、linea aerea、spazio aereo、forze aereeのように変化する。",
+    "it": "Come sostantivo, aereo è l’abbreviazione di aeroplano ed è il termine normalmente usato nella conversazione contemporanea. Si dice andare in aereo quando si indica il mezzo di trasporto, prendere l’aereo quando si utilizza un determinato volo e salire sull’aereo quando si entra nel velivolo. Un aereo per Roma è diretto a Roma. Come aggettivo concorda con il nome: trasporto aereo, linea aerea, collegamenti aerei e forze aeree."
+  },
+
+  "etymology": {
+    "ja": "名詞としてはaeroplanoの短縮形である。形容詞aereoはラテン語aĕrĕus（空気の、空中の）に由来し、その語源は古代ギリシア語aériosおよびaḗr（空気）にさかのぼる。当初は「空気に属する、空中にある」という意味で、航空技術の発達後に飛行機そのものを表す名詞としても使われるようになった。英語aerial、フランス語aérien、スペイン語aéreoと同系である。",
+    "it": "Come sostantivo è una forma abbreviata di aeroplano. L’aggettivo deriva dal latino aĕrĕus, «dell’aria», risalente al greco antico aérios e aḗr, «aria». Il significato originario era «relativo all’aria o situato nell’aria»; con lo sviluppo dell’aviazione, la forma maschile sostantivata ha assunto il significato di aeroplano. Sono affini l’inglese aerial, il francese aérien e lo spagnolo aéreo."
+  },
+
+  "minimal": [
+    {
+      "word": "aereo",
+      "ja": "日常会話で飛行機を表す最も一般的な語で、形容詞として「航空の」も意味する",
+      "it": "termine quotidiano più comune per l’aeroplano e aggettivo con il significato di relativo all’aria o all’aviazione"
+    },
+    {
+      "word": "aeroplano",
+      "ja": "飛行機を表す完全な語形で、技術的・歴史的・説明的な響きを持つことがある",
+      "it": "forma completa che indica un velivolo ad ala fissa, talvolta con tono tecnico, storico o descrittivo"
+    },
+    {
+      "word": "volo",
+      "ja": "航空機による一回の運航・便、または空中を飛ぶ行為",
+      "it": "singolo servizio effettuato da un aeromobile oppure azione del volare"
+    },
+    {
+      "word": "aeromobile",
+      "ja": "飛行機やヘリコプターなど、空中を移動できる機械の専門的な総称",
+      "it": "termine tecnico generale per qualsiasi mezzo capace di muoversi nell’aria"
+    },
+    {
+      "word": "elicottero",
+      "ja": "回転翼によって飛行し、垂直に離着陸できる航空機",
+      "it": "aeromobile sostenuto da rotori e capace di decollare e atterrare verticalmente"
+    }
+  ],
+
+  "synonyms": [
+    "aeroplano",
+    "velivolo",
+    "aeromobile",
+    "apparecchio"
+  ],
+
+  "equivalents": {
+    "en": [
+      "airplane",
+      "aeroplane",
+      "plane",
+      "air",
+      "aerial"
+    ],
+    "de": [
+      "Flugzeug",
+      "Luft-",
+      "Luftfahrt-"
+    ],
+    "fr": [
+      "avion",
+      "aérien"
+    ],
+    "es": [
+      "avión",
+      "aéreo"
+    ]
+  },
+
+  "collocations": [
+    "andare in aereo",
+    "viaggiare in aereo",
+    "partire in aereo",
+    "arrivare in aereo",
+    "tornare in aereo",
+    "prendere l’aereo",
+    "aspettare l’aereo",
+    "perdere l’aereo",
+    "riuscire a prendere l’aereo",
+    "salire sull’aereo",
+    "scendere dall’aereo",
+    "entrare nell’aereo",
+    "uscire dall’aereo",
+    "imbarcarsi sull’aereo",
+    "prendere un aereo per Roma",
+    "un aereo da Roma",
+    "il prossimo aereo",
+    "l’ultimo aereo",
+    "un aereo di linea",
+    "un aereo passeggeri",
+    "un aereo da trasporto",
+    "un aereo cargo",
+    "un aereo militare",
+    "un aereo da combattimento",
+    "un aereo privato",
+    "un aereo turistico",
+    "un aereo a reazione",
+    "un aereo a elica",
+    "un aereo supersonico",
+    "un aereo pieno",
+    "un aereo affollato",
+    "un aereo in ritardo",
+    "un aereo in volo",
+    "a bordo dell’aereo",
+    "il pilota dell’aereo",
+    "il motore dell’aereo",
+    "le ali dell’aereo",
+    "la cabina dell’aereo",
+    "il decollo dell’aereo",
+    "l’atterraggio dell’aereo",
+    "l’aereo decolla",
+    "l’aereo atterra",
+    "l’aereo prende quota",
+    "l’aereo perde quota",
+    "l’aereo sorvola la città",
+    "biglietto aereo",
+    "trasporto aereo",
+    "traffico aereo",
+    "collegamento aereo",
+    "ponte aereo",
+    "spazio aereo",
+    "linea aerea",
+    "compagnia aerea",
+    "base aerea",
+    "forze aeree",
+    "posta aerea",
+    "fotografia aerea",
+    "vista aerea",
+    "ripresa aerea"
+  ],
+
+  "examples": [
+    {
+      "it": "Domani prenderemo l’aereo per Napoli.",
+      "ja": "明日、私たちはナポリ行きの飛行機に乗ります。"
+    },
+    {
+      "it": "Preferisci viaggiare in treno o in aereo?",
+      "ja": "列車と飛行機では、どちらで旅行するほうが好きですか。"
+    },
+    {
+      "it": "Siamo arrivati tardi all’aeroporto e abbiamo perso l’aereo.",
+      "ja": "私たちは空港に遅れて到着し、飛行機に乗り遅れました。"
+    },
+    {
+      "it": "I passeggeri stanno salendo sull’aereo.",
+      "ja": "乗客たちは飛行機に搭乗しているところです。"
+    },
+    {
+      "it": "L’aereo è atterrato con mezz’ora di ritardo.",
+      "ja": "その飛行機は30分遅れて着陸しました。"
+    },
+    {
+      "it": "La compagnia aerea ha cancellato il nostro volo.",
+      "ja": "航空会社は私たちの便を欠航にしました。"
+    },
+    {
+      "it": "Lo spazio aereo sopra la città è stato temporaneamente chiuso.",
+      "ja": "その都市上空の空域は一時的に閉鎖されました。"
+    },
+    {
+      "it": "Questa fotografia aerea mostra chiaramente tutta la costa.",
+      "ja": "この航空写真には海岸全体がはっきり写っています。"
+    }
+  ]
+},
+{
+  "id": "nave",
+  "sid": "2026-00350",
+  "word": "nave",
+  "ipa": "/ˈnave/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "navi",
+    "pattern": "la nave / una nave da + funzione / andare o viaggiare in nave / salire sulla nave / nave + aggettivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "transport",
+      "tourism",
+      "maritime",
+      "military",
+      "space"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "海や大きな水域を航行し、人・貨物などを運ぶ大型の船舶",
+      "特定の用途や任務を持つ大型船",
+      "乗客を海路で運ぶ交通手段",
+      "軍事活動に用いられる艦船",
+      "nave spazialeの形で、宇宙空間を航行する宇宙船",
+      "比喩的に、多くの人や物を載せて進む大きな構造物や共同体"
+    ],
+    "it": [
+      "Grande imbarcazione destinata alla navigazione sul mare o su estese superfici d’acqua.",
+      "Imbarcazione di notevoli dimensioni costruita per una particolare funzione o missione.",
+      "Mezzo di trasporto impiegato per trasferire passeggeri o merci per via marittima.",
+      "Unità navale utilizzata per operazioni militari.",
+      "Nell’espressione nave spaziale, veicolo progettato per viaggiare nello spazio.",
+      "In senso figurato, grande struttura o comunità che procede trasportando molte persone o cose."
+    ]
+  },
+
+  "nuance": {
+    "ja": "naveは通常、外海を航行できる比較的大型の船舶を指す。barcaは小型の舟・ボート、traghettoは人や車両を対岸へ運ぶフェリー、imbarcazioneは大小を問わない船舶の総称である。交通手段としてはviaggiare in nave、特定の船に乗り込む場合はsalire sulla naveと言う。船が港を出ることはsalpareまたはpartire、港に着くことはarrivare in portoまたはattraccareで表す。",
+    "it": "Nave indica normalmente un’imbarcazione di grandi dimensioni capace di navigare in mare aperto. Barca designa in genere un mezzo più piccolo; traghetto una nave che trasporta persone e veicoli tra due sponde o porti; imbarcazione è il termine generale, indipendente dalle dimensioni. Si dice viaggiare in nave quando si indica il mezzo di trasporto e salire sulla nave quando ci si riferisce a una nave determinata. Una nave salpa o parte dal porto e arriva in porto o attracca."
+  },
+
+  "etymology": {
+    "ja": "ラテン語nāvis（船）を直接受け継いだ語で、非常に古いインド・ヨーロッパ語族の語に由来する。古代ギリシア語naûs、サンスクリット語nā́uṣなどにも対応語がある。同じ語族にはnavale、navigare、navigazione、navigatoreがあり、英語navy、naval、navigate、フランス語navire、スペイン語naveとも語源を共有する。",
+    "it": "Continua direttamente il latino nāvis, «nave», appartenente a un’antichissima famiglia indoeuropea alla quale risalgono anche il greco antico naûs e il sanscrito nā́uṣ. Dalla stessa radice derivano navale, navigare, navigazione e navigatore. Sono affini anche l’inglese navy, naval e navigate, il francese navire e lo spagnolo nave."
+  },
+
+  "minimal": [
+    {
+      "word": "nave",
+      "ja": "外海を航行し、多くの人や大量の貨物を運べる比較的大型の船",
+      "it": "grande imbarcazione capace di navigare in mare e trasportare persone o merci"
+    },
+    {
+      "word": "barca",
+      "ja": "沿岸・川・湖などで使われることの多い比較的小型の舟やボート",
+      "it": "imbarcazione generalmente piccola usata spesso lungo la costa, sui fiumi o sui laghi"
+    },
+    {
+      "word": "traghetto",
+      "ja": "人・自動車・貨物などを二つの港や岸の間で運ぶ船",
+      "it": "nave adibita al trasporto regolare di persone, veicoli e merci tra due porti o sponde"
+    },
+    {
+      "word": "imbarcazione",
+      "ja": "大きさや用途を問わず、水上を航行する乗り物を広く指す語",
+      "it": "termine generale per qualsiasi mezzo costruito per la navigazione sull’acqua"
+    },
+    {
+      "word": "battello",
+      "ja": "河川・湖・港湾などで人を運ぶ比較的小型の船",
+      "it": "imbarcazione di dimensioni contenute usata spesso su fiumi, laghi o nelle zone portuali"
+    }
+  ],
+
+  "synonyms": [
+    "imbarcazione",
+    "bastimento",
+    "vascello",
+    "natante",
+    "unità navale"
+  ],
+
+  "equivalents": {
+    "en": [
+      "ship",
+      "vessel",
+      "spacecraft"
+    ],
+    "de": [
+      "Schiff",
+      "Seefahrzeug",
+      "Raumschiff"
+    ],
+    "fr": [
+      "navire",
+      "vaisseau",
+      "bateau"
+    ],
+    "es": [
+      "barco",
+      "buque",
+      "nave"
+    ]
+  },
+
+  "collocations": [
+    "andare in nave",
+    "viaggiare in nave",
+    "partire in nave",
+    "arrivare in nave",
+    "salire sulla nave",
+    "scendere dalla nave",
+    "imbarcarsi sulla nave",
+    "sbarcare dalla nave",
+    "essere a bordo della nave",
+    "comandare una nave",
+    "guidare una nave",
+    "pilotare una nave",
+    "costruire una nave",
+    "varare una nave",
+    "caricare una nave",
+    "scaricare una nave",
+    "abbandonare la nave",
+    "affondare una nave",
+    "una nave passeggeri",
+    "una nave da crociera",
+    "una nave da carico",
+    "una nave portacontainer",
+    "una nave mercantile",
+    "una nave cisterna",
+    "una nave frigorifera",
+    "una nave da pesca",
+    "una nave ospedale",
+    "una nave scuola",
+    "una nave militare",
+    "una nave da guerra",
+    "una nave da ricerca",
+    "una nave oceanografica",
+    "una nave rompighiaccio",
+    "una nave ammiraglia",
+    "una nave spaziale",
+    "una nave grande",
+    "una nave moderna",
+    "una nave antica",
+    "una nave veloce",
+    "una nave in porto",
+    "una nave in mare",
+    "una nave alla deriva",
+    "una nave in difficoltà",
+    "la nave parte",
+    "la nave salpa",
+    "la nave naviga",
+    "la nave attracca",
+    "la nave entra nel porto",
+    "la nave lascia il porto",
+    "la nave attraversa l’oceano",
+    "la nave affonda",
+    "il capitano della nave",
+    "l’equipaggio della nave",
+    "i passeggeri della nave",
+    "il ponte della nave",
+    "la prua della nave",
+    "la poppa della nave",
+    "lo scafo della nave",
+    "la cabina della nave",
+    "il motore della nave",
+    "il relitto della nave",
+    "a bordo della nave"
+  ],
+
+  "examples": [
+    {
+      "it": "La nave partirà dal porto alle nove.",
+      "ja": "その船は9時に港を出発します。"
+    },
+    {
+      "it": "Abbiamo viaggiato in nave da Genova a Palermo.",
+      "ja": "私たちはジェノヴァからパレルモまで船で旅行しました。"
+    },
+    {
+      "it": "I passeggeri stanno salendo sulla nave.",
+      "ja": "乗客たちは船に乗り込んでいるところです。"
+    },
+    {
+      "it": "La nave mercantile trasporta automobili e macchinari.",
+      "ja": "その貨物船は自動車や機械類を運んでいます。"
+    },
+    {
+      "it": "Dopo una settimana di navigazione, la nave è arrivata in porto.",
+      "ja": "一週間の航海の後、その船は港に到着しました。"
+    },
+    {
+      "it": "Il capitano ha ordinato all’equipaggio di abbandonare la nave.",
+      "ja": "船長は乗組員に船を放棄するよう命じました。"
+    },
+    {
+      "it": "Cristoforo Colombo attraversò l’Atlantico con tre navi.",
+      "ja": "クリストファー・コロンブスは3隻の船で大西洋を横断しました。"
+    },
+    {
+      "it": "Nel film gli astronauti viaggiano su una nave spaziale.",
+      "ja": "その映画では宇宙飛行士たちが宇宙船で旅をします。"
+    }
+  ]
+},
+{
+  "id": "barca",
+  "sid": "2026-00351",
+  "word": "barca",
+  "ipa": "/ˈbarka/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "barche",
+    "pattern": "la barca / una barca a + mezzo di propulsione / una barca da + funzione / andare o uscire in barca / salire sulla barca"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "tourism",
+      "leisure",
+      "sport",
+      "fishing",
+      "maritime"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "海・川・湖などを航行する比較的小型の舟やボート",
+      "人や少量の貨物を水上で運ぶための小型船",
+      "漁業・レジャー・スポーツなどに使われる舟",
+      "特定の構造や動力を備えた小型船舶",
+      "比喩的に、人々が共に置かれている状況・組織・運命",
+      "口語・慣用表現で、物事を進めるための手段や共同事業"
+    ],
+    "it": [
+      "Imbarcazione di dimensioni relativamente piccole usata sul mare, sui fiumi o sui laghi.",
+      "Piccolo mezzo destinato al trasporto di persone o di quantità limitate di merci sull’acqua.",
+      "Imbarcazione impiegata per la pesca, il tempo libero o le attività sportive.",
+      "Piccolo natante caratterizzato da un particolare sistema di propulsione o da una specifica struttura.",
+      "In senso figurato, situazione, organizzazione o destino condiviso da più persone.",
+      "Nelle espressioni colloquiali, mezzo o iniziativa comune con cui si cerca di raggiungere uno scopo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "barcaはnaveより小型の船を表し、手こぎ舟、モーターボート、ヨットなどを広く含み得る。imbarcazioneは大小や用途を問わない船舶の総称で、より技術的・包括的である。動力や構造はbarca a remi、barca a motore、barca a velaのようにaで示し、用途はbarca da pesca、barca da corsaのようにdaで表す。移動・活動としてはandare in barca、特定の舟への乗降にはsalire sulla barca、scendere dalla barcaを使う。",
+    "it": "Barca indica un’imbarcazione più piccola di una nave e può comprendere mezzi a remi, a motore o a vela. Imbarcazione è un termine più generale e tecnico, indipendente dalle dimensioni e dalla funzione. Il sistema di propulsione o la struttura sono introdotti spesso da a: barca a remi, a motore, a vela. La funzione è espressa frequentemente con da: barca da pesca, da corsa. Si dice andare in barca per l’attività o il mezzo e salire sulla barca o scendere dalla barca riferendosi a un’imbarcazione determinata."
+  },
+
+  "etymology": {
+    "ja": "後期ラテン語barcaに由来するが、そのさらに古い起源については明確ではなく、地中海地域の古い言語に由来する可能性がある。ロマンス諸語をはじめ多くの言語へ広がり、フランス語barque、スペイン語・ポルトガル語barca、英語barqueおよびbarkなどと関係する。派生語にはbarcaiolo、barchetta、imbarcare、sbarcareがある。",
+    "it": "Dal latino tardo barca, di origine più remota incerta e forse appartenente all’antico lessico marittimo mediterraneo. La parola si è diffusa in numerose lingue ed è affine al francese barque, allo spagnolo e al portoghese barca e all’inglese barque o bark. Alla stessa famiglia italiana appartengono barchetta, barcaiolo, imbarcare e sbarcare."
+  },
+
+  "minimal": [
+    {
+      "word": "barca",
+      "ja": "海・川・湖などで使われる比較的小型の舟やボート",
+      "it": "imbarcazione relativamente piccola usata sul mare, sui fiumi o sui laghi"
+    },
+    {
+      "word": "nave",
+      "ja": "外海を航行し、多くの人や大量の貨物を運べる大型船",
+      "it": "grande imbarcazione capace di navigare in mare aperto e trasportare molte persone o merci"
+    },
+    {
+      "word": "battello",
+      "ja": "河川・湖・港内などで人を運ぶことの多い比較的小型の船",
+      "it": "imbarcazione generalmente piccola usata spesso per il trasporto su fiumi, laghi o nei porti"
+    },
+    {
+      "word": "motoscafo",
+      "ja": "高速航行を目的とする、エンジンを備えた小型船",
+      "it": "piccola imbarcazione dotata di motore e progettata generalmente per navigare velocemente"
+    },
+    {
+      "word": "traghetto",
+      "ja": "人・車両・貨物を二つの港や岸の間で定期的に運ぶ船",
+      "it": "imbarcazione che trasporta regolarmente persone, veicoli e merci tra due porti o sponde"
+    }
+  ],
+
+  "synonyms": [
+    "imbarcazione",
+    "natante",
+    "battello",
+    "barchetta",
+    "scafo"
+  ],
+
+  "equivalents": {
+    "en": [
+      "boat",
+      "craft",
+      "small vessel"
+    ],
+    "de": [
+      "Boot",
+      "Kahn"
+    ],
+    "fr": [
+      "barque",
+      "bateau"
+    ],
+    "es": [
+      "barca",
+      "bote",
+      "embarcación"
+    ]
+  },
+
+  "collocations": [
+    "andare in barca",
+    "uscire in barca",
+    "viaggiare in barca",
+    "fare un giro in barca",
+    "fare una gita in barca",
+    "salire sulla barca",
+    "scendere dalla barca",
+    "entrare in barca",
+    "saltare sulla barca",
+    "essere a bordo della barca",
+    "portare la barca",
+    "guidare una barca",
+    "condurre una barca",
+    "governare una barca",
+    "remare su una barca",
+    "navigare con una barca",
+    "noleggiare una barca",
+    "comprare una barca",
+    "costruire una barca",
+    "riparare una barca",
+    "ormeggiare la barca",
+    "ancorare la barca",
+    "tirare la barca a riva",
+    "mettere la barca in acqua",
+    "caricare la barca",
+    "scaricare la barca",
+    "una barca a remi",
+    "una barca a motore",
+    "una barca a vela",
+    "una barca da pesca",
+    "una barca da corsa",
+    "una barca da diporto",
+    "una barca di legno",
+    "una barca di gomma",
+    "una piccola barca",
+    "una barca leggera",
+    "una barca veloce",
+    "una barca stabile",
+    "una barca ormeggiata",
+    "una barca ancorata",
+    "una barca alla deriva",
+    "una barca in mare",
+    "una barca sul lago",
+    "una barca sul fiume",
+    "una barca vicino alla riva",
+    "il proprietario della barca",
+    "il motore della barca",
+    "il fondo della barca",
+    "il bordo della barca",
+    "la prua della barca",
+    "la poppa della barca",
+    "il remo della barca",
+    "la vela della barca",
+    "la barca parte",
+    "la barca naviga",
+    "la barca ondeggia",
+    "la barca si rovescia",
+    "la barca affonda",
+    "essere tutti sulla stessa barca",
+    "essere nella stessa barca",
+    "tirare i remi in barca",
+    "mandare avanti la barca",
+    "abbandonare la barca"
+  ],
+
+  "examples": [
+    {
+      "it": "Domani faremo una gita in barca sul lago.",
+      "ja": "明日、私たちは湖で舟遊びをします。"
+    },
+    {
+      "it": "Il pescatore è uscito in barca prima dell’alba.",
+      "ja": "その漁師は夜明け前に舟で漁へ出ました。"
+    },
+    {
+      "it": "Siamo saliti sulla barca e abbiamo indossato i giubbotti di salvataggio.",
+      "ja": "私たちは舟に乗り、救命胴衣を着用しました。"
+    },
+    {
+      "it": "La barca a vela si muoveva lentamente verso il porto.",
+      "ja": "その帆船はゆっくり港へ向かって進んでいました。"
+    },
+    {
+      "it": "Abbiamo noleggiato una piccola barca a motore.",
+      "ja": "私たちは小型のモーターボートを借りました。"
+    },
+    {
+      "it": "Il vento ha spinto la barca lontano dalla riva.",
+      "ja": "風が舟を岸から遠くへ押し流しました。"
+    },
+    {
+      "it": "In questo momento siamo tutti sulla stessa barca.",
+      "ja": "今のところ、私たちは全員同じ境遇にあります。"
+    },
+    {
+      "it": "Dopo molti tentativi, ha deciso di tirare i remi in barca.",
+      "ja": "何度も試みた末、彼は手を引くことにしました。"
+    }
+  ]
+},
+{
+  "id": "stesso",
+  "sid": "2026-00352",
+  "word": "stesso",
+  "ipa": "/ˈstesso/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adjective",
+    "label": {
+      "ja": "形容詞・代名詞",
+      "it": "aggettivo e pronome"
+    },
+    "forms": {
+      "masculineSingular": "stesso",
+      "feminineSingular": "stessa",
+      "masculinePlural": "stessi",
+      "femininePlural": "stesse"
+    },
+    "pattern": "lo stesso nome / la stessa cosa / gli stessi problemi / le stesse persone / pronome personale + stesso / lo stesso / nome + stesso"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "social",
+      "business",
+      "education",
+      "comparison"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "ほかのものではなく、以前に述べたものと同一の",
+      "二人以上の人や複数の物に共通している、同じ",
+      "性質・種類・程度などが変わらず等しい",
+      "人称代名詞とともに用いて、本人自身",
+      "名詞の後に置いて、その人・物こそが該当することを強調する",
+      "lo stessoの形で、同じもの・同じ人・同じこと",
+      "時を表す語とともに用いて、まさにその時、遅くともその時までに"
+    ],
+    "it": [
+      "Identico a quello già menzionato e non diverso da esso.",
+      "Comune a due o più persone, cose o situazioni.",
+      "Uguale per natura, qualità, tipo o grado.",
+      "Unito a un pronome personale, indica la persona in quanto tale o senza l’intervento di altri.",
+      "Posto dopo un nome, mette in particolare rilievo proprio quella persona o quella cosa.",
+      "Nella forma lo stesso, indica la medesima persona, cosa o situazione.",
+      "Unito a un’espressione temporale, sottolinea l’immediatezza o la coincidenza del momento."
+    ]
+  },
+
+  "nuance": {
+    "ja": "名詞の前では通常「同じ」を表し、la stessa casaは「同じ家」である。名詞の後では強調になり、il direttore stessoは「部長その人、ほかならぬ部長」を意味する。人称代名詞と組み合わせる場合は性・数を一致させ、io stessoまたはio stessa、noi stessiまたはnoi stesseと言う。定冠詞を伴うlo stessoは「同じもの・同じこと」で、È lo stesso.は「同じことだ」「どちらでも構わない」という意味にもなる。英語のsameとは異なり、比較対象はdiまたはcheで導かれ、Ho la stessa età di Lucaのように表す。",
+    "it": "Davanti al nome esprime normalmente identità: la stessa casa. Dopo il nome assume valore enfatico: il direttore stesso significa «proprio il direttore». Con i pronomi personali concorda nel genere e nel numero: io stesso o io stessa, noi stessi o noi stesse. Sostantivato con l’articolo, lo stesso significa «la medesima persona o cosa»; È lo stesso può anche significare che due possibilità sono equivalenti o che non si ha una preferenza. Il termine di confronto può essere introdotto da di oppure, secondo la costruzione, da che."
+  },
+
+  "etymology": {
+    "ja": "ラテン語の指示詞iste（その）と強意代名詞ipse（自身）が結び付いたiste ipseに由来し、俗ラテン語で一語化・短縮されて現在の形になった。もともと「まさにそのもの、それ自身」を表したため、現代語の「同じ」と「自身」という二つの主要な用法が生じた。スペイン語mismoやポルトガル語mesmoも、異なるラテン語の強意表現から発達した類似の語である。",
+    "it": "Deriva dall’unione latina iste ipse, «proprio quello», formata dal dimostrativo iste e dal pronome intensivo ipse, «in persona, stesso». La sequenza si è progressivamente fusa e ridotta nel latino parlato, dando origine alla forma italiana. L’antico valore di «proprio quello in persona» spiega sia il significato di identità sia quello intensivo e riflessivo."
+  },
+
+  "minimal": [
+    {
+      "word": "stesso",
+      "ja": "以前の対象と同一であること、または人・物そのものを強調する",
+      "it": "indicare identità con un altro elemento oppure mettere in rilievo una persona o cosa in quanto tale"
+    },
+    {
+      "word": "uguale",
+      "ja": "二つ以上の対象が性質・形・量・価値などの点で等しい",
+      "it": "indicare che due elementi hanno caratteristiche, forma, quantità o valore equivalenti"
+    },
+    {
+      "word": "identico",
+      "ja": "違いが認められないほど完全に同一または酷似している",
+      "it": "indicare una completa identità o una somiglianza priva di differenze percepibili"
+    },
+    {
+      "word": "medesimo",
+      "ja": "stessoとほぼ同義だが、やや改まった文章語として使われやすい",
+      "it": "equivalere generalmente a stesso, con una frequenza maggiore nei registri formali o scritti"
+    },
+    {
+      "word": "proprio",
+      "ja": "所有関係を表すほか、「まさに」「ほかならぬ」と対象を強調する",
+      "it": "esprimere possesso oppure mettere in rilievo qualcosa con il senso di precisamente o proprio quello"
+    }
+  ],
+
+  "synonyms": [
+    "medesimo",
+    "uguale",
+    "identico",
+    "proprio",
+    "in persona"
+  ],
+
+  "equivalents": {
+    "en": [
+      "same",
+      "self",
+      "very",
+      "identical"
+    ],
+    "de": [
+      "derselbe",
+      "gleich",
+      "selbst"
+    ],
+    "fr": [
+      "même",
+      "identique",
+      "soi-même"
+    ],
+    "es": [
+      "mismo",
+      "igual",
+      "idéntico"
+    ]
+  },
+
+  "collocations": [
+    "la stessa persona",
+    "la stessa cosa",
+    "la stessa casa",
+    "la stessa strada",
+    "la stessa città",
+    "la stessa scuola",
+    "la stessa stanza",
+    "la stessa macchina",
+    "la stessa domanda",
+    "la stessa risposta",
+    "la stessa idea",
+    "la stessa opinione",
+    "la stessa età",
+    "la stessa ora",
+    "lo stesso giorno",
+    "lo stesso momento",
+    "lo stesso posto",
+    "lo stesso nome",
+    "lo stesso problema",
+    "lo stesso risultato",
+    "lo stesso significato",
+    "lo stesso prezzo",
+    "lo stesso modo",
+    "lo stesso livello",
+    "lo stesso errore",
+    "gli stessi amici",
+    "gli stessi interessi",
+    "gli stessi problemi",
+    "gli stessi risultati",
+    "le stesse parole",
+    "le stesse condizioni",
+    "le stesse regole",
+    "le stesse persone",
+    "essere lo stesso",
+    "rimanere lo stesso",
+    "sembrare lo stesso",
+    "fare lo stesso",
+    "pensare lo stesso",
+    "dire la stessa cosa",
+    "avere lo stesso significato",
+    "avere la stessa età",
+    "nello stesso modo",
+    "nello stesso momento",
+    "nello stesso luogo",
+    "allo stesso tempo",
+    "dello stesso tipo",
+    "della stessa misura",
+    "dello stesso colore",
+    "io stesso",
+    "io stessa",
+    "tu stesso",
+    "tu stessa",
+    "lui stesso",
+    "lei stessa",
+    "noi stessi",
+    "noi stesse",
+    "voi stessi",
+    "voi stesse",
+    "loro stessi",
+    "loro stesse",
+    "il presidente stesso",
+    "la direttrice stessa",
+    "il problema stesso",
+    "oggi stesso",
+    "domani stesso",
+    "quella sera stessa",
+    "in quello stesso istante",
+    "sempre la stessa storia",
+    "essere la stessa cosa",
+    "essere sulla stessa barca",
+    "da sé stesso",
+    "conoscere sé stessi",
+    "contraddire sé stessi",
+    "fine a sé stesso"
+  ],
+
+  "examples": [
+    {
+      "it": "Abitiamo nella stessa città.",
+      "ja": "私たちは同じ町に住んでいます。"
+    },
+    {
+      "it": "Marco e sua sorella hanno gli stessi occhi.",
+      "ja": "マルコと彼の姉妹は同じ目をしています。"
+    },
+    {
+      "it": "Ho fatto di nuovo lo stesso errore.",
+      "ja": "私はまた同じ間違いをしました。"
+    },
+    {
+      "it": "Ho la stessa età di Luca.",
+      "ja": "私はルカと同い年です。"
+    },
+    {
+      "it": "Devi risolvere il problema tu stesso.",
+      "ja": "あなたは自分自身でその問題を解決しなければなりません。"
+    },
+    {
+      "it": "La direttrice stessa ha presentato il progetto.",
+      "ja": "ほかならぬ部長本人がその計画を発表しました。"
+    },
+    {
+      "it": "Possiamo andare in treno o in macchina: per me è lo stesso.",
+      "ja": "列車でも車でも行けます。私はどちらでも構いません。"
+    },
+    {
+      "it": "Ti manderò i documenti oggi stesso.",
+      "ja": "今日中にその書類をあなたへ送ります。"
+    }
+  ]
+},
+{
+  "id": "sicuro",
+  "sid": "2026-00353",
+  "word": "sicuro",
+  "ipa": "/siˈkuro/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adjective",
+    "label": {
+      "ja": "形容詞・名詞的用法",
+      "it": "aggettivo e uso sostantivato"
+    },
+    "forms": {
+      "masculineSingular": "sicuro",
+      "feminineSingular": "sicura",
+      "masculinePlural": "sicuri",
+      "femininePlural": "sicure"
+    },
+    "pattern": "essere sicuro di + nome o infinito / essere sicuro che + frase / sicuro da + pericolo / al sicuro da + pericolo / rendere qualcosa sicuro"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "travel",
+      "business",
+      "safety",
+      "decision",
+      "technology"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "危険・損害・事故などのおそれが少ない、安全な",
+      "人や物が危険から守られている",
+      "事実・結果・判断などについて疑いがない、確かな",
+      "自分の知識・能力・決定などに自信を持っている",
+      "間違いや失敗が起こりにくく、信頼できる",
+      "動作・態度・声などに迷いや不安がない",
+      "確実に入手・達成・維持できる",
+      "al sicuroの形で、安全な場所または危険のない状態"
+    ],
+    "it": [
+      "Privo o relativamente libero dal rischio di pericoli, danni o incidenti.",
+      "Protetto da una minaccia o da una possibile conseguenza negativa.",
+      "Privo di dubbi riguardo a un fatto, a un risultato o a un giudizio.",
+      "Fiducioso nelle proprie capacità, conoscenze o decisioni.",
+      "Affidabile e poco esposto alla possibilità di errori o fallimenti.",
+      "Fermo e privo di esitazione, con riferimento a un gesto, a un atteggiamento o alla voce.",
+      "Che può essere ottenuto, raggiunto o conservato con certezza.",
+      "Nell’espressione al sicuro, luogo o condizione protetta dai pericoli."
+    ]
+  },
+
+  "nuance": {
+    "ja": "危険がないことと、疑いがないことの両方を表す。una strada sicuraは「安全な道」、una notizia sicuraは「確かな情報」、una persona sicura di séは「自信のある人」である。話者自身の確信はSono sicuro di questoまたはSono sicuro che verràのように表す。同じ主語の行為にはdi + 不定詞を使い、Sono sicuro di aver chiuso la portaと言う。肯定文のessere sicuro cheは通常、事実への確信を表す直説法を伴うが、否定・疑問・確信の弱まりがある文では接続法も用いられる。",
+    "it": "Può riferirsi tanto all’assenza di pericolo quanto all’assenza di dubbio. Una strada sicura non presenta rischi rilevanti; una notizia sicura è attendibile; una persona sicura di sé ha fiducia nelle proprie capacità. La certezza personale si esprime con essere sicuro di qualcosa oppure essere sicuro che. Con lo stesso soggetto si usa spesso di seguito dall’infinito: Sono sicuro di aver chiuso la porta. Nelle frasi affermative essere sicuro che regge normalmente l’indicativo; la negazione, la domanda o una certezza attenuata possono favorire il congiuntivo."
+  },
+
+  "etymology": {
+    "ja": "ラテン語sēcūrus（心配のない、安全な）に由来し、sē-（～なしに、離れて）とcūra（心配、配慮）から成る。したがって語源的には「心配から離れている」という意味であり、そこから「安全な」「確信している」「信頼できる」が発達した。英語secure、フランス語sûr、スペイン語seguro、ポルトガル語seguroも同じラテン語に由来する。",
+    "it": "Dal latino sēcūrus, composto da sē-, con valore separativo o privativo, e cūra, «preoccupazione». Etimologicamente indicava quindi chi o ciò che era «senza preoccupazioni». Da questo significato si sono sviluppati i valori di protetto, certo, fiducioso e affidabile. Dalla stessa parola latina derivano l’inglese secure, il francese sûr, lo spagnolo e il portoghese seguro."
+  },
+
+  "minimal": [
+    {
+      "word": "sicuro",
+      "ja": "危険がない、疑いがない、または自信があることを広く表す",
+      "it": "indicare assenza di pericolo o di dubbio oppure fiducia nelle proprie capacità"
+    },
+    {
+      "word": "certo",
+      "ja": "事実・判断・結果などに疑いがなく、確実であることに重点を置く",
+      "it": "mettere soprattutto in rilievo l’assenza di dubbi riguardo a un fatto o a un risultato"
+    },
+    {
+      "word": "protetto",
+      "ja": "外部の危険・攻撃・損害などから具体的に守られている",
+      "it": "essere concretamente difeso da un pericolo, un attacco o un danno"
+    },
+    {
+      "word": "affidabile",
+      "ja": "人・情報・機械などが期待どおりに働くため信頼できる",
+      "it": "meritare fiducia perché funziona o si comporta nel modo atteso"
+    },
+    {
+      "word": "tranquillo",
+      "ja": "不安・緊張・騒ぎなどがなく、心や状況が落ち着いている",
+      "it": "essere privo di agitazione, ansia, rumore o particolare preoccupazione"
+    }
+  ],
+
+  "synonyms": [
+    "certo",
+    "protetto",
+    "affidabile",
+    "fiducioso",
+    "stabile",
+    "garantito"
+  ],
+
+  "equivalents": {
+    "en": [
+      "safe",
+      "secure",
+      "sure",
+      "confident",
+      "reliable"
+    ],
+    "de": [
+      "sicher",
+      "geschützt",
+      "gewiss",
+      "selbstbewusst"
+    ],
+    "fr": [
+      "sûr",
+      "sécurisé",
+      "certain",
+      "confiant"
+    ],
+    "es": [
+      "seguro",
+      "protegido",
+      "cierto",
+      "confiado"
+    ]
+  },
+
+  "collocations": [
+    "un luogo sicuro",
+    "un posto sicuro",
+    "una zona sicura",
+    "una città sicura",
+    "una strada sicura",
+    "una casa sicura",
+    "un ambiente sicuro",
+    "un viaggio sicuro",
+    "un mezzo sicuro",
+    "un prodotto sicuro",
+    "un farmaco sicuro",
+    "un metodo sicuro",
+    "un sistema sicuro",
+    "una connessione sicura",
+    "un sito sicuro",
+    "una password sicura",
+    "un investimento sicuro",
+    "un lavoro sicuro",
+    "un reddito sicuro",
+    "un risultato sicuro",
+    "una vittoria sicura",
+    "una fonte sicura",
+    "una notizia sicura",
+    "una prova sicura",
+    "una risposta sicura",
+    "un segno sicuro",
+    "un passo sicuro",
+    "una mano sicura",
+    "una voce sicura",
+    "un tono sicuro",
+    "un metodo semplice e sicuro",
+    "essere sicuro",
+    "sentirsi sicuro",
+    "sembrare sicuro",
+    "diventare più sicuro",
+    "essere assolutamente sicuro",
+    "essere abbastanza sicuro",
+    "essere quasi sicuro",
+    "non essere sicuro",
+    "non esserne sicuro",
+    "essere sicuro di qualcosa",
+    "essere sicuro di sé",
+    "essere sicuro del risultato",
+    "essere sicuro della risposta",
+    "essere sicuro di aver capito",
+    "essere sicuro di poterlo fare",
+    "essere sicuro che",
+    "sei sicuro?",
+    "ne sei sicuro?",
+    "sicuro al cento per cento",
+    "rendere sicuro un luogo",
+    "rendere sicuro un sistema",
+    "mantenere qualcuno al sicuro",
+    "mettere qualcuno al sicuro",
+    "mettere qualcosa al sicuro",
+    "essere al sicuro",
+    "stare al sicuro",
+    "portare qualcuno al sicuro",
+    "trovarsi al sicuro",
+    "al sicuro dal pericolo",
+    "al sicuro dalla pioggia",
+    "al sicuro da occhi indiscreti",
+    "in modo sicuro",
+    "accesso sicuro",
+    "pagamento sicuro",
+    "guida sicura",
+    "distanza di sicurezza",
+    "porto sicuro",
+    "buon viaggio e viaggio sicuro"
+  ],
+
+  "examples": [
+    {
+      "it": "Questo quartiere è tranquillo e sicuro.",
+      "ja": "この地区は静かで安全です。"
+    },
+    {
+      "it": "Sei sicuro di aver chiuso la porta?",
+      "ja": "ドアを閉めたことは確かですか。"
+    },
+    {
+      "it": "Sono sicura che Marco arriverà in orario.",
+      "ja": "マルコが時間どおりに到着すると私は確信しています。"
+    },
+    {
+      "it": "Non sono ancora sicuro della risposta.",
+      "ja": "私はまだその答えに確信がありません。"
+    },
+    {
+      "it": "Dopo alcuni mesi di pratica, si sente più sicura di sé.",
+      "ja": "数か月練習した後、彼女は以前より自信を持てるようになりました。"
+    },
+    {
+      "it": "Abbiamo messo i documenti importanti al sicuro.",
+      "ja": "私たちは重要な書類を安全な場所に保管しました。"
+    },
+    {
+      "it": "Il sito utilizza una connessione sicura per il pagamento.",
+      "ja": "そのサイトは決済に安全な接続を使用しています。"
+    },
+    {
+      "it": "Non appena tutti furono al sicuro, la nave lasciò il porto.",
+      "ja": "全員の安全が確保されるとすぐに、その船は港を離れました。"
+    }
+  ]
+},
+{
+  "id": "alto",
+  "sid": "2026-00354",
+  "word": "alto",
+  "ipa": "/ˈalto/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adjective",
+    "label": {
+      "ja": "形容詞・名詞・副詞的用法",
+      "it": "aggettivo, sostantivo e uso avverbiale"
+    },
+    "forms": {
+      "masculineSingular": "alto",
+      "feminineSingular": "alta",
+      "masculinePlural": "alti",
+      "femininePlural": "alte"
+    },
+    "pattern": "essere alto + misura / nome + alto, alta, alti, alte / parlare o gridare ad alta voce / in alto / dall’alto / verso l’alto"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "description",
+      "travel",
+      "business",
+      "geography",
+      "measurement",
+      "music"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人・動物などの身長が高い、背が高い",
+      "物が下端・地面・基準点から上方へ大きく伸びている、高い",
+      "場所が海面や周囲より高い位置にある",
+      "数値・価格・温度・水準・程度などが大きい、高い",
+      "音・声・音量などが大きい",
+      "地位・身分・階級・重要性などが上位の、高位の",
+      "品質・能力・価値などが優れている、高度な",
+      "名詞として、上部・高い場所・高音域",
+      "in altoの形で、上に・高い所に",
+      "alto mareの形で、岸から離れた外海・沖合"
+    ],
+    "it": [
+      "Che ha una statura notevole, con riferimento a una persona o a un animale.",
+      "Che si estende notevolmente verso l’alto rispetto alla base, al terreno o a un punto di riferimento.",
+      "Situato a un’elevata altitudine rispetto al livello del mare o all’ambiente circostante.",
+      "Elevato per quantità, prezzo, temperatura, livello, intensità o grado.",
+      "Forte o intenso, con riferimento alla voce, al suono o al volume.",
+      "Superiore per posizione gerarchica, grado, autorità o importanza.",
+      "Notevole per qualità, capacità, valore o complessità.",
+      "Come sostantivo, parte superiore, luogo elevato o registro musicale acuto.",
+      "Nell’espressione in alto, nella parte superiore o verso una posizione elevata.",
+      "Nell’espressione alto mare, zona marina lontana dalla costa."
+    ]
+  },
+
+  "nuance": {
+    "ja": "人の身長にはaltoを使い、長さを表すlungoとは区別する。È alto un metro e ottantaは「身長1メートル80センチである」という意味になる。物理的な高さだけでなく、prezzo alto、temperatura alta、rischio altoのように数値や程度にも広く用いられる。声にはparlare ad alta voce「大きな声で話す」を使う。反対語は多くの場合bassoだが、長さの反対はcorto、音量の反対にはbassoまたはpianoが使われる。",
+    "it": "Riferito a una persona indica la statura e si distingue da lungo, che riguarda l’estensione o la lunghezza. È alto un metro e ottanta significa che la sua statura misura un metro e ottanta. Oltre all’altezza fisica, si usa ampiamente con valori e gradi: prezzo alto, temperatura alta, rischio alto. Per la voce è comune parlare ad alta voce. Il contrario è spesso basso; per la lunghezza si oppone invece corto, mentre per il volume si usano basso o piano."
+  },
+
+  "etymology": {
+    "ja": "ラテン語altus（高い、深い）に由来する。altusはalere（養う、成長させる）と関係し、もともと「成長した、大きくなった」という概念を持っていた。ラテン語では基準面から大きく隔たっていることを表したため、上向きの「高い」と下向きの「深い」の両方を意味した。同じ語族にはaltezza、altitudine、altareがあり、英語altitudeやフランス語hautとは意味上対応する。",
+    "it": "Dal latino altus, che significava tanto «alto» quanto «profondo» ed era collegato ad alere, «nutrire, far crescere». Esprimeva una grande distanza rispetto a un livello di riferimento, sia verso l’alto sia verso il basso. Il duplice valore antico sopravvive in alcune espressioni come alto mare. Alla stessa famiglia appartengono altezza e altitudine; l’inglese altitude deriva dalla medesima base latina."
+  },
+
+  "minimal": [
+    {
+      "word": "alto",
+      "ja": "高さ・身長・数値・程度などが基準より大きい",
+      "it": "avere altezza, statura, valore o grado superiore alla misura considerata normale"
+    },
+    {
+      "word": "basso",
+      "ja": "高さ・身長・数値・程度などが基準より小さい",
+      "it": "avere altezza, statura, valore o grado inferiore alla misura considerata normale"
+    },
+    {
+      "word": "lungo",
+      "ja": "物の端から端までの距離や時間的な継続が大きい",
+      "it": "avere una notevole estensione da un’estremità all’altra oppure una notevole durata"
+    },
+    {
+      "word": "elevato",
+      "ja": "位置・数値・程度・質などが高い、altoより改まった表現になりやすい",
+      "it": "essere alto per posizione, valore, grado o qualità, spesso in un registro più formale"
+    },
+    {
+      "word": "profondo",
+      "ja": "表面・入口・上端などから内部または下方への距離が大きい",
+      "it": "avere una notevole distanza dalla superficie, dall’ingresso o dal margine superiore"
+    }
+  ],
+
+  "synonyms": [
+    "elevato",
+    "grande",
+    "notevole",
+    "superiore",
+    "acuto",
+    "forte"
+  ],
+
+  "equivalents": {
+    "en": [
+      "high",
+      "tall",
+      "loud",
+      "upper"
+    ],
+    "de": [
+      "hoch",
+      "groß",
+      "laut"
+    ],
+    "fr": [
+      "haut",
+      "grand",
+      "élevé",
+      "fort"
+    ],
+    "es": [
+      "alto",
+      "elevado",
+      "fuerte"
+    ]
+  },
+
+  "collocations": [
+    "un uomo alto",
+    "una donna alta",
+    "un ragazzo alto",
+    "una ragazza alta",
+    "essere alto",
+    "essere molto alto",
+    "essere abbastanza alto",
+    "essere più alto di qualcuno",
+    "essere alto un metro e ottanta",
+    "alto e magro",
+    "alto e robusto",
+    "una persona di alta statura",
+    "un edificio alto",
+    "una torre alta",
+    "un muro alto",
+    "un soffitto alto",
+    "un albero alto",
+    "una montagna alta",
+    "un ponte alto",
+    "un tavolo alto",
+    "un tacco alto",
+    "un piano alto",
+    "il piano più alto",
+    "la parte alta",
+    "la zona alta della città",
+    "l’alta montagna",
+    "l’alto corso del fiume",
+    "l’alto mare",
+    "un prezzo alto",
+    "un costo alto",
+    "un valore alto",
+    "un numero alto",
+    "uno stipendio alto",
+    "un reddito alto",
+    "una temperatura alta",
+    "una pressione alta",
+    "una velocità alta",
+    "un livello alto",
+    "un rischio alto",
+    "un tasso alto",
+    "un consumo alto",
+    "un rendimento alto",
+    "un’alta probabilità",
+    "un’alta percentuale",
+    "un’alta qualità",
+    "un alto livello di competenza",
+    "un alto grado di precisione",
+    "alta tecnologia",
+    "alta velocità",
+    "alta definizione",
+    "alta moda",
+    "alta cucina",
+    "alta stagione",
+    "alta marea",
+    "alta tensione",
+    "alta pressione",
+    "un alto funzionario",
+    "un alto ufficiale",
+    "un alto dirigente",
+    "un’alta carica",
+    "l’alta società",
+    "l’alta borghesia",
+    "la voce alta",
+    "un suono alto",
+    "una nota alta",
+    "parlare ad alta voce",
+    "leggere ad alta voce",
+    "gridare ad alta voce",
+    "pensare ad alta voce",
+    "alzare la voce",
+    "guardare in alto",
+    "andare più in alto",
+    "volare in alto",
+    "saltare in alto",
+    "trovarsi in alto",
+    "spostare qualcosa verso l’alto",
+    "cadere dall’alto",
+    "vedere qualcosa dall’alto",
+    "dall’alto della montagna",
+    "tenere la testa alta",
+    "a testa alta",
+    "mirare in alto",
+    "volare alto"
+  ],
+
+  "examples": [
+    {
+      "it": "Mio fratello è alto un metro e novanta.",
+      "ja": "私の兄弟は身長が1メートル90センチあります。"
+    },
+    {
+      "it": "Vivono al piano più alto dell’edificio.",
+      "ja": "彼らはその建物の最上階に住んでいます。"
+    },
+    {
+      "it": "I prezzi degli alberghi sono molto alti in alta stagione.",
+      "ja": "繁忙期にはホテルの料金が非常に高くなります。"
+    },
+    {
+      "it": "Oggi la temperatura massima sarà piuttosto alta.",
+      "ja": "今日の最高気温はかなり高くなるでしょう。"
+    },
+    {
+      "it": "Puoi leggere questa frase ad alta voce?",
+      "ja": "この文を声に出して読んでもらえますか。"
+    },
+    {
+      "it": "L’aereo volava alto sopra le montagne.",
+      "ja": "飛行機は山々の上空を高く飛んでいました。"
+    },
+    {
+      "it": "Questa macchina offre un alto livello di sicurezza.",
+      "ja": "この機械は高い水準の安全性を備えています。"
+    },
+    {
+      "it": "La nave si trovava già in alto mare quando cominciò la tempesta.",
+      "ja": "嵐が始まったとき、船はすでに沖合にいました。"
+    }
+  ]
 }
 ]
