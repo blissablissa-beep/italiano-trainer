@@ -8409,7 +8409,7 @@
   "id": "lungo",
   "sid": "2026-00358",
   "word": "lungo",
-  "ipa": "/ˈlunɡo/",
+  "ipa": "/ˈluŋɡo/",
   "level": "A1",
   "frequency": "very_common",
 
@@ -8419,13 +8419,8 @@
       "ja": "形容詞・副詞・前置詞",
       "it": "aggettivo, avverbio e preposizione"
     },
-    "forms": {
-      "masculineSingular": "lungo",
-      "feminineSingular": "lunga",
-      "masculinePlural": "lunghi",
-      "femininePlural": "lunghe"
-    },
-    "pattern": "nome + lungo, lunga, lunghi, lunghe / essere lungo + misura / a lungo / per tutto il lungo di / lungo + nome"
+    "forms": "lungo / lunga / lunghi / lunghe",
+    "pattern": "essere lungo / lungo + nome / a lungo / lungo + luogo o percorso"
   },
 
   "usage": {
@@ -8438,43 +8433,166 @@
     ],
     "situations": [
       "conversation",
-      "description",
       "travel",
       "time",
-      "distance",
-      "business",
-      "geography"
+      "description",
+      "measurement"
     ]
   },
 
   "meaning": {
     "ja": [
-      "物の一端から他端までの距離が大きい、長い",
-      "道・川・海岸などが遠くまで続いている",
-      "衣服・髪・身体の一部などの長さが大きい",
+      "物・道・身体の一部などの端から端までの距離が大きい",
+      "衣服・髪・身体の一部などが通常より長い",
       "時間・期間・出来事などが長く続く",
-      "文章・説明・話などの分量が多い、長い",
+      "文章・説明・話などの分量が多い",
       "距離・範囲・到達距離などが大きい",
-      "a lungoの形で、長時間・長期間にわたって",
+      "a lungoの形で、長時間、長期間",
       "前置詞として、道・川・壁などに沿って",
-      "全体の一方の端から他方の端まで続いて"
+      "全体の一方の端から他方の端まで続いている"
     ],
     "it": [
-      "Che presenta una notevole distanza da un’estremità all’altra.",
-      "Che si estende per una grande distanza, con riferimento a strade, fiumi o coste.",
-      "Di notevole lunghezza, con riferimento a vestiti, capelli o parti del corpo.",
+      "Che presenta una notevole estensione da un’estremità all’altra.",
+      "Che ha una lunghezza superiore alla norma, riferito a vestiti, capelli o parti del corpo.",
       "Che dura per un periodo di tempo considerevole.",
-      "Esteso o abbondante, con riferimento a un testo, un discorso o una spiegazione.",
-      "Che copre una grande distanza, estensione o capacità di raggiungere qualcosa.",
-      "Nell’espressione a lungo, per molto tempo o per un periodo prolungato.",
-      "Come preposizione, seguendo il percorso, il margine o lo sviluppo di qualcosa.",
-      "Esteso da un’estremità all"
+      "Esteso o abbondante per quantità, riferito a un testo, un discorso o una spiegazione.",
+      "Che copre una grande distanza o un ampio percorso.",
+      "Nell’espressione a lungo, per molto tempo.",
+      "Come preposizione, seguendo il corso o il margine di una strada, di un fiume o di un altro elemento.",
+      "Esteso da un’estremità all’altra di una superficie o di un percorso."
     ]
   },
 
   "nuance": {
-    "ja": "lungoは端から端までの距離、または時間的な継続が大きいことを表す。una strada lungaは「長い道」、una ri residents?" 
-  }
+    "ja": "lungoは、物の端から端までの距離だけでなく、時間・文章・移動経路などの長さにも広く用いられる。形容詞としては名詞の性・数に応じてlungo、lunga、lunghi、lungheと変化する。un viaggio lungoは「長い旅行」、un lungo viaggioは「長期間にわたる旅行」という評価をやや強調する。a lungoは「長い間」、前置詞のlungoはlungo il fiume「川沿いに」のように、何かに沿った位置や移動を表す。altoは高さ、largoは幅、grandeは全体的な大きさを中心に表す。",
+    "it": "Lungo esprime principalmente una notevole estensione nello spazio o nel tempo. Come aggettivo concorda con il nome: lungo, lunga, lunghi, lunghe. La posizione può modificare leggermente la prospettiva: un viaggio lungo descrive soprattutto la durata, mentre un lungo viaggio tende a presentarla come una caratteristica significativa. A lungo significa per molto tempo. Come preposizione, lungo indica una posizione o un movimento che segue il corso o il margine di qualcosa: lungo il fiume. Alto riguarda soprattutto l’altezza, largo la larghezza e grande le dimensioni complessive."
+  },
+
+  "etymology": {
+    "ja": "ラテン語longus（長い、遠くまで延びた）に由来する。空間的な長さから、時間・文章・過程などの長さを表す意味へ広がった。同じ語族にはlunghezza（長さ）、allungare（長くする、伸ばす）、prolungare（延長する）、英語long、フランス語long、スペイン語largoなどがある。",
+    "it": "Dal latino longus, «lungo, esteso, distante». Dal significato spaziale si sono sviluppati anche gli usi riferiti alla durata, ai testi e ai processi. Alla stessa famiglia appartengono lunghezza, allungare e prolungare."
+  },
+
+  "minimal": [
+    {
+      "word": "lungo",
+      "ja": "端から端までの距離、または時間的な継続が大きい",
+      "it": "che ha una notevole estensione nello spazio o nel tempo"
+    },
+    {
+      "word": "corto",
+      "ja": "端から端までの距離、または時間的な継続が小さい",
+      "it": "che ha una ridotta estensione nello spazio o nel tempo"
+    },
+    {
+      "word": "alto",
+      "ja": "下から上までの高さが大きい",
+      "it": "che presenta una notevole estensione verticale"
+    },
+    {
+      "word": "largo",
+      "ja": "左右方向の幅が広い、または空間に余裕がある",
+      "it": "che presenta una notevole estensione in larghezza"
+    },
+    {
+      "word": "grande",
+      "ja": "全体的な寸法・規模・程度が大きい",
+      "it": "che ha dimensioni, quantità o importanza considerevoli"
+    }
+  ],
+
+  "synonyms": [
+    "esteso",
+    "prolungato",
+    "duraturo",
+    "ampio",
+    "prolisso"
+  ],
+
+  "equivalents": {
+    "en": [
+      "long",
+      "lengthy",
+      "along"
+    ],
+    "de": [
+      "lang",
+      "langwierig",
+      "entlang"
+    ],
+    "fr": [
+      "long",
+      "prolongé",
+      "le long de"
+    ],
+    "es": [
+      "largo",
+      "prolongado",
+      "a lo largo de"
+    ]
+  },
+
+  "collocations": [
+    "un lungo viaggio",
+    "una lunga strada",
+    "un lungo periodo",
+    "una lunga attesa",
+    "una lunga giornata",
+    "una lunga storia",
+    "un lungo discorso",
+    "una lunga spiegazione",
+    "una lunga distanza",
+    "un lungo percorso",
+    "un ponte lungo",
+    "una gonna lunga",
+    "un vestito lungo",
+    "avere i capelli lunghi",
+    "avere le gambe lunghe",
+    "essere lungo un metro",
+    "durare a lungo",
+    "aspettare a lungo",
+    "vivere a lungo",
+    "parlare a lungo",
+    "pensare a lungo",
+    "lavorare a lungo",
+    "non molto a lungo",
+    "più a lungo",
+    "andare per le lunghe",
+    "farla lunga",
+    "lungo la strada",
+    "lungo il fiume",
+    "lungo la costa",
+    "lungo il percorso",
+    "lungo tutto il tragitto",
+    "nel lungo periodo"
+  ],
+
+  "examples": [
+    {
+      "it": "Questa strada è molto lunga.",
+      "ja": "この道はとても長いです。"
+    },
+    {
+      "it": "Marta ha i capelli lunghi.",
+      "ja": "マルタは髪が長いです。"
+    },
+    {
+      "it": "Abbiamo fatto un lungo viaggio in treno.",
+      "ja": "私たちは列車で長い旅をしました。"
+    },
+    {
+      "it": "La riunione è durata più a lungo del previsto.",
+      "ja": "会議は予定より長く続きました。"
+    },
+    {
+      "it": "Ne abbiamo parlato a lungo.",
+      "ja": "私たちはそのことについて長時間話しました。"
+    },
+    {
+      "it": "Abbiamo camminato lungo il fiume.",
+      "ja": "私たちは川沿いを歩きました。"
+    }
+  ]
 },
 {
   "id": "stanco",
