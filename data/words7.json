@@ -13311,5 +13311,2170 @@
       "ja": "昨日、私たちはものすごく面白い映画を見ました。"
     }
   ]
+},
+{
+  "id": "attimo",
+  "sid": "2026-00377",
+  "word": "attimo",
+  "ipa": "/ˈattimo/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "attimi",
+    "pattern": "un attimo / per un attimo / in un attimo / fra o tra un attimo / da un attimo all’altro / aspettare un attimo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "time",
+      "waiting",
+      "emotions",
+      "travel",
+      "emergency",
+      "narration"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "非常に短い時間、一瞬・瞬間",
+      "ある出来事が起きる特定の瞬間",
+      "少し待ってもらうための短い時間",
+      "すぐ後に何かが起こることを示すわずかな時間",
+      "記憶に残る短い場面・ひととき",
+      "突然の判断・感情・知覚が生じる瞬間",
+      "危険や機会が現れてすぐに消える短い時間",
+      "慣用表現で、即時性・一時性・切迫性を表す"
+    ],
+    "it": [
+      "Intervallo di tempo estremamente breve.",
+      "Momento preciso nel quale si verifica un avvenimento.",
+      "Breve periodo richiesto per far attendere qualcuno.",
+      "Tempo brevissimo dopo il quale qualcosa sta per accadere.",
+      "Breve esperienza o momento emotivo conservato nella memoria.",
+      "Istante nel quale nasce improvvisamente una decisione, un’emozione o una percezione.",
+      "Tempo limitatissimo nel quale appare e scompare un pericolo o un’occasione.",
+      "Nelle espressioni idiomatiche, elemento che indica immediatezza, temporaneità o imminenza."
+    ]
+  },
+
+  "nuance": {
+    "ja": "attimoは客観的な長さが決まった単位ではなく、話者が非常に短いと感じる時間を表す。momentoは短い時間から歴史的な時期まで幅広く使えるが、attimoは通常それより短い。istanteも「瞬間」だが、やや文章語・精密な響きを持つことがある。Un attimo!は実際に一瞬だけとは限らず、相手に「少し待って」と頼む定型表現である。fra un attimoは未来の「まもなく」、per un attimoは継続時間の「一瞬の間」、in un attimoは完了までの速さを表す。",
+    "it": "Attimo non è un’unità cronologica precisa, ma indica un tempo percepito come brevissimo. Momento può riferirsi tanto a un breve intervallo quanto a un periodo più ampio; attimo è normalmente più limitato. Istante è molto vicino ad attimo, ma può avere un tono più letterario o preciso. Un attimo! è una formula con cui si chiede di aspettare e non promette necessariamente una durata letterale di un solo attimo. Fra un attimo indica imminenza; per un attimo durata; in un attimo la rapidità con cui qualcosa si compie."
+  },
+
+  "etymology": {
+    "ja": "後期ラテン語atŏmusを経て、古代ギリシア語átomos（分割できないもの）に由来する。átomosはa-（～でない）とtémnein（切る、分割する）から成る。物質については「原子」を表すatomoとなり、時間については「これ以上分けられない最小の瞬間」という意味からattimoが生じた。したがってattimoとatomoは語源を共有する。",
+    "it": "Deriva dal latino tardo atŏmus, a sua volta dal greco antico átomos, «indivisibile», formato da a-, «non», e témnein, «tagliare, dividere». Applicata alla materia, la parola ha dato atomo; applicata al tempo, ha indicato il più piccolo intervallo concepibile e ha dato attimo. Attimo e atomo condividono quindi la stessa origine."
+  },
+
+  "minimal": [
+    {
+      "word": "attimo",
+      "ja": "話者が非常に短いと感じる時間、ほんの一瞬",
+      "it": "intervallo percepito come estremamente breve"
+    },
+    {
+      "word": "momento",
+      "ja": "短い瞬間からある程度続く時期まで、幅広い時間を表す",
+      "it": "punto o periodo di tempo la cui durata può essere breve oppure relativamente ampia"
+    },
+    {
+      "word": "istante",
+      "ja": "正確な一点として捉えられるごく短い瞬間",
+      "it": "punto temporale brevissimo considerato con particolare precisione"
+    },
+    {
+      "word": "secondo",
+      "ja": "時間を客観的に測定する単位としての1秒",
+      "it": "unità oggettiva di misura del tempo pari a un sessantesimo di minuto"
+    },
+    {
+      "word": "periodo",
+      "ja": "始まりと終わりを持ち、一定時間継続する時期・期間",
+      "it": "intervallo dotato di un inizio e di una fine e generalmente più esteso"
+    }
+  ],
+
+  "synonyms": [
+    "istante",
+    "momento",
+    "secondo",
+    "istante fugace",
+    "battito di ciglia"
+  ],
+
+  "equivalents": {
+    "en": [
+      "moment",
+      "instant",
+      "second",
+      "split second"
+    ],
+    "de": [
+      "Augenblick",
+      "Moment",
+      "Sekunde"
+    ],
+    "fr": [
+      "instant",
+      "moment",
+      "seconde"
+    ],
+    "es": [
+      "instante",
+      "momento",
+      "segundo"
+    ]
+  },
+
+  "collocations": [
+    "un attimo",
+    "un solo attimo",
+    "un breve attimo",
+    "un attimo preciso",
+    "un attimo importante",
+    "un attimo felice",
+    "un attimo triste",
+    "un attimo difficile",
+    "un attimo di paura",
+    "un attimo di panico",
+    "un attimo di esitazione",
+    "un attimo di silenzio",
+    "un attimo di calma",
+    "un attimo di pace",
+    "un attimo di riposo",
+    "un attimo di distrazione",
+    "un attimo di debolezza",
+    "un attimo di follia",
+    "un attimo di felicità",
+    "un attimo di libertà",
+    "avere un attimo",
+    "avere un attimo di tempo",
+    "aspettare un attimo",
+    "attendere un attimo",
+    "fermarsi un attimo",
+    "restare un attimo",
+    "rimanere un attimo",
+    "sedersi un attimo",
+    "riposarsi un attimo",
+    "pensare un attimo",
+    "riflettere un attimo",
+    "chiudere gli occhi un attimo",
+    "guardare un attimo",
+    "ascoltare un attimo",
+    "venire un attimo",
+    "tornare fra un attimo",
+    "scusarsi un attimo",
+    "perdere un attimo",
+    "non perdere neanche un attimo",
+    "godersi ogni attimo",
+    "vivere ogni attimo",
+    "ricordare quell’attimo",
+    "cogliere l’attimo",
+    "catturare un attimo",
+    "immortalare un attimo",
+    "un attimo prima",
+    "un attimo dopo",
+    "un attimo fa",
+    "un attimo più tardi",
+    "nell’attimo esatto",
+    "proprio in quell’attimo",
+    "in quello stesso attimo",
+    "all’ultimo attimo",
+    "fino all’ultimo attimo",
+    "dal primo all’ultimo attimo",
+    "per un attimo",
+    "per qualche attimo",
+    "esitare per un attimo",
+    "fermarsi per un attimo",
+    "dimenticare per un attimo",
+    "credere per un attimo",
+    "avere paura per un attimo",
+    "in un attimo",
+    "capire in un attimo",
+    "sparire in un attimo",
+    "cambiare in un attimo",
+    "risolvere tutto in un attimo",
+    "addormentarsi in un attimo",
+    "fra un attimo",
+    "tra un attimo",
+    "arrivare fra un attimo",
+    "cominciare tra un attimo",
+    "partire fra un attimo",
+    "essere pronto tra un attimo",
+    "da un attimo all’altro",
+    "poter accadere da un attimo all’altro",
+    "aspettarsi qualcosa da un attimo all’altro",
+    "di attimo in attimo",
+    "cambiare di attimo in attimo",
+    "vivere attimo per attimo",
+    "momento per momento",
+    "senza perdere un attimo",
+    "non avere un attimo di pace",
+    "non fermarsi un attimo",
+    "non pensarci neanche per un attimo",
+    "Un attimo!",
+    "Aspetta un attimo!",
+    "Solo un attimo!",
+    "Dammi un attimo!",
+    "Hai un attimo?",
+    "Ci vuole un attimo.",
+    "È questione di un attimo.",
+    "È stato solo un attimo.",
+    "in meno di un attimo",
+    "in un batter d’occhio",
+    "la felicità di un attimo",
+    "la paura di un attimo",
+    "l’attimo fuggente",
+    "cogliere l’attimo fuggente"
+  ],
+
+  "examples": [
+    {
+      "it": "Aspetta un attimo, non sono ancora pronto.",
+      "ja": "少し待ってください。まだ準備ができていません。"
+    },
+    {
+      "it": "Torno fra un attimo.",
+      "ja": "すぐに戻ります。"
+    },
+    {
+      "it": "Per un attimo ho avuto paura di cadere.",
+      "ja": "一瞬、転ぶのではないかと怖くなりました。"
+    },
+    {
+      "it": "Il cielo è diventato scuro in un attimo.",
+      "ja": "空は瞬く間に暗くなりました。"
+    },
+    {
+      "it": "Il treno potrebbe arrivare da un attimo all’altro.",
+      "ja": "列車は今にも到着するかもしれません。"
+    },
+    {
+      "it": "Hai un attimo per parlare di questa richiesta?",
+      "ja": "この依頼について話す時間が少しありますか。"
+    },
+    {
+      "it": "Non ho creduto neanche per un attimo alla sua storia.",
+      "ja": "私は彼の話を一瞬たりとも信じませんでした。"
+    },
+    {
+      "it": "La fotografia ha catturato un attimo di pura felicità.",
+      "ja": "その写真は純粋な幸福の一瞬を捉えました。"
+    }
+  ]
+},
+{
+  "id": "fuori",
+  "sid": "2026-00378",
+  "word": "fuori",
+  "ipa": "/ˈfwɔri/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "副詞・前置詞・形容詞的用法・名詞的用法",
+      "it": "avverbio, preposizione, uso aggettivale e sostantivato"
+    },
+    "invariable": true,
+    "pattern": "essere, stare o andare fuori / fuori da + luogo, gruppo o limite / lasciare fuori qualcuno o qualcosa / nome + fuori / il fuori"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "travel",
+      "movement",
+      "business",
+      "social",
+      "technology"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "建物・部屋・容器などの外に、外で",
+      "内部から外部へ、外へ",
+      "家・職場など普段いる場所を離れて",
+      "町・国・地域などの境界を越えた場所に",
+      "集団・活動・競争・議論などから除外されて",
+      "定められた範囲・限度・規則などを越えて",
+      "機械・設備などが作動・使用できない状態で",
+      "商品などが在庫切れ・販売終了の状態で",
+      "流行・時期・季節などから外れて",
+      "通常・常識・適切さから外れた、異常な",
+      "名詞的に、物や場所の外側・外部"
+    ],
+    "it": [
+      "All’esterno di un edificio, una stanza, un recipiente o un altro spazio chiuso.",
+      "Dall’interno verso l’esterno.",
+      "Lontano da casa, dal luogo di lavoro o dal posto abituale.",
+      "Oltre i confini di una città, un paese, una regione o un territorio.",
+      "Escluso da un gruppo, un’attività, una competizione o una discussione.",
+      "Oltre un ambito, un limite, una regola o una condizione stabilita.",
+      "In uno stato nel quale una macchina o un servizio non funziona o non può essere utilizzato.",
+      "Non più disponibile, in vendita o presente in magazzino.",
+      "Non corrispondente alla moda, alla stagione o al momento opportuno.",
+      "Estraneo alla normalità, al buon senso o all’appropriatezza.",
+      "Come sostantivo, parte o spazio esterno di qualcosa."
+    ]
+  },
+
+  "nuance": {
+    "ja": "fuori単独では位置・方向を表し、Sono fuoriは「私は外にいる／外出中だ」、Vado fuoriは「外へ出る」となる。起点や基準となる場所はfuori daで導き、fuori dalla stanza「部屋の外に」と言う。all’apertoは屋根のない戸外での活動に重点を置き、mangiare all’aperto「屋外で食べる」となる。形容詞的に名詞の後へ置く場合も語形変化せず、una giornata fuori、persone fuori sedeのように使う。",
+    "it": "Usato da solo, fuori indica posizione o direzione: Sono fuori significa che mi trovo all’esterno o che non sono in casa; Vado fuori indica il movimento verso l’esterno. Il punto di riferimento è introdotto da da: fuori dalla stanza. All’aperto mette in rilievo uno spazio non coperto, soprattutto per attività come mangiare all’aperto. Negli usi aggettivali fuori rimane invariabile e segue spesso il nome: una giornata fuori, studenti fuori sede."
+  },
+
+  "etymology": {
+    "ja": "ラテン語foris（外で）およびforas（外へ）に由来する。これらは「扉・戸外」を表す古い語族に属し、場所の内部と外部の対立を示した。同じ語族にはforestiero、forestale、forenseなどがあり、英語foreign、forest、フランス語forainもラテン語系の関連語である。",
+    "it": "Deriva dal latino foris, «fuori, all’esterno», con influenza di foras, «verso l’esterno». Le due forme appartenevano a un’antica famiglia legata alla porta e allo spazio esterno. Alla stessa area etimologica sono collegati forestiero, forestale e forense. Anche l’inglese foreign e forest e il francese forain risalgono a forme latine della stessa famiglia."
+  },
+
+  "minimal": [
+    {
+      "word": "fuori",
+      "ja": "内部・範囲・集団などの外に、または外へ",
+      "it": "all’esterno o verso l’esterno di uno spazio, un limite o un gruppo"
+    },
+    {
+      "word": "dentro",
+      "ja": "物・場所・範囲などの内部に、または内部へ",
+      "it": "nella parte interna o verso l’interno di uno spazio o di un limite"
+    },
+    {
+      "word": "esterno",
+      "ja": "物の外側に位置する、または組織などに属さない",
+      "it": "situato nella parte di fuori oppure non appartenente a un’organizzazione"
+    },
+    {
+      "word": "all’aperto",
+      "ja": "建物内ではなく、空の下にある戸外で",
+      "it": "in uno spazio esterno non coperto da un edificio"
+    },
+    {
+      "word": "lontano",
+      "ja": "基準となる人・物・場所から大きく離れて",
+      "it": "a una notevole distanza da una persona, una cosa o un luogo"
+    }
+  ],
+
+  "synonyms": [
+    "all’esterno",
+    "all’aperto",
+    "lontano",
+    "escluso",
+    "oltre",
+    "esternamente"
+  ],
+
+  "equivalents": {
+    "en": [
+      "outside",
+      "out",
+      "away",
+      "off"
+    ],
+    "de": [
+      "draußen",
+      "hinaus",
+      "außerhalb",
+      "aus"
+    ],
+    "fr": [
+      "dehors",
+      "hors de",
+      "à l’extérieur"
+    ],
+    "es": [
+      "fuera",
+      "afuera",
+      "fuera de"
+    ]
+  },
+
+  "collocations": [
+    "essere fuori",
+    "stare fuori",
+    "andare fuori",
+    "uscire fuori",
+    "venire fuori",
+    "portare fuori",
+    "tirare fuori",
+    "mettere fuori",
+    "lasciare fuori",
+    "buttare fuori",
+    "mandare fuori",
+    "guardare fuori",
+    "aspettare fuori",
+    "mangiare fuori",
+    "cenare fuori",
+    "pranzare fuori",
+    "dormire fuori",
+    "passare la notte fuori",
+    "restare fuori",
+    "rimanere fuori",
+    "vivere fuori",
+    "lavorare fuori",
+    "giocare fuori",
+    "essere ancora fuori",
+    "essere già fuori",
+    "essere sempre fuori",
+    "essere tutto il giorno fuori",
+    "fuori casa",
+    "fuori città",
+    "fuori paese",
+    "fuori regione",
+    "fuori Italia",
+    "fuori ufficio",
+    "fuori sede",
+    "fuori zona",
+    "fuori centro",
+    "fuori stagione",
+    "fuori orario",
+    "fuori tempo",
+    "fuori luogo",
+    "fuori strada",
+    "fuori pista",
+    "fuori campo",
+    "fuori gioco",
+    "fuori gara",
+    "fuori concorso",
+    "fuori corso",
+    "fuori programma",
+    "fuori elenco",
+    "fuori catalogo",
+    "fuori commercio",
+    "fuori produzione",
+    "fuori mercato",
+    "fuori moda",
+    "fuori uso",
+    "fuori servizio",
+    "fuori ordine",
+    "fuori funzione",
+    "fuori controllo",
+    "fuori pericolo",
+    "fuori portata",
+    "fuori misura",
+    "fuori norma",
+    "fuori regola",
+    "fuori legge",
+    "fuori dal comune",
+    "fuori dal normale",
+    "fuori dal mondo",
+    "fuori di sé",
+    "fuori di testa",
+    "fuori forma",
+    "fuori fase",
+    "fuori strada",
+    "fuori discussione",
+    "fuori questione",
+    "fuori dubbio",
+    "fuori da casa",
+    "fuori dalla stanza",
+    "fuori dal negozio",
+    "fuori dall’ufficio",
+    "fuori dalla stazione",
+    "fuori dalla città",
+    "fuori dal paese",
+    "fuori dal gruppo",
+    "fuori dalla squadra",
+    "fuori dalla competizione",
+    "fuori dal contratto",
+    "fuori dall’orario di lavoro",
+    "fuori dal proprio campo",
+    "fuori dai limiti",
+    "fuori dal finestrino",
+    "da fuori",
+    "verso fuori",
+    "di fuori",
+    "qui fuori",
+    "là fuori",
+    "proprio fuori",
+    "appena fuori",
+    "un tavolo fuori",
+    "una giornata fuori",
+    "una serata fuori",
+    "una gita fuori città",
+    "un pranzo fuori",
+    "una cena fuori",
+    "una persona da fuori",
+    "studenti fuori sede",
+    "essere tagliato fuori",
+    "rimanere tagliato fuori",
+    "chiamarsi fuori",
+    "tirarsi fuori",
+    "venirne fuori",
+    "uscirne fuori",
+    "saltare fuori",
+    "spuntare fuori",
+    "buttare qualcuno fuori",
+    "mettere il naso fuori",
+    "mettere la testa fuori",
+    "essere fuori come un balcone"
+  ],
+
+  "examples": [
+    {
+      "it": "Fa caldo: andiamo a mangiare fuori.",
+      "ja": "暑いので、外で食事をしましょう。"
+    },
+    {
+      "it": "Ti aspetto fuori dalla stazione.",
+      "ja": "駅の外で待っています。"
+    },
+    {
+      "it": "Sono fuori casa e tornerò fra un’ora.",
+      "ja": "今は外出中で、1時間後に戻ります。"
+    },
+    {
+      "it": "Ha tirato il telefono fuori dalla borsa.",
+      "ja": "彼女は鞄から電話を取り出しました。"
+    },
+    {
+      "it": "L’ascensore è fuori servizio.",
+      "ja": "エレベーターは使用停止中です。"
+    },
+    {
+      "it": "Quel vestito è ormai fuori moda.",
+      "ja": "あの服はもう流行遅れです。"
+    },
+    {
+      "it": "Dopo l’incidente, il conducente è finalmente fuori pericolo.",
+      "ja": "事故の後、運転者はようやく危険な状態を脱しました。"
+    },
+    {
+      "it": "Escludere questa possibilità è fuori discussione.",
+      "ja": "この可能性を除外することは問題外です。"
+    }
+  ]
+},
+{
+  "id": "dentro",
+  "sid": "2026-00379",
+  "word": "dentro",
+  "ipa": "/ˈdɛntro/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "副詞・前置詞・名詞的用法",
+      "it": "avverbio, preposizione e uso sostantivato"
+    },
+    "invariable": true,
+    "pattern": "essere, stare o andare dentro / dentro + nome / dentro a + nome / dentro di + pronome personale / mettere qualcosa dentro / il dentro"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "movement",
+      "location",
+      "emotions",
+      "business",
+      "technology"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "建物・部屋・容器などの内部に、中で",
+      "外部から内部へ、中へ",
+      "物・空間・範囲などの内側に",
+      "衣服・鞄・箱などに入れられて、または包まれて",
+      "集団・活動・計画などに参加・関与して",
+      "人の心・記憶・内面に",
+      "表面から見えない物の内部に",
+      "口語で、刑務所・拘置施設などに収容されて",
+      "名詞的に、物・場所の内部や内側"
+    ],
+    "it": [
+      "Nella parte interna di un edificio, una stanza, un recipiente o uno spazio delimitato.",
+      "Dall’esterno verso l’interno.",
+      "Nella parte compresa entro i confini di un oggetto, un luogo o un ambito.",
+      "Contenuto o racchiuso in un vestito, una borsa, una scatola o un altro contenitore.",
+      "Incluso o coinvolto in un gruppo, un’attività, un progetto o una situazione.",
+      "Nell’interiorità, nella memoria o nei sentimenti di una persona.",
+      "Nella parte non visibile sotto la superficie di un oggetto.",
+      "Nel linguaggio colloquiale, detenuto in carcere o in un luogo di reclusione.",
+      "Come sostantivo, parte interna di un luogo o di un oggetto."
+    ]
+  },
+
+  "nuance": {
+    "ja": "dentro単独では位置・方向を表し、Sono dentroは「私は中にいる」、Vado dentroは「中へ入る」となる。基準となる場所はdentro la stanzaまたはdentro alla stanzaのように示せる。単純な所在にはinも使え、Sono in casaは中にいることより「在宅している」ことに重点を置くのに対し、Sono dentro casaは外部との対比を強調する。期限を示す「3日以内に」はentro tre giorniであり、標準語ではdentro tre giorniよりentroが推奨される。",
+    "it": "Usato da solo, dentro indica posizione o direzione: Sono dentro significa che mi trovo all’interno; Vado dentro esprime movimento verso l’interno. Il luogo di riferimento può seguire direttamente oppure essere introdotto da a: dentro la stanza, dentro alla stanza. In esprime spesso una semplice localizzazione, mentre dentro sottolinea il contrasto con l’esterno. Per una scadenza si preferisce entro tre giorni; l’uso temporale di dentro è diffuso in alcune varietà colloquiali, ma entro è la forma standard più precisa."
+  },
+
+  "etymology": {
+    "ja": "ラテン語de intrō（内側から・内側に）に由来する。intrōは「内部へ」を意味し、前置詞in（中に）と方向を示す要素から形成された。時代とともに二語が結合し、イタリア語dentroとなった。同じ語族にはintro、interno、interiore、introdurre、entrareがあり、英語intro・internal・interiorもラテン語系の関連語である。",
+    "it": "Deriva dal latino de intrō, espressione formata da de e intrō, «dentro, verso l’interno». Con il tempo i due elementi si sono uniti nella forma italiana dentro. Alla stessa area etimologica appartengono interno, interiore, introdurre ed entrare. Anche gli inglesi intro, internal e interior derivano da basi latine collegate all’idea di interiorità."
+  },
+
+  "minimal": [
+    {
+      "word": "dentro",
+      "ja": "物・場所・範囲などの内部に、または内部へ",
+      "it": "nella parte interna o verso l’interno di uno spazio, un oggetto o un ambito"
+    },
+    {
+      "word": "fuori",
+      "ja": "物・場所・範囲などの外部に、または外部へ",
+      "it": "all’esterno o verso l’esterno di uno spazio, un oggetto o un ambito"
+    },
+    {
+      "word": "interno",
+      "ja": "物や場所の内側に位置する、またはその内側の部分",
+      "it": "situato nella parte interna oppure parte interna di qualcosa"
+    },
+    {
+      "word": "in",
+      "ja": "場所・状態・時間などの中にあることを広く表す前置詞",
+      "it": "preposizione generale che indica collocazione all’interno di un luogo, uno stato o un periodo"
+    },
+    {
+      "word": "entro",
+      "ja": "境界の内側、または指定された期限以前を表す",
+      "it": "all’interno di un limite spaziale oppure prima della fine di un termine temporale"
+    }
+  ],
+
+  "synonyms": [
+    "all’interno",
+    "internamente",
+    "nel mezzo",
+    "incluso",
+    "nell’intimo"
+  ],
+
+  "equivalents": {
+    "en": [
+      "inside",
+      "in",
+      "within",
+      "indoors"
+    ],
+    "de": [
+      "drinnen",
+      "hinein",
+      "innerhalb"
+    ],
+    "fr": [
+      "dedans",
+      "à l’intérieur",
+      "dans"
+    ],
+    "es": [
+      "dentro",
+      "adentro",
+      "en el interior"
+    ]
+  },
+
+  "collocations": [
+    "essere dentro",
+    "stare dentro",
+    "andare dentro",
+    "entrare dentro",
+    "venire dentro",
+    "portare dentro",
+    "mettere dentro",
+    "lasciare dentro",
+    "buttare dentro",
+    "tirare dentro",
+    "spingere dentro",
+    "guardare dentro",
+    "aspettare dentro",
+    "mangiare dentro",
+    "restare dentro",
+    "rimanere dentro",
+    "dormire dentro",
+    "vivere dentro",
+    "lavorare dentro",
+    "giocare dentro",
+    "essere ancora dentro",
+    "essere già dentro",
+    "essere tutto il giorno dentro",
+    "qui dentro",
+    "là dentro",
+    "proprio dentro",
+    "più dentro",
+    "da dentro",
+    "verso dentro",
+    "di dentro",
+    "dentro casa",
+    "dentro la stanza",
+    "dentro la camera",
+    "dentro il negozio",
+    "dentro l’ufficio",
+    "dentro la stazione",
+    "dentro la macchina",
+    "dentro il treno",
+    "dentro la nave",
+    "dentro l’aereo",
+    "dentro la scatola",
+    "dentro la borsa",
+    "dentro il cassetto",
+    "dentro l’armadio",
+    "dentro il frigorifero",
+    "dentro la bottiglia",
+    "dentro il bicchiere",
+    "dentro il forno",
+    "dentro la vasca",
+    "dentro l’acqua",
+    "dentro il fango",
+    "dentro la grotta",
+    "dentro il tunnel",
+    "dentro il muro",
+    "dentro al cassetto",
+    "dentro alla borsa",
+    "dentro di me",
+    "dentro di te",
+    "dentro di sé",
+    "guardare dentro di sé",
+    "sentire qualcosa dentro",
+    "avere paura dentro",
+    "sentirsi vuoto dentro",
+    "essere morto dentro",
+    "sapere dentro di sé",
+    "portare qualcosa dentro di sé",
+    "nascondere qualcosa dentro di sé",
+    "tenersi tutto dentro",
+    "non tenersi niente dentro",
+    "essere dentro un progetto",
+    "entrare dentro un gruppo",
+    "essere dentro la questione",
+    "essere dentro fino al collo",
+    "trovarsi dentro una situazione difficile",
+    "essere dentro un affare",
+    "tirare qualcuno dentro",
+    "coinvolgere qualcuno",
+    "lasciare qualcuno dentro",
+    "essere dentro o fuori",
+    "dentro e fuori",
+    "andare avanti e indietro",
+    "dal dentro al fuori",
+    "guardare da dentro",
+    "aprire da dentro",
+    "chiudere da dentro",
+    "la porta si apre da dentro",
+    "qualcosa si rompe dentro",
+    "avere qualcosa dentro",
+    "non esserci niente dentro",
+    "essere pieno dentro",
+    "essere vuoto dentro",
+    "cotto dentro",
+    "crudo dentro",
+    "bagnato dentro",
+    "pulito dentro",
+    "sporco dentro",
+    "il dentro della casa",
+    "il dentro della macchina",
+    "vedere il dentro",
+    "conoscere qualcosa dentro e fuori",
+    "conoscere qualcosa dentro e fuori",
+    "rivoltare qualcosa come un guanto",
+    "essere dentro",
+    "finire dentro",
+    "mandare qualcuno dentro",
+    "stare dentro per anni",
+    "dentro!",
+    "venite dentro!",
+    "tutti dentro!",
+    "chi è dentro?",
+    "che cosa c’è dentro?"
+  ],
+
+  "examples": [
+    {
+      "it": "Fuori fa freddo: entriamo dentro.",
+      "ja": "外は寒いので、中へ入りましょう。"
+    },
+    {
+      "it": "Le chiavi sono dentro la borsa.",
+      "ja": "鍵は鞄の中にあります。"
+    },
+    {
+      "it": "Ho messo i vestiti dentro l’armadio.",
+      "ja": "衣服を戸棚の中に入れました。"
+    },
+    {
+      "it": "La carne è cotta fuori, ma è ancora cruda dentro.",
+      "ja": "肉は外側が焼けていますが、中はまだ生です。"
+    },
+    {
+      "it": "Che cosa c’è dentro questa scatola?",
+      "ja": "この箱の中には何が入っていますか。"
+    },
+    {
+      "it": "Dentro di sé sapeva di aver sbagliato.",
+      "ja": "心の中では、自分が間違ったことを彼は分かっていました。"
+    },
+    {
+      "it": "Non tenerti tutto dentro: parlane con qualcuno.",
+      "ja": "すべてを心の中にため込まず、誰かに話してください。"
+    },
+    {
+      "it": "Invieremo la risposta entro tre giorni.",
+      "ja": "私たちは3日以内に回答を送ります。"
+    }
+  ]
+},
+{
+  "id": "entro",
+  "sid": "2026-00380",
+  "word": "entro",
+  "ipa": "/ˈentro/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "前置詞・副詞／entrareの直説法現在一人称単数",
+      "it": "preposizione e avverbio / prima persona singolare dell’indicativo presente di entrare"
+    },
+    "invariable": true,
+    "pattern": "entro + termine temporale / entro + quantità o limite / entro + spazio delimitato / entro e non oltre + data / io entro + luogo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "time",
+      "deadlines",
+      "business",
+      "law",
+      "administration",
+      "movement"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "指定された日時・期間を越えないうちに、～までに",
+      "定められた数量・距離・費用などの限度内で",
+      "境界・区域・建物などの内側に、～の内部に",
+      "規則・権限・条件などによって定められた範囲内で",
+      "副詞的に、内部へ・中へ、古風または文学的な用法",
+      "entro e non oltreの形で、遅くとも指定期限までに",
+      "動詞entrareの形として、私は中に入る・参加する・開始する"
+    ],
+    "it": [
+      "Prima della scadenza di un giorno, un’ora o un periodo indicato e non oltre tale limite.",
+      "All’interno di un limite quantitativo, spaziale, economico o numerico determinato.",
+      "Nello spazio racchiuso da un confine, un edificio, una cinta o un territorio.",
+      "Nei limiti stabiliti da una regola, una competenza, una condizione o un’autorizzazione.",
+      "Come avverbio, verso l’interno o dentro, in un uso oggi prevalentemente antico o letterario.",
+      "Nella formula entro e non oltre, al più tardi entro la scadenza espressamente indicata.",
+      "Come forma del verbo entrare, indica che il soggetto io accede, partecipa o comincia a far parte di qualcosa."
+    ]
+  },
+
+  "nuance": {
+    "ja": "期限のentroは、その時点を最終限界として含み、entro venerdìは通常「遅くとも金曜日中に」を意味する。fra tre giorniは「3日後に」という一点を示すのに対し、entro tre giorniは「今から3日の期限内ならいつでも」を表す。空間ではdentroが日常的で具体的な内部を強調するのに対し、entroはentro le mura、entro i confiniのように境界・限界を意識した、やや文章語的な表現になりやすい。",
+    "it": "Con valore temporale, entro include normalmente il termine indicato come limite finale: entro venerdì significa generalmente non più tardi della fine di venerdì. Fra tre giorni indica un momento situato tre giorni nel futuro; entro tre giorni indica invece qualsiasi momento precedente alla scadenza dei tre giorni. In senso spaziale dentro è più comune e concreto, mentre entro compare soprattutto quando si mette in rilievo un confine o un limite, come entro le mura o entro i confini."
+  },
+
+  "etymology": {
+    "ja": "前置詞・副詞のentroはラテン語intrō（内部へ、中に）に由来し、in（中に）と内部・方向を表す要素から形成された。動詞形entroも、同じ語族のラテン語intrāre（中へ入る）から発達したentrareに属する。interno、interiore、introdurre、intruso、英語enter・interior・internalなども同じ「内側」の概念を共有する。",
+    "it": "La preposizione e l’avverbio entro derivano dal latino intrō, «dentro, verso l’interno». La forma verbale entro appartiene invece a entrare, continuazione del latino intrāre, «andare dentro». Entrambe risalgono alla stessa famiglia legata all’idea di interiorità. Sono collegati anche interno, interiore, introdurre e intruso, oltre agli inglesi enter, interior e internal."
+  },
+
+  "minimal": [
+    {
+      "word": "entro",
+      "ja": "指定された期限・数量・境界を越えない範囲で",
+      "it": "prima di una scadenza o all’interno di un limite determinato"
+    },
+    {
+      "word": "dentro",
+      "ja": "物・場所などの具体的な内部に、または内部へ",
+      "it": "nella parte interna o verso l’interno di un luogo o di un oggetto"
+    },
+    {
+      "word": "fra",
+      "ja": "現在から一定時間が経過した後の時点を示す",
+      "it": "indicare un momento che si verificherà dopo un determinato intervallo di tempo"
+    },
+    {
+      "word": "prima di",
+      "ja": "特定の時点・出来事より前であることを表す",
+      "it": "indicare un momento anteriore rispetto a un’ora, una data o un evento"
+    },
+    {
+      "word": "fino a",
+      "ja": "動作・状態が特定の時点や地点まで継続することを表す",
+      "it": "indicare la continuazione di un’azione o di uno stato fino a un limite"
+    }
+  ],
+
+  "synonyms": [
+    "prima di",
+    "non oltre",
+    "all’interno di",
+    "nei limiti di",
+    "dentro"
+  ],
+
+  "equivalents": {
+    "en": [
+      "by",
+      "within",
+      "inside",
+      "I enter"
+    ],
+    "de": [
+      "bis",
+      "innerhalb",
+      "in",
+      "ich trete ein"
+    ],
+    "fr": [
+      "d’ici",
+      "avant",
+      "dans les limites de",
+      "j’entre"
+    ],
+    "es": [
+      "antes de",
+      "dentro de",
+      "en el plazo de",
+      "entro"
+    ]
+  },
+
+  "collocations": [
+    "entro oggi",
+    "entro domani",
+    "entro dopodomani",
+    "entro stasera",
+    "entro stanotte",
+    "entro questa mattina",
+    "entro questo pomeriggio",
+    "entro questa sera",
+    "entro mezzogiorno",
+    "entro mezzanotte",
+    "entro lunedì",
+    "entro venerdì",
+    "entro il fine settimana",
+    "entro la prossima settimana",
+    "entro questo mese",
+    "entro la fine del mese",
+    "entro il prossimo mese",
+    "entro quest’anno",
+    "entro la fine dell’anno",
+    "entro la data indicata",
+    "entro la scadenza",
+    "entro il termine",
+    "entro il termine stabilito",
+    "entro il termine previsto",
+    "entro il termine legale",
+    "entro il termine di legge",
+    "entro il termine massimo",
+    "entro le cinque",
+    "entro le ore diciotto",
+    "entro una certa ora",
+    "entro un’ora",
+    "entro due ore",
+    "entro ventiquattro ore",
+    "entro pochi minuti",
+    "entro tre giorni",
+    "entro una settimana",
+    "entro quattordici giorni",
+    "entro trenta giorni",
+    "entro sei mesi",
+    "entro un anno",
+    "entro breve tempo",
+    "entro breve",
+    "entro poco",
+    "rispondere entro domani",
+    "pagare entro il mese",
+    "consegnare entro venerdì",
+    "inviare entro la scadenza",
+    "presentare entro il termine",
+    "depositare entro trenta giorni",
+    "registrare entro una settimana",
+    "cancellare entro ventiquattro ore",
+    "confermare entro stasera",
+    "decidere entro domani",
+    "terminare entro l’anno",
+    "arrivare entro le otto",
+    "tornare entro mezzanotte",
+    "completare entro il termine",
+    "effettuare il pagamento entro",
+    "inviare una richiesta entro",
+    "annullare la prenotazione entro",
+    "entro e non oltre",
+    "entro e non oltre domani",
+    "entro e non oltre il 30 settembre",
+    "da presentare entro e non oltre",
+    "entro un limite",
+    "entro certi limiti",
+    "entro i limiti consentiti",
+    "entro i limiti di legge",
+    "entro il limite massimo",
+    "entro il budget",
+    "entro la somma stabilita",
+    "entro cento euro",
+    "entro una determinata distanza",
+    "entro dieci chilometri",
+    "entro un raggio di cento metri",
+    "entro i confini",
+    "entro i confini nazionali",
+    "entro il territorio",
+    "entro le mura",
+    "entro la città",
+    "entro l’edificio",
+    "entro questo spazio",
+    "entro la propria competenza",
+    "entro i poteri concessi",
+    "entro l’ambito del contratto",
+    "entro il quadro normativo",
+    "entro le condizioni stabilite",
+    "rimanere entro i limiti",
+    "mantenersi entro il budget",
+    "contenere i costi entro",
+    "io entro",
+    "entro in casa",
+    "entro nella stanza",
+    "entro in ufficio",
+    "entro nel negozio",
+    "entro nel gruppo",
+    "entro in servizio",
+    "entro in contatto con qualcuno",
+    "entro dalla porta principale",
+    "entro e chiudo la porta"
+  ],
+
+  "examples": [
+    {
+      "it": "Puoi inviarmi i documenti entro domani?",
+      "ja": "明日までに書類を送ってもらえますか。"
+    },
+    {
+      "it": "Il pagamento deve essere effettuato entro trenta giorni.",
+      "ja": "支払いは30日以内に行わなければなりません。"
+    },
+    {
+      "it": "Dobbiamo arrivare alla stazione entro le otto.",
+      "ja": "私たちは8時までに駅へ到着しなければなりません。"
+    },
+    {
+      "it": "Fra tre giorni partirò; entro tre giorni devo finire tutto.",
+      "ja": "私は3日後に出発します。それまでの3日以内にすべてを終えなければなりません。"
+    },
+    {
+      "it": "La richiesta deve essere presentata entro e non oltre il 30 settembre.",
+      "ja": "申請は遅くとも9月30日までに提出しなければなりません。"
+    },
+    {
+      "it": "Cerchiamo di mantenere le spese entro il budget stabilito.",
+      "ja": "定められた予算内に費用を抑えるようにしましょう。"
+    },
+    {
+      "it": "Il regolamento si applica entro i confini nazionali.",
+      "ja": "その規則は国境内で適用されます。"
+    },
+    {
+      "it": "Entro nella stanza, chiudo la porta e mi siedo.",
+      "ja": "私は部屋に入り、ドアを閉めて座ります。"
+    }
+  ]
+},
+{
+  "id": "farina",
+  "sid": "2026-00381",
+  "word": "farina",
+  "ipa": "/faˈrina/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞・通常は不可算",
+      "it": "sostantivo femminile, normalmente non numerabile"
+    },
+    "gender": "feminine",
+    "plural": "farine（種類・製品としての複数の粉）",
+    "pattern": "la farina / farina di + cereale o alimento / impasto con + farina / aggiungere o setacciare la farina / un tipo di farina"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "cooking",
+      "baking",
+      "shopping",
+      "home",
+      "industry",
+      "nutrition"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "小麦などの穀物を細かく挽いて作る粉、小麦粉",
+      "トウモロコシ・米・ライ麦などを挽いた穀粉",
+      "豆・栗・芋・種子などを乾燥させて粉末にした食品",
+      "パン・パスタ・菓子・衣などの材料として使う粉",
+      "骨・魚・鉱物などを細かく砕いた粉末状の製品",
+      "種類・精製度・用途によって分類された粉",
+      "比喩的に、人が自分で生み出した考え・作品・成果",
+      "慣用表現で、本質・資質・共通性などを表す"
+    ],
+    "it": [
+      "Polvere ottenuta macinando grano o altri cereali, in particolare il frumento.",
+      "Prodotto ricavato dalla macinazione di mais, riso, segale o altri cereali.",
+      "Polvere alimentare ottenuta da legumi, castagne, tuberi, semi o altri prodotti essiccati.",
+      "Ingrediente impiegato nella preparazione di pane, pasta, dolci, impasti o rivestimenti per la frittura.",
+      "Prodotto in polvere ottenuto dalla macinazione di ossa, pesce, minerali o altre sostanze.",
+      "Polvere classificata secondo materia prima, grado di raffinazione o destinazione d’uso.",
+      "In senso figurato, idea, opera o risultato prodotto autonomamente da una persona.",
+      "Nelle espressioni idiomatiche, elemento associato alla natura, alla qualità o alla somiglianza."
+    ]
+  },
+
+  "nuance": {
+    "ja": "文脈なしのfarinaは通常、小麦粉farina di grano teneroを指す。他の原料の場合はfarina di mais、farina di risoのようにdiで明示する。semolaは主にデュラム小麦を粗めに挽いた粒状の製品で、乾燥パスタなどに使われる。イタリアの00・0・1・2という分類は主として灰分・精製度に関係し、数字が小さいほど一般に白く精製度が高い。強力・薄力に近い生地特性は分類番号だけでなく、たんぱく質量やW値も確認する必要がある。",
+    "it": "Senza altre specificazioni, farina indica normalmente la farina di grano tenero. Per altre materie prime si specifica farina di mais, di riso o di ceci. La semola è un prodotto più granuloso, ottenuto soprattutto dal grano duro e utilizzato frequentemente per la pasta secca. La classificazione italiana 00, 0, 1, 2 e integrale riguarda soprattutto il grado di raffinazione e il contenuto di ceneri. La forza dell’impasto dipende invece anche dalle proteine e dal valore W."
+  },
+
+  "etymology": {
+    "ja": "ラテン語farīna（穀粉）に由来し、これはfar（古代ローマで栽培されたスペルト小麦などの穀物）から形成された。もともとは穀物farを挽いて得られる粉を意味した。同じ語族にはfarinaceo、infarinare、infarinatura、farinosoがある。英語farinaとフランス語farineはラテン語形を直接受け継ぎ、スペイン語harinaでは語頭のfが歴史的にhへ変化した。",
+    "it": "Dal latino farīna, derivato da far, nome di un antico cereale simile al farro. Il significato originario era quindi la polvere ottenuta macinando tale cereale. Alla stessa famiglia appartengono farinaceo, infarinare, infarinatura e farinoso. L’inglese farina e il francese farine conservano una forma vicina al latino; nello spagnolo harina la f iniziale latina si è storicamente trasformata in h."
+  },
+
+  "minimal": [
+    {
+      "word": "farina",
+      "ja": "小麦などを細かく挽いた粉末で、パン・菓子・パスタなどに使う",
+      "it": "polvere fine ottenuta dalla macinazione di cereali o altri alimenti"
+    },
+    {
+      "word": "semola",
+      "ja": "主にデュラム小麦を粗く挽いた粒状の粉で、パスタなどに使う",
+      "it": "prodotto granuloso ottenuto soprattutto dalla macinazione del grano duro"
+    },
+    {
+      "word": "amido",
+      "ja": "穀物・芋などから抽出され、増粘などに使われる炭水化物、でんぷん",
+      "it": "carboidrato estratto da cereali o tuberi e usato anche come addensante"
+    },
+    {
+      "word": "polvere",
+      "ja": "さまざまな物質からなる非常に細かい乾燥粒子の総称",
+      "it": "insieme generico di particelle finissime e asciutte di qualsiasi sostanza"
+    },
+    {
+      "word": "pangrattato",
+      "ja": "乾燥したパンを細かく砕き、揚げ物の衣などに使うパン粉",
+      "it": "pane secco grattugiato e usato soprattutto per impanare o gratinare"
+    }
+  ],
+
+  "synonyms": [
+    "farinato",
+    "polvere",
+    "sfarinato",
+    "macinato"
+  ],
+
+  "equivalents": {
+    "en": [
+      "flour",
+      "meal",
+      "powder"
+    ],
+    "de": [
+      "Mehl",
+      "Schrot",
+      "Pulver"
+    ],
+    "fr": [
+      "farine",
+      "poudre"
+    ],
+    "es": [
+      "harina",
+      "polvo"
+    ]
+  },
+
+  "collocations": [
+    "farina bianca",
+    "farina integrale",
+    "farina raffinata",
+    "farina biologica",
+    "farina forte",
+    "farina debole",
+    "farina fine",
+    "farina grossa",
+    "farina macinata",
+    "farina setacciata",
+    "farina senza glutine",
+    "farina con glutine",
+    "farina di grano",
+    "farina di frumento",
+    "farina di grano tenero",
+    "farina di grano duro",
+    "farina di farro",
+    "farina di segale",
+    "farina di avena",
+    "farina di orzo",
+    "farina di mais",
+    "farina di riso",
+    "farina di ceci",
+    "farina di lenticchie",
+    "farina di soia",
+    "farina di castagne",
+    "farina di mandorle",
+    "farina di cocco",
+    "farina di patate",
+    "farina di tapioca",
+    "farina 00",
+    "farina 0",
+    "farina tipo 1",
+    "farina tipo 2",
+    "un chilo di farina",
+    "mezzo chilo di farina",
+    "cento grammi di farina",
+    "un cucchiaio di farina",
+    "un sacco di farina",
+    "un pacco di farina",
+    "un tipo di farina",
+    "diversi tipi di farine",
+    "comprare la farina",
+    "pesare la farina",
+    "misurare la farina",
+    "setacciare la farina",
+    "versare la farina",
+    "aggiungere la farina",
+    "mescolare la farina",
+    "impastare la farina",
+    "lavorare la farina",
+    "spargere la farina",
+    "conservare la farina",
+    "macinare la farina",
+    "produrre farina",
+    "infarinare il tavolo",
+    "infarinare le mani",
+    "infarinare il pesce",
+    "passare qualcosa nella farina",
+    "ricoprire di farina",
+    "sporco di farina",
+    "coperto di farina",
+    "mani piene di farina",
+    "un impasto di farina e acqua",
+    "mescolare farina e acqua",
+    "pane fatto con farina integrale",
+    "pasta di farina di grano duro",
+    "dolce senza farina",
+    "salsa addensata con la farina",
+    "farina per pane",
+    "farina per pizza",
+    "farina per pasta",
+    "farina per dolci",
+    "farina per friggere",
+    "farina per impanare",
+    "farina autolievitante",
+    "farina arricchita",
+    "farina di prima qualità",
+    "mulino per la farina",
+    "produzione della farina",
+    "prezzo della farina",
+    "odore di farina",
+    "sapore di farina",
+    "farina cruda",
+    "farina cotta",
+    "farina d’ossa",
+    "farina di pesce",
+    "farina fossile",
+    "essere farina del proprio sacco",
+    "non essere farina del proprio sacco",
+    "tutta farina del suo sacco",
+    "farina del diavolo",
+    "la farina del diavolo va tutta in crusca",
+    "essere della stessa farina",
+    "essere farina da fare ostie"
+  ],
+
+  "examples": [
+    {
+      "it": "Per questa ricetta servono trecento grammi di farina.",
+      "ja": "このレシピには小麦粉が300グラム必要です。"
+    },
+    {
+      "it": "Setaccia la farina prima di aggiungerla all’impasto.",
+      "ja": "生地に加える前に小麦粉をふるってください。"
+    },
+    {
+      "it": "Questa pasta è preparata con farina di grano duro.",
+      "ja": "このパスタはデュラム小麦粉で作られています。"
+    },
+    {
+      "it": "Abbiamo comprato una farina senza glutine.",
+      "ja": "私たちはグルテンを含まない粉を買いました。"
+    },
+    {
+      "it": "Infarina leggermente il pesce prima di friggerlo.",
+      "ja": "魚を揚げる前に薄く小麦粉をまぶしてください。"
+    },
+    {
+      "it": "La farina integrale contiene una parte maggiore del chicco.",
+      "ja": "全粒粉には穀粒のより多くの部分が含まれています。"
+    },
+    {
+      "it": "Il bambino aveva le mani e il naso coperti di farina.",
+      "ja": "その子供は手も鼻も小麦粉まみれでした。"
+    },
+    {
+      "it": "Quell’idea non è farina del suo sacco.",
+      "ja": "その考えは彼自身が生み出したものではありません。"
+    }
+  ]
+},
+{
+  "id": "oggi",
+  "sid": "2026-00382",
+  "word": "oggi",
+  "ipa": "/ˈɔddʒi/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "副詞・男性名詞的用法",
+      "it": "avverbio e uso sostantivato maschile"
+    },
+    "invariable": true,
+    "pattern": "oggi + verbo / oggi mattina, pomeriggio o sera / da oggi / per oggi / entro oggi / oggi stesso / l’oggi"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "time",
+      "daily_life",
+      "work",
+      "planning",
+      "news",
+      "history"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "話している時点が属する日、今日",
+      "今日の朝・午後・夕方など、その日の特定の時間帯",
+      "現在の時点・現時点",
+      "過去と対比される現代・今日",
+      "現在の社会・時代・状況",
+      "名詞的に、今日という日または現代",
+      "oggi stessoの形で、ほかの日ではなくまさに今日・今日中に",
+      "慣用表現で、現在以降・現時点まで・近年などを表す"
+    ],
+    "it": [
+      "Il giorno nel quale si parla o si scrive.",
+      "Una particolare parte della giornata in corso, come mattina, pomeriggio o sera.",
+      "Il momento presente o la situazione attuale.",
+      "L’epoca contemporanea contrapposta al passato.",
+      "La società, il mondo o le condizioni del tempo presente.",
+      "Come sostantivo, la giornata attuale oppure il presente storico e sociale.",
+      "Nell’espressione oggi stesso, proprio nella giornata attuale e non in un altro giorno.",
+      "Nelle locuzioni temporali, elemento che indica il periodo successivo, il tempo trascorso fino al presente o l’età contemporanea."
+    ]
+  },
+
+  "nuance": {
+    "ja": "oggiは通常、前置詞を付けずにOggi lavoro「今日は働きます」と使う。時間帯はstamattinaが最も自然だが、oggi pomeriggio、oggi seraも一般的である。da oggiは「今日から」、fino a oggiは「今日まで」、per oggiは「今日の分として・今日はひとまず」を表す。現在の社会全般を指す場合はoggi、al giorno d’oggi、oggi come oggiなどが使われる。oggi stessoは実行時期を今日に限定して強調する。",
+    "it": "Oggi si usa normalmente senza preposizione: Oggi lavoro, non in oggi. Per la mattina è particolarmente naturale stamattina, mentre oggi pomeriggio e oggi sera sono comuni. Da oggi indica l’inizio a partire dalla giornata presente; fino a oggi il limite raggiunto; per oggi ciò che è sufficiente o previsto per la giornata. Per l’epoca contemporanea si usano oggi, al giorno d’oggi e oggi come oggi. Oggi stesso sottolinea che qualcosa deve avvenire proprio nella giornata in corso."
+  },
+
+  "etymology": {
+    "ja": "ラテン語hŏdiē（今日）に由来し、これはhōc diē「この日に」が一語化したものである。hōcは指示詞hic「この」の形、diēはdiēs「日」の形である。スペイン語hoy、ポルトガル語hojeも同じラテン語hŏdiēに由来する。フランス語aujourd’huiのhuiにも同じ語が残っており、au jour de huiは語源的に「今日の日に」に近い構造である。",
+    "it": "Dal latino hŏdiē, nato dalla fusione dell’espressione hōc diē, «in questo giorno». Hōc è una forma del dimostrativo hic, «questo», e diē una forma di diēs, «giorno». Anche lo spagnolo hoy e il portoghese hoje derivano da hŏdiē. La stessa parola sopravvive nel francese aujourd’hui, il cui elemento hui continua il latino hodie."
+  },
+
+  "minimal": [
+    {
+      "word": "oggi",
+      "ja": "話している時点が属する日、または現代",
+      "it": "giorno in cui si parla oppure epoca presente"
+    },
+    {
+      "word": "ieri",
+      "ja": "今日の直前の日、昨日",
+      "it": "giorno immediatamente precedente a oggi"
+    },
+    {
+      "word": "domani",
+      "ja": "今日の直後の日、明日",
+      "it": "giorno immediatamente successivo a oggi"
+    },
+    {
+      "word": "adesso",
+      "ja": "発話しているまさにその時点、今",
+      "it": "momento preciso nel quale si parla"
+    },
+    {
+      "word": "attualmente",
+      "ja": "現在の状況において、現時点では",
+      "it": "nel periodo presente o nelle condizioni attuali"
+    }
+  ],
+
+  "synonyms": [
+    "attualmente",
+    "al presente",
+    "oggigiorno",
+    "al giorno d’oggi",
+    "in questo momento"
+  ],
+
+  "equivalents": {
+    "en": [
+      "today",
+      "nowadays",
+      "at present"
+    ],
+    "de": [
+      "heute",
+      "heutzutage",
+      "gegenwärtig"
+    ],
+    "fr": [
+      "aujourd’hui",
+      "de nos jours",
+      "actuellement"
+    ],
+    "es": [
+      "hoy",
+      "hoy en día",
+      "actualmente"
+    ]
+  },
+
+  "collocations": [
+    "oggi è lunedì",
+    "oggi è il primo settembre",
+    "oggi fa caldo",
+    "oggi fa freddo",
+    "oggi piove",
+    "oggi nevica",
+    "oggi lavoro",
+    "oggi studio",
+    "oggi resto a casa",
+    "oggi sono stanco",
+    "oggi sto bene",
+    "oggi non posso",
+    "oggi non lavoro",
+    "oggi abbiamo una riunione",
+    "oggi ho un appuntamento",
+    "oggi comincia",
+    "oggi finisce",
+    "oggi mattina",
+    "oggi pomeriggio",
+    "oggi sera",
+    "oggi a pranzo",
+    "oggi a cena",
+    "oggi alle cinque",
+    "oggi presto",
+    "oggi tardi",
+    "proprio oggi",
+    "soltanto oggi",
+    "solo per oggi",
+    "ancora oggi",
+    "fino a oggi",
+    "sino a oggi",
+    "a tutt’oggi",
+    "da ieri a oggi",
+    "tra ieri e oggi",
+    "da oggi",
+    "a partire da oggi",
+    "da oggi in poi",
+    "d’oggi in poi",
+    "da oggi stesso",
+    "entro oggi",
+    "entro la giornata di oggi",
+    "per oggi",
+    "basta per oggi",
+    "finire per oggi",
+    "chiudere per oggi",
+    "rimandare a oggi",
+    "previsto per oggi",
+    "fissato per oggi",
+    "valido da oggi",
+    "disponibile da oggi",
+    "oggi stesso",
+    "pagare oggi stesso",
+    "rispondere oggi stesso",
+    "partire oggi stesso",
+    "inviare oggi stesso",
+    "risolvere oggi stesso",
+    "il giorno di oggi",
+    "la giornata di oggi",
+    "la data di oggi",
+    "il programma di oggi",
+    "le notizie di oggi",
+    "il giornale di oggi",
+    "il menù di oggi",
+    "il tempo di oggi",
+    "la società di oggi",
+    "il mondo di oggi",
+    "i giovani di oggi",
+    "la tecnologia di oggi",
+    "la lingua di oggi",
+    "l’italiano di oggi",
+    "al giorno d’oggi",
+    "oggigiorno",
+    "oggi come oggi",
+    "ieri come oggi",
+    "oggi più che mai",
+    "oggi meno che mai",
+    "ancora valido oggi",
+    "come sappiamo oggi",
+    "quello che oggi chiamiamo",
+    "fino al giorno d’oggi",
+    "dal passato a oggi",
+    "dall’antichità a oggi",
+    "da allora a oggi",
+    "oggi o domani",
+    "non oggi",
+    "non più tardi di oggi",
+    "meglio oggi che domani",
+    "oggi a me, domani a te",
+    "l’oggi e il domani",
+    "pensare all’oggi",
+    "vivere nell’oggi",
+    "costruire l’oggi",
+    "il mondo d’oggi",
+    "la realtà d’oggi"
+  ],
+
+  "examples": [
+    {
+      "it": "Oggi lavoro da casa.",
+      "ja": "今日は自宅で働きます。"
+    },
+    {
+      "it": "Che giorno è oggi?",
+      "ja": "今日は何曜日ですか。"
+    },
+    {
+      "it": "Oggi pomeriggio ho un appuntamento dal medico.",
+      "ja": "今日の午後、医師の予約があります。"
+    },
+    {
+      "it": "Devo effettuare il pagamento entro oggi.",
+      "ja": "今日中に支払いをしなければなりません。"
+    },
+    {
+      "it": "Sono stanco, quindi per oggi basta così.",
+      "ja": "疲れているので、今日はこれで終わりにします。"
+    },
+    {
+      "it": "Da oggi in poi cercherò di andare al lavoro a piedi.",
+      "ja": "今日から、歩いて仕事へ行くようにします。"
+    },
+    {
+      "it": "Al giorno d’oggi è facile acquistare un biglietto online.",
+      "ja": "今日では、オンラインで切符を購入するのは簡単です。"
+    },
+    {
+      "it": "Questa parola, usata ancora oggi, deriva dal latino.",
+      "ja": "現在でも使われているこの語は、ラテン語に由来します。"
+    }
+  ]
+},
+{
+  "id": "ieri",
+  "sid": "2026-00383",
+  "word": "ieri",
+  "ipa": "/ˈjɛri/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "副詞・男性名詞的用法",
+      "it": "avverbio e uso sostantivato maschile"
+    },
+    "invariable": true,
+    "pattern": "ieri + passato / ieri mattina, pomeriggio o sera / da ieri / fino a ieri / l’altro ieri / lo ieri"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "time",
+      "daily_life",
+      "work",
+      "travel",
+      "news",
+      "history"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "今日の直前の日、昨日",
+      "昨日の朝・午後・夕方など、その日の特定の時間帯",
+      "現在に非常に近い過去、ごく最近",
+      "今日・現代と対比される過去",
+      "過ぎ去った時代や以前の社会",
+      "名詞的に、昨日という日または過去",
+      "l’altro ieriの形で、一昨日",
+      "慣用表現で、過去から現在までの変化や時間的な近さを表す"
+    ],
+    "it": [
+      "Il giorno immediatamente precedente a oggi.",
+      "Una particolare parte della giornata precedente, come mattina, pomeriggio o sera.",
+      "Un momento molto recente del passato.",
+      "Il passato contrapposto all’oggi o al presente.",
+      "Un’epoca trascorsa o la società di un tempo.",
+      "Come sostantivo, la giornata precedente oppure il passato in generale.",
+      "Nell’espressione l’altro ieri, il giorno precedente a ieri.",
+      "Nelle locuzioni temporali, elemento che indica continuità, cambiamento o vicinanza tra passato e presente."
+    ]
+  },
+
+  "nuance": {
+    "ja": "ieriは通常、前置詞なしでIeri sono andato al lavoroと言う。昨日の朝はieri mattina、夕方・夜はieri sera、夜間はieri notteと表せる。da ieriは「昨日から現在まで」、fino a ieriは「昨日まで」を意味する。過去の一時点で完結した出来事にはpassato prossimoまたはpassato remoto、昨日の進行中の状況・習慣・背景にはimperfettoが使われる。",
+    "it": "Ieri si usa normalmente senza preposizione: Ieri sono andato al lavoro. Le parti della giornata si esprimono con ieri mattina, ieri pomeriggio, ieri sera e ieri notte. Da ieri indica una situazione iniziata ieri e ancora collegata al presente; fino a ieri stabilisce ieri come limite finale. Per un evento concluso si usa spesso il passato prossimo; l’imperfetto descrive invece una situazione in corso, abituale o di sfondo nella giornata di ieri."
+  },
+
+  "etymology": {
+    "ja": "ラテン語heri（昨日）に由来し、さらにインド・ヨーロッパ祖語の「昨日」を表す古い語にさかのぼる。英語yesterdayのyester-、ドイツ語gestern、古代ギリシア語khthésとは遠い同系語である。フランス語hierはラテン語heriを直接受け継ぎ、スペイン語ayerとポルトガル語ontemも古いラテン語の時間表現から発達した。",
+    "it": "Dal latino heri, «ieri», risalente a un’antichissima forma indoeuropea. Sono lontanamente affini l’elemento inglese yester- di yesterday, il tedesco gestern e il greco antico khthés. Il francese hier continua direttamente il latino heri, mentre lo spagnolo ayer deriva da una forma latina ampliata collegata alla stessa base."
+  },
+
+  "minimal": [
+    {
+      "word": "ieri",
+      "ja": "今日の直前の日、または比喩的に最近・過去",
+      "it": "giorno immediatamente precedente a oggi oppure, figuratamente, passato recente"
+    },
+    {
+      "word": "oggi",
+      "ja": "話している時点が属する日、または現代",
+      "it": "giorno nel quale si parla oppure epoca presente"
+    },
+    {
+      "word": "domani",
+      "ja": "今日の直後の日、または比喩的に未来",
+      "it": "giorno immediatamente successivo a oggi oppure, figuratamente, futuro"
+    },
+    {
+      "word": "l’altro ieri",
+      "ja": "昨日のさらに前の日、一昨日",
+      "it": "giorno immediatamente precedente a ieri"
+    },
+    {
+      "word": "recentemente",
+      "ja": "現在からそれほど遠くない過去に、最近",
+      "it": "in un momento del passato non lontano dal presente"
+    }
+  ],
+
+  "synonyms": [
+    "il giorno prima",
+    "nella giornata precedente",
+    "recentemente",
+    "nel passato",
+    "un tempo"
+  ],
+
+  "equivalents": {
+    "en": [
+      "yesterday",
+      "the past",
+      "recently"
+    ],
+    "de": [
+      "gestern",
+      "die Vergangenheit",
+      "kürzlich"
+    ],
+    "fr": [
+      "hier",
+      "le passé",
+      "récemment"
+    ],
+    "es": [
+      "ayer",
+      "el pasado",
+      "recientemente"
+    ]
+  },
+
+  "collocations": [
+    "ieri mattina",
+    "ieri pomeriggio",
+    "ieri sera",
+    "ieri notte",
+    "ieri a pranzo",
+    "ieri a cena",
+    "ieri alle cinque",
+    "ieri presto",
+    "ieri tardi",
+    "proprio ieri",
+    "soltanto ieri",
+    "solo ieri",
+    "ancora ieri",
+    "fino a ieri",
+    "sino a ieri",
+    "da ieri",
+    "da ieri mattina",
+    "da ieri sera",
+    "da ieri pomeriggio",
+    "da ieri a oggi",
+    "tra ieri e oggi",
+    "come ieri",
+    "meglio di ieri",
+    "peggio di ieri",
+    "lo stesso di ieri",
+    "diverso da ieri",
+    "il giorno di ieri",
+    "la giornata di ieri",
+    "la data di ieri",
+    "la riunione di ieri",
+    "l’appuntamento di ieri",
+    "la cena di ieri",
+    "il pranzo di ieri",
+    "il giornale di ieri",
+    "le notizie di ieri",
+    "il lavoro di ieri",
+    "il pagamento di ieri",
+    "il treno di ieri",
+    "la partita di ieri",
+    "la discussione di ieri",
+    "la paura di ieri",
+    "la temperatura di ieri",
+    "il prezzo di ieri",
+    "rispetto a ieri",
+    "a partire da ieri",
+    "a decorrere da ieri",
+    "valido da ieri",
+    "disponibile da ieri",
+    "chiuso da ieri",
+    "malato da ieri",
+    "stanco da ieri",
+    "non mangiare da ieri",
+    "non dormire da ieri",
+    "essere qui da ieri",
+    "arrivare ieri",
+    "partire ieri",
+    "tornare ieri",
+    "telefonare ieri",
+    "rispondere ieri",
+    "pagare ieri",
+    "depositare ieri",
+    "incontrarsi ieri",
+    "litigare ieri",
+    "cominciare ieri",
+    "finire ieri",
+    "succedere ieri",
+    "accadere ieri",
+    "l’altro ieri",
+    "l’altro ieri mattina",
+    "l’altro ieri sera",
+    "ieri l’altro",
+    "ieri come oggi",
+    "oggi come ieri",
+    "ieri e oggi",
+    "dal mondo di ieri",
+    "gli uomini di ieri",
+    "la società di ieri",
+    "il mondo di ieri",
+    "la tecnologia di ieri",
+    "le abitudini di ieri",
+    "i problemi di ieri",
+    "lasciarsi ieri alle spalle",
+    "dimenticare ciò che è successo ieri",
+    "sembra ieri",
+    "mi sembra ieri",
+    "non essere nato ieri",
+    "non sono nato ieri",
+    "quello di ieri",
+    "la giornata peggiore di ieri",
+    "appena ieri",
+    "fino all’altro ieri",
+    "da ieri in poi",
+    "ieri a quest’ora",
+    "ieri nello stesso momento"
+  ],
+
+  "examples": [
+    {
+      "it": "Ieri ho pranzato con alcuni colleghi.",
+      "ja": "昨日、私は何人かの同僚と昼食を取りました。"
+    },
+    {
+      "it": "Che cosa hai fatto ieri sera?",
+      "ja": "昨晩は何をしましたか。"
+    },
+    {
+      "it": "Ieri pioveva, ma oggi c’è il sole.",
+      "ja": "昨日は雨が降っていましたが、今日は晴れています。"
+    },
+    {
+      "it": "Sono stanco perché non dormo bene da ieri.",
+      "ja": "昨日からよく眠れていないので疲れています。"
+    },
+    {
+      "it": "Fino a ieri non conoscevo il suo nome.",
+      "ja": "昨日まで、私は彼の名前を知りませんでした。"
+    },
+    {
+      "it": "L’altro ieri abbiamo perso l’ultimo treno.",
+      "ja": "一昨日、私たちは最終列車に乗り遅れました。"
+    },
+    {
+      "it": "La situazione è molto migliorata rispetto a ieri.",
+      "ja": "状況は昨日と比べて大きく改善しました。"
+    },
+    {
+      "it": "Mi sembra ieri che abbiamo cominciato questo progetto.",
+      "ja": "このプロジェクトを始めたのが、つい昨日のことのように感じます。"
+    }
+  ]
+},
+{
+  "id": "domani",
+  "sid": "2026-00384",
+  "word": "domani",
+  "ipa": "/doˈmani/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "副詞・男性名詞的用法",
+      "it": "avverbio e uso sostantivato maschile"
+    },
+    "invariable": true,
+    "pattern": "domani + futuro o presente / domani mattina, pomeriggio o sera / da domani / entro domani / a domani / il domani / un domani"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "time",
+      "planning",
+      "work",
+      "travel",
+      "appointments",
+      "future"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "今日の直後の日、明日",
+      "明日の朝・午後・夕方など、その日の特定の時間帯",
+      "現在に非常に近い将来",
+      "名詞的に、これから訪れる未来・将来",
+      "un domaniの形で、いつか将来",
+      "挨拶のA domani!で、また明日",
+      "比喩的に、次の世代・未来の社会",
+      "慣用表現で、延期・将来への準備・不確実な未来などを表す"
+    ],
+    "it": [
+      "Il giorno immediatamente successivo a oggi.",
+      "Una particolare parte della giornata successiva, come mattina, pomeriggio o sera.",
+      "Il futuro molto vicino rispetto al momento presente.",
+      "Come sostantivo, il tempo futuro e ciò che deve ancora avvenire.",
+      "Nell’espressione un domani, un giorno futuro non precisato.",
+      "Nella formula A domani!, saluto rivolto a qualcuno che si prevede di rivedere il giorno successivo.",
+      "In senso figurato, generazioni, società o mondo del futuro.",
+      "Nelle espressioni idiomatiche, elemento associato al rinvio, alla preparazione e all’incertezza del futuro."
+    ]
+  },
+
+  "nuance": {
+    "ja": "domaniは通常、前置詞なしでDomani parto「明日出発します」と使う。近い未来の予定には未来形だけでなく現在形も自然で、Domani prendo il trenoと言える。da domaniは「明日から」、entro domaniは「遅くとも明日までに」、per domaniは「明日に向けて・明日用に」を表す。il domaniは抽象的な「未来」、un domaniは具体的な日を定めない「いつか将来」である。",
+    "it": "Domani si usa normalmente senza preposizione: Domani parto. Per programmi già stabiliti è naturale usare sia il futuro sia il presente: Domani prenderò il treno oppure Domani prendo il treno. Da domani indica l’inizio a partire dal giorno successivo; entro domani una scadenza; per domani ciò che è previsto o preparato per quel giorno. Il domani indica il futuro in senso astratto; un domani significa «in un futuro non precisato»."
+  },
+
+  "etymology": {
+    "ja": "ラテン語の表現de mane（朝から、翌朝に）に由来する。maneは「朝」を意味し、夜が明けた次の朝が「明日」全体を表すようになった。フランス語demainも同じラテン語表現から発達した。イタリア語のmaneは現在では主に詩語として残り、mattinaが日常語の「朝」となっている。",
+    "it": "Deriva dall’espressione latina de mane, «dal mattino, al mattino seguente». Mane significava «mattino» e il riferimento alla mattina successiva si estese all’intera giornata futura. Anche il francese demain deriva dalla stessa espressione latina. In italiano mane sopravvive soprattutto nell’uso poetico, mentre mattina è il termine quotidiano."
+  },
+
+  "minimal": [
+    {
+      "word": "domani",
+      "ja": "今日の直後の日、または比喩的に未来",
+      "it": "giorno immediatamente successivo a oggi oppure, figuratamente, futuro"
+    },
+    {
+      "word": "oggi",
+      "ja": "話している時点が属する日、または現代",
+      "it": "giorno nel quale si parla oppure epoca presente"
+    },
+    {
+      "word": "ieri",
+      "ja": "今日の直前の日、または比喩的に過去",
+      "it": "giorno immediatamente precedente a oggi oppure, figuratamente, passato"
+    },
+    {
+      "word": "dopodomani",
+      "ja": "明日のさらに次の日、明後日",
+      "it": "giorno immediatamente successivo a domani"
+    },
+    {
+      "word": "futuro",
+      "ja": "現在より後に来る時間・時代・出来事の総体",
+      "it": "tempo, epoca o insieme degli eventi successivi al presente"
+    }
+  ],
+
+  "synonyms": [
+    "il giorno seguente",
+    "il giorno dopo",
+    "in futuro",
+    "l’avvenire",
+    "un giorno"
+  ],
+
+  "equivalents": {
+    "en": [
+      "tomorrow",
+      "the future",
+      "someday"
+    ],
+    "de": [
+      "morgen",
+      "die Zukunft",
+      "eines Tages"
+    ],
+    "fr": [
+      "demain",
+      "l’avenir",
+      "un jour"
+    ],
+    "es": [
+      "mañana",
+      "el futuro",
+      "algún día"
+    ]
+  },
+
+  "collocations": [
+    "domani mattina",
+    "domani pomeriggio",
+    "domani sera",
+    "domani notte",
+    "domani a pranzo",
+    "domani a cena",
+    "domani alle cinque",
+    "domani presto",
+    "domani tardi",
+    "proprio domani",
+    "soltanto domani",
+    "solo domani",
+    "già domani",
+    "non prima di domani",
+    "non più tardi di domani",
+    "entro domani",
+    "entro domani mattina",
+    "entro domani sera",
+    "per domani",
+    "previsto per domani",
+    "fissato per domani",
+    "rimandato a domani",
+    "rinviare a domani",
+    "lasciare per domani",
+    "preparare per domani",
+    "prenotare per domani",
+    "da domani",
+    "a partire da domani",
+    "da domani mattina",
+    "da domani in poi",
+    "valido da domani",
+    "disponibile da domani",
+    "chiuso da domani",
+    "aperto da domani",
+    "domani è lunedì",
+    "domani sarà una bella giornata",
+    "domani farà caldo",
+    "domani pioverà",
+    "domani lavoro",
+    "domani non lavoro",
+    "domani parto",
+    "domani torno",
+    "domani comincio",
+    "domani finisco",
+    "domani prendo il treno",
+    "domani ho una riunione",
+    "domani ho un appuntamento",
+    "domani devo partire",
+    "domani posso venire",
+    "domani ci vediamo",
+    "domani ne parliamo",
+    "domani vedremo",
+    "ci penserò domani",
+    "te lo dirò domani",
+    "pagare domani",
+    "rispondere domani",
+    "consegnare domani",
+    "depositare domani",
+    "telefonare domani",
+    "arrivare domani",
+    "partire domani",
+    "tornare domani",
+    "cominciare domani",
+    "finire domani",
+    "oggi e domani",
+    "da oggi a domani",
+    "tra oggi e domani",
+    "dall’oggi al domani",
+    "aspettare fino a domani",
+    "rimandare fino a domani",
+    "a domani",
+    "a domani mattina",
+    "a domani sera",
+    "ci vediamo domani",
+    "il domani",
+    "pensare al domani",
+    "guardare al domani",
+    "costruire il domani",
+    "preparare il domani",
+    "il mondo di domani",
+    "la società di domani",
+    "la tecnologia di domani",
+    "i lavoratori di domani",
+    "le generazioni di domani",
+    "la lingua di domani",
+    "un domani",
+    "forse un domani",
+    "sperare che un domani",
+    "in un domani migliore",
+    "oggi per domani",
+    "vivere alla giornata",
+    "non pensare al domani",
+    "non rimandare a domani",
+    "domani è un altro giorno",
+    "del domani non c’è certezza",
+    "oggi a me, domani a te",
+    "meglio oggi che domani",
+    "oggi o domani",
+    "domani o dopodomani",
+    "da un giorno all’altro"
+  ],
+
+  "examples": [
+    {
+      "it": "Domani prendo il treno delle otto.",
+      "ja": "明日は8時の列車に乗ります。"
+    },
+    {
+      "it": "Domani pomeriggio ho un appuntamento importante.",
+      "ja": "明日の午後、重要な約束があります。"
+    },
+    {
+      "it": "Puoi inviarmi i documenti entro domani?",
+      "ja": "明日までに書類を送ってもらえますか。"
+    },
+    {
+      "it": "Da domani comincerò ad andare al lavoro a piedi.",
+      "ja": "明日から歩いて仕事へ行くことにします。"
+    },
+    {
+      "it": "Sono stanco: ne discuteremo domani.",
+      "ja": "疲れているので、そのことは明日話し合いましょう。"
+    },
+    {
+      "it": "Grazie per la cena. A domani!",
+      "ja": "夕食をありがとう。また明日！"
+    },
+    {
+      "it": "Dobbiamo investire nell’educazione dei cittadini di domani.",
+      "ja": "私たちは未来の市民の教育に投資しなければなりません。"
+    },
+    {
+      "it": "Forse un domani torneremo a vivere in questa città.",
+      "ja": "いつか将来、私たちはこの町に戻って暮らすかもしれません。"
+    }
+  ]
 }
 ]
