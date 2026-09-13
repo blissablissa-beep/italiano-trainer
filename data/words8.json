@@ -1,3 +1,1060 @@
 [
+{
+  "id": "dopodomani",
+  "sid": "2026-00385",
+  "word": "dopodomani",
+  "ipa": "/dopodoˈmani/",
+  "level": "A1",
+  "frequency": "very_common",
 
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "副詞・男性名詞的用法",
+      "it": "avverbio e uso sostantivato maschile"
+    },
+    "invariable": true,
+    "pattern": "dopodomani + futuro o presente / dopodomani mattina, pomeriggio o sera / entro dopodomani / da dopodomani / per dopodomani"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "time",
+      "planning",
+      "work",
+      "travel",
+      "appointments",
+      "deadlines"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "明日のさらに次の日、明後日",
+      "現在から数えて二日後の日",
+      "明後日の朝・午後・夕方など、その日の特定の時間帯",
+      "現在から二日後に起こる予定・出来事を示す語",
+      "名詞的に、明後日という日",
+      "文脈によって、ごく近い将来を象徴する日"
+    ],
+    "it": [
+      "Il giorno immediatamente successivo a domani.",
+      "Il secondo giorno successivo a quello nel quale si parla.",
+      "Una particolare parte di tale giornata, come mattina, pomeriggio o sera.",
+      "Indicazione temporale riferita a un programma o evento previsto due giorni dopo oggi.",
+      "Come sostantivo, la giornata successiva a domani.",
+      "Secondo il contesto, giorno assunto come simbolo di un futuro molto vicino."
+    ]
+  },
+
+  "nuance": {
+    "ja": "dopodomaniは通常、前置詞なしでDopodomani parto「明後日出発します」と使う。予定が確定している場合は未来形と現在形のどちらも自然で、Dopodomani partiròとDopodomani partoはいずれも使える。entro dopodomaniは明後日を最終期限に含む「明後日までに」、per dopodomaniは「明後日に向けて・明後日用に」、da dopodomaniは「明後日から」を表す。地域によってはposdomaniも見られるが、標準語ではdopodomaniが最も一般的である。",
+    "it": "Dopodomani si usa normalmente senza preposizione: Dopodomani parto. Per un programma stabilito sono naturali tanto il futuro Dopodomani partirò quanto il presente Dopodomani parto. Entro dopodomani include dopodomani come limite finale; per dopodomani indica ciò che è previsto o preparato per quel giorno; da dopodomani stabilisce l’inizio a partire da esso. La variante posdomani esiste in alcune aree e in alcuni usi, ma dopodomani è la forma standard più comune."
+  },
+
+  "etymology": {
+    "ja": "イタリア語の副詞dopo（～の後）とdomani（明日）が結合してできた複合語で、文字どおり「明日の後」を意味する。domani自体はラテン語de mane（翌朝に）に由来する。同じ構造はフランス語après-demain、スペイン語pasado mañanaにも見られるが、ドイツ語übermorgenのように「明日を越えた日」と表現する言語もある。",
+    "it": "È un composto italiano formato da dopo e domani e significa letteralmente «dopo domani». Domani deriva a sua volta dal latino de mane, «al mattino seguente». Una formazione semanticamente simile compare nel francese après-demain e nello spagnolo pasado mañana; il tedesco übermorgen esprime invece l’idea del giorno «oltre domani»."
+  },
+
+  "minimal": [
+    {
+      "word": "dopodomani",
+      "ja": "今日から数えて二日後の日、明後日",
+      "it": "secondo giorno successivo a oggi, immediatamente dopo domani"
+    },
+    {
+      "word": "domani",
+      "ja": "今日の直後の日、明日",
+      "it": "giorno immediatamente successivo a oggi"
+    },
+    {
+      "word": "oggi",
+      "ja": "話している時点が属する日、今日",
+      "it": "giorno nel quale si parla"
+    },
+    {
+      "word": "ieri",
+      "ja": "今日の直前の日、昨日",
+      "it": "giorno immediatamente precedente a oggi"
+    },
+    {
+      "word": "l’altro ieri",
+      "ja": "今日から数えて二日前の日、一昨日",
+      "it": "secondo giorno precedente a oggi, immediatamente prima di ieri"
+    }
+  ],
+
+  "synonyms": [
+    "il giorno dopo domani",
+    "fra due giorni",
+    "tra due giorni",
+    "posdomani"
+  ],
+
+  "equivalents": {
+    "en": [
+      "the day after tomorrow",
+      "in two days"
+    ],
+    "de": [
+      "übermorgen",
+      "in zwei Tagen"
+    ],
+    "fr": [
+      "après-demain",
+      "dans deux jours"
+    ],
+    "es": [
+      "pasado mañana",
+      "dentro de dos días"
+    ]
+  },
+
+  "collocations": [
+    "dopodomani mattina",
+    "dopodomani pomeriggio",
+    "dopodomani sera",
+    "dopodomani notte",
+    "dopodomani a pranzo",
+    "dopodomani a cena",
+    "dopodomani alle cinque",
+    "dopodomani presto",
+    "dopodomani tardi",
+    "proprio dopodomani",
+    "soltanto dopodomani",
+    "solo dopodomani",
+    "non prima di dopodomani",
+    "non più tardi di dopodomani",
+    "entro dopodomani",
+    "entro dopodomani mattina",
+    "entro dopodomani sera",
+    "per dopodomani",
+    "previsto per dopodomani",
+    "fissato per dopodomani",
+    "rimandato a dopodomani",
+    "rinviare a dopodomani",
+    "lasciare per dopodomani",
+    "preparare per dopodomani",
+    "prenotare per dopodomani",
+    "da dopodomani",
+    "a partire da dopodomani",
+    "da dopodomani mattina",
+    "da dopodomani in poi",
+    "valido da dopodomani",
+    "disponibile da dopodomani",
+    "chiuso da dopodomani",
+    "aperto da dopodomani",
+    "dopodomani è lunedì",
+    "dopodomani farà caldo",
+    "dopodomani pioverà",
+    "dopodomani lavoro",
+    "dopodomani non lavoro",
+    "dopodomani parto",
+    "dopodomani torno",
+    "dopodomani comincio",
+    "dopodomani finisco",
+    "dopodomani prendo il treno",
+    "dopodomani prendo l’aereo",
+    "dopodomani ho una riunione",
+    "dopodomani ho un appuntamento",
+    "dopodomani devo partire",
+    "dopodomani posso venire",
+    "dopodomani ci vediamo",
+    "dopodomani ne parliamo",
+    "dopodomani sapremo",
+    "pagare dopodomani",
+    "rispondere dopodomani",
+    "consegnare dopodomani",
+    "depositare dopodomani",
+    "telefonare dopodomani",
+    "arrivare dopodomani",
+    "partire dopodomani",
+    "tornare dopodomani",
+    "cominciare dopodomani",
+    "finire dopodomani",
+    "da oggi a dopodomani",
+    "tra domani e dopodomani",
+    "oggi, domani o dopodomani",
+    "domani o dopodomani",
+    "aspettare fino a dopodomani",
+    "rimandare fino a dopodomani",
+    "ci vediamo dopodomani",
+    "il programma di dopodomani",
+    "la riunione di dopodomani",
+    "l’appuntamento di dopodomani",
+    "il viaggio di dopodomani",
+    "la partenza di dopodomani",
+    "il treno di dopodomani",
+    "il volo di dopodomani",
+    "la cena di dopodomani",
+    "la scadenza di dopodomani",
+    "fra due giorni",
+    "tra due giorni",
+    "il giorno dopo domani"
+  ],
+
+  "examples": [
+    {
+      "it": "Dopodomani partiremo in treno per Roma.",
+      "ja": "明後日、私たちは列車でローマへ出発します。"
+    },
+    {
+      "it": "Dopodomani mattina ho un appuntamento dal medico.",
+      "ja": "明後日の朝、医師の予約があります。"
+    },
+    {
+      "it": "Puoi consegnare i documenti entro dopodomani?",
+      "ja": "明後日までに書類を提出できますか。"
+    },
+    {
+      "it": "Da dopodomani il negozio chiuderà alle sette.",
+      "ja": "明後日から、その店は7時に閉店します。"
+    },
+    {
+      "it": "La riunione è stata rimandata a dopodomani.",
+      "ja": "会議は明後日に延期されました。"
+    },
+    {
+      "it": "Oggi sono stanco, ma dopodomani sarò di nuovo libero.",
+      "ja": "今日は疲れていますが、明後日にはまた時間が空きます。"
+    },
+    {
+      "it": "Abbiamo prenotato un tavolo per dopodomani sera.",
+      "ja": "私たちは明後日の夕食のために席を予約しました。"
+    },
+    {
+      "it": "Domani o dopodomani riceveremo una risposta.",
+      "ja": "明日か明後日には返事を受け取るでしょう。"
+    }
+  ]
+},
+{
+  "id": "subito",
+  "sid": "2026-00386",
+  "word": "subito",
+  "ipa": "/ˈsubito/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "副詞／subìtoとは発音の異なる同綴語",
+      "it": "avverbio / omografo del participio subìto"
+    },
+    "invariable": true,
+    "pattern": "verbo + subito / subito prima o dopo / da subito / fin da subito / non subito / Subito!"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "time",
+      "work",
+      "commands",
+      "emergency",
+      "travel",
+      "response"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "時間を置かずに、すぐに・直ちに",
+      "ある出来事の直前または直後に",
+      "行為・反応・結果などが非常に短時間で生じて",
+      "最初の段階から、初めから",
+      "容易に・ためらわず・直接に",
+      "命令として、今すぐに",
+      "近い場所・順序・関係において、すぐ隣に・直後に",
+      "相手の要求に応じる表現として、ただちに・承知しました"
+    ],
+    "it": [
+      "Senza lasciare trascorrere tempo, immediatamente.",
+      "Immediatamente prima o dopo un determinato evento.",
+      "In modo che un’azione, una reazione o un risultato si produca in pochissimo tempo.",
+      "Fin dalla fase iniziale o dal primo momento.",
+      "Direttamente, senza esitazione o senza particolari passaggi intermedi.",
+      "Come ordine, in questo preciso momento e senza ritardo.",
+      "In una posizione, successione o relazione immediatamente vicina.",
+      "Come risposta a una richiesta, formula che esprime disponibilità ad agire immediatamente."
+    ]
+  },
+
+  "nuance": {
+    "ja": "subitoは発話時点から遅れずに行うことを示すが、実際の時間幅は文脈によって「今すぐ」から「まもなく」まで変わる。immediatamenteはより明示的・改まった「即座に」、prestoは「早く・近いうちに」であり、必ずしも即時ではない。副詞subitoは/ˈsubito/、subireの過去分詞subìto「被った」は/suˈbito/と発音する。通常の文章ではアクセント記号を書かないため、文脈で判断する。",
+    "it": "Subito indica assenza di ritardo, ma la durata concreta può variare secondo il contesto da «in questo istante» a «fra pochissimo». Immediatamente è più esplicito e talvolta più formale; presto significa «in anticipo» o «in un futuro vicino» e non implica necessariamente un’azione immediata. L’avverbio sùbito si pronuncia /ˈsubito/; il participio passato subìto di subire si pronuncia /suˈbito/. Normalmente l’accento grafico non viene scritto e la distinzione dipende dal contesto."
+  },
+
+  "etymology": {
+    "ja": "ラテン語subĭtō（突然に、直ちに）に由来し、形容詞subĭtus（突然現れた）の副詞的用法である。subĭtusはsubīre（下へ行く、近づく、不意に現れる）の過去分詞に由来する。このため、現代イタリア語の副詞sùbitoと動詞subireの過去分詞subìtoは、発音と意味が異なるものの歴史的には関連している。英語suddenも関連するラテン語subitāneusからフランス語を経て発達した。",
+    "it": "Dal latino subĭtō, «improvvisamente, immediatamente», uso avverbiale di subĭtus, «sopraggiunto all’improvviso». Subĭtus era collegato a subīre, «andare sotto, avvicinarsi, sopraggiungere». Per questo l’avverbio sùbito e il participio subìto di subire, pur distinguendosi oggi per accento e significato, sono storicamente collegati. Anche l’inglese sudden risale, attraverso il francese, al latino subitāneus della stessa famiglia."
+  },
+
+  "minimal": [
+    {
+      "word": "subito",
+      "ja": "時間を置かず、その場で行動・反応することを表す",
+      "it": "compiere un’azione senza ritardo rispetto al momento presente o a un altro evento"
+    },
+    {
+      "word": "immediatamente",
+      "ja": "一切の遅延なく即座に、subitoより明示的・改まったことがある",
+      "it": "senza alcun intervallo o ritardo, talvolta con tono più esplicito o formale"
+    },
+    {
+      "word": "presto",
+      "ja": "予定より早く、または現在からそれほど遠くない時点に",
+      "it": "in anticipo oppure in un momento futuro non lontano, ma non necessariamente immediato"
+    },
+    {
+      "word": "adesso",
+      "ja": "発話しているまさにその時点、今",
+      "it": "nel preciso momento in cui si parla"
+    },
+    {
+      "word": "subìto",
+      "ja": "動詞subireの過去分詞で、損害・苦痛などを被った",
+      "it": "participio passato di subire, riferito a qualcosa che è stato sopportato o ricevuto"
+    }
+  ],
+
+  "synonyms": [
+    "immediatamente",
+    "istantaneamente",
+    "prontamente",
+    "senza indugio",
+    "all’istante",
+    "seduta stante"
+  ],
+
+  "equivalents": {
+    "en": [
+      "immediately",
+      "right away",
+      "at once",
+      "straightaway"
+    ],
+    "de": [
+      "sofort",
+      "gleich",
+      "unverzüglich"
+    ],
+    "fr": [
+      "tout de suite",
+      "immédiatement",
+      "aussitôt"
+    ],
+    "es": [
+      "enseguida",
+      "inmediatamente",
+      "de inmediato"
+    ]
+  },
+
+  "collocations": [
+    "venire subito",
+    "arrivare subito",
+    "partire subito",
+    "tornare subito",
+    "cominciare subito",
+    "finire subito",
+    "rispondere subito",
+    "telefonare subito",
+    "scrivere subito",
+    "pagare subito",
+    "decidere subito",
+    "agire subito",
+    "intervenire subito",
+    "reagire subito",
+    "aiutare subito",
+    "chiamare subito",
+    "uscire subito",
+    "entrare subito",
+    "andare via subito",
+    "fermarsi subito",
+    "smettere subito",
+    "capire subito",
+    "ricordare subito",
+    "riconoscere subito",
+    "notare subito",
+    "accorgersi subito",
+    "vedere subito",
+    "sentire subito",
+    "sapere subito",
+    "dire subito",
+    "chiedere subito",
+    "controllare subito",
+    "verificare subito",
+    "correggere subito",
+    "eliminare subito",
+    "cancellare subito",
+    "annullare subito",
+    "registrare subito",
+    "inviare subito",
+    "consegnare subito",
+    "depositare subito",
+    "prenotare subito",
+    "comprare subito",
+    "mangiare subito",
+    "bere subito",
+    "dormire subito",
+    "addormentarsi subito",
+    "stare subito meglio",
+    "sentirsi subito meglio",
+    "essere subito chiaro",
+    "diventare subito evidente",
+    "subito prima",
+    "subito dopo",
+    "subito dopo cena",
+    "subito dopo la riunione",
+    "subito dopo essere arrivato",
+    "subito prima di partire",
+    "subito prima dell’esame",
+    "poco prima",
+    "poco dopo",
+    "da subito",
+    "fin da subito",
+    "essere chiaro da subito",
+    "capire fin da subito",
+    "funzionare bene fin da subito",
+    "non subito",
+    "non rispondere subito",
+    "non capire subito",
+    "non necessariamente subito",
+    "non proprio subito",
+    "quasi subito",
+    "praticamente subito",
+    "proprio subito",
+    "subito qui",
+    "subito fuori",
+    "subito dentro",
+    "subito a destra",
+    "subito a sinistra",
+    "subito davanti",
+    "subito dietro",
+    "subito accanto",
+    "subito sopra",
+    "subito sotto",
+    "subito disponibile",
+    "subito pronto",
+    "subito operativo",
+    "subito visibile",
+    "subito riconoscibile",
+    "subito accessibile",
+    "subito dopo",
+    "subito allora",
+    "subito oggi",
+    "oggi stesso",
+    "in un attimo",
+    "senza perdere tempo",
+    "senza aspettare",
+    "il prima possibile",
+    "al più presto",
+    "Subito!",
+    "Vengo subito!",
+    "Arrivo subito!",
+    "Torno subito!",
+    "Fallo subito!",
+    "Smettila subito!",
+    "Dimmi subito la verità!",
+    "Un attimo, arrivo subito.",
+    "subito o mai più",
+    "qui e subito",
+    "volere tutto e subito"
+  ],
+
+  "examples": [
+    {
+      "it": "Arrivo subito, aspettami un attimo.",
+      "ja": "すぐに行くので、少し待っていてください。"
+    },
+    {
+      "it": "Quando hai visto il sangue, dovevi chiamare subito il medico.",
+      "ja": "血を見たとき、すぐに医師を呼ぶべきでした。"
+    },
+    {
+      "it": "Ho capito subito che qualcosa non andava.",
+      "ja": "私は何かがおかしいとすぐに気づきました。"
+    },
+    {
+      "it": "Subito dopo cena siamo usciti a fare una passeggiata.",
+      "ja": "夕食の直後、私たちは散歩に出かけました。"
+    },
+    {
+      "it": "Il nuovo sistema è stato facile da usare fin da subito.",
+      "ja": "新しいシステムは最初から簡単に使えました。"
+    },
+    {
+      "it": "Non devi rispondere subito: pensaci con calma.",
+      "ja": "すぐに答える必要はありません。落ち着いて考えてください。"
+    },
+    {
+      "it": "Il negozio si trova subito fuori dalla stazione.",
+      "ja": "その店は駅を出てすぐのところにあります。"
+    },
+    {
+      "it": "Il danno subìto dalla nave è stato più grave del previsto.",
+      "ja": "その船が受けた損害は予想以上に深刻でした。"
+    }
+  ]
+},
+{
+  "id": "mattina",
+  "sid": "2026-00387",
+  "word": "mattina",
+  "ipa": "/matˈtina/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "mattine",
+    "pattern": "la mattina / di mattina / questa mattina o stamattina / ieri mattina / domani mattina / dalla mattina alla sera / in mattinata"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "time",
+      "daily_life",
+      "work",
+      "travel",
+      "appointments",
+      "weather"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "日の出頃から正午頃までの時間、朝・午前",
+      "一日の活動が始まる時間帯",
+      "特定の日の朝",
+      "朝に繰り返し行われる習慣的な時間",
+      "夜明け後の早い時間、とくに早朝",
+      "午前中に予定・実施される活動や勤務時間",
+      "比喩的に、人生・時代・活動などの初期段階",
+      "複数形で、複数の日の朝または朝ごとの時間"
+    ],
+    "it": [
+      "Parte della giornata compresa approssimativamente tra l’alba e mezzogiorno.",
+      "Periodo nel quale cominciano normalmente le attività quotidiane.",
+      "Parte iniziale di una giornata determinata.",
+      "Momento abituale nel quale un’azione viene ripetuta ogni giorno.",
+      "Prime ore successive all’alba, soprattutto quando si sottolinea che è presto.",
+      "Periodo antimeridiano nel quale si svolgono lavoro, appuntamenti o altre attività.",
+      "In senso figurato, fase iniziale della vita, di un’epoca o di un’attività.",
+      "Al plurale, le parti iniziali di più giornate o un’abitudine ripetuta al mattino."
+    ]
+  },
+
+  "nuance": {
+    "ja": "mattinaとmattinoは多くの場合交換可能だが、mattinaは時間の広がりや日常生活の時間帯として特に一般的で、mattinoは一日の始まり・早朝をやや強く意識させることがある。la mattinaは「朝はいつも」、di mattinaは「朝の時間帯に」、questa mattinaまたはstamattinaは「今朝」を表す。in mattinataは正確な時刻を定めず「午前中のどこかで」を意味する。",
+    "it": "Mattina e mattino sono spesso intercambiabili, ma mattina è particolarmente comune come periodo esteso della vita quotidiana, mentre mattino può mettere maggiormente in rilievo l’inizio del giorno o le prime ore. La mattina indica spesso un’abitudine; di mattina colloca un’azione nella fascia mattutina; questa mattina e stamattina indicano la mattina di oggi. In mattinata significa in un momento non precisamente determinato prima di mezzogiorno."
+  },
+
+  "etymology": {
+    "ja": "ラテン語matutīnus（朝の、早朝の）の女性形に由来し、名詞化して「朝」という時間帯を表すようになった。matutīnusはローマ神話の曙の女神Mater Matutaの名と関連すると考えられている。同じ語族にはmattino、mattutino、mattinata、stamattinaがある。フランス語matin、英語matinsやmatineeも同じラテン語系の語に由来する。",
+    "it": "Deriva dalla forma femminile del latino matutīnus, «del mattino», divenuta poi sostantivo. Matutīnus è tradizionalmente collegato a Mater Matuta, divinità romana dell’aurora. Alla stessa famiglia appartengono mattino, mattutino, mattinata e stamattina. Anche il francese matin e gli inglesi matins e matinee derivano da forme della stessa famiglia latina."
+  },
+
+  "minimal": [
+    {
+      "word": "mattina",
+      "ja": "日の出頃から正午までの時間帯としての朝・午前",
+      "it": "parte della giornata compresa tra l’alba e mezzogiorno"
+    },
+    {
+      "word": "mattino",
+      "ja": "mattinaとほぼ同義だが、一日の始まりや早朝を意識させることがある",
+      "it": "termine quasi equivalente a mattina, talvolta più legato all’inizio del giorno"
+    },
+    {
+      "word": "mattinata",
+      "ja": "一つのまとまりとして捉えた午前中、または午前中いっぱい",
+      "it": "intero periodo della mattina considerato nella sua durata"
+    },
+    {
+      "word": "alba",
+      "ja": "太陽が昇る直前から昇り始めるまでの夜明け",
+      "it": "momento in cui termina la notte e comincia ad apparire la luce del sole"
+    },
+    {
+      "word": "pomeriggio",
+      "ja": "正午または昼食後から夕方までの時間帯、午後",
+      "it": "parte della giornata compresa tra mezzogiorno e la sera"
+    }
+  ],
+
+  "synonyms": [
+    "mattino",
+    "prime ore del giorno",
+    "periodo antimeridiano",
+    "inizio della giornata"
+  ],
+
+  "equivalents": {
+    "en": [
+      "morning",
+      "forenoon",
+      "a.m."
+    ],
+    "de": [
+      "Morgen",
+      "Vormittag"
+    ],
+    "fr": [
+      "matin",
+      "matinée"
+    ],
+    "es": [
+      "mañana",
+      "parte de la mañana"
+    ]
+  },
+
+  "collocations": [
+    "questa mattina",
+    "stamattina",
+    "ieri mattina",
+    "domani mattina",
+    "dopodomani mattina",
+    "la mattina",
+    "ogni mattina",
+    "tutte le mattine",
+    "una mattina",
+    "una mattina d’estate",
+    "una mattina d’inverno",
+    "una mattina di primavera",
+    "una mattina d’autunno",
+    "di mattina",
+    "al mattino",
+    "in mattinata",
+    "durante la mattina",
+    "nel corso della mattina",
+    "per tutta la mattina",
+    "dalla mattina alla sera",
+    "da mattina a sera",
+    "fino alla mattina",
+    "verso mattina",
+    "a metà mattina",
+    "alla fine della mattina",
+    "nelle prime ore della mattina",
+    "la mattina presto",
+    "molto presto la mattina",
+    "la mattina tardi",
+    "una bella mattina",
+    "una mattina tranquilla",
+    "una mattina fredda",
+    "una mattina calda",
+    "una mattina luminosa",
+    "una mattina di sole",
+    "una mattina di pioggia",
+    "una mattina difficile",
+    "una lunga mattina",
+    "una mattina intera",
+    "la mattina seguente",
+    "la mattina successiva",
+    "la mattina precedente",
+    "la mattina stessa",
+    "la mattina dopo",
+    "la mattina prima",
+    "svegliarsi la mattina",
+    "alzarsi la mattina",
+    "fare colazione la mattina",
+    "bere il caffè la mattina",
+    "lavorare la mattina",
+    "studiare la mattina",
+    "camminare la mattina",
+    "allenarsi la mattina",
+    "fare una passeggiata la mattina",
+    "partire la mattina",
+    "arrivare la mattina",
+    "prendere il treno la mattina",
+    "leggere il giornale la mattina",
+    "fare la doccia la mattina",
+    "sentirsi stanco la mattina",
+    "avere sonno la mattina",
+    "essere libero la mattina",
+    "essere occupato la mattina",
+    "avere un appuntllo?" 
+  ]
+},
+{
+  "id": "lattina",
+  "sid": "2026-00388",
+  "word": "lattina",
+  "ipa": "/latˈtina/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "nome femminile"
+    },
+    "gender": "feminine",
+    "plural": "lattine",
+    "pattern": "una lattina di + bevanda o alimento"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "shopping",
+      "food",
+      "home",
+      "recycling"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "飲料や食品を入れる小型の金属製容器、缶",
+      "その容器に入っている飲料・食品の一缶分"
+    ],
+    "it": [
+      "Piccolo contenitore metallico usato soprattutto per bevande o alimenti.",
+      "La quantità di bevanda o alimento contenuta in tale recipiente."
+    ]
+  },
+
+  "nuance": {
+    "ja": "lattinaは、炭酸飲料・ビール・エナジードリンクなどに使われる小型の金属缶を指すことが多い。una lattina di birraは、容器そのものだけでなく「缶ビール一缶」という内容量も表す。缶詰一般にはscatolettaまたはscatolaを使うことがあり、大型の金属容器にはbarattoloが使われる。瓶はbottiglia、ガラスやプラスチックの小容器はvasettoである。",
+    "it": "Lattina indica soprattutto il piccolo contenitore metallico delle bibite, della birra e di altri prodotti alimentari. In una lattina di birra il termine può riferirsi sia al recipiente sia alla quantità contenuta. Per alcune conserve si usano anche scatoletta o scatola, mentre barattolo indica spesso un recipiente più grande o di forma cilindrica. Bottiglia indica la bottiglia e vasetto un piccolo contenitore, generalmente di vetro o plastica."
+  },
+
+  "etymology": {
+    "ja": "latta（金属製の薄板、ブリキ）に縮小辞-inаを加えて形成された語で、もともとは「小さな金属容器」を意味する。lattaはフランス語latteを経由し、金属板を指す語としてイタリア語に定着したとされる。",
+    "it": "Deriva da latta con il suffisso diminutivo -ina e significava originariamente un piccolo recipiente di metallo. Latta, probabilmente giunto attraverso il francese latte, indica una lamiera metallica sottile."
+  },
+
+  "minimal": [
+    {
+      "word": "lattina",
+      "ja": "飲料などを入れる小型の金属缶",
+      "it": "piccolo contenitore metallico usato soprattutto per bevande"
+    },
+    {
+      "word": "bottiglia",
+      "ja": "液体を入れる細長い瓶またはボトル",
+      "it": "recipiente allungato, generalmente di vetro o plastica, destinato ai liquidi"
+    },
+    {
+      "word": "barattolo",
+      "ja": "食品などを保存する円筒形の瓶または缶",
+      "it": "recipiente cilindrico di vetro, metallo o plastica usato per conservare prodotti"
+    },
+    {
+      "word": "scatoletta",
+      "ja": "保存食品などを入れる小さな箱形または円形の缶",
+      "it": "piccola confezione, spesso metallica, usata per alimenti conservati"
+    }
+  ],
+
+  "synonyms": [
+    "contenitore",
+    "barattolo",
+    "scatoletta"
+  ],
+
+  "equivalents": {
+    "en": [
+      "can",
+      "tin"
+    ],
+    "de": [
+      "Dose",
+      "Getränkedose"
+    ],
+    "fr": [
+      "canette",
+      "boîte"
+    ],
+    "es": [
+      "lata",
+      "bote"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "una lattina di birra",
+      "ja": "缶ビール一本"
+    },
+    {
+      "it": "una lattina di cola",
+      "ja": "コーラ一缶"
+    },
+    {
+      "it": "una lattina di tonno",
+      "ja": "ツナ缶一個"
+    },
+    {
+      "it": "aprire una lattina",
+      "ja": "缶を開ける"
+    },
+    {
+      "it": "bere dalla lattina",
+      "ja": "缶から直接飲む"
+    },
+    {
+      "it": "schiacciare una lattina",
+      "ja": "缶をつぶす"
+    },
+    {
+      "it": "buttare una lattina",
+      "ja": "缶を捨てる"
+    },
+    {
+      "it": "riciclare le lattine",
+      "ja": "缶をリサイクルする"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Ho comprato una lattina di aranciata.",
+      "ja": "私はオレンジソーダを一缶買いました。"
+    },
+    {
+      "it": "Vuoi una lattina di birra?",
+      "ja": "缶ビールを一本いかがですか。"
+    },
+    {
+      "it": "Non riesco ad aprire questa lattina.",
+      "ja": "この缶を開けられません。"
+    },
+    {
+      "it": "Ha bevuto la bibita direttamente dalla lattina.",
+      "ja": "彼は缶から直接その清涼飲料を飲みました。"
+    },
+    {
+      "it": "Le lattine vuote vanno messe nel contenitore dei metalli.",
+      "ja": "空き缶は金属ごみの容器に入れます。"
+    },
+    {
+      "it": "Questa macchina può contenere fino a trecento lattine.",
+      "ja": "この機械には最大300缶まで入ります。"
+    }
+  ]
+},
+{
+  "id": "fresco",
+  "sid": "2026-00389",
+  "word": "fresco",
+  "ipa": "/ˈfresko/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adjective",
+    "label": {
+      "ja": "形容詞・名詞・副詞的用法",
+      "it": "aggettivo, nome e uso avverbiale"
+    },
+    "forms": "fresco / fresca / freschi / fresche",
+    "pattern": "essere fresco / fresco + nome / stare al fresco / mangiare o bere fresco"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "weather",
+      "food",
+      "home",
+      "shopping"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "暑くも寒くもなく、心地よく涼しい",
+      "食品が新しく、鮮度が保たれている",
+      "作られたばかり、届いたばかり、または起きたばかりである",
+      "休息後などで元気があり、疲れていない",
+      "色・香り・印象などが爽やかで軽快である",
+      "名詞として、涼しさや涼しい場所",
+      "名詞として、漆喰が乾く前に描く壁画技法、フレスコ画"
+    ],
+    "it": [
+      "Moderatamente freddo e piacevole, senza essere gelido.",
+      "Recente e ben conservato, soprattutto con riferimento agli alimenti.",
+      "Appena fatto, prodotto, arrivato o avvenuto.",
+      "Riposato, energico e non affaticato.",
+      "Leggero e gradevole, con riferimento a un colore, un profumo o un’impressione.",
+      "Come nome, una temperatura piacevolmente bassa o un luogo riparato dal caldo.",
+      "Come nome, tecnica pittorica eseguita sull’intonaco ancora umido e opera realizzata con tale tecnica."
+    ]
+  },
+
+  "nuance": {
+    "ja": "frescoは温度について「冷たい」というより「ほどよく涼しい、爽やかな」を表す。水や飲み物を明確に冷たいと言う場合はfreddoが一般的である。食品についてはpane fresco「焼きたてのパン」、pesce fresco「新鮮な魚」のように、古くないことや鮮度のよさを示す。人についてessere fresco e riposatoと言えば「元気で疲れていない」という意味になる。男性複数形と女性複数形では硬い/k/音を保つため、freschi、frescheと綴る。",
+    "it": "Fresco indica generalmente una temperatura moderatamente bassa e piacevole, mentre freddo esprime una temperatura più bassa e può avere una connotazione sgradevole. Con gli alimenti indica che il prodotto è recente o ben conservato: pane fresco, pesce fresco. Riferito a una persona può significare riposato e pieno di energia. Nelle forme freschi e fresche, la h mantiene il suono duro di c."
+  },
+
+  "etymology": {
+    "ja": "ゲルマン語系の語に由来し、後期ラテン語の形を経てイタリア語に入ったと考えられている。もともとは「新しい、活気のある」という意味を持ち、そこから「新鮮な」「爽やかな」「涼しい」へ意味が広がった。同系語としてフランス語frais、英語fresh、ドイツ語frischなどがある。",
+    "it": "Deriva da una voce germanica collegata al significato di «nuovo, vivace», entrata nelle lingue romanze attraverso forme del latino medievale. Alla stessa origine sono collegati il francese frais, l’inglese fresh e il tedesco frisch."
+  },
+
+  "minimal": [
+    {
+      "word": "fresco",
+      "ja": "ほどよく温度が低くて爽やかな、または新鮮な",
+      "it": "moderatamente freddo e piacevole oppure recente e ben conservato"
+    },
+    {
+      "word": "freddo",
+      "ja": "温度が低く、場合によっては不快なほど冷たい",
+      "it": "caratterizzato da una temperatura bassa, talvolta sgradevole"
+    },
+    {
+      "word": "nuovo",
+      "ja": "最近作られた、購入された、または使われ始めた",
+      "it": "prodotto, acquistato o introdotto da poco"
+    },
+    {
+      "word": "surgelato",
+      "ja": "低温で急速冷凍され、冷凍状態で保存された",
+      "it": "conservato mediante un processo di congelamento rapido"
+    }
+  ],
+
+  "synonyms": [
+    "recente",
+    "nuovo",
+    "riposato",
+    "gradevole",
+    "fragrante"
+  ],
+
+  "equivalents": {
+    "en": [
+      "fresh",
+      "cool",
+      "fresco"
+    ],
+    "de": [
+      "frisch",
+      "kühl",
+      "Fresko"
+    ],
+    "fr": [
+      "frais",
+      "récent",
+      "fresque"
+    ],
+    "es": [
+      "fresco",
+      "reciente",
+      "fresco mural"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "aria fresca",
+      "ja": "爽やかな空気"
+    },
+    {
+      "it": "acqua fresca",
+      "ja": "冷たい水"
+    },
+    {
+      "it": "pane fresco",
+      "ja": "焼きたてのパン"
+    },
+    {
+      "it": "pesce fresco",
+      "ja": "新鮮な魚"
+    },
+    {
+      "it": "frutta fresca",
+      "ja": "新鮮な果物"
+    },
+    {
+      "it": "un luogo fresco",
+      "ja": "涼しい場所"
+    },
+    {
+      "it": "stare al fresco",
+      "ja": "涼しい場所にいる"
+    },
+    {
+      "it": "fresco di giornata",
+      "ja": "その日の新鮮なもの"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Stamattina l’aria è fresca.",
+      "ja": "今朝は空気が涼しいです。"
+    },
+    {
+      "it": "Conserva il formaggio in un luogo fresco.",
+      "ja": "チーズは涼しい場所で保存してください。"
+    },
+    {
+      "it": "Vorrei del pane fresco.",
+      "ja": "焼きたてのパンが欲しいです。"
+    },
+    {
+      "it": "Al mercato vendono pesce fresco.",
+      "ja": "市場では新鮮な魚を売っています。"
+    },
+    {
+      "it": "Dopo aver dormito bene, mi sento fresco e riposato.",
+      "ja": "よく眠ったので、爽快で元気な気分です。"
+    },
+    {
+      "it": "Ci siamo seduti al fresco sotto un albero.",
+      "ja": "私たちは木の下の涼しい場所に座りました。"
+    }
+  ]
+}
 ]
