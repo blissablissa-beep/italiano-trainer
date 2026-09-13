@@ -135,65 +135,6 @@
     "pure io",
     "pure tu",
     "pure lui",
-    "pure lei",
-    "pure noi",
-    "pure loro",
-    "vengo pure io",
-    "lo so pure io",
-    "può pure essere",
-    "potrebbe pure",
-    "deve pure",
-    "bisogna pure",
-    "serve pure",
-    "anche pure",
-    "entra pure",
-    "entri pure",
-    "venite pure",
-    "venga pure",
-    "vai pure",
-    "vada pure",
-    "continua pure",
-    "continui pure",
-    "parla pure",
-    "parli pure",
-    "chiedi pure",
-    "chieda pure",
-    "dica pure",
-    "faccia pure",
-    "si accomodi pure",
-    "mi chiami pure",
-    "scrivimi pure",
-    "prendi pure",
-    "usi pure",
-    "prova pure",
-    "scegli pure",
-    "decidi pure",
-    "aspetta pure",
-    "lascia pure",
-    "fai pure",
-    "fate pure",
-    "pur sapendo",
-    "pur conoscendo",
-    "pur essendo",
-    "pur avendo",
-    "pur volendo",
-    "pur potendo",
-    "pur riconoscendo",
-    "pur ammettendo",
-    "pur considerando",
-    "pur di",
-    "pur di riuscire",
-    "pur di vincere",
-    "pur di evitare",
-    "pur di ottenere",
-    "pur di non perdere",
-    "pur di stare insieme",
-    "pur di raggiungere lo scopo",
-    "a costo di tutto pur di",
-    "non fa pure niente",
-    "fallo pure",
-    "puoi pure dirlo",
-    "può pure andarsene",
     "che venga pure",
     "che faccia pure",
     "eppure",
@@ -247,7 +188,7 @@
       "ja": "時間副詞・否定副詞",
       "it": "avverbio temporale e negativo"
     },
-    "pattern": "non + verbo + mai / mai + verbo senza non / hai mai + participio passato? / se mai + frase / mai più / come mai?"
+    "pattern": "non + verbo + mai / mai + verbo senza non / verbo + mai nelle domande / mai più / come mai? / se mai + frase"
   },
 
   "usage": {
@@ -269,19 +210,19 @@
 
   "meaning": {
     "ja": [
-      "否定文で、どの時点においても行為が起こらないことを表す、決して～ない",
-      "疑問文で、過去から現在までに一度でも経験したかを尋ねる、これまでに",
-      "条件文・比較・仮定表現で、いつか・いかなる時でも",
-      "最上級などを伴って、これまでで最も～であると強調する",
+      "否定文で、どの時点においても行為・出来事が起こらないことを表す、決して～ない・一度も～ない",
+      "疑問文で、ある行為・経験がこれまでに一度でもあったかを尋ねる",
+      "条件文・仮定表現などで、いつか・いかなる時でも",
+      "最上級や比較表現とともに、これまでのすべての経験を比較の範囲に含める",
       "mai piùの形で、今後二度と～ない",
-      "come maiの形で、理由や意外な事情を尋ねる、どうして",
-      "mai e poi maiの形で、絶対に～ないと強く拒絶する"
+      "come maiの形で、予想外の事柄について理由を尋ねる、どうして",
+      "mai e poi maiの形で、強い否定や絶対的な拒絶を表す"
     ],
     "it": [
-      "In una frase negativa, indica che un fatto non avviene in nessun momento.",
-      "In una domanda, chiede se qualcosa è accaduto almeno una volta fino al momento presente.",
-      "In proposizioni condizionali, comparative o ipotetiche, significa in un momento qualsiasi.",
-      "Con un superlativo, rafforza il confronto con tutte le esperienze precedenti.",
+      "In una frase negativa, indica che un fatto non avviene in nessun momento o in nessuna occasione.",
+      "In una domanda, chiede se un fatto o un’esperienza si siano verificati almeno una volta.",
+      "In proposizioni condizionali o ipotetiche, indica un momento qualsiasi o un’eventualità.",
+      "Con un superlativo o un confronto, estende il paragone a tutte le esperienze precedenti.",
       "Nella locuzione mai più, esclude che qualcosa si ripeta in futuro.",
       "Nella locuzione come mai, introduce una domanda sulla causa di un fatto inatteso.",
       "Nell’espressione mai e poi mai, rafforza una negazione o un rifiuto assoluto."
@@ -289,20 +230,20 @@
   },
 
   "nuance": {
-    "ja": "動詞の後に置く否定用法では通常nonが必要で、Non bevo mai caffè「私は決してコーヒーを飲まない」となる。maiを動詞より前に置いて否定を強調する場合は、Mai direi una cosa simile「そんなことは決して言わない」のように通常nonを置かない。疑問文Hai mai visitato Roma?では否定ではなく「これまでに一度でも」という意味になる。Non... piùは「もう～ない」、non... maiは「一度も／決して～ない」で、時間的な焦点が異なる。",
-    "it": "Quando segue il verbo con valore negativo, mai richiede normalmente non: Non bevo mai caffè. Se viene anteposto al verbo per dare particolare enfasi alla negazione, non viene normalmente omesso: Mai direi una cosa simile. In una domanda come Hai mai visitato Roma?, mai non è negativo e significa «almeno una volta fino a oggi». Non... più indica la cessazione di un comportamento precedente; non... mai esclude che il fatto avvenga in qualunque momento."
+    "ja": "maiが動詞の後に置かれて否定を表す場合は、通常nonを伴い、Non bevo mai caffè「私はコーヒーを決して飲まない」となる。一方、否定を強調するためにmaiを動詞の前へ置く場合は、通常nonを使わず、Mai direi una cosa simile「そんなことは決して言わない」とする。疑問文のHai mai visitato Roma?では否定の意味はなく、「これまでに一度でも」を表す。non... piùは、それまで行われていたことが現在または今後は続かない「もう～ない」を表すのに対し、non... maiはすべての時点または機会を否定する。",
+    "it": "Quando segue il verbo con valore negativo, mai è normalmente accompagnato da non: Non bevo mai caffè. Quando viene anteposto al verbo per dare particolare enfasi alla negazione, non si usa normalmente non: Mai direi una cosa simile. In una domanda come Hai mai visitato Roma?, mai non ha valore negativo e significa «almeno una volta». Non... più indica che un comportamento o una situazione non continuano; non... mai esclude invece che il fatto avvenga in qualsiasi momento."
   },
 
   "etymology": {
-    "ja": "ラテン語magis「より多く、さらに」に由来する。否定表現non...magis「それ以上は～ない」が時間的に「もはや～ない」、さらに「いつの時点にも～ない」という意味へ発達したと考えられる。同じラテン語magisから、フランス語mais「しかし」やスペイン語jamásの後半要素など、ロマンス諸語で異なる機能を持つ語が生まれた。",
-    "it": "Deriva dal latino magis, «più, maggiormente». In costruzioni negative, sequenze equivalenti a non... magis, «non più», svilupparono progressivamente il valore temporale di «in nessun momento». Dalla stessa parola latina derivano, attraverso evoluzioni semantiche differenti, il francese mais e un elemento dello spagnolo jamás."
+    "ja": "ラテン語magis「より多く、さらに」に由来する。否定表現の中で「それ以上は～ない」という意味を表していたものが、時間的な「もはや～ない」を経て、「いかなる時にも～ない」という意味へ発達した。同じラテン語magisからは、異なる意味変化を経てフランス語mais「しかし」なども生じている。",
+    "it": "Deriva dal latino magis, «più, maggiormente». All’interno di costruzioni negative, il valore di «non più» si sviluppò progressivamente fino a indicare «in nessun momento». Dalla stessa parola latina derivano, attraverso evoluzioni fonetiche e semantiche differenti, anche forme romanze come il francese mais."
   },
 
   "minimal": [
     {
       "word": "mai",
-      "ja": "否定文ではどの時点にも起こらないこと、疑問文では一度でも起きたかを表す",
-      "it": "nega che qualcosa avvenga in qualsiasi momento oppure domanda se sia mai avvenuto"
+      "ja": "否定文では「決して～ない」、疑問文では「これまでに一度でも」を表す",
+      "it": "nega che qualcosa avvenga oppure domanda se sia avvenuto almeno una volta"
     },
     {
       "word": "sempre",
@@ -311,18 +252,18 @@
     },
     {
       "word": "più",
-      "ja": "否定文では、以前は起きていたことが現在または今後は起きないことを表す",
-      "it": "con una negazione indica che un fatto precedente non continua o non si ripete"
+      "ja": "nonとともに、以前の行為・状態が現在は続いていないことを表す",
+      "it": "con non indica che un fatto o uno stato precedenti non continuano"
     },
     {
-      "word": "qualche volta",
-      "ja": "頻繁ではないが、ときどき行為・出来事が起こることを表す",
-      "it": "indica che un fatto avviene occasionalmente e non con regolarità"
+      "word": "quasi mai",
+      "ja": "頻度がほぼゼロであることを表す、ほとんど～ない",
+      "it": "indica che qualcosa avviene molto raramente, con una frequenza vicina allo zero"
     },
     {
-      "word": "ancora",
-      "ja": "行為・状態が引き続き続くこと、または再び起こることを表す",
-      "it": "indica la continuazione di un fatto oppure il suo ripetersi"
+      "word": "giammai",
+      "ja": "maiを強めた、改まったまたは文学的な「断じて～ない」",
+      "it": "rafforza mai con tono formale, solenne o letterario"
     }
   ],
 
@@ -357,71 +298,46 @@
   },
 
   "collocations": [
-    "non andare mai",
-    "non venire mai",
-    "non vedere mai",
-    "non sentire mai",
-    "non dire mai",
-    "non sapere mai",
-    "non capire mai",
-    "non dimenticare mai",
-    "non ricordare mai",
-    "non arrendersi mai",
-    "non essere mai",
-    "non avere mai",
-    "non avere mai tempo",
-    "non avere mai paura",
-    "non aver mai visto",
-    "non aver mai sentito",
-    "non essere mai stato",
-    "non essere mai andato",
-    "non fare mai",
-    "non farlo mai",
-    "non pensarci mai",
-    "mai visto",
-    "mai sentito",
-    "mai detto",
-    "mai fatto",
-    "mai successo",
-    "mai accaduto",
-    "mai prima",
-    "mai dopo",
-    "mai più",
-    "mai più tornare",
-    "mai più rivedere",
-    "mai più ripetere",
-    "ora o mai più",
-    "mai e poi mai",
-    "quasi mai",
-    "raramente o mai",
-    "per non dire mai",
-    "come mai",
-    "come mai sei qui?",
-    "chissà mai",
-    "se mai",
-    "se mai fosse necessario",
-    "casomai",
-    "semmai",
-    "hai mai",
-    "avete mai",
-    "ti sei mai chiesto",
-    "sei mai stato",
-    "è mai possibile?",
-    "qualcuno ha mai",
-    "chi mai",
-    "dove mai",
-    "quando mai",
-    "perché mai",
-    "il migliore di sempre",
-    "il più bello mai visto",
-    "la prima volta in assoluto",
-    "più che mai",
-    "oggi più che mai",
-    "come non mai",
-    "mai come oggi",
-    "mai nella vita",
-    "mai al mondo",
-    "mai in nessun caso"
+    {
+      "it": "non dire mai",
+      "ja": "決して言わない"
+    },
+    {
+      "it": "non aver mai visto",
+      "ja": "一度も見たことがない"
+    },
+    {
+      "it": "hai mai...?",
+      "ja": "これまでに～したことがありますか"
+    },
+    {
+      "it": "mai più",
+      "ja": "二度と～ない"
+    },
+    {
+      "it": "mai e poi mai",
+      "ja": "絶対に・断じて～ない"
+    },
+    {
+      "it": "come mai?",
+      "ja": "どうしてですか"
+    },
+    {
+      "it": "se mai",
+      "ja": "もし万一・仮にいつか"
+    },
+    {
+      "it": "più che mai",
+      "ja": "これまで以上に"
+    },
+    {
+      "it": "mai come oggi",
+      "ja": "今日ほど～なことはかつてない"
+    },
+    {
+      "it": "ora o mai più",
+      "ja": "今しかない・今でなければ二度とない"
+    }
   ],
 
   "examples": [
@@ -452,9 +368,13 @@
     {
       "it": "È il miglior ristorante in cui abbia mai mangiato.",
       "ja": "そこは私がこれまで食事をした中で最高のレストランです。"
+    },
+    {
+      "it": "Se mai avessi bisogno di aiuto, chiamami.",
+      "ja": "もし助けが必要になることがあれば、私に電話してください。"
     }
   ]
-},
+}
 {
   "id": "sempre",
   "sid": "2026-00323",
