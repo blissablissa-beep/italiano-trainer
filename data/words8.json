@@ -149,57 +149,6 @@
     "a partire da dopodomani",
     "da dopodomani mattina",
     "da dopodomani in poi",
-    "valido da dopodomani",
-    "disponibile da dopodomani",
-    "chiuso da dopodomani",
-    "aperto da dopodomani",
-    "dopodomani è lunedì",
-    "dopodomani farà caldo",
-    "dopodomani pioverà",
-    "dopodomani lavoro",
-    "dopodomani non lavoro",
-    "dopodomani parto",
-    "dopodomani torno",
-    "dopodomani comincio",
-    "dopodomani finisco",
-    "dopodomani prendo il treno",
-    "dopodomani prendo l’aereo",
-    "dopodomani ho una riunione",
-    "dopodomani ho un appuntamento",
-    "dopodomani devo partire",
-    "dopodomani posso venire",
-    "dopodomani ci vediamo",
-    "dopodomani ne parliamo",
-    "dopodomani sapremo",
-    "pagare dopodomani",
-    "rispondere dopodomani",
-    "consegnare dopodomani",
-    "depositare dopodomani",
-    "telefonare dopodomani",
-    "arrivare dopodomani",
-    "partire dopodomani",
-    "tornare dopodomani",
-    "cominciare dopodomani",
-    "finire dopodomani",
-    "da oggi a dopodomani",
-    "tra domani e dopodomani",
-    "oggi, domani o dopodomani",
-    "domani o dopodomani",
-    "aspettare fino a dopodomani",
-    "rimandare fino a dopodomani",
-    "ci vediamo dopodomani",
-    "il programma di dopodomani",
-    "la riunione di dopodomani",
-    "l’appuntamento di dopodomani",
-    "il viaggio di dopodomani",
-    "la partenza di dopodomani",
-    "il treno di dopodomani",
-    "il volo di dopodomani",
-    "la cena di dopodomani",
-    "la scadenza di dopodomani",
-    "fra due giorni",
-    "tra due giorni",
-    "il giorno dopo domani"
   ],
 
   "examples": [
@@ -405,79 +354,7 @@
     "correggere subito",
     "eliminare subito",
     "cancellare subito",
-    "annullare subito",
-    "registrare subito",
-    "inviare subito",
-    "consegnare subito",
-    "depositare subito",
-    "prenotare subito",
-    "comprare subito",
-    "mangiare subito",
-    "bere subito",
-    "dormire subito",
-    "addormentarsi subito",
-    "stare subito meglio",
-    "sentirsi subito meglio",
-    "essere subito chiaro",
-    "diventare subito evidente",
-    "subito prima",
-    "subito dopo",
     "subito dopo cena",
-    "subito dopo la riunione",
-    "subito dopo essere arrivato",
-    "subito prima di partire",
-    "subito prima dell’esame",
-    "poco prima",
-    "poco dopo",
-    "da subito",
-    "fin da subito",
-    "essere chiaro da subito",
-    "capire fin da subito",
-    "funzionare bene fin da subito",
-    "non subito",
-    "non rispondere subito",
-    "non capire subito",
-    "non necessariamente subito",
-    "non proprio subito",
-    "quasi subito",
-    "praticamente subito",
-    "proprio subito",
-    "subito qui",
-    "subito fuori",
-    "subito dentro",
-    "subito a destra",
-    "subito a sinistra",
-    "subito davanti",
-    "subito dietro",
-    "subito accanto",
-    "subito sopra",
-    "subito sotto",
-    "subito disponibile",
-    "subito pronto",
-    "subito operativo",
-    "subito visibile",
-    "subito riconoscibile",
-    "subito accessibile",
-    "subito dopo",
-    "subito allora",
-    "subito oggi",
-    "oggi stesso",
-    "in un attimo",
-    "senza perdere tempo",
-    "senza aspettare",
-    "il prima possibile",
-    "al più presto",
-    "Subito!",
-    "Vengo subito!",
-    "Arrivo subito!",
-    "Torno subito!",
-    "Fallo subito!",
-    "Smettila subito!",
-    "Dimmi subito la verità!",
-    "Un attimo, arrivo subito.",
-    "subito o mai più",
-    "qui e subito",
-    "volere tutto e subito"
   ],
 
   "examples": [
@@ -527,11 +404,11 @@
     "pos": "noun",
     "label": {
       "ja": "女性名詞",
-      "it": "sostantivo femminile"
+      "it": "nome femminile"
     },
     "gender": "feminine",
     "plural": "mattine",
-    "pattern": "la mattina / di mattina / questa mattina o stamattina / ieri mattina / domani mattina / dalla mattina alla sera / in mattinata"
+    "pattern": "la mattina / di mattina / questa mattina / domani mattina / tutta la mattina"
   },
 
   "usage": {
@@ -544,88 +421,68 @@
     ],
     "situations": [
       "conversation",
-      "time",
       "daily_life",
+      "time",
       "work",
-      "travel",
-      "appointments",
-      "weather"
+      "travel"
     ]
   },
 
   "meaning": {
     "ja": [
-      "日の出頃から正午頃までの時間、朝・午前",
-      "一日の活動が始まる時間帯",
-      "特定の日の朝",
-      "朝に繰り返し行われる習慣的な時間",
-      "夜明け後の早い時間、とくに早朝",
-      "午前中に予定・実施される活動や勤務時間",
-      "比喩的に、人生・時代・活動などの初期段階",
-      "複数形で、複数の日の朝または朝ごとの時間"
+      "夜明けから正午ごろまでの時間、朝",
+      "特定の日の午前中",
+      "習慣的な行為が行われる朝の時間帯"
     ],
     "it": [
-      "Parte della giornata compresa approssimativamente tra l’alba e mezzogiorno.",
-      "Periodo nel quale cominciano normalmente le attività quotidiane.",
-      "Parte iniziale di una giornata determinata.",
-      "Momento abituale nel quale un’azione viene ripetuta ogni giorno.",
-      "Prime ore successive all’alba, soprattutto quando si sottolinea che è presto.",
-      "Periodo antimeridiano nel quale si svolgono lavoro, appuntamenti o altre attività.",
-      "In senso figurato, fase iniziale della vita, di un’epoca o di un’attività.",
-      "Al plurale, le parti iniziali di più giornate o un’abitudine ripetuta al mattino."
+      "Parte della giornata compresa generalmente tra l’alba e mezzogiorno.",
+      "Le ore del mattino riferite a un giorno determinato.",
+      "Periodo mattutino in cui si svolge abitualmente una determinata attività."
     ]
   },
 
   "nuance": {
-    "ja": "mattinaとmattinoは多くの場合交換可能だが、mattinaは時間の広がりや日常生活の時間帯として特に一般的で、mattinoは一日の始まり・早朝をやや強く意識させることがある。la mattinaは「朝はいつも」、di mattinaは「朝の時間帯に」、questa mattinaまたはstamattinaは「今朝」を表す。in mattinataは正確な時刻を定めず「午前中のどこかで」を意味する。",
-    "it": "Mattina e mattino sono spesso intercambiabili, ma mattina è particolarmente comune come periodo esteso della vita quotidiana, mentre mattino può mettere maggiormente in rilievo l’inizio del giorno o le prime ore. La mattina indica spesso un’abitudine; di mattina colloca un’azione nella fascia mattutina; questa mattina e stamattina indicano la mattina di oggi. In mattinata significa in un momento non precisamente determinato prima di mezzogiorno."
+    "ja": "mattinaは日常語で「朝」または「午前中」を表す。習慣について述べるときはla mattina、時間帯を一般的に示すときはdi mattinaを使う。questa mattinaは「今朝」、domani mattinaは「明日の朝」で、これらの表現では通常前置詞を置かない。mattinoもほぼ同じ意味だが、mattinaのほうが日常会話で頻繁に使われる。mattinataは朝という時間帯全体や、その間に過ごした時間をひとまとまりとして捉える。",
+    "it": "Mattina indica comunemente il periodo tra l’alba e mezzogiorno. La mattina si usa spesso per un’abitudine, mentre di mattina presenta più generalmente la fascia oraria. In questa mattina e domani mattina non si usa normalmente una preposizione. Mattino ha quasi lo stesso significato, ma mattina è particolarmente frequente nella conversazione. Mattinata considera spesso l’intero arco della mattina o il tempo trascorso durante quel periodo."
   },
 
   "etymology": {
-    "ja": "ラテン語matutīnus（朝の、早朝の）の女性形に由来し、名詞化して「朝」という時間帯を表すようになった。matutīnusはローマ神話の曙の女神Mater Matutaの名と関連すると考えられている。同じ語族にはmattino、mattutino、mattinata、stamattinaがある。フランス語matin、英語matinsやmatineeも同じラテン語系の語に由来する。",
-    "it": "Deriva dalla forma femminile del latino matutīnus, «del mattino», divenuta poi sostantivo. Matutīnus è tradizionalmente collegato a Mater Matuta, divinità romana dell’aurora. Alla stessa famiglia appartengono mattino, mattutino, mattinata e stamattina. Anche il francese matin e gli inglesi matins e matinee derivano da forme della stessa famiglia latina."
+    "ja": "ラテン語matutīnus（朝の、早朝の）に由来する。もともとは「朝の時間」を表す形容詞で、のちに朝という時間帯そのものを指す名詞として定着した。同じ語族にはmattino、mattinata、mattinieroがある。",
+    "it": "Deriva dal latino matutīnus, «del mattino, mattutino». Dall’uso riferito alle ore mattutine si è sviluppato il valore nominale che indica la prima parte della giornata. Alla stessa famiglia appartengono mattino, mattinata e mattiniero."
   },
 
   "minimal": [
     {
       "word": "mattina",
-      "ja": "日の出頃から正午までの時間帯としての朝・午前",
-      "it": "parte della giornata compresa tra l’alba e mezzogiorno"
+      "ja": "夜明けから正午ごろまでの時間、日常的な「朝」",
+      "it": "parte della giornata compresa generalmente tra l’alba e mezzogiorno"
     },
     {
       "word": "mattino",
-      "ja": "mattinaとほぼ同義だが、一日の始まりや早朝を意識させることがある",
-      "it": "termine quasi equivalente a mattina, talvolta più legato all’inizio del giorno"
+      "ja": "mattinaとほぼ同じ意味の「朝」で、やや文章語的にも使われる",
+      "it": "prima parte della giornata, quasi sinonimo di mattina"
     },
     {
       "word": "mattinata",
-      "ja": "一つのまとまりとして捉えた午前中、または午前中いっぱい",
-      "it": "intero periodo della mattina considerato nella sua durata"
+      "ja": "朝の時間全体、または朝の間に過ごしたひとまとまりの時間",
+      "it": "intero arco della mattina considerato nella sua durata"
     },
     {
-      "word": "alba",
-      "ja": "太陽が昇る直前から昇り始めるまでの夜明け",
-      "it": "momento in cui termina la notte e comincia ad apparire la luce del sole"
-    },
-    {
-      "word": "pomeriggio",
-      "ja": "正午または昼食後から夕方までの時間帯、午後",
-      "it": "parte della giornata compresa tra mezzogiorno e la sera"
+      "word": "sera",
+      "ja": "午後の終わりから夜にかけての時間",
+      "it": "parte della giornata compresa tra il tardo pomeriggio e la notte"
     }
   ],
 
   "synonyms": [
     "mattino",
-    "prime ore del giorno",
-    "periodo antimeridiano",
-    "inizio della giornata"
+    "ore mattutine",
+    "prima parte della giornata"
   ],
 
   "equivalents": {
     "en": [
-      "morning",
-      "forenoon",
-      "a.m."
+      "morning"
     ],
     "de": [
       "Morgen",
@@ -636,55 +493,71 @@
       "matinée"
     ],
     "es": [
-      "mañana",
-      "parte de la mañana"
+      "mañana"
     ]
   },
 
   "collocations": [
-    "questa mattina",
-    "stamattina",
-    "ieri mattina",
-    "domani mattina",
-    "dopodomani mattina",
-    "la mattina",
-    "ogni mattina",
-    "tutte le mattine",
-    "una mattina",
-    "una mattina d’estate",
-    "una mattina d’inverno",
-    "una mattina di primavera",
-    "una mattina d’autunno",
-    
-    "essere occupato la mattina",
-    "avere un appuntllo?" 
+    {
+      "it": "questa mattina",
+      "ja": "今朝"
+    },
+    {
+      "it": "domani mattina",
+      "ja": "明日の朝"
+    },
+    {
+      "it": "ieri mattina",
+      "ja": "昨日の朝"
+    },
+    {
+      "it": "la mattina presto",
+      "ja": "早朝に"
+    },
+    {
+      "it": "di mattina",
+      "ja": "朝に、午前中に"
+    },
+    {
+      "it": "tutta la mattina",
+      "ja": "午前中ずっと"
+    },
+    {
+      "it": "dalla mattina alla sera",
+      "ja": "朝から晩まで"
+    },
+    {
+      "it": "una mattina d’estate",
+      "ja": "ある夏の朝"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "La mattina bevo sempre un caffè.",
+      "ja": "私は朝、いつもコーヒーを飲みます。"
+    },
+    {
+      "it": "Questa mattina mi sono svegliato presto.",
+      "ja": "今朝は早く目が覚めました。"
+    },
+    {
+      "it": "Domani mattina devo andare dal medico.",
+      "ja": "明日の朝、医者へ行かなければなりません。"
+    },
+    {
+      "it": "Ho lavorato tutta la mattina.",
+      "ja": "私は午前中ずっと働きました。"
+    },
+    {
+      "it": "Il treno parte alle sette di mattina.",
+      "ja": "列車は朝7時に出発します。"
+    },
+    {
+      "it": "Ci vediamo lunedì mattina.",
+      "ja": "月曜日の朝に会いましょう。"
+    }
   ]
- "examples": [
-  {
-    "it": "La mattina bevo sempre un caffè.",
-    "ja": "私は朝、いつもコーヒーを飲みます。"
-  },
-  {
-    "it": "Questa mattina mi sono svegliato presto.",
-    "ja": "今朝は早く目が覚めました。"
-  },
-  {
-    "it": "Domani mattina devo andare dal medico.",
-    "ja": "明日の朝、医者へ行かなければなりません。"
-  },
-  {
-    "it": "Ho lavorato tutta la mattina.",
-    "ja": "私は午前中ずっと働きました。"
-  },
-  {
-    "it": "Il treno parte alle sette di mattina.",
-    "ja": "列車は朝7時に出発します。"
-  },
-  {
-    "it": "Ci vediamo lunedì mattina.",
-    "ja": "月曜日の朝に会いましょう。"
-  }
-]
 },
 {
   "id": "lattina",
