@@ -655,58 +655,36 @@
     "una mattina d’inverno",
     "una mattina di primavera",
     "una mattina d’autunno",
-    "di mattina",
-    "al mattino",
-    "in mattinata",
-    "durante la mattina",
-    "nel corso della mattina",
-    "per tutta la mattina",
-    "dalla mattina alla sera",
-    "da mattina a sera",
-    "fino alla mattina",
-    "verso mattina",
-    "a metà mattina",
-    "alla fine della mattina",
-    "nelle prime ore della mattina",
-    "la mattina presto",
-    "molto presto la mattina",
-    "la mattina tardi",
-    "una bella mattina",
-    "una mattina tranquilla",
-    "una mattina fredda",
-    "una mattina calda",
-    "una mattina luminosa",
-    "una mattina di sole",
-    "una mattina di pioggia",
-    "una mattina difficile",
-    "una lunga mattina",
-    "una mattina intera",
-    "la mattina seguente",
-    "la mattina successiva",
-    "la mattina precedente",
-    "la mattina stessa",
-    "la mattina dopo",
-    "la mattina prima",
-    "svegliarsi la mattina",
-    "alzarsi la mattina",
-    "fare colazione la mattina",
-    "bere il caffè la mattina",
-    "lavorare la mattina",
-    "studiare la mattina",
-    "camminare la mattina",
-    "allenarsi la mattina",
-    "fare una passeggiata la mattina",
-    "partire la mattina",
-    "arrivare la mattina",
-    "prendere il treno la mattina",
-    "leggere il giornale la mattina",
-    "fare la doccia la mattina",
-    "sentirsi stanco la mattina",
-    "avere sonno la mattina",
-    "essere libero la mattina",
+    
     "essere occupato la mattina",
     "avere un appuntllo?" 
   ]
+ "examples": [
+  {
+    "it": "La mattina bevo sempre un caffè.",
+    "ja": "私は朝、いつもコーヒーを飲みます。"
+  },
+  {
+    "it": "Questa mattina mi sono svegliato presto.",
+    "ja": "今朝は早く目が覚めました。"
+  },
+  {
+    "it": "Domani mattina devo andare dal medico.",
+    "ja": "明日の朝、医者へ行かなければなりません。"
+  },
+  {
+    "it": "Ho lavorato tutta la mattina.",
+    "ja": "私は午前中ずっと働きました。"
+  },
+  {
+    "it": "Il treno parte alle sette di mattina.",
+    "ja": "列車は朝7時に出発します。"
+  },
+  {
+    "it": "Ci vediamo lunedì mattina.",
+    "ja": "月曜日の朝に会いましょう。"
+  }
+]
 },
 {
   "id": "lattina",
