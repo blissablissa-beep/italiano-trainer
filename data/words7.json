@@ -942,6 +942,185 @@
   ]
 },
 {
+  "id": "raramente",
+  "sid": "2026-00326",
+  "word": "raramente",
+  "ipa": "/raraˈmente/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "頻度副詞",
+      "it": "avverbio di frequenza"
+    },
+    "pattern": "verbo + raramente / raramente + frase / molto, piuttosto o relativamente raramente / non raramente"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "narration",
+      "business",
+      "education",
+      "analysis"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "行為・出来事が低い頻度でしか起こらない、めったに～ない",
+      "ある行動を習慣としてほとんど行わない",
+      "通常または一般的ではなく、例外的な場合にだけ起こる",
+      "現象・事例・特徴などがごく少数しか観察されない",
+      "長い時間的間隔を置いて、わずかな回数だけ起こる"
+    ],
+    "it": [
+      "Con una frequenza bassa o in poche occasioni.",
+      "Con riferimento a un comportamento, quasi mai come abitudine.",
+      "In modo non abituale e soltanto in circostanze eccezionali.",
+      "Con una presenza o un’incidenza ridotta, riferita a fenomeni, casi o caratteristiche.",
+      "A intervalli di tempo lunghi e per un numero limitato di volte."
+    ]
+  },
+
+  "nuance": {
+    "ja": "raramenteはそれ自体に否定的な意味が含まれるため、通常はnonを付けず、Vado raramente al cinema「私はめったに映画館へ行かない」と言う。Non vado raramenteは「めったに行かないわけではない」という二重否定になり、比較的よく行くことを示唆し得るが、通常は別の表現を使う方が明確である。文頭のNon raramenteは「少なからず・しばしば」という改まった表現として使われる。quasi maiは頻度がほぼゼロであることを強く示すのに対し、raramenteは低い頻度を比較的中立的に表す。di radoはほぼ同義で、やや簡潔または文章的に響くことがある。",
+    "it": "Raramente possiede già un valore negativo e normalmente non richiede non: Vado raramente al cinema. Non vado raramente può significare che non è vero che ci vado poche volte e suggerire quindi una frequenza abbastanza elevata, ma generalmente si preferisce una formulazione più chiara. La locuzione formale non raramente significa invece «non di rado» o «abbastanza spesso». Quasi mai presenta la frequenza come vicina allo zero con maggiore enfasi, mentre raramente descrive più neutralmente una frequenza bassa. Di rado è quasi sinonimo e può avere un tono leggermente più conciso o letterario."
+  },
+
+  "etymology": {
+    "ja": "形容詞raro「まれな・珍しい」の女性形raraに、副詞を作る接尾辞-menteを加えて形成された。raroはラテン語rārus「まばらな・間隔の空いた・珍しい」に由来する。-menteはラテン語mens、属格mentis「心・考え方」の奪格menteにさかのぼり、もともとは形容詞の女性形と結び付いて「～な仕方で」を表した。同じ語族には英語rare、フランス語rare、スペイン語raroがある。",
+    "it": "È formato dal femminile rara dell’aggettivo raro e dal suffisso avverbiale -mente. Raro deriva dal latino rārus, «rado, sparso, poco frequente». Il suffisso -mente risale all’ablativo mente di mens, «mente, disposizione», originariamente impiegato con un aggettivo femminile per indicare il modo in cui si compiva un’azione. Sono affini l’inglese rare, il francese rare e lo spagnolo raro."
+  },
+
+  "minimal": [
+    {
+      "word": "raramente",
+      "ja": "行為・出来事が低い頻度で起こることを比較的中立的に表す",
+      "it": "indica in modo relativamente neutro che un fatto si verifica con bassa frequenza"
+    },
+    {
+      "word": "a volte",
+      "ja": "頻度の低さを強調せず、いくつかの機会に起こることを表す",
+      "it": "indica che qualcosa accade in alcune occasioni senza sottolinearne la rarità"
+    },
+    {
+      "word": "quasi mai",
+      "ja": "頻度がゼロに近く、ほとんど起こらないことを強調する",
+      "it": "sottolinea che un fatto avviene con una frequenza vicina allo zero"
+    },
+    {
+      "word": "di rado",
+      "ja": "raramenteとほぼ同義で、やや簡潔または文章的な「めったに」",
+      "it": "locuzione quasi equivalente a raramente, talvolta più concisa o letteraria"
+    },
+    {
+      "word": "occasionalmente",
+      "ja": "不定期の特定の機会に起こることを表し、極端な低頻度とは限らない",
+      "it": "indica che qualcosa avviene in occasioni particolari e non regolarmente"
+    }
+  ],
+
+  "synonyms": [
+    "di rado",
+    "poche volte",
+    "quasi mai",
+    "infrequentemente",
+    "saltuariamente",
+    "sporadicamente"
+  ],
+
+  "equivalents": {
+    "en": [
+      "rarely",
+      "seldom",
+      "infrequently"
+    ],
+    "de": [
+      "selten",
+      "nur selten",
+      "kaum"
+    ],
+    "fr": [
+      "rarement",
+      "peu souvent",
+      "exceptionnellement"
+    ],
+    "es": [
+      "raramente",
+      "pocas veces",
+      "rara vez"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "andare raramente",
+      "ja": "めったに行かない"
+    },
+    {
+      "it": "accadere raramente",
+      "ja": "めったに起こらない"
+    },
+    {
+      "it": "molto raramente",
+      "ja": "ごくまれに"
+    },
+    {
+      "it": "sempre più raramente",
+      "ja": "次第にまれに・以前ほど頻繁には～なく"
+    },
+    {
+      "it": "non raramente",
+      "ja": "少なからず・しばしば"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Vado raramente al ristorante durante la settimana.",
+      "ja": "私は平日にレストランへ行くことはめったにありません。"
+    },
+    {
+      "it": "Marco arriva raramente in ritardo.",
+      "ja": "マルコが遅刻することはめったにありません。"
+    },
+    {
+      "it": "Questa parola si usa raramente nella conversazione quotidiana.",
+      "ja": "この単語は日常会話ではめったに使われません。"
+    },
+    {
+      "it": "Un errore simile si verifica molto raramente.",
+      "ja": "このような誤りが発生することは非常にまれです。"
+    },
+    {
+      "it": "Raramente abbiamo la possibilità di parlare direttamente con un esperto.",
+      "ja": "私たちが専門家と直接話す機会はめったにありません。"
+    },
+    {
+      "it": "Negli ultimi anni viaggiamo sempre più raramente.",
+      "ja": "ここ数年、私たちは旅行することが次第に少なくなっています。"
+    },
+    {
+      "it": "Le trattative complesse si concludono raramente in un solo giorno.",
+      "ja": "複雑な交渉が一日だけでまとまることはめったにありません。"
+    },
+    {
+      "it": "Non raramente, una piccola modifica produce effetti importanti.",
+      "ja": "少なからず、小さな変更が重大な効果をもたらすことがあります。"
+    }
+  ]
+},
+{
   "id": "pullman",
   "sid": "2026-00332",
   "word": "pullman",
