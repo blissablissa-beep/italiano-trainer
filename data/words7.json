@@ -1,5 +1,198 @@
 [
 {
+  "id": "pure",
+  "sid": "2026-00321",
+  "word": "pure",
+  "ipa": "/ˈpure/",
+  "level": "B1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "副詞・譲歩表現の構成要素／puroの女性複数形",
+      "it": "avverbio e componente di costruzioni concessive / femminile plurale di puro"
+    },
+    "pattern": "pure + elemento aggiunto / imperativo o congiuntivo esortativo + pure / pur + gerundio / pur di + infinito / pure se + indicativo o congiuntivo / sostantivo femminile plurale + pure"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "social",
+      "business",
+      "literature",
+      "argumentation"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "すでに挙げた人・物・事柄に別のものを加える、～も・～もまた",
+      "予想外または極端な要素を含めて強調する、～さえ・～まで",
+      "命令・依頼表現に添えて、相手に行為を許可したり穏やかに促したりする、どうぞ・遠慮なく",
+      "反対の事情を認めながら、主文の内容が成立することを表す、～ではあるが・～にもかかわらず",
+      "pur di + 不定詞の形で、目的を達成するためなら条件や犠牲を受け入れることを表す、～するためなら",
+      "相手の行動を自由にさせる態度や、話者がその行動を気にしないことを表す",
+      "puroの女性複数形として、純粋な・混じり気のない・清らかな"
+    ],
+    "it": [
+      "Aggiunge una persona, una cosa o un fatto a quanto è già stato menzionato.",
+      "Include e mette in rilievo un elemento inatteso o particolarmente significativo.",
+      "Accompagna un comando o un invito per concedere il permesso o incoraggiare gentilmente un’azione.",
+      "Ammette una circostanza contraria senza impedire che si realizzi quanto espresso nella proposizione principale.",
+      "Nella costruzione pur di seguita dall’infinito, indica la disponibilità ad accettare una condizione o un sacrificio per raggiungere uno scopo.",
+      "Può esprimere libertà di scelta, concessione oppure indifferenza rispetto all’azione di qualcuno.",
+      "Come forma di puro, è il femminile plurale dell’aggettivo e significa «prive di impurità» o «non mescolate»."
+    ]
+  },
+
+  "nuance": {
+    "ja": "追加を表すpureはancheに近く、Vengo pure io「私も行きます」のように使えるが、地域や文脈によってはancheより会話的に響く。命令文や丁寧な勧誘表現の後に置くpureは非常に一般的で、Entra pureは「遠慮なく入って」、Mi dica pureは「どうぞおっしゃってください」となる。譲歩表現では、語尾を落としたpurがよく使われ、pur sapendoloは「それを知っていながら」、pur essendo stancoは「疲れてはいるが」を意味する。pur di riuscireは「成功するためなら」という強い目的意識や、条件・犠牲を受け入れる姿勢を表す。Può pure andarseneのような表現は、文脈や口調によっては「帰りたければ勝手に帰ればよい」という突き放した態度を帯びる。",
+    "it": "Nel valore aggiuntivo, pure è vicino ad anche: Vengo pure io. A seconda della regione e del contesto può risultare più colloquiale di anche. Dopo un imperativo o una forma esortativa è molto comune per concedere il permesso o incoraggiare: Entra pure, Mi dica pure. Nelle costruzioni concessive si usa frequentemente la forma tronca pur: pur sapendolo, pur essendo stanco. Pur di riuscire esprime una forte determinazione e la disponibilità ad accettare condizioni o sacrifici. In frasi come Può pure andarsene, pure può assumere un tono distaccato o polemico, equivalente a «se vuole, se ne vada»."
+  },
+
+  "etymology": {
+    "ja": "ラテン語pūrē「純粋に、明確に」に由来し、これは形容詞pūrus「純粋な、清潔な」から作られた副詞である。もともとの「純粋に・単に」という意味から、強調、追加、譲歩、許可などを表す副詞的機能が発達した。形容詞としてのpureは、同じ語源を持つイタリア語puroの女性複数形である。英語pure、フランス語pur、スペイン語puroも同じラテン語に由来する。",
+    "it": "Deriva dal latino pūrē, avverbio formato da pūrus, «puro, limpido». Dal significato originario di «puramente, semplicemente» si sono sviluppati gli usi rafforzativi, aggiuntivi, concessivi e permissivi dell’italiano moderno. Come forma aggettivale, pure è il femminile plurale di puro. Appartengono alla stessa famiglia anche l’inglese pure, il francese pur e lo spagnolo puro."
+  },
+
+  "minimal": [
+    {
+      "word": "pure",
+      "ja": "追加の「～も」、許可の「どうぞ」、または譲歩・目的条件を表す",
+      "it": "aggiunge un elemento, concede un permesso oppure introduce concessione o finalità"
+    },
+    {
+      "word": "anche",
+      "ja": "人・物・行為などを中立的に追加する最も一般的な「～も」",
+      "it": "avverbio generale e neutro usato per aggiungere un elemento"
+    },
+    {
+      "word": "perfino",
+      "ja": "意外または極端な要素を「～さえ」と強調して加える",
+      "it": "aggiunge con enfasi un elemento sorprendente o estremo"
+    },
+    {
+      "word": "eppure",
+      "ja": "予想や先行内容に反する事実を示す、それなのに",
+      "it": "introduce un fatto contrario a quanto ci si aspettava o a quanto affermato prima"
+    },
+    {
+      "word": "comunque",
+      "ja": "事情にかかわらず結論や行動が変わらないことを表す、いずれにせよ",
+      "it": "indica che una conclusione o un’azione resta valida indipendentemente dalle circostanze"
+    }
+  ],
+
+  "synonyms": [
+    "anche",
+    "perfino",
+    "ugualmente",
+    "liberamente",
+    "comunque"
+  ],
+
+  "equivalents": {
+    "en": [
+      "also",
+      "too",
+      "even",
+      "go ahead",
+      "although"
+    ],
+    "de": [
+      "auch",
+      "sogar",
+      "ruhig",
+      "obwohl"
+    ],
+    "fr": [
+      "aussi",
+      "même",
+      "allez-y",
+      "bien que"
+    ],
+    "es": [
+      "también",
+      "incluso",
+      "adelante",
+      "aunque"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "vengo pure io",
+      "ja": "私も行きます"
+    },
+    {
+      "it": "entra pure",
+      "ja": "どうぞ入って・遠慮なく入って"
+    },
+    {
+      "it": "mi dica pure",
+      "ja": "どうぞおっしゃってください"
+    },
+    {
+      "it": "pur sapendo",
+      "ja": "知っていながら・知ってはいるものの"
+    },
+    {
+      "it": "pur di riuscire",
+      "ja": "成功するためなら"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Vengo pure io alla riunione.",
+      "ja": "私も会議に行きます。"
+    },
+    {
+      "it": "Perfino i bambini, e pure alcuni adulti, avevano paura.",
+      "ja": "子供たちだけでなく、大人の中にも怖がっている人がいました。"
+    },
+    {
+      "it": "Se hai una domanda, chiedi pure.",
+      "ja": "質問があれば、遠慮なく聞いてください。"
+    },
+    {
+      "it": "Prego, si accomodi pure.",
+      "ja": "どうぞ、お掛けください。"
+    },
+    {
+      "it": "Pur sapendo che sarebbe stato difficile, ha accettato l’incarico.",
+      "ja": "難しくなると知りながら、彼女はその任務を引き受けました。"
+    },
+    {
+      "it": "È disposto a tutto pur di raggiungere il suo obiettivo.",
+      "ja": "彼は目標を達成するためなら何でもする覚悟です。"
+    },
+    {
+      "it": "Puoi pure non essere d’accordo, ma devi rispettare la decisione.",
+      "ja": "賛成しなくても構いませんが、その決定は尊重しなければなりません。"
+    },
+    {
+      "it": "Se non vuole ascoltare, può pure andarsene.",
+      "ja": "聞くつもりがないのなら、帰りたければ帰って構いません。"
+    },
+    {
+      "it": "Queste sostanze sono pure e non contengono additivi.",
+      "ja": "これらの物質は純粋で、添加物を含んでいません。"
+    }
+  ]
+},
+{
   "id": "mai",
   "sid": "2026-00322",
   "word": "mai",
