@@ -6201,5 +6201,252 @@
       "ja": "布地は染色液を入れた槽に浸されます。"
     }
   ]
-}
+},
+{
+  "id": "stesso",
+  "sid": "2026-00352",
+  "word": "stesso",
+  "ipa": "/ˈstesso/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adjective",
+    "label": {
+      "ja": "指示形容詞・指示代名詞・強意表現・副詞的用法",
+      "it": "aggettivo dimostrativo, pronome dimostrativo, elemento rafforzativo e uso avverbiale"
+    },
+    "adjectiveForms": [
+      "stesso",
+      "stessa",
+      "stessi",
+      "stesse"
+    ],
+    "pattern": "articolo + stesso + nome / nome o pronome + stesso / possessivo + stesso + nome / se stesso, se stessa, se stessi o se stesse / oggi, domani o qui + stesso / lo stesso / lo stesso di o che + termine di confronto / verbo + lo stesso"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "formal",
+      "emphatic"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "identity",
+      "comparison",
+      "emphasis",
+      "time",
+      "relationships",
+      "business",
+      "argumentation"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "以前に述べたものと別のものではなく、まさに同一の",
+      "複数の人・物について、種類・性質・数量などが同じである",
+      "行為・出来事などが以前と変わらず繰り返される",
+      "名詞・人称代名詞を強調して、その人本人・その物自体",
+      "所有形容詞などとともに、ほかならぬ自分自身の",
+      "再帰表現で、自分自身・彼自身・彼女自身",
+      "すでに述べた名詞を改めて指して、当該の・そのものの",
+      "時間・場所を表す語の後で、まさにその時・その場所",
+      "代名詞的に、以前と同じ人・物・事柄",
+      "è lo stesso・fa lo stessoの形で、どちらでも同じ・違いがない",
+      "副詞的なlo stessoの形で、事情にかかわらず・それでも",
+      "抽象名詞の後で、その性質を完全に体現した存在"
+    ],
+    "it": [
+      "Identico per riferimento, cioè proprio quello già menzionato e non un altro.",
+      "Uguale per tipo, qualità, quantità, forma o altre caratteristiche.",
+      "Che si ripete senza cambiamenti rispetto a quanto avvenuto in precedenza.",
+      "Posposto a un nome o a un pronome, indica proprio quella persona o quella cosa in persona.",
+      "Con un possessivo, rafforza il riferimento a ciò che appartiene direttamente al soggetto.",
+      "Nelle costruzioni riflessive, indica la persona stessa sulla quale ricade l’azione.",
+      "Con funzione anaforica, richiama il nome o l’elemento appena menzionato.",
+      "Dopo un’espressione di tempo o luogo, significa proprio in quel momento o in quel posto.",
+      "Come pronome, indica la stessa persona, cosa o situazione già menzionata.",
+      "Nelle espressioni è lo stesso e fa lo stesso, indica indifferenza tra alternative.",
+      "Nella locuzione avverbiale lo stesso, significa ugualmente o nonostante ciò.",
+      "Posposto a un nome astratto, indica la perfetta personificazione di una qualità."
+    ]
+  },
+
+  "nuance": {
+    "ja": "stessoの中心的な意味は「別のものではなく同一のもの」である。Usiamo la stessa macchinaは、同じ一台の車を共有しているとも、文脈によっては同じ型の車を使っているとも解釈できる。二台の車が似ているだけであることを明確にするならLe nostre macchine sono ugualiと言う。ugualeは性質・形・数量などの等しさ、identicoは細部まで完全に一致すること、medesimoはstessoに非常に近いが、やや改まった響きを持つ。通常、名詞の前のstessoは同一性を示し、la stessa direttriceなら「前と同じ責任者」である。名詞の後では強意になり、la direttrice stessaなら「責任者本人」となる。人称代名詞とも性数一致し、io stesso、lei stessa、noi stessi、loro stesseと言う。再帰表現はsé stesso・sé stessaのように書き、現代の注意深い表記ではstessoの前でもséのアクセントを保つのが明確である。oggi stessoは「まさに今日・今日中に」。lo stessoは代名詞として「同じもの」、è lo stessoでは「どちらでも構わない」、副詞としてはcomunqueに近い「それでも」を表す。",
+    "it": "Il valore fondamentale di stesso è l’identità: la stessa macchina può indicare proprio il medesimo veicolo già menzionato. A seconda del contesto può però esprimere anche uguaglianza di tipo o modello. Per chiarire che due oggetti distinti sono soltanto simili si usa spesso uguale: le nostre macchine sono uguali. Identico sottolinea una corrispondenza completa; medesimo è quasi equivalente a stesso, ma può avere un tono più formale. La posizione modifica spesso l’interpretazione: la stessa direttrice significa la direttrice già menzionata, mentre la direttrice stessa significa la direttrice in persona. Con i pronomi, stesso concorda nel genere e nel numero: io stesso, lei stessa, noi stessi, loro stesse. Nelle forme riflessive si hanno sé stesso, sé stessa, sé stessi e sé stesse; mantenere l’accento di sé è la grafia più chiara. Oggi stesso significa proprio oggi. Lo stesso può essere pronome, indicare indifferenza in è lo stesso, oppure avere valore avverbiale equivalente a ugualmente o comunque."
+  },
+
+  "etymology": {
+    "ja": "古いイタリア語istessoの語頭の母音が脱落して成立した。istessoはラテン語の連語iste ipse、対格istum ipsum「まさにそのもの」に由来する。isteは「その」、ipseは「自身・まさに本人」を表し、同一性と強意という現代語の二つの主要機能はこの組み合わせから受け継がれた。古形istessoも文学的・古風な文章で見られる。同じipseを含むラテン語系統にはesso、medesimoの歴史的形成に関係する形などがある。",
+    "it": "Deriva da istesso attraverso la caduta della vocale iniziale. Istesso continua la locuzione latina iste ipse, all’accusativo istum ipsum, «proprio quello». Iste indicava «quello», mentre ipse esprimeva «in persona, proprio lui». Da questa combinazione derivano i due valori principali moderni: identità e rafforzamento. La forma istesso sopravvive in usi letterari o arcaizzanti."
+  },
+
+  "minimal": [
+    {
+      "word": "stesso",
+      "ja": "別のものではなく同一の、または強調してその人・物自体",
+      "it": "proprio quello e non un altro oppure quella persona o cosa in sé"
+    },
+    {
+      "word": "uguale",
+      "ja": "別々の人・物が同じ性質・形・数量などを持つ",
+      "it": "dotato delle stesse caratteristiche, pur potendo essere un elemento distinto"
+    },
+    {
+      "word": "medesimo",
+      "ja": "stessoとほぼ同義だが、やや改まった・文章語的な語",
+      "it": "quasi sinonimo di stesso, spesso con tono più formale o letterario"
+    },
+    {
+      "word": "identico",
+      "ja": "外見・性質・内容などが細部まで完全に一致する",
+      "it": "perfettamente uguale in tutti gli aspetti considerati"
+    },
+    {
+      "word": "proprio",
+      "ja": "所有を表すほか、まさに・ほかならぬという強調を加える",
+      "it": "esprime possesso oppure rafforza un riferimento con il senso di precisamente"
+    }
+  ],
+
+  "synonyms": [
+    "medesimo",
+    "uguale",
+    "identico",
+    "proprio",
+    "in persona",
+    "ugualmente",
+    "comunque"
+  ],
+
+  "equivalents": {
+    "en": [
+      "same",
+      "self",
+      "very",
+      "anyway",
+      "nevertheless"
+    ],
+    "de": [
+      "derselbe",
+      "gleich",
+      "selbst",
+      "trotzdem"
+    ],
+    "fr": [
+      "même",
+      "identique",
+      "soi-même",
+      "quand même"
+    ],
+    "es": [
+      "mismo",
+      "igual",
+      "sí mismo",
+      "de todos modos"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "la stessa cosa",
+      "ja": "同じこと・同じ物"
+    },
+    {
+      "it": "allo stesso modo",
+      "ja": "同じ方法で・同様に"
+    },
+    {
+      "it": "nello stesso momento",
+      "ja": "同じ瞬間に"
+    },
+    {
+      "it": "al tempo stesso",
+      "ja": "同時に・その一方で"
+    },
+    {
+      "it": "io stesso / lei stessa",
+      "ja": "私自身／彼女自身"
+    },
+    {
+      "it": "credere in se stesso",
+      "ja": "自分自身を信じる"
+    },
+    {
+      "it": "oggi stesso",
+      "ja": "まさに今日・今日中に"
+    },
+    {
+      "it": "lo stesso",
+      "ja": "同じもの／それでも"
+    },
+    {
+      "it": "essere sulla stessa lunghezza d’onda",
+      "ja": "考えや感覚が一致している"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Vorrei lo stesso tavolo che avevamo ieri.",
+      "ja": "昨日利用したのと同じテーブルを希望します。"
+    },
+    {
+      "it": "Lavoriamo nello stesso ufficio, ma in reparti diversi.",
+      "ja": "私たちは同じ事務所で働いていますが、所属部署は異なります。"
+    },
+    {
+      "it": "I due documenti esprimono la stessa idea con parole diverse.",
+      "ja": "その二つの文書は異なる言葉で同じ考えを表しています。"
+    },
+    {
+      "it": "È sempre la stessa storia: arriva tardi e poi si scusa.",
+      "ja": "いつも同じことです。彼は遅刻して、それから謝ります。"
+    },
+    {
+      "it": "La direttrice stessa ha approvato la proposta.",
+      "ja": "責任者本人がその提案を承認しました。"
+    },
+    {
+      "it": "Ho visto l’incidente con i miei stessi occhi.",
+      "ja": "私はその事故を自分自身の目で目撃しました。"
+    },
+    {
+      "it": "Devi imparare a credere in te stesso.",
+      "ja": "あなたは自分自身を信じることを学ばなければなりません。"
+    },
+    {
+      "it": "Ti invierò la versione definitiva oggi stesso.",
+      "ja": "今日中に最終版をお送りします。"
+    },
+    {
+      "it": "Questo modello è lo stesso di quello esposto in vetrina.",
+      "ja": "この型はショーウインドーに展示されているものと同じです。"
+    },
+    {
+      "it": "Preferisci partire in treno o in aereo? Per me è lo stesso.",
+      "ja": "列車と飛行機のどちらで出発したいですか。私はどちらでも構いません。"
+    },
+    {
+      "it": "Piove molto, ma uscirò lo stesso.",
+      "ja": "雨が激しく降っていますが、それでも外出します。"
+    },
+    {
+      "it": "La proposta è interessante e al tempo stesso difficile da realizzare.",
+      "ja": "その提案は興味深いと同時に、実現するのが困難です。"
+    },
+    {
+      "it": "Per i suoi colleghi era la gentilezza stessa.",
+      "ja": "同僚たちにとって、彼女は親切そのものでした。"
+    }
+  ]
+}  
 ]
