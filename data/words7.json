@@ -3186,5 +3186,190 @@
       "ja": "写真は暗室で現像されていました。"
     }
   ]
+},
+{
+  "id": "cameriere",
+  "sid": "2026-00338",
+  "word": "cameriere",
+  "ipa": "/kameˈrjɛre/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞・女性形cameriera",
+      "it": "sostantivo maschile con femminile cameriera"
+    },
+    "gender": "masculine",
+    "feminine": "cameriera",
+    "plural": "camerieri",
+    "femininePlural": "cameriere",
+    "pattern": "il cameriere / la cameriera / i camerieri / le cameriere / cameriere di + luogo o funzione / chiedere qualcosa al cameriere"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "restaurant",
+      "cafe",
+      "hotel",
+      "travel",
+      "work",
+      "hospitality"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "レストラン・カフェなどで注文を取り、料理や飲み物を運ぶ給仕・ウェイター",
+      "宴会場・食堂などで客に飲食物を提供する接客係",
+      "ホテルで宿泊客へのサービスや客室関連の業務を担当する従業員",
+      "cameriera ai pianiなどの形で、ホテルの客室清掃やベッドメーキングを担当する係",
+      "個人宅で食事の給仕や来客対応などを行う使用人、現在では主に歴史的用法",
+      "宮廷・教皇庁などで高位者の身辺に仕える役職、歴史的・制度的用法"
+    ],
+    "it": [
+      "Persona che nei ristoranti e nei caffè prende le ordinazioni e serve cibi e bevande ai clienti.",
+      "Addetto al servizio dei clienti in una sala da pranzo, un banchetto o un altro esercizio pubblico.",
+      "Dipendente di un albergo incaricato di servizi relativi agli ospiti o alle camere.",
+      "Nell’espressione cameriera ai piani, addetta alla pulizia delle camere e al riordino dei letti in un albergo.",
+      "Persona addetta al servizio della tavola e degli ospiti in una casa privata, oggi soprattutto in contesti storici.",
+      "Titolo storico o istituzionale attribuito a chi prestava servizio personale presso una corte o un alto dignitario."
+    ]
+  },
+
+  "nuance": {
+    "ja": "現代の日常語では、cameriereは主にレストランやカフェの「ウェイター・給仕」を表す。女性にはcamerieraを使う。店員を呼ぶ際にCameriere!と言うこともできるが、状況によっては直接的に響くため、Scusi!またはScusi, può venire un momento?の方が丁寧で自然である。baristaはバールでコーヒーや飲み物を作る人、commessoは商店の販売員、cuocoは料理人であり、cameriereとは役割が異なる。ホテルの受付係は通常receptionistと呼び、cameriereとは言わない。cameriera ai pianiはホテルの客室清掃係を指す。",
+    "it": "Nell’uso quotidiano contemporaneo, cameriere indica soprattutto chi serve i clienti in un ristorante o in un caffè; per una donna si usa cameriera. È possibile chiamare Cameriere!, ma in alcuni contesti può risultare diretto: Scusi! o Scusi, può venire un momento? sono formule più cortesi. Il barista prepara e serve soprattutto caffè e bevande al bar; il commesso lavora nella vendita in un negozio; il cuoco prepara i cibi. L’addetto alla reception di un albergo è normalmente chiamato receptionist, non cameriere. Cameriera ai piani indica invece chi pulisce e riordina le camere dell’albergo."
+  },
+
+  "etymology": {
+    "ja": "名詞camera「部屋」に職業・役割を表す接尾辞-iereを加えて形成され、後期・中世ラテン語camerariusとも関係する。もともとは宮廷や富裕な家庭で主人の私室に仕え、身の回りの世話をする者を指した。その後、家庭や宿泊施設で客に奉仕する者を経て、飲食店で料理や飲み物を提供する現在の中心的な意味が発達した。",
+    "it": "Deriva da camera con il suffisso professionale -iere ed è collegato al latino tardo e medievale camerarius. In origine indicava chi prestava servizio nelle camere private di un signore, di un dignitario o di una famiglia importante. Il significato si estese successivamente al personale domestico e alberghiero e infine a chi serve cibi e bevande nei ristoranti e nei caffè."
+  },
+
+  "minimal": [
+    {
+      "word": "cameriere",
+      "ja": "飲食店で注文を取り、料理や飲み物を客に提供する人",
+      "it": "persona che prende le ordinazioni e serve cibi e bevande ai clienti"
+    },
+    {
+      "word": "barista",
+      "ja": "バールなどでコーヒー・酒類・その他の飲み物を作り提供する人",
+      "it": "persona che prepara e serve caffè, bevande e altri prodotti al banco di un bar"
+    },
+    {
+      "word": "cuoco",
+      "ja": "厨房で料理を作ることを職業とする人、料理人",
+      "it": "persona che prepara professionalmente i cibi in una cucina"
+    },
+    {
+      "word": "commesso",
+      "ja": "商店で商品を案内・販売する店員",
+      "it": "persona addetta alla vendita e all’assistenza dei clienti in un negozio"
+    },
+    {
+      "word": "receptionist",
+      "ja": "ホテル・会社などの受付で来客対応を行う人",
+      "it": "persona addetta all’accoglienza e alla registrazione degli ospiti o dei visitatori"
+    }
+  ],
+
+  "synonyms": [
+    "addetto di sala",
+    "personale di sala",
+    "servente",
+    "servitore",
+    "domestico"
+  ],
+
+  "equivalents": {
+    "en": [
+      "waiter",
+      "server",
+      "room attendant"
+    ],
+    "de": [
+      "Kellner",
+      "Bedienung",
+      "Zimmerkellner"
+    ],
+    "fr": [
+      "serveur",
+      "garçon de café",
+      "employé d’étage"
+    ],
+    "es": [
+      "camarero",
+      "mesero",
+      "empleado de hotel"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "chiamare il cameriere",
+      "ja": "ウェイターを呼ぶ"
+    },
+    {
+      "it": "cameriere di sala",
+      "ja": "ホール担当の給仕"
+    },
+    {
+      "it": "chiedere il conto al cameriere",
+      "ja": "ウェイターに会計を頼む"
+    },
+    {
+      "it": "cameriera ai piani",
+      "ja": "ホテルの客室清掃係"
+    },
+    {
+      "it": "lasciare la mancia al cameriere",
+      "ja": "ウェイターにチップを残す"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Il cameriere ci ha portato il menu.",
+      "ja": "ウェイターが私たちにメニューを持ってきました。"
+    },
+    {
+      "it": "La cameriera ha preso la nostra ordinazione.",
+      "ja": "ウェイトレスが私たちの注文を取りました。"
+    },
+    {
+      "it": "Scusi, può portarci dell’acqua?",
+      "ja": "すみません、水を持ってきていただけますか。"
+    },
+    {
+      "it": "Abbiamo chiesto il conto al cameriere.",
+      "ja": "私たちはウェイターに会計を頼みました。"
+    },
+    {
+      "it": "I camerieri stanno preparando la sala per il ricevimento.",
+      "ja": "給仕係たちは披露宴のために会場を準備しています。"
+    },
+    {
+      "it": "La cameriera ai piani ha già riordinato la nostra camera.",
+      "ja": "客室清掃係はすでに私たちの部屋を整えてくれました。"
+    },
+    {
+      "it": "Il ristorante cerca un cameriere con esperienza.",
+      "ja": "そのレストランは経験のある給仕係を募集しています。"
+    },
+    {
+      "it": "Nelle case signorili, il cameriere serviva a tavola e riceveva gli ospiti.",
+      "ja": "かつての上流階級の邸宅では、給仕が食卓に仕え、来客を迎えていました。"
+    }
+  ]
 }
 ]
