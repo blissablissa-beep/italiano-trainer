@@ -6702,5 +6702,279 @@
       "ja": "私は確実を期して、切符を前もって予約するほうがよいと思います。"
     }
   ]
-}  
+},{
+  "id": "alto",
+  "sid": "2026-00354",
+  "word": "alto",
+  "ipa": "/ˈalto/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adjective",
+    "label": {
+      "ja": "形容詞・男性名詞・副詞的用法",
+      "it": "aggettivo, sostantivo maschile e uso avverbiale"
+    },
+    "adjectiveForms": [
+      "alto",
+      "alta",
+      "alti",
+      "alte"
+    ],
+    "comparative": "più alto",
+    "superlative": "il più alto / altissimo",
+    "pattern": "essere alto + misura / nome + alto / alto + nome con valore figurato o classificatorio / più alto di + termine di confronto / in alto / dall’alto / verso l’alto / parlare o volare alto"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "description",
+      "measurement",
+      "travel",
+      "work",
+      "health",
+      "music",
+      "geography"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人・建物・物などの縦方向の長さが大きい、背の高い・高さのある",
+      "地面や基準となる位置から遠く離れた所にある、高い位置の",
+      "一定の数値で測った高さを持つ、～の高さである",
+      "水・雪・層などについて、深さや厚さが大きい",
+      "価格・温度・速度・圧力・割合などの数値が大きい、高い",
+      "危険性・可能性・重要性・強度などの程度が大きい",
+      "声・音量が大きい、大きな声の",
+      "音・声について周波数が高い、高音の",
+      "地位・階級・役職などが上位にある、高位の",
+      "品質・技術・能力などが優れている、高水準の",
+      "思想・目的・精神などが高尚な、崇高な",
+      "地理的に標高が高い、川の上流に近い、または地域の北部にある",
+      "歴史上の時代について、その時代区分の初期に属する",
+      "名詞的に、物の上部・高い場所・上層部",
+      "副詞的に、高い所へ・高い位置で、または大きな声で"
+    ],
+    "it": [
+      "Che presenta una notevole estensione verticale, con riferimento a persone, edifici o oggetti.",
+      "Situato a una distanza notevole dal suolo o da un altro punto di riferimento.",
+      "Che possiede una determinata misura verticale.",
+      "Profondo o spesso, con riferimento all’acqua, alla neve o a uno strato di materiale.",
+      "Elevato per valore numerico, con riferimento a prezzi, temperature, velocità, pressioni o percentuali.",
+      "Elevato per grado, intensità, probabilità, importanza o rischio.",
+      "Forte e intenso, con riferimento alla voce o al volume di un suono.",
+      "Acuto, con riferimento all’altezza musicale di una nota o di una voce.",
+      "Collocato in una posizione superiore all’interno di una gerarchia sociale o professionale.",
+      "Di notevole qualità, preparazione, specializzazione o valore.",
+      "Nobile, elevato o ambizioso sul piano morale o intellettuale.",
+      "Posto a maggiore altitudine, vicino alla sorgente di un fiume oppure nella parte settentrionale di una regione.",
+      "Riferito a un periodo storico, appartenente alla fase iniziale di tale periodo.",
+      "Come sostantivo, la parte più elevata di qualcosa o i livelli superiori di una gerarchia.",
+      "Come avverbio, verso una posizione elevata, a notevole altezza oppure con voce forte."
+    ]
+  },
+
+  "nuance": {
+    "ja": "altoは、人については「背が高い」、建物や山については「高さがある」の両方に使われる。身長や物の高さを尋ねるときはQuanto è alto?、具体的な数値を示すときはÈ alto un metro e ottantaのように言う。形容詞の位置によって意味が変わる場合があり、un alto dirigenteは「地位の高い幹部」、un dirigente altoは「背の高い幹部」を意味する。通常、物理的な高さを表すaltoは名詞の後に置かれる。音については、parlare ad alta voceが「大きな声で話す」という音量を表す一方、una nota altaは「高い音」という音程を表す。日常語ではどちらにもaltoを使えるが、音程を厳密に表す語はacutoである。L’acqua è altaは水面の位置だけでなく「水が深い」という意味になることがある。in altoは高い位置にあること、verso l’altoは上方向への動きを表す。比較級はpiù alto、相対最上級はil più alto、絶対最上級はaltissimoである。alto Medioevoは「中世初期」を意味し、時代的に後期であるという意味ではない。",
+    "it": "Alto si usa sia per la statura delle persone sia per l’estensione verticale di edifici e oggetti. Si domanda Quanto è alto? e si risponde, per esempio, È alto un metro e ottanta. La posizione dell’aggettivo può modificarne il significato: un alto dirigente è un dirigente di grado elevato, mentre un dirigente alto è una persona di notevole statura. Nel significato fisico l’aggettivo segue normalmente il nome. In ambito sonoro, parlare ad alta voce riguarda l’intensità o il volume, mentre una nota alta riguarda l’altezza musicale; acuto è il termine più preciso per indicare una frequenza elevata. L’acqua è alta può significare che l’acqua è profonda. In alto indica una posizione elevata, mentre verso l’alto sottolinea la direzione del movimento. Il comparativo è più alto, il superlativo relativo il più alto e quello assoluto altissimo. Nell’espressione alto Medioevo, alto indica la fase iniziale del periodo storico."
+  },
+
+  "etymology": {
+    "ja": "ラテン語altus「高い、深い」に由来する。altusは動詞alĕre「養う、成長させる」の過去分詞に由来するとされ、もともと「成長させられた、伸びた」という観念を持っていた。ラテン語では、基準面から垂直方向に大きく隔たっていることを上向きにも下向きにも捉えたため、「高い」と「深い」の両方を表した。この二重性はイタリア語のacqua alta「深い水」などにも残っている。同じ語族にはaltezza、altitudine、alzare、altissimoがあり、英語altitudeやスペイン語altoも同じラテン語に由来する。",
+    "it": "Deriva dal latino altus, «alto, profondo», originariamente participio passato di alĕre, «nutrire, far crescere». La parola richiamava quindi ciò che era cresciuto o si era sviluppato verticalmente. In latino la distanza verticale poteva essere considerata sia verso l’alto sia verso il basso, perciò altus significava anche «profondo»; questa accezione sopravvive in espressioni italiane come acqua alta. Alla stessa famiglia appartengono altezza, altitudine, alzare e altissimo. Anche l’inglese altitude e lo spagnolo alto risalgono alla stessa base latina."
+  },
+
+  "minimal": [
+    {
+      "word": "alto",
+      "ja": "縦方向の長さ・位置・数値・程度などが基準より大きい",
+      "it": "indica una notevole altezza fisica oppure un grado o un valore elevato"
+    },
+    {
+      "word": "basso",
+      "ja": "高さ・位置・数値・程度などが基準より小さい",
+      "it": "indica un’altezza, una posizione, un valore o un grado ridotto"
+    },
+    {
+      "word": "elevato",
+      "ja": "位置・数値・水準などが高いことを表す、altoより改まった語",
+      "it": "equivale spesso ad alto in riferimento a posizione, quantità o livello, con tono più formale"
+    },
+    {
+      "word": "grande",
+      "ja": "物の全体的な大きさ、数量、重要性などが大きい",
+      "it": "indica grandi dimensioni complessive, quantità o importanza, non specificamente l’altezza"
+    },
+    {
+      "word": "acuto",
+      "ja": "音について、周波数・音程が高いことを正確に表す",
+      "it": "indica con precisione un suono caratterizzato da una frequenza elevata"
+    }
+  ],
+
+  "synonyms": [
+    "elevato",
+    "svettante",
+    "notevole",
+    "rilevante",
+    "considerevole",
+    "caro",
+    "forte",
+    "acuto",
+    "nobile"
+  ],
+
+  "equivalents": {
+    "en": [
+      "high",
+      "tall",
+      "loud",
+      "high-pitched",
+      "deep",
+      "upper"
+    ],
+    "de": [
+      "hoch",
+      "groß",
+      "laut",
+      "hochfrequent",
+      "tief",
+      "hochrangig"
+    ],
+    "fr": [
+      "haut",
+      "grand",
+      "élevé",
+      "fort",
+      "aigu",
+      "profond"
+    ],
+    "es": [
+      "alto",
+      "elevado",
+      "fuerte",
+      "agudo",
+      "profundo",
+      "superior"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "essere alto un metro e ottanta",
+      "ja": "身長・高さが1メートル80センチある"
+    },
+    {
+      "it": "un edificio molto alto",
+      "ja": "非常に高い建物"
+    },
+    {
+      "it": "guardare in alto",
+      "ja": "上を見る"
+    },
+    {
+      "it": "parlare ad alta voce",
+      "ja": "大きな声で話す"
+    },
+    {
+      "it": "un prezzo alto",
+      "ja": "高い価格"
+    },
+    {
+      "it": "viaggiare ad alta velocità",
+      "ja": "高速で移動する"
+    },
+    {
+      "it": "un’attività ad alto rischio",
+      "ja": "危険性の高い活動"
+    },
+    {
+      "it": "un servizio di alto livello",
+      "ja": "高水準のサービス"
+    },
+    {
+      "it": "camminare a testa alta",
+      "ja": "誇りを持って堂々と歩く"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Marco è alto un metro e ottantacinque.",
+      "ja": "マルコの身長は1メートル85センチです。"
+    },
+    {
+      "it": "Quella torre è più alta del campanile.",
+      "ja": "あの塔は鐘楼より高いです。"
+    },
+    {
+      "it": "I bicchieri sono nello scaffale più in alto.",
+      "ja": "グラスは一番上の棚にあります。"
+    },
+    {
+      "it": "Non entrare nel fiume: in questo punto l’acqua è molto alta.",
+      "ja": "川に入らないでください。この場所は水がとても深いです。"
+    },
+    {
+      "it": "Oggi la temperatura è particolarmente alta.",
+      "ja": "今日は気温が特に高いです。"
+    },
+    {
+      "it": "Non abbiamo comprato la macchina perché il prezzo era troppo alto.",
+      "ja": "価格が高すぎたので、私たちはその車を買いませんでした。"
+    },
+    {
+      "it": "Questo tipo di lavoro comporta un alto rischio di incidenti.",
+      "ja": "この種の仕事には事故の高い危険性が伴います。"
+    },
+    {
+      "it": "Puoi parlare più alto? Non riesco a sentirti.",
+      "ja": "もう少し大きな声で話してくれますか。よく聞こえません。"
+    },
+    {
+      "it": "Questa parte della canzone contiene alcune note molto alte.",
+      "ja": "この歌の部分には非常に高い音がいくつかあります。"
+    },
+    {
+      "it": "È un alto dirigente, ma non è particolarmente alto.",
+      "ja": "彼は高級幹部ですが、特に背が高いわけではありません。"
+    },
+    {
+      "it": "L’albergo offre un servizio di alto livello.",
+      "ja": "そのホテルは高水準のサービスを提供しています。"
+    },
+    {
+      "it": "La ricerca richiede un alto grado di precisione.",
+      "ja": "その研究には高度な正確性が求められます。"
+    },
+    {
+      "it": "Il paese si trova nell’alta valle, vicino alla sorgente del fiume.",
+      "ja": "その村は川の源流に近い谷の上流部にあります。"
+    },
+    {
+      "it": "Il castello fu costruito nell’alto Medioevo.",
+      "ja": "その城は中世初期に建てられました。"
+    },
+    {
+      "it": "Dall’alto della montagna si vede tutta la città.",
+      "ja": "山の上から町全体が見えます。"
+    },
+    {
+      "it": "Nonostante le critiche, è uscito dalla riunione a testa alta.",
+      "ja": "批判を受けたにもかかわらず、彼は胸を張って会議を後にしました。"
+    }
+  ]
+}
 ]
