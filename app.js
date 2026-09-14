@@ -324,7 +324,25 @@ function searchableText(word) {
     ...(word.meaning?.ja || []),
     ...(word.meaning?.it || []),
     ...(word.synonyms || []),
-    ...(word.collocations || []),
+    ...(word.collocations || []).flatMap(
+      item => {
+        if (typeof item === "string") {
+          return [item];
+        }
+
+        if (
+          item &&
+          typeof item === "object"
+        ) {
+          return [
+            item.it,
+            item.ja
+          ].filter(Boolean);
+        }
+
+        return [];
+      }
+    ),
 
     ...(word.examples || []).flatMap(
       example => [
@@ -428,11 +446,36 @@ function makeChipList(items = []) {
   return `
     <div class="chip-list">
       ${items
-        .map(item => `
-          <span class="chip">
-            ${escapeHtml(item)}
-          </span>
-        `)
+        .map(item => {
+          let value = "";
+
+          if (typeof item === "string") {
+            value = item;
+          } else if (
+            item &&
+            typeof item === "object"
+          ) {
+            const italian = item.it || "";
+            const japanese = item.ja || "";
+
+            value =
+              state.lang === "ja"
+                ? [italian, japanese]
+                    .filter(Boolean)
+                    .join(" — ")
+                : italian || japanese;
+          }
+
+          if (!value) {
+            return "";
+          }
+
+          return `
+            <span class="chip">
+              ${escapeHtml(value)}
+            </span>
+          `;
+        })
         .join("")}
     </div>
   `;
