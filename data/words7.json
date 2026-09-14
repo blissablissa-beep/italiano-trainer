@@ -6976,5 +6976,295 @@
       "ja": "批判を受けたにもかかわらず、彼は胸を張って会議を後にしました。"
     }
   ]
-}
+},
+{
+  "id": "basso",
+  "sid": "2026-00355",
+  "word": "basso",
+  "ipa": "/ˈbasso/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adjective",
+    "label": {
+      "ja": "形容詞・男性名詞・副詞的用法",
+      "it": "aggettivo, sostantivo maschile e uso avverbiale"
+    },
+    "adjectiveForms": [
+      "basso",
+      "bassa",
+      "bassi",
+      "basse"
+    ],
+    "comparative": "più basso",
+    "superlative": "il più basso / bassissimo",
+    "pattern": "essere basso / nome + basso / basso + nome in espressioni classificatorie / più basso di + termine di confronto / in basso / dal basso / verso il basso / parlare basso"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "description",
+      "measurement",
+      "health",
+      "shopping",
+      "travel",
+      "work",
+      "music",
+      "geography"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人の身長が平均より小さい、背の低い",
+      "建物・家具・物などの縦方向の長さが小さい、高さの低い",
+      "地面や基準となる場所に近い位置にある、低い位置の・下部の",
+      "水が深くない、浅い",
+      "天井・かかと・積雪・層などの高さや厚さが小さい",
+      "価格・温度・圧力・速度・割合などの数値が小さい、低い",
+      "危険性・可能性・性能・収益などの程度が小さい",
+      "声・音量・光などの強さが弱い、低い・小さい",
+      "音・声について周波数や音程が低い、低音の",
+      "頭・目などが地面の方向へ向けられている、下げられた",
+      "社会的地位・階級・役職などが下位にある",
+      "品質・水準・成績などが十分に高くない",
+      "行為・動機などが卑劣な、下劣な",
+      "地理的に標高が低い、川の河口に近い、または地域の南部にある",
+      "歴史上の時代について、その時代区分の後期に属する",
+      "名詞的に、物の下部・低い場所・組織の下層部",
+      "音楽で、最も低い男性声域、その歌手、低音部または低音楽器",
+      "副詞的に、低い位置へ・低い位置で、または小さな声で"
+    ],
+    "it": [
+      "Di persona, che presenta una statura inferiore alla media.",
+      "Che possiede un’estensione verticale ridotta, con riferimento a edifici, mobili o oggetti.",
+      "Situato vicino al suolo o nella parte inferiore di qualcosa.",
+      "Poco profondo, con riferimento all’acqua.",
+      "Di altezza o spessore ridotti, con riferimento a un soffitto, un tacco, la neve o uno strato.",
+      "Ridotto per valore numerico, con riferimento a prezzi, temperature, pressioni, velocità o percentuali.",
+      "Limitato per grado, intensità, probabilità, rendimento o rischio.",
+      "Debole o poco intenso, con riferimento alla voce, al volume o alla luce.",
+      "Grave e non acuto, con riferimento all’altezza musicale di un suono o di una voce.",
+      "Rivolto verso terra, con riferimento alla testa, agli occhi o allo sguardo.",
+      "Collocato nei gradi inferiori di una gerarchia sociale o professionale.",
+      "Inferiore o insufficiente per qualità, livello, rendimento o risultato.",
+      "Moralmente vile, ignobile o riprovevole.",
+      "Posto a minore altitudine, vicino alla foce di un fiume oppure nella parte meridionale di una regione.",
+      "Riferito a un periodo storico, appartenente alla sua fase finale.",
+      "Come sostantivo, la parte inferiore di qualcosa o i livelli inferiori di una gerarchia.",
+      "In musica, la voce maschile più grave, il cantante che la possiede, la parte grave di un brano o uno strumento di registro grave.",
+      "Come avverbio, verso una posizione inferiore, a poca altezza oppure con voce sommessa."
+    ]
+  },
+
+  "nuance": {
+    "ja": "人についてbassoと言うと「背が低い」という意味になる。piccoloは身体全体が小さいことや年齢が幼いことも表せるため、身長だけを述べる場合はbassoのほうが正確である。ただし、人の外見について直接È bassoと言うと評価的に聞こえる場合がある。物理的な高さを表すbassoは通常un tavolo bassoのように名詞の後に置く。音については、parlare a bassa voceまたはparlare bassoが「小さな声で話す」という音量を表し、una nota bassaは「低い音」という音程を表す。音程を厳密に表す語はgraveである。L’acqua è bassaは「水が浅い」という意味になる。in bassoは低い位置にあること、verso il bassoは下向きの動き、dal bassoは下から、または組織の下層からという意味である。比較級はpiù basso、相対最上級はil più basso、絶対最上級はbassissimoとなる。basso Medioevoは中世後期を指す。なお、時間の長さには通常breve durataを使い、一般的な表現ではbassa durataより自然である。",
+    "it": "Riferito a una persona, basso indica una statura inferiore alla media. Piccolo può riguardare invece le dimensioni complessive o l’età; per parlare soltanto della statura, basso è più preciso. Una descrizione diretta come È basso può tuttavia essere percepita come valutativa. Nel significato fisico l’aggettivo segue normalmente il nome: un tavolo basso. In ambito sonoro, parlare a bassa voce o parlare basso riguarda l’intensità, mentre una nota bassa riguarda l’altezza musicale; grave è il termine tecnico più preciso per una frequenza ridotta. L’acqua è bassa significa che è poco profonda. In basso indica una posizione inferiore, verso il basso la direzione di un movimento e dal basso il punto di partenza, anche in senso gerarchico. Il comparativo è più basso, il superlativo relativo il più basso e quello assoluto bassissimo. Basso Medioevo indica la fase finale del Medioevo. Per l’estensione temporale si preferisce normalmente breve durata a bassa durata."
+  },
+
+  "etymology": {
+    "ja": "後期ラテン語bassus「低い、背の低い」に由来する。bassusのさらに古い起源については確定していない。空間的に高さが小さいという基本義から、数値・程度・地位・品質などが低いことを表す意味が発達した。また、音については周波数が低い「低音」と音量が小さい「小声」の両方を表すようになった。同じ語族にはbassezza、abbassare、ribassare、bassissimo、bassista、bassorilievoがある。フランス語bas、スペイン語bajo、ポルトガル語baixoも同じ後期ラテン語に由来する。",
+    "it": "Deriva dal latino tardo bassus, «basso, di piccola statura», la cui origine più remota non è accertata. Dal valore spaziale di altezza ridotta si sono sviluppati gli usi relativi a numeri, intensità, qualità, posizione sociale e livello. In ambito sonoro la parola può indicare sia una frequenza grave sia un volume poco intenso. Alla stessa famiglia appartengono bassezza, abbassare, ribassare, bassissimo, bassista e bassorilievo. Anche il francese bas, lo spagnolo bajo e il portoghese baixo derivano dalla stessa base tardolatina."
+  },
+
+  "minimal": [
+    {
+      "word": "basso",
+      "ja": "高さ・位置・数値・程度・音程などが基準より小さい",
+      "it": "indica un’altezza, una posizione, un valore, un grado o un tono inferiore"
+    },
+    {
+      "word": "alto",
+      "ja": "高さ・位置・数値・程度・音程などが基準より大きい",
+      "it": "indica un’altezza, una posizione, un valore, un grado o un tono elevato"
+    },
+    {
+      "word": "inferiore",
+      "ja": "位置・数量・品質・階級などが別の基準より下にある",
+      "it": "indica una posizione, una quantità, una qualità o un grado al di sotto di un termine di confronto"
+    },
+    {
+      "word": "piccolo",
+      "ja": "物や人の全体的な大きさ・数量・年齢などが小さい",
+      "it": "indica dimensioni complessive, quantità o età ridotte, non specificamente la statura"
+    },
+    {
+      "word": "grave",
+      "ja": "音について周波数・音程が低いことを正確に表す",
+      "it": "indica con precisione un suono caratterizzato da una frequenza ridotta"
+    }
+  ],
+
+  "synonyms": [
+    "inferiore",
+    "ridotto",
+    "modesto",
+    "esiguo",
+    "sommesso",
+    "debole",
+    "grave",
+    "umile",
+    "vile"
+  ],
+
+  "equivalents": {
+    "en": [
+      "low",
+      "short",
+      "quiet",
+      "low-pitched",
+      "shallow",
+      "bass"
+    ],
+    "de": [
+      "niedrig",
+      "klein",
+      "leise",
+      "tief",
+      "flach",
+      "Bass"
+    ],
+    "fr": [
+      "bas",
+      "petit",
+      "faible",
+      "grave",
+      "peu profond",
+      "basse"
+    ],
+    "es": [
+      "bajo",
+      "pequeño",
+      "débil",
+      "grave",
+      "poco profundo",
+      "bajo musical"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "essere basso di statura",
+      "ja": "背が低い"
+    },
+    {
+      "it": "un tavolo basso",
+      "ja": "高さの低いテーブル"
+    },
+    {
+      "it": "guardare in basso",
+      "ja": "下を見る"
+    },
+    {
+      "it": "parlare a bassa voce",
+      "ja": "小さな声で話す"
+    },
+    {
+      "it": "avere la pressione bassa",
+      "ja": "血圧が低い"
+    },
+    {
+      "it": "un prezzo basso",
+      "ja": "安い価格"
+    },
+    {
+      "it": "viaggiare a bassa velocità",
+      "ja": "低速で移動する"
+    },
+    {
+      "it": "un’attività a basso rischio",
+      "ja": "危険性の低い活動"
+    },
+    {
+      "it": "viaggiare in bassa stagione",
+      "ja": "観光客の少ない閑散期に旅行する"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Luca è piuttosto basso di statura.",
+      "ja": "ルカは身長がかなり低いです。"
+    },
+    {
+      "it": "Questo tavolo è troppo basso per lavorare comodamente.",
+      "ja": "このテーブルは低すぎて、快適に仕事ができません。"
+    },
+    {
+      "it": "I documenti sono nel cassetto più in basso.",
+      "ja": "書類は一番下の引き出しにあります。"
+    },
+    {
+      "it": "L’acqua è abbastanza bassa e possiamo attraversare il fiume a piedi.",
+      "ja": "水がかなり浅いので、私たちは歩いて川を渡れます。"
+    },
+    {
+      "it": "La casa ha soffitti molto bassi.",
+      "ja": "その家は天井がとても低いです。"
+    },
+    {
+      "it": "Oggi ho la pressione un po’ bassa.",
+      "ja": "今日は血圧が少し低いです。"
+    },
+    {
+      "it": "Abbiamo scelto questo albergo perché aveva un prezzo basso.",
+      "ja": "価格が安かったので、私たちはこのホテルを選びました。"
+    },
+    {
+      "it": "Il treno procedeva a bassa velocità a causa della nebbia.",
+      "ja": "霧のため、列車は低速で走っていました。"
+    },
+    {
+      "it": "Questo investimento offre un rendimento basso, ma comporta pochi rischi.",
+      "ja": "この投資は収益率が低いものの、危険も少ないです。"
+    },
+    {
+      "it": "Parla a bassa voce: il bambino sta dormendo.",
+      "ja": "子供が眠っているので、小さな声で話してください。"
+    },
+    {
+      "it": "Il pianoforte produce note molto basse in questa parte del brano.",
+      "ja": "この曲の部分では、ピアノが非常に低い音を出します。"
+    },
+    {
+      "it": "Dopo il rimprovero, il ragazzo teneva gli occhi bassi.",
+      "ja": "叱られた後、その少年は目を伏せていました。"
+    },
+    {
+      "it": "Ha iniziato la carriera da una posizione piuttosto bassa.",
+      "ja": "彼はかなり低い地位から職業人生を始めました。"
+    },
+    {
+      "it": "Diffondere una simile menzogna è stata un’azione molto bassa.",
+      "ja": "そのようなうそを広めたのは、とても卑劣な行為でした。"
+    },
+    {
+      "it": "Nel basso corso del fiume il terreno è quasi completamente pianeggiante.",
+      "ja": "川の下流域では、土地はほぼ完全に平坦です。"
+    },
+    {
+      "it": "La città acquistò grande importanza nel basso Medioevo.",
+      "ja": "その都市は中世後期に大きな重要性を持つようになりました。"
+    },
+    {
+      "it": "Il malcontento è nato dal basso e ha raggiunto i dirigenti.",
+      "ja": "不満は組織の下層から生じ、幹部にまで達しました。"
+    },
+    {
+      "it": "Il basso ha cantato l’ultima parte dell’opera con una voce profonda.",
+      "ja": "バス歌手は深みのある声でオペラの最後の部分を歌いました。"
+    }
+  ]
+}  
 ]
