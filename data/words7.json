@@ -5734,5 +5734,237 @@
       "ja": "その踊り手は軽やかで優美に動いていました。"
     }
   ]
+},
+{
+  "id": "nave",
+  "sid": "2026-00350",
+  "word": "nave",
+  "ipa": "/ˈnave/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "navi",
+    "pattern": "la nave / le navi / nave da + funzione / nave + aggettivo / nave di + tipo, paese o compagnia / viaggiare in nave / salire a bordo della nave / scendere dalla nave / essere sulla nave"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "technical",
+      "figurative",
+      "literary",
+      "historical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "transport",
+      "shipping",
+      "trade",
+      "military",
+      "space",
+      "architecture"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人や貨物を水上で輸送するための比較的大型の船舶",
+      "一定の航路を運航して乗客を運ぶ客船",
+      "商品・原料・燃料などを輸送する貨物船・商船",
+      "戦闘・警備・輸送などの軍事目的で使用される軍艦",
+      "調査・訓練・救助など、特定の任務のために装備された船",
+      "歴史的に、複数のマストと帆を備えた大型帆船の一種",
+      "nave spazialeの形で、人や物を宇宙空間へ運ぶ宇宙船",
+      "建築で、教会・バシリカ内部の柱列などで区切られた縦長の空間、身廊",
+      "工業分野で、船体に似た細長い大型容器",
+      "文学的・比喩的に、個人・共同体・事業などの人生や進路",
+      "慣用表現で、事業を成功させること、または後戻りできない決断をすること"
+    ],
+    "it": [
+      "Costruzione galleggiante di notevoli dimensioni destinata al trasporto sull’acqua di persone o merci.",
+      "Nave adibita al trasporto di passeggeri lungo una rotta determinata.",
+      "Nave mercantile o da carico impiegata per il trasporto di prodotti, materie prime o combustibili.",
+      "Nave armata e utilizzata per combattimento, difesa, pattugliamento o trasporto militare.",
+      "Unità navale equipaggiata per ricerca, addestramento, soccorso o altre funzioni speciali.",
+      "Storicamente, grande veliero dotato di più alberi e vele.",
+      "Nella locuzione nave spaziale, veicolo progettato per viaggiare nello spazio.",
+      "In architettura, raro sinonimo di navata, cioè spazio longitudinale interno a una chiesa o basilica.",
+      "In ambito industriale, grande recipiente allungato dalla forma simile a uno scafo.",
+      "In senso letterario o figurato, corso della vita, di una comunità o di un’impresa.",
+      "Nelle espressioni idiomatiche, elemento associato al buon esito di un’impresa o a una decisione irreversibile."
+    ]
+  },
+
+  "nuance": {
+    "ja": "naveは通常、外洋や大きな河川を航行できる比較的大型の船を指す。barcaは一般に小型の舟・ボート、imbarcazioneは大小を問わず水上を航行する乗り物を広く表す。traghettoは人や車両を対岸・島などへ定期的に運ぶフェリーであり、大型ならnave traghettoとも呼ばれる。vascelloは大型帆船という歴史的意味や、軍艦・宇宙船を表す改まった用法を持つ。移動手段にはviaggiare in nave、特定の船内・船上にいる場合はessere sulla naveまたはessere a bordo della naveを使う。乗船はsalire sulla nave・salire a bordo・imbarcarsi、下船はscendere dalla nave・sbarcareで表せる。船の出発にはpartireのほかsalpare、港への到着にはarrivare・attraccare・approdareを用いる。naveは-eで終わるが女性名詞で、複数形はnaviである。比喩表現のcondurre la nave in portoは計画や交渉を成功に導くこと、bruciarsi le navi alle spalleは後戻りの可能性を自ら断つことを意味する。",
+    "it": "Nave indica normalmente un’imbarcazione di dimensioni relativamente grandi, capace di affrontare il mare aperto o grandi vie d’acqua. Barca designa in genere un mezzo più piccolo; imbarcazione è il termine generale per costruzioni destinate alla navigazione. Traghetto indica un mezzo che trasporta regolarmente persone e veicoli tra due località e, se di grandi dimensioni, può essere chiamato nave traghetto. Vascello ha soprattutto un valore storico riferito a grandi velieri, oppure un tono elevato o militare. Come mezzo di trasporto si dice viaggiare in nave; per la presenza su un’unità determinata, essere sulla nave o a bordo della nave. Si può salire sulla nave, imbarcarsi o salire a bordo; per scendere si usano scendere dalla nave e sbarcare. Una nave parte o salpa e, arrivando in porto, attracca o approda. Nave è femminile nonostante la terminazione in -e e forma il plurale navi. Condurre la nave in porto significa anche portare a buon fine un’impresa; bruciarsi le navi alle spalle significa rendere impossibile un ripensamento."
+  },
+
+  "etymology": {
+    "ja": "ラテン語navis、対格navem「船」を直接継承した語で、古代ギリシア語naûs「船」やサンスクリット語nā́u-などと同じ、非常に古いインド・ヨーロッパ語族の語根に属する。航海が古くから重要な交通・交易手段だったことを示す基礎語である。同じ語族にはnavigare「航海する」、navigazione「航海・ナビゲーション」、navale「船舶の」、navetta「往復便・シャトル」、navigatore「航海者・ナビゲーター」などがある。フランス語nef、スペイン語nave、英語のnaval・navigationも同じラテン語に由来する。",
+    "it": "Continua il latino navis, accusativo navem, «nave», appartenente a un’antichissima famiglia indoeuropea rappresentata anche dal greco naûs e dal sanscrito nā́u-. Alla stessa famiglia appartengono navigare, navigazione, navale, navigatore e navetta. Derivano dalla medesima base anche il francese nef, lo spagnolo nave e gli inglesi naval e navigation."
+  },
+
+  "minimal": [
+    {
+      "word": "nave",
+      "ja": "海や大きな水路で人・貨物を運ぶ比較的大型の船舶",
+      "it": "grande costruzione destinata alla navigazione e al trasporto di persone o merci"
+    },
+    {
+      "word": "barca",
+      "ja": "近距離の移動・漁・娯楽などに使われる、一般に小型の舟・ボート",
+      "it": "imbarcazione generalmente piccola usata per spostamenti, pesca o attività ricreative"
+    },
+    {
+      "word": "imbarcazione",
+      "ja": "大小を問わず、水上航行に使用される乗り物を広く表す語",
+      "it": "termine generale per una costruzione destinata alla navigazione sull’acqua"
+    },
+    {
+      "word": "traghetto",
+      "ja": "人や車両を二地点間で定期的に運ぶフェリー",
+      "it": "imbarcazione che collega regolarmente due località trasportando persone e veicoli"
+    },
+    {
+      "word": "vascello",
+      "ja": "歴史的な大型帆船、または改まった表現での大型船・軍艦",
+      "it": "grande veliero storico oppure denominazione elevata di una grande nave"
+    }
+  ],
+
+  "synonyms": [
+    "imbarcazione",
+    "bastimento",
+    "vascello",
+    "natante",
+    "astronave",
+    "navata"
+  ],
+
+  "equivalents": {
+    "en": [
+      "ship",
+      "vessel",
+      "spacecraft",
+      "nave"
+    ],
+    "de": [
+      "Schiff",
+      "Seeschiff",
+      "Raumschiff",
+      "Kirchenschiff"
+    ],
+    "fr": [
+      "navire",
+      "vaisseau",
+      "vaisseau spatial",
+      "nef"
+    ],
+    "es": [
+      "barco",
+      "buque",
+      "nave",
+      "nave espacial"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "viaggiare in nave",
+      "ja": "船で旅行する"
+    },
+    {
+      "it": "salire a bordo della nave",
+      "ja": "船に乗り込む"
+    },
+    {
+      "it": "scendere dalla nave",
+      "ja": "船から降りる"
+    },
+    {
+      "it": "una nave da crociera",
+      "ja": "クルーズ船"
+    },
+    {
+      "it": "una nave mercantile",
+      "ja": "商船"
+    },
+    {
+      "it": "una nave da carico",
+      "ja": "貨物船"
+    },
+    {
+      "it": "una nave da guerra",
+      "ja": "軍艦"
+    },
+    {
+      "it": "una nave spaziale",
+      "ja": "宇宙船"
+    },
+    {
+      "it": "una nave ammiraglia",
+      "ja": "旗艦／組織や製品群の中心的存在"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "La nave partirà dal porto alle sei del pomeriggio.",
+      "ja": "船は午後6時に港を出発します。"
+    },
+    {
+      "it": "I passeggeri sono saliti a bordo della nave.",
+      "ja": "乗客たちは船に乗り込みました。"
+    },
+    {
+      "it": "Durante la traversata abbiamo trascorso tre notti sulla nave.",
+      "ja": "航海中、私たちは船上で3泊しました。"
+    },
+    {
+      "it": "La nave da carico trasporta automobili e macchinari industriali.",
+      "ja": "その貨物船は自動車と産業機械を輸送しています。"
+    },
+    {
+      "it": "La nave da crociera farà scalo in quattro città del Mediterraneo.",
+      "ja": "そのクルーズ船は地中海の4都市に寄港します。"
+    },
+    {
+      "it": "La nave oceanografica raccoglie campioni d’acqua e di fango marino.",
+      "ja": "その海洋調査船は海水と海底泥の試料を採取しています。"
+    },
+    {
+      "it": "Una nave militare pattugliava la zona costiera.",
+      "ja": "軍艦が沿岸地域を哨戒していました。"
+    },
+    {
+      "it": "La nave spaziale è entrata nell’orbita della Luna.",
+      "ja": "宇宙船は月の軌道に入りました。"
+    },
+    {
+      "it": "La chiesa è divisa in una nave centrale e due navate laterali.",
+      "ja": "その教会は中央身廊と二つの側廊に分かれています。"
+    },
+    {
+      "it": "Nonostante le difficoltà, la direttrice ha condotto il progetto in porto.",
+      "ja": "困難にもかかわらず、責任者はプロジェクトを成功に導きました。"
+    },
+    {
+      "it": "Lasciando il lavoro senza un piano alternativo, si è bruciato le navi alle spalle.",
+      "ja": "代わりの計画もなく仕事を辞めたことで、彼は自ら退路を断ちました。"
+    }
+  ]
 }
 ]
