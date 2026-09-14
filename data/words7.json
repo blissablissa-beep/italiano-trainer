@@ -4610,5 +4610,224 @@
       "ja": "その女の子は家の上に三日月を描きました。"
     }
   ]
+},
+{
+  "id": "terra",
+  "sid": "2026-00345",
+  "word": "terra",
+  "ipa": "/ˈtɛrra/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "terre",
+    "pattern": "la Terra o la terra / le terre / sulla Terra / a o per terra / sotto terra / terra + aggettivo / terra di + luogo o tipo / coltivare la terra / terra natale / messa a terra"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "figurative",
+      "technical",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "astronomy",
+      "nature",
+      "agriculture",
+      "travel",
+      "geography",
+      "home",
+      "technology"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人類が暮らし、太陽の周囲を公転する惑星、地球",
+      "地球上の世界全体、またはそこに暮らす人類",
+      "海・湖・空などに対する、地表の固体部分・陸地",
+      "人や物が立つ、落ちる、置かれる地面・床面",
+      "地表を覆い、植物が根を張る土",
+      "耕作や農業の対象となる農地・耕地",
+      "所有・利用の対象となる一定範囲の土地・地所",
+      "一定の特徴を持つ地域・地方・国",
+      "自分が生まれ育った土地、故郷・祖国",
+      "粘土・鉱物などからなる土質の材料、顔料・陶芸材料",
+      "電気工学で、電流や電荷を逃がすための大地・接地",
+      "慣用表現で、現実性、落胆、徹底的な破壊などを象徴する"
+    ],
+    "it": [
+      "Pianeta sul quale vivono gli esseri umani e che orbita intorno al Sole.",
+      "Il mondo abitato nel suo complesso oppure l’insieme dell’umanità.",
+      "Parte solida della superficie terrestre contrapposta al mare, alle acque o all’aria.",
+      "Superficie sulla quale si cammina, si cade o si appoggiano persone e oggetti.",
+      "Materiale friabile dello strato superficiale del suolo nel quale crescono le piante.",
+      "Suolo destinato alla coltivazione e all’attività agricola.",
+      "Appezzamento delimitato posseduto, utilizzato o destinato a un determinato scopo.",
+      "Regione, territorio, paese o area caratterizzati da particolari qualità.",
+      "Paese o luogo nel quale una persona è nata e al quale sente di appartenere.",
+      "Argilla, sostanza minerale o materiale terroso usato come pigmento o nella ceramica.",
+      "In elettrotecnica, terreno usato come conduttore di riferimento e per disperdere cariche elettriche.",
+      "Nelle espressioni idiomatiche, simbolo di concretezza, abbattimento o distruzione completa."
+    ]
+  },
+
+  "nuance": {
+    "ja": "惑星としての地球は、特に天文学・地理学などの専門的な文章ではTerraと大文字で書かれる。日常的な「土・地面・陸・土地」には小文字のterraを使う。a terraは方向や到達点を示し、cadere a terra「地面に落ちる」、posare qualcosa a terra「物を地面に置く」と言う。per terraは床や地面の上に散らばったり倒れたりしている状態を強調することが多い。sotto terraは「地中に」、sulla Terraは「地球上で」を表す。terraは土という物質を表す最も一般的な語で、terrenoは地面の性質や区画としての土地、suoloは地表・土壌を表すやや技術的な語である。海に対する陸はterraまたはterrafermaという。terra nataleは出生地・故郷で、patriaは国家や祖国への帰属意識をより強く表す。con i piedi per terraは「現実的な」、mettere qualcuno a terraは「人を倒す・打ちのめす」、fare terra bruciataは「一帯を徹底的に破壊する」を意味する。terra terraは、考えや表現について「ひどく平凡な・即物的な」という意味になる。",
+    "it": "Quando indica il pianeta, Terra è spesso scritto con l’iniziale maiuscola, soprattutto nei testi astronomici e scientifici. Nei significati di suolo, terreno, terraferma o materiale si usa la minuscola. A terra indica spesso il movimento o il punto d’arrivo: cadere a terra, posare qualcosa a terra. Per terra mette frequentemente in rilievo una condizione di dispersione o una posizione sul pavimento o sul suolo. Sotto terra significa nel sottosuolo; sulla Terra significa sul nostro pianeta. Terra è il termine quotidiano per il materiale nel quale crescono le piante; terreno mette maggiormente in rilievo le caratteristiche del suolo o un appezzamento delimitato; suolo è spesso più tecnico. In opposizione al mare si usano terra e terraferma. Terra natale indica il luogo d’origine, mentre patria sottolinea maggiormente l’appartenenza nazionale o affettiva. Con i piedi per terra significa realistico; mettere qualcuno a terra può significare abbatterlo fisicamente o moralmente; fare terra bruciata significa distruggere completamente ciò che si trova in una zona. Terra terra descrive invece un ragionamento eccessivamente semplice, materiale o poco elevato."
+  },
+
+  "etymology": {
+    "ja": "ラテン語tĕrra「地・陸・土」を直接継承した語である。それより古い語源については完全には確定していない。ラテン語でもすでに、天上や海に対する地上、土という物質、地域・国などの意味を持っていた。同じ語族にはterreno「土地・地面」、terrestre「地球の・陸上の」、territorio「領域」、terrazza「テラス」、sotterraneo「地下の」などがある。フランス語terre、スペイン語・ポルトガル語tierra・terra、英語の学術語terrestrialも同じラテン語に由来する。",
+    "it": "Continua direttamente il latino tĕrra, «terra, suolo, parte emersa», la cui origine più remota non è completamente certa. Già in latino indicava il mondo terrestre contrapposto al cielo o al mare, il materiale del suolo e un territorio. Alla stessa famiglia appartengono terreno, terrestre, territorio, terrazza e sotterraneo. Derivano dalla stessa base il francese terre, lo spagnolo tierra, il portoghese terra e l’inglese dotto terrestrial."
+  },
+
+  "minimal": [
+    {
+      "word": "terra",
+      "ja": "地球、陸地、地面、土、農地、地域などを広く表す基本語",
+      "it": "termine generale per il pianeta, la parte emersa, il suolo, il materiale terroso o una regione"
+    },
+    {
+      "word": "terreno",
+      "ja": "性質や用途を持つ地面、または境界の定まった土地・区画",
+      "it": "suolo considerato nelle sue caratteristiche oppure appezzamento delimitato"
+    },
+    {
+      "word": "suolo",
+      "ja": "人や物を支える地表、または植物が育つ表層土壌",
+      "it": "superficie terrestre oppure strato superficiale nel quale crescono le piante"
+    },
+    {
+      "word": "terraferma",
+      "ja": "海や島・船上などに対する、大陸または連続した陸地",
+      "it": "parte stabile e continua della terra emersa contrapposta al mare"
+    },
+    {
+      "word": "territorio",
+      "ja": "国・自治体・組織などの境界や管轄によって定められた区域",
+      "it": "area delimitata da confini geografici, politici, amministrativi o giuridici"
+    }
+  ],
+
+  "synonyms": [
+    "suolo",
+    "terreno",
+    "terraferma",
+    "territorio",
+    "paese",
+    "patria",
+    "mondo"
+  ],
+
+  "equivalents": {
+    "en": [
+      "Earth",
+      "earth",
+      "land",
+      "ground",
+      "soil"
+    ],
+    "de": [
+      "Erde",
+      "Land",
+      "Boden",
+      "Erdreich"
+    ],
+    "fr": [
+      "Terre",
+      "terre",
+      "sol",
+      "terrain"
+    ],
+    "es": [
+      "Tierra",
+      "tierra",
+      "suelo",
+      "terreno"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "il pianeta Terra",
+      "ja": "惑星・地球"
+    },
+    {
+      "it": "cadere a terra",
+      "ja": "地面に倒れる・落ちる"
+    },
+    {
+      "it": "coltivare la terra",
+      "ja": "土地を耕作する"
+    },
+    {
+      "it": "la terra natale",
+      "ja": "故郷・生まれ故郷"
+    },
+    {
+      "it": "la messa a terra",
+      "ja": "電気設備の接地・アース"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "La Terra gira intorno al Sole e possiede un solo satellite naturale.",
+      "ja": "地球は太陽の周囲を回り、天然衛星を一つ持っています。"
+    },
+    {
+      "it": "Dobbiamo proteggere la Terra per le generazioni future.",
+      "ja": "将来の世代のために地球を守らなければなりません。"
+    },
+    {
+      "it": "Dopo tre settimane in mare, i marinai hanno finalmente visto la terra.",
+      "ja": "三週間の航海後、船員たちはようやく陸を目にしました。"
+    },
+    {
+      "it": "Il bicchiere è caduto a terra e si è rotto.",
+      "ja": "コップが床に落ちて割れました。"
+    },
+    {
+      "it": "C’erano libri e vestiti sparsi per terra.",
+      "ja": "床には本や衣服が散らばっていました。"
+    },
+    {
+      "it": "Ho aggiunto della terra nuova al vaso.",
+      "ja": "鉢に新しい土を加えました。"
+    },
+    {
+      "it": "La sua famiglia coltiva questa terra da molte generazioni.",
+      "ja": "彼の家族は何世代にもわたってこの土地を耕作しています。"
+    },
+    {
+      "it": "Dopo molti anni all’estero, è tornata nella sua terra natale.",
+      "ja": "長年の海外生活を経て、彼女は故郷へ戻りました。"
+    },
+    {
+      "it": "L’impianto elettrico deve essere collegato correttamente a terra.",
+      "ja": "電気設備は正しく接地されていなければなりません。"
+    },
+    {
+      "it": "Anche quando ha molto successo, rimane con i piedi per terra.",
+      "ja": "大きな成功を収めても、彼は現実的で地に足がついています。"
+    },
+    {
+      "it": "Questa spiegazione è un po’ troppo terra terra.",
+      "ja": "この説明はいささか単純で平凡すぎます。"
+    }
+  ]
 }
 ]
