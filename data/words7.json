@@ -3371,5 +3371,212 @@
       "ja": "かつての上流階級の邸宅では、給仕が食卓に仕え、来客を迎えていました。"
     }
   ]
-}
+},
+ {
+  "id": "bene",
+  "sid": "2026-00339",
+  "word": "bene",
+  "ipa": "/ˈbɛne/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "様態副詞・間投詞的用法・男性名詞",
+      "it": "avverbio di modo, uso interiettivo e sostantivo maschile"
+    },
+    "plural": "beni（名詞として「財産・資産」を表す場合）",
+    "pattern": "verbo + bene / stare, sentirsi o trovarsi bene / andare bene / voler bene a + persona / ben + aggettivo, avverbio o participio / il bene / i beni"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "health",
+      "relationships",
+      "work",
+      "evaluation",
+      "ethics",
+      "economics"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "行為を良い方法で、上手に、十分な質で行う、よく・上手に",
+      "物事を正しく、適切に、注意深く行う",
+      "計画・仕事・状況などが満足できるように進行または成功する",
+      "stare beneやsentirsi beneの形で、健康である・気分がよい",
+      "trovarsi beneの形で、場所・環境・人間関係などに満足し、快適に感じる",
+      "benの形で形容詞・副詞・過去分詞などを強め、十分に・しっかり・非常に",
+      "Bene!の形で、同意・満足・話題の転換などを示す、よし・分かりました・さて",
+      "voler bene aの形で、人を愛情・友情・親愛の気持ちで大切に思う",
+      "名詞として、善いもの・道徳的な善・利益・幸福",
+      "複数形beniで、所有される財産・資産・物品"
+    ],
+    "it": [
+      "In modo buono, efficace o soddisfacente.",
+      "In modo corretto, appropriato o accurato.",
+      "In maniera favorevole, con riferimento all’andamento o al risultato di una situazione.",
+      "Nelle espressioni stare bene e sentirsi bene, in buona salute o in una condizione piacevole.",
+      "Nell’espressione trovarsi bene, sentirsi a proprio agio o soddisfatti in un ambiente o con una persona.",
+      "Nella forma tronca ben, rafforza un aggettivo, un avverbio o un participio con il senso di «molto» o «compiutamente».",
+      "Come esclamazione o segnale discorsivo, esprime approvazione, accordo, conclusione o passaggio a un nuovo argomento.",
+      "Nella locuzione voler bene a, provare affetto, amicizia o amore non necessariamente romantico.",
+      "Come sostantivo, ciò che è buono, moralmente giusto, utile o favorevole.",
+      "Al plurale beni, cose, proprietà o risorse dotate di valore economico."
+    ]
+  },
+
+  "nuance": {
+    "ja": "beneは形容詞buonoに対応する副詞であるため、un buon lavoro「良い仕事」に対してlavorare bene「上手に働く」と言う。比較級はmeglio、強い最上級的表現はbenissimoまたはmolto beneである。形容詞・副詞・過去分詞の前ではbenという語尾を落とした形がよく使われ、ben fattoは「よくできた」、ben diversoは「大きく異なる」となる。stare beneは健康・外見・適合性など、andare beneは物事の順調な進行や許可・適合を表す。voler bene a qualcunoは、家族・友人などへの親愛を表し、恋愛的なamareより広く穏やかな表現である。名詞の複数形beniはbeni immobili「不動産」のように、経済的価値のある財産を表す。",
+    "it": "Bene è l’avverbio normalmente corrispondente all’aggettivo buono: un buon lavoro, ma lavorare bene. Il comparativo è meglio; per un grado molto elevato si usano benissimo o molto bene. Davanti ad aggettivi, avverbi e participi compare spesso la forma tronca ben: ben fatto, ben diverso, ben preparato. Stare bene può riferirsi alla salute, all’aspetto o all’appropriatezza; andare bene all’andamento soddisfacente, all’accettabilità o all’idoneità. Voler bene a qualcuno esprime affetto verso familiari, amici o altre persone ed è generalmente più ampio e meno specificamente romantico di amare. Al plurale, beni indica proprietà o risorse economicamente valutabili."
+  },
+
+  "etymology": {
+    "ja": "ラテン語bene「よく・正しく」に由来し、形容詞bonus「良い」に対応する副詞である。イタリア語でも、形容詞buonoと副詞beneという関係が受け継がれた。名詞のbene「善・利益」は副詞beneが名詞化したもので、複数形beniは価値のある物や財産を表すようになった。フランス語bien、スペイン語bien、ポルトガル語bemも同じラテン語beneに由来する。",
+    "it": "Deriva dal latino bene, «bene, correttamente», avverbio corrispondente all’aggettivo bonus, «buono». L’italiano conserva la distinzione tra l’aggettivo buono e l’avverbio bene. Dall’uso sostantivato dell’avverbio si è sviluppato il nome bene, «ciò che è buono o utile»; il plurale beni ha poi assunto anche il significato economico di proprietà e risorse. Hanno la stessa origine il francese bien, lo spagnolo bien e il portoghese bem."
+  },
+
+  "minimal": [
+    {
+      "word": "bene",
+      "ja": "行為・状態が良好、適切または満足できることを表す副詞",
+      "it": "avverbio che indica un modo corretto, soddisfacente o favorevole"
+    },
+    {
+      "word": "buono",
+      "ja": "人・物・性質などが良いことを表し、通常名詞を修飾する形容詞",
+      "it": "aggettivo che attribuisce una qualità positiva a una persona, cosa o situazione"
+    },
+    {
+      "word": "meglio",
+      "ja": "beneの比較級で、より良く・より上手に",
+      "it": "comparativo di bene, con il significato di «in modo migliore»"
+    },
+    {
+      "word": "male",
+      "ja": "行為・状態が悪い、不適切または不満足であることを表す",
+      "it": "indica un modo scorretto, sfavorevole o insoddisfacente"
+    },
+    {
+      "word": "benissimo",
+      "ja": "非常によく・申し分なくという高い程度を表す",
+      "it": "indica un modo estremamente buono o pienamente soddisfacente"
+    }
+  ],
+
+  "synonyms": [
+    "correttamente",
+    "adeguatamente",
+    "efficacemente",
+    "favorevolmente",
+    "vantaggio",
+    "benessere"
+  ],
+
+  "equivalents": {
+    "en": [
+      "well",
+      "fine",
+      "good",
+      "affection",
+      "asset"
+    ],
+    "de": [
+      "gut",
+      "wohl",
+      "das Gute",
+      "Zuneigung",
+      "Vermögenswert"
+    ],
+    "fr": [
+      "bien",
+      "le bien",
+      "affection",
+      "bien patrimonial"
+    ],
+    "es": [
+      "bien",
+      "el bien",
+      "cariño",
+      "bien patrimonial"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "stare bene",
+      "ja": "元気である・具合がよい"
+    },
+    {
+      "it": "andare bene",
+      "ja": "順調に進む・それでよい"
+    },
+    {
+      "it": "fare bene",
+      "ja": "上手に行う・よい効果を与える"
+    },
+    {
+      "it": "voler bene a qualcuno",
+      "ja": "誰かを大切に思う"
+    },
+    {
+      "it": "beni immobili",
+      "ja": "不動産"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Maria parla molto bene l’italiano.",
+      "ja": "マリアはイタリア語をとても上手に話します。"
+    },
+    {
+      "it": "Leggi bene le istruzioni prima di cominciare.",
+      "ja": "始める前に説明をよく読んでください。"
+    },
+    {
+      "it": "Il progetto sta andando bene.",
+      "ja": "プロジェクトは順調に進んでいます。"
+    },
+    {
+      "it": "Oggi non mi sento molto bene.",
+      "ja": "今日はあまり気分がよくありません。"
+    },
+    {
+      "it": "Mi trovo bene in questa città.",
+      "ja": "私はこの町で快適に暮らしています。"
+    },
+    {
+      "it": "È un lavoro ben fatto.",
+      "ja": "これはよくできた仕事です。"
+    },
+    {
+      "it": "Bene, possiamo cominciare la riunione.",
+      "ja": "では、会議を始めましょう。"
+    },
+    {
+      "it": "Voglio molto bene ai miei genitori.",
+      "ja": "私は両親をとても大切に思っています。"
+    },
+    {
+      "it": "Dobbiamo distinguere il bene dal male.",
+      "ja": "私たちは善と悪を区別しなければなりません。"
+    },
+    {
+      "it": "L’azienda possiede diversi beni immobili.",
+      "ja": "その会社は複数の不動産を所有しています。"
+    }
+  ]
+} 
 ]
