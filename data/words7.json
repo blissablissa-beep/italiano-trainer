@@ -7826,5 +7826,313 @@
       "ja": "その提案は中途半端で、さらに明確にする必要があります。"
     }
   ]
+},
+{
+  "id": "lungo",
+  "sid": "2026-00358",
+  "word": "lungo",
+  "ipa": "/ˈluŋɡo/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adjective",
+    "label": {
+      "ja": "形容詞・前置詞・男性名詞・限定的な副詞的用法",
+      "it": "aggettivo, preposizione, sostantivo maschile e uso avverbiale limitato"
+    },
+    "adjectiveForms": [
+      "lungo",
+      "lunga",
+      "lunghi",
+      "lunghe"
+    ],
+    "comparative": "più lungo",
+    "superlative": "il più lungo / lunghissimo",
+    "pattern": "essere lungo + misura / nome + lungo / lungo + nome / più lungo di + termine di confronto / lungo + nome senza altra preposizione / a lungo / alla lunga / a lungo termine / andare per le lunghe"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "formal",
+      "figurative",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "description",
+      "measurement",
+      "time",
+      "travel",
+      "clothing",
+      "work",
+      "planning",
+      "linguistics"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "物が端から端まで大きな長さを持つ、長い",
+      "物が特定の長さを持つ、長さが～である",
+      "髪・腕・脚・首などが通常より長い",
+      "衣服・袖・裾などが長い",
+      "道・経路・距離などが長く伸びている",
+      "旅行・会議・待ち時間・人生などが長く続く",
+      "文章・話・説明などが長く、場合によっては冗長な",
+      "投球・射撃・パスなどが目標を越えて遠くまで届く",
+      "口語で、人の背が高く、しばしば細身である",
+      "口語で、行動や返答に時間がかかる、のろい",
+      "コーヒー・スープなどに通常より多くの水が入っている",
+      "音声学で、発音の持続時間が長い母音・子音・音節",
+      "前置詞として、道・川・壁などに沿って",
+      "前置詞として、ある場所・物の全長にわたって",
+      "前置詞として、旅行・歴史などの期間を通じて",
+      "a lungoの形で、長い間・詳しく",
+      "alla lungaの形で、長い時間が経過すれば・結局は",
+      "a lungo termineの形で、長期的な・長期にわたって",
+      "andare per le lungheの形で、物事が必要以上に長引く",
+      "名詞的に、物の長さ・長い方向"
+    ],
+    "it": [
+      "Che presenta una notevole estensione da un’estremità all’altra.",
+      "Che possiede una determinata misura nella dimensione della lunghezza.",
+      "Di capelli o parti del corpo, dotato di notevole lunghezza.",
+      "Di un indumento, una manica o un orlo, che si estende per una notevole lunghezza.",
+      "Di una strada, un percorso o una distanza, molto esteso.",
+      "Di un viaggio, una riunione, un’attesa o una vita, che dura molto tempo.",
+      "Di un testo, un discorso o una spiegazione, molto esteso e talvolta prolisso.",
+      "Di un tiro, un lancio o un passaggio, che supera il punto verso il quale era diretto.",
+      "Nel linguaggio colloquiale, di persona alta e spesso magra o longilinea.",
+      "Nel linguaggio colloquiale, lento nell’agire, nel prepararsi o nel rispondere.",
+      "Di caffè, brodo o altra bevanda, preparato con una quantità d’acqua maggiore del normale.",
+      "In fonetica, di vocale, consonante o sillaba dotata di maggiore durata.",
+      "Come preposizione, seguendo o costeggiando una strada, un fiume, un muro o un altro elemento lineare.",
+      "Come preposizione, per tutta l’estensione di un luogo o di un oggetto.",
+      "Come preposizione, durante tutto o parte di un viaggio, di un processo o di un periodo.",
+      "Nella locuzione a lungo, per molto tempo oppure in modo dettagliato.",
+      "Nella locuzione alla lunga, con il passare del tempo o come risultato finale.",
+      "Nella locuzione a lungo termine, destinato a durare o a realizzarsi in un periodo esteso.",
+      "Nella locuzione andare per le lunghe, prolungarsi più del necessario o del previsto.",
+      "Come sostantivo, la dimensione maggiore o la direzione della lunghezza."
+    ]
+  },
+
+  "nuance": {
+    "ja": "lungoは基本的に、物の主要な方向における端から端までの長さを表し、cortoの反対語である。Un tavolo lungo due metri e largo ottanta centimetriでは、lungoが長さ、largoが幅を表す。人の身長には通常altoを使い、È altoと言う。人についてlungoを使うと、単に背が高いだけでなく、細長い体格や手足の長さを強調する口語的な表現になることがある。時間についてはun lungo viaggio、una lunga attesaのように使える。a lungoは副詞句で「長い間」を意味し、Ho aspettato a lungoとなる。alla lungaは動作の継続時間ではなく、「長い時間が経過すると、最終的には」という結果を表す。duraturoは単に時間が長いだけでなく、効果・関係・価値などが長く維持されることを示す。前置詞のlungoは、lungo il fiumeのように名詞を直接伴い、lungo al fiumeとは通常言わない。caffè lungoは通常より多くの湯で抽出したコーヒーで、caffè cortoまたはristrettoの反対に近い。",
+    "it": "Lungo indica principalmente l’estensione da un’estremità all’altra ed è il contrario di corto. In Un tavolo lungo due metri e largo ottanta centimetri, lungo riguarda la lunghezza e largo la larghezza. Per la statura di una persona si usa normalmente alto. Riferito a una persona, lungo può suggerire colloquialmente una figura alta, magra o con arti particolarmente sviluppati. Con valore temporale si usa in espressioni come un lungo viaggio o una lunga attesa. A lungo è una locuzione avverbiale che indica durata: Ho aspettato a lungo. Alla lunga non indica direttamente quanto dura un’azione, ma il risultato che emerge con il passare del tempo. Duraturo sottolinea invece la capacità di un effetto, un rapporto o un oggetto di conservarsi nel tempo. Come preposizione, lungo introduce direttamente il nome: lungo il fiume, non normalmente lungo al fiume. Un caffè lungo contiene più acqua di un caffè ordinario ed è vicino al contrario di corto o ristretto."
+  },
+
+  "etymology": {
+    "ja": "ラテン語longus「長い、遠くまで伸びた、長く続く」に由来する。ラテン語でも空間的な長さと時間的な長さの両方を表しており、この二つの基本的な意味はイタリア語にそのまま受け継がれた。形容詞から、「～に沿って」という前置詞用法や、a lungo「長い間」、alla lunga「長い目で見れば」などの表現が発達した。同じ語族にはlunghezza、allungare、prolungare、lungomare、lungofiume、lungimiranteがある。フランス語long、ポルトガル語longo、ルーマニア語lungも同じラテン語に由来する。",
+    "it": "Deriva dal latino longus, «lungo, esteso, distante o duraturo». Già in latino la parola poteva riferirsi sia all’estensione nello spazio sia alla durata nel tempo, valori conservati in italiano. Dall’aggettivo si sono sviluppati l’uso preposizionale con il significato di «seguendo, costeggiando» e locuzioni come a lungo e alla lunga. Alla stessa famiglia appartengono lunghezza, allungare, prolungare, lungomare, lungofiume e lungimirante. Derivano dalla stessa base latina anche il francese long, il portoghese longo e il romeno lung."
+  },
+
+  "minimal": [
+    {
+      "word": "lungo",
+      "ja": "物の端から端までの距離、または出来事の継続時間が大きい",
+      "it": "indica una notevole estensione nello spazio oppure nel tempo"
+    },
+    {
+      "word": "corto",
+      "ja": "物の端から端までの長さ、または継続時間が小さい",
+      "it": "indica un’estensione spaziale o temporale ridotta"
+    },
+    {
+      "word": "alto",
+      "ja": "地面などを基準にした縦方向の高さ、または人の身長が大きい",
+      "it": "indica una notevole altezza verticale oppure una statura elevata"
+    },
+    {
+      "word": "largo",
+      "ja": "左右方向の幅や、通路・物の横方向の広がりが大きい",
+      "it": "indica una notevole estensione nella dimensione della larghezza"
+    },
+    {
+      "word": "duraturo",
+      "ja": "効果・関係・状態などが長期間失われずに維持される",
+      "it": "indica qualcosa capace di conservarsi o produrre effetti per molto tempo"
+    }
+  ],
+
+  "synonyms": [
+    "esteso",
+    "prolungato",
+    "duraturo",
+    "interminabile",
+    "diffuso",
+    "prolisso",
+    "longilineo",
+    "lento",
+    "allungato"
+  ],
+
+  "equivalents": {
+    "en": [
+      "long",
+      "lengthy",
+      "tall",
+      "along",
+      "throughout",
+      "long-term"
+    ],
+    "de": [
+      "lang",
+      "langwierig",
+      "ausgedehnt",
+      "entlang",
+      "während",
+      "langfristig"
+    ],
+    "fr": [
+      "long",
+      "prolongé",
+      "étendu",
+      "le long de",
+      "pendant",
+      "à long terme"
+    ],
+    "es": [
+      "largo",
+      "prolongado",
+      "extenso",
+      "a lo largo de",
+      "durante",
+      "a largo plazo"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "un tavolo lungo due metri",
+      "ja": "長さ2メートルのテーブル"
+    },
+    {
+      "it": "portare i capelli lunghi",
+      "ja": "髪を長くしている"
+    },
+    {
+      "it": "una maglietta a maniche lunghe",
+      "ja": "長袖のシャツ"
+    },
+    {
+      "it": "fare un lungo viaggio",
+      "ja": "長い旅行をする"
+    },
+    {
+      "it": "aspettare a lungo",
+      "ja": "長い間待つ"
+    },
+    {
+      "it": "camminare lungo il fiume",
+      "ja": "川沿いを歩く"
+    },
+    {
+      "it": "ordinare un caffè lungo",
+      "ja": "湯を多めに使ったコーヒーを注文する"
+    },
+    {
+      "it": "un progetto a lungo termine",
+      "ja": "長期的な計画"
+    },
+    {
+      "it": "una relazione di lunga data",
+      "ja": "長年にわたる関係"
+    },
+    {
+      "it": "andare per le lunghe",
+      "ja": "予定以上に長引く"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "La barca è lunga otto metri e larga tre.",
+      "ja": "その船は長さ8メートル、幅3メートルです。"
+    },
+    {
+      "it": "Questa corda non è abbastanza lunga.",
+      "ja": "このロープは十分な長さがありません。"
+    },
+    {
+      "it": "Mia moglie porta i capelli lunghi.",
+      "ja": "妻は髪を長くしています。"
+    },
+    {
+      "it": "Per il viaggio ho portato una camicia a maniche lunghe.",
+      "ja": "旅行には長袖のシャツを持っていきました。"
+    },
+    {
+      "it": "Abbiamo ancora una lunga strada davanti a noi.",
+      "ja": "私たちの前にはまだ長い道のりがあります。"
+    },
+    {
+      "it": "Il viaggio in treno è stato più lungo del previsto.",
+      "ja": "列車での移動は予定より長くかかりました。"
+    },
+    {
+      "it": "Dopo una lunga attesa, il medico ci ha ricevuti.",
+      "ja": "長く待った後、医師が私たちを診察しました。"
+    },
+    {
+      "it": "Il direttore ha fatto un discorso troppo lungo.",
+      "ja": "責任者はあまりにも長い演説をしました。"
+    },
+    {
+      "it": "Il passaggio era troppo lungo e la palla ha superato il compagno.",
+      "ja": "パスが長すぎて、ボールは味方の選手を越えてしまいました。"
+    },
+    {
+      "it": "Quel ragazzo è lungo e magro, con le gambe sottili.",
+      "ja": "その青年は背が高く細身で、脚も細いです。"
+    },
+    {
+      "it": "Sbrigati: sei sempre troppo lungo nel prepararti.",
+      "ja": "急いでください。あなたはいつも支度に時間がかかりすぎます。"
+    },
+    {
+      "it": "Dopo pranzo preferisco bere un caffè lungo.",
+      "ja": "昼食後には、湯を多めに使ったコーヒーを飲むほうが好きです。"
+    },
+    {
+      "it": "In italiano alcune consonanti possono essere brevi o lunghe.",
+      "ja": "イタリア語では、一部の子音に短子音と長子音があります。"
+    },
+    {
+      "it": "Abbiamo passeggiato lungo la riva fino al porto.",
+      "ja": "私たちは港まで岸沿いを歩きました。"
+    },
+    {
+      "it": "Lungo il viaggio abbiamo parlato dei nostri progetti.",
+      "ja": "旅行の間、私たちは自分たちの計画について話しました。"
+    },
+    {
+      "it": "Non posso restare a lungo perché domani devo lavorare.",
+      "ja": "明日は働かなければならないので、長居はできません。"
+    },
+    {
+      "it": "Alla lunga, questo ritmo di lavoro diventerà insostenibile.",
+      "ja": "長い目で見れば、この仕事のペースは維持できなくなるでしょう。"
+    },
+    {
+      "it": "Dobbiamo valutare gli effetti del progetto a lungo termine.",
+      "ja": "その計画の長期的な影響を評価しなければなりません。"
+    },
+    {
+      "it": "La trattativa rischia di andare per le lunghe.",
+      "ja": "その交渉は長引くおそれがあります。"
+    },
+    {
+      "it": "Questo percorso è di gran lunga più lungo dell’altro.",
+      "ja": "この経路はもう一方よりはるかに長いです。"
+    }
+  ]
 }  
 ]
