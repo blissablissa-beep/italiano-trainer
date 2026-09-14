@@ -1121,6 +1121,183 @@
   ]
 },
 {
+  "id": "di-rado",
+  "sid": "2026-00327",
+  "word": "di rado",
+  "ipa": "/di ˈrado/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "adverbial_phrase",
+    "label": {
+      "ja": "副詞句・頻度表現",
+      "it": "locuzione avverbiale di frequenza"
+    },
+    "pattern": "verbo + di rado / di rado + frase / assai, molto o piuttosto di rado / sempre più di rado"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "narration",
+      "business",
+      "academic",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "行為・出来事がごく少ない機会にしか起こらない、めったに～ない",
+      "ある行動を習慣としてほとんど行わない",
+      "通常ではなく、例外的な場合にだけ起こる",
+      "現象・事例・特徴などがまれにしか観察されない",
+      "長い時間的間隔を置いて、わずかな回数だけ起こる"
+    ],
+    "it": [
+      "In poche occasioni e con bassa frequenza.",
+      "Con riferimento a un comportamento, quasi mai come abitudine.",
+      "Non abitualmente, ma soltanto in circostanze eccezionali.",
+      "Con riferimento a un fenomeno, un caso o una caratteristica, in modo poco frequente.",
+      "A intervalli di tempo lunghi e per un numero limitato di volte."
+    ]
+  },
+
+  "nuance": {
+    "ja": "di radoはraramenteとほぼ同じ意味で、すでに否定的な頻度を表すため、通常nonを必要としない。Vado di rado al cinemaは「私はめったに映画館へ行かない」という意味になる。raramenteより短い表現で、日常会話でも使えるが、文脈によってはやや落ち着いた、文章語的な響きを持つ。quasi maiは頻度がほぼゼロであることをより強く示す。一方、a volteは単に「ときどき」を意味し、di radoほど頻度の低さを強調しない。sempre più di radoは、ある行為の頻度が次第に低くなっていることを表す。",
+    "it": "Di rado è quasi completamente intercambiabile con raramente e, avendo già un valore negativo, normalmente non richiede non. Vado di rado al cinema significa che ci vado poche volte. È un’espressione breve e possibile anche nella conversazione, sebbene in alcuni contesti possa avere un tono più misurato o letterario di raramente. Quasi mai avvicina maggiormente la frequenza allo zero, mentre a volte indica semplicemente un fatto occasionale senza sottolinearne altrettanto la rarità. Sempre più di rado indica una frequenza che diminuisce progressivamente."
+  },
+
+  "etymology": {
+    "ja": "前置詞diと、副詞rado「まれに」から構成される。radoはラテン語rārus「まばらな・間隔の空いた・まれな」に由来し、二つのrの一方がdへ変化する異化によって生じた形と説明される。raroも同じラテン語から受け継がれた並行形である。物が空間的にまばらであるという意味から、出来事が時間的にまれであるという意味が発達した。",
+    "it": "È formata dalla preposizione di e dall’avverbio rado. Rado deriva dal latino rārus, «sparso, poco fitto, raro», ed è generalmente spiegato come risultato della dissimilazione di una delle due r della forma latina. Raro rappresenta una forma parallela della stessa origine. Dal significato spaziale di elementi distanti si è sviluppato quello temporale di eventi poco frequenti."
+  },
+
+  "minimal": [
+    {
+      "word": "di rado",
+      "ja": "ごく少ない機会にしか起こらないことを表す簡潔な「めったに」",
+      "it": "indica in modo conciso che qualcosa avviene in poche occasioni"
+    },
+    {
+      "word": "raramente",
+      "ja": "di radoとほぼ同義で、低い頻度を中立的かつ明示的に表す",
+      "it": "sinonimo quasi perfetto di di rado che esprime una frequenza bassa"
+    },
+    {
+      "word": "quasi mai",
+      "ja": "頻度がゼロに近く、ほとんど起こらないことを強調する",
+      "it": "sottolinea che la frequenza di un fatto è molto vicina allo zero"
+    },
+    {
+      "word": "a volte",
+      "ja": "不定のいくつかの機会に起こることを表し、低頻度を強く示さない",
+      "it": "indica alcune occasioni senza insistere particolarmente sulla bassa frequenza"
+    },
+    {
+      "word": "sporadicamente",
+      "ja": "規則性がなく、互いに離れた事例として散発的に起こる",
+      "it": "indica fatti isolati che si verificano senza regolarità"
+    }
+  ],
+
+  "synonyms": [
+    "raramente",
+    "poche volte",
+    "quasi mai",
+    "infrequentemente",
+    "saltuariamente",
+    "sporadicamente"
+  ],
+
+  "equivalents": {
+    "en": [
+      "rarely",
+      "seldom",
+      "infrequently"
+    ],
+    "de": [
+      "selten",
+      "nur selten",
+      "kaum"
+    ],
+    "fr": [
+      "rarement",
+      "peu souvent",
+      "exceptionnellement"
+    ],
+    "es": [
+      "rara vez",
+      "pocas veces",
+      "raramente"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "andare di rado",
+      "ja": "めったに行かない"
+    },
+    {
+      "it": "accadere di rado",
+      "ja": "めったに起こらない"
+    },
+    {
+      "it": "molto di rado",
+      "ja": "ごくまれに"
+    },
+    {
+      "it": "sempre più di rado",
+      "ja": "次第にまれに・以前ほど頻繁には～なく"
+    },
+    {
+      "it": "di rado senza conseguenze",
+      "ja": "結果を伴わないことはめったにない"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Vado di rado al cinema durante la settimana.",
+      "ja": "私は平日に映画館へ行くことはめったにありません。"
+    },
+    {
+      "it": "Marco si lamenta di rado.",
+      "ja": "マルコが不平を言うことはめったにありません。"
+    },
+    {
+      "it": "Questa espressione si incontra di rado nella lingua parlata.",
+      "ja": "この表現は話し言葉ではめったに見られません。"
+    },
+    {
+      "it": "Le occasioni di parlare direttamente con il direttore capitano di rado.",
+      "ja": "責任者と直接話す機会はめったにありません。"
+    },
+    {
+      "it": "Un negoziato così complesso si conclude di rado in pochi giorni.",
+      "ja": "これほど複雑な交渉が数日でまとまることはめったにありません。"
+    },
+    {
+      "it": "Negli ultimi anni prendiamo l’aereo sempre più di rado.",
+      "ja": "ここ数年、私たちは飛行機を利用することが次第に少なくなっています。"
+    },
+    {
+      "it": "La vera semplicità si ottiene di rado senza molto lavoro.",
+      "ja": "真の簡潔さは、多大な努力なしに得られることはめったにありません。"
+    }
+  ]
+},
+{
   "id": "pullman",
   "sid": "2026-00332",
   "word": "pullman",
