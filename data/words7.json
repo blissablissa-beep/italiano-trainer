@@ -2599,5 +2599,203 @@
       "ja": "古代ローマでは、piscinaは魚の養殖に使われる池を指すことがありました。"
     }
   ]
+},
+{
+  "id": "bagno",
+  "sid": "2026-00335",
+  "word": "bagno",
+  "ipa": "/ˈbaɲɲo/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "bagni",
+    "pattern": "andare o essere in bagno / fare il bagno / fare un bagno + aggettivo / bagno di o in + sostanza / mettere o tenere a bagno"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "travel",
+      "hotel",
+      "health",
+      "leisure"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "浴槽・シャワー・洗面台・便器などを備えた浴室",
+      "便器を備えたトイレ・化粧室を表す、一般的で婉曲的な呼び方",
+      "身体を水や湯に浸して洗ったりくつろいだりすること、入浴",
+      "海・川・湖・プールなどに入って泳いだり水浴びしたりすること",
+      "身体またはその一部を水・泥・蒸気・薬液などにさらす処置",
+      "食品・衣類・物体などを液体へ浸すこと",
+      "物を薬品・染料などへ浸す工程、またはそのために使用する液体",
+      "公衆浴場・温泉・海水浴場などの入浴・水浴び施設",
+      "bagno di follaやbagno di sangueなどの形で、人や物に大量に囲まれたり満たされたりする状態"
+    ],
+    "it": [
+      "Stanza dotata di sanitari, lavabo, doccia o vasca.",
+      "Locale contenente il gabinetto, indicato in modo comune e discreto.",
+      "Azione di immergere il corpo nell’acqua per lavarsi o rilassarsi.",
+      "Azione di entrare in mare, in un lago, in un fiume o in piscina per nuotare o rinfrescarsi.",
+      "Trattamento che espone il corpo o una sua parte ad acqua, fango, vapore o altre sostanze.",
+      "Immersione di alimenti, indumenti o oggetti in un liquido.",
+      "Procedimento nel quale un materiale viene immerso in una soluzione chimica, un colorante o un altro liquido.",
+      "Struttura pubblica, termale o balneare destinata al bagno.",
+      "In espressioni figurate come bagno di folla o bagno di sangue, situazione caratterizzata dalla presenza di una grande quantità di persone o di una sostanza."
+    ]
+  },
+
+  "nuance": {
+    "ja": "Dov’è il bagno?は、旅行先・飲食店・公共施設などで「トイレはどこですか」と尋ねる最も一般的な表現であり、浴槽の場所を尋ねているわけではない。andare in bagnoも通常「トイレへ行く」を意味する。fare il bagnoは、自宅では「浴槽につかる」、海・湖・プールでは「泳ぐ・水浴びする」と文脈によって意味が変わる。シャワーを浴びる場合はfare la docciaと言い、vascaは湯や水をためる浴槽そのものを指す。食品・衣類・物などを液体に浸しておく場合は、mettereまたはtenere a bagnoを使う。",
+    "it": "Dov’è il bagno? è il modo più comune e neutro per chiedere dove si trovi la toilette e non costituisce normalmente una domanda sulla vasca. Anche andare in bagno indica in genere l’andare alla toilette. Fare il bagno può significare lavarsi immergendosi nella vasca oppure nuotare e rinfrescarsi al mare, al lago o in piscina. Per lavarsi sotto la doccia si usa fare la doccia, mentre vasca indica il recipiente nel quale ci si immerge. Per alimenti, indumenti e oggetti immersi in un liquido si usano comunemente mettere a bagno e tenere a bagno."
+  },
+
+  "etymology": {
+    "ja": "ラテン語balneumまたはbalĭneum「浴場・入浴」に由来し、さらに古代ギリシア語balaneîon「浴場」にさかのぼる。話し言葉における音韻変化を経て、イタリア語bagnoとなった。同じ語族にはbagnare「ぬらす」、bagnarsi「ぬれる・水浴びする」、bagnato「ぬれた」、bagnante「水浴びする人」、balneare「海水浴の」などがある。",
+    "it": "Deriva dal latino balneum o balĭneum, «bagno, stabilimento balneare», a sua volta proveniente dal greco balaneîon, «luogo per il bagno». Attraverso l’evoluzione fonetica del latino parlato si è formata la parola italiana bagno. Alla stessa famiglia appartengono bagnare, bagnarsi, bagnato, bagnante e balneare."
+  },
+
+  "minimal": [
+    {
+      "word": "bagno",
+      "ja": "浴室・トイレとして使われる部屋、または入浴・水浴びという行為",
+      "it": "stanza con servizi igienici oppure azione di lavarsi o immergersi nell’acqua"
+    },
+    {
+      "word": "vasca",
+      "ja": "水や湯をため、身体を浸すための浴槽そのもの",
+      "it": "recipiente nel quale si raccoglie l’acqua per immergere il corpo"
+    },
+    {
+      "word": "doccia",
+      "ja": "上から流れる水で身体を洗う設備、またはその行為",
+      "it": "impianto che fa cadere acqua sul corpo oppure lavaggio effettuato con tale impianto"
+    },
+    {
+      "word": "toilette",
+      "ja": "トイレを指す、やや婉曲的または国際的な表現",
+      "it": "termine di origine francese usato come denominazione discreta del gabinetto"
+    },
+    {
+      "word": "servizi igienici",
+      "ja": "公共施設などでトイレを示す改まった一般的な表現",
+      "it": "espressione formale che indica i locali dotati di gabinetti e lavabi"
+    }
+  ],
+
+  "synonyms": [
+    "toilette",
+    "servizi igienici",
+    "gabinetto",
+    "immersione",
+    "balneazione"
+  ],
+
+  "equivalents": {
+    "en": [
+      "bathroom",
+      "restroom",
+      "bath",
+      "swim",
+      "soak"
+    ],
+    "de": [
+      "Badezimmer",
+      "Toilette",
+      "Bad",
+      "Baden"
+    ],
+    "fr": [
+      "salle de bains",
+      "toilettes",
+      "bain",
+      "baignade"
+    ],
+    "es": [
+      "baño",
+      "cuarto de baño",
+      "aseo",
+      "baño en el agua"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "andare in bagno",
+      "ja": "トイレへ行く"
+    },
+    {
+      "it": "fare il bagno",
+      "ja": "入浴する・泳ぐ・水浴びする"
+    },
+    {
+      "it": "fare un bagno caldo",
+      "ja": "温かい風呂に入る"
+    },
+    {
+      "it": "costume da bagno",
+      "ja": "水着"
+    },
+    {
+      "it": "mettere a bagno",
+      "ja": "水や液体に浸しておく"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Scusi, dov’è il bagno?",
+      "ja": "すみません、トイレはどこですか。"
+    },
+    {
+      "it": "Il nostro appartamento ha due camere e un bagno.",
+      "ja": "私たちのアパートには寝室が二つと浴室が一つあります。"
+    },
+    {
+      "it": "Dopo il lavoro ho fatto un bagno caldo.",
+      "ja": "仕事のあと、私は温かい風呂に入りました。"
+    },
+    {
+      "it": "I bambini stanno facendo il bagno in mare.",
+      "ja": "子供たちは海で泳いでいます。"
+    },
+    {
+      "it": "Oggi l’acqua è troppo fredda per fare il bagno.",
+      "ja": "今日は水が冷たすぎて泳げません。"
+    },
+    {
+      "it": "Il medico mi ha consigliato un bagno caldo per i piedi.",
+      "ja": "医師は私に温かい足湯を勧めました。"
+    },
+    {
+      "it": "Metti i ceci a bagno per tutta la notte.",
+      "ja": "ひよこ豆を一晩中水に浸しておいてください。"
+    },
+    {
+      "it": "Il metallo viene immerso in un bagno chimico.",
+      "ja": "その金属は薬液槽に浸されます。"
+    },
+    {
+      "it": "L’arrivo del campione si è trasformato in un bagno di folla.",
+      "ja": "優勝者の到着は大勢の人々に囲まれる歓迎の場となりました。"
+    }
+  ]
 }
 ]
