@@ -5498,5 +5498,241 @@
       "ja": "その子供は紙飛行機を作りました。"
     }
   ]
+},
+{
+  "id": "aereo",
+  "sid": "2026-00349",
+  "word": "aereo",
+  "ipa": "/aˈɛreo/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞・形容詞",
+      "it": "sostantivo maschile e aggettivo"
+    },
+    "gender": "masculine",
+    "plural": "aerei",
+    "adjectiveForms": [
+      "aereo",
+      "aerea",
+      "aerei",
+      "aeree"
+    ],
+    "pattern": "l’aereo / gli aerei / andare o viaggiare in aereo / salire sull’aereo / scendere dall’aereo / aereo da o di + funzione / nome maschile + aereo / nome femminile + aerea / nomi maschili + aerei / nomi femminili + aeree"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "technical",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "transport",
+      "aviation",
+      "business",
+      "military",
+      "technology",
+      "botany"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "男性名詞として、固定翼と動力装置を備えて空を飛ぶ飛行機",
+      "乗客・貨物・軍事物資などを運ぶ個々の航空機",
+      "形容詞として、空気の・空気から成る",
+      "空中にある、地面より高い位置に設けられた",
+      "航空・航空機・航空交通に関係する",
+      "航空機を使って行われる、空路による",
+      "植物学で、地中ではなく地上・空中に発達する",
+      "比喩的に、空気のように軽やかで優美な",
+      "比喩的に、現実的な根拠がなく空想的な",
+      "古い無線技術用語で、外部アンテナ"
+    ],
+    "it": [
+      "Come sostantivo maschile, forma abbreviata e comune di aeroplano.",
+      "Singolo velivolo destinato al trasporto civile, commerciale o militare.",
+      "Come aggettivo, relativo all’aria o formato d’aria.",
+      "Situato, sospeso o costruito al di sopra del terreno.",
+      "Relativo all’aviazione, agli aeromobili o alla navigazione nell’aria.",
+      "Effettuato mediante aeromobili o attraverso una rotta nell’aria.",
+      "In botanica, sviluppato al di sopra del terreno anziché nel suolo.",
+      "In senso figurato, leggero, lieve, delicato o etereo.",
+      "In senso figurato, privo di concretezza o di fondamento reale.",
+      "In un uso radiotecnico storico, antenna esterna di un apparecchio radio."
+    ]
+  },
+
+  "nuance": {
+    "ja": "男性名詞のaereoはaeroplanoの短縮形で、現代の日常会話では完全形より一般的である。複数形はaerei。移動手段にはandare・viaggiare in aereo「飛行機で行く」を使い、特定の機体についてはessere sull’aereo「飛行機に乗っている」、salire sull’aereo「搭乗する」、scendere dall’aereo「降りる」と言う。prendere l’aereoは「飛行機に乗る」、perdere l’aereoは「飛行機に乗り遅れる」である。voloは機体ではなく、飛行という行為または時刻表上の航空便を指すため、Il volo è stato cancellato「便が欠航した」とIl mio aereo è già arrivato「私の乗る機体はもう到着した」を区別できる。形容詞のaereoはaerea・aerei・aereeと性数一致し、trasporto aereo、compagnia aerea、spazio aereo、linee aereeとなる。aeromobileは飛行機・ヘリコプターなどを含む技術的・法的な上位概念、velivoloは航空機を広く表す改まった語である。",
+    "it": "Come sostantivo, aereo è l’abbreviazione di aeroplano ed è oggi la forma più comune nella conversazione. Il plurale è aerei. Per indicare il mezzo di trasporto si dice andare o viaggiare in aereo; riferendosi a un velivolo determinato si usano essere sull’aereo, salire sull’aereo e scendere dall’aereo. Prendere l’aereo significa utilizzarlo per un viaggio; perdere l’aereo significa arrivare troppo tardi per la partenza. Volo non indica normalmente il veicolo fisico, ma l’azione del volare o un servizio previsto dall’orario: il volo è stato cancellato, mentre l’aereo ha avuto un guasto. Come aggettivo, aereo concorda con il nome: trasporto aereo, compagnia aerea, voli aerei, linee aeree. Aeromobile è un termine tecnico e giuridico più ampio, mentre velivolo è una denominazione generale dal tono più formale."
+  },
+
+  "etymology": {
+    "ja": "形容詞aereoはラテン語aĕrĭus「空気の」に由来し、その基礎にはラテン語aer、古代ギリシア語aḗr「空気」がある。男性名詞aereo「飛行機」は20世紀初頭にaeroplanoを短縮して成立した。したがって、形容詞としての古いaereoから、航空技術の発達後に名詞用法が派生したことになる。同じ語族にはaria「空気」、aeroplano「飛行機」、aeromobile「航空機」、aeroporto「空港」、aeronautica「航空学・航空部門」などがある。",
+    "it": "L’aggettivo deriva dal latino aĕrĭus, «dell’aria», formato da aer, a sua volta dal greco antico aḗr, «aria». Il sostantivo maschile aereo, attestato nel Novecento, nasce invece come accorciamento di aeroplano. Alla stessa famiglia appartengono aeroplano, aeromobile, aeroporto, aeronautica e aerodinamica."
+  },
+
+  "minimal": [
+    {
+      "word": "aereo",
+      "ja": "名詞では日常的な「飛行機」、形容詞では「空中の・航空の」",
+      "it": "come sostantivo aeroplano; come aggettivo relativo all’aria o all’aviazione"
+    },
+    {
+      "word": "aeroplano",
+      "ja": "固定翼と動力装置を持つ飛行機を表す完全な語形",
+      "it": "forma completa per un velivolo ad ali fisse dotato di propulsione"
+    },
+    {
+      "word": "volo",
+      "ja": "飛ぶ行為、飛行の過程、または時刻表上の航空便",
+      "it": "azione del volare, viaggio nell’aria oppure servizio aereo previsto dall’orario"
+    },
+    {
+      "word": "aeromobile",
+      "ja": "飛行機・ヘリコプターなどを含む、空中を航行する機体の上位概念",
+      "it": "termine tecnico e giuridico generale per un mezzo capace di navigare nell’aria"
+    },
+    {
+      "word": "elicottero",
+      "ja": "回転翼によって飛行し、垂直離着陸できる航空機",
+      "it": "aeromobile sostenuto da pale rotanti e capace di decollo verticale"
+    }
+  ],
+
+  "synonyms": [
+    "aeroplano",
+    "velivolo",
+    "aeromobile",
+    "apparecchio",
+    "volante",
+    "etereo"
+  ],
+
+  "equivalents": {
+    "en": [
+      "plane",
+      "airplane",
+      "aircraft",
+      "aerial",
+      "air"
+    ],
+    "de": [
+      "Flugzeug",
+      "Luftfahrzeug",
+      "Luft-",
+      "oberirdisch"
+    ],
+    "fr": [
+      "avion",
+      "aérien",
+      "aérienne",
+      "aéronautique"
+    ],
+    "es": [
+      "avión",
+      "aéreo",
+      "aérea",
+      "aeronave"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "prendere l’aereo",
+      "ja": "飛行機に乗る"
+    },
+    {
+      "it": "perdere l’aereo",
+      "ja": "飛行機に乗り遅れる"
+    },
+    {
+      "it": "viaggiare in aereo",
+      "ja": "飛行機で旅行する"
+    },
+    {
+      "it": "salire sull’aereo",
+      "ja": "飛行機に搭乗する"
+    },
+    {
+      "it": "un biglietto aereo",
+      "ja": "航空券"
+    },
+    {
+      "it": "una compagnia aerea",
+      "ja": "航空会社"
+    },
+    {
+      "it": "il trasporto aereo",
+      "ja": "航空輸送"
+    },
+    {
+      "it": "lo spazio aereo",
+      "ja": "領空・空域"
+    },
+    {
+      "it": "un attacco aereo",
+      "ja": "航空攻撃・空襲"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Domani prenderò l’aereo delle otto per Roma.",
+      "ja": "明日は8時発のローマ行きの飛行機に乗ります。"
+    },
+    {
+      "it": "Preferisco viaggiare in treno, ma questa volta andrò in aereo.",
+      "ja": "私は列車で旅行するほうが好きですが、今回は飛行機で行きます。"
+    },
+    {
+      "it": "Siamo arrivati tardi all’aeroporto e abbiamo perso l’aereo.",
+      "ja": "空港への到着が遅れ、飛行機に乗り遅れました。"
+    },
+    {
+      "it": "I passeggeri stanno salendo sull’aereo.",
+      "ja": "乗客たちは飛行機に搭乗しているところです。"
+    },
+    {
+      "it": "Abbiamo lasciato i bagagli sull’aereo.",
+      "ja": "私たちは飛行機内に荷物を置き忘れました。"
+    },
+    {
+      "it": "La compagnia aerea ha cancellato il volo a causa del maltempo.",
+      "ja": "航空会社は悪天候のため、その便を欠航にしました。"
+    },
+    {
+      "it": "Lo spazio aereo sopra l’aeroporto è temporaneamente chiuso.",
+      "ja": "空港上空の空域は一時的に閉鎖されています。"
+    },
+    {
+      "it": "Le merci saranno spedite per via aerea.",
+      "ja": "商品は航空便で発送されます。"
+    },
+    {
+      "it": "La fotografia aerea mostra l’intera area industriale.",
+      "ja": "航空写真には工業地域全体が写っています。"
+    },
+    {
+      "it": "La pianta sviluppa lunghe radici aeree.",
+      "ja": "その植物は長い気根を伸ばします。"
+    },
+    {
+      "it": "La ballerina si muoveva con un’eleganza leggera e aerea.",
+      "ja": "その踊り手は軽やかで優美に動いていました。"
+    }
+  ]
 }
 ]
