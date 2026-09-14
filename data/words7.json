@@ -1489,12 +1489,12 @@
   ]
 },
 {
-  "id": "diligenza",
-  "sid": "2026-00328",
-  "word": "diligenza",
-  "ipa": "/diliˈdʒɛntsa/",
-  "level": "B1",
-  "frequency": "common",
+  "id": "giornata",
+  "sid": "2026-00329",
+  "word": "giornata",
+  "ipa": "/dʒorˈnata/",
+  "level": "A1",
+  "frequency": "very_common",
 
   "grammar": {
     "pos": "noun",
@@ -1503,179 +1503,362 @@
       "it": "sostantivo femminile"
     },
     "gender": "feminine",
-    "plural": "diligenze",
-    "pattern": "agire o lavorare con diligenza / usare la dovuta diligenza / obbligo o dovere di diligenza / diligenza nel + nome o infinito / viaggiare in diligenza"
+    "plural": "giornate",
+    "pattern": "avere, passare o trascorrere una giornata / giornata di + attività o evento / per tutta la giornata / in giornata / buona giornata"
   },
 
   "usage": {
     "register": [
-      "neutral",
-      "formal",
-      "legal",
-      "historical"
+      "neutral"
     ],
     "medium": [
       "spoken",
       "written"
     ],
     "situations": [
-      "business",
-      "law",
+      "conversation",
       "work",
-      "education",
-      "administration",
-      "history"
+      "weather",
+      "travel",
+      "events",
+      "daily_life"
     ]
   },
 
   "meaning": {
     "ja": [
-      "仕事・義務などを注意深く、正確かつ誠実に行う態度",
-      "目的を達成するために、根気よく継続的に努力する勤勉さ",
-      "誤り・危険・損害などを避けるために必要な注意と慎重さ",
-      "契約・職務・専門業務などの遂行に際して法的に要求される注意の水準",
-      "必要な調査・確認・評価・手続などを適切に行うこと",
-      "行政・司法などにおいて権限ある者が行う通知・調査・執行その他の手続",
-      "歴史的に、決められた路線を走った乗合馬車・駅馬車"
+      "通常、朝から晩までをひとまとまりとして捉えた一日",
+      "特定の日に経験した出来事・活動・感情などの全体",
+      "仕事・勉強・旅行など、ある活動に費やされる一日の時間",
+      "天候・雰囲気・過ごしやすさなどの面から見た一日",
+      "特定のテーマ・記念・啓発活動などに充てられた日",
+      "競技・会議・催事などが行われる一日または開催日",
+      "歴史的に、一日分の労働またはその報酬"
     ],
     "it": [
-      "Cura, attenzione e precisione con cui si svolge un’attività o si adempie un obbligo.",
-      "Impegno costante e operosità nel perseguire uno scopo.",
-      "Prudenza necessaria per evitare errori, rischi o danni.",
-      "Livello di attenzione giuridicamente richiesto nell’esecuzione di un contratto, di un incarico o di un’attività professionale.",
-      "Svolgimento appropriato delle verifiche, delle valutazioni e delle formalità necessarie.",
-      "Nel linguaggio amministrativo e giudiziario, atto o attività procedurale compiuti da un’autorità o da un funzionario.",
-      "Storicamente, veicolo pubblico trainato da cavalli che percorreva regolarmente una determinata linea."
+      "Periodo quotidiano considerato nella sua durata complessiva, normalmente dal mattino alla sera.",
+      "Insieme delle esperienze, delle attività e degli stati d’animo vissuti in un determinato giorno.",
+      "Tempo di un giorno dedicato al lavoro, allo studio, al viaggio o a un’altra attività.",
+      "Giorno considerato in relazione al tempo atmosferico, all’atmosfera o alla qualità dell’esperienza.",
+      "Giorno dedicato a un tema, a una commemorazione o a un’iniziativa.",
+      "Giorno di svolgimento di una competizione, di un convegno o di una manifestazione.",
+      "Storicamente, quantità di lavoro compiuta in un giorno o relativa retribuzione."
     ]
   },
 
   "nuance": {
-    "ja": "diligenzaは単に熱心に働くことではなく、状況に応じて求められる注意・正確さ・慎重さを尽くすことを表す。法律ではdiligenza del buon padre di famigliaが一般人に期待される合理的な注意の基準を示す伝統的な表現であり、専門的な業務では、その活動の性質に応じた専門的な注意が考慮される。英語由来のdue diligenceはイタリア語でも一般的だが、企業買収や投資などに先立つ法務・財務・税務上の詳細調査を指すことが多く、一般的なdovuta diligenzaと完全に同じではない。歴史的なdiligenza「駅馬車」は、注意深さとは異なる独立した語義である。",
-    "it": "Diligenza non indica soltanto il lavorare molto, ma soprattutto l’impiego della cura, della precisione e della prudenza richieste dalle circostanze. Nel diritto, la diligenza del buon padre di famiglia è una formula tradizionale che esprime un criterio generale di condotta ragionevole; nelle attività professionali si tiene conto anche della natura tecnica dell’incarico. L’espressione inglese due diligence è comune nel linguaggio economico e giuridico italiano e indica soprattutto una verifica approfondita precedente a un’acquisizione, un investimento o un’altra operazione. Non coincide quindi in tutti i contesti con la semplice espressione dovuta diligenza. Il significato storico di «carrozza pubblica trainata da cavalli» costituisce un’accezione distinta."
+    "ja": "giornoとgiornataはどちらも「日」を表すが、giornoは暦上の日付、日数、24時間の単位に重点を置くことが多い。一方、giornataは、その一日がどのように過ぎたか、何をして過ごしたか、どのような天候や印象だったかという、時間の広がりや内容を重視する。Oggi è un giorno importanteは「今日は重要な日」、Ho avuto una giornata difficileは「今日は一日大変だった」となる。Buongiornoは出会った際の挨拶で、Buona giornataは別れ際などに相手の残りの一日が良いものになるよう願う表現である。in giornataは通常「今日中に・その日のうちに」を意味する。",
+    "it": "Giorno e giornata possono entrambi riferirsi a un giorno, ma giorno mette più facilmente in rilievo la data, il numero o l’unità del calendario. Giornata considera invece la durata, il contenuto, il tempo atmosferico o la qualità dell’esperienza vissuta. Oggi è un giorno importante identifica il giorno; Ho avuto una giornata difficile valuta l’esperienza complessiva. Buongiorno è normalmente un saluto rivolto a chi si incontra, mentre Buona giornata è un augurio rivolto a chi prosegue le proprie attività. In giornata significa generalmente «entro la fine del giorno»."
   },
 
   "etymology": {
-    "ja": "ラテン語diligentia「注意深さ・配慮・熱意」に由来し、動詞diligĕre「選ぶ・重んじる・大切にする」と同じ語族に属する。diligĕreはdis-とlegĕre「選ぶ・集める」から形成され、物事を慎重に選び、その価値を認めて配慮するという観念を持つ。英語diligence、フランス語diligence、スペイン語diligenciaも同じラテン語に由来する。",
-    "it": "Deriva dal latino diligentia, «cura, attenzione, premura», appartenente alla famiglia di diligĕre, «scegliere, apprezzare, amare», formato da dis- e legĕre, «scegliere, raccogliere». L’idea originaria è quella di valutare attentamente e quindi di occuparsi con cura di qualcosa. Sono affini l’inglese diligence, il francese diligence e lo spagnolo diligencia."
+    "ja": "名詞giornoに、期間・まとまり・行為の結果などを表す接尾辞-ataを加えて形成された。giornoは俗ラテン語の再建形*diurnumを経て、ラテン語diurnus「昼の・日々の」に由来し、dies「日」と同じ語族に属する。フランス語journéeおよびjournalや、英語diurnal「昼間の・日々の」も同じラテン語系統に属する。",
+    "it": "Deriva da giorno con il suffisso -ata, che in questo caso presenta il giorno come un periodo considerato nella sua intera estensione. Giorno continua una forma del latino volgare ricostruita come *diurnum, dal latino diurnus, «del giorno, quotidiano», appartenente alla famiglia di dies. Sono storicamente affini il francese journée e journal e l’inglese diurnal."
   },
 
   "minimal": [
     {
-      "word": "diligenza",
-      "ja": "義務や仕事を適切に遂行するための注意・正確さ・慎重さ",
-      "it": "cura, precisione e prudenza impiegate nell’esecuzione di un’attività o di un obbligo"
+      "word": "giornata",
+      "ja": "長さ・内容・体験・天候などの面から一日全体を捉える語",
+      "it": "giorno considerato nella sua durata, nelle attività svolte o nella qualità dell’esperienza"
     },
     {
-      "word": "attenzione",
-      "ja": "特定の対象に意識を向け、見落としや誤りを防ぐこと",
-      "it": "concentrazione della mente su un oggetto, un fatto o un’attività"
+      "word": "giorno",
+      "ja": "暦上の日付、24時間の単位、または夜に対する昼を表す",
+      "it": "unità del calendario, periodo di ventiquattro ore oppure parte luminosa opposta alla notte"
     },
     {
-      "word": "cura",
-      "ja": "人・物・仕事などを良い状態に保つために注ぐ配慮",
-      "it": "interessamento attento rivolto al benessere o alla corretta gestione di qualcosa"
+      "word": "data",
+      "ja": "出来事・期限などが置かれる暦上の特定の日付",
+      "it": "indicazione precisa del giorno, del mese e spesso dell’anno"
     },
     {
-      "word": "scrupolo",
-      "ja": "細部・規則・道徳的な問題まで厳密に確認しようとする慎重さ",
-      "it": "attenzione rigorosa ai dettagli, alle regole o alle conseguenze morali"
+      "word": "quotidiano",
+      "ja": "毎日起こることを表す形容詞、または日刊新聞",
+      "it": "ciò che avviene ogni giorno oppure un giornale pubblicato giornalmente"
     },
     {
-      "word": "negligenza",
-      "ja": "必要な注意や配慮を怠り、適切に行動しないこと",
-      "it": "mancanza della cura e dell’attenzione richieste dalle circostanze"
+      "word": "turno",
+      "ja": "一日のうち、人に割り当てられた勤務・担当の時間帯",
+      "it": "periodo di lavoro assegnato a una persona secondo un sistema di alternanza"
     }
   ],
 
   "synonyms": [
-    "cura",
-    "attenzione",
-    "precisione",
-    "accuratezza",
-    "scrupolo",
-    "zelo"
+    "giorno",
+    "dì",
+    "arco della giornata",
+    "giorno lavorativo"
   ],
 
   "equivalents": {
     "en": [
-      "diligence",
-      "due care",
-      "carefulness",
-      "stagecoach"
+      "day",
+      "daytime",
+      "working day",
+      "day’s experience"
     ],
     "de": [
-      "Sorgfalt",
-      "Gewissenhaftigkeit",
-      "Fleiß",
-      "Postkutsche"
+      "Tag",
+      "Tagesverlauf",
+      "Arbeitstag"
     ],
     "fr": [
-      "diligence",
-      "soin",
-      "application"
+      "journée",
+      "journée de travail",
+      "jour"
     ],
     "es": [
-      "diligencia",
-      "cuidado",
-      "esmero"
+      "jornada",
+      "día",
+      "jornada laboral"
     ]
   },
 
   "collocations": [
     {
-      "it": "agire con diligenza",
-      "ja": "注意深く行動する"
+      "it": "trascorrere una giornata",
+      "ja": "一日を過ごす"
     },
     {
-      "it": "usare la dovuta diligenza",
-      "ja": "相当な注意を尽くす"
+      "it": "una giornata impegnativa",
+      "ja": "忙しく大変な一日"
     },
     {
-      "it": "dovere di diligenza",
-      "ja": "注意義務"
+      "it": "per tutta la giornata",
+      "ja": "一日中"
     },
     {
-      "it": "condurre una due diligence",
-      "ja": "デューデリジェンスを実施する"
+      "it": "consegnare in giornata",
+      "ja": "今日中・その日のうちに届ける"
     },
     {
-      "it": "viaggiare in diligenza",
-      "ja": "駅馬車で旅をする"
+      "it": "buona giornata",
+      "ja": "よい一日を"
     }
   ],
 
   "examples": [
     {
-      "it": "Ha svolto l’incarico con grande diligenza.",
-      "ja": "彼女は細心の注意を払って任務を遂行しました。"
+      "it": "Oggi ho avuto una giornata molto impegnativa.",
+      "ja": "今日はとても忙しい一日でした。"
     },
     {
-      "it": "Lo studente lavora con diligenza e controlla sempre i propri errori.",
-      "ja": "その学生は勤勉に取り組み、常に自分の誤りを確認しています。"
+      "it": "Abbiamo trascorso una splendida giornata al mare.",
+      "ja": "私たちは海辺ですばらしい一日を過ごしました。"
     },
     {
-      "it": "Il debitore deve adempiere l’obbligazione con la dovuta diligenza.",
-      "ja": "債務者は相当な注意をもって債務を履行しなければなりません。"
+      "it": "Ha piovuto per tutta la giornata.",
+      "ja": "一日中、雨が降っていました。"
     },
     {
-      "it": "Il professionista è tenuto ad agire con una diligenza adeguata alla natura dell’incarico.",
-      "ja": "専門家は、業務の性質に応じた適切な注意をもって行動する義務があります。"
+      "it": "Cerco di organizzare la giornata la sera prima.",
+      "ja": "私は前日の夜に一日の予定を組むようにしています。"
     },
     {
-      "it": "Una verifica svolta con maggiore diligenza avrebbe evitato l’errore.",
-      "ja": "より注意深く確認していれば、その誤りは避けられたでしょう。"
+      "it": "Le invieremo i documenti in giornata.",
+      "ja": "本日中に書類をお送りします。"
     },
     {
-      "it": "Prima dell’acquisizione, l’azienda ha condotto una due diligence legale e finanziaria.",
-      "ja": "買収前に、その会社は法務・財務デューデリジェンスを実施しました。"
+      "it": "La conferenza si svolgerà nell’arco di tre giornate.",
+      "ja": "その会議は3日間にわたって開催されます。"
     },
     {
-      "it": "La mancanza di diligenza può comportare una responsabilità per i danni causati.",
-      "ja": "必要な注意を怠ると、生じた損害について責任を負うことがあります。"
+      "it": "Domani si celebra la Giornata mondiale dell’ambiente.",
+      "ja": "明日は世界環境デーです。"
     },
     {
-      "it": "Nel XIX secolo il viaggio veniva effettuato in diligenza.",
-      "ja": "19世紀には、その旅は駅馬車で行われていました。"
+      "it": "Grazie per l’aiuto e buona giornata!",
+      "ja": "ご協力ありがとうございました。よい一日を。"
+    }
+  ]
+},
+{
+  "id": "spazzatura",
+  "sid": "2026-00330",
+  "word": "spazzatura",
+  "ipa": "/spaddzaˈtura/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞・通常は集合名詞",
+      "it": "sostantivo femminile, normalmente collettivo"
+    },
+    "gender": "feminine",
+    "plural": "spazzature（まれ。種類や複数の集積物を区別する場合）",
+    "pattern": "buttare qualcosa nella spazzatura / portare fuori la spazzatura / raccogliere la spazzatura / sacco della spazzatura / nome + spazzatura con valore qualificativo invariabile"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "home",
+      "daily_life",
+      "environment",
+      "cleaning",
+      "media",
+      "criticism"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "家庭・施設などで不要となり、まとめて捨てられる雑多な物、ごみ",
+      "掃除によって集められたほこり・紙くず・残り物など",
+      "一か所に集積され、処分されるさまざまな廃棄物",
+      "道路・公園・海岸などに放置されたごみ",
+      "比喩的に、価値や品質が非常に低い物・作品・情報",
+      "televisione spazzaturaなどの形で、低俗または粗悪と評価されるメディアや文化的内容"
+    ],
+    "it": [
+      "Insieme indistinto di cose inutili o indesiderate destinate a essere gettate via.",
+      "Polvere, carta, residui e altri materiali raccolti durante la pulizia.",
+      "Massa eterogenea di materiali accumulati e destinati allo smaltimento.",
+      "Rifiuti abbandonati in strade, parchi, spiagge o altri luoghi.",
+      "In senso figurato, oggetto, opera o informazione giudicati privi di valore o di pessima qualità.",
+      "In espressioni come televisione spazzatura, contenuto mediatico o culturale considerato volgare o scadente."
+    ]
+  },
+
+  "nuance": {
+    "ja": "spazzaturaは、家庭でまとめて捨てる雑多なごみや、掃除によって集められたごみを表し、通常は単数形で使われる。rifiutoは個々の廃棄物も表すことができ、環境法令・分別・処理などの専門的な文脈では複数形rifiutiが一般的である。immondiziaはspazzaturaに近いが、汚さや不衛生さをより強く感じさせる場合がある。buttare qualcosa nella spazzaturaは「何かを捨てる」、portare fuori la spazzaturaは「家庭のごみ袋などを屋外の収集場所へ出す」を意味する。televisione spazzaturaやinformazione spazzaturaでは、spazzaturaは後置され、性数によって変化しない。",
+    "it": "Spazzatura indica normalmente l’insieme indistinto dei rifiuti domestici o dello sporco raccolto e si usa soprattutto al singolare. Rifiuto può designare anche un singolo oggetto scartato; nei contesti tecnici, ambientali e normativi è particolarmente comune il plurale rifiuti. Immondizia è molto vicina a spazzatura, ma può mettere maggiormente in rilievo lo sporco o il carattere sgradevole. Buttare qualcosa nella spazzatura significa eliminarlo come rifiuto; portare fuori la spazzatura significa trasferire fuori casa il sacco destinato alla raccolta. In espressioni come televisione spazzatura e informazioni spazzatura, il secondo elemento ha valore qualificativo e rimane invariabile."
+  },
+
+  "etymology": {
+    "ja": "動詞spazzare「掃く・払い除ける」に、行為またはその結果を表す接尾辞-turaを加えて形成された。語源的には、掃くという行為や、掃いて集められた物を表す。spazzareは一般に後期ラテン語spatiāre「歩き回る・広がる」と関連付けられ、表面を広く動いて空けるという意味を経て現在の用法へ発達した。同じ語族にはspazzino、spazzola、spazzamentoなどがある。",
+    "it": "Deriva dal verbo spazzare con il suffisso -tura, che indica un’azione o il suo risultato. La parola designava quindi l’atto dello spazzare e, soprattutto, ciò che veniva raccolto o eliminato spazzando. Spazzare è generalmente ricondotto al latino tardo spatiāre, «passeggiare, estendersi», appartenente alla famiglia di spatium, «spazio». Alla stessa famiglia italiana appartengono spazzino, spazzola e spazzamento."
+  },
+
+  "minimal": [
+    {
+      "word": "spazzatura",
+      "ja": "家庭や掃除によって生じ、まとめて捨てられる雑多なごみ",
+      "it": "insieme indistinto di materiali inutili o sporchi destinati a essere gettati"
+    },
+    {
+      "word": "rifiuto",
+      "ja": "個々の廃棄物、または環境管理上の廃棄物を表す一般的・専門的な語",
+      "it": "singolo materiale scartato oppure termine generale e tecnico per ciò che deve essere smaltito"
+    },
+    {
+      "word": "immondizia",
+      "ja": "汚れや不潔さを伴うごみを集合的に表す語",
+      "it": "insieme di rifiuti considerati soprattutto nel loro aspetto sporco o sgradevole"
+    },
+    {
+      "word": "scarto",
+      "ja": "製造・選別・調理などの過程で不要として除かれた部分",
+      "it": "parte eliminata durante la produzione, la selezione o la preparazione"
+    },
+    {
+      "word": "pattume",
+      "ja": "汚れや悪臭を伴う雑多なごみを表す、やや強い語",
+      "it": "insieme di rifiuti sporchi o maleodoranti, spesso con sfumatura spregiativa"
+    }
+  ],
+
+  "synonyms": [
+    "immondizia",
+    "rifiuti",
+    "pattume",
+    "scarti",
+    "ciarpame"
+  ],
+
+  "equivalents": {
+    "en": [
+      "garbage",
+      "trash",
+      "rubbish",
+      "junk"
+    ],
+    "de": [
+      "Müll",
+      "Abfall",
+      "Unrat",
+      "Schund"
+    ],
+    "fr": [
+      "ordures",
+      "déchets",
+      "détritus",
+      "camelote"
+    ],
+    "es": [
+      "basura",
+      "residuos",
+      "desperdicios",
+      "porquería"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "buttare qualcosa nella spazzatura",
+      "ja": "何かをごみとして捨てる"
+    },
+    {
+      "it": "portare fuori la spazzatura",
+      "ja": "ごみを外へ出す"
+    },
+    {
+      "it": "raccogliere la spazzatura",
+      "ja": "ごみを集める"
+    },
+    {
+      "it": "sacco della spazzatura",
+      "ja": "ごみ袋"
+    },
+    {
+      "it": "televisione spazzatura",
+      "ja": "低俗・粗悪なテレビ番組"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Puoi portare fuori la spazzatura, per favore?",
+      "ja": "ごみを外へ出してもらえますか。"
+    },
+    {
+      "it": "Ho buttato la confezione vuota nella spazzatura.",
+      "ja": "私は空の容器をごみとして捨てました。"
+    },
+    {
+      "it": "La spazzatura viene raccolta tre volte alla settimana.",
+      "ja": "ごみは週に3回収集されます。"
+    },
+    {
+      "it": "Non lasciate la spazzatura sulla spiaggia.",
+      "ja": "海岸にごみを放置しないでください。"
+    },
+    {
+      "it": "Bisogna separare i materiali riciclabili dai rifiuti indifferenziati.",
+      "ja": "リサイクル可能な物を一般廃棄物から分別する必要があります。"
+    },
+    {
+      "it": "Quell’articolo contiene soltanto informazione spazzatura.",
+      "ja": "その記事には価値の低い情報しか含まれていません。"
+    },
+    {
+      "it": "Non sopporto certi programmi di televisione spazzatura.",
+      "ja": "私は一部の低俗なテレビ番組には耐えられません。"
+    },
+    {
+      "it": "Un oggetto riparabile non dovrebbe finire subito nella spazzatura.",
+      "ja": "修理できる物をすぐにごみとして捨てるべきではありません。"
     }
   ]
 },
