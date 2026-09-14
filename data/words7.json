@@ -2225,5 +2225,195 @@
       "ja": "かつてpullmanという語は豪華な鉄道客車も表していました。"
     }
   ]
+},
+{
+  "id": "vasca",
+  "sid": "2026-00333",
+  "word": "vasca",
+  "ipa": "/ˈvaska/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "vasche",
+    "pattern": "vasca da + funzione / vasca di + raccolta o trattamento / riempire la vasca di + sostanza / fare una o più vasche / fare le vasche"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "bathroom",
+      "sport",
+      "construction",
+      "industry"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "水その他の液体をためるための、通常は上部が開いた大型の容器または設備",
+      "身体を湯や水に浸して入浴するための浴槽、バスタブ",
+      "プール施設のうち、水をたたえて水泳などに使われる水槽部分",
+      "水泳で、プールの一端から反対側まで泳ぐ一区間",
+      "工業・農業・浄水などで液体を貯蔵・収集・処理するための槽",
+      "噴水・水族館などで水をたたえる部分、水盤・水槽",
+      "fare le vascheの形で、町の通りなどを何度も往復して歩くこと"
+    ],
+    "it": [
+      "Grande recipiente o struttura, generalmente aperti nella parte superiore, destinati a contenere acqua o altri liquidi.",
+      "Recipiente sanitario nel quale una persona può immergersi per lavarsi o rilassarsi.",
+      "Bacino di una piscina che contiene l’acqua destinata al nuoto o ad altre attività.",
+      "Tratto percorso nuotando da un’estremità della piscina all’altra.",
+      "Contenitore utilizzato in ambito industriale, agricolo o tecnico per raccogliere, conservare o trattare liquidi.",
+      "Bacino che contiene l’acqua di una fontana, di un acquario o di un’altra struttura.",
+      "Nell’espressione fare le vasche, percorrere ripetutamente avanti e indietro una strada o un luogo di ritrovo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "家庭内の文脈で単独のla vascaと言うと、通常はvasca da bagno「浴槽」を指す。水泳ではuna vascaがプールの一端から反対側までの一区間を意味し、往復すればdue vascheと数える。piscinaは水槽そのものだけでなく、更衣室や受付などを含む施設全体も表せるのに対し、vascaは特に水をたたえる構造部分に注目する。serbatoioは液体や気体を貯蔵するための、通常は閉じたタンクであり、vascaとは典型的な形状と用途が異なる。口語のfare le vascheは、若者などが町の中心街を何度も行き来することを表す。",
+    "it": "In un contesto domestico, la vasca indica normalmente la vasca da bagno. Nel nuoto, una vasca è il percorso da un’estremità della piscina all’altra; andare e tornare corrisponde quindi a due vasche. Piscina può indicare anche l’intero impianto con spogliatoi e servizi, mentre vasca mette in rilievo il bacino che contiene l’acqua. Un serbatoio è generalmente destinato alla conservazione di liquidi o gas ed è spesso chiuso, mentre una vasca è tipicamente aperta nella parte superiore. Nell’uso colloquiale, fare le vasche significa percorrere più volte avanti e indietro una strada, specialmente nel centro di una città."
+  },
+
+  "etymology": {
+    "ja": "一般にラテン語vasculum「小さな容器」に由来するとされ、これはvas「容器・器」の指小形である。その中性複数形vasculaまたはその異形から、イタリア語の女性単数名詞vascaが生じたと説明される。液体を入れる容器という基本的意味から、浴槽・プール・工業用の槽などの用法が発達した。同じ語からvaschetta「小型の容器」、vascone「大型の槽」などが派生している。",
+    "it": "È generalmente ricondotta al latino vasculum, diminutivo di vas, «vaso, recipiente». La forma italiana viene spiegata attraverso il plurale neutro vascula o una sua variante, reinterpretato come nome femminile singolare. Dal significato fondamentale di recipiente per liquidi si sono sviluppati gli usi relativi al bagno, alle piscine e agli impianti tecnici. Dalla stessa base derivano vaschetta e vascone."
+  },
+
+  "minimal": [
+    {
+      "word": "vasca",
+      "ja": "液体をためる大型容器、または浴槽やプールの水槽部分",
+      "it": "grande recipiente per liquidi oppure bacino di un bagno o di una piscina"
+    },
+    {
+      "word": "vaschetta",
+      "ja": "食品・氷・小物などを入れる小型で比較的浅い容器",
+      "it": "recipiente piccolo e generalmente poco profondo"
+    },
+    {
+      "word": "serbatoio",
+      "ja": "液体や気体を一定期間貯蔵する、通常は閉じたタンク",
+      "it": "contenitore generalmente chiuso destinato a conservare liquidi o gas"
+    },
+    {
+      "word": "piscina",
+      "ja": "水泳用のプール、または更衣室などを含む施設全体",
+      "it": "struttura destinata al nuoto oppure intero impianto comprendente una o più vasche"
+    },
+    {
+      "word": "bacino",
+      "ja": "水を集める天然または人工のくぼ地・水域",
+      "it": "cavità naturale o artificiale nella quale si raccoglie una quantità d’acqua"
+    }
+  ],
+
+  "synonyms": [
+    "bacino",
+    "tinozza",
+    "recipiente",
+    "piscina"
+  ],
+
+  "equivalents": {
+    "en": [
+      "tub",
+      "bathtub",
+      "tank",
+      "pool length"
+    ],
+    "de": [
+      "Wanne",
+      "Badewanne",
+      "Becken",
+      "Schwimmbahnlänge"
+    ],
+    "fr": [
+      "bac",
+      "baignoire",
+      "bassin",
+      "longueur de piscine"
+    ],
+    "es": [
+      "bañera",
+      "tina",
+      "depósito",
+      "largo de piscina"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "vasca da bagno",
+      "ja": "浴槽・バスタブ"
+    },
+    {
+      "it": "riempire la vasca d’acqua",
+      "ja": "浴槽・槽に水をためる"
+    },
+    {
+      "it": "vasca di raccolta",
+      "ja": "貯留槽・集水槽"
+    },
+    {
+      "it": "fare dieci vasche",
+      "ja": "プールを10区間泳ぐ"
+    },
+    {
+      "it": "fare le vasche in centro",
+      "ja": "中心街を何度も行き来する"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Ho riempito la vasca d’acqua calda.",
+      "ja": "私は浴槽に温かい湯をためました。"
+    },
+    {
+      "it": "Preferisci fare la doccia o il bagno nella vasca?",
+      "ja": "シャワーを浴びるのと浴槽につかるのでは、どちらがよいですか。"
+    },
+    {
+      "it": "La piscina dispone di una vasca olimpionica.",
+      "ja": "そのプール施設にはオリンピック規格の競泳用プールがあります。"
+    },
+    {
+      "it": "Ogni mattina nuota per venti vasche.",
+      "ja": "彼は毎朝プールを20区間泳ぎます。"
+    },
+    {
+      "it": "L’acqua piovana viene raccolta in una grande vasca.",
+      "ja": "雨水は大きな貯留槽に集められます。"
+    },
+    {
+      "it": "I pesci sono stati trasferiti in un’altra vasca.",
+      "ja": "魚は別の水槽へ移されました。"
+    },
+    {
+      "it": "L’impianto comprende due vasche di sedimentazione.",
+      "ja": "その施設には沈殿槽が二つあります。"
+    },
+    {
+      "it": "Da ragazzi facevamo le vasche lungo il corso principale.",
+      "ja": "若いころ、私たちは目抜き通りを何度も行き来していました。"
+    }
+  ]
 }
 ]
