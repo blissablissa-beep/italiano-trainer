@@ -6448,5 +6448,259 @@
       "ja": "同僚たちにとって、彼女は親切そのものでした。"
     }
   ]
+},
+{
+  "id": "sicuro",
+  "sid": "2026-00353",
+  "word": "sicuro",
+  "ipa": "/siˈkuro/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adjective",
+    "label": {
+      "ja": "形容詞・名詞的用法・副詞的応答",
+      "it": "aggettivo, uso sostantivato e uso avverbiale"
+    },
+    "adjectiveForms": [
+      "sicuro",
+      "sicura",
+      "sicuri",
+      "sicure"
+    ],
+    "pattern": "essere sicuro / nome + sicuro / essere sicuro di + nome o infinito / essere sicuro che + indicativo, oppure congiuntivo in contesti di incertezza / essere sicuro di sé / essere, sentirsi o mettersi al sicuro / di sicuro / andare sul sicuro / Sicuro!"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "safety",
+      "certainty",
+      "travel",
+      "work",
+      "health",
+      "relationships",
+      "decisions"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "危険・損害・事故などから守られている、安全な",
+      "危険や重大な問題を引き起こす可能性が低い、安全性の高い",
+      "信頼でき、安心して任せたり利用したりできる",
+      "ある事実・結果などについて疑いを持っていない、確信している",
+      "疑う余地がなく、事実として確かな",
+      "将来実現することがほぼ確実な、確実な",
+      "自分の能力・判断・価値に自信を持っている",
+      "動作・態度・声などが迷いなく安定している",
+      "al sicuroの形で、危険を受けない安全な場所・状態に",
+      "di sicuroの形で、確かに・きっと",
+      "Sicuro!の形で、質問や依頼に対する強い肯定、もちろん",
+      "名詞的に、危険や不確実性の少ないもの・確実な選択肢"
+    ],
+    "it": [
+      "Protetto da un pericolo, da un danno o da un incidente.",
+      "Che presenta pochi rischi e non dovrebbe provocare conseguenze pericolose.",
+      "Affidabile e degno di fiducia.",
+      "Privo di dubbi riguardo a un fatto, a una decisione o a un risultato.",
+      "Che non può essere ragionevolmente messo in dubbio.",
+      "Destinato con grande probabilità a verificarsi o ad avere successo.",
+      "Consapevole delle proprie capacità e fiducioso in se stesso.",
+      "Fermo, deciso e privo di esitazioni, con riferimento a un gesto, a una voce o a un comportamento.",
+      "Nella locuzione al sicuro, in una condizione o in un luogo protetto.",
+      "Nella locuzione di sicuro, certamente o senza dubbio.",
+      "Come risposta Sicuro!, esprime un’affermazione decisa o una disponibilità immediata.",
+      "Come sostantivo, ciò che offre garanzie o comporta pochi rischi."
+    ]
+  },
+
+  "nuance": {
+    "ja": "sicuroは「安全」と「確信」の両方を表す。Un posto sicuroは「安全な場所」、una fonte sicuraは「信頼できる情報源」、Sono sicuroは「私は確信している」となる。名詞や同じ主語による行為にはessere sicuro diを使い、Sono sicuro di aver chiuso la portaと言う。独立した節を続ける場合、確信を肯定する文では通常直説法を使い、Sono sicuro che arriveràとなる。一方、Non sono sicuro che sia veroのように、否定文・疑問文などで不確実性を表す場合は接続法が一般的である。certoも「確かな」を表すが、sicuroは話者自身の確信や安全性を表すときに特に自然である。sicuro di séは「自信がある」という意味だが、文脈によっては自信過剰な印象を与えることもある。al sicuroは性数変化しない固定表現で、Lei è al sicuro、I documenti sono al sicuroのように使う。di sicuroとsicuramenteはともに「確かに」を表し、Sicuro!は会話で「もちろん」と答える表現である。",
+    "it": "Sicuro riunisce principalmente i valori di protezione e certezza. Un posto sicuro non presenta particolari pericoli; una fonte sicura è affidabile; Sono sicuro indica invece l’assenza di dubbi. Con un nome o un infinito si usa essere sicuro di: Sono sicuro della risposta, Sono sicuro di aver chiuso la porta. Quando segue una proposizione, l’affermazione positiva regge normalmente l’indicativo: Sono sicuro che arriverà. Se la certezza viene negata o messa in dubbio, è comune il congiuntivo: Non sono sicuro che sia vero. Certo è spesso vicino a sicuro, ma possiede anche funzioni grammaticali nelle quali i due termini non sono intercambiabili. Sicuro di sé descrive una persona fiduciosa nelle proprie capacità e, secondo il contesto, può suggerire un’eccessiva sicurezza. Al sicuro è una locuzione invariabile; di sicuro e sicuramente significano entrambi «certamente». Nelle risposte informali, Sicuro! equivale a «certamente» o «certo»."
+  },
+
+  "etymology": {
+    "ja": "ラテン語secūrus「心配のない、平静な、安全な」に由来する。これは分離・欠如を表すse-と、cura「心配、気遣い」から成り、語源的には「心配のない」という意味である。そこから、危険のない状態を表す「安全な」と、疑いや不安のない状態を表す「確信している」という二つの主要な意味が発達した。同じ語族にはsicurezza、sicuramente、assicurare、rassicurare、insicuroがある。英語secure、フランス語sûr、スペイン語seguroも同じラテン語に由来する。",
+    "it": "Deriva dal latino secūrus, «tranquillo, privo di preoccupazioni», formato da se-, elemento che indica separazione o privazione, e cura, «preoccupazione». Dal significato originario di «senza preoccupazioni» si sono sviluppati sia il valore di «protetto dai pericoli» sia quello di «privo di dubbi». Alla stessa famiglia appartengono sicurezza, sicuramente, assicurare, rassicurare e insicuro. Hanno la stessa origine anche l’inglese secure, il francese sûr e lo spagnolo seguro."
+  },
+
+  "minimal": [
+    {
+      "word": "sicuro",
+      "ja": "危険がないこと、または事実・判断について疑いがないことを表す",
+      "it": "indica assenza di pericolo oppure piena certezza riguardo a qualcosa"
+    },
+    {
+      "word": "certo",
+      "ja": "疑いなく真実・確実であることを表し、限定詞や代名詞としても使われる",
+      "it": "indica certezza, ma può essere usato anche come determinante o pronome"
+    },
+    {
+      "word": "salvo",
+      "ja": "危険・事故・損害などを免れて無事であることを表す",
+      "it": "indica che una persona o una cosa è sfuggita a un pericolo o a un danno"
+    },
+    {
+      "word": "protetto",
+      "ja": "人・設備・制度などによって危険や損害から守られている",
+      "it": "difeso da una persona, da una struttura o da una misura di protezione"
+    },
+    {
+      "word": "affidabile",
+      "ja": "人・情報・機械などが信頼でき、期待どおりに機能する",
+      "it": "indica una persona o una cosa sulla quale si può fare affidamento"
+    }
+  ],
+
+  "synonyms": [
+    "certo",
+    "protetto",
+    "salvo",
+    "affidabile",
+    "fidato",
+    "stabile",
+    "deciso",
+    "convinto"
+  ],
+
+  "equivalents": {
+    "en": [
+      "safe",
+      "secure",
+      "sure",
+      "certain",
+      "confident"
+    ],
+    "de": [
+      "sicher",
+      "geschützt",
+      "gewiss",
+      "zuverlässig",
+      "selbstbewusst"
+    ],
+    "fr": [
+      "sûr",
+      "en sécurité",
+      "certain",
+      "fiable",
+      "confiant"
+    ],
+    "es": [
+      "seguro",
+      "protegido",
+      "cierto",
+      "fiable",
+      "confiado"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "essere sicuro di qualcosa",
+      "ja": "あることを確信している"
+    },
+    {
+      "it": "essere sicuro che",
+      "ja": "～であると確信している"
+    },
+    {
+      "it": "essere sicuro di sé",
+      "ja": "自分に自信がある"
+    },
+    {
+      "it": "sentirsi al sicuro",
+      "ja": "安全だと感じる"
+    },
+    {
+      "it": "mettere qualcosa al sicuro",
+      "ja": "物を安全な場所・状態に移す"
+    },
+    {
+      "it": "un posto sicuro",
+      "ja": "安全な場所"
+    },
+    {
+      "it": "una fonte sicura",
+      "ja": "信頼できる情報源"
+    },
+    {
+      "it": "di sicuro",
+      "ja": "確かに・きっと"
+    },
+    {
+      "it": "andare sul sicuro",
+      "ja": "危険や失敗の少ない確実な方法を選ぶ"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Questa strada è sicura anche di notte.",
+      "ja": "この道は夜でも安全です。"
+    },
+    {
+      "it": "Conserva i documenti importanti in un posto sicuro.",
+      "ja": "重要な書類は安全な場所に保管してください。"
+    },
+    {
+      "it": "Prima di partire dobbiamo controllare che la barca sia sicura.",
+      "ja": "出発前に、その船が安全であることを確認しなければなりません。"
+    },
+    {
+      "it": "La notizia proviene da una fonte sicura.",
+      "ja": "その知らせは信頼できる情報源から得られたものです。"
+    },
+    {
+      "it": "Sono sicuro di aver chiuso la porta.",
+      "ja": "ドアを閉めたことは確かです。"
+    },
+    {
+      "it": "Sono sicura che il treno arriverà in orario.",
+      "ja": "列車は時間どおりに到着すると確信しています。"
+    },
+    {
+      "it": "Non sono sicuro che questa sia la soluzione migliore.",
+      "ja": "これが最善の解決策なのか確信がありません。"
+    },
+    {
+      "it": "Marta è molto sicura di sé quando parla in pubblico.",
+      "ja": "マルタは人前で話すとき、とても自信に満ちています。"
+    },
+    {
+      "it": "Il chirurgo lavorava con mano sicura.",
+      "ja": "外科医は迷いのない確かな手つきで処置していました。"
+    },
+    {
+      "it": "Durante la tempesta ci siamo messi al sicuro dentro la casa.",
+      "ja": "嵐の間、私たちは家の中へ避難しました。"
+    },
+    {
+      "it": "Metti il passaporto al sicuro prima di uscire.",
+      "ja": "外出する前にパスポートを安全な場所へしまってください。"
+    },
+    {
+      "it": "Di sicuro avremo bisogno di più tempo.",
+      "ja": "私たちにはきっと、もっと時間が必要になるでしょう。"
+    },
+    {
+      "it": "Puoi aiutarmi domani? — Sicuro!",
+      "ja": "「明日、手伝ってくれますか」「もちろんです！」"
+    },
+    {
+      "it": "Preferisco andare sul sicuro e prenotare il biglietto in anticipo.",
+      "ja": "私は確実を期して、切符を前もって予約するほうがよいと思います。"
+    }
+  ]
 }  
 ]
