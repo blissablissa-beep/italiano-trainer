@@ -2797,5 +2797,197 @@
       "ja": "優勝者の到着は大勢の人々に囲まれる歓迎の場となりました。"
     }
   ]
+},
+{
+  "id": "stanza",
+  "sid": "2026-00336",
+  "word": "stanza",
+  "ipa": "/ˈstantsa/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "stanze",
+    "pattern": "stanza da + funzione / stanza di + persona o struttura / entrare in una stanza / uscire da una stanza / essere di stanza a + luogo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "hotel",
+      "travel",
+      "work",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "壁・床・天井で区切られた建物内部の部屋",
+      "住宅や施設内で、睡眠・仕事・食事など特定の目的に使われる空間",
+      "ホテル・下宿・共同住宅などで宿泊者や居住者に割り当てられる部屋",
+      "特定の人が使用・居住している部屋",
+      "特定の活動・設備・物品などのために設けられた室内区画",
+      "詩を構成する複数の詩行のまとまり、連・節",
+      "di stanzaの形で、軍隊・職員などが特定の場所に駐在・配置されていること"
+    ],
+    "it": [
+      "Spazio interno di un edificio delimitato da pareti, pavimento e soffitto.",
+      "Ambiente di un’abitazione o di un’altra struttura destinato a una determinata funzione.",
+      "Camera assegnata a un ospite o a un residente in un albergo, una pensione o un’abitazione condivisa.",
+      "Ambiente utilizzato o abitato da una determinata persona.",
+      "Spazio predisposto per una particolare attività, apparecchiatura o funzione.",
+      "In poesia, gruppo organizzato di versi che costituisce una parte del componimento.",
+      "Nella locuzione di stanza, stabilmente assegnato o presente in un determinato luogo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "stanzaは、建物内の「部屋」を用途を限定せずに表す一般的な語である。cameraは特にcamera da letto「寝室」やcamera d’albergo「ホテルの客室」によく使われ、ホテルではstanzaも可能だがcameraの方が一般的である。salaは会議・食事・催しなどに使われる比較的大きな部屋を指すことが多い。localeは不動産・行政・技術的な文脈で室内空間を客観的に表し、vanoは建築上の区画としての部屋を指す。詩のstanzaは、意味的・韻律的にまとまった一群の詩行を表す。",
+    "it": "Stanza è un termine generale per un ambiente interno di un edificio e non ne specifica necessariamente la funzione. Camera designa soprattutto una camera da letto o una camera d’albergo; in un albergo è possibile usare anche stanza, ma camera è generalmente più comune. Sala indica di solito un ambiente più ampio destinato a riunioni, pasti o eventi. Locale è frequente nel linguaggio immobiliare, amministrativo e tecnico, mentre vano considera soprattutto la suddivisione architettonica. Nel linguaggio poetico, stanza indica un gruppo di versi dotato di unità metrica o semantica."
+  },
+
+  "etymology": {
+    "ja": "後期ラテン語stantia「滞在する場所・住居」に由来し、これはラテン語stāre「立つ・とどまる」から形成された。もともとは滞在・居住する場所を表し、そこから建物内部の部屋を指すようになった。詩の意味では、意味がひとまとまりになり、その終わりで一度「立ち止まる」詩行のまとまりを表すようになった。文学用語としてのstanzaは英語などにも借用されている。",
+    "it": "Deriva dal latino tardo stantia, «luogo di dimora», formato dalla famiglia del verbo stāre, «stare, fermarsi». Dal luogo nel quale si soggiorna il significato passò all’ambiente interno di un edificio. Nel linguaggio poetico, stanza indicò un gruppo di versi concluso da una pausa e dotato di senso compiuto. Con questo valore letterario, la parola italiana è stata adottata anche dall’inglese e da altre lingue."
+  },
+
+  "minimal": [
+    {
+      "word": "stanza",
+      "ja": "用途を限定せず、建物内の壁で区切られた部屋を広く表す",
+      "it": "ambiente interno delimitato da pareti, senza indicarne necessariamente la funzione"
+    },
+    {
+      "word": "camera",
+      "ja": "主に寝室、ホテルの客室、または私的に使用する部屋",
+      "it": "stanza destinata soprattutto al sonno, all’alloggio o a un uso privato"
+    },
+    {
+      "word": "sala",
+      "ja": "会議・食事・待機・催しなどに使われる比較的大きな部屋",
+      "it": "ambiente generalmente ampio destinato a riunioni, pasti, attese o eventi"
+    },
+    {
+      "word": "locale",
+      "ja": "不動産・行政・技術的な観点から捉えた室内空間",
+      "it": "spazio interno considerato soprattutto dal punto di vista tecnico, immobiliare o funzionale"
+    },
+    {
+      "word": "appartamento",
+      "ja": "複数の部屋や設備から構成される独立した住居",
+      "it": "abitazione autonoma composta normalmente da più stanze e servizi"
+    }
+  ],
+
+  "synonyms": [
+    "camera",
+    "ambiente",
+    "locale",
+    "vano",
+    "sala",
+    "strofa"
+  ],
+
+  "equivalents": {
+    "en": [
+      "room",
+      "chamber",
+      "stanza"
+    ],
+    "de": [
+      "Zimmer",
+      "Raum",
+      "Strophe"
+    ],
+    "fr": [
+      "pièce",
+      "chambre",
+      "strophe"
+    ],
+    "es": [
+      "habitación",
+      "cuarto",
+      "estancia",
+      "estrofa"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "stanza da letto",
+      "ja": "寝室"
+    },
+    {
+      "it": "prenotare una stanza",
+      "ja": "部屋を予約する"
+    },
+    {
+      "it": "entrare nella stanza",
+      "ja": "部屋に入る"
+    },
+    {
+      "it": "la stanza accanto",
+      "ja": "隣の部屋"
+    },
+    {
+      "it": "una stanza poetica",
+      "ja": "詩の一連"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "La mia stanza è al secondo piano.",
+      "ja": "私の部屋は3階にあります。"
+    },
+    {
+      "it": "Abbiamo prenotato una stanza per due notti.",
+      "ja": "私たちは2泊分の部屋を予約しました。"
+    },
+    {
+      "it": "Quando sono entrato, la stanza era vuota.",
+      "ja": "私が入ったとき、部屋には誰もいませんでした。"
+    },
+    {
+      "it": "Puoi aprire la finestra e arieggiare la stanza?",
+      "ja": "窓を開けて部屋の空気を入れ替えてもらえますか。"
+    },
+    {
+      "it": "I due bambini condividono la stessa stanza.",
+      "ja": "その二人の子供は同じ部屋を使っています。"
+    },
+    {
+      "it": "La riunione si terrà nella stanza accanto.",
+      "ja": "会議は隣の部屋で開かれます。"
+    },
+    {
+      "it": "Il tecnico è entrato nella stanza dei server.",
+      "ja": "技術者はサーバールームに入りました。"
+    },
+    {
+      "it": "La poesia è composta da quattro stanze.",
+      "ja": "その詩は四つの連から構成されています。"
+    },
+    {
+      "it": "Il reparto era di stanza a Firenze.",
+      "ja": "その部隊はフィレンツェに駐屯していました。"
+    }
+  ]
 }
 ]
