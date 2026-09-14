@@ -10003,5 +10003,1593 @@
       "ja": "切符を入手できると思っていましたが、結局何も得られませんでした。"
     }
   ]
+},
+{
+  "id": "ginocchio",
+  "sid": "2026-00366",
+  "word": "ginocchio",
+  "ipa": "/dʒiˈnɔkkjo/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞・二種類の複数形を持つ名詞",
+      "it": "sostantivo maschile con due forme di plurale"
+    },
+    "gender": "masculine",
+    "plural": "ginocchia（身体の膝をまとめて表す一般的な女性複数）／ginocchi（男性複数。個々の膝・技術用法などでも使用）",
+    "pattern": "il ginocchio / le ginocchia / i ginocchi / avere male al ginocchio / piegare le ginocchia / in ginocchio / sulle ginocchia / al ginocchio"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "figurative",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "body",
+      "health",
+      "sport",
+      "clothing",
+      "emotions",
+      "business",
+      "technology"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "太ももと下腿をつなぎ、脚を曲げ伸ばしする関節、膝関節",
+      "膝蓋骨を中心とする、脚の外から見える膝の部分",
+      "ズボンなどで膝を覆う部分",
+      "動物の脚にある、膝に相当するとされる関節",
+      "物・管・構造物などの、膝のように角度をつけて曲がった部分",
+      "配管などで流れの方向を変える屈曲部・継ぎ手",
+      "海事用語で、船体や櫂などの湾曲・接続部分",
+      "in ginocchioの形で、片膝または両膝を地面につけた姿勢",
+      "祈り・敬意・懇願・服従を表すために膝をついた状態",
+      "比喩的に、組織・経済・人などが深刻な危機に陥った状態",
+      "比喩的に、恐怖・衰弱・疲労によって力が抜けた状態"
+    ],
+    "it": [
+      "Articolazione che unisce la coscia alla gamba e permette la flessione e l’estensione dell’arto inferiore.",
+      "Regione esterna della gamba corrispondente alla rotula e all’articolazione.",
+      "Parte dei pantaloni o di un altro indumento che copre il ginocchio.",
+      "Articolazione di un animale considerata corrispondente al ginocchio umano.",
+      "Parte di un oggetto o di una struttura piegata ad angolo come un ginocchio.",
+      "Curvatura o raccordo utilizzato in una tubatura per modificarne la direzione.",
+      "In terminologia marinaresca, parte curva o di raccordo di uno scafo o di un remo.",
+      "Nella locuzione in ginocchio, posizione con uno o entrambi i ginocchi appoggiati a terra.",
+      "Posizione assunta in segno di preghiera, rispetto, supplica o sottomissione.",
+      "In senso figurato, condizione di grave crisi, debolezza o incapacità di continuare normalmente.",
+      "In senso figurato, cedimento fisico provocato da paura, stanchezza o debolezza."
+    ]
+  },
+
+  "nuance": {
+    "ja": "人体の膝の一般的な複数形はle ginocchiaで、Le ginocchia sono stancheのように冠詞・形容詞も女性複数形になる。i ginocchiも文法的に正しいが、現代の日常語では頻度が低く、個々の膝を別々に捉える場合や一部の技術的文脈で現れる。ただし両者の意味を厳密に分ける規則はない。in ginocchioは「膝をついて」という定型表現で、通常は単数形を使う。一方、sulle ginocchiaは「膝の上に」を意味し、Tenere il bambino sulle ginocchiaのように使う。rotulaは膝の前面にある骨「膝蓋骨」であり、ginocchioは関節とその周囲全体を指す。",
+    "it": "Il plurale più comune per le ginocchia umane considerate nel loro insieme è le ginocchia, con accordo al femminile: le ginocchia stanche. Anche i ginocchi è grammaticalmente corretto, ma è meno frequente nella lingua quotidiana e può comparire quando le articolazioni sono considerate singolarmente o in alcuni contesti tecnici. Non esiste tuttavia una separazione semantica assoluta tra i due plurali. In ginocchio è una locuzione cristallizzata al singolare e indica la posizione inginocchiata. Sulle ginocchia significa invece sopra le ginocchia, come in tenere un bambino sulle ginocchia. La rotula è il singolo osso anteriore dell’articolazione; ginocchio indica l’intera regione articolare."
+  },
+
+  "etymology": {
+    "ja": "ラテン語genŭcŭlumに由来し、これは古典ラテン語genĭcŭlumの異形で、genu「膝」の指小形である。語源的には「小さな膝」を意味した。genuはインド・ヨーロッパ語族の古い「膝」の語根にさかのぼり、英語knee、ドイツ語Knie、古代ギリシア語gónuとは遠い同系語である。同じ語族にはinginocchiarsi「ひざまずく」、ginocchiera「膝当て」、genuflettersi「片膝をつく」などがある。",
+    "it": "Deriva dal latino genŭcŭlum, variante del classico genĭcŭlum, diminutivo di genu, «ginocchio». Il significato etimologico era quindi «piccolo ginocchio». Genu risale a un’antica radice indoeuropea alla quale sono collegati anche l’inglese knee, il tedesco Knie e il greco antico gónu. Appartengono alla stessa famiglia inginocchiarsi, ginocchiera e genuflettersi."
+  },
+
+  "minimal": [
+    {
+      "word": "ginocchio",
+      "ja": "太ももと下腿をつなぎ、脚を曲げ伸ばしする関節とその周囲",
+      "it": "articolazione e regione che collegano la coscia alla parte inferiore della gamba"
+    },
+    {
+      "word": "rotula",
+      "ja": "膝関節の前面にある丸みを帯びた骨、膝蓋骨",
+      "it": "osso appiattito situato nella parte anteriore dell’articolazione del ginocchio"
+    },
+    {
+      "word": "gamba",
+      "ja": "下肢全体、または厳密には膝から足首までの部分",
+      "it": "arto inferiore oppure, in senso anatomico stretto, parte tra ginocchio e caviglia"
+    },
+    {
+      "word": "coscia",
+      "ja": "股関節から膝までの脚の上部、太もも",
+      "it": "parte superiore dell’arto inferiore compresa tra l’anca e il ginocchio"
+    },
+    {
+      "word": "gomito",
+      "ja": "上腕と前腕をつなぎ、腕を曲げ伸ばしする関節、肘",
+      "it": "articolazione dell’arto superiore che unisce il braccio all’avambraccio"
+    }
+  ],
+
+  "synonyms": [
+    "articolazione",
+    "giuntura",
+    "snodo",
+    "curvatura",
+    "gomito",
+    "raccordo"
+  ],
+
+  "equivalents": {
+    "en": [
+      "knee",
+      "knee joint",
+      "bend",
+      "elbow fitting"
+    ],
+    "de": [
+      "Knie",
+      "Kniegelenk",
+      "Biegung",
+      "Rohrbogen"
+    ],
+    "fr": [
+      "genou",
+      "articulation du genou",
+      "coude",
+      "raccord coudé"
+    ],
+    "es": [
+      "rodilla",
+      "articulación de la rodilla",
+      "curvatura",
+      "codo de tubería"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "farsi male al ginocchio",
+      "ja": "膝を痛める"
+    },
+    {
+      "it": "avere dolore al ginocchio",
+      "ja": "膝に痛みがある"
+    },
+    {
+      "it": "sbucciarsi un ginocchio",
+      "ja": "膝を擦りむく"
+    },
+    {
+      "it": "piegare le ginocchia",
+      "ja": "膝を曲げる"
+    },
+    {
+      "it": "operarsi al ginocchio",
+      "ja": "膝の手術を受ける"
+    },
+    {
+      "it": "mettersi in ginocchio",
+      "ja": "ひざまずく"
+    },
+    {
+      "it": "stare in ginocchio",
+      "ja": "膝をついた姿勢でいる"
+    },
+    {
+      "it": "cadere in ginocchio",
+      "ja": "膝から崩れ落ちる・ひざまずく"
+    },
+    {
+      "it": "mettere in ginocchio",
+      "ja": "屈服させる・深刻な危機に陥れる"
+    },
+    {
+      "it": "tenere qualcosa sulle ginocchia",
+      "ja": "何かを膝の上に載せておく"
+    },
+    {
+      "it": "far tremare le ginocchia",
+      "ja": "恐怖などで膝を震わせる"
+    },
+    {
+      "it": "fino al ginocchio",
+      "ja": "膝まで"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Mi fa male il ginocchio destro.",
+      "ja": "右膝が痛みます。"
+    },
+    {
+      "it": "Si è fatto male al ginocchio durante la partita.",
+      "ja": "彼は試合中に膝を痛めました。"
+    },
+    {
+      "it": "Il bambino è caduto e si è sbucciato un ginocchio.",
+      "ja": "その子供は転んで膝を擦りむきました。"
+    },
+    {
+      "it": "Piega lentamente le ginocchia mantenendo la schiena dritta.",
+      "ja": "背中をまっすぐに保ちながら、ゆっくり膝を曲げてください。"
+    },
+    {
+      "it": "Dovrà operarsi al ginocchio il mese prossimo.",
+      "ja": "彼女は来月、膝の手術を受けなければなりません。"
+    },
+    {
+      "it": "I pantaloni sono consumati all’altezza delle ginocchia.",
+      "ja": "そのズボンは膝の部分がすり減っています。"
+    },
+    {
+      "it": "Indossava una gonna lunga fino al ginocchio.",
+      "ja": "彼女は膝丈のスカートをはいていました。"
+    },
+    {
+      "it": "Il bambino era seduto sulle ginocchia del nonno.",
+      "ja": "その子供は祖父の膝の上に座っていました。"
+    },
+    {
+      "it": "Si è messo in ginocchio davanti all’altare.",
+      "ja": "彼は祭壇の前でひざまずきました。"
+    },
+    {
+      "it": "Le ha chiesto perdono in ginocchio.",
+      "ja": "彼はひざまずいて彼女に許しを請いました。"
+    },
+    {
+      "it": "Alla notizia, è caduto in ginocchio per la disperazione.",
+      "ja": "その知らせを聞き、彼は絶望して膝から崩れ落ちました。"
+    },
+    {
+      "it": "La lunga crisi ha messo in ginocchio molte piccole imprese.",
+      "ja": "長期にわたる危機が、多くの中小企業を深刻な状態に追い込みました。"
+    },
+    {
+      "it": "Quel rumore improvviso mi ha fatto tremare le ginocchia.",
+      "ja": "その突然の音で、私は恐怖に膝が震えました。"
+    },
+    {
+      "it": "Dopo l’alluvione, l’acqua arrivava fino alle ginocchia.",
+      "ja": "洪水の後、水は膝の高さまで達していました。"
+    },
+    {
+      "it": "Il tecnico ha installato un raccordo a ginocchio nella tubatura.",
+      "ja": "技術者は配管にエルボ継ぎ手を取り付けました。"
+    }
+  ]
+},
+{
+  "id": "orecchio",
+  "sid": "2026-00367",
+  "word": "orecchio",
+  "ipa": "/oˈrekkjo/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞・女性形orecchiaおよび二種類の複数形を持つ名詞",
+      "it": "sostantivo maschile con variante femminile e due forme di plurale"
+    },
+    "gender": "masculine",
+    "plural": "orecchi（男性複数）／orecchie（女性複数。日常語で特に一般的）",
+    "pattern": "l’orecchio / gli orecchi / le orecchie / avere male all’orecchio / ascoltare con attenzione / avere orecchio per + nome / suonare a orecchio"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "figurative",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "body",
+      "health",
+      "hearing",
+      "music",
+      "language_learning",
+      "communication",
+      "description"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "音を受け取り、聴覚を生じさせる左右一対の感覚器官、耳",
+      "身体の平衡感覚にも関与する、外耳・中耳・内耳から成る器官",
+      "頭部の外側に見える耳介・耳たぶを含む部分",
+      "音を聞き取る能力、聴力",
+      "音の高さ・リズム・調和などを識別する聴覚的感受性",
+      "音楽を正確に聞き取り、記憶し、再現する能力、音感",
+      "言語の発音・抑揚・自然さを聞き分ける能力",
+      "人の話を聞く注意力、または話を聞いている人",
+      "容器・道具などの側面にある、耳のように丸く突き出た部分",
+      "本・ノートなどのページの折れ曲がった角",
+      "慣用表現で、傾聴・無視・盗み聞き・秘密・記憶などを表す"
+    ],
+    "it": [
+      "Ciascuno dei due organi che ricevono i suoni e permettono la percezione uditiva.",
+      "Organo formato da orecchio esterno, medio e interno, coinvolto anche nel mantenimento dell’equilibrio.",
+      "Parte visibile posta lateralmente alla testa, comprendente il padiglione auricolare e il lobo.",
+      "Facoltà di percepire i suoni, cioè udito.",
+      "Sensibilità nel riconoscere altezza, ritmo, armonia e qualità dei suoni.",
+      "Capacità di riconoscere, ricordare e riprodurre correttamente una melodia.",
+      "Capacità di percepire la pronuncia, l’intonazione e la naturalezza di una lingua.",
+      "Attenzione prestata a ciò che viene detto oppure persona considerata nell’atto di ascoltare.",
+      "Parte laterale e sporgente di un recipiente, uno strumento o un altro oggetto.",
+      "Angolo ripiegato di una pagina di un libro o di un quaderno.",
+      "In numerose espressioni idiomatiche, elemento associato all’ascolto, all’indifferenza, alla segretezza o alla memoria."
+    ]
+  },
+
+  "nuance": {
+    "ja": "一般的な単数形は男性名詞l’orecchioである。女性形l’orecchiaも正しいが、人体の耳については地域的・口語的に感じられることがある。複数形はgli orecchiとle orecchieの双方が正しく、厳密な意味の違いはない。ただし、日常語で一人の左右の耳をまとめて言う場合はle orecchieが一般的で、gli orecchiは個々の器官を数える医学的文脈や、essere tutt’orecchi、anche i muri hanno orecchiなどの定型表現に現れやすい。uditoは耳という器官ではなく「聴覚・聴力」を表す。sentireは音が聞こえること、ascoltareは意識的に耳を傾けることに重点がある。avere orecchioは音楽や外国語の音を聞き分ける素質を表す。",
+    "it": "La forma singolare più comune è il maschile orecchio. Il femminile orecchia è ugualmente corretto, ma con riferimento all’organo può essere percepito come regionale o popolare. Entrambi i plurali, gli orecchi e le orecchie, sono corretti e non presentano una distinzione semantica assoluta. Le orecchie è oggi particolarmente comune per indicare la coppia; gli orecchi compare più facilmente quando gli organi sono considerati singolarmente, in testi tecnici o in locuzioni come essere tutt’orecchi e anche i muri hanno orecchi. Udito indica la facoltà di sentire, non l’organo. Sentire indica la percezione di un suono; ascoltare implica normalmente attenzione volontaria. Avere orecchio indica una particolare sensibilità per la musica, la pronuncia o le lingue."
+  },
+
+  "etymology": {
+    "ja": "ラテン語auricŭla「小さな耳」に由来する。これはauris「耳」の指小形で、話し言葉のラテン語における形を経てorecchiaとなった。古い集合複数形le orecchiaが単数女性形のように解釈され、uovo・uovaなどの型にならって男性単数orecchioが作られ、さらに規則的な男性複数orecchiが生まれたと説明される。同じ語族にはorecchino「イヤリング」、orecchietta「小さな耳・耳形パスタ」、auricolare「耳の・イヤホン」などがある。",
+    "it": "Risale al latino auricŭla, «piccolo orecchio», diminutivo di auris, «orecchio». Dalla sua evoluzione nel latino parlato si sviluppò la forma orecchia. L’antico plurale collettivo le orecchia fu successivamente reinterpretato e, per analogia con coppie come uovo e uova, venne ricostruito il singolare maschile orecchio; da questo si formò poi il plurale regolare orecchi. Appartengono alla stessa famiglia orecchino, orecchietta e auricolare."
+  },
+
+  "minimal": [
+    {
+      "word": "orecchio",
+      "ja": "音を受け取り、聴覚と平衡感覚に関与する耳の器官全体",
+      "it": "organo che permette di percepire i suoni e contribuisce all’equilibrio"
+    },
+    {
+      "word": "udito",
+      "ja": "音を聞き取る感覚・能力、聴覚",
+      "it": "senso e capacità fisiologica di percepire i suoni"
+    },
+    {
+      "word": "padiglione auricolare",
+      "ja": "頭の左右に見える、音を集める耳の外側部分、耳介",
+      "it": "parte esterna e visibile dell’orecchio che raccoglie i suoni"
+    },
+    {
+      "word": "timpano",
+      "ja": "外耳と中耳の間にあり、音によって振動する鼓膜",
+      "it": "membrana che vibra con i suoni e separa l’orecchio esterno da quello medio"
+    },
+    {
+      "word": "auricolare",
+      "ja": "耳に装着して音声を聞くイヤホン、または「耳の」を表す形容詞",
+      "it": "dispositivo da applicare all’orecchio oppure aggettivo relativo all’orecchio"
+    }
+  ],
+
+  "synonyms": [
+    "organo dell’udito",
+    "padiglione auricolare",
+    "udito",
+    "ascolto",
+    "sensibilità musicale",
+    "piegatura"
+  ],
+
+  "equivalents": {
+    "en": [
+      "ear",
+      "hearing",
+      "musical ear",
+      "dog-ear"
+    ],
+    "de": [
+      "Ohr",
+      "Gehör",
+      "musikalisches Gehör",
+      "Eselsohr"
+    ],
+    "fr": [
+      "oreille",
+      "ouïe",
+      "oreille musicale",
+      "corne de page"
+    ],
+    "es": [
+      "oreja",
+      "oído",
+      "oído musical",
+      "esquina doblada"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "avere mal d’orecchio",
+      "ja": "耳が痛い・耳の病気がある"
+    },
+    {
+      "it": "sentire con le proprie orecchie",
+      "ja": "自分の耳で直接聞く"
+    },
+    {
+      "it": "tendere l’orecchio",
+      "ja": "聞き取ろうと耳を澄ます"
+    },
+    {
+      "it": "prestare orecchio",
+      "ja": "注意して聞く・耳を貸す"
+    },
+    {
+      "it": "essere tutt’orecchi",
+      "ja": "全神経を集中して聞く"
+    },
+    {
+      "it": "avere orecchio musicale",
+      "ja": "音感がある"
+    },
+    {
+      "it": "suonare a orecchio",
+      "ja": "楽譜を使わず耳で覚えて演奏する"
+    },
+    {
+      "it": "sussurrare all’orecchio",
+      "ja": "耳元でささやく"
+    },
+    {
+      "it": "tapparsi le orecchie",
+      "ja": "耳をふさぐ"
+    },
+    {
+      "it": "drizzare le orecchie",
+      "ja": "注意を引かれて耳をそばだてる"
+    },
+    {
+      "it": "fare orecchie da mercante",
+      "ja": "聞こえないふりをする"
+    },
+    {
+      "it": "entrare da un orecchio e uscire dall’altro",
+      "ja": "聞いてもすぐ忘れる・聞き流す"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Mi fa male l’orecchio sinistro.",
+      "ja": "左耳が痛みます。"
+    },
+    {
+      "it": "Il medico ha esaminato entrambi gli orecchi.",
+      "ja": "医師は左右の耳をそれぞれ検査しました。"
+    },
+    {
+      "it": "La bambina si è coperta le orecchie con le mani.",
+      "ja": "女の子は両手で耳をふさぎました。"
+    },
+    {
+      "it": "Il cane ha le orecchie molto lunghe.",
+      "ja": "その犬はとても長い耳をしています。"
+    },
+    {
+      "it": "In inverno porto un cappello che copre le orecchie.",
+      "ja": "冬には耳を覆う帽子をかぶります。"
+    },
+    {
+      "it": "L’ho sentito con le mie orecchie.",
+      "ja": "私はそれを自分の耳で直接聞きました。"
+    },
+    {
+      "it": "Ho teso l’orecchio per capire che cosa dicevano.",
+      "ja": "彼らが何を言っているのか聞き取ろうと耳を澄ませました。"
+    },
+    {
+      "it": "Raccontami tutto: sono tutt’orecchi.",
+      "ja": "すべて話してください。注意して聞いています。"
+    },
+    {
+      "it": "Ha un ottimo orecchio musicale.",
+      "ja": "彼女は非常に優れた音感を持っています。"
+    },
+    {
+      "it": "Non sa leggere la musica, ma suona il pianoforte a orecchio.",
+      "ja": "彼は楽譜を読めませんが、耳で覚えてピアノを弾きます。"
+    },
+    {
+      "it": "Hai un buon orecchio per la pronuncia italiana.",
+      "ja": "あなたはイタリア語の発音を聞き分けるよい耳を持っています。"
+    },
+    {
+      "it": "Mi ha sussurrato la risposta all’orecchio.",
+      "ja": "彼女は私の耳元で答えをささやきました。"
+    },
+    {
+      "it": "Quando gli ho chiesto di aiutarmi, ha fatto orecchie da mercante.",
+      "ja": "助けてほしいと頼んだところ、彼は聞こえないふりをしました。"
+    },
+    {
+      "it": "I miei consigli gli entrano da un orecchio e gli escono dall’altro.",
+      "ja": "私の助言を彼は聞いてもすぐに忘れてしまいます。"
+    },
+    {
+      "it": "Parla piano: anche i muri hanno orecchi.",
+      "ja": "小声で話してください。壁にも耳があります。"
+    },
+    {
+      "it": "Mi fischiano le orecchie: qualcuno starà parlando di me.",
+      "ja": "耳鳴りがします。誰かが私のうわさをしているのでしょう。"
+    },
+    {
+      "it": "Non fare orecchie alle pagine del libro.",
+      "ja": "本のページの角を折らないでください。"
+    }
+  ]
+},
+{
+  "id": "occhio",
+  "sid": "2026-00368",
+  "word": "occhio",
+  "ipa": "/ˈɔkkjo/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "occhi",
+    "pattern": "l’occhio / gli occhi / avere gli occhi + aggettivo / guardare qualcuno negli occhi / tenere d’occhio + persona o cosa / occhio a + nome / locuzioni con a, sotto o con + occhio"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "technical",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "body",
+      "health",
+      "appearance",
+      "attention",
+      "observation",
+      "emotions",
+      "science",
+      "weather"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "光を受け取り、物を見る働きをする身体器官、目",
+      "まぶたに囲まれ、虹彩や瞳孔が見える目の部分",
+      "物を見る能力・視力",
+      "人や物に向けられる視線・まなざし",
+      "目の表情を通して示される感情・態度",
+      "細部・価値・状況などを正確に見抜く観察力・判断力",
+      "人・物・状況を監視し、注意して見守ること",
+      "Occhio!やocchio aの形で、危険や失敗に注意を促す呼びかけ",
+      "目に似た円形または楕円形の穴・開口部",
+      "チーズ・羽毛・石などに見られる目のような丸い穴や模様",
+      "植物の芽、特にジャガイモなどから芽が出る部分",
+      "低気圧・台風・ハリケーンなどの中心にある比較的静かな部分",
+      "比喩的に、非常に高い値段や多額の金銭"
+    ],
+    "it": [
+      "Organo della vista che riceve gli stimoli luminosi e permette di vedere.",
+      "Parte visibile del bulbo oculare, protetta dalle palpebre e comprendente iride e pupilla.",
+      "Capacità visiva o qualità della vista.",
+      "Direzione dello sguardo rivolto verso una persona o una cosa.",
+      "Espressione di sentimenti o atteggiamenti manifestata attraverso lo sguardo.",
+      "Capacità di osservare, valutare o riconoscere con precisione.",
+      "Attenzione o sorveglianza esercitata su una persona, un oggetto o una situazione.",
+      "Come esclamazione o nella costruzione occhio a, richiamo a fare attenzione.",
+      "Foro o apertura di forma circolare o ellittica simile a un occhio.",
+      "Macchia, disegno o cavità tondeggiante presente in formaggi, piumaggi, pietre o altri materiali.",
+      "In botanica, gemma dalla quale può svilupparsi un nuovo germoglio.",
+      "Parte centrale relativamente calma di un ciclone o di un’altra perturbazione atmosferica.",
+      "In espressioni colloquiali, quantità di denaro molto elevata."
+    ]
+  },
+
+  "nuance": {
+    "ja": "occhioは目という器官そのものを指す。vistaは「視力・視界・見える能力」に重点があり、sguardoは人や物へ向けられた「視線・まなざし」を表す。たとえばHo un problema a un occhioは片方の目の問題、Ho perso la vistaは視力を失ったこと、Mi ha rivolto uno sguardo tristeは悲しげな視線を向けたことを意味する。複数形occhiは目の色・表情・両目について述べるときに非常によく使われる。avere occhioは優れた観察力や判断力を持つこと、tenere d’occhioは注意して監視することを表す。Occhio!は「気をつけて！」という口語的な警告で、具体的な対象はOcchio alla macchina!のようにaで導く。a occhioまたはa occhio e croceは正確に測らず概算すること、a occhio nudoは望遠鏡などの光学器具を使わずに見ることを意味する。",
+    "it": "Occhio indica innanzitutto l’organo fisico. Vista mette in rilievo la facoltà di vedere o il campo visivo, mentre sguardo indica gli occhi rivolti intenzionalmente verso qualcuno o qualcosa e può esprimere un sentimento. Il plurale occhi è particolarmente comune quando si parla di colore, aspetto o espressione: occhi azzurri, occhi stanchi, occhi pieni di paura. Avere occhio significa possedere capacità di osservazione o buon giudizio; tenere d’occhio significa sorvegliare. Occhio! è un avvertimento colloquiale e il pericolo può essere introdotto da a: Occhio alla macchina! A occhio e a occhio e croce indicano una valutazione approssimativa, mentre a occhio nudo significa senza l’aiuto di strumenti ottici."
+  },
+
+  "etymology": {
+    "ja": "ラテン語ocŭlus「目」に由来する。音韻変化によりラテン語の語中の-cŭl-がイタリア語で- cchi-となり、oculusからocchioが生じた。同じラテン語系統にはoculare「眼の・接眼レンズ」、oculista「眼科医」、occhiale「眼鏡のレンズ」、occhiata「ひと目・一瞥」などがある。フランス語œil、スペイン語ojo、ポルトガル語olhoもラテン語oculusに由来する。",
+    "it": "Deriva dal latino ocŭlus, «occhio». Attraverso la normale evoluzione fonetica dal latino all’italiano, il gruppo interno della parola ha dato la forma occhio. Appartengono alla stessa famiglia oculare, oculista, occhiale, occhiata, occhietto e occhiolino. Anche il francese œil, lo spagnolo ojo e il portoghese olho continuano il latino oculus."
+  },
+
+  "minimal": [
+    {
+      "word": "occhio",
+      "ja": "物を見る身体器官、または視線・観察力・注意を表す語",
+      "it": "organo della vista oppure, figuratamente, sguardo, capacità di osservazione o attenzione"
+    },
+    {
+      "word": "vista",
+      "ja": "物を見る能力・視力、または目に入る景色や視界",
+      "it": "facoltà di vedere oppure insieme di ciò che è visibile da un determinato punto"
+    },
+    {
+      "word": "sguardo",
+      "ja": "人や物へ意識的に向けられ、感情も表し得る視線",
+      "it": "atto e modo di rivolgere gli occhi verso qualcuno o qualcosa"
+    },
+    {
+      "word": "pupilla",
+      "ja": "光の量に応じて大きさが変化する、虹彩中央の黒く見える部分",
+      "it": "apertura centrale dell’iride che regola la quantità di luce diretta alla retina"
+    },
+    {
+      "word": "palpebra",
+      "ja": "目を覆って保護し、開閉する皮膚のひだ、まぶた",
+      "it": "piega mobile della pelle che copre e protegge la parte anteriore dell’occhio"
+    }
+  ],
+
+  "synonyms": [
+    "organo della vista",
+    "vista",
+    "sguardo",
+    "attenzione",
+    "osservazione",
+    "apertura"
+  ],
+
+  "equivalents": {
+    "en": [
+      "eye",
+      "sight",
+      "gaze",
+      "opening"
+    ],
+    "de": [
+      "Auge",
+      "Sehvermögen",
+      "Blick",
+      "Öffnung"
+    ],
+    "fr": [
+      "œil",
+      "vue",
+      "regard",
+      "ouverture"
+    ],
+    "es": [
+      "ojo",
+      "vista",
+      "mirada",
+      "abertura"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "avere male agli occhi",
+      "ja": "目が痛い"
+    },
+    {
+      "it": "guardare qualcuno negli occhi",
+      "ja": "誰かの目をまっすぐ見る"
+    },
+    {
+      "it": "tenere d’occhio qualcuno o qualcosa",
+      "ja": "人や物を注意して見守る・監視する"
+    },
+    {
+      "it": "avere qualcosa sotto gli occhi",
+      "ja": "何かを目の前にしている"
+    },
+    {
+      "it": "vedere a occhio nudo",
+      "ja": "肉眼で見る"
+    },
+    {
+      "it": "valutare a occhio e croce",
+      "ja": "おおよその見当で判断する"
+    },
+    {
+      "it": "saltare agli occhi",
+      "ja": "一目で明らかである・目につく"
+    },
+    {
+      "it": "chiudere un occhio",
+      "ja": "過失などを大目に見る"
+    },
+    {
+      "it": "vedere di buon occhio",
+      "ja": "好意的に見る・歓迎する"
+    },
+    {
+      "it": "costare un occhio della testa",
+      "ja": "非常に高価である"
+    },
+    {
+      "it": "estendersi a perdita d’occhio",
+      "ja": "見渡す限り広がる"
+    },
+    {
+      "it": "Occhio!",
+      "ja": "気をつけて！"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Mi è entrato qualcosa nell’occhio.",
+      "ja": "目に何かが入りました。"
+    },
+    {
+      "it": "La bambina ha gli occhi azzurri come sua madre.",
+      "ja": "その女の子は母親と同じように青い目をしています。"
+    },
+    {
+      "it": "Da qualche giorno vedo male dall’occhio sinistro.",
+      "ja": "数日前から左目がよく見えません。"
+    },
+    {
+      "it": "Mi ha guardato negli occhi senza dire nulla.",
+      "ja": "彼女は何も言わずに私の目を見つめました。"
+    },
+    {
+      "it": "La paura gli si leggeva negli occhi.",
+      "ja": "彼が怖がっていることは目を見れば分かりました。"
+    },
+    {
+      "it": "Quella fotografa ha un ottimo occhio per i dettagli.",
+      "ja": "その写真家は細部を見抜く優れた目を持っています。"
+    },
+    {
+      "it": "Puoi tenere d’occhio la mia valigia per un momento?",
+      "ja": "少しの間、私のスーツケースを見ていてもらえますか。"
+    },
+    {
+      "it": "Il documento che cerchi è proprio sotto i tuoi occhi.",
+      "ja": "あなたが探している書類は、まさに目の前にあります。"
+    },
+    {
+      "it": "In una notte limpida questa stella è visibile a occhio nudo.",
+      "ja": "晴れた夜には、この星は肉眼で見えます。"
+    },
+    {
+      "it": "A occhio e croce, la stanza è lunga cinque metri.",
+      "ja": "おおよその見当では、その部屋は長さ5メートルです。"
+    },
+    {
+      "it": "La differenza tra i due modelli salta subito agli occhi.",
+      "ja": "二つのモデルの違いは一目で分かります。"
+    },
+    {
+      "it": "Questa volta chiuderò un occhio, ma non deve succedere di nuovo.",
+      "ja": "今回は大目に見ますが、二度と起きてはいけません。"
+    },
+    {
+      "it": "Il direttore vede di buon occhio la nostra proposta.",
+      "ja": "責任者は私たちの提案を好意的に見ています。"
+    },
+    {
+      "it": "Quell’albergo costa un occhio della testa.",
+      "ja": "あのホテルはものすごく高いです。"
+    },
+    {
+      "it": "I campi si estendevano a perdita d’occhio.",
+      "ja": "畑は見渡す限り広がっていました。"
+    },
+    {
+      "it": "Occhio alla macchina quando attraversi la strada!",
+      "ja": "道路を渡るときは車に気をつけて！"
+    },
+    {
+      "it": "Il pavone apre la coda mostrando numerosi disegni simili a occhi.",
+      "ja": "クジャクは尾を広げ、目のような模様をいくつも見せます。"
+    },
+    {
+      "it": "L’aereo ha attraversato l’occhio del ciclone.",
+      "ja": "飛行機はサイクロンの目を通過しました。"
+    }
+  ]
+},
+{
+  "id": "naso",
+  "sid": "2026-00369",
+  "word": "naso",
+  "ipa": "/ˈnazo/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "nasi",
+    "pattern": "il naso / i nasi / avere il naso + aggettivo / soffiarsi il naso / avere naso per + nome / ficcare il naso in + nome / sotto il naso"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "figurative",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "body",
+      "health",
+      "appearance",
+      "smell",
+      "emotions",
+      "judgment",
+      "business",
+      "social_relations"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "顔の中央で額と上唇の間にあり、鼻孔を備えた突出部分、鼻",
+      "呼吸する空気の通り道となり、嗅覚器官を収める身体部分",
+      "犬などの哺乳動物の鼻・鼻先",
+      "匂いを感じ、識別する能力、嗅覚",
+      "匂い・品質・危険などを敏感に察知する能力",
+      "比喩的に、人・機会・問題などの本質を見抜く直感・洞察力",
+      "人の顔全体、特に何かが目の前に迫る場面での顔",
+      "物や機械などにある、鼻に似て前方へ突き出た部分",
+      "嫌悪・疑念・不満などを示す表情や態度",
+      "他人の事情へ不必要に立ち入ろうとする好奇心・干渉",
+      "尊大で気取った態度",
+      "慣用表現で、目の前にあること、視野の狭さ、失望などを表す"
+    ],
+    "it": [
+      "Parte sporgente del viso situata tra la fronte e il labbro superiore e dotata delle narici.",
+      "Parte del corpo che costituisce l’ingresso delle vie respiratorie e protegge l’organo dell’olfatto.",
+      "Parte corrispondente del muso di molti mammiferi.",
+      "Capacità di percepire e distinguere gli odori.",
+      "Sensibilità nel riconoscere odori, qualità, pericoli o altre caratteristiche.",
+      "In senso figurato, intuito o capacità di comprendere rapidamente persone, situazioni e opportunità.",
+      "Per estensione, il volto di una persona, specialmente in alcune espressioni idiomatiche.",
+      "Parte di un oggetto o di una macchina che sporge in modo simile a un naso.",
+      "Gesto o espressione che manifesta disgusto, dubbio, contrarietà o disapprovazione.",
+      "Curiosità indiscreta o tendenza a intromettersi negli affari altrui.",
+      "Atteggiamento altezzoso, sprezzante o eccessivamente sofisticato.",
+      "Nelle locuzioni idiomatiche, elemento associato a vicinanza, scarsa lungimiranza, sorpresa o delusione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "nasoは身体部分としての「鼻」を表し、olfattoは感覚機能としての「嗅覚」、odoreは鼻で感じられる「匂い」を指す。Ho il naso chiusoは鼻詰まり、Ho perso l’olfattoは嗅覚を失ったこと、Sento uno strano odoreは変な匂いを感じることを意味する。avere un buon nasoは実際に嗅覚が優れている場合にも、優れた直感を持つ場合にも使える。avere naso per gli affariは「商才がある」、andare a nasoは十分な証拠や計算によらず直感で判断することを表す。arricciare il nasoは不満や嫌悪を示し、ficcare il naso negli affari altruiは他人の事情に余計な口出しをするという否定的な表現である。",
+    "it": "Naso indica la parte fisica del volto; olfatto è la facoltà sensoriale che permette di percepire gli odori, mentre odore è ciò che viene percepito. Ho il naso chiuso descrive un’ostruzione nasale; ho perso l’olfatto indica la perdita della capacità di sentire gli odori. Avere un buon naso può riferirsi sia a una buona capacità olfattiva sia, figuratamente, a un’intuizione particolarmente efficace. Avere naso per gli affari significa saper riconoscere buone opportunità. Andare a naso significa affidarsi all’istinto. Arricciare il naso manifesta disgusto o disapprovazione; ficcare il naso negli affari altrui indica invece un’intromissione indiscreta."
+  },
+
+  "etymology": {
+    "ja": "ラテン語nasus「鼻」を直接継承した語である。nasale「鼻の・鼻音の」、nasino「小さな鼻」、nasone「大きな鼻」、nasuto「鼻の大きい」、denasaleなどが同じ語族に属する。ラテン語には鼻孔を表すnarisもあり、スペイン語narizやポルトガル語narizは主にこの形に由来する。一方、フランス語nezはラテン語nasusと同系統である。",
+    "it": "Continua direttamente il latino nasus, «naso». Appartengono alla stessa famiglia nasale, nasino, nasone, nasuto e nasalizzare. In latino esisteva anche naris, «narice», forma alla quale sono principalmente ricondotti lo spagnolo nariz e il portoghese nariz. Il francese nez continua invece una forma derivata da nasus."
+  },
+
+  "minimal": [
+    {
+      "word": "naso",
+      "ja": "顔にある鼻、または比喩的に嗅覚・直感を表す",
+      "it": "parte prominente del viso oppure, figuratamente, capacità olfattiva o intuito"
+    },
+    {
+      "word": "olfatto",
+      "ja": "匂いを知覚し識別する感覚機能、嗅覚",
+      "it": "senso che permette di percepire e distinguere gli odori"
+    },
+    {
+      "word": "odore",
+      "ja": "物質から発せられ、嗅覚によって感じられる匂い",
+      "it": "sensazione prodotta da una sostanza e percepita attraverso l’olfatto"
+    },
+    {
+      "word": "narice",
+      "ja": "鼻の下部にある、空気が出入りする左右それぞれの穴、鼻孔",
+      "it": "ciascuna delle due aperture esterne attraverso le quali passa l’aria"
+    },
+    {
+      "word": "muso",
+      "ja": "動物の鼻と口を含む顔の前方部分、または乗り物の前部",
+      "it": "parte anteriore della testa di un animale comprendente bocca e naso oppure parte frontale di un veicolo"
+    }
+  ],
+
+  "synonyms": [
+    "organo dell’olfatto",
+    "olfatto",
+    "fiuto",
+    "intuito",
+    "sagacia",
+    "parte sporgente"
+  ],
+
+  "equivalents": {
+    "en": [
+      "nose",
+      "sense of smell",
+      "scent",
+      "instinct"
+    ],
+    "de": [
+      "Nase",
+      "Geruchssinn",
+      "Spürsinn",
+      "Instinkt"
+    ],
+    "fr": [
+      "nez",
+      "odorat",
+      "flair",
+      "intuition"
+    ],
+    "es": [
+      "nariz",
+      "olfato",
+      "instinto",
+      "intuición"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "soffiarsi il naso",
+      "ja": "鼻をかむ"
+    },
+    {
+      "it": "avere il naso chiuso",
+      "ja": "鼻が詰まっている"
+    },
+    {
+      "it": "perdere sangue dal naso",
+      "ja": "鼻血を出す"
+    },
+    {
+      "it": "respirare con il naso",
+      "ja": "鼻で呼吸する"
+    },
+    {
+      "it": "avere buon naso per qualcosa",
+      "ja": "何かを見抜く優れた勘がある"
+    },
+    {
+      "it": "andare a naso",
+      "ja": "直感を頼りに判断する"
+    },
+    {
+      "it": "arricciare il naso",
+      "ja": "嫌そうな顔をする・難色を示す"
+    },
+    {
+      "it": "ficcare il naso negli affari altrui",
+      "ja": "他人の事情に首を突っ込む"
+    },
+    {
+      "it": "avere la puzza sotto il naso",
+      "ja": "気取っている・お高くとまっている"
+    },
+    {
+      "it": "avere qualcosa sotto il naso",
+      "ja": "何かがすぐ目の前にある"
+    },
+    {
+      "it": "non vedere più in là del proprio naso",
+      "ja": "目先のことしか考えられない"
+    },
+    {
+      "it": "restare con un palmo di naso",
+      "ja": "失望する・あっけに取られる"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Il bambino ha il naso piccolo e gli occhi grandi.",
+      "ja": "その子供は鼻が小さく、目が大きいです。"
+    },
+    {
+      "it": "Mi soffio continuamente il naso perché sono raffreddato.",
+      "ja": "風邪をひいているので、絶えず鼻をかんでいます。"
+    },
+    {
+      "it": "Ho il naso chiuso e faccio fatica a respirare.",
+      "ja": "鼻が詰まっていて、呼吸するのが大変です。"
+    },
+    {
+      "it": "Dopo la caduta gli è uscito un po’ di sangue dal naso.",
+      "ja": "転んだ後、彼は少し鼻血を出しました。"
+    },
+    {
+      "it": "Il cane ha avvicinato il naso alla borsa e ha cominciato ad annusarla.",
+      "ja": "犬は鞄に鼻を近づけ、匂いを嗅ぎ始めました。"
+    },
+    {
+      "it": "Questo cuoco ha un naso molto sensibile per le spezie.",
+      "ja": "この料理人は香辛料に対して非常に鋭い嗅覚を持っています。"
+    },
+    {
+      "it": "Marta ha buon naso per gli affari e riconosce subito le occasioni migliori.",
+      "ja": "マルタは商才があり、よい機会をすぐに見抜きます。"
+    },
+    {
+      "it": "Non ho prove, ma a naso direi che qualcosa non va.",
+      "ja": "証拠はありませんが、直感では何かがおかしいと思います。"
+    },
+    {
+      "it": "Ha arricciato il naso quando ha visto il prezzo.",
+      "ja": "彼女は値段を見て難色を示しました。"
+    },
+    {
+      "it": "Non ficcare il naso nei miei affari.",
+      "ja": "私のことに首を突っ込まないでください。"
+    },
+    {
+      "it": "Quel cliente ha sempre la puzza sotto il naso.",
+      "ja": "あの顧客はいつもお高くとまっています。"
+    },
+    {
+      "it": "Ho cercato gli occhiali per dieci minuti, ma li avevo proprio sotto il naso.",
+      "ja": "眼鏡を10分間探しましたが、すぐ目の前にありました。"
+    },
+    {
+      "it": "Chi pensa soltanto al guadagno immediato non vede più in là del proprio naso.",
+      "ja": "目先の利益だけを考える人は、先のことを見通せません。"
+    },
+    {
+      "it": "Quando il viaggio è stato annullato, siamo rimasti con un palmo di naso.",
+      "ja": "旅行が中止されたとき、私たちはすっかり失望しました。"
+    },
+    {
+      "it": "In alcuni usi tecnici, naso indica una parte sporgente di una macchina.",
+      "ja": "一部の専門用法では、nasoは機械の突き出た部分を指します。"
+    }
+  ]
+},
+{
+  "id": "schiena",
+  "sid": "2026-00370",
+  "word": "schiena",
+  "ipa": "/ˈskjɛna/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "schiene",
+    "pattern": "la schiena / le schiene / avere mal di schiena / sentire dolore alla schiena / stare, dormire o cadere di schiena / voltare la schiena a + persona / sulla schiena"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "figurative",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "body",
+      "health",
+      "posture",
+      "work",
+      "sport",
+      "animals",
+      "relationships",
+      "geography"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人の身体の後ろ側で、首の下から腰の上部までに当たる部分、背中",
+      "背中の中央を縦に通る脊柱・背骨",
+      "姿勢や身体の向きを示す背中",
+      "動物の首の付け根から腰または尾の付け根までの背",
+      "人や動物が物を載せたり運んだりする背の部分",
+      "背中に掛かる肉体的な負担・重労働",
+      "比喩的に、人が負う責任・問題・経済的負担",
+      "人に背を向けて立ち去ること、または人を見捨てること",
+      "背を曲げる動作から、服従・屈服すること",
+      "背後から攻撃することから、卑劣な攻撃・裏切り",
+      "動物の背のように中央が高く、両側へ傾斜する形",
+      "丸く盛り上がった山の稜線や尾根"
+    ],
+    "it": [
+      "Parte posteriore del tronco umano compresa approssimativamente tra la nuca e la regione lombare.",
+      "Per estensione, colonna vertebrale o linea centrale formata dalle vertebre.",
+      "Parte del corpo considerata in relazione alla postura o all’orientamento.",
+      "Dorso o groppa di un animale, dalla base del collo verso la parte posteriore del corpo.",
+      "Parte del corpo umano o animale sulla quale viene portato un peso.",
+      "In senso figurato, fatica fisica intensa provocata da un lavoro pesante.",
+      "Responsabilità, problema o peso materiale che una persona deve sopportare.",
+      "Nell’atto di voltarla a qualcuno, abbandono, rifiuto di aiuto o fuga.",
+      "Nell’atto di curvarla, sottomissione o rinuncia a opporsi.",
+      "In espressioni relative a un attacco da dietro, tradimento o aggressione sleale.",
+      "Forma rialzata al centro e inclinata verso i lati, simile al dorso di un animale.",
+      "Rilievo montano dalla sommità arrotondata che separa due versanti."
+    ]
+  },
+
+  "nuance": {
+    "ja": "schienaは日常語として人の「背中」全体を表す。dorsoも「背・背面」を意味するが、人についてはやや文章語・解剖学的に響き、動物や本・刃物などの背面にも広く使われる。spalleは本来左右の「肩」だが、複数形では上背部を含み、責任や負担を表す慣用表現ではavere un peso sulle spalleのほうが一般的である。腰に近い背中の痛みにも通常mal di schienaを使い、mal di vitaとは言わない。voltare la schiena a qualcunoは人を見捨てることを表し、voltare le spalle a qualcunoとほぼ同じ意味になる。di schienaは背中側を向けた状態、または背中から倒れる動きを表す。",
+    "it": "Schiena è il termine quotidiano più comune per la parte posteriore del tronco umano. Dorso può indicare la stessa zona, ma con una sfumatura più formale, anatomica o letteraria; si usa inoltre comunemente per animali e oggetti, come il dorso di un libro. Spalle indica propriamente le due zone tra il collo e le braccia, ma al plurale può comprendere la parte superiore della schiena. Nelle espressioni figurate relative a responsabilità e preoccupazioni è particolarmente comune avere un peso sulle spalle. Mal di schiena può riferirsi anche alla regione lombare. Voltare la schiena a qualcuno significa abbandonarlo o negargli aiuto ed è vicino a voltargli le spalle. Di schiena indica una posizione rivolta dalla parte posteriore oppure una caduta sul dorso."
+  },
+
+  "etymology": {
+    "ja": "ゲルマン語系の語に由来し、一般にランゴバルド語の再建形*skënaまたはゲルマン語の*skinaにさかのぼるとされる。もともとは細長い板状の物や骨組みを表す語と関連し、背骨や背中を示す語になったと考えられる。現代ドイツ語Schiene「レール・副木」と比較される。イタリア語の派生語にはschienale「背もたれ」、schienata「背中からの転倒」、schienone「大きな背中」がある。",
+    "it": "È una parola di origine germanica, generalmente ricondotta al longobardo ricostruito *skëna o al germanico *skina. Viene tradizionalmente confrontata con il tedesco moderno Schiene, «rotaia, stecca, tutore». Alla famiglia italiana appartengono schienale, schienata, schienone e fondoschiena."
+  },
+
+  "minimal": [
+    {
+      "word": "schiena",
+      "ja": "人の首の下から腰までの身体後面を表す日常的な語",
+      "it": "parte posteriore del tronco umano, dalla zona delle spalle a quella lombare"
+    },
+    {
+      "word": "dorso",
+      "ja": "人・動物・物の背面を表す、schienaより改まった、または広い用途の語",
+      "it": "parte posteriore del corpo o lato esterno di un oggetto, con uso spesso più formale o tecnico"
+    },
+    {
+      "word": "spalla",
+      "ja": "首と腕の付け根の間にある左右それぞれの肩",
+      "it": "ciascuna delle due parti del corpo che collegano il collo e il torace alle braccia"
+    },
+    {
+      "word": "colonna vertebrale",
+      "ja": "椎骨が連なって身体を支える脊柱・背骨",
+      "it": "struttura formata dalle vertebre che sostiene il corpo e protegge il midollo spinale"
+    },
+    {
+      "word": "vita",
+      "ja": "胸郭と腰の間にある胴体の細くなった部分、腰回り",
+      "it": "parte più stretta del tronco situata tra il torace e i fianchi"
+    }
+  ],
+
+  "synonyms": [
+    "dorso",
+    "tergo",
+    "spalle",
+    "groppa",
+    "colonna vertebrale",
+    "spina dorsale"
+  ],
+
+  "equivalents": {
+    "en": [
+      "back",
+      "spine",
+      "animal’s back",
+      "ridge"
+    ],
+    "de": [
+      "Rücken",
+      "Wirbelsäule",
+      "Tierrücken",
+      "Bergrücken"
+    ],
+    "fr": [
+      "dos",
+      "colonne vertébrale",
+      "échine",
+      "crête"
+    ],
+    "es": [
+      "espalda",
+      "columna vertebral",
+      "lomo",
+      "cresta"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "avere mal di schiena",
+      "ja": "腰や背中が痛い"
+    },
+    {
+      "it": "sentire dolore alla schiena",
+      "ja": "背中に痛みを感じる"
+    },
+    {
+      "it": "dormire sulla schiena",
+      "ja": "あおむけで寝る"
+    },
+    {
+      "it": "cadere di schiena",
+      "ja": "背中から倒れる"
+    },
+    {
+      "it": "tenere la schiena dritta",
+      "ja": "背筋を伸ばしておく"
+    },
+    {
+      "it": "piegare la schiena",
+      "ja": "背中を曲げる"
+    },
+    {
+      "it": "appoggiare la schiena allo schienale",
+      "ja": "背中を背もたれに預ける"
+    },
+    {
+      "it": "sentire un brivido lungo la schiena",
+      "ja": "背筋に寒気が走る"
+    },
+    {
+      "it": "portare qualcosa sulla schiena",
+      "ja": "何かを背負って運ぶ"
+    },
+    {
+      "it": "rompersi la schiena lavorando",
+      "ja": "身を粉にして働く"
+    },
+    {
+      "it": "voltare la schiena a qualcuno",
+      "ja": "人を見捨てる・人に背を向ける"
+    },
+    {
+      "it": "ponte a schiena d’asino",
+      "ja": "中央が高く弓なりになった橋"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Dopo essere rimasto seduto tutto il giorno, ho mal di schiena.",
+      "ja": "一日中座っていたので、腰が痛いです。"
+    },
+    {
+      "it": "Sento un dolore nella parte bassa della schiena.",
+      "ja": "腰に近い背中の下部に痛みを感じます。"
+    },
+    {
+      "it": "Il medico mi ha consigliato di tenere la schiena dritta.",
+      "ja": "医師は私に背筋を伸ばすよう勧めました。"
+    },
+    {
+      "it": "Preferisco dormire sulla schiena.",
+      "ja": "私はあおむけで寝るほうが好きです。"
+    },
+    {
+      "it": "È scivolato sul fango ed è caduto di schiena.",
+      "ja": "彼は泥の上で滑り、背中から倒れました。"
+    },
+    {
+      "it": "Appoggia bene la schiena allo schienale della sedia.",
+      "ja": "背中を椅子の背もたれにしっかり預けてください。"
+    },
+    {
+      "it": "A quel rumore improvviso ho sentito un brivido lungo la schiena.",
+      "ja": "その突然の音を聞いて、背筋に寒気が走りました。"
+    },
+    {
+      "it": "Il bambino portava uno zaino pesante sulla schiena.",
+      "ja": "その子供は背中に重いリュックを背負っていました。"
+    },
+    {
+      "it": "Il cavallo trasportava le provviste sulla schiena.",
+      "ja": "馬は背に食料を載せて運んでいました。"
+    },
+    {
+      "it": "Si è rotto la schiena per mantenere la famiglia.",
+      "ja": "彼は家族を養うために身を粉にして働きました。"
+    },
+    {
+      "it": "Nel momento più difficile, molti amici gli hanno voltato la schiena.",
+      "ja": "最も苦しいときに、多くの友人が彼を見捨てました。"
+    },
+    {
+      "it": "Non intende curvare la schiena davanti alle minacce.",
+      "ja": "彼は脅迫に屈するつもりはありません。"
+    },
+    {
+      "it": "La strada attraversa la schiena della montagna.",
+      "ja": "その道は山の丸い稜線を横切っています。"
+    },
+    {
+      "it": "Il vecchio ponte a schiena d’asino è più alto al centro.",
+      "ja": "その古い反り橋は中央部分が高くなっています。"
+    }
+  ]
+},
+{
+  "id": "pancia",
+  "sid": "2026-00371",
+  "word": "pancia",
+  "ipa": "/ˈpantʃa/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "pance",
+    "pattern": "la pancia / le pance / avere mal di pancia / avere la pancia + aggettivo / a pancia in giù o in su / di pancia / pancia di + persona, animale o oggetto"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "figurative",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "body",
+      "health",
+      "food",
+      "pregnancy",
+      "emotions",
+      "appearance",
+      "transport",
+      "construction"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "胸部と骨盤の間にある身体の前側、お腹・腹部",
+      "腹部の内部にある胃腸などの消化器官を漠然と指す語",
+      "腹部に感じる痛み・空腹・膨満などの感覚が生じる場所",
+      "動物の腹・腹側",
+      "太ったり食べすぎたりして前へ膨らんだ腹",
+      "妊娠によって大きくなった腹",
+      "食欲や食事など、人間の基本的・物質的欲求の象徴",
+      "考えて決めるのではなく、感情や直感に従う判断",
+      "容器などの丸く膨らんだ中央部分",
+      "壁・布・その他の表面に生じた不自然な膨らみ",
+      "文字の線で囲まれた丸い部分",
+      "航空機・大型船などの下部にある貨物収容空間",
+      "風を受けて膨らんだ帆の部分",
+      "食肉用に処理された動物の腹部に当たる肉の部位"
+    ],
+    "it": [
+      "Parte anteriore del corpo compresa tra il torace e il bacino.",
+      "Insieme degli organi addominali, soprattutto quelli dell’apparato digerente, considerati in modo non tecnico.",
+      "Zona del corpo nella quale si avvertono dolore, fame, gonfiore o altri disturbi digestivi.",
+      "Parte ventrale del corpo di un animale.",
+      "Ventre grosso o prominente dovuto all’aumento di peso o al cibo.",
+      "Ventre ingrossato durante la gravidanza.",
+      "In senso figurato, appetito o soddisfacimento dei bisogni fisici e materiali.",
+      "Nell’espressione di pancia, reazione o decisione istintiva ed emotiva, non pienamente ragionata.",
+      "Parte convessa, tondeggiante e sporgente di un recipiente o di un oggetto.",
+      "Rigonfiamento o deformazione di una parete, una superficie o un materiale.",
+      "Parte chiusa e arrotondata di alcune lettere dell’alfabeto.",
+      "Spazio inferiore di un aereo o di una grande imbarcazione destinato soprattutto alle merci.",
+      "Rigonfiamento formato da una vela quando riceve il vento.",
+      "Taglio di carne corrispondente alla regione addominale dell’animale."
+    ]
+  },
+
+  "nuance": {
+    "ja": "panciaは日常会話で最も使いやすい「お腹」で、外側の腹部と内部の胃腸を明確に区別しない。addomeは解剖学・医療などで使われる正式な「腹部」、ventreはpanciaより中立的または文章語的で、妊娠・動物・身体内部についても使われる。stomacoは本来、消化器官としての「胃」であるため、Mi fa male la panciaは腹部全般の痛み、Mi fa male lo stomacoは胃の痛みを中心に表す。子供に対しては指小形pancinoやpancinaもよく使われる。妊娠した腹にはpanciaも使えるが、日常的にはpancione「大きなお腹」も一般的である。decidere di panciaは直感的に決めることを表すが、文脈によっては感情的・非合理的だという否定的な評価を伴う。",
+    "it": "Pancia è il termine quotidiano più comune e può indicare senza precisione anatomica sia la superficie esterna dell’addome sia gli organi digestivi. Addome è il termine più preciso e tecnico; ventre può essere più neutro, formale o letterario. Stomaco indica propriamente un organo specifico: mi fa male la pancia può riferirsi a tutta la zona addominale, mentre mi fa male lo stomaco localizza maggiormente il disturbo nell’apparato gastrico. Con i bambini sono comuni i diminutivi pancino e pancina. Una donna incinta può avere una pancia evidente, ma pancione è frequente per indicare affettuosamente il ventre molto ingrossato. Decidere di pancia significa seguire l’istinto o l’emozione e può assumere una sfumatura negativa di irrazionalità."
+  },
+
+  "etymology": {
+    "ja": "ラテン語pantex、属格panticis「腹・腸」に由来し、特に複数形pantices「腸、内臓」から発達したとされる。ラテン語より前の起源は明確ではない。古フランス語panceやプロヴァンス語pansaにも対応する形が見られる。イタリア語の同じ語族にはpancino「小さなお腹」、pancione「大きく膨らんだ腹」、panciuto「腹の出た」、panciera「腹巻き」がある。",
+    "it": "Deriva dal latino pantex, genitivo panticis, «ventre, intestino», probabilmente attraverso il plurale pantices, «intestini, viscere». L’origine più remota della parola latina è incerta. Sono confrontabili l’antico francese pance e il provenzale pansa. Alla famiglia italiana appartengono pancino, pancina, pancione, panciuto e panciera."
+  },
+
+  "minimal": [
+    {
+      "word": "pancia",
+      "ja": "外側の腹部と内部の胃腸を広く指す日常的な「お腹」",
+      "it": "termine quotidiano che indica la parte addominale esterna o, genericamente, gli organi digestivi"
+    },
+    {
+      "word": "addome",
+      "ja": "胸部と骨盤の間にある身体領域を指す解剖学的・医学的な「腹部」",
+      "it": "regione anatomica del corpo compresa tra torace e bacino"
+    },
+    {
+      "word": "ventre",
+      "ja": "腹部または体内を表す、panciaより中立的・文章語的な語",
+      "it": "parte addominale del corpo, con tono spesso più neutro, formale o letterario"
+    },
+    {
+      "word": "stomaco",
+      "ja": "食べ物を一時的に蓄え、消化する器官としての胃",
+      "it": "organo dell’apparato digerente nel quale il cibo viene raccolto e parzialmente digerito"
+    },
+    {
+      "word": "vita",
+      "ja": "胸郭と腰の間にある胴体の細くなった部分、腰回り",
+      "it": "parte più stretta del tronco situata tra il torace e i fianchi"
+    }
+  ],
+
+  "synonyms": [
+    "ventre",
+    "addome",
+    "stomaco",
+    "pancione",
+    "rigonfiamento",
+    "parte ventrale"
+  ],
+
+  "equivalents": {
+    "en": [
+      "belly",
+      "tummy",
+      "abdomen",
+      "gut"
+    ],
+    "de": [
+      "Bauch",
+      "Unterleib",
+      "Bäuchlein",
+      "Bauchraum"
+    ],
+    "fr": [
+      "ventre",
+      "bedon",
+      "abdomen",
+      "tripes"
+    ],
+    "es": [
+      "barriga",
+      "vientre",
+      "abdomen",
+      "panza"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "avere mal di pancia",
+      "ja": "お腹が痛い"
+    },
+    {
+      "it": "avere la pancia gonfia",
+      "ja": "お腹が張っている"
+    },
+    {
+      "it": "avere la pancia vuota",
+      "ja": "空腹である"
+    },
+    {
+      "it": "essere a pancia piena",
+      "ja": "満腹である"
+    },
+    {
+      "it": "avere la pancia che brontola",
+      "ja": "空腹でお腹が鳴っている"
+    },
+    {
+      "it": "dormire a pancia in giù",
+      "ja": "うつ伏せで寝る"
+    },
+    {
+      "it": "sdraiarsi a pancia in su",
+      "ja": "あおむけに横になる"
+    },
+    {
+      "it": "tenersi la pancia dalle risate",
+      "ja": "腹を抱えて笑う"
+    },
+    {
+      "it": "mettere su pancia",
+      "ja": "太ってお腹が出る"
+    },
+    {
+      "it": "riempirsi la pancia",
+      "ja": "腹いっぱい食べる"
+    },
+    {
+      "it": "decidere di pancia",
+      "ja": "理屈より直感や感情で決める"
+    },
+    {
+      "it": "una parete che fa pancia",
+      "ja": "外側へ膨らんだ壁"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Ho mangiato troppo e adesso mi fa male la pancia.",
+      "ja": "食べすぎて、今はお腹が痛いです。"
+    },
+    {
+      "it": "Il bambino dice di avere mal di pancia.",
+      "ja": "その子供はお腹が痛いと言っています。"
+    },
+    {
+      "it": "Questa bevanda mi fa gonfiare la pancia.",
+      "ja": "この飲み物を飲むとお腹が張ります。"
+    },
+    {
+      "it": "Non mangio da stamattina e ho la pancia vuota.",
+      "ja": "朝から何も食べておらず、お腹が空いています。"
+    },
+    {
+      "it": "Mi brontola la pancia: è quasi ora di pranzo.",
+      "ja": "お腹が鳴っています。もうすぐ昼食の時間です。"
+    },
+    {
+      "it": "Il gatto si è sdraiato a pancia in su.",
+      "ja": "猫はお腹を上にして横になりました。"
+    },
+    {
+      "it": "Non riesco a dormire a pancia in giù.",
+      "ja": "私はうつ伏せでは眠れません。"
+    },
+    {
+      "it": "La bambina si teneva la pancia dalle risate.",
+      "ja": "その女の子は腹を抱えて笑っていました。"
+    },
+    {
+      "it": "Da quando lavora da casa ha messo su un po’ di pancia.",
+      "ja": "在宅勤務を始めてから、彼は少しお腹が出ました。"
+    },
+    {
+      "it": "Durante la gravidanza la sua pancia è cresciuta rapidamente.",
+      "ja": "妊娠中、彼女のお腹は急速に大きくなりました。"
+    },
+    {
+      "it": "Non possiamo pensare soltanto a riempirci la pancia.",
+      "ja": "自分たちが腹いっぱい食べることだけを考えるわけにはいきません。"
+    },
+    {
+      "it": "Ho analizzato tutti i dati, ma alla fine ho deciso di pancia.",
+      "ja": "すべてのデータを分析しましたが、最後は直感で決めました。"
+    },
+    {
+      "it": "La pancia della vecchia bottiglia è larga e tondeggiante.",
+      "ja": "その古い瓶の胴は広く丸みを帯びています。"
+    },
+    {
+      "it": "Il muro ha fatto pancia e deve essere controllato da un tecnico.",
+      "ja": "壁が外側へ膨らんでいるため、専門家による点検が必要です。"
+    },
+    {
+      "it": "I bagagli più grandi vengono sistemati nella pancia dell’aereo.",
+      "ja": "大きな手荷物は飛行機下部の貨物室に積み込まれます。"
+    }
+  ]
 }  
 ]
