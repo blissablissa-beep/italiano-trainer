@@ -1863,6 +1863,194 @@
   ]
 },
 {
+  "id": "pettine",
+  "sid": "2026-00331",
+  "word": "pettine",
+  "ipa": "/ˈpettine/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "pettini",
+    "pattern": "usare o passare il pettine / pettine per + funzione / pettine a denti + aggettivo / denti del pettine / struttura o disposizione a pettine"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "home",
+      "personal_care",
+      "hairdressing",
+      "textiles",
+      "technology",
+      "anatomy"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "一定の間隔で並んだ歯を持ち、髪をとかしたり整えたりする道具、櫛",
+      "髪のもつれを解く、分け目を作る、切りそろえるなどのために使う美容用具",
+      "織機で経糸を一定間隔に並べ、緯糸を織物へ押し付ける櫛状の部品、おさ",
+      "紡績機械で繊維をそろえるために使われる歯または針を備えた部品",
+      "機械・電子機器などに備えられた、歯が並んだ櫛状の部品または構造",
+      "解剖学・動物学・植物学などにおける、櫛の歯のように並んだ器官・突起・形状",
+      "a pettineの形で、複数の物が櫛の歯のように平行に並んだ配置"
+    ],
+    "it": [
+      "Utensile dotato di denti allineati, usato per districare e ordinare i capelli.",
+      "Strumento da parrucchiere impiegato per dividere, cotonare o controllare i capelli durante il taglio.",
+      "Parte del telaio che distribuisce regolarmente i fili dell’ordito e comprime la trama contro il tessuto.",
+      "Elemento dentato o munito di punte utilizzato nelle macchine tessili per ordinare le fibre.",
+      "Parte o struttura dentata di una macchina o di un apparecchio, simile a un pettine.",
+      "In anatomia, zoologia e botanica, organo, processo o forma caratterizzati da elementi paralleli simili a denti.",
+      "Nella locuzione a pettine, disposizione di elementi paralleli che ricorda i denti di un pettine."
+    ]
+  },
+
+  "nuance": {
+    "ja": "pettineは硬い歯が規則的に並んだ「櫛」で、髪をとかすだけでなく、分け目を作ることや、散髪時に髪をそろえることにも適している。spazzolaは多数の毛または柔軟なピンを持つ「ブラシ」で、髪全体を滑らかにしたり、表面のほこりを払ったりする用途が中心である。目の粗い櫛はpettine a denti larghi、目の細かい櫛はpettine a denti strettiまたはa denti fittiと言う。a pettineは、parcheggio a pettineのように、複数の要素が平行に並ぶ配置を表す。",
+    "it": "Il pettine possiede denti rigidi disposti regolarmente ed è adatto sia a districare i capelli sia a dividerli o controllarli durante il taglio. La spazzola ha invece numerose setole o punte flessibili ed è usata soprattutto per lisciare la capigliatura o pulire una superficie. Un pettine a denti larghi è adatto soprattutto ai capelli ricci o bagnati; uno a denti stretti o fitti permette un lavoro più preciso. La locuzione a pettine descrive una disposizione di elementi paralleli, come in parcheggio a pettine."
+  },
+
+  "etymology": {
+    "ja": "ラテン語pecten、属格pectĭnis「櫛・歯の並んだ道具」に由来し、動詞pectĕre「髪をとかす」と同じ語族に属する。ラテン語の子音群-ct-がイタリア語で-tt-へ同化し、pettineという形になった。同じラテン語は、解剖学などで使われるpectenやpettineo「櫛状の」にも残っている。",
+    "it": "Deriva dal latino pecten, genitivo pectĭnis, «pettine, strumento dentato», appartenente alla famiglia del verbo pectĕre, «pettinare». Il gruppo consonantico latino -ct- si è assimilato in -tt-, dando la forma italiana pettine. La base latina è conservata anche nei termini scientifici pecten e pettineo."
+  },
+
+  "minimal": [
+    {
+      "word": "pettine",
+      "ja": "規則的に並んだ硬い歯で髪をとかし、分け、整える道具",
+      "it": "strumento a denti rigidi usato per districare, dividere e ordinare i capelli"
+    },
+    {
+      "word": "spazzola",
+      "ja": "多数の毛や柔軟なピンで髪・衣服・表面などを整えたり掃除したりする道具",
+      "it": "utensile con setole o punte flessibili usato per lisciare o pulire"
+    },
+    {
+      "word": "pettinino",
+      "ja": "携帯用・装飾用などの小型の櫛",
+      "it": "pettine di piccole dimensioni, portatile oppure decorativo"
+    },
+    {
+      "word": "spazzolino",
+      "ja": "歯・爪・小さな面などを磨くための小型ブラシ",
+      "it": "piccola spazzola usata per pulire denti, unghie o superfici limitate"
+    },
+    {
+      "word": "rastrello",
+      "ja": "長い柄と複数の歯を持ち、落ち葉や土などを集める道具",
+      "it": "attrezzo con un lungo manico e denti usato per raccogliere foglie o lavorare il terreno"
+    }
+  ],
+
+  "synonyms": [
+    "pettinino",
+    "carda",
+    "pettine da telaio"
+  ],
+
+  "equivalents": {
+    "en": [
+      "comb",
+      "hair comb",
+      "reed",
+      "comb-like structure"
+    ],
+    "de": [
+      "Kamm",
+      "Haarkamm",
+      "Webkamm",
+      "kammartige Struktur"
+    ],
+    "fr": [
+      "peigne",
+      "peigne à cheveux",
+      "peigne de métier",
+      "structure en peigne"
+    ],
+    "es": [
+      "peine",
+      "peine para el cabello",
+      "peine de telar",
+      "estructura en peine"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "passare il pettine tra i capelli",
+      "ja": "髪に櫛を通す"
+    },
+    {
+      "it": "pettine a denti larghi",
+      "ja": "目の粗い櫛"
+    },
+    {
+      "it": "pettine a denti fitti",
+      "ja": "目の細かい櫛"
+    },
+    {
+      "it": "pettine del telaio",
+      "ja": "織機のおさ"
+    },
+    {
+      "it": "disposizione a pettine",
+      "ja": "櫛状の配置"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Non riesco a trovare il mio pettine.",
+      "ja": "自分の櫛が見つかりません。"
+    },
+    {
+      "it": "Passa delicatamente il pettine tra i capelli.",
+      "ja": "髪に優しく櫛を通してください。"
+    },
+    {
+      "it": "Per i capelli ricci è meglio usare un pettine a denti larghi.",
+      "ja": "巻き毛には目の粗い櫛を使うほうがよいです。"
+    },
+    {
+      "it": "Il parrucchiere teneva le forbici in una mano e il pettine nell’altra.",
+      "ja": "美容師は片手にはさみを、もう一方の手に櫛を持っていました。"
+    },
+    {
+      "it": "Uno dei denti del pettine si è rotto.",
+      "ja": "櫛の歯が一本折れました。"
+    },
+    {
+      "it": "Il pettine del telaio mantiene regolarmente separati i fili dell’ordito.",
+      "ja": "織機のおさは経糸を一定の間隔に保ちます。"
+    },
+    {
+      "it": "Il dispositivo presenta una struttura a pettine.",
+      "ja": "その装置は櫛状の構造を備えています。"
+    },
+    {
+      "it": "Le automobili sono parcheggiate a pettine lungo la strada.",
+      "ja": "自動車は道路沿いに櫛状に並んで駐車されています。"
+    }
+  ]
+},
+{
   "id": "pullman",
   "sid": "2026-00332",
   "word": "pullman",
