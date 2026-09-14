@@ -767,6 +767,181 @@
   ]
 },
 {
+  "id": "a-volte",
+  "sid": "2026-00325",
+  "word": "a volte",
+  "ipa": "/a ˈvɔlte/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverbial_phrase",
+    "label": {
+      "ja": "副詞句・頻度表現",
+      "it": "locuzione avverbiale di frequenza"
+    },
+    "pattern": "a volte + frase / soggetto + a volte + verbo / a volte sì, a volte no / a volte... altre volte..."
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "narration",
+      "business",
+      "education",
+      "daily_life"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "常にではないが、ある機会には物事が起こる、ときどき",
+      "不規則な間隔で行為・出来事が起こる、時折",
+      "状況や場合によって、ある結果になることがある、場合によっては",
+      "a volte sì, a volte noの形で、起こる場合と起こらない場合があることを表す",
+      "a volte... altre volte...の形で、異なる機会に起こる対照的な事柄を示す"
+    ],
+    "it": [
+      "In alcune occasioni, ma non sempre.",
+      "Con una frequenza occasionale e non necessariamente regolare.",
+      "In determinati casi o secondo le circostanze.",
+      "Nella costruzione a volte sì, a volte no, indica l’alternanza tra la presenza e l’assenza di un fatto.",
+      "Nella costruzione a volte... altre volte..., contrappone fatti o comportamenti che si verificano in occasioni diverse."
+    ]
+  },
+
+  "nuance": {
+    "ja": "a volteは、出来事が不定期に何度か起こることを表す、中立的で非常に一般的な表現である。文頭のA volte vado a piediは、頻度を話題として提示する自然な語順である。主語の後に置いてIo a volte vado a piediと言うこともでき、この場合はその人の行動習慣がやや強調される。spessoは高い頻度、raramenteは低い頻度を示すのに対し、a volteはその中間的な頻度を表す。qualche voltaとはほぼ同義である。talvoltaはやや文章語的に響くことがあり、ogni tantoは特に会話でよく使われる。",
+    "it": "A volte è un’espressione neutra e molto comune che indica una frequenza occasionale e irregolare. Collocata all’inizio della frase, come in A volte vado a piedi, mette in rilievo la circostanza temporale. Può anche seguire il soggetto: Io a volte vado a piedi. Spesso indica una frequenza elevata e raramente una frequenza bassa, mentre a volte occupa una posizione intermedia. Qualche volta è quasi equivalente; talvolta può avere un tono leggermente più scritto, mentre ogni tanto è particolarmente comune nella conversazione."
+  },
+
+  "etymology": {
+    "ja": "前置詞aと、女性名詞volta「回・機会」の複数形volteから構成され、文字どおりには「いくつかの機会に」を意味する。voltaはvoltareやvolgere「回す・向きを変える」と同じ語族に属し、最終的にはラテン語volvĕre「転がす・回転させる」にさかのぼる。一つの回転や循環を一回の出来事として捉えることから、「回・機会」という意味が生じた。",
+    "it": "È formata dalla preposizione a e dal plurale di volta, con il significato letterale di «in alcune occasioni». Volta appartiene alla famiglia di voltare e volgere e risale, in ultima analisi, al latino volvĕre, «girare, far rotolare». Dall’idea di un giro o di un ciclo completo si è sviluppato il significato di singola occorrenza."
+  },
+
+  "minimal": [
+    {
+      "word": "a volte",
+      "ja": "物事がいくつかの不定の機会に起こることを表す中立的な「ときどき」",
+      "it": "indica in modo neutro che qualcosa accade in alcune occasioni"
+    },
+    {
+      "word": "spesso",
+      "ja": "行為・出来事が高い頻度で起こることを表す",
+      "it": "indica che un fatto si verifica con una frequenza elevata"
+    },
+    {
+      "word": "qualche volta",
+      "ja": "a volteとほぼ同じく、不定のいくつかの機会に起こることを表す",
+      "it": "equivale quasi sempre ad a volte e indica alcune occasioni non determinate"
+    },
+    {
+      "word": "ogni tanto",
+      "ja": "ある程度の間隔を置いて時折起こることを表す、特に会話的な表現",
+      "it": "indica un fatto occasionale ed è particolarmente comune nella conversazione"
+    },
+    {
+      "word": "raramente",
+      "ja": "行為・出来事が低い頻度でしか起こらないことを表す",
+      "it": "indica che un fatto si verifica poche volte"
+    }
+  ],
+
+  "synonyms": [
+    "qualche volta",
+    "talvolta",
+    "alle volte",
+    "ogni tanto",
+    "occasionalmente",
+    "di quando in quando"
+  ],
+
+  "equivalents": {
+    "en": [
+      "sometimes",
+      "at times",
+      "occasionally"
+    ],
+    "de": [
+      "manchmal",
+      "bisweilen",
+      "gelegentlich"
+    ],
+    "fr": [
+      "parfois",
+      "quelquefois",
+      "de temps en temps"
+    ],
+    "es": [
+      "a veces",
+      "algunas veces",
+      "de vez en cuando"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "a volte capita",
+      "ja": "ときにはそういうことも起こる"
+    },
+    {
+      "it": "a volte è difficile",
+      "ja": "ときには難しい"
+    },
+    {
+      "it": "a volte mi chiedo",
+      "ja": "ときどき私は疑問に思う"
+    },
+    {
+      "it": "a volte sì, a volte no",
+      "ja": "そういうときもあれば、そうでないときもある"
+    },
+    {
+      "it": "a volte... altre volte...",
+      "ja": "あるときは～、またあるときは～"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "A volte vado al lavoro a piedi.",
+      "ja": "私はときどき歩いて仕事へ行きます。"
+    },
+    {
+      "it": "Anche le decisioni semplici sono a volte difficili.",
+      "ja": "単純な決定でさえ、ときには難しいものです。"
+    },
+    {
+      "it": "A volte basta una breve pausa per lavorare meglio.",
+      "ja": "ときには、少し休憩するだけで仕事の効率が上がります。"
+    },
+    {
+      "it": "Il traghetto arriva in orario? — A volte sì, a volte no.",
+      "ja": "「フェリーは時間どおりに到着しますか」「時間どおりのこともあれば、そうでないこともあります」"
+    },
+    {
+      "it": "A volte ceniamo fuori, altre volte cuciniamo a casa.",
+      "ja": "私たちは外で夕食を取ることもあれば、家で料理することもあります。"
+    },
+    {
+      "it": "A volte mi chiedo se abbiamo fatto la scelta giusta.",
+      "ja": "私たちは正しい選択をしたのだろうかと、ときどき考えます。"
+    },
+    {
+      "it": "Gli errori possono essere, a volte, più utili dei successi.",
+      "ja": "失敗は、ときには成功よりも役に立つことがあります。"
+    }
+  ]
+},
+{
   "id": "pullman",
   "sid": "2026-00332",
   "word": "pullman",
