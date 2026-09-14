@@ -3989,5 +3989,213 @@
       "ja": "合意に署名する前に、双方はなおいくつかの対立を和らげる必要があります。"
     }
   ]
+},
+{
+  "id": "stella",
+  "sid": "2026-00342",
+  "word": "stella",
+  "ipa": "/ˈstɛlla/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "stelle",
+    "pattern": "la stella / le stelle / stella + aggettivo / stella di + settore, squadra o spettacolo / a forma di stella / a + numero + stelle / sotto una buona o cattiva stella"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "figurative",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "astronomy",
+      "nature",
+      "travel",
+      "entertainment",
+      "sport",
+      "reviews",
+      "symbolism"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "自ら光と熱を放つ巨大な天体、恒星",
+      "日常的・詩的に、夜空に見える小さな光点としての星",
+      "中心から複数の先端が伸びた星形の図形・印・装飾",
+      "ホテル・レストラン・商品・サービスなどの等級や評価を示す星印",
+      "映画・音楽・舞台などで非常に有名で人気のある人物、スター",
+      "スポーツ・職業などの分野で特に優れ、中心的な役割を果たす人物",
+      "人を導く存在、希望・理想・目標などの象徴",
+      "人の人生や計画に影響を与える運命・巡り合わせ・幸運",
+      "階級・所属・功績などを示す星形の記章",
+      "慣用表現で、強い痛み、驚き、成功、幸運などを表す"
+    ],
+    "it": [
+      "Corpo celeste di forma approssimativamente sferica che produce ed emette luce ed energia.",
+      "Nell’uso comune o poetico, punto luminoso visibile nel cielo notturno.",
+      "Figura, segno o decorazione con più punte disposte intorno a un centro.",
+      "Simbolo usato per indicare il livello o la valutazione di un albergo, un ristorante, un prodotto o un servizio.",
+      "Persona molto celebre e popolare nel cinema, nella musica, nel teatro o nello spettacolo.",
+      "Persona particolarmente brava e importante in una squadra, una professione o un altro settore.",
+      "Persona o ideale che serve da guida oppure rappresenta una speranza o un obiettivo.",
+      "Destino, sorte o fortuna che accompagna una persona o un’iniziativa.",
+      "Distintivo a forma di stella indicante un grado, un’appartenenza o un’onorificenza.",
+      "Nelle espressioni idiomatiche, elemento associato al dolore, allo stupore, al successo o alla buona sorte."
+    ]
+  },
+
+  "nuance": {
+    "ja": "天文学ではstellaは内部でエネルギーを生成し、自ら光を放つ「恒星」を指す。pianetaは恒星の周囲を公転し、通常は自ら光を放たない「惑星」、satelliteは惑星などの周囲を回る「衛星」である。astroは恒星・惑星・衛星などを広く指せる改まった語である。日常語では、夜空で星のように見える天体を科学的分類にかかわらずstellaと呼ぶこともある。stella cadente「流れ星」は実際には大気中で発光する流星であり、恒星ではない。人物についてのstellaは、芸能人だけでなく、una stella del calcioのように特に優れた選手などにも使える。英語から入った不変化名詞starも芸能界のスターを表すが、stellaのほうが一般語として幅広く使われる。評価ではun albergo a cinque stelleのようにa + 数字 + stelleを用いる。essere nato sotto una buona stellaは「幸運に恵まれている」、vedere le stelleは強い痛みなどで「目から星が出る」という意味である。",
+    "it": "In astronomia, una stella è un corpo celeste che produce ed emette energia e luce. Un pianeta orbita intorno a una stella e normalmente non emette luce propria; un satellite orbita intorno a un pianeta o a un altro corpo. Astro è un termine più ampio e spesso più elevato, applicabile a diversi corpi celesti. Nell’uso comune, tuttavia, si possono chiamare stelle anche punti luminosi del cielo senza considerarne la classificazione scientifica. Una stella cadente non è realmente una stella, ma il fenomeno luminoso prodotto da un meteoroide nell’atmosfera. Riferito a una persona, stella può indicare sia una celebrità dello spettacolo sia una figura eccezionale dello sport o di un altro settore. Il prestito invariabile star è usato soprattutto per personaggi dello spettacolo. Nelle classificazioni si usa la costruzione a + numero + stelle: un albergo a cinque stelle. Essere nato sotto una buona stella significa essere fortunato; vedere le stelle può indicare un dolore molto intenso."
+  },
+
+  "etymology": {
+    "ja": "ラテン語stella「星」を直接継承した語である。このラテン語は、英語star、ドイツ語Stern、古代ギリシア語astḗrなどと同じく、インド・ヨーロッパ祖語の「星」を表す古い語根に結び付けられる。同じイタリア語の語族にはstellare「恒星の・非常に優れた」、stellato「星の多い・星模様の」、costellazione「星座」、stellina「小さな星」などがある。",
+    "it": "Continua direttamente il latino stella, «stella». La parola latina è collegata a un’antica radice indoeuropea rappresentata anche dall’inglese star, dal tedesco Stern e dal greco antico astḗr. Alla famiglia italiana appartengono stellare, stellato, costellazione, stellina e interstellare."
+  },
+
+  "minimal": [
+    {
+      "word": "stella",
+      "ja": "自ら光を放つ恒星、または星形の印や特に優れた人物",
+      "it": "corpo celeste luminoso oppure simbolo a punte o persona di eccezionale notorietà"
+    },
+    {
+      "word": "pianeta",
+      "ja": "恒星の周囲を公転し、通常は自ら光を放たない天体",
+      "it": "corpo celeste che orbita intorno a una stella e normalmente non emette luce propria"
+    },
+    {
+      "word": "satellite",
+      "ja": "惑星など別の天体の周囲を公転する天体",
+      "it": "corpo celeste che orbita intorno a un pianeta o a un altro corpo"
+    },
+    {
+      "word": "astro",
+      "ja": "恒星・惑星・衛星などの天体を広く指す、やや改まった語",
+      "it": "termine generale, spesso elevato, per indicare un corpo celeste"
+    },
+    {
+      "word": "star",
+      "ja": "主に映画・音楽・芸能界で非常に有名な人物を指す外来語",
+      "it": "prestito invariabile usato soprattutto per una celebrità dello spettacolo"
+    }
+  ],
+
+  "synonyms": [
+    "astro",
+    "corpo celeste",
+    "celebrità",
+    "diva",
+    "fuoriclasse",
+    "sorte"
+  ],
+
+  "equivalents": {
+    "en": [
+      "star",
+      "celebrity",
+      "rating star",
+      "fortune"
+    ],
+    "de": [
+      "Stern",
+      "Star",
+      "Bewertungsstern",
+      "Schicksal"
+    ],
+    "fr": [
+      "étoile",
+      "vedette",
+      "star",
+      "destin"
+    ],
+    "es": [
+      "estrella",
+      "celebridad",
+      "astro",
+      "suerte"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "una stella cadente",
+      "ja": "流れ星"
+    },
+    {
+      "it": "un cielo pieno di stelle",
+      "ja": "満天の星空"
+    },
+    {
+      "it": "un albergo a cinque stelle",
+      "ja": "五つ星ホテル"
+    },
+    {
+      "it": "una stella del cinema",
+      "ja": "映画界のスター"
+    },
+    {
+      "it": "essere nato sotto una buona stella",
+      "ja": "幸運に恵まれている"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Il Sole è la stella più vicina alla Terra.",
+      "ja": "太陽は地球に最も近い恒星です。"
+    },
+    {
+      "it": "Questa sera il cielo è limpido e si vedono moltissime stelle.",
+      "ja": "今夜は空が澄んでいて、たくさんの星が見えます。"
+    },
+    {
+      "it": "Abbiamo visto una stella cadente e abbiamo espresso un desiderio.",
+      "ja": "私たちは流れ星を見て、願い事をしました。"
+    },
+    {
+      "it": "Il bambino ha disegnato una stella a cinque punte.",
+      "ja": "その子供は五つの先端を持つ星形を描きました。"
+    },
+    {
+      "it": "Durante il viaggio abbiamo soggiornato in un albergo a quattro stelle.",
+      "ja": "旅行中、私たちは四つ星ホテルに宿泊しました。"
+    },
+    {
+      "it": "Quell’attrice è diventata una stella del cinema internazionale.",
+      "ja": "その女優は国際的な映画スターになりました。"
+    },
+    {
+      "it": "Il giovane attaccante è la nuova stella della squadra.",
+      "ja": "その若いフォワードはチームの新しい花形選手です。"
+    },
+    {
+      "it": "La Stella Polare ha guidato i viaggiatori per secoli.",
+      "ja": "北極星は何世紀にもわたって旅人たちを導いてきました。"
+    },
+    {
+      "it": "Il progetto sembra essere nato sotto una buona stella.",
+      "ja": "そのプロジェクトは幸先よく始まったようです。"
+    },
+    {
+      "it": "Ho battuto la testa contro la porta e ho visto le stelle.",
+      "ja": "ドアに頭をぶつけて、目から星が出ました。"
+    }
+  ]
 }
 ]
