@@ -5290,5 +5290,213 @@
       "ja": "新しいシステムが稼働してから、仕事は非常に順調かつ速く進んでいます。"
     }
   ]
-}  
+},
+{
+  "id": "aeroplano",
+  "sid": "2026-00348",
+  "word": "aeroplano",
+  "ipa": "/aeroˈplano/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "aeroplani",
+    "pattern": "l’aeroplano / gli aeroplani / andare o viaggiare in aeroplano / salire sull’aeroplano / scendere dall’aeroplano / aeroplano da o per + funzione / aeroplano di + tipo o proprietario"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "transport",
+      "tourism",
+      "aviation",
+      "military",
+      "technology",
+      "history"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "固定翼と動力装置を備え、空気中を飛行する航空機、飛行機",
+      "乗客を空路で輸送する旅客機",
+      "郵便物・荷物・商品などを輸送する貨物機",
+      "個人旅行・訓練・遊覧・曲技飛行などに使われる小型航空機",
+      "偵察・輸送・迎撃・戦闘などの軍事目的に使われる航空機",
+      "農薬散布・写真撮影・救急搬送など、特別な作業を行う航空機",
+      "飛行機をかたどった模型・玩具・紙飛行機"
+    ],
+    "it": [
+      "Aeromobile dotato di ali fisse e di un proprio apparato propulsore, capace di volare nell’atmosfera.",
+      "Aeroplano destinato al trasporto di passeggeri.",
+      "Aeroplano utilizzato per il trasporto di posta, bagagli o merci.",
+      "Velivolo di dimensioni generalmente ridotte usato per turismo, addestramento, escursioni o acrobazia.",
+      "Aeroplano progettato per ricognizione, trasporto, intercettazione o combattimento militare.",
+      "Velivolo impiegato per lavori speciali, come fotografia, soccorso o attività agricole.",
+      "Modello, giocattolo o oggetto di carta che riproduce la forma di un aeroplano."
+    ]
+  },
+
+  "nuance": {
+    "ja": "aeroplanoは標準的な語だが、現代の日常会話では短縮形aereoがより頻繁に使われる。したがってprendere l’aereo「飛行機に乗る」、l’aereo è in ritardo「飛行機が遅れている」のほうが通常は自然である。移動手段としてはviaggiare in aeroplano、特定の機体への乗降にはsalire sull’aeroplano、scendere dall’aeroplanoを用いる。aeroplanoは基本的に固定翼と独自の推進装置を持つ航空機である。aeromobileは飛行機・ヘリコプターなどを含む航空機の上位概念で、法律・航空行政でも使われる。velivoloは航空機を広く指す、やや技術的・改まった語である。alianteは固定翼を持つが通常はエンジンを備えないグライダー、elicotteroは回転翼によって飛行するヘリコプターである。voloは機体そのものではなく、飛行という行為または時刻表上の航空便を指す。areoplanoという語形も民間語として見られるが、注意深い発音・文章ではaeroplanoが標準形である。",
+    "it": "Aeroplano è una parola standard, ma nell’italiano quotidiano moderno è generalmente più comune la forma abbreviata aereo. Si dice quindi più spesso prendere l’aereo o l’aereo è in ritardo. Come mezzo di trasporto si usa viaggiare in aeroplano; per l’ingresso e l’uscita da un velivolo specifico, salire sull’aeroplano e scendere dall’aeroplano. L’aeroplano possiede normalmente ali fisse e un apparato propulsore proprio. Aeromobile è il termine sovraordinato, usato anche nel linguaggio giuridico e amministrativo; velivolo è un termine generale dal tono più tecnico o formale. L’aliante ha ali fisse ma normalmente non possiede un motore; l’elicottero vola grazie ad ali rotanti. Volo indica invece l’azione del volare oppure un servizio aereo determinato. La variante popolare areoplano è attestata, ma aeroplano è la forma standard da preferire nella pronuncia sorvegliata e nella scrittura."
+  },
+
+  "etymology": {
+    "ja": "19世紀末にフランス語aéroplaneから入った語である。aéro-は古代ギリシア語aḗr「空気」に由来し、-planeはフランス語plan「平らな面」と同系で、機体を空中で支える平面状の翼を示していた。イタリア語ではaero-とplanoからaeroplanoとして取り入れられた。同じ語族にはaereo「空気の・航空の／飛行機」、aeromobile「航空機」、aeroporto「空港」、aeronautica「航空学・航空部門」などがある。",
+    "it": "È entrato in italiano alla fine dell’Ottocento dal francese aéroplane. Il primo elemento aéro- risale al greco antico aḗr, «aria»; il secondo è collegato a plan, «piano», con riferimento alla superficie alare che sostiene il velivolo nell’aria. Alla stessa famiglia appartengono aereo, aeromobile, aeroporto, aeronautica e aerodinamica."
+  },
+
+  "minimal": [
+    {
+      "word": "aeroplano",
+      "ja": "固定翼と独自の推進装置を備えた飛行機",
+      "it": "aeromobile con ali fisse e apparato propulsore proprio"
+    },
+    {
+      "word": "aereo",
+      "ja": "aeroplanoの最も一般的な短縮形、または「空の・航空の」という形容詞",
+      "it": "abbreviazione quotidiana di aeroplano oppure aggettivo relativo all’aria e all’aviazione"
+    },
+    {
+      "word": "aeromobile",
+      "ja": "飛行機・ヘリコプターなど、空中を航行する機体の上位概念",
+      "it": "termine generale, anche giuridico, per un mezzo capace di navigare nell’aria"
+    },
+    {
+      "word": "elicottero",
+      "ja": "回転翼によって揚力を得て、垂直離着陸できる航空機",
+      "it": "aeromobile sostenuto da pale rotanti e capace di decollo e atterraggio verticali"
+    },
+    {
+      "word": "aliante",
+      "ja": "通常は動力装置を持たず、気流を利用して滑空する固定翼機",
+      "it": "velivolo ad ali fisse, normalmente privo di motore, che vola sfruttando le correnti d’aria"
+    }
+  ],
+
+  "synonyms": [
+    "aereo",
+    "velivolo",
+    "aeromobile",
+    "apparecchio"
+  ],
+
+  "equivalents": {
+    "en": [
+      "airplane",
+      "aeroplane",
+      "aircraft",
+      "plane"
+    ],
+    "de": [
+      "Flugzeug",
+      "Aeroplan",
+      "Luftfahrzeug"
+    ],
+    "fr": [
+      "avion",
+      "aéroplane",
+      "appareil"
+    ],
+    "es": [
+      "avión",
+      "aeroplano",
+      "aeronave"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "viaggiare in aeroplano",
+      "ja": "飛行機で旅行する"
+    },
+    {
+      "it": "salire sull’aeroplano",
+      "ja": "飛行機に乗り込む"
+    },
+    {
+      "it": "scendere dall’aeroplano",
+      "ja": "飛行機から降りる"
+    },
+    {
+      "it": "pilotare un aeroplano",
+      "ja": "飛行機を操縦する"
+    },
+    {
+      "it": "un aeroplano di linea",
+      "ja": "定期旅客機"
+    },
+    {
+      "it": "un aeroplano militare",
+      "ja": "軍用機"
+    },
+    {
+      "it": "le ali dell’aeroplano",
+      "ja": "飛行機の翼"
+    },
+    {
+      "it": "il motore dell’aeroplano",
+      "ja": "飛行機のエンジン"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Da bambino avevo paura di viaggiare in aeroplano.",
+      "ja": "子供のころ、私は飛行機で旅行するのが怖かったです。"
+    },
+    {
+      "it": "L’aeroplano è decollato con trenta minuti di ritardo.",
+      "ja": "飛行機は30分遅れて離陸しました。"
+    },
+    {
+      "it": "I passeggeri stanno salendo sull’aeroplano.",
+      "ja": "乗客たちは飛行機に搭乗しているところです。"
+    },
+    {
+      "it": "L’aeroplano ha attraversato una zona di forte turbolenza.",
+      "ja": "飛行機は強い乱気流の区域を通過しました。"
+    },
+    {
+      "it": "Questo aeroplano può trasportare più di trecento passeggeri.",
+      "ja": "この飛行機は300人を超える乗客を輸送できます。"
+    },
+    {
+      "it": "Il pilota ha fatto atterrare l’aeroplano in sicurezza.",
+      "ja": "操縦士は飛行機を安全に着陸させました。"
+    },
+    {
+      "it": "L’aeroplano militare era impiegato per missioni di ricognizione.",
+      "ja": "その軍用機は偵察任務に使用されていました。"
+    },
+    {
+      "it": "Le ali producono la forza necessaria a sostenere l’aeroplano in volo.",
+      "ja": "翼は飛行中の飛行機を支えるために必要な力を生み出します。"
+    },
+    {
+      "it": "Il museo espone un aeroplano dei primi anni dell’aviazione.",
+      "ja": "その博物館では航空史初期の飛行機を展示しています。"
+    },
+    {
+      "it": "Il bambino ha costruito un aeroplano di carta.",
+      "ja": "その子供は紙飛行機を作りました。"
+    }
+  ]
+}
 ]
