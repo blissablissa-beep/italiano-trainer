@@ -5061,5 +5061,234 @@
       "ja": "そのプログラムは仮想マシン内で実行されます。"
     }
   ]
-}
+},
+{
+  "id": "treno",
+  "sid": "2026-00347",
+  "word": "treno",
+  "ipa": "/ˈtrɛno/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "treni",
+    "pattern": "il treno / i treni / treno per + destinazione / treno da + provenienza / andare o viaggiare in treno / salire sul treno / scendere dal treno / prendere o perdere il treno / treno di + elementi o attività"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "technical",
+      "figurative",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "transport",
+      "commuting",
+      "business",
+      "technology",
+      "mechanics",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "機関車・動力車と一両以上の客車・貨車からなり、線路上を走る列車",
+      "一定の時刻・経路・目的地に従って運行される鉄道便",
+      "人や物を鉄道で運ぶ交通手段",
+      "用途・速度・運行範囲などによって分類される旅客列車",
+      "貨物を輸送するための貨物列車",
+      "技術分野で、連続して配置され相互に働く部品・装置の一組",
+      "物理学・通信などで、規則的に連続する波・信号・パルスの列",
+      "比喩的に、成功・進歩・参加などにつながる好機や時代の流れ",
+      "andare come un trenoの形で、非常に速く進む・効率よく働く",
+      "treno di vitaの形で、生活の規模・水準・暮らしぶり",
+      "別語源の文学語として、古代の葬儀などで歌われる哀歌・挽歌"
+    ],
+    "it": [
+      "Convoglio ferroviario formato da uno o più veicoli che circolano insieme sui binari.",
+      "Servizio ferroviario che segue un determinato orario, percorso e destinazione.",
+      "Mezzo di trasporto ferroviario utilizzato per spostare persone o merci.",
+      "Convoglio per passeggeri classificato secondo velocità, servizio o distanza percorsa.",
+      "Convoglio destinato prevalentemente al trasporto di merci.",
+      "In ambito tecnico, insieme di componenti disposti in successione e collegati funzionalmente.",
+      "In fisica e nelle telecomunicazioni, successione regolare di onde, segnali o impulsi.",
+      "In senso figurato, occasione favorevole o processo di sviluppo al quale è opportuno partecipare.",
+      "Nell’espressione andare come un treno, procedere molto rapidamente o lavorare con grande efficienza.",
+      "Nella locuzione treno di vita, livello e modo abituale di vivere.",
+      "Come raro omonimo letterario, canto funebre o lamentazione dell’antica tradizione greca."
+    ]
+  },
+
+  "nuance": {
+    "ja": "trenoは、動力車と客車・貨車を含む列車全体、または時刻表上の一つの鉄道便を指す。locomotivaは列車を牽引する動力車、carrozzaは主に旅客用車両、vagoneは貨車を含む個々の鉄道車両、binarioは列車が走る線路である。ferroviaは線路・駅・設備・運行組織を含む鉄道システム全体を表す。移動手段にはandare in treno「列車で行く」を使い、特定の列車の車内にいる場合はessere sul treno、乗車・降車にはsalire sul treno、scendere dal trenoを用いる。prendere il trenoは「列車に乗る」、perdere il trenoは「列車に乗り遅れる」。比喩的なperdere il trenoは重要な好機を逃すことも表す。metropolitanaは都市内の地下鉄・都市鉄道システムを指し、その車両自体は列車だが、日常会話ではprendere la metroと言うのが一般的である。技術用語のtreno di ingranaggiは相互にかみ合う歯車列、treno di impulsiは連続するパルス列を表す。",
+    "it": "Treno indica sia l’intero convoglio formato da veicoli ferroviari sia un singolo servizio previsto dall’orario. La locomotiva è il mezzo che produce la trazione; la carrozza è normalmente destinata ai passeggeri; vagone può indicare un singolo veicolo ferroviario, in particolare per le merci; binario è la struttura sulla quale il treno circola. Ferrovia indica invece l’intero sistema di linee, stazioni, impianti e servizi. Per il mezzo di trasporto si dice andare in treno; per la presenza a bordo di un convoglio determinato essere sul treno; per l’ingresso e l’uscita salire sul treno e scendere dal treno. Prendere il treno significa utilizzarlo o riuscire a salirvi; perdere il treno significa arrivare troppo tardi. In senso figurato, perdere il treno può indicare la perdita di un’occasione importante. Metropolitana designa il sistema ferroviario urbano; nella conversazione si dice normalmente prendere la metro. In ambito tecnico, un treno di ingranaggi è una successione di ruote dentate collegate, mentre un treno di impulsi è una sequenza di segnali."
+  },
+
+  "etymology": {
+    "ja": "フランス語train「引くこと・引かれる物・連なり」から入った語で、trainはtraîner「引きずる」に由来する。「連なって引かれる物」という意味から車両の列を表すようになった。鉄道列車の意味はまず英語trainで成立し、その後イタリア語を含むヨーロッパ諸語へ広がった。同じ語族にはtrainare「牽引する」、traino「牽引」、trainante「牽引力のある」などがある。まれな文学語treno「哀歌」はこれとは別語源で、古代ギリシア語thrênos、後期ラテン語threnus「葬送歌」に由来する。",
+    "it": "Deriva dal francese train, propriamente «azione di trascinare, ciò che viene trascinato, seguito», dalla famiglia di traîner. Dall’idea di una serie di elementi trascinati insieme si sviluppò il significato ferroviario, formatosi dapprima nell’inglese train e successivamente diffusosi in altre lingue europee. Alla stessa famiglia appartengono trainare, traino e trainante. Il raro treno letterario con il significato di «canto funebre» è invece un omonimo distinto, derivato dal greco thrênos attraverso il latino tardo threnus."
+  },
+
+  "minimal": [
+    {
+      "word": "treno",
+      "ja": "複数の鉄道車両が連結され、まとまって運行される列車",
+      "it": "insieme di veicoli ferroviari collegati che circolano come un unico convoglio"
+    },
+    {
+      "word": "locomotiva",
+      "ja": "列車を牽引するための動力を備えた鉄道車両",
+      "it": "veicolo ferroviario dotato di motore e destinato a trainare il convoglio"
+    },
+    {
+      "word": "carrozza",
+      "ja": "列車のうち、主に乗客を乗せるための一両の客車",
+      "it": "singolo veicolo ferroviario destinato principalmente ai passeggeri"
+    },
+    {
+      "word": "binario",
+      "ja": "二本のレールなどからなり、列車が走る線路",
+      "it": "struttura formata da rotaie sulla quale circolano i treni"
+    },
+    {
+      "word": "ferrovia",
+      "ja": "線路・駅・車両・設備・運行を含む鉄道システム",
+      "it": "sistema di linee, stazioni, impianti e servizi destinato al trasporto ferroviario"
+    }
+  ],
+
+  "synonyms": [
+    "convoglio",
+    "convoglio ferroviario",
+    "servizio ferroviario",
+    "composizione ferroviaria"
+  ],
+
+  "equivalents": {
+    "en": [
+      "train",
+      "rail service",
+      "gear train",
+      "sequence"
+    ],
+    "de": [
+      "Zug",
+      "Eisenbahnzug",
+      "Zahnradgetriebe",
+      "Folge"
+    ],
+    "fr": [
+      "train",
+      "convoi ferroviaire",
+      "train d’engrenages",
+      "suite"
+    ],
+    "es": [
+      "tren",
+      "convoy ferroviario",
+      "tren de engranajes",
+      "secuencia"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "prendere il treno",
+      "ja": "列車に乗る"
+    },
+    {
+      "it": "perdere il treno",
+      "ja": "列車に乗り遅れる／好機を逃す"
+    },
+    {
+      "it": "andare in treno",
+      "ja": "列車で行く"
+    },
+    {
+      "it": "salire sul treno",
+      "ja": "列車に乗り込む"
+    },
+    {
+      "it": "scendere dal treno",
+      "ja": "列車から降りる"
+    },
+    {
+      "it": "un treno in ritardo",
+      "ja": "遅れている列車"
+    },
+    {
+      "it": "un treno ad alta velocità",
+      "ja": "高速列車"
+    },
+    {
+      "it": "un treno regionale",
+      "ja": "地域列車・普通列車"
+    },
+    {
+      "it": "un treno merci",
+      "ja": "貨物列車"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Il treno per Firenze parte dal binario sette.",
+      "ja": "フィレンツェ行きの列車は7番線から出発します。"
+    },
+    {
+      "it": "Ogni mattina prendo il treno delle sette e mezza.",
+      "ja": "毎朝、7時半の列車に乗ります。"
+    },
+    {
+      "it": "Preferisco viaggiare in treno perché posso lavorare durante il viaggio.",
+      "ja": "移動中に仕事ができるので、列車で旅行するほうが好きです。"
+    },
+    {
+      "it": "Siamo saliti sul treno pochi minuti prima della partenza.",
+      "ja": "私たちは出発の数分前に列車へ乗り込みました。"
+    },
+    {
+      "it": "A quale stazione dobbiamo scendere dal treno?",
+      "ja": "私たちはどの駅で列車を降りなければなりませんか。"
+    },
+    {
+      "it": "Il treno è in ritardo di circa venti minuti.",
+      "ja": "列車は約20分遅れています。"
+    },
+    {
+      "it": "Di notte su questa linea circolano soprattutto treni merci.",
+      "ja": "夜間、この路線では主に貨物列車が運行されています。"
+    },
+    {
+      "it": "Il movimento viene trasmesso attraverso un treno di ingranaggi.",
+      "ja": "運動は歯車列を通じて伝達されます。"
+    },
+    {
+      "it": "L’apparecchio genera un treno regolare di impulsi elettrici.",
+      "ja": "その装置は規則的な電気パルス列を生成します。"
+    },
+    {
+      "it": "Le piccole imprese non devono perdere il treno della trasformazione digitale.",
+      "ja": "中小企業はデジタル化の好機を逃してはなりません。"
+    },
+    {
+      "it": "Da quando il nuovo sistema è entrato in funzione, il lavoro procede come un treno.",
+      "ja": "新しいシステムが稼働してから、仕事は非常に順調かつ速く進んでいます。"
+    }
+  ]
+}  
 ]
