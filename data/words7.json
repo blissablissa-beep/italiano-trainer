@@ -2415,5 +2415,189 @@
       "ja": "若いころ、私たちは目抜き通りを何度も行き来していました。"
     }
   ]
+},
+{
+  "id": "piscina",
+  "sid": "2026-00334",
+  "word": "piscina",
+  "ipa": "/piʃˈʃina/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "piscine",
+    "pattern": "andare o essere in piscina / nuotare in piscina / piscina + aggettivo / piscina con + attrezzatura o caratteristica / piscina di + struttura"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "sport",
+      "leisure",
+      "travel",
+      "hotel",
+      "home"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "水泳・水遊び・運動などのために水を張った人工的なプール",
+      "一つまたは複数の水槽、更衣室、シャワーなどを備えた水泳施設または建物全体",
+      "住宅・ホテル・庭園などに設置された遊泳・娯楽用のプール",
+      "競泳・飛び込み・水球などの水上競技に使用される設備",
+      "温水・海水・温泉水などを満たした保養・治療・運動用の設備",
+      "歴史的に、魚を飼育または保存するために設けられた池・水槽",
+      "技術分野で、大量の水を満たして特定の設備や物質を収容する構造物"
+    ],
+    "it": [
+      "Struttura artificiale riempita d’acqua e destinata al nuoto, al gioco o all’esercizio fisico.",
+      "Impianto o edificio comprendente una o più vasche, spogliatoi, docce e altri servizi.",
+      "Vasca per il nuoto o lo svago installata presso un’abitazione, un albergo o un giardino.",
+      "Impianto utilizzato per gare di nuoto, tuffi, pallanuoto o altre discipline acquatiche.",
+      "Vasca contenente acqua riscaldata, marina o termale a scopo ricreativo, terapeutico o sportivo.",
+      "Storicamente, bacino destinato all’allevamento o alla conservazione dei pesci.",
+      "In ambito tecnico, grande struttura piena d’acqua destinata a contenere particolari apparecchiature o materiali."
+    ]
+  },
+
+  "nuance": {
+    "ja": "piscinaは、水をたたえたプールそのものだけでなく、更衣室・シャワー・受付などを含む施設全体も表す。andare in piscinaは「プールへ行く」、essere in piscinaは「プール施設にいる」、nuotare in piscinaは「プールで泳ぐ」という意味になる。vascaは液体をためる容器・構造部分に重点があり、una piscina con due vasche「水槽が二つあるプール施設」のように区別できる。水泳でプールの一端から反対側まで泳ぐ一区間はuna vascaと数え、通常una piscinaとは数えない。海で泳ぐ場合はnuotare al mareまたはfare il bagno al mareと言う。",
+    "it": "Piscina può indicare sia la struttura contenente l’acqua sia l’intero impianto con spogliatoi, docce e altri servizi. Andare in piscina significa recarsi all’impianto; essere in piscina indica la presenza al suo interno; nuotare in piscina descrive l’attività. Vasca mette maggiormente in rilievo il bacino che contiene l’acqua: una piscina può quindi comprendere più vasche. Nel nuoto, il percorso da un’estremità all’altra si conta come una vasca, non come una piscina. Per il nuoto in mare si dice normalmente nuotare al mare o fare il bagno al mare."
+  },
+
+  "etymology": {
+    "ja": "ラテン語piscīnaに由来し、これはpiscis「魚」から形成された。古代のpiscinaは、もともと魚を飼育・保存するための池や水槽を指した。その後、人が水浴びや水泳をするための水槽にも使われるようになり、現代では「プール」が中心的な意味となった。同じ語族にはpesce「魚」、pescare「釣る」、pescatore「漁師」などがある。",
+    "it": "Deriva dal latino piscīna, formato da piscis, «pesce». Nell’antichità indicava originariamente una vasca o un bacino destinato all’allevamento e alla conservazione dei pesci. Il termine passò successivamente a designare le vasche utilizzate per il bagno e il nuoto. Alla stessa famiglia appartengono pesce, pescare e pescatore."
+  },
+
+  "minimal": [
+    {
+      "word": "piscina",
+      "ja": "水泳・運動・水遊びのための人工的なプール、またはその施設全体",
+      "it": "struttura destinata al nuoto oppure impianto comprendente una o più vasche"
+    },
+    {
+      "word": "vasca",
+      "ja": "液体をためる容器、またはプールの水をたたえる構造部分",
+      "it": "recipiente o bacino che contiene acqua o altri liquidi"
+    },
+    {
+      "word": "laghetto",
+      "ja": "庭園・公園などにある小さな天然または人工の池",
+      "it": "piccolo lago naturale o artificiale, spesso situato in un parco o in un giardino"
+    },
+    {
+      "word": "stabilimento balneare",
+      "ja": "海岸で更衣室・日傘・シャワーなどを提供する海水浴施設",
+      "it": "struttura attrezzata sulla spiaggia con cabine, ombrelloni e servizi"
+    },
+    {
+      "word": "terme",
+      "ja": "温泉水を利用した入浴・療養・保養施設",
+      "it": "complesso destinato ai bagni e ai trattamenti con acque termali"
+    }
+  ],
+
+  "synonyms": [
+    "impianto natatorio",
+    "centro natatorio",
+    "vasca",
+    "bacino artificiale"
+  ],
+
+  "equivalents": {
+    "en": [
+      "swimming pool",
+      "pool",
+      "swimming facility"
+    ],
+    "de": [
+      "Schwimmbad",
+      "Swimmingpool",
+      "Schwimmbecken"
+    ],
+    "fr": [
+      "piscine",
+      "bassin",
+      "centre aquatique"
+    ],
+    "es": [
+      "piscina",
+      "alberca",
+      "centro acuático"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "andare in piscina",
+      "ja": "プールへ行く"
+    },
+    {
+      "it": "nuotare in piscina",
+      "ja": "プールで泳ぐ"
+    },
+    {
+      "it": "piscina comunale",
+      "ja": "市営プール"
+    },
+    {
+      "it": "piscina all’aperto",
+      "ja": "屋外プール"
+    },
+    {
+      "it": "piscina riscaldata",
+      "ja": "温水プール"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Vado in piscina due volte alla settimana.",
+      "ja": "私は週に2回プールへ行きます。"
+    },
+    {
+      "it": "I bambini stanno giocando in piscina.",
+      "ja": "子供たちはプールで遊んでいます。"
+    },
+    {
+      "it": "L’albergo dispone di una piscina all’aperto.",
+      "ja": "そのホテルには屋外プールがあります。"
+    },
+    {
+      "it": "Prima di entrare in piscina bisogna fare la doccia.",
+      "ja": "プールに入る前にシャワーを浴びる必要があります。"
+    },
+    {
+      "it": "La piscina comunale chiude alle nove.",
+      "ja": "市営プールは9時に閉まります。"
+    },
+    {
+      "it": "Questa piscina ha una vasca olimpionica e una vasca per bambini.",
+      "ja": "このプール施設にはオリンピック規格の水槽と子供用の水槽があります。"
+    },
+    {
+      "it": "La squadra di pallanuoto si allena ogni sera in piscina.",
+      "ja": "その水球チームは毎晩プールで練習しています。"
+    },
+    {
+      "it": "Nell’antica Roma la piscina poteva essere destinata all’allevamento dei pesci.",
+      "ja": "古代ローマでは、piscinaは魚の養殖に使われる池を指すことがありました。"
+    }
+  ]
 }
 ]
