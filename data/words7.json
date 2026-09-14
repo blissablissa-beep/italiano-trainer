@@ -7550,5 +7550,281 @@
       "ja": "うそは長続きせず、遅かれ早かれ見破られます。"
     }
   ]
+},
+{
+  "id": "cotto",
+  "sid": "2026-00357",
+  "word": "cotto",
+  "ipa": "/ˈkɔtto/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adjective",
+    "label": {
+      "ja": "cuocereの過去分詞・形容詞・男性名詞",
+      "it": "participio passato di cuocere, aggettivo e sostantivo maschile"
+    },
+    "adjectiveForms": [
+      "cotto",
+      "cotta",
+      "cotti",
+      "cotte"
+    ],
+    "pattern": "avere + cotto / essere + cotto, cotta, cotti o cotte / nome + cotto / cotto a, in o con + metodo / ben, poco o troppo cotto / essere cotto dalla fatica / essere cotto di + persona / il cotto"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "figurative",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "cooking",
+      "food",
+      "shopping",
+      "health",
+      "relationships",
+      "sport",
+      "construction"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "cuocereの過去分詞として、食べ物などを熱で加熱した",
+      "生ではなく、食べられる程度まで火が通った",
+      "加熱の程度が適切・不足・過剰である",
+      "野菜・肉などが特定の方法で調理された",
+      "粘土・れんが・陶器などが窯や炉で焼かれた",
+      "太陽・熱湯・火・寒気などによって焼けたり傷んだりした",
+      "口語で、疲れ切って体力や判断力が残っていない",
+      "口語で、酒にひどく酔っている",
+      "口語で、ある人に強く恋をしている・夢中になっている",
+      "名詞的に、prosciutto cottoを省略した加熱ハム",
+      "名詞的に、焼成した粘土製のれんが・タイル・建材",
+      "cotto e mangiatoの形で、考えてすぐ実行される・即席の",
+      "farne di cotte e di crudeの形で、さまざまな奇行や悪事をする",
+      "né crudo né cottoの形で、性格・考え・状態などがはっきりしない"
+    ],
+    "it": [
+      "Come participio passato di cuocere, sottoposto all’azione del calore.",
+      "Non più crudo e portato a un grado di cottura sufficiente per essere consumato.",
+      "Cotto in misura adeguata, insufficiente o eccessiva.",
+      "Preparato mediante un determinato metodo di cottura.",
+      "Di argilla, mattone o ceramica, sottoposto al calore di un forno.",
+      "Scottato, bruciato o danneggiato dal sole, dal fuoco, dall’acqua bollente o dal gelo.",
+      "Nel linguaggio colloquiale, estremamente stanco e privo di energie o lucidità.",
+      "Nel linguaggio colloquiale, completamente ubriaco.",
+      "Nel linguaggio colloquiale, profondamente innamorato di qualcuno.",
+      "Come sostantivo, forma abbreviata di prosciutto cotto.",
+      "Come sostantivo, materiale da costruzione in argilla cotta, come mattoni o piastrelle.",
+      "Nell’espressione cotto e mangiato, ideato e realizzato immediatamente.",
+      "Nell’espressione farne di cotte e di crude, compiere azioni di ogni genere, spesso strane o riprovevoli.",
+      "Nell’espressione né crudo né cotto, privo di carattere o non chiaramente definito."
+    ]
+  },
+
+  "nuance": {
+    "ja": "cottoはcuocereの不規則な過去分詞である。複合時制ではHo cotto la pasta「パスタをゆでた」のように通常cottoを用い、形容詞または受動的な状態として使う場合はLa pasta è cotta、Le verdure sono cotteのように主語へ性数一致する。現代標準語では過去分詞はcottoであり、古いcociutoは通常使われない。cuocereは熱によって食材を生の状態から変化させる工程に焦点を置き、cucinareは材料の準備・味付け・盛り付けなども含む料理行為全体を表す。ben cottoは中まで十分に火が通った状態、poco cottoは火の通りが少ない状態、troppo cottoまたはstracottoは火を通しすぎた状態である。Sono cottoは通常「疲れ切っている」を意味するが、Sono cotto di leiなら「彼女に夢中だ」となる。名詞のil cottoは建材としてのテラコッタを表し、食料品店ではdue etti di cottoのようにprosciutto cottoの省略としても使われる。",
+    "it": "Cotto è il participio passato irregolare di cuocere. Nei tempi composti si dice Ho cotto la pasta; quando funziona come aggettivo o descrive uno stato, concorda con il nome: La pasta è cotta, Le verdure sono cotte. Nell’italiano contemporaneo si usa cotto, mentre l’antica forma cociuto non appartiene più all’uso comune. Cuocere riguarda specificamente la trasformazione prodotta dal calore; cucinare comprende invece l’intero processo di preparazione di un piatto. Ben cotto indica una cottura completa, poco cotto una cottura limitata, troppo cotto o stracotto una cottura eccessiva. Sono cotto significa normalmente «sono esausto», mentre Sono cotto di lei significa «sono profondamente innamorato di lei». Come sostantivo, il cotto indica un materiale edilizio di terracotta; in una salumeria, due etti di cotto è un’abbreviazione comune di prosciutto cotto."
+  },
+
+  "etymology": {
+    "ja": "動詞cuocereの過去分詞で、ラテン語coctusに由来する。coctusはラテン語coquĕre「煮る、焼く、熱を加える」の過去分詞である。熱によって食材や物質を変化させるという基本義から、「日光で焼けた」「疲れ切った」「酒や恋愛で正常な判断ができない」といった比喩的意味が発達した。同じ語族にはcuoco、cucina、cottura、biscotto、precotto、ricotto、stracottoがある。biscottoは語源的にbis「二度」とcoctus「焼かれた」から成る。フランス語cuit、スペイン語cocido、英語cookも同じラテン語系の語と歴史的に関係する。",
+    "it": "È il participio passato di cuocere e continua il latino coctus, participio passato di coquĕre, «cuocere, sottoporre al calore». Dal significato concreto di trasformazione mediante il calore si sono sviluppati gli usi figurati riferiti a chi è bruciato dal sole, stremato dalla fatica, ubriaco o innamorato. Alla stessa famiglia appartengono cuoco, cucina, cottura, biscotto, precotto, ricotto e stracotto. Biscotto deriva storicamente da bis, «due volte», e coctus, «cotto». Sono collegati alla stessa base anche il francese cuit, lo spagnolo cocido e, attraverso il latino, l’inglese cook."
+  },
+
+  "minimal": [
+    {
+      "word": "cotto",
+      "ja": "熱を加えられて生の状態から変化した、加熱済みの",
+      "it": "sottoposto al calore e trasformato rispetto allo stato crudo"
+    },
+    {
+      "word": "crudo",
+      "ja": "加熱されていない、または十分に火が通っていない",
+      "it": "non sottoposto a cottura oppure non ancora cotto a sufficienza"
+    },
+    {
+      "word": "cucinato",
+      "ja": "下ごしらえや味付けを含む調理を経て料理として準備された",
+      "it": "preparato come alimento attraverso operazioni che possono comprendere cottura e condimento"
+    },
+    {
+      "word": "ben cotto",
+      "ja": "内部まで十分に火が通った",
+      "it": "cotto completamente e in modo adeguato anche all’interno"
+    },
+    {
+      "word": "stracotto",
+      "ja": "必要な時間を超えて火を通しすぎた",
+      "it": "sottoposto a una cottura eccessivamente lunga"
+    }
+  ],
+
+  "synonyms": [
+    "cucinato",
+    "preparato",
+    "scottato",
+    "bruciato",
+    "stremato",
+    "esausto",
+    "ubriaco",
+    "innamorato",
+    "terracotta"
+  ],
+
+  "equivalents": {
+    "en": [
+      "cooked",
+      "done",
+      "baked",
+      "fired",
+      "exhausted",
+      "smitten"
+    ],
+    "de": [
+      "gekocht",
+      "gegart",
+      "gebacken",
+      "gebrannt",
+      "erschöpft",
+      "verknallt"
+    ],
+    "fr": [
+      "cuit",
+      "bien cuit",
+      "brûlé",
+      "épuisé",
+      "ivre",
+      "amoureux"
+    ],
+    "es": [
+      "cocido",
+      "hecho",
+      "horneado",
+      "quemado",
+      "agotado",
+      "enamorado"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "carne ben cotta",
+      "ja": "中まで十分に火が通った肉"
+    },
+    {
+      "it": "pasta troppo cotta",
+      "ja": "ゆですぎたパスタ"
+    },
+    {
+      "it": "verdure cotte al vapore",
+      "ja": "蒸した野菜"
+    },
+    {
+      "it": "pesce cotto al forno",
+      "ja": "オーブンで焼いた魚"
+    },
+    {
+      "it": "essere cotto dalla fatica",
+      "ja": "疲労でへとへとになっている"
+    },
+    {
+      "it": "essere cotto di qualcuno",
+      "ja": "誰かに夢中になっている"
+    },
+    {
+      "it": "prosciutto cotto",
+      "ja": "加熱ハム"
+    },
+    {
+      "it": "pavimento in cotto",
+      "ja": "テラコッタタイルの床"
+    },
+    {
+      "it": "cotto e mangiato",
+      "ja": "考えてすぐ実行された・即席の"
+    },
+    {
+      "it": "farne di cotte e di crude",
+      "ja": "さまざまな奇行や悪事をする"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Ho cotto la pasta per dieci minuti.",
+      "ja": "私はパスタを10分間ゆでました。"
+    },
+    {
+      "it": "La pasta è cotta: possiamo mangiare.",
+      "ja": "パスタがゆで上がりました。食べられます。"
+    },
+    {
+      "it": "Preferisco la carne ben cotta.",
+      "ja": "私は肉に中までしっかり火を通したものが好きです。"
+    },
+    {
+      "it": "Queste patate sono ancora poco cotte.",
+      "ja": "このジャガイモはまだ十分に火が通っていません。"
+    },
+    {
+      "it": "Gli spaghetti sono troppo cotti e hanno perso consistenza.",
+      "ja": "スパゲッティはゆですぎて、歯応えがなくなっています。"
+    },
+    {
+      "it": "Abbiamo mangiato pesce cotto al forno con le verdure.",
+      "ja": "私たちは野菜を添えたオーブン焼きの魚を食べました。"
+    },
+    {
+      "it": "I mattoni vengono cotti ad alta temperatura.",
+      "ja": "れんがは高温で焼成されます。"
+    },
+    {
+      "it": "Dopo una giornata sulla barca aveva il viso cotto dal sole.",
+      "ja": "船で一日過ごした後、彼の顔は日光で焼けていました。"
+    },
+    {
+      "it": "Dopo il viaggio di cinque ore sono completamente cotto.",
+      "ja": "5時間の移動の後で、私は完全にへとへとです。"
+    },
+    {
+      "it": "Marco è cotto di una sua collega.",
+      "ja": "マルコは同僚の女性に夢中です。"
+    },
+    {
+      "it": "Alla fine della festa era ubriaco cotto.",
+      "ja": "パーティーの終わりには、彼は完全に酔っ払っていました。"
+    },
+    {
+      "it": "Vorrei due etti di prosciutto cotto.",
+      "ja": "加熱ハムを200グラムください。"
+    },
+    {
+      "it": "La cucina ha un bellissimo pavimento in cotto.",
+      "ja": "その台所には美しいテラコッタタイルの床があります。"
+    },
+    {
+      "it": "La decisione è stata presa in fretta, proprio cotta e mangiata.",
+      "ja": "その決定は、まさに即席で慌ただしく下されました。"
+    },
+    {
+      "it": "Da giovani ne abbiamo fatte di cotte e di crude.",
+      "ja": "若いころ、私たちは実にいろいろな無茶をしました。"
+    },
+    {
+      "it": "La proposta non è né cruda né cotta e deve essere definita meglio.",
+      "ja": "その提案は中途半端で、さらに明確にする必要があります。"
+    }
+  ]
 }  
 ]
