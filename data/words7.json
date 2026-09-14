@@ -394,6 +394,189 @@
   ]
 },
 {
+  "id": "sempre",
+  "sid": "2026-00323",
+  "word": "sempre",
+  "ipa": "/ˈsɛmpre/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "時間副詞・程度表現および条件表現の構成要素",
+      "it": "avverbio temporale e componente di espressioni di grado e condizione"
+    },
+    "pattern": "verbo + sempre / essere sempre + aggettivo o participio / per sempre / da sempre / sempre più o sempre meno + aggettivo, avverbio o nome / sempre che + congiuntivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "narration",
+      "business",
+      "relationships",
+      "education"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "すべての時点で状態が続いている、常に・いつも",
+      "同じ行為が毎回または習慣的に繰り返される、いつも",
+      "da sempreの形で、遠い過去または当初から現在まで、昔からずっと",
+      "per sempreの形で、将来にわたって永久に、永遠に",
+      "sempre piùの形で、程度・数量・頻度などが継続的に増加する、ますます",
+      "sempre menoの形で、程度・数量・頻度などが継続的に減少する、ますます～なくなる",
+      "sempre cheの形で、ある条件が満たされる限り・～という条件で"
+    ],
+    "it": [
+      "In ogni momento o senza interruzione.",
+      "In tutte le occasioni o con regolarità abituale.",
+      "Nella locuzione da sempre, fin da un passato lontano o dall’inizio fino al presente.",
+      "Nella locuzione per sempre, per tutto il tempo futuro o senza fine.",
+      "Nella costruzione sempre più, indica un aumento progressivo di quantità, intensità o frequenza.",
+      "Nella costruzione sempre meno, indica una diminuzione progressiva.",
+      "Nella locuzione sempre che, introduce una condizione necessaria."
+    ]
+  },
+
+  "nuance": {
+    "ja": "sempreは、途切れない継続と、毎回繰り返される習慣の両方を表す。Il negozio è sempre apertoは「その店は常時開いている」、Viene sempre in trenoは「彼は毎回列車で来る」という意味になる。ancoraは、ある基準時点で状態が引き続き続いていることを表し、sempreのようにすべての時点で成立するとは限らない。per sempreは現在から将来へ向かう永続性、da sempreは過去から現在までの継続を表す。sempre piùとsempre menoは、時間の経過に伴う段階的な増加または減少を示す。sempre cheは通常接続法を伴い、「～である限り」「～という条件で」を意味する。",
+    "it": "Sempre può indicare sia una continuità senza interruzioni sia la ripetizione abituale di un fatto. Il negozio è sempre aperto descrive una condizione continua; Viene sempre in treno significa che usa il treno in ogni occasione. Ancora indica che una situazione continua nel momento considerato, senza necessariamente valere in ogni momento. Per sempre guarda dal presente verso il futuro, mentre da sempre indica una continuità iniziata nel passato. Sempre più e sempre meno esprimono rispettivamente un aumento e una diminuzione progressivi. Sempre che regge normalmente il congiuntivo e introduce una condizione."
+  },
+
+  "etymology": {
+    "ja": "ラテン語semper「常に、いつも」を直接継承した語である。ラテン語における基本的な時間的意味は、イタリア語でもほぼそのまま保たれている。スペイン語siempreも同じラテン語semperに由来する。また、semper fidelis「常に忠実な」のようなラテン語の成句にも残っている。",
+    "it": "Continua direttamente il latino semper, «sempre, in ogni momento». Il suo significato temporale fondamentale è rimasto sostanzialmente stabile nel passaggio dal latino all’italiano. Anche lo spagnolo siempre deriva dalla stessa parola latina, conservata inoltre in formule come semper fidelis, «sempre fedele»."
+  },
+
+  "minimal": [
+    {
+      "word": "sempre",
+      "ja": "すべての時点または毎回、行為・状態が続くことを表す",
+      "it": "indica che un fatto continua in ogni momento o si ripete in tutte le occasioni"
+    },
+    {
+      "word": "mai",
+      "ja": "否定文では、どの時点にも行為・状態が起こらないことを表す",
+      "it": "in una frase negativa esclude che un fatto avvenga in qualsiasi momento"
+    },
+    {
+      "word": "ancora",
+      "ja": "ある基準時点で行為・状態が引き続き続いていることを表す",
+      "it": "indica che una situazione continua nel momento considerato"
+    },
+    {
+      "word": "spesso",
+      "ja": "行為が高い頻度で起こるが、必ず毎回ではないことを表す",
+      "it": "indica che un fatto si verifica frequentemente, ma non in ogni occasione"
+    },
+    {
+      "word": "continuamente",
+      "ja": "状態の継続や行為の頻繁な反復を特に強調する",
+      "it": "sottolinea la continuità di una situazione o la frequente ripetizione di un fatto"
+    }
+  ],
+
+  "synonyms": [
+    "costantemente",
+    "continuamente",
+    "invariabilmente",
+    "ogni volta",
+    "eternamente"
+  ],
+
+  "equivalents": {
+    "en": [
+      "always",
+      "forever",
+      "increasingly",
+      "provided that"
+    ],
+    "de": [
+      "immer",
+      "stets",
+      "für immer",
+      "zunehmend",
+      "vorausgesetzt, dass"
+    ],
+    "fr": [
+      "toujours",
+      "pour toujours",
+      "de plus en plus",
+      "à condition que"
+    ],
+    "es": [
+      "siempre",
+      "para siempre",
+      "cada vez más",
+      "siempre que"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "come sempre",
+      "ja": "いつものように"
+    },
+    {
+      "it": "per sempre",
+      "ja": "永遠に・これからずっと"
+    },
+    {
+      "it": "da sempre",
+      "ja": "昔からずっと"
+    },
+    {
+      "it": "sempre più",
+      "ja": "ますます・次第により多く"
+    },
+    {
+      "it": "sempre che sia possibile",
+      "ja": "可能であるという条件で"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Bevo sempre un caffè dopo pranzo.",
+      "ja": "私は昼食後にいつもコーヒーを飲みます。"
+    },
+    {
+      "it": "Questo negozio è sempre aperto.",
+      "ja": "この店はいつも開いています。"
+    },
+    {
+      "it": "Ci conosciamo da sempre.",
+      "ja": "私たちは昔からずっと知り合いです。"
+    },
+    {
+      "it": "Ricorderò questo viaggio per sempre.",
+      "ja": "私はこの旅行を永遠に覚えているでしょう。"
+    },
+    {
+      "it": "La situazione sta diventando sempre più complessa.",
+      "ja": "状況はますます複雑になっています。"
+    },
+    {
+      "it": "Abbiamo sempre meno tempo per decidere.",
+      "ja": "私たちが決定に使える時間はますます少なくなっています。"
+    },
+    {
+      "it": "Puoi usare la mia automobile, sempre che tu guidi con prudenza.",
+      "ja": "慎重に運転するという条件なら、私の車を使っても構いません。"
+    }
+  ]
+},
+{
   "id": "pullman",
   "sid": "2026-00332",
   "word": "pullman",
