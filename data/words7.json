@@ -577,6 +577,196 @@
   ]
 },
 {
+  "id": "spesso",
+  "sid": "2026-00324",
+  "word": "spesso",
+  "ipa": "/ˈspesso/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "頻度副詞・形容詞",
+      "it": "avverbio di frequenza e aggettivo"
+    },
+    "adjectiveForms": [
+      "spesso",
+      "spessa",
+      "spessi",
+      "spesse"
+    ],
+    "pattern": "verbo + spesso / spesso + frase / molto, più o meno spesso / aggettivo: nome + spesso, spessa, spessi o spesse"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "narration",
+      "business",
+      "education",
+      "description"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "副詞として、ある行為・出来事が高い頻度で起こる、しばしば・よく",
+      "多くの事例や状況に当てはまる、往々にして",
+      "比較表現で、以前または別の場合より高い、あるいは低い頻度で",
+      "形容詞として、物の二つの面の間隔が大きい、厚い",
+      "霧・煙・液体・植物などが密で濃い",
+      "毛・髪・植物などの構成要素が多く、互いに接近している、密生した"
+    ],
+    "it": [
+      "Come avverbio, con grande frequenza o in molte occasioni.",
+      "In un numero elevato di casi o situazioni.",
+      "Nelle comparazioni, con una frequenza maggiore o minore rispetto a un altro periodo o caso.",
+      "Come aggettivo, dotato di notevole spessore.",
+      "Denso o fitto, con riferimento a nebbia, fumo, liquidi o vegetazione.",
+      "Composto da elementi numerosi e ravvicinati, come capelli, peli o piante."
+    ]
+  },
+
+  "nuance": {
+    "ja": "副詞spessoは高い頻度を表すが、sempre「いつも」と異なり、必ず毎回起こることまでは意味しない。最も中立的な位置はVado spesso al cinemaのような動詞の後だが、Spesso vado al cinemaのように文頭へ置いて頻度を強調することもできる。di solitoは回数そのものより、通常の習慣や典型的な行動を表す。frequentementeはspessoとほぼ同義だが、やや書き言葉的または説明的に響く場合がある。形容詞として使う場合は名詞に性数一致し、un muro spesso、una nebbia spessa、capelli spessiとなる。",
+    "it": "Come avverbio, spesso indica una frequenza elevata ma non assoluta, diversamente da sempre. La posizione più neutra è generalmente dopo il verbo, come in Vado spesso al cinema, ma può essere collocato all’inizio della frase per mettere in rilievo la frequenza. Di solito descrive soprattutto un’abitudine o un comportamento normale, mentre frequentemente può avere un tono leggermente più formale o descrittivo. Come aggettivo, spesso concorda con il nome: un muro spesso, una nebbia spessa, capelli spessi."
+  },
+
+  "etymology": {
+    "ja": "ラテン語spissus「厚い、密集した、濃い」に由来する。物が空間的に密に並んでいるという意味から、出来事が時間的に短い間隔で繰り返されることを表す副詞「頻繁に」の意味が発達した。このため、現代イタリア語でも形容詞の「厚い・密な」と副詞の「しばしば」という二つの用法が共存している。",
+    "it": "Deriva dal latino spissus, «fitto, denso, spesso». Dal significato spaziale di elementi collocati a breve distanza si è sviluppato quello temporale di eventi che si susseguono a intervalli brevi, quindi «frequentemente». Nell’italiano moderno convivono pertanto il valore aggettivale di «dotato di spessore o densità» e quello avverbiale di «molte volte»."
+  },
+
+  "minimal": [
+    {
+      "word": "spesso",
+      "ja": "行為・出来事が高い頻度で起こるが、必ず毎回ではない",
+      "it": "indica che un fatto avviene con alta frequenza, ma non necessariamente ogni volta"
+    },
+    {
+      "word": "sempre",
+      "ja": "すべての時点または毎回、行為・状態が続くことを表す",
+      "it": "indica che un fatto vale in ogni momento o in tutte le occasioni"
+    },
+    {
+      "word": "di solito",
+      "ja": "例外はあるものの、通常の習慣・行動・状態であることを表す",
+      "it": "indica ciò che accade normalmente secondo un’abitudine"
+    },
+    {
+      "word": "a volte",
+      "ja": "頻繁ではないが、いくつかの機会に起こることを表す",
+      "it": "indica che un fatto avviene in alcune occasioni, ma non frequentemente"
+    },
+    {
+      "word": "raramente",
+      "ja": "行為・出来事が低い頻度でしか起こらないことを表す",
+      "it": "indica che un fatto si verifica poche volte"
+    }
+  ],
+
+  "synonyms": [
+    "frequentemente",
+    "sovente",
+    "di frequente",
+    "molte volte",
+    "fitto"
+  ],
+
+  "equivalents": {
+    "en": [
+      "often",
+      "frequently",
+      "thick",
+      "dense"
+    ],
+    "de": [
+      "oft",
+      "häufig",
+      "dick",
+      "dicht"
+    ],
+    "fr": [
+      "souvent",
+      "fréquemment",
+      "épais",
+      "dense"
+    ],
+    "es": [
+      "a menudo",
+      "frecuentemente",
+      "grueso",
+      "espeso"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "andare spesso",
+      "ja": "頻繁に行く"
+    },
+    {
+      "it": "molto spesso",
+      "ja": "非常によく・非常に頻繁に"
+    },
+    {
+      "it": "sempre più spesso",
+      "ja": "ますます頻繁に"
+    },
+    {
+      "it": "un muro spesso",
+      "ja": "厚い壁"
+    },
+    {
+      "it": "una nebbia spessa",
+      "ja": "濃い霧"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Vado spesso al cinema con mia moglie.",
+      "ja": "私は妻とよく映画館へ行きます。"
+    },
+    {
+      "it": "Marco arriva spesso in ritardo alle riunioni.",
+      "ja": "マルコは会議によく遅刻します。"
+    },
+    {
+      "it": "Questa espressione si usa spesso nella lingua parlata.",
+      "ja": "この表現は話し言葉でよく使われます。"
+    },
+    {
+      "it": "Negli ultimi mesi viaggio meno spesso.",
+      "ja": "ここ数か月は旅行する頻度が下がりました。"
+    },
+    {
+      "it": "Succede spesso che i clienti chiedano ulteriori chiarimenti.",
+      "ja": "顧客が追加説明を求めることはよくあります。"
+    },
+    {
+      "it": "Il muro è troppo spesso per essere perforato facilmente.",
+      "ja": "その壁は厚すぎて、簡単には穴を開けられません。"
+    },
+    {
+      "it": "Una nebbia spessa copriva tutta la valle.",
+      "ja": "濃い霧が谷全体を覆っていました。"
+    },
+    {
+      "it": "Ha capelli molto spessi e difficili da pettinare.",
+      "ja": "彼女はとても豊かで、とかしにくい髪をしています。"
+    }
+  ]
+},
+{
   "id": "pullman",
   "sid": "2026-00332",
   "word": "pullman",
