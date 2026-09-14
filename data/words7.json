@@ -3578,5 +3578,221 @@
       "ja": "その会社は複数の不動産を所有しています。"
     }
   ]
-} 
+} ,
+{
+  "id": "male",
+  "sid": "2026-00340",
+  "word": "male",
+  "ipa": "/ˈmale/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "様態副詞・間投詞的表現・男性名詞",
+      "it": "avverbio di modo, elemento di espressioni interiettive e sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "mali（名詞として使用する場合）",
+    "invariable": true,
+    "pattern": "verbo + male / stare o sentirsi male / fare male a + persona o parte del corpo / farsi male / parlare male di + persona o cosa / rimanerci male / meno male / mal + aggettivo, participio o nome / il male / i mali"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "health",
+      "emotions",
+      "evaluation",
+      "relationships",
+      "work",
+      "ethics"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "行為を良くない方法で、下手に、または不十分に行う、悪く・うまくなく",
+      "物事を誤って、不適切に、または望ましくない方法で行う",
+      "出来事・計画などが好ましくない結果に終わる、うまくいかず",
+      "stare male・sentirsi maleの形で、体調が悪い・気分がすぐれない",
+      "fare maleの形で、身体に痛みを与える、または人・物に害を及ぼす",
+      "farsi maleの形で、けがをする・身体を痛める",
+      "parlare male diの形で、人や物を悪く言う・批判する",
+      "rimanerci maleの形で、がっかりする・感情を傷つけられる",
+      "meno maleの形で、好ましくない事態が避けられたことへの安堵を表す、よかった・幸いにも",
+      "男性名詞として、善に対する悪、人や物に及ぶ害・苦痛・不幸",
+      "男性名詞として、病気・痛み・社会的問題など好ましくない状態"
+    ],
+    "it": [
+      "In modo cattivo, poco abile o poco soddisfacente.",
+      "In modo errato, inappropriato o contrario a ciò che sarebbe opportuno.",
+      "Con un risultato negativo o sfavorevole.",
+      "Nelle espressioni stare male e sentirsi male, essere indisposti o non sentirsi bene.",
+      "Nella costruzione fare male, provocare dolore, danno o sofferenza.",
+      "Nella costruzione farsi male, procurarsi una ferita o subire un danno fisico.",
+      "Nell’espressione parlare male di, esprimere un giudizio negativo o criticare qualcuno o qualcosa.",
+      "Nell’espressione rimanerci male, sentirsi delusi, offesi o emotivamente feriti.",
+      "Nella locuzione meno male, esprime sollievo per un fatto favorevole o per un pericolo evitato.",
+      "Come sostantivo maschile, ciò che è contrario al bene oppure causa danno, dolore o sofferenza.",
+      "Come sostantivo maschile, malattia, disturbo o problema individuale o collettivo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "maleは通常副詞で、動詞を修飾する。したがってHa lavorato maleは「彼は仕事をうまくしなかった」となる。人や物の性質を表す形容詞には通常cattivoを使い、un cattivo risultato「悪い結果」と言う。反対語はbeneで、比較級はpeggio、強い程度はmolto maleまたはmalissimoで表せる。stare male・sentirsi maleは身体的な不調を表すことが多いが、文脈によって精神的につらい状態も表す。fare maleは「痛みや害を与える」、farsi maleは「自分がけがをする」である。rimanerci maleは期待を裏切られたり言葉に傷ついたりしたときの落胆を表す。形容詞・過去分詞・一部の名詞の前では、mal fatto、mal preparato、mal di mareのようにmalとなる。名詞のil maleは「悪・害・病気」を表し、複数形i maliは複数の病気・苦痛・社会問題などを指す。",
+    "it": "Male è soprattutto un avverbio e modifica normalmente un verbo: Ha lavorato male. Per qualificare direttamente una persona o una cosa si usa invece l’aggettivo cattivo: un cattivo risultato. Il contrario è bene; il comparativo è peggio, mentre un grado molto intenso può essere espresso con molto male o malissimo. Stare male e sentirsi male indicano spesso un’indisposizione fisica, ma possono riferirsi anche a una sofferenza emotiva. Fare male significa provocare dolore o danno; farsi male significa invece subire una ferita. Rimanerci male esprime delusione o risentimento. Davanti ad aggettivi, participi e in alcune locuzioni, male assume spesso la forma tronca mal: mal fatto, mal preparato, mal di mare. Come sostantivo, il male indica ciò che si oppone al bene oppure una causa di dolore, danno o malattia; il plurale mali è comune quando si distinguono disturbi o problemi diversi."
+  },
+
+  "etymology": {
+    "ja": "副詞maleはラテン語male「悪く」に由来し、形容詞malus「悪い」と同じ語族に属する。男性名詞maleはラテン語malum「悪・災い」に由来し、イタリア語では副詞と同じ形になった。同じ語族にはmalattia「病気」、malato「病気の」、malessere「不調」、malvagio「邪悪な」、maltrattare「虐待する」などがある。フランス語mal、スペイン語mal、英語の接頭辞mal-も同じラテン語に由来する。",
+    "it": "L’avverbio male continua il latino male, «in modo cattivo», appartenente alla famiglia dell’aggettivo malus, «cattivo». Il sostantivo male deriva dal latino malum, «male, disgrazia», ed è confluito nella stessa forma dell’avverbio. Alla medesima famiglia appartengono malattia, malato, malessere, malvagio e maltrattare. Hanno la stessa origine anche il francese mal, lo spagnolo mal e il prefisso inglese mal-."
+  },
+
+  "minimal": [
+    {
+      "word": "male",
+      "ja": "行為が悪い方法で行われること、体調不良、痛み・害、または名詞としての悪を表す",
+      "it": "indica un modo negativo, uno stato di malessere, un danno oppure il male come sostantivo"
+    },
+    {
+      "word": "bene",
+      "ja": "行為が適切・良好に行われること、または名詞としての善を表す",
+      "it": "indica un modo positivo o corretto oppure il bene come sostantivo"
+    },
+    {
+      "word": "cattivo",
+      "ja": "人・物・結果などの性質が悪いことを表す形容詞",
+      "it": "aggettivo che attribuisce una qualità negativa a una persona, una cosa o un risultato"
+    },
+    {
+      "word": "peggio",
+      "ja": "maleの比較級として、より悪く・さらに悪い状態であることを表す",
+      "it": "comparativo di male, con il significato di in modo più negativo"
+    },
+    {
+      "word": "malissimo",
+      "ja": "非常に悪く・ひどくという、maleの強い程度を表す",
+      "it": "superlativo avverbiale che significa in modo estremamente negativo"
+    }
+  ],
+
+  "synonyms": [
+    "malamente",
+    "erroneamente",
+    "inadeguatamente",
+    "negativamente",
+    "danno",
+    "dolore"
+  ],
+
+  "equivalents": {
+    "en": [
+      "badly",
+      "poorly",
+      "unwell",
+      "evil",
+      "harm"
+    ],
+    "de": [
+      "schlecht",
+      "übel",
+      "unwohl",
+      "das Böse",
+      "Schaden"
+    ],
+    "fr": [
+      "mal",
+      "souffrant",
+      "le mal",
+      "douleur"
+    ],
+    "es": [
+      "mal",
+      "indispuesto",
+      "el mal",
+      "daño"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "stare male",
+      "ja": "体調が悪い・気分がすぐれない"
+    },
+    {
+      "it": "farsi male",
+      "ja": "けがをする・身体を痛める"
+    },
+    {
+      "it": "fare male a qualcuno",
+      "ja": "誰かに痛みや害を与える・傷つける"
+    },
+    {
+      "it": "parlare male di qualcuno",
+      "ja": "誰かを悪く言う・悪口を言う"
+    },
+    {
+      "it": "meno male",
+      "ja": "よかった・幸いにも"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Ho risposto male alla domanda perché non l’avevo capita.",
+      "ja": "質問を理解していなかったので、間違った答え方をしてしまいました。"
+    },
+    {
+      "it": "La riunione è cominciata bene, ma è finita male.",
+      "ja": "会議は順調に始まりましたが、最後はうまくいきませんでした。"
+    },
+    {
+      "it": "Oggi mi sento male e preferisco restare a casa.",
+      "ja": "今日は体調が悪いので、家にいたいです。"
+    },
+    {
+      "it": "Mi fa male la schiena quando rimango seduto troppo a lungo.",
+      "ja": "長時間座っていると背中が痛みます。"
+    },
+    {
+      "it": "È caduto dalle scale, ma per fortuna non si è fatto male.",
+      "ja": "彼は階段から落ちましたが、幸いけがはしませんでした。"
+    },
+    {
+      "it": "Non mi piace parlare male dei miei colleghi.",
+      "ja": "私は同僚の悪口を言うのが好きではありません。"
+    },
+    {
+      "it": "Ci sono rimasto male quando non mi hanno invitato.",
+      "ja": "招待されなかったので、私はがっかりして傷つきました。"
+    },
+    {
+      "it": "Meno male che hai portato con te un ombrello.",
+      "ja": "傘を持ってきてくれてよかったです。"
+    },
+    {
+      "it": "Il documento era scritto male e risultava difficile da capire.",
+      "ja": "その文書は書き方が悪く、理解するのが困難でした。"
+    },
+    {
+      "it": "Il bambino sta imparando a distinguere il bene dal male.",
+      "ja": "その子供は善と悪を区別することを学んでいます。"
+    },
+    {
+      "it": "La povertà e l’ignoranza sono mali che colpiscono molte società.",
+      "ja": "貧困と無知は多くの社会を苦しめる問題です。"
+    }
+  ]
+}
 ]
