@@ -3794,5 +3794,200 @@
       "ja": "貧困と無知は多くの社会を苦しめる問題です。"
     }
   ]
+},
+{
+  "id": "spigolo",
+  "sid": "2026-00341",
+  "word": "spigolo",
+  "ipa": "/ˈspiɡolo/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "spigoli",
+    "pattern": "lo spigolo / gli spigoli / spigolo di + oggetto o struttura / urtare contro uno spigolo / spigolo + aggettivo / smussare gli spigoli / avere un carattere pieno di spigoli"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "technical",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "geometry",
+      "construction",
+      "design",
+      "mountaineering",
+      "relationships"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "物体の二つの面が交わってできる、線状の角・稜",
+      "机・家具・箱・壁などにある、外側へ突き出した鋭い角",
+      "幾何学で、多面体の二つの面が交わる部分をなす辺",
+      "建物・壁・構造物などの二つの面が接する縁",
+      "登山で、二つの岩壁が交わって形成される急峻な岩稜",
+      "顔や身体について、骨張って角張った輪郭",
+      "複数形で、人の性格・態度に見られるとげとげしさ・扱いにくさ",
+      "複数形で、人間関係に存在する対立・緊張・わだかまり"
+    ],
+    "it": [
+      "Linea formata dall’incontro di due superfici o facce di un oggetto.",
+      "Parte angolosa e sporgente di un tavolo, un mobile, una scatola, un muro o un’altra struttura.",
+      "In geometria, segmento lungo il quale si incontrano due facce di un poliedro.",
+      "Bordo formato dall’incontro di due pareti o superfici di una costruzione.",
+      "In alpinismo, cresta rocciosa ripida formata dalla convergenza di due pareti.",
+      "Con riferimento al volto o al corpo, linea ossea e marcatamente angolosa.",
+      "Al plurale e in senso figurato, asperità, durezza o scontrosità del carattere.",
+      "Al plurale e in senso figurato, tensioni, divergenze o attriti esistenti tra persone."
+    ]
+  },
+
+  "nuance": {
+    "ja": "spigoloは、二つの面が交わってできる線状の角、特に外へ突き出していて物がぶつかり得る部分を表す。lo spigolo del tavoloは「机の角」である。angoloは二本の線や二つの面が作る角度、部屋の隅、街角なども含む、より広い語である。verticeは線や辺が集まる一点としての「頂点」、bordoは物の範囲を区切る「縁・端」を表す。spigolo vivoは丸みを付けていない鋭い角、spigolo smussatoは面取りされた角である。比喩的な複数形gli spigoliは性格のとげとげしさや人間関係の摩擦を表し、smussare gli spigoliは文字どおりには「角を削る」、比喩的には「対立を和らげる・態度を柔らかくする」という意味になる。",
+    "it": "Spigolo indica soprattutto la linea angolosa formata dall’incontro di due superfici, spesso considerata come una parte esterna, sporgente e contro la quale ci si può urtare. Angolo è un termine più ampio e può indicare anche l’apertura tra due linee, l’angolo interno di una stanza o un punto di una strada. Vertice designa il punto nel quale si incontrano linee o spigoli; bordo indica invece il limite esterno di una superficie. Uno spigolo vivo è netto e non arrotondato, mentre uno spigolo smussato è stato reso meno tagliente. Al plurale, gli spigoli possono rappresentare figuratamente la durezza di un carattere o le tensioni tra persone. Smussare gli spigoli significa quindi anche attenuare contrasti e rendere più cordiali i rapporti."
+  },
+
+  "etymology": {
+    "ja": "ラテン語spicŭlum「小さな穂先・小さな尖端」に由来し、これはspica「穂・尖った先端」の指小形である。もともとの「尖った部分」という観念から、二つの面が交わってできる鋭い稜を表すようになった。同じ語族にはspiga「穂」、spina「とげ」と関連する語群があり、spigolosoは物について「角張った」、人について「とげとげしい・無愛想な」という意味を持つ。",
+    "it": "Deriva dal latino spicŭlum, diminutivo di spica, «spiga, punta». Dall’idea originaria di una piccola punta si è sviluppato il significato di linea acuta formata dall’incontro di due superfici. Dalla parola spigolo derivano spigoloso, che può significare sia «ricco di spigoli» sia, figuratamente, «scontroso e difficile da trattare», e spigolosità."
+  },
+
+  "minimal": [
+    {
+      "word": "spigolo",
+      "ja": "二つの面が交わってできる線状で、多くの場合外側へ突き出した角・稜",
+      "it": "linea, spesso sporgente, formata dall’incontro di due superfici"
+    },
+    {
+      "word": "angolo",
+      "ja": "二本の線が作る角度、部屋の隅、街角などを広く表す",
+      "it": "apertura tra due linee oppure punto interno o esterno nel quale esse si incontrano"
+    },
+    {
+      "word": "vertice",
+      "ja": "複数の線・辺・面が集まる一点、または物の最も高い部分",
+      "it": "punto nel quale si incontrano lati o spigoli oppure parte più alta di qualcosa"
+    },
+    {
+      "word": "bordo",
+      "ja": "面・物・容器などの範囲を区切る縁・端",
+      "it": "limite esterno di una superficie, di un oggetto o di un recipiente"
+    },
+    {
+      "word": "canto",
+      "ja": "建築・工芸などで、二つの面が接する角や縁を表すことがある語",
+      "it": "termine che in alcuni usi tecnici indica l’angolo o il margine formato da due superfici"
+    }
+  ],
+
+  "synonyms": [
+    "angolo",
+    "canto",
+    "bordo",
+    "costola",
+    "cresta",
+    "asperità"
+  ],
+
+  "equivalents": {
+    "en": [
+      "edge",
+      "corner",
+      "sharp edge",
+      "ridge"
+    ],
+    "de": [
+      "Kante",
+      "Ecke",
+      "scharfe Kante",
+      "Felsgrat"
+    ],
+    "fr": [
+      "arête",
+      "coin",
+      "angle saillant",
+      "éperon rocheux"
+    ],
+    "es": [
+      "arista",
+      "esquina",
+      "borde",
+      "cresta rocosa"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "lo spigolo del tavolo",
+      "ja": "机の角"
+    },
+    {
+      "it": "urtare contro uno spigolo",
+      "ja": "角にぶつかる"
+    },
+    {
+      "it": "uno spigolo vivo",
+      "ja": "丸みのない鋭い角"
+    },
+    {
+      "it": "smussare gli spigoli",
+      "ja": "角を削る・対立や態度を和らげる"
+    },
+    {
+      "it": "uno spigolo roccioso",
+      "ja": "岩壁が交わってできる岩稜"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Ho battuto il ginocchio contro lo spigolo del tavolo.",
+      "ja": "机の角に膝をぶつけました。"
+    },
+    {
+      "it": "Gli spigoli del mobile sono stati arrotondati per evitare incidenti.",
+      "ja": "事故を防ぐため、家具の角には丸みが付けられています。"
+    },
+    {
+      "it": "Un cubo ha dodici spigoli e otto vertici.",
+      "ja": "立方体には12本の辺と8個の頂点があります。"
+    },
+    {
+      "it": "Il muratore ha controllato lo spigolo della parete.",
+      "ja": "左官職人は壁の角を確認しました。"
+    },
+    {
+      "it": "La luce metteva in risalto gli spigoli del suo volto.",
+      "ja": "光が彼の顔の角張った輪郭を際立たせていました。"
+    },
+    {
+      "it": "Gli alpinisti hanno seguito lo spigolo roccioso fino alla cima.",
+      "ja": "登山者たちは岩稜に沿って頂上まで登りました。"
+    },
+    {
+      "it": "Ha un carattere pieno di spigoli, ma è una persona sincera.",
+      "ja": "彼は少しとげのある性格ですが、誠実な人です。"
+    },
+    {
+      "it": "Prima di firmare l’accordo, le due parti devono ancora smussare alcuni spigoli.",
+      "ja": "合意に署名する前に、双方はなおいくつかの対立を和らげる必要があります。"
+    }
+  ]
 }
 ]
