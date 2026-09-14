@@ -7266,5 +7266,289 @@
       "ja": "バス歌手は深みのある声でオペラの最後の部分を歌いました。"
     }
   ]
+},
+{
+  "id": "corto",
+  "sid": "2026-00356",
+  "word": "corto",
+  "ipa": "/ˈkorto/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adjective",
+    "label": {
+      "ja": "形容詞・男性名詞・限定的な副詞的用法",
+      "it": "aggettivo, sostantivo maschile e uso avverbiale limitato"
+    },
+    "adjectiveForms": [
+      "corto",
+      "corta",
+      "corti",
+      "corte"
+    ],
+    "comparative": "più corto",
+    "superlative": "il più corto / cortissimo",
+    "pattern": "nome + corto / essere corto / più corto di + termine di confronto / a corto di + nome / un corto, i corti / tagliare corto / farla corta / essere ai ferri corti con + persona"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "figurative",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "description",
+      "clothing",
+      "travel",
+      "time",
+      "work",
+      "finance",
+      "media",
+      "technology"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "物・部分などの端から端までの長さが小さい、短い",
+      "髪・腕・脚・首などの長さが平均より短い",
+      "衣服・袖・裾などが通常より短い",
+      "道・経路・距離などが短い",
+      "会議・訪問・映画・人生などの継続時間が短い",
+      "文章・発言・説明などが簡潔で短い",
+      "投球・射撃などが目標まで届かない、手前に落ちる",
+      "コーヒーやスープなどの液体が少量で濃い",
+      "a corto diの形で、必要な物が不足している",
+      "記憶・視野・思考などが十分に働かない、持続しない",
+      "tagliare cortoの形で、話や議論を急に切り上げる",
+      "farla cortaの形で、話を手短にする・要点だけ述べる",
+      "ai ferri cortiの形で、誰かと激しく対立している",
+      "名詞的に、短編映画・短い映像作品",
+      "口語・技術用法で、電気回路の短絡・ショート"
+    ],
+    "it": [
+      "Che presenta una lunghezza ridotta rispetto alla norma o a un termine di confronto.",
+      "Di capelli o parti del corpo, poco lungo.",
+      "Di un indumento, una manica o un orlo, che non raggiunge una grande lunghezza.",
+      "Di una strada, un percorso o una distanza, poco esteso.",
+      "Di un evento, una visita, una riunione o un film, di breve durata.",
+      "Di un testo, un discorso o una spiegazione, conciso e poco esteso.",
+      "Di un tiro o di un lancio, che non raggiunge il punto previsto.",
+      "Di caffè, brodo o altra bevanda, preparato con poco liquido e quindi concentrato.",
+      "Nella locuzione a corto di, quasi privo di qualcosa o con una quantità insufficiente.",
+      "Di memoria, vista o capacità intellettuale, limitato o poco sviluppato.",
+      "Nella locuzione tagliare corto, interrompere o concludere bruscamente un discorso.",
+      "Nella locuzione farla corta, raccontare qualcosa senza dilungarsi.",
+      "Nella locuzione ai ferri corti, in una situazione di forte conflitto con qualcuno.",
+      "Come sostantivo, forma abbreviata di cortometraggio.",
+      "In ambito elettrico, forma abbreviata e colloquiale di cortocircuito."
+    ]
+  },
+
+  "nuance": {
+    "ja": "cortoは主に物理的な長さを表し、lungoの反対語である。un nastro corto「短いリボン」、la strada più corta「最も短い道」のように使う。時間についてもuna riunione cortaと言えるが、一般にuna breve riunione、un breve viaggioのようにbreveを使うほうが自然な場合が多い。文章・説明についてもcortoは使用できるが、breveは中立的に短いこと、concisoは余分な部分がなく簡潔であることを強調する。人の身長には通常bassoを使い、È cortoとは一般には言わない。cortoが人について使われる場合は、背が低くずんぐりした体格を示すことがあり、使用範囲が限られる。a corto diは性数変化しない固定表現で、Sono a corto di tempo、Siamo a corto di ideeのように使う。caffè cortoは通常のエスプレッソより抽出量の少ない濃いコーヒーで、caffè ristrettoとも呼ばれる。名詞のun corto、複数形i cortiは短編映画を表す。tagliare cortoではcortoが副詞的に使われ、性数変化しない。",
+    "it": "Corto riguarda principalmente la lunghezza fisica ed è il contrario di lungo: un nastro corto, la strada più corta. Può riferirsi anche al tempo, ma con eventi e periodi è spesso più naturale usare breve: una breve riunione, un breve viaggio. Con testi e discorsi, breve indica semplicemente una ridotta estensione, mentre conciso sottolinea l’assenza di elementi superflui. Per la statura di una persona si usa normalmente basso, non corto; riferito a una persona, corto può suggerire una corporatura bassa e tarchiata ed è meno neutro. A corto di è una locuzione invariabile: Sono a corto di tempo, Siamo a corto di idee. Un caffè corto contiene meno acqua ed è più concentrato di un espresso ordinario; è vicino a caffè ristretto. Come sostantivo, un corto, al plurale i corti, indica un cortometraggio. In tagliare corto, corto ha valore avverbiale e rimane invariabile."
+  },
+
+  "etymology": {
+    "ja": "ラテン語curtus「切り詰められた、途中で切られた、短くされた」に由来する。もともとは完全な長さに達する前に切られた物を表し、そこから一般的な「短い」という意味が発達した。さらに、物理的な不足から、a corto di「～が不足して」、memoria corta「忘れやすい記憶」のような比喩的用法が生まれた。同じ語族にはaccorciare、scorciare、cortometraggio、cortocircuito、cortissimoがある。英語curtは古フランス語を経て同じラテン語curtusに由来し、スペイン語cortoとポルトガル語curtoも同語源である。",
+    "it": "Deriva dal latino curtus, «troncato, mutilato, accorciato». In origine indicava qualcosa che era stato tagliato prima di raggiungere la propria lunghezza completa; da questo valore si è sviluppato il significato generale di «poco lungo». L’idea di lunghezza insufficiente ha inoltre prodotto usi figurati come a corto di e memoria corta. Alla stessa famiglia appartengono accorciare, scorciare, cortometraggio, cortocircuito e cortissimo. Anche l’inglese curt, attraverso il francese antico, lo spagnolo corto e il portoghese curto risalgono al latino curtus."
+  },
+
+  "minimal": [
+    {
+      "word": "corto",
+      "ja": "物理的な長さが小さいことを中心に、時間・文章などが短いことも表す",
+      "it": "indica soprattutto una lunghezza ridotta e, per estensione, una breve durata"
+    },
+    {
+      "word": "lungo",
+      "ja": "端から端までの距離、または継続時間が大きい",
+      "it": "indica una notevole estensione nello spazio oppure nel tempo"
+    },
+    {
+      "word": "breve",
+      "ja": "時間・文章・発言などの継続や範囲が短いことを中立的に表す",
+      "it": "indica soprattutto una durata o un’estensione temporale o testuale ridotta"
+    },
+    {
+      "word": "basso",
+      "ja": "人の身長、物の高さ、位置、数値などが低い",
+      "it": "indica una statura, un’altezza, una posizione o un valore ridotto"
+    },
+    {
+      "word": "piccolo",
+      "ja": "物や人の全体的な大きさ・量・年齢などが小さい",
+      "it": "indica dimensioni complessive, quantità o età ridotte, non soltanto la lunghezza"
+    }
+  ],
+
+  "synonyms": [
+    "breve",
+    "ridotto",
+    "conciso",
+    "succinto",
+    "sintetico",
+    "scarso",
+    "insufficiente",
+    "ristretto"
+  ],
+
+  "equivalents": {
+    "en": [
+      "short",
+      "brief",
+      "concise",
+      "low on",
+      "short film"
+    ],
+    "de": [
+      "kurz",
+      "knapp",
+      "prägnant",
+      "Mangel haben an",
+      "Kurzfilm"
+    ],
+    "fr": [
+      "court",
+      "bref",
+      "concis",
+      "à court de",
+      "court métrage"
+    ],
+    "es": [
+      "corto",
+      "breve",
+      "conciso",
+      "escaso de",
+      "cortometraje"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "portare i capelli corti",
+      "ja": "髪を短くしている"
+    },
+    {
+      "it": "una maglietta a maniche corte",
+      "ja": "半袖のシャツ"
+    },
+    {
+      "it": "prendere la strada più corta",
+      "ja": "最も短い道を通る"
+    },
+    {
+      "it": "una riunione molto corta",
+      "ja": "非常に短い会議"
+    },
+    {
+      "it": "ordinare un caffè corto",
+      "ja": "濃く少量のコーヒーを注文する"
+    },
+    {
+      "it": "essere a corto di tempo",
+      "ja": "時間が不足している"
+    },
+    {
+      "it": "avere la memoria corta",
+      "ja": "物忘れしやすい・都合よく過去を忘れる"
+    },
+    {
+      "it": "tagliare corto",
+      "ja": "話や議論を急に切り上げる"
+    },
+    {
+      "it": "per farla corta",
+      "ja": "手短に言えば"
+    },
+    {
+      "it": "essere ai ferri corti con qualcuno",
+      "ja": "誰かと激しく対立している"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "La corda è troppo corta per raggiungere il fondo.",
+      "ja": "そのロープは底まで届くには短すぎます。"
+    },
+    {
+      "it": "D’estate porto sempre i capelli corti.",
+      "ja": "夏にはいつも髪を短くしています。"
+    },
+    {
+      "it": "Oggi indosso una camicia a maniche corte.",
+      "ja": "今日は半袖のシャツを着ています。"
+    },
+    {
+      "it": "Questa gonna mi sembra un po’ troppo corta.",
+      "ja": "このスカートは私には少し短すぎるように思えます。"
+    },
+    {
+      "it": "Abbiamo preso la strada più corta per arrivare alla stazione.",
+      "ja": "私たちは駅へ行くために最も短い道を通りました。"
+    },
+    {
+      "it": "La riunione è stata più corta del previsto.",
+      "ja": "会議は予定より短く終わりました。"
+    },
+    {
+      "it": "Scrivi una risposta corta ma completa.",
+      "ja": "短くても内容のそろった回答を書いてください。"
+    },
+    {
+      "it": "Il passaggio era troppo corto e la palla non è arrivata al compagno.",
+      "ja": "パスが短すぎて、ボールは味方の選手まで届きませんでした。"
+    },
+    {
+      "it": "Dopo pranzo ordino sempre un caffè corto.",
+      "ja": "昼食後にはいつも濃く少量のコーヒーを注文します。"
+    },
+    {
+      "it": "Siamo a corto di tempo e dobbiamo decidere subito.",
+      "ja": "時間が不足しているので、すぐに決めなければなりません。"
+    },
+    {
+      "it": "L’azienda è a corto di personale qualificato.",
+      "ja": "その会社では有資格の人材が不足しています。"
+    },
+    {
+      "it": "Hai la memoria corta: ne abbiamo già parlato ieri.",
+      "ja": "あなたは忘れっぽいですね。そのことは昨日すでに話しました。"
+    },
+    {
+      "it": "Il direttore ha tagliato corto e ha chiuso la discussione.",
+      "ja": "責任者は話を打ち切り、議論を終わらせました。"
+    },
+    {
+      "it": "Per farla corta, abbiamo perso il treno e siamo tornati a casa.",
+      "ja": "手短に言えば、私たちは列車に乗り遅れて家へ戻りました。"
+    },
+    {
+      "it": "I due colleghi sono ai ferri corti da alcune settimane.",
+      "ja": "その二人の同僚は数週間前から激しく対立しています。"
+    },
+    {
+      "it": "Il festival presenta dieci corti realizzati da giovani registi.",
+      "ja": "その映画祭では若い監督が制作した短編映画10本が上映されます。"
+    },
+    {
+      "it": "Un cavo danneggiato ha mandato in corto l’impianto.",
+      "ja": "損傷したケーブルが設備をショートさせました。"
+    },
+    {
+      "it": "Le bugie hanno le gambe corte e prima o poi vengono scoperte.",
+      "ja": "うそは長続きせず、遅かれ早かれ見破られます。"
+    }
+  ]
 }  
 ]
