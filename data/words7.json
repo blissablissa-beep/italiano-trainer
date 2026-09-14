@@ -8134,5 +8134,1874 @@
       "ja": "この経路はもう一方よりはるかに長いです。"
     }
   ]
+},
+{
+  "id": "stanco",
+  "sid": "2026-00359",
+  "word": "stanco",
+  "ipa": "/ˈstaŋko/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adjective",
+    "label": {
+      "ja": "形容詞",
+      "it": "aggettivo"
+    },
+    "adjectiveForms": [
+      "stanco",
+      "stanca",
+      "stanchi",
+      "stanche"
+    ],
+    "comparative": "più stanco",
+    "superlative": "il più stanco / stanchissimo",
+    "pattern": "essere o sentirsi stanco / essere stanco per, dopo o a causa di + nome / essere stanco di + nome o infinito / parte del corpo + stanca / nome + stanco"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "figurative",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "health",
+      "work",
+      "study",
+      "travel",
+      "sport",
+      "relationships",
+      "emotions",
+      "agriculture"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "運動・仕事・旅行などによって体力が低下し、休息を必要としている、疲れた",
+      "勉強・思考・緊張などによって精神的な力や集中力が低下した",
+      "睡眠不足・病気・ストレスなどによって元気がない",
+      "腕・脚・目・背中など身体の一部に疲労を感じている",
+      "顔・声・目つき・動作などが疲労を表している",
+      "ある行為を続けるための力・意欲を失った",
+      "ある行為を繰り返すことに飽き、もう続けたくない",
+      "人・態度・状況などに我慢できなくなり、うんざりしている",
+      "芸術家・作品・発想などが創造力や新鮮さを失った",
+      "物・型・材料などが使い込まれて本来の機能を失った",
+      "土地が繰り返し耕作されて地力を失った",
+      "市場・交渉などに活気がなく、動きが鈍い"
+    ],
+    "it": [
+      "Affaticato fisicamente e bisognoso di riposo dopo uno sforzo, un lavoro o un viaggio.",
+      "Affaticato mentalmente e incapace di mantenere pienamente la concentrazione.",
+      "Privo di energia a causa della mancanza di sonno, di una malattia o dello stress.",
+      "Di una parte del corpo, affaticata o appesantita.",
+      "Di un viso, una voce, uno sguardo o un gesto, che manifesta stanchezza.",
+      "Privo della forza o della volontà necessaria per continuare un’attività.",
+      "Annoiato o infastidito dal dover ripetere o proseguire un’azione.",
+      "Giunto al limite della sopportazione nei confronti di una persona, un comportamento o una situazione.",
+      "Di un artista, un’opera o un’idea, privo di creatività e freschezza.",
+      "Di un oggetto, uno stampo o un materiale, logorato dall’uso e meno funzionale.",
+      "Di un terreno, impoverito da uno sfruttamento agricolo eccessivo o ripetuto.",
+      "Di un mercato o di una trattativa, debole e caratterizzato da scarsa attività."
+    ]
+  },
+
+  "nuance": {
+    "ja": "stancoは一時的な状態を表し、主語に合わせてSono stanco、Sono stanca、Siamo stanchi、Siamo stancheのように性数一致する。essere stancoは疲れている状態、sentirsi stancoは本人が疲れを感じていることを強調する。stancarsiは「疲れる・うんざりする」という状態変化、stancareは「人を疲れさせる」、stancanteは「疲れさせるような」を表す。Sono stanco dopo il lavoroは仕事後の身体的疲労だが、Sono stanco di questo lavoroは「この仕事にうんざりしている」という意味になりやすい。stanco di + 不定詞は、その行為をもう続けたくないことを表す。stufoはstanco diより会話的で、いら立ちや嫌悪が強い。affaticatoは主に身体的・精神的疲労を表すやや改まった語、esaustoは力を使い果たした非常に強い疲労、assonnatoは眠気に重点がある。stanco mortoは「疲れ切った」という口語的な強調表現である。",
+    "it": "Stanco descrive uno stato e concorda con il soggetto: Sono stanco, Sono stanca, Siamo stanchi, Siamo stanche. Essere stanco indica la condizione generale, mentre sentirsi stanco mette in rilievo la percezione personale della fatica. Stancarsi significa diventare stanco oppure non voler più sopportare qualcosa; stancare significa causare stanchezza; stancante qualifica ciò che affatica. Sono stanco dopo il lavoro esprime fatica fisica, mentre Sono stanco di questo lavoro suggerisce insofferenza e mancanza di volontà di continuare. Stanco di seguito da un infinito indica che non si vuole più ripetere o proseguire l’azione. Stufo è più colloquiale e spesso più irritato; affaticato ha un tono leggermente più formale; esausto indica una stanchezza estrema; assonnato riguarda soprattutto il bisogno di dormire. Stanco morto è un’intensificazione colloquiale."
+  },
+
+  "etymology": {
+    "ja": "stancoはロマンス諸語の複数の地域に対応する形が見られる語だが、そのさらに古い語源は確定していない。イタリア語では中世から確認され、身体的な力が尽きた状態から、意欲・忍耐・創造力・物の機能などが失われた状態へ意味が広がった。同じ語族にはstancare「疲れさせる」、stancarsi「疲れる・うんざりする」、stanchezza「疲労」、stancante「疲れさせる」、stancamente「疲れた様子で」がある。",
+    "it": "È una parola diffusa in diverse aree romanze, ma la sua origine più remota non è stata stabilita con certezza. In italiano è documentata fin dal Medioevo. Dal significato relativo alla perdita delle forze fisiche si sono sviluppati gli usi riguardanti l’esaurimento mentale, la perdita della volontà o della pazienza e, figuratamente, l’usura di oggetti, terreni e attività economiche. Alla stessa famiglia appartengono stancare, stancarsi, stanchezza, stancante e stancamente."
+  },
+
+  "minimal": [
+    {
+      "word": "stanco",
+      "ja": "身体的・精神的な力が低下し、休息を必要としている",
+      "it": "privo di parte delle proprie energie fisiche o mentali e bisognoso di riposo"
+    },
+    {
+      "word": "affaticato",
+      "ja": "運動・仕事・集中などによる疲労があることをやや客観的に表す",
+      "it": "indica in modo relativamente oggettivo una fatica causata da uno sforzo"
+    },
+    {
+      "word": "esausto",
+      "ja": "体力・精神力をほぼ完全に使い果たした、疲労の非常に強い状態",
+      "it": "indica una condizione estrema nella quale le energie sono quasi completamente esaurite"
+    },
+    {
+      "word": "stufo",
+      "ja": "人・物・繰り返される状況に飽き、いら立っている",
+      "it": "esprime insofferenza o irritazione verso una persona, una cosa o una situazione ripetuta"
+    },
+    {
+      "word": "assonnato",
+      "ja": "睡眠不足などによって眠気を感じている",
+      "it": "indica soprattutto la sensazione di sonno e il bisogno di dormire"
+    }
+  ],
+
+  "synonyms": [
+    "affaticato",
+    "spossato",
+    "sfinito",
+    "esausto",
+    "stremato",
+    "fiacco",
+    "logorato",
+    "stufo",
+    "infastidito"
+  ],
+
+  "equivalents": {
+    "en": [
+      "tired",
+      "fatigued",
+      "weary",
+      "exhausted",
+      "fed up",
+      "worn out"
+    ],
+    "de": [
+      "müde",
+      "ermüdet",
+      "erschöpft",
+      "überdrüssig",
+      "ausgelaugt",
+      "abgenutzt"
+    ],
+    "fr": [
+      "fatigué",
+      "épuisé",
+      "las",
+      "excédé",
+      "usé"
+    ],
+    "es": [
+      "cansado",
+      "fatigado",
+      "agotado",
+      "harto",
+      "desgastado"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "essere molto stanco",
+      "ja": "とても疲れている"
+    },
+    {
+      "it": "sentirsi stanco",
+      "ja": "疲れを感じる"
+    },
+    {
+      "it": "tornare stanco dal lavoro",
+      "ja": "仕事から疲れて帰る"
+    },
+    {
+      "it": "avere gli occhi stanchi",
+      "ja": "目が疲れている"
+    },
+    {
+      "it": "avere le gambe stanche",
+      "ja": "脚が疲れている"
+    },
+    {
+      "it": "essere stanco di aspettare",
+      "ja": "待つことにうんざりしている"
+    },
+    {
+      "it": "essere stanco di qualcuno",
+      "ja": "誰かにうんざりしている"
+    },
+    {
+      "it": "essere stanco morto",
+      "ja": "疲れ切っている"
+    },
+    {
+      "it": "parlare con voce stanca",
+      "ja": "疲れた声で話す"
+    },
+    {
+      "it": "un terreno stanco",
+      "ja": "地力が衰えた土地"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Dopo una giornata così lunga sono molto stanco.",
+      "ja": "これほど長い一日の後なので、私はとても疲れています。"
+    },
+    {
+      "it": "Mia moglie era stanca e ha deciso di andare a dormire presto.",
+      "ja": "妻は疲れていたので、早く寝ることにしました。"
+    },
+    {
+      "it": "Oggi mi sento più stanco del solito.",
+      "ja": "今日はいつもより疲れているように感じます。"
+    },
+    {
+      "it": "Sono mentalmente stanco dopo aver studiato per cinque ore.",
+      "ja": "5時間勉強したので、精神的に疲れています。"
+    },
+    {
+      "it": "Dopo la lunga camminata avevamo tutti le gambe stanche.",
+      "ja": "長く歩いた後、私たちは全員脚が疲れていました。"
+    },
+    {
+      "it": "Ho gli occhi stanchi perché ho lavorato a lungo al computer.",
+      "ja": "長時間コンピューターで作業したので、目が疲れています。"
+    },
+    {
+      "it": "Ha risposto con una voce stanca e senza entusiasmo.",
+      "ja": "彼女は疲れた声で、熱意なく答えました。"
+    },
+    {
+      "it": "Sono stanco di aspettare una risposta che non arriva mai.",
+      "ja": "いつまでたっても来ない返事を待つことにうんざりしています。"
+    },
+    {
+      "it": "Siamo stanchi di ripetere sempre le stesse cose.",
+      "ja": "私たちはいつも同じことを繰り返すのにうんざりしています。"
+    },
+    {
+      "it": "Se sei stanco di questo lavoro, possiamo cercare un’altra soluzione.",
+      "ja": "この仕事にうんざりしているなら、別の解決策を探すことができます。"
+    },
+    {
+      "it": "Il lungo viaggio in treno mi ha stancato molto.",
+      "ja": "長い列車の旅で私はとても疲れました。"
+    },
+    {
+      "it": "Camminando in montagna mi sono stancato rapidamente.",
+      "ja": "山を歩いているうちに、私はすぐ疲れてしまいました。"
+    },
+    {
+      "it": "Quando sono arrivato in albergo ero stanco morto.",
+      "ja": "ホテルに到着したとき、私は疲れ切っていました。"
+    },
+    {
+      "it": "Le sue ultime opere mostrano una creatività ormai stanca.",
+      "ja": "彼の最近の作品には、すでに衰えた創造力が表れています。"
+    },
+    {
+      "it": "La coltivazione continua della stessa pianta ha reso il terreno stanco.",
+      "ja": "同じ植物を繰り返し栽培したため、土地の地力が衰えました。"
+    },
+    {
+      "it": "Il mercato è apparso stanco, con pochi scambi.",
+      "ja": "市場は取引が少なく、活気を欠いているように見えました。"
+    },
+    {
+      "it": "Dice sempre di essere stanco, tanto che gli amici lo chiamano nato stanco.",
+      "ja": "彼はいつも疲れたと言うので、友人たちは彼を生まれつきの怠け者と呼んでいます。"
+    }
+  ]
+},
+{
+  "id": "testa",
+  "sid": "2026-00360",
+  "word": "testa",
+  "ipa": "/ˈtɛsta/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "teste",
+    "pattern": "la testa / le teste / testa di + persona, animale o oggetto / avere qualcosa in testa / essere o mettersi in testa / alla testa di + gruppo / a testa"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "technical",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "body",
+      "health",
+      "thought",
+      "emotions",
+      "work",
+      "sport",
+      "leadership",
+      "measurement"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人や動物の、脳・目・耳・鼻・口などがある身体上部、頭",
+      "髪の生えている頭部または頭頂部",
+      "思考・記憶・判断・注意が行われる場所としての頭、頭脳",
+      "知性・判断力・理解力・思慮",
+      "一人の人間、特に人数を数える際の一人",
+      "列・集団・行列・競争などの先頭または最前部",
+      "組織・活動などを率いる立場、指導的位置",
+      "釘・ピン・ハンマーなど、細長い物の太い端または上端",
+      "サッカーなどで、頭を使ってボールを扱うこと",
+      "硬貨の、人物の頭部などが描かれた側",
+      "考え・心配・望みなどが意識の中に存在する状態",
+      "慣用表現で、理性・自制心・誇り・服従・執着などを表す"
+    ],
+    "it": [
+      "Parte superiore del corpo umano, contenente il cervello e i principali organi di senso.",
+      "Parte del capo normalmente coperta dai capelli.",
+      "Sede simbolica del pensiero, della memoria, dell’attenzione e delle decisioni.",
+      "Capacità intellettuale, razionalità, giudizio o intelligenza.",
+      "Persona o individuo, specialmente in espressioni distributive.",
+      "Parte iniziale o anteriore di una fila, di un gruppo, di una processione o di una competizione.",
+      "Posizione di guida o di comando all’interno di un’organizzazione o di un’attività.",
+      "Estremità più larga, superiore o anteriore di un oggetto allungato.",
+      "Nello sport, uso della testa per colpire o dirigere la palla.",
+      "Faccia di una moneta sulla quale è generalmente rappresentata una testa.",
+      "Spazio figurato nel quale sono presenti un’idea, un pensiero, una preoccupazione o un progetto.",
+      "In numerose espressioni idiomatiche, simbolo di ragione, autocontrollo, orgoglio, obbedienza o ostinazione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "testaは日常的で中立的な「頭」を表す。capoも身体部位として「頭」を意味し、alzare la testaまたはalzare il capoのように置き換えられる場合があるが、capoには「指導者・上司」という独立した意味もある。menteは思考・意識という抽象的な精神活動、cervelloは身体器官としての脳、または知能を強調する。visoは目・鼻・口を含む外から見える「顔」であり、testa全体とは異なる。頭痛はavere mal di testaまたはMi fa male la testa、めまいはMi gira la testaと言う。a testaは「一人当たり」、in testaは「頭の中に」または「先頭に」、alla testa diは「～の先頭に立って・～を率いて」を表す。",
+    "it": "Testa è il termine quotidiano e non marcato per la parte superiore del corpo. Capo può essere sinonimo anatomico in espressioni come alzare la testa o alzare il capo, ma possiede anche il significato autonomo di persona che comanda. Mente indica soprattutto l’attività psichica e intellettuale; cervello designa l’organo fisico o, figuratamente, l’intelligenza; viso indica la parte anteriore e visibile della testa. Per il dolore si dice avere mal di testa o Mi fa male la testa; Mi gira la testa indica invece una sensazione di vertigine. A testa significa «per ciascuna persona»; in testa può significare sia nella mente sia in prima posizione; alla testa di indica una posizione di guida."
+  },
+
+  "etymology": {
+    "ja": "後期ラテン語testa「頭蓋・頭」に由来する。古典ラテン語のtestaはもともと「土器・壺・殻・硬い覆い」を意味し、脳を収める硬い容器としての頭蓋を土器や殻になぞらえる比喩から「頭」の意味が生じた。イタリア語では、ラテン語caputに由来するcapoと並行して使われてきた。同じ語族にはtestata「頭突き・先端部」、testone「大きな頭・頑固者」、testolina「小さな頭」などがある。",
+    "it": "Deriva dal latino tardo testa, «cranio, testa». Nel latino classico testa indicava originariamente un vaso di terracotta, un coccio, un guscio o un involucro duro. Attraverso la metafora del cranio come recipiente rigido che contiene il cervello, la parola passò a indicare la testa. In italiano si è sviluppata parallelamente a capo, derivato dal latino caput. Alla stessa famiglia appartengono testata, testone e testolina."
+  },
+
+  "minimal": [
+    {
+      "word": "testa",
+      "ja": "身体の頭部、および比喩的に思考・判断・先頭などを表す最も一般的な語",
+      "it": "parte superiore del corpo e, figuratamente, sede del pensiero o posizione iniziale"
+    },
+    {
+      "word": "capo",
+      "ja": "頭を表すこともあるが、集団を率いる指導者・責任者という意味も持つ",
+      "it": "può indicare la testa, ma anche la persona che dirige un gruppo o un’attività"
+    },
+    {
+      "word": "mente",
+      "ja": "思考・記憶・意識・想像などを行う抽象的な精神作用",
+      "it": "insieme delle facoltà psichiche, intellettuali e coscienti"
+    },
+    {
+      "word": "cervello",
+      "ja": "頭蓋内にある脳、または比喩的に知能・知性",
+      "it": "organo contenuto nel cranio oppure, figuratamente, intelligenza"
+    },
+    {
+      "word": "viso",
+      "ja": "目・鼻・口などがある頭部の前面、顔",
+      "it": "parte anteriore della testa nella quale si trovano occhi, naso e bocca"
+    }
+  ],
+
+  "synonyms": [
+    "capo",
+    "mente",
+    "intelletto",
+    "cervello",
+    "estremità",
+    "sommità"
+  ],
+
+  "equivalents": {
+    "en": [
+      "head",
+      "mind",
+      "top",
+      "front",
+      "per person"
+    ],
+    "de": [
+      "Kopf",
+      "Verstand",
+      "Spitze",
+      "pro Person"
+    ],
+    "fr": [
+      "tête",
+      "esprit",
+      "extrémité",
+      "par personne"
+    ],
+    "es": [
+      "cabeza",
+      "mente",
+      "extremo",
+      "por persona"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "avere mal di testa",
+      "ja": "頭痛がする"
+    },
+    {
+      "it": "scuotere la testa",
+      "ja": "首を横に振る・頭を振る"
+    },
+    {
+      "it": "usare la testa",
+      "ja": "頭を使う・よく考える"
+    },
+    {
+      "it": "avere la testa sulle spalle",
+      "ja": "分別がある・しっかりしている"
+    },
+    {
+      "it": "perdere la testa",
+      "ja": "冷静さを失う・夢中になる"
+    },
+    {
+      "it": "passare per la testa",
+      "ja": "頭に浮かぶ"
+    },
+    {
+      "it": "essere in testa",
+      "ja": "先頭にいる・首位である"
+    },
+    {
+      "it": "tenere testa a qualcuno",
+      "ja": "人に屈せず対抗する"
+    },
+    {
+      "it": "a testa",
+      "ja": "一人当たり"
+    },
+    {
+      "it": "testa o croce",
+      "ja": "硬貨の表か裏か・コイントス"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Stamattina ho un forte mal di testa.",
+      "ja": "今朝はひどい頭痛がします。"
+    },
+    {
+      "it": "Ha battuto la testa contro la porta.",
+      "ja": "彼はドアに頭をぶつけました。"
+    },
+    {
+      "it": "La bambina ha appoggiato la testa sulla spalla della madre.",
+      "ja": "女の子は母親の肩に頭をもたせかけました。"
+    },
+    {
+      "it": "Devi usare la testa prima di prendere una decisione.",
+      "ja": "決断する前によく考えなければなりません。"
+    },
+    {
+      "it": "È giovane, ma ha la testa sulle spalle.",
+      "ja": "彼女は若いですが、しっかりしています。"
+    },
+    {
+      "it": "Mi è passata per la testa un’idea interessante.",
+      "ja": "面白い考えが頭に浮かびました。"
+    },
+    {
+      "it": "Non riesco a togliermi questa preoccupazione dalla testa.",
+      "ja": "この心配を頭から追い払うことができません。"
+    },
+    {
+      "it": "La nostra squadra è in testa alla classifica.",
+      "ja": "私たちのチームは順位表の首位にいます。"
+    },
+    {
+      "it": "Il direttore camminava alla testa del gruppo.",
+      "ja": "責任者は一行の先頭を歩いていました。"
+    },
+    {
+      "it": "La cena è costata trenta euro a testa.",
+      "ja": "夕食は一人当たり30ユーロかかりました。"
+    },
+    {
+      "it": "La testa del chiodo è rimasta fuori dal legno.",
+      "ja": "釘の頭が木材から出たままになっています。"
+    },
+    {
+      "it": "L’attaccante ha segnato un gol di testa.",
+      "ja": "フォワードはヘディングでゴールを決めました。"
+    },
+    {
+      "it": "Decidiamo con testa o croce.",
+      "ja": "コイントスで決めましょう。"
+    },
+    {
+      "it": "La giovane candidata ha saputo tenere testa agli avversari più esperti.",
+      "ja": "その若い候補者は、より経験豊富な相手にも屈せず渡り合いました。"
+    },
+    {
+      "it": "Quando ha sentito la notizia, ha perso completamente la testa.",
+      "ja": "その知らせを聞いたとき、彼は完全に冷静さを失いました。"
+    }
+  ]
+},
+{
+  "id": "vestito",
+  "sid": "2026-00361",
+  "word": "vestito",
+  "ipa": "/veˈstito/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞／vestireの過去分詞・形容詞",
+      "it": "sostantivo maschile / participio passato e aggettivo di vestire"
+    },
+    "gender": "masculine",
+    "plural": "vestiti",
+    "adjectiveForms": [
+      "vestito",
+      "vestita",
+      "vestiti",
+      "vestite"
+    ],
+    "pattern": "un vestito / i vestiti / vestito di + materiale o colore / vestito da + occasione, ruolo o persona / essere vestito con o di + indumento / vestirsi o essere vestito bene o male"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "clothing",
+      "shopping",
+      "fashion",
+      "ceremonies",
+      "travel",
+      "daily_life"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "下着の上に着て身体を覆う衣服、または一組の衣服",
+      "女性が着る、上半身とスカート部分が一続きになったワンピースやドレス",
+      "男性用のジャケットとズボンから成る一揃いの服、スーツ",
+      "複数形vestitiで、日常的に身に着ける服・衣類全般",
+      "特定の用途・季節・行事のために着る服",
+      "vestireの過去分詞として、人に服を着せた",
+      "形容詞的に、人が服を着ている・身支度を済ませている",
+      "特定の色・種類・様式の服装をしている",
+      "vestito daの形で、特定の職業・人物・役などの格好をしている",
+      "比喩的・文学的に、表面が植物・雪・色彩などで覆われている"
+    ],
+    "it": [
+      "Indumento o insieme coordinato di indumenti portati sopra la biancheria.",
+      "Abito femminile formato generalmente da un unico capo che copre il busto e parte delle gambe.",
+      "Completo maschile composto principalmente da giacca e pantaloni.",
+      "Al plurale, insieme degli indumenti posseduti o indossati da una persona.",
+      "Abito destinato a una determinata occasione, stagione o attività.",
+      "Come participio passato di vestire, indica che qualcuno è stato provvisto di abiti.",
+      "Come aggettivo, indica una persona che indossa i propri abiti o ha completato la vestizione.",
+      "Indica il modo, il colore o il tipo di abbigliamento portato da una persona.",
+      "Nella costruzione vestito da, indica l’aspetto o il costume di un personaggio, di una professione o di un ruolo.",
+      "In senso figurato o letterario, coperto esteriormente da vegetazione, neve, colori o altri elementi."
+    ]
+  },
+
+  "nuance": {
+    "ja": "複数形のvestitiは、日常語で「服・衣類」全般を表す非常に一般的な語で、Metto i vestiti in valigiaは「服を旅行鞄に入れる」となる。単数形のun vestitoは、単なるシャツやズボン一枚よりも、身体の大部分を覆う服またはまとまった一揃いの服を指しやすい。女性については「ワンピース・ドレス」、男性については文脈により「スーツ」を意味する。abitoはvestitoと近いが、やや改まった表現に適し、abito da sera、abito da cerimoniaのような組み合わせが特に一般的である。indumentoは個々の衣服を分類する中立的・説明的な語、abbigliamentoは服装または衣料品全体を表す集合的な語である。Sono vestitoは「服を着ている・身支度ができている」、Sono ben vestitoは「きちんとした服装をしている」という意味になる。",
+    "it": "Al plurale, vestiti è una delle parole più comuni per indicare genericamente gli abiti e gli altri indumenti di una persona: mettere i vestiti in valigia. Al singolare, un vestito indica più facilmente un indumento che copre una parte estesa del corpo o un insieme completo. Riferito a una donna può indicare un abito intero; riferito a un uomo può indicare un completo di giacca e pantaloni. Abito è molto vicino, ma può avere un tono più formale ed è particolarmente comune in espressioni come abito da sera o abito da cerimonia. Indumento indica un singolo capo in modo neutro o tecnico; abbigliamento indica il complesso degli indumenti o il modo di vestire. Sono vestito significa che indosso già i vestiti; sono ben vestito valuta invece la qualità o l’eleganza dell’abbigliamento."
+  },
+
+  "etymology": {
+    "ja": "動詞vestire「服を着せる・服を着る」の過去分詞vestitoが名詞化した語である。vestireはラテン語vestīreに由来し、さらに「衣服」を意味するラテン語vestisから形成された。名詞vestitoにはラテン語vestītus「服装・衣服」に対応する歴史的背景もある。同じ語族にはveste「衣・装い」、vestiario「衣類」、svestire「服を脱がせる」、rivestire「覆う・着せる」、travestire「変装させる」などがある。",
+    "it": "È il participio passato sostantivato del verbo vestire, continuazione del latino vestīre, «coprire con una veste», derivato da vestis, «veste, abito». Il sostantivo è inoltre storicamente collegato al latino vestītus, «abbigliamento, modo di vestire». Appartengono alla stessa famiglia veste, vestiario, svestire, rivestire e travestire."
+  },
+
+  "minimal": [
+    {
+      "word": "vestito",
+      "ja": "全身の大部分を覆う服、一揃いの服、または複数形で衣服全般",
+      "it": "indumento completo, insieme coordinato di abiti oppure, al plurale, abiti in generale"
+    },
+    {
+      "word": "abito",
+      "ja": "vestitoと近いが、礼装・式典用の服などにも適するやや改まった語",
+      "it": "termine vicino a vestito, spesso preferito per capi eleganti, formali o da cerimonia"
+    },
+    {
+      "word": "indumento",
+      "ja": "シャツ・ズボン・コートなど、身体に着ける個々の衣類",
+      "it": "singolo oggetto portato sul corpo per coprirlo, proteggerlo o adornarlo"
+    },
+    {
+      "word": "abbigliamento",
+      "ja": "衣料品全体、または人の服装・着こなし",
+      "it": "insieme degli indumenti oppure modo complessivo di vestire"
+    },
+    {
+      "word": "completo",
+      "ja": "互いに組み合わせて着るジャケットとズボンまたはスカートの一揃い",
+      "it": "insieme coordinato formato generalmente da giacca e pantaloni o gonna"
+    }
+  ],
+
+  "synonyms": [
+    "abito",
+    "indumento",
+    "capo d’abbigliamento",
+    "completo",
+    "veste",
+    "abbigliamento"
+  ],
+
+  "equivalents": {
+    "en": [
+      "clothes",
+      "garment",
+      "dress",
+      "suit",
+      "dressed"
+    ],
+    "de": [
+      "Kleidung",
+      "Kleidungsstück",
+      "Kleid",
+      "Anzug",
+      "angezogen"
+    ],
+    "fr": [
+      "vêtement",
+      "habits",
+      "robe",
+      "costume",
+      "habillé"
+    ],
+    "es": [
+      "ropa",
+      "prenda",
+      "vestido",
+      "traje",
+      "vestido"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "comprare un vestito",
+      "ja": "服を一着買う"
+    },
+    {
+      "it": "indossare un vestito",
+      "ja": "服・ドレスを着る"
+    },
+    {
+      "it": "mettersi un vestito",
+      "ja": "服・ドレスを着る"
+    },
+    {
+      "it": "un vestito elegante",
+      "ja": "上品な服・礼服"
+    },
+    {
+      "it": "un vestito da sera",
+      "ja": "イブニングドレス・夜会服"
+    },
+    {
+      "it": "un vestito da sposa",
+      "ja": "ウェディングドレス"
+    },
+    {
+      "it": "un vestito su misura",
+      "ja": "オーダーメイドの服"
+    },
+    {
+      "it": "un vestito di cotone",
+      "ja": "綿製の服"
+    },
+    {
+      "it": "essere vestito di nero",
+      "ja": "黒い服を着ている"
+    },
+    {
+      "it": "un negozio di vestiti",
+      "ja": "衣料品店"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Ho comprato un vestito nuovo per la festa.",
+      "ja": "パーティーのために新しい服を一着買いました。"
+    },
+    {
+      "it": "Maria indossava un elegante vestito rosso.",
+      "ja": "マリアは上品な赤いドレスを着ていました。"
+    },
+    {
+      "it": "Questo vestito è troppo stretto in vita.",
+      "ja": "このワンピースは腰回りがきつすぎます。"
+    },
+    {
+      "it": "La sposa ha scelto un vestito semplice ma bellissimo.",
+      "ja": "花嫁は簡素ですが、とても美しいウェディングドレスを選びました。"
+    },
+    {
+      "it": "Per la cerimonia si è fatto fare un vestito su misura.",
+      "ja": "彼は式典のためにスーツをあつらえました。"
+    },
+    {
+      "it": "Quel vestito da uomo comprende giacca, pantaloni e gilè.",
+      "ja": "その男性用スーツにはジャケット、ズボン、ベストが含まれています。"
+    },
+    {
+      "it": "Metti in valigia soltanto i vestiti necessari.",
+      "ja": "必要な服だけを旅行鞄に入れてください。"
+    },
+    {
+      "it": "I vestiti bagnati sono ancora sul balcone.",
+      "ja": "ぬれた衣類はまだベランダにあります。"
+    },
+    {
+      "it": "Il bambino è già lavato e vestito.",
+      "ja": "その子供はもう身体を洗って服も着ています。"
+    },
+    {
+      "it": "Quando sono arrivato, lei era vestita di nero.",
+      "ja": "私が到着したとき、彼女は黒い服を着ていました。"
+    },
+    {
+      "it": "Sei vestito troppo leggero per uscire con questo freddo.",
+      "ja": "この寒さの中を出かけるには薄着すぎます。"
+    },
+    {
+      "it": "Alla festa c’era un uomo vestito da pirata.",
+      "ja": "パーティーには海賊の格好をした男性がいました。"
+    },
+    {
+      "it": "È sempre vestito bene, anche nelle occasioni informali.",
+      "ja": "彼は普段の場面でも、いつもきちんとした服装をしています。"
+    },
+    {
+      "it": "In inverno le montagne sono vestite di neve.",
+      "ja": "冬には山々が雪に覆われます。"
+    }
+  ]
+},
+{
+  "id": "facile",
+  "sid": "2026-00362",
+  "word": "facile",
+  "ipa": "/ˈfatʃile/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adjective",
+    "label": {
+      "ja": "形容詞・名詞的用法・口語的副詞用法",
+      "it": "aggettivo, uso sostantivato e uso avverbiale colloquiale"
+    },
+    "adjectiveForms": [
+      "facile",
+      "facile",
+      "facili",
+      "facili"
+    ],
+    "comparative": "più facile",
+    "superlative": "facilissimo",
+    "pattern": "essere facile da + infinito / è facile + infinito / è facile che + congiuntivo / di facile + nome / facile a + nome o infinito / rendere qualcosa facile"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "formal",
+      "derogatory"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "education",
+      "work",
+      "instructions",
+      "probability",
+      "personality",
+      "evaluation"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "大きな努力・能力・時間を必要とせず行える、簡単な",
+      "理解・学習・説明・使用などが容易な、分かりやすい",
+      "道・場所などが通行・到達しやすい",
+      "成功・利益・勝利などが少ない努力で得られる",
+      "問題・要求・状況などが容易に処理・解決できる",
+      "È facile cheの形で、ある出来事が起こる可能性が高い、～しそうな",
+      "人が特定の感情・反応・行為に傾きやすい",
+      "人が温和・従順で、付き合いや扱いが容易な、比較的まれな用法",
+      "判断・批判・成功などが安易で、表面的または十分な根拠を欠く",
+      "名詞的に、難しくない事柄・容易な部分",
+      "口語の副詞として、容易に、またはおそらく",
+      "伝統的な軽蔑表現で、性的関係に応じやすいと評価された女性"
+    ],
+    "it": [
+      "Che si può fare senza grande sforzo, abilità, tempo o difficoltà.",
+      "Che si può comprendere, imparare, spiegare o utilizzare agevolmente.",
+      "Che può essere percorso o raggiunto senza particolari ostacoli.",
+      "Che può essere ottenuto con poco sforzo, come un successo, un guadagno o una vittoria.",
+      "Che può essere affrontato, risolto o gestito senza particolari problemi.",
+      "Nella costruzione è facile che, probabile o possibile.",
+      "Naturalmente incline a una determinata emozione, reazione o comportamento.",
+      "Riferito a una persona, docile, accomodante o con cui è agevole trattare, in un uso meno comune.",
+      "Eccessivamente semplice, affrettato o superficiale e quindi privo di sufficiente fondamento.",
+      "Come sostantivo, ciò che non presenta difficoltà.",
+      "Come avverbio colloquiale, facilmente oppure probabilmente.",
+      "In un uso tradizionale e spregiativo, riferito a una donna giudicata sessualmente disponibile."
+    ]
+  },
+
+  "nuance": {
+    "ja": "facileは男女の単数形が同形で、un esercizio facile、una domanda facileとなり、複数形はfaciliである。Questo libro è facile da leggereでは、libroはleggereの意味上の目的語で、「この本は読みやすい」となる。È facile leggere questo libroは非人称的に「この本を読むのは簡単だ」を意味する。È facile che piovaは難易度ではなく可能性を表し、通常は接続法を伴う。sempliceは構造・内容が複雑でないこと、facileは実行や理解に苦労しないことに重点があるため、単純な問題でも解くのが容易とは限らない。副詞としてはfacilmenteが中立的であり、vincere facileのようなfacileの副詞用法は主に口語的である。una donna facileは現在では性差別的・軽蔑的に受け取られ得るため、使用には注意が必要である。",
+    "it": "Facile ha la stessa forma al maschile e al femminile singolare: un esercizio facile, una domanda facile; il plurale è facili. In Questo libro è facile da leggere, libro è semanticamente l’oggetto di leggere e la costruzione significa che la lettura del libro non presenta difficoltà. È facile leggere questo libro è invece una costruzione impersonale. È facile che piova esprime probabilità e regge normalmente il congiuntivo. Semplice sottolinea l’assenza di complessità nella struttura o nel contenuto; facile indica soprattutto l’assenza di difficoltà nell’esecuzione o nella comprensione. Facilmente è la forma avverbiale neutra; facile usato come avverbio, come in vincere facile, è prevalentemente colloquiale. L’espressione donna facile ha una connotazione sessista e spregiativa e richiede particolare cautela."
+  },
+
+  "etymology": {
+    "ja": "ラテン語facĭlis「行いやすい・容易な」に由来し、動詞facĕre「する・作る」から形成された。語源的には「することのできる」「容易に行える」という意味である。同じ語族にはfare「する・作る」、facilità「容易さ」、facilitare「容易にする」、facilmente「容易に」、difficile「難しい」などがある。difficileは歴史的に否定・分離を表す要素dis-とfacilisから形成された語である。",
+    "it": "Deriva dal latino facĭlis, «che si può fare agevolmente», formato sulla base del verbo facĕre, «fare». Il significato originario è quindi quello di qualcosa che può essere eseguito senza difficoltà. Appartengono alla stessa famiglia fare, facilità, facilitare e facilmente. Anche difficile deriva storicamente da facilis con l’aggiunta dell’elemento dis-, che esprime separazione o valore negativo."
+  },
+
+  "minimal": [
+    {
+      "word": "facile",
+      "ja": "大きな努力や能力を必要とせず、実行・理解・解決できる",
+      "it": "che può essere fatto, compreso o risolto senza particolare difficoltà"
+    },
+    {
+      "word": "semplice",
+      "ja": "構造・内容・手順が複雑ではなく、要素が少ない",
+      "it": "privo di complessità nella struttura, nel contenuto o nel procedimento"
+    },
+    {
+      "word": "agevole",
+      "ja": "障害が少なく、動作・移動・実行を円滑に行える、やや改まった語",
+      "it": "che può essere percorso o compiuto comodamente e senza ostacoli"
+    },
+    {
+      "word": "elementare",
+      "ja": "基礎的で、ごく初歩の知識だけで理解・解決できる",
+      "it": "molto semplice perché limitato agli elementi fondamentali"
+    },
+    {
+      "word": "difficile",
+      "ja": "多くの努力・能力・時間を必要とし、容易にはできない",
+      "it": "che richiede notevole impegno, capacità o tempo per essere affrontato"
+    }
+  ],
+
+  "synonyms": [
+    "semplice",
+    "agevole",
+    "elementare",
+    "comodo",
+    "accessibile",
+    "probabile"
+  ],
+
+  "equivalents": {
+    "en": [
+      "easy",
+      "simple",
+      "likely",
+      "accessible"
+    ],
+    "de": [
+      "einfach",
+      "leicht",
+      "wahrscheinlich",
+      "zugänglich"
+    ],
+    "fr": [
+      "facile",
+      "simple",
+      "probable",
+      "accessible"
+    ],
+    "es": [
+      "fácil",
+      "sencillo",
+      "probable",
+      "accesible"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "facile da capire",
+      "ja": "理解しやすい"
+    },
+    {
+      "it": "facile da usare",
+      "ja": "使いやすい"
+    },
+    {
+      "it": "è facile che",
+      "ja": "～する可能性が高い・～しそうだ"
+    },
+    {
+      "it": "un compito facile",
+      "ja": "簡単な課題"
+    },
+    {
+      "it": "una scelta facile",
+      "ja": "容易な選択"
+    },
+    {
+      "it": "di facile accesso",
+      "ja": "容易にアクセスできる"
+    },
+    {
+      "it": "rendere qualcosa più facile",
+      "ja": "何かをより簡単にする"
+    },
+    {
+      "it": "avere vita facile",
+      "ja": "苦労せずに暮らす・物事が順調に運ぶ"
+    },
+    {
+      "it": "avere gioco facile",
+      "ja": "容易に目的を達成できる"
+    },
+    {
+      "it": "farla facile",
+      "ja": "物事を実際より簡単そうに言う"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Questo esercizio è molto facile.",
+      "ja": "この練習問題はとても簡単です。"
+    },
+    {
+      "it": "La prima domanda era facile, ma la seconda era difficile.",
+      "ja": "最初の質問は簡単でしたが、二つ目は難しかったです。"
+    },
+    {
+      "it": "Questo manuale è facile da capire anche per i principianti.",
+      "ja": "この手引書は初心者にも理解しやすいです。"
+    },
+    {
+      "it": "L’applicazione è facile da usare.",
+      "ja": "そのアプリケーションは使いやすいです。"
+    },
+    {
+      "it": "Non è facile imparare una lingua straniera.",
+      "ja": "外国語を習得するのは簡単ではありません。"
+    },
+    {
+      "it": "È facile che domani piova.",
+      "ja": "明日は雨が降る可能性が高いです。"
+    },
+    {
+      "it": "È facile che il treno arrivi in ritardo.",
+      "ja": "列車は遅れて到着しそうです。"
+    },
+    {
+      "it": "Il museo è di facile accesso dalla stazione.",
+      "ja": "その博物館は駅から容易に行くことができます。"
+    },
+    {
+      "it": "Questa modifica renderà il lavoro più facile.",
+      "ja": "この変更によって作業がより簡単になります。"
+    },
+    {
+      "it": "La squadra favorita ha ottenuto una facile vittoria.",
+      "ja": "優勝候補のチームは難なく勝利しました。"
+    },
+    {
+      "it": "Senza una preparazione adeguata, gli avversari avranno gioco facile.",
+      "ja": "十分な準備をしなければ、相手は容易に優位に立つでしょう。"
+    },
+    {
+      "it": "È facile all’ira e perde spesso la pazienza.",
+      "ja": "彼は怒りやすく、しばしば我慢できなくなります。"
+    },
+    {
+      "it": "La tua è una critica troppo facile e superficiale.",
+      "ja": "あなたの批判はあまりに安易で表面的です。"
+    },
+    {
+      "it": "A parole sembra facile, ma in pratica è complicato.",
+      "ja": "言葉で説明すると簡単そうですが、実際には複雑です。"
+    },
+    {
+      "it": "Non farla facile: il problema richiede ancora molto lavoro.",
+      "ja": "簡単そうに言わないでください。その問題にはまだ多くの作業が必要です。"
+    },
+    {
+      "it": "La parte facile è finita; adesso viene il difficile.",
+      "ja": "簡単な部分は終わり、これから難しい部分に入ります。"
+    }
+  ]
+},
+{
+  "id": "piede",
+  "sid": "2026-00363",
+  "word": "piede",
+  "ipa": "/ˈpjɛde/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "piedi",
+    "pattern": "il piede / i piedi / a piedi / in piedi / ai piedi di + luogo o persona / piede di + oggetto / mettere piede in + luogo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "figurative",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "body",
+      "health",
+      "movement",
+      "travel",
+      "sport",
+      "measurement",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人間の下肢の末端にあり、立つことや歩くことを支える足首より先の部分、足",
+      "脊椎動物の後肢または脚の、地面に接する末端部分",
+      "軟体動物などが移動に使う筋肉質の器官",
+      "物を下から支える脚・台・支持部分",
+      "山・壁・建物・階段などの最下部またはふもと",
+      "植物・キノコ・器官などの基部",
+      "a piediの形で、乗り物を使わず徒歩で",
+      "in piediの形で、座ったり横になったりせず立った状態で",
+      "英米圏などで使われる長さの単位フィート、30.48センチメートル",
+      "古典詩の韻律において、強弱または長短を一定の形で組み合わせた最小単位、韻脚",
+      "比喩的に、人や物事の基盤・立場・進み方・現実感覚",
+      "慣用表現で、開始・普及・訪問・障害・屈服・即時性などを表す"
+    ],
+    "it": [
+      "Estremità dell’arto inferiore umano, situata sotto la caviglia e utilizzata per sostenere il corpo e camminare.",
+      "Segmento terminale dell’arto posteriore di un animale che poggia sul terreno.",
+      "Organo muscolare utilizzato per la locomozione da molluschi e altri animali.",
+      "Parte inferiore che sostiene un mobile, un apparecchio o un’altra struttura.",
+      "Parte più bassa di una montagna, di un muro, di un edificio o di una scala.",
+      "Parte basale di una pianta, di un fungo, di un organo o di un’altra formazione.",
+      "Nella locuzione a piedi, camminando e senza utilizzare un mezzo di trasporto.",
+      "Nella locuzione in piedi, in posizione eretta anziché seduta o distesa.",
+      "Unità di misura anglosassone equivalente a 30,48 centimetri.",
+      "Nella metrica classica, unità ritmica formata da una determinata successione di sillabe.",
+      "In senso figurato, base, posizione, orientamento o modo di procedere di una persona o di un’attività.",
+      "In numerose espressioni idiomatiche, elemento associato all’inizio, alla diffusione, alla presenza, agli ostacoli o all’immediatezza."
+    ]
+  },
+
+  "nuance": {
+    "ja": "身体部位としてのpiedeは足首より先の「足」を指し、gambaは股関節または膝から足首までを含む「脚」を指す。動物については日常語では通常zampaを使い、piedeは解剖学的な説明などに現れる。移動手段を表すa piediは「徒歩で」、姿勢を表すin piediは「立って」であり、前置詞の違いによって意味が変わる。ai piedi diは山や建物などの「ふもとに・下部に」、また人の「足元に」を表す。英語圏の単位としての一piedeは12インチ、正確に30.48センチメートルで、複数の場合もイタリア語ではpiediとなる。",
+    "it": "Come parte del corpo, piede indica la porzione situata sotto la caviglia, mentre gamba indica una parte più estesa dell’arto inferiore. Per gli animali, nella lingua quotidiana si usa generalmente zampa; piede compare soprattutto in descrizioni anatomiche o zoologiche. A piedi indica il modo di spostarsi senza un veicolo; in piedi indica invece la posizione eretta. Ai piedi di può riferirsi alla base di una montagna o di un edificio oppure allo spazio vicino ai piedi di una persona. Come unità anglosassone, un piede corrisponde a dodici pollici e precisamente a 30,48 centimetri."
+  },
+
+  "etymology": {
+    "ja": "ラテン語pēs、属格pĕdis「足」に由来し、さらにインド・ヨーロッパ祖語の「足」を表す古い語根にさかのぼる。英語foot、ドイツ語Fuß、古代ギリシア語poús、属格podós、サンスクリット語pádとは遠い同系語である。同じラテン語族にはpedale「ペダル」、pedone「歩行者」、pedestre「徒歩の」、piedistallo「台座」、quadrupede「四足動物」などがある。",
+    "it": "Deriva dal latino pēs, genitivo pĕdis, «piede», risalente a un’antichissima radice indoeuropea. Sono lontanamente affini l’inglese foot, il tedesco Fuß, il greco antico poús, genitivo podós, e il sanscrito pád. Alla famiglia latina e italiana appartengono pedale, pedone, pedestre, piedistallo, bipede e quadrupede."
+  },
+
+  "minimal": [
+    {
+      "word": "piede",
+      "ja": "足首より先にあり、立つことや歩くことに使う足",
+      "it": "parte terminale dell’arto inferiore situata sotto la caviglia"
+    },
+    {
+      "word": "gamba",
+      "ja": "股関節または膝から足首までを中心とする脚",
+      "it": "parte dell’arto inferiore compresa, secondo il contesto, tra l’anca e il piede"
+    },
+    {
+      "word": "zampa",
+      "ja": "哺乳類・鳥・昆虫などの身体を支え、移動に使われる脚・足",
+      "it": "arto di un animale utilizzato per sostenere il corpo e muoversi"
+    },
+    {
+      "word": "pianta",
+      "ja": "地面に接する足の裏側、足底",
+      "it": "superficie inferiore del piede che poggia sul terreno"
+    },
+    {
+      "word": "caviglia",
+      "ja": "脚と足をつなぐ関節部分、足首",
+      "it": "articolazione che collega la gamba al piede"
+    }
+  ],
+
+  "synonyms": [
+    "estremità",
+    "base",
+    "sostegno",
+    "supporto",
+    "fondamento",
+    "zampa"
+  ],
+
+  "equivalents": {
+    "en": [
+      "foot",
+      "base",
+      "support",
+      "metrical foot"
+    ],
+    "de": [
+      "Fuß",
+      "Fußende",
+      "Sockel",
+      "Versfuß"
+    ],
+    "fr": [
+      "pied",
+      "base",
+      "support",
+      "pied métrique"
+    ],
+    "es": [
+      "pie",
+      "base",
+      "soporte",
+      "pie métrico"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "il piede destro o sinistro",
+      "ja": "右足または左足"
+    },
+    {
+      "it": "avere male ai piedi",
+      "ja": "足が痛い"
+    },
+    {
+      "it": "andare a piedi",
+      "ja": "徒歩で行く"
+    },
+    {
+      "it": "stare in piedi",
+      "ja": "立っている"
+    },
+    {
+      "it": "alzarsi in piedi",
+      "ja": "立ち上がる"
+    },
+    {
+      "it": "ai piedi di",
+      "ja": "～の足元に・ふもとに"
+    },
+    {
+      "it": "mettere piede in un luogo",
+      "ja": "ある場所に足を踏み入れる"
+    },
+    {
+      "it": "prendere piede",
+      "ja": "定着する・広く普及する"
+    },
+    {
+      "it": "partire con il piede giusto",
+      "ja": "幸先よく始める"
+    },
+    {
+      "it": "avere i piedi per terra",
+      "ja": "現実的である・地に足がついている"
+    },
+    {
+      "it": "camminare in punta di piedi",
+      "ja": "つま先立ちで静かに歩く"
+    },
+    {
+      "it": "da capo a piedi",
+      "ja": "頭から足の先まで・全身くまなく"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Mi fa male il piede destro.",
+      "ja": "右足が痛みます。"
+    },
+    {
+      "it": "Dopo aver camminato tutto il giorno, avevo male ai piedi.",
+      "ja": "一日中歩いた後、足が痛くなりました。"
+    },
+    {
+      "it": "La sabbia era così calda che non potevamo camminare a piedi nudi.",
+      "ja": "砂が非常に熱く、裸足では歩けませんでした。"
+    },
+    {
+      "it": "Vado al lavoro a piedi quando fa bel tempo.",
+      "ja": "天気がよいときは歩いて仕事へ行きます。"
+    },
+    {
+      "it": "Sul pullman non c’erano posti liberi e sono rimasto in piedi.",
+      "ja": "バスには空席がなく、私は立ったままでした。"
+    },
+    {
+      "it": "Quando il giudice è entrato, tutti si sono alzati in piedi.",
+      "ja": "裁判官が入廷すると、全員が立ち上がりました。"
+    },
+    {
+      "it": "Il paese si trova ai piedi della montagna.",
+      "ja": "その村は山のふもとにあります。"
+    },
+    {
+      "it": "Il gatto dormiva ai piedi del letto.",
+      "ja": "猫はベッドの足元で眠っていました。"
+    },
+    {
+      "it": "Uno dei piedi del tavolo è più corto degli altri.",
+      "ja": "テーブルの脚の一本が、ほかの脚より短くなっています。"
+    },
+    {
+      "it": "Non metterò mai più piede in quel ristorante.",
+      "ja": "あのレストランには二度と足を踏み入れません。"
+    },
+    {
+      "it": "Il pagamento elettronico ha preso rapidamente piede.",
+      "ja": "電子決済は急速に普及しました。"
+    },
+    {
+      "it": "Il progetto è partito con il piede giusto.",
+      "ja": "そのプロジェクトは幸先のよいスタートを切りました。"
+    },
+    {
+      "it": "È una persona concreta che tiene sempre i piedi per terra.",
+      "ja": "彼女は常に現実を見失わない、堅実な人です。"
+    },
+    {
+      "it": "Il bambino è entrato nella stanza in punta di piedi.",
+      "ja": "その子供はつま先立ちで静かに部屋へ入りました。"
+    },
+    {
+      "it": "Dopo la pioggia eravamo bagnati da capo a piedi.",
+      "ja": "雨の後、私たちは頭から足までびしょぬれでした。"
+    },
+    {
+      "it": "Su due piedi non so darti una risposta precisa.",
+      "ja": "今すぐその場で正確な答えを出すことはできません。"
+    },
+    {
+      "it": "La stanza misura circa dieci piedi di larghezza.",
+      "ja": "その部屋の幅は約10フィートです。"
+    },
+    {
+      "it": "Il dattilo è un piede della metrica classica.",
+      "ja": "ダクテュロスは古典詩の韻脚の一つです。"
+    }
+  ]
+},
+{
+  "id": "braccio",
+  "sid": "2026-00364",
+  "word": "braccio",
+  "ipa": "/ˈbrattʃo/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞・二種類の複数形を持つ名詞",
+      "it": "sostantivo maschile con due forme di plurale"
+    },
+    "gender": "masculine",
+    "plural": "braccia（身体の腕・労働力・旧長さ単位、女性複数）／bracci（機械・建物・分岐部など、男性複数）",
+    "pattern": "il braccio / le braccia della persona / i bracci di una macchina o struttura / prendere o tenere qualcuno in braccio / braccio di + oggetto o luogo / a braccia aperte"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "figurative",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "body",
+      "health",
+      "family",
+      "work",
+      "relationships",
+      "technology",
+      "architecture"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "解剖学的に、肩から肘までの上肢部分、上腕",
+      "日常語で、肩から手までの上肢全体、腕",
+      "人を抱いたり支えたりする腕",
+      "人間の肉体的な労働力・働き手",
+      "命令・方針などを実際に実行する人・機関・実働部門",
+      "braccio destroの形で、指導者を支える最も信頼された補佐役、右腕",
+      "機械・クレーン・ランプ・椅子・十字架などの、腕のように伸びた部分",
+      "川・海・道路・鉄道などから分かれて伸びる支流・入り江・分岐線",
+      "建物の中央部分から伸びる翼棟・区画",
+      "ヒトデ・タコなどの、細長く伸びた腕状の器官",
+      "力学において、力の作用線と回転軸との距離、力の腕",
+      "かつて地域ごとに用いられた長さまたは水深の単位",
+      "慣用表現で、歓迎・諦め・協力・対立・即興などを表す"
+    ],
+    "it": [
+      "In anatomia, parte dell’arto superiore compresa tra la spalla e il gomito.",
+      "Nel linguaggio comune, intero arto superiore dalla spalla alla mano.",
+      "Arto utilizzato per tenere, sostenere o abbracciare una persona.",
+      "Forza fisica impiegata nel lavoro oppure insieme dei lavoratori.",
+      "Persona, istituzione o settore che esegue materialmente una decisione o un’attività.",
+      "Nella locuzione braccio destro, collaboratore più fidato e importante di qualcuno.",
+      "Parte allungata e sporgente di una macchina, una gru, una lampada, una croce o un’altra struttura.",
+      "Diramazione di un fiume, del mare, di una strada o di una linea ferroviaria.",
+      "Ala o settore di un edificio che si estende dal corpo centrale.",
+      "Appendice allungata di alcuni animali, come stelle marine e cefalopodi.",
+      "In fisica, distanza tra l’asse di rotazione e la linea lungo la quale agisce una forza.",
+      "Antica unità di lunghezza o di misurazione delle profondità, di valore variabile.",
+      "In numerose espressioni idiomatiche, simbolo di accoglienza, rinuncia, collaborazione, conflitto o improvvisazione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "解剖学上のbraccioは厳密には肩から肘までで、肘から手首まではavambraccio、手首より先はmanoである。ただし日常語ではbraccioが肩から手までの腕全体を指す。人体の腕の複数形は通常le bracciaで、Le braccia sono stancheのように女性形で一致する。機械・十字架・建物・川などの腕状部分には通常i bracciを使い、i bracci meccaniciとなる。bracciaは比喩的な労働力にも使われる。in braccioは単数形を用いる定型表現で、tenere un bambino in braccioは「子供を抱いている」という意味になる。",
+    "it": "In anatomia, braccio indica propriamente il segmento dalla spalla al gomito; la parte tra gomito e polso è l’avambraccio e quella oltre il polso è la mano. Nell’uso quotidiano, tuttavia, braccio può indicare l’intero arto superiore. Il plurale riferito agli arti umani è normalmente le braccia, con accordo femminile: le braccia stanche. Per parti meccaniche, diramazioni, ali di edifici e strutture simili si usa generalmente i bracci: i bracci meccanici. Braccia può inoltre indicare figuratamente i lavoratori o la forza lavoro. In braccio è una locuzione cristallizzata al singolare: tenere un bambino in braccio."
+  },
+
+  "etymology": {
+    "ja": "ラテン語brachium「腕」に由来し、さらに古代ギリシア語brakhíōn「腕・上腕」から借用された語である。身体から外へ伸びて物を動かす部分という意味から、機械の可動部、建物の翼部、川や海の分岐部、組織の実働部門などへ意味が広がった。同じ語族にはbracciale「腕輪」、bracciolo「肘掛け」、abbracciare「抱きしめる」、imbracciare「腕に抱える」などがある。",
+    "it": "Deriva dal latino brachium, «braccio», a sua volta preso dal greco antico brakhíōn, «braccio, parte superiore del braccio». Dall’immagine di una parte che si estende dal corpo si sono sviluppati gli usi riferiti a macchine, edifici, corsi d’acqua e strutture operative. Appartengono alla stessa famiglia bracciale, bracciolo, abbracciare e imbracciare."
+  },
+
+  "minimal": [
+    {
+      "word": "braccio",
+      "ja": "肩から手までの腕全体、厳密には肩から肘までの上腕",
+      "it": "arto superiore o, in anatomia, segmento compreso tra spalla e gomito"
+    },
+    {
+      "word": "avambraccio",
+      "ja": "肘から手首までの腕の部分、前腕",
+      "it": "parte dell’arto superiore compresa tra il gomito e il polso"
+    },
+    {
+      "word": "mano",
+      "ja": "手首より先にあり、指を備えた手",
+      "it": "parte terminale dell’arto superiore situata oltre il polso"
+    },
+    {
+      "word": "arto",
+      "ja": "人や動物の身体から伸び、運動に使われる腕または脚",
+      "it": "appendice del corpo umano o animale costituita da un braccio o da una gamba"
+    },
+    {
+      "word": "bracciolo",
+      "ja": "椅子・ソファなどで腕を載せる肘掛け",
+      "it": "parte laterale di una sedia o poltrona sulla quale si appoggia il braccio"
+    }
+  ],
+
+  "synonyms": [
+    "arto",
+    "arto superiore",
+    "ramo",
+    "diramazione",
+    "ala",
+    "sostegno"
+  ],
+
+  "equivalents": {
+    "en": [
+      "arm",
+      "branch",
+      "wing",
+      "lever arm"
+    ],
+    "de": [
+      "Arm",
+      "Seitenarm",
+      "Flügel",
+      "Hebelarm"
+    ],
+    "fr": [
+      "bras",
+      "branche",
+      "aile",
+      "bras de levier"
+    ],
+    "es": [
+      "brazo",
+      "ramal",
+      "ala",
+      "brazo de palanca"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "farsi male a un braccio",
+      "ja": "腕を痛める"
+    },
+    {
+      "it": "prendere qualcuno per un braccio",
+      "ja": "人の腕をつかむ"
+    },
+    {
+      "it": "tenere un bambino in braccio",
+      "ja": "子供を腕に抱く"
+    },
+    {
+      "it": "stringere qualcuno tra le braccia",
+      "ja": "人を抱きしめる"
+    },
+    {
+      "it": "accogliere a braccia aperte",
+      "ja": "喜んで温かく迎える"
+    },
+    {
+      "it": "incrociare le braccia",
+      "ja": "腕を組む・仕事を拒否する"
+    },
+    {
+      "it": "allargare le braccia",
+      "ja": "仕方がないというしぐさをする"
+    },
+    {
+      "it": "andare a braccetto",
+      "ja": "腕を組んで歩く・密接に結び付く"
+    },
+    {
+      "it": "il braccio destro",
+      "ja": "最も信頼する補佐役・右腕"
+    },
+    {
+      "it": "fare braccio di ferro",
+      "ja": "腕相撲をする・力比べをする"
+    },
+    {
+      "it": "parlare a braccio",
+      "ja": "原稿を用意せず即興で話す"
+    },
+    {
+      "it": "un braccio meccanico",
+      "ja": "機械式アーム・ロボットアーム"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Mi fa male il braccio destro.",
+      "ja": "右腕が痛みます。"
+    },
+    {
+      "it": "È caduto dalla bicicletta e si è rotto un braccio.",
+      "ja": "彼は自転車から転び、腕を一本骨折しました。"
+    },
+    {
+      "it": "Il medico gli ha fasciato il braccio.",
+      "ja": "医師は彼の腕に包帯を巻きました。"
+    },
+    {
+      "it": "Il bambino dormiva in braccio alla madre.",
+      "ja": "その子供は母親に抱かれて眠っていました。"
+    },
+    {
+      "it": "Quando l’ha rivista, l’ha stretta tra le braccia.",
+      "ja": "彼女と再会すると、彼は彼女を抱きしめました。"
+    },
+    {
+      "it": "Gli amici ci hanno accolti a braccia aperte.",
+      "ja": "友人たちは私たちを大歓迎してくれました。"
+    },
+    {
+      "it": "Davanti alla domanda, ha allargato le braccia senza rispondere.",
+      "ja": "その質問を前に、彼は答えず、仕方がないというように両腕を広げました。"
+    },
+    {
+      "it": "I lavoratori hanno incrociato le braccia per protestare.",
+      "ja": "労働者たちは抗議のために仕事を停止しました。"
+    },
+    {
+      "it": "Le due sorelle camminavano a braccetto.",
+      "ja": "姉妹は腕を組んで歩いていました。"
+    },
+    {
+      "it": "Laura è il braccio destro del direttore.",
+      "ja": "ラウラは責任者の右腕です。"
+    },
+    {
+      "it": "Continua il braccio di ferro tra l’azienda e il sindacato.",
+      "ja": "会社と労働組合の間の力比べが続いています。"
+    },
+    {
+      "it": "Il relatore ha parlato a braccio per quasi un’ora.",
+      "ja": "講演者は一時間近く原稿なしで話しました。"
+    },
+    {
+      "it": "Il braccio meccanico solleva i pezzi più pesanti.",
+      "ja": "機械式アームが重い部品を持ち上げます。"
+    },
+    {
+      "it": "La gru dispone di due bracci mobili.",
+      "ja": "そのクレーンには二本の可動アームがあります。"
+    },
+    {
+      "it": "Il fiume si divide in diversi bracci prima di raggiungere il mare.",
+      "ja": "その川は海へ達する前に複数の流れに分かれます。"
+    },
+    {
+      "it": "Il reparto si trova nel braccio orientale dell’edificio.",
+      "ja": "その部門は建物の東側の棟にあります。"
+    },
+    {
+      "it": "La stella marina ha perso uno dei suoi bracci.",
+      "ja": "そのヒトデは腕の一本を失いました。"
+    },
+    {
+      "it": "Questo lavoro richiede molte braccia e molto tempo.",
+      "ja": "この仕事には多くの人手と時間が必要です。"
+    }
+  ]
+},
+{
+  "id": "bocca",
+  "sid": "2026-00365",
+  "word": "bocca",
+  "ipa": "/ˈbokka/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "bocche",
+    "pattern": "la bocca / le bocche / aprire o chiudere la bocca / mettere qualcosa in bocca / bocca di + contenitore, impianto o luogo / per bocca di + persona"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "figurative",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "body",
+      "health",
+      "food",
+      "speech",
+      "family",
+      "geography",
+      "technology"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人や動物の消化管の入口となり、食物や飲み物を取り入れる口腔",
+      "呼吸や発声にも用いられる口",
+      "外から見える口の形や、口を囲む唇の部分",
+      "話す能力、発言、声または言葉",
+      "ある人物を通して伝えられる発言・意見",
+      "食料を必要とする一人の人間、特に扶養・給養すべき人",
+      "瓶・袋・壺・炉などの、物を入れたり出したりする開口部",
+      "管・設備などの流入口・排出口",
+      "港・湾・海峡・洞窟などの狭い入口",
+      "川のデルタにある複数の河口または海への出口",
+      "火山の噴火口や氷河などの開口部",
+      "銃・大砲などの銃口・砲口",
+      "慣用表現で、驚き・沈黙・秘密・うわさ・失望・犠牲などを表す"
+    ],
+    "it": [
+      "Cavità che costituisce la parte iniziale dell’apparato digerente dell’uomo e degli animali.",
+      "Organo utilizzato anche per respirare, articolare suoni e parlare.",
+      "Parte esterna della bocca o, per estensione, insieme delle labbra.",
+      "Facoltà di parlare oppure parola, voce o dichiarazione.",
+      "Persona attraverso la quale viene comunicata un’opinione o una notizia.",
+      "Persona considerata in quanto necessita di essere nutrita o mantenuta.",
+      "Apertura di una bottiglia, un sacco, un vaso, un forno o un altro contenitore.",
+      "Apertura di ingresso o di scarico di un tubo, un impianto o un’apparecchiatura.",
+      "Ingresso stretto di un porto, di una baia, di uno stretto o di una cavità.",
+      "Ciascuno degli sbocchi attraverso i quali il delta di un fiume raggiunge il mare.",
+      "Apertura di un vulcano, di un ghiacciaio o di un’altra formazione naturale.",
+      "Estremità aperta della canna di un’arma da fuoco.",
+      "In numerose espressioni idiomatiche, simbolo di sorpresa, silenzio, segretezza, diffusione, delusione o sacrificio."
+    ]
+  },
+
+  "nuance": {
+    "ja": "boccaは口腔全体またはその外側の開口部を指す。labbraは口を囲む「唇」、golaは口の奥から食道・気道へ続く「喉」である。fauciは主に動物の大きく開いた口や牙のある口を指し、恐ろしさを伴うことが多い。川が海へ注ぐ一般的な「河口」には通常foceを使い、boccaはデルタの個々の出口、港の入口、海峡の固有名などで使われる。in bocca al lupoは直訳とは異なり、試験・仕事・公演などを前にした「幸運を祈る」という決まり文句で、伝統的な返答はCrepi!またはCrepi il lupo!である。現在では単にGrazie!と答えることもある。",
+    "it": "Bocca può indicare sia la cavità orale sia la sua apertura esterna. Le labbra sono i margini mobili che circondano la bocca; la gola è la parte interna che conduce verso la faringe. Fauci si usa soprattutto per la bocca spalancata di un animale e suggerisce spesso pericolo o aggressività. Per il punto in cui un fiume raggiunge il mare si usa normalmente foce; bocca ricorre soprattutto per i singoli sbocchi di un delta, l’ingresso di un porto o determinati stretti geografici. In bocca al lupo è una formula augurale usata prima di una prova; la risposta tradizionale è Crepi! o Crepi il lupo!, mentre nell’uso contemporaneo è comune anche Grazie!"
+  },
+
+  "etymology": {
+    "ja": "ラテン語bŭccaに由来する。bŭccaは古典ラテン語では主に「頬・ほお」を意味したが、話し言葉のラテン語で次第に「口」を表すようになり、古典語のōs、属格ōrisに代わった。ōsの語根はorale「口頭の」、orifizio「開口部」などに残っている。boccaと同じ語族にはboccone「一口分」、boccata「一口・一息」、imboccare「口に入れる・道に入る」、sboccare「外へ開く・流れ出る」などがある。",
+    "it": "Deriva dal latino bŭcca, che in origine significava soprattutto «guancia, gota» e che nel latino parlato assunse progressivamente il significato di «bocca», sostituendo in gran parte il classico ōs, genitivo ōris. Quest’ultima base sopravvive in parole come orale e orifizio. Appartengono alla famiglia di bocca anche boccone, boccata, imboccare e sboccare."
+  },
+
+  "minimal": [
+    {
+      "word": "bocca",
+      "ja": "食事・呼吸・発声に使われる口腔または口の開口部",
+      "it": "cavità e apertura utilizzate per mangiare, respirare e parlare"
+    },
+    {
+      "word": "labbra",
+      "ja": "口の開口部を囲む上下の柔らかい部分、唇",
+      "it": "margini carnosi e mobili che circondano l’apertura della bocca"
+    },
+    {
+      "word": "gola",
+      "ja": "口の奥から気道・食道へ続く部分、喉",
+      "it": "parte interna che dalla bocca conduce verso la faringe"
+    },
+    {
+      "word": "fauci",
+      "ja": "主に動物の大きく開いた口や、牙を備えた危険な口",
+      "it": "bocca spalancata, soprattutto di un animale, spesso considerata minacciosa"
+    },
+    {
+      "word": "viso",
+      "ja": "目・鼻・口などを含む頭部の前面、顔",
+      "it": "parte anteriore della testa comprendente occhi, naso e bocca"
+    }
+  ],
+
+  "synonyms": [
+    "cavità orale",
+    "labbra",
+    "apertura",
+    "imboccatura",
+    "orifizio",
+    "sbocco"
+  ],
+
+  "equivalents": {
+    "en": [
+      "mouth",
+      "opening",
+      "entrance",
+      "muzzle"
+    ],
+    "de": [
+      "Mund",
+      "Öffnung",
+      "Mündung",
+      "Einlass"
+    ],
+    "fr": [
+      "bouche",
+      "ouverture",
+      "embouchure",
+      "entrée"
+    ],
+    "es": [
+      "boca",
+      "abertura",
+      "embocadura",
+      "entrada"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "aprire la bocca",
+      "ja": "口を開ける・話し始める"
+    },
+    {
+      "it": "chiudere la bocca",
+      "ja": "口を閉じる・黙る"
+    },
+    {
+      "it": "a bocca aperta",
+      "ja": "口を開けたままで・驚いて"
+    },
+    {
+      "it": "a bocca piena",
+      "ja": "食べ物を口に入れたままで"
+    },
+    {
+      "it": "mettere qualcosa in bocca",
+      "ja": "何かを口に入れる"
+    },
+    {
+      "it": "in bocca al lupo",
+      "ja": "幸運を祈る・頑張って"
+    },
+    {
+      "it": "acqua in bocca",
+      "ja": "秘密にして・誰にも言わないで"
+    },
+    {
+      "it": "essere sulla bocca di tutti",
+      "ja": "世間のうわさになっている"
+    },
+    {
+      "it": "passare di bocca in bocca",
+      "ja": "口から口へ伝わる"
+    },
+    {
+      "it": "mettere parole in bocca a qualcuno",
+      "ja": "人が言っていない言葉を言ったことにする"
+    },
+    {
+      "it": "rimanere a bocca asciutta",
+      "ja": "期待したものを得られずに終わる"
+    },
+    {
+      "it": "togliersi il pane di bocca",
+      "ja": "自分を犠牲にして人を助ける"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Apri la bocca e di’ «A».",
+      "ja": "口を開けて「あー」と言ってください。"
+    },
+    {
+      "it": "Il bambino si è messo una moneta in bocca.",
+      "ja": "その子供は硬貨を口に入れてしまいました。"
+    },
+    {
+      "it": "Non parlare con la bocca piena.",
+      "ja": "食べ物を口に入れたまま話さないでください。"
+    },
+    {
+      "it": "Quando ho visto il panorama, sono rimasto a bocca aperta.",
+      "ja": "その景色を見たとき、私は驚いて言葉を失いました。"
+    },
+    {
+      "it": "Durante la notte respirava con la bocca aperta.",
+      "ja": "彼は夜の間、口を開けて呼吸していました。"
+    },
+    {
+      "it": "La notizia è stata comunicata per bocca del portavoce.",
+      "ja": "その知らせは報道官を通じて発表されました。"
+    },
+    {
+      "it": "Non mettermi in bocca parole che non ho mai detto.",
+      "ja": "私が一度も言っていないことを、私の発言にしないでください。"
+    },
+    {
+      "it": "Con tre bambini, hanno cinque bocche da sfamare.",
+      "ja": "子供が三人いるため、彼らは五人分の生活を支えなければなりません。"
+    },
+    {
+      "it": "La bottiglia ha una bocca molto stretta.",
+      "ja": "その瓶は口がとても狭くなっています。"
+    },
+    {
+      "it": "Il pane viene introdotto attraverso la bocca del forno.",
+      "ja": "パンは炉の開口部から入れられます。"
+    },
+    {
+      "it": "La barca si sta avvicinando alla bocca del porto.",
+      "ja": "その船は港の入口に近づいています。"
+    },
+    {
+      "it": "Il delta del Po è formato da diverse bocche.",
+      "ja": "ポー川のデルタは複数の河口に分かれています。"
+    },
+    {
+      "it": "Dalla bocca del vulcano usciva una densa nube di fumo.",
+      "ja": "火山の噴火口から濃い煙が出ていました。"
+    },
+    {
+      "it": "Domani hai l’esame? In bocca al lupo!",
+      "ja": "明日は試験ですか。頑張って！"
+    },
+    {
+      "it": "Ti racconto un segreto, ma acqua in bocca!",
+      "ja": "秘密を話しますが、誰にも言わないでください。"
+    },
+    {
+      "it": "Quello scandalo è ormai sulla bocca di tutti.",
+      "ja": "その不祥事は今や世間中のうわさになっています。"
+    },
+    {
+      "it": "La voce è passata rapidamente di bocca in bocca.",
+      "ja": "そのうわさは口コミで急速に広まりました。"
+    },
+    {
+      "it": "Speravamo di ottenere i biglietti, ma siamo rimasti a bocca asciutta.",
+      "ja": "切符を入手できると思っていましたが、結局何も得られませんでした。"
+    }
+  ]
 }  
 ]
