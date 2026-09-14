@@ -2989,5 +2989,202 @@
       "ja": "その部隊はフィレンツェに駐屯していました。"
     }
   ]
+},
+{
+  "id": "camera",
+  "sid": "2026-00337",
+  "word": "camera",
+  "ipa": "/ˈkamera/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "camere",
+    "pattern": "camera da + funzione / camera di + struttura o istituzione / prenotare una camera / essere in camera / Camera + denominazione istituzionale"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "hotel",
+      "travel",
+      "politics",
+      "business",
+      "technology"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "住宅内で主に睡眠や休息のために使う部屋、寝室",
+      "ホテル・旅館・病院などで宿泊者や患者に割り当てられる客室・病室",
+      "特定の用途のために設けられた閉じた部屋・空間・区画",
+      "機械・装置の内部で、物質を収容したり特定の過程を行ったりする密閉空間",
+      "議会を構成する一方の院、特にイタリアのCamera dei deputati、代議院",
+      "Camera di commercioの形で、地域の企業活動などを扱う商工会議所",
+      "裁判・行政・専門的審査などを行う会議体、またはその非公開の審議室",
+      "camera oscuraの形で、暗室またはカメラの原型となった光学装置"
+    ],
+    "it": [
+      "Stanza di un’abitazione destinata soprattutto al riposo e al sonno.",
+      "Stanza assegnata a un ospite in un albergo o a un paziente in una struttura sanitaria.",
+      "Spazio chiuso predisposto per una particolare funzione.",
+      "Cavità delimitata all’interno di una macchina o di un apparecchio, nella quale viene contenuta una sostanza o si svolge un processo.",
+      "Ciascuna delle assemblee che compongono un parlamento, in particolare la Camera dei deputati italiana.",
+      "Nell’espressione Camera di commercio, ente pubblico che svolge funzioni relative alle attività economiche di un territorio.",
+      "Organo collegiale o ambiente riservato nel quale si svolgono deliberazioni giudiziarie, amministrative o professionali.",
+      "Nell’espressione camera oscura, ambiente privo di luce oppure dispositivo ottico dal quale si è sviluppata la macchina fotografica."
+    ]
+  },
+
+  "nuance": {
+    "ja": "cameraはstanzaより用途が限定されやすく、日常語では特にcamera da letto「寝室」やcamera d’albergo「ホテルの客室」を表す。stanzaは用途を限定しない一般的な「部屋」、salaは会議・食事・催しなどに使われる比較的大きな部屋である。政治分野で大文字のCameraと言えば、イタリアでは通常Camera dei deputatiを指し、Senatoとともに議会を構成する。英語のcameraとは異なり、イタリア語では写真撮影用のカメラを通常macchina fotograficaまたはfotocamera、映像撮影用のカメラをtelecameraと呼ぶ。",
+    "it": "Camera ha spesso una funzione più specifica di stanza e, nell’uso quotidiano, indica soprattutto una camera da letto o una camera d’albergo. Stanza è il termine più generale per un ambiente interno, mentre sala designa normalmente un locale più ampio destinato a riunioni, pasti o eventi. In politica, Camera con l’iniziale maiuscola indica normalmente la Camera dei deputati, che insieme al Senato forma il Parlamento italiano. Diversamente dall’inglese camera, in italiano l’apparecchio fotografico si chiama normalmente macchina fotografica o fotocamera, mentre per la ripresa video si usa telecamera."
+  },
+
+  "etymology": {
+    "ja": "ラテン語camĕraまたはcamăra「丸天井・丸天井のある部屋」に由来し、さらに古代ギリシア語kamára「丸天井・アーチ状の構造」にさかのぼる。丸天井で覆われた空間という意味から、一般的な部屋や閉じた空間を表すようになった。同じ語源から英語cameraおよびchamber、フランス語chambre、ドイツ語Kammer、スペイン語cámaraなどが生じている。",
+    "it": "Deriva dal latino camĕra o camăra, «volta, soffitto a volta, stanza», a sua volta proveniente dal greco kamára, «volta, struttura arcuata». Dal significato di spazio coperto da una volta si sviluppò quello generale di ambiente chiuso. Hanno la stessa origine l’inglese camera e chamber, il francese chambre, il tedesco Kammer e lo spagnolo cámara."
+  },
+
+  "minimal": [
+    {
+      "word": "camera",
+      "ja": "主に寝室・ホテル客室、または特定用途の閉じた空間を表す",
+      "it": "stanza destinata soprattutto al sonno o spazio chiuso predisposto per una funzione specifica"
+    },
+    {
+      "word": "stanza",
+      "ja": "用途を限定せず、建物内の壁で区切られた部屋を広く表す",
+      "it": "termine generale per un ambiente interno delimitato da pareti"
+    },
+    {
+      "word": "sala",
+      "ja": "会議・食事・待機・催しなどに使われる比較的大きな部屋",
+      "it": "ambiente generalmente ampio destinato a riunioni, pasti, attese o eventi"
+    },
+    {
+      "word": "fotocamera",
+      "ja": "静止画を撮影するための写真機・カメラ",
+      "it": "apparecchio utilizzato per scattare fotografie"
+    },
+    {
+      "word": "telecamera",
+      "ja": "映像を撮影または送信するためのビデオカメラ",
+      "it": "apparecchio utilizzato per riprendere o trasmettere immagini in movimento"
+    }
+  ],
+
+  "synonyms": [
+    "stanza",
+    "ambiente",
+    "vano",
+    "assemblea",
+    "organo legislativo"
+  ],
+
+  "equivalents": {
+    "en": [
+      "bedroom",
+      "hotel room",
+      "chamber",
+      "house"
+    ],
+    "de": [
+      "Schlafzimmer",
+      "Hotelzimmer",
+      "Kammer",
+      "Parlamentskammer"
+    ],
+    "fr": [
+      "chambre",
+      "chambre d’hôtel",
+      "chambre parlementaire"
+    ],
+    "es": [
+      "habitación",
+      "dormitorio",
+      "cámara",
+      "cámara parlamentaria"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "camera da letto",
+      "ja": "寝室"
+    },
+    {
+      "it": "prenotare una camera",
+      "ja": "ホテルの部屋を予約する"
+    },
+    {
+      "it": "Camera dei deputati",
+      "ja": "代議院・イタリア下院"
+    },
+    {
+      "it": "Camera di commercio",
+      "ja": "商工会議所"
+    },
+    {
+      "it": "camera di combustione",
+      "ja": "燃焼室"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "La camera da letto si trova al secondo piano.",
+      "ja": "寝室は3階にあります。"
+    },
+    {
+      "it": "Abbiamo prenotato una camera matrimoniale per due notti.",
+      "ja": "私たちはダブルルームを2泊予約しました。"
+    },
+    {
+      "it": "La cameriera sta preparando la camera per il prossimo ospite.",
+      "ja": "客室係は次の宿泊客のために部屋を整えています。"
+    },
+    {
+      "it": "Il paziente è stato riportato nella sua camera.",
+      "ja": "患者は自分の病室へ戻されました。"
+    },
+    {
+      "it": "La Camera dei deputati ha approvato il disegno di legge.",
+      "ja": "代議院はその法案を可決しました。"
+    },
+    {
+      "it": "L’impresa è iscritta alla Camera di commercio locale.",
+      "ja": "その企業は地域の商工会議所に登録されています。"
+    },
+    {
+      "it": "I giudici hanno deciso la questione in camera di consiglio.",
+      "ja": "裁判官たちは非公開の合議によってその問題を決定しました。"
+    },
+    {
+      "it": "La combustione avviene all’interno di una camera chiusa.",
+      "ja": "燃焼は密閉された室内で起こります。"
+    },
+    {
+      "it": "Le fotografie venivano sviluppate nella camera oscura.",
+      "ja": "写真は暗室で現像されていました。"
+    }
+  ]
 }
 ]
