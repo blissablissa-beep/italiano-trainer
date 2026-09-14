@@ -5966,5 +5966,240 @@
       "ja": "代わりの計画もなく仕事を辞めたことで、彼は自ら退路を断ちました。"
     }
   ]
+},
+{
+  "id": "barca",
+  "sid": "2026-00351",
+  "word": "barca",
+  "ipa": "/ˈbarka/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "barche",
+    "pattern": "la barca / le barche / barca a + mezzo di propulsione / barca da + funzione / andare o essere in barca / salire in o sulla barca / scendere dalla barca / una barca di + nome / essere nella stessa barca"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "figurative",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "leisure",
+      "fishing",
+      "sport",
+      "transport",
+      "business",
+      "relationships"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "櫂・帆・エンジンなどで進む、一般に小型の舟・ボート",
+      "釣り・移動・救助・作業など、特定の目的に使われる小型船",
+      "航海・スポーツ・レジャーに使われるヨットなどのプレジャーボート",
+      "比較的大型で豪華な個人所有・レジャー用の船",
+      "換喩的に、一隻の舟に積まれた荷物の全体",
+      "比喩的に、運営・管理しなければならない家庭・事業・組織",
+      "nella stessa barcaの形で、同じ困難・危険・境遇に置かれている状態",
+      "口語で、物・金・問題などの非常に多い数量",
+      "冗談めかして、大きすぎる靴",
+      "繊維産業で、布を染めるために使われる大型の槽",
+      "別語源の古い用法で、穀物・藁などを積み上げた山"
+    ],
+    "it": [
+      "Imbarcazione generalmente piccola, mossa da remi, vele o motore.",
+      "Piccolo mezzo nautico destinato alla pesca, al trasporto, al soccorso o ad altre attività.",
+      "Imbarcazione da diporto usata per navigazione, sport o svago.",
+      "Per estensione, imbarcazione privata o da diporto anche di notevoli dimensioni.",
+      "Per metonimia, quantità di materiale trasportata da una barca.",
+      "In senso figurato, famiglia, impresa o organizzazione che deve essere amministrata e guidata.",
+      "Nell’espressione essere nella stessa barca, condivisione della stessa situazione, difficoltà o sorte.",
+      "Nel linguaggio colloquiale, quantità molto grande di denaro, cose o problemi.",
+      "In tono scherzoso, scarpa eccessivamente grande.",
+      "Nell’industria tessile, vasca utilizzata per la tintura dei tessuti.",
+      "Come raro omonimo di diversa origine, cumulo di grano, paglia o altri prodotti agricoli."
+    ]
+  },
+
+  "nuance": {
+    "ja": "barcaは通常、櫂・帆・モーターで進む比較的小型の舟を指すが、barca da diportoのようなレジャー用船舶については、かなり大型のものにも使われる。naveは一般に外洋航行や大量輸送に適した大型船、imbarcazioneは大小を問わず水上を航行する乗り物を広く表す中立的・技術的な語である。battelloは小型の船や近距離の旅客船、canottoは小型艇、特にゴムボート、yachtは豪華なレジャー用船舶に重点がある。移動・活動にはandare in barca「舟に乗る・ボート遊びをする」、特定の舟への乗船にはsalire in barcaまたはsalire sulla barca、下船にはscendere dalla barcaを使う。essere in barcaは舟に乗っている状態、essere sulla barcaは特定の舟の上にいることを強調する。比喩的なessere tutti nella stessa barcaは「全員が同じ境遇にある」、mandare avanti la barcaは「家庭や事業を何とか運営する」、una barca che fa acquaは「問題を抱えてうまく機能しない組織」、tirare i remi in barcaは「活動から手を引く・やめる」を意味する。",
+    "it": "Barca indica normalmente un’imbarcazione di dimensioni limitate, mossa da remi, vele o motore. Nel caso delle imbarcazioni da diporto può tuttavia riferirsi anche a mezzi piuttosto grandi. Nave indica generalmente una costruzione più grande, adatta alla navigazione in mare aperto o al trasporto su vasta scala; imbarcazione è il termine generale e tecnico. Battello designa spesso un piccolo mezzo nautico o un’imbarcazione per servizi locali; canotto un mezzo molto piccolo, frequentemente gonfiabile; yacht un’imbarcazione da diporto particolarmente grande o lussuosa. Andare in barca significa utilizzare una barca o praticare la navigazione da diporto. Per imbarcarsi si usano salire in barca e salire sulla barca; per uscire, scendere dalla barca. Essere in barca indica la condizione generale di trovarsi a bordo, mentre sulla barca mette maggiormente in rilievo un’imbarcazione determinata. Essere tutti nella stessa barca significa condividere la stessa situazione; mandare avanti la barca significa gestire una famiglia o un’impresa; una barca che fa acqua è un’organizzazione piena di problemi; tirare i remi in barca significa ritirarsi da un’attività."
+  },
+
+  "etymology": {
+    "ja": "「舟」を意味するbarcaは後期ラテン語barca「荷物運搬用の小舟」に由来し、古典ラテン語baris、古代ギリシア語bâris「小舟・筏」を経て、さらに古代エジプト語系の語にさかのぼると考えられている。フランス語barque、スペイン語・ポルトガル語barca、英語barqueも同じ系統に属する。イタリア語の派生語にはbarchetta「小舟」、barcone「大型の平底船」、imbarcare「乗船させる・積み込む」、sbarcare「下船する・荷揚げする」がある。穀物などの山を意味する別語のbarcaは、おそらく先ローマ時代の語に由来し、そこから口語のuna barca di soldi「大金」のような数量表現が発達したと考えられる。",
+    "it": "Nel significato nautico deriva dal latino tardo barca, «scialuppa da carico», collegato al latino classico baris e al greco bâris, «battello, zattera», probabilmente proveniente da una lingua dell’antico Egitto. Sono affini il francese barque, lo spagnolo e portoghese barca e l’inglese barque. Alla famiglia italiana appartengono barchetta, barcone, imbarcare e sbarcare. L’omonimo barca che indicava un cumulo di cereali o paglia è probabilmente di origine preromana; a questo significato viene generalmente collegato l’uso colloquiale quantitativo di una barca di soldi o di problemi."
+  },
+
+  "minimal": [
+    {
+      "word": "barca",
+      "ja": "櫂・帆・モーターなどで進む、一般に小型の舟・ボート",
+      "it": "imbarcazione generalmente piccola mossa da remi, vele o motore"
+    },
+    {
+      "word": "nave",
+      "ja": "外洋航行や多数の人・大量の貨物の輸送に使われる比較的大型の船",
+      "it": "costruzione di grandi dimensioni destinata alla navigazione e al trasporto"
+    },
+    {
+      "word": "imbarcazione",
+      "ja": "大小や推進方法を問わず、水上を航行する乗り物の総称",
+      "it": "termine generale per qualsiasi mezzo destinato alla navigazione sull’acqua"
+    },
+    {
+      "word": "battello",
+      "ja": "近距離の輸送・作業などに使用される比較的小型の船",
+      "it": "imbarcazione relativamente piccola usata per servizi, trasporto locale o lavoro"
+    },
+    {
+      "word": "yacht",
+      "ja": "航海・娯楽のために所有・使用される、しばしば大型で豪華な船",
+      "it": "imbarcazione da diporto, spesso grande e lussuosa, usata per navigazione e svago"
+    }
+  ],
+
+  "synonyms": [
+    "imbarcazione",
+    "battello",
+    "natante",
+    "scafo",
+    "canotto",
+    "legno"
+  ],
+
+  "equivalents": {
+    "en": [
+      "boat",
+      "craft",
+      "pleasure boat",
+      "boatload"
+    ],
+    "de": [
+      "Boot",
+      "Wasserfahrzeug",
+      "Freizeitboot",
+      "Unmenge"
+    ],
+    "fr": [
+      "barque",
+      "bateau",
+      "embarcation",
+      "grande quantité"
+    ],
+    "es": [
+      "barca",
+      "bote",
+      "embarcación",
+      "gran cantidad"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "andare in barca",
+      "ja": "舟に乗る・ボート遊びをする"
+    },
+    {
+      "it": "fare una gita in barca",
+      "ja": "舟で小旅行をする"
+    },
+    {
+      "it": "salire in barca",
+      "ja": "舟に乗り込む"
+    },
+    {
+      "it": "scendere dalla barca",
+      "ja": "舟から降りる"
+    },
+    {
+      "it": "una barca a vela",
+      "ja": "帆船・ヨット"
+    },
+    {
+      "it": "una barca a remi",
+      "ja": "手こぎ舟"
+    },
+    {
+      "it": "una barca a motore",
+      "ja": "モーターボート"
+    },
+    {
+      "it": "una barca da pesca",
+      "ja": "漁船"
+    },
+    {
+      "it": "essere sulla stessa barca",
+      "ja": "同じ境遇・困難に置かれている"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Abbiamo attraversato il lago con una piccola barca a remi.",
+      "ja": "私たちは小さな手こぎ舟で湖を渡りました。"
+    },
+    {
+      "it": "Durante le vacanze abbiamo fatto una gita in barca.",
+      "ja": "休暇中、私たちは舟で小旅行をしました。"
+    },
+    {
+      "it": "Prima di salire in barca, indossate il giubbotto di salvataggio.",
+      "ja": "舟に乗る前に救命胴衣を着用してください。"
+    },
+    {
+      "it": "Vorremmo noleggiare una barca a vela per il fine settimana.",
+      "ja": "週末に帆船を借りたいと思っています。"
+    },
+    {
+      "it": "La barca da pesca è rientrata in porto prima della tempesta.",
+      "ja": "漁船は嵐の前に港へ戻りました。"
+    },
+    {
+      "it": "Il vento ha spinto la barca verso la costa.",
+      "ja": "風が舟を海岸の方向へ押し流しました。"
+    },
+    {
+      "it": "Siamo tutti sulla stessa barca e dobbiamo collaborare.",
+      "ja": "私たちは全員同じ状況にあるので、協力しなければなりません。"
+    },
+    {
+      "it": "L’azienda è una barca che fa acqua da tutte le parti.",
+      "ja": "その会社は至るところに問題を抱えた、沈みかけの舟のような状態です。"
+    },
+    {
+      "it": "Dopo tanti anni ha deciso di tirare i remi in barca.",
+      "ja": "長年続けた末に、彼はその活動から手を引くことにしました。"
+    },
+    {
+      "it": "La riparazione ci è costata una barca di soldi.",
+      "ja": "その修理には莫大なお金がかかりました。"
+    },
+    {
+      "it": "Quelle scarpe sono enormi: sembrano due barche.",
+      "ja": "その靴は巨大で、まるで二隻の舟のようです。"
+    },
+    {
+      "it": "Il tessuto viene immerso in una barca contenente il bagno di tintura.",
+      "ja": "布地は染色液を入れた槽に浸されます。"
+    }
+  ]
 }
 ]
