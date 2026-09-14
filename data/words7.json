@@ -4197,5 +4197,209 @@
       "ja": "ドアに頭をぶつけて、目から星が出ました。"
     }
   ]
-}
+},
+ {
+  "id": "sole",
+  "sid": "2026-00343",
+  "word": "sole",
+  "ipa": "/ˈsole/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞／soloの女性複数形と同形",
+      "it": "sostantivo maschile / forma omografa del femminile plurale di solo"
+    },
+    "gender": "masculine",
+    "plural": "soli",
+    "pattern": "il Sole o il sole / i soli / luce, raggi o calore del sole / stare o mettere qualcosa al sole / prendere il sole / c’è il sole / sorgere o tramonto del sole / essere un sole / sole: forma femminile plurale di solo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "figurative",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "weather",
+      "astronomy",
+      "nature",
+      "travel",
+      "health",
+      "emotions",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "地球を含む太陽系の中心にあり、自ら光と熱を放つ恒星、太陽",
+      "別の惑星系の中心となる恒星",
+      "太陽から地上に届く光、日光・陽光",
+      "太陽の光によって生じる熱・暖かさ",
+      "太陽の光が直接当たる場所、日なた",
+      "c’è il soleの形で、空が晴れて太陽が出ている状態",
+      "人・場所・生活などを明るくし、喜びや希望をもたらす存在",
+      "美しさ・輝き・完全さ・明白さなどの象徴",
+      "sotto il soleの形で、この世・世界全体",
+      "soloの女性複数形として、女性などがほかの人を伴わずにいる、または女性名詞に対して『唯一の』"
+    ],
+    "it": [
+      "Stella al centro del sistema planetario al quale appartiene la Terra.",
+      "Per estensione, stella intorno alla quale orbita un altro sistema planetario.",
+      "Luce proveniente dal Sole e ricevuta sulla superficie terrestre.",
+      "Calore prodotto o trasmesso dai raggi solari.",
+      "Luogo direttamente illuminato dai raggi del Sole.",
+      "Nell’espressione c’è il sole, condizione meteorologica caratterizzata da cielo sereno e luce solare.",
+      "In senso figurato, persona o cosa che porta gioia, vitalità, speranza o serenità.",
+      "Simbolo di splendore, bellezza, perfezione o assoluta evidenza.",
+      "Nella locuzione sotto il sole, il mondo o l’intera esperienza umana.",
+      "Come forma femminile plurale dell’aggettivo solo, riferito a persone o cose femminili non accompagnate oppure considerate come le uniche."
+    ]
+  },
+
+  "nuance": {
+    "ja": "天文学ではSoleは地球が属する惑星系の中心となる恒星の固有名として、特に専門的な文章で大文字にすることがある。日常的な天候・日光の意味では通常soleと小文字で書き、Oggi c’è il sole「今日は晴れている」、stare al sole「日なたにいる」と言う。prendere il soleは単に日光を受けるだけでなく、意図的に日光浴をすることを表す。luce del soleは光、calore del soleは熱、raggi del soleは地上へ届く光線に焦点を置く。比喩的なSei il mio soleは、相手が喜びや希望を与える大切な存在であることを表す。chiaro come il soleは「疑いようがないほど明白な」、niente di nuovo sotto il soleは「この世にまったく新しいものはない」という意味である。なお、同じ綴りのsoleは形容詞soloの女性複数形でもあり、due donne soleなら「二人きりの女性／同伴者のいない二人の女性」、le sole persone presentiなら「その場にいた唯一の人々」を表す。",
+    "it": "In astronomia, Sole può essere scritto con l’iniziale maiuscola quando è trattato come il nome proprio della stella del nostro sistema planetario. Nell’uso quotidiano relativo al tempo, alla luce o al calore si usa normalmente la minuscola: oggi c’è il sole, stare al sole. Prendere il sole significa esporsi volontariamente ai raggi solari, spesso per abbronzarsi. Luce del sole mette in rilievo la luminosità; calore del sole la temperatura; raggi del sole la radiazione che raggiunge la Terra. In senso figurato, Sei il mio sole presenta una persona come fonte di gioia e speranza. Chiaro come il sole significa assolutamente evidente; niente di nuovo sotto il sole esprime l’idea che nel mondo nulla sia completamente nuovo. La forma sole può inoltre essere il femminile plurale dell’aggettivo solo: due donne sole oppure le sole persone presenti."
+  },
+
+  "etymology": {
+    "ja": "ラテン語sōl、属格sōlis「太陽」を直接継承した語で、非常に古いインド・ヨーロッパ語族の「太陽」を表す語根にさかのぼる。英語sun、ドイツ語Sonneとは遠い同系関係にあり、フランス語soleil、スペイン語・ポルトガル語solは同じラテン語に由来する。イタリア語の同語族にはsolare「太陽の」、soleggiato「日当たりのよい」、parasole「日よけ」、girasole「ヒマワリ」、solstizio「至点・夏至または冬至」などがある。",
+    "it": "Continua direttamente il latino sōl, genitivo sōlis, «sole», appartenente a un’antichissima famiglia indoeuropea. Sono lontanamente affini l’inglese sun e il tedesco Sonne, mentre il francese soleil e lo spagnolo e portoghese sol derivano dalla stessa base latina. Alla famiglia italiana appartengono solare, soleggiato, parasole, girasole e solstizio."
+  },
+
+  "minimal": [
+    {
+      "word": "sole",
+      "ja": "太陽系の中心となる恒星、またはそこから届く光・熱",
+      "it": "stella centrale del nostro sistema planetario oppure luce e calore che ne provengono"
+    },
+    {
+      "word": "stella",
+      "ja": "自らエネルギーと光を放つ天体の一般名",
+      "it": "termine generale per un corpo celeste che produce ed emette energia e luce"
+    },
+    {
+      "word": "luce solare",
+      "ja": "太陽から届く光そのものに焦点を置く表現",
+      "it": "espressione che indica specificamente la luce proveniente dal Sole"
+    },
+    {
+      "word": "ombra",
+      "ja": "光が物に遮られて直接届かない場所・暗い部分",
+      "it": "zona nella quale la luce è intercettata da un corpo e non arriva direttamente"
+    },
+    {
+      "word": "luna",
+      "ja": "地球の周囲を公転し、太陽光を反射して見える天然衛星",
+      "it": "satellite naturale della Terra che appare luminoso perché riflette la luce solare"
+    }
+  ],
+
+  "synonyms": [
+    "astro",
+    "astro solare",
+    "luce solare",
+    "raggi solari",
+    "calore",
+    "splendore"
+  ],
+
+  "equivalents": {
+    "en": [
+      "sun",
+      "sunlight",
+      "sunshine"
+    ],
+    "de": [
+      "Sonne",
+      "Sonnenlicht",
+      "Sonnenschein"
+    ],
+    "fr": [
+      "soleil",
+      "lumière du soleil",
+      "ensoleillement"
+    ],
+    "es": [
+      "sol",
+      "luz solar",
+      "luz del sol"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "il sorgere del sole",
+      "ja": "日の出"
+    },
+    {
+      "it": "il tramonto del sole",
+      "ja": "日没"
+    },
+    {
+      "it": "prendere il sole",
+      "ja": "日光浴をする"
+    },
+    {
+      "it": "c’è il sole",
+      "ja": "晴れている・太陽が出ている"
+    },
+    {
+      "it": "un raggio di sole",
+      "ja": "一筋の日差し／人を明るくする存在"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "La Terra gira intorno al Sole.",
+      "ja": "地球は太陽の周囲を回っています。"
+    },
+    {
+      "it": "Gli astronomi hanno scoperto un pianeta che orbita intorno a un altro sole.",
+      "ja": "天文学者たちは別の恒星の周囲を公転する惑星を発見しました。"
+    },
+    {
+      "it": "La luce del sole entrava dalla finestra.",
+      "ja": "窓から日光が差し込んでいました。"
+    },
+    {
+      "it": "Non lasciare il cioccolato al sole, altrimenti si scioglierà.",
+      "ja": "チョコレートを日なたに置かないでください。溶けてしまいます。"
+    },
+    {
+      "it": "Oggi c’è il sole, ma domani dovrebbe piovere.",
+      "ja": "今日は晴れていますが、明日は雨が降る見込みです。"
+    },
+    {
+      "it": "In estate evito di prendere il sole nelle ore più calde.",
+      "ja": "夏は最も暑い時間帯の日光浴を避けています。"
+    },
+    {
+      "it": "Dopo una settimana di pioggia, finalmente è tornato il sole.",
+      "ja": "一週間雨が続いたあと、ようやく太陽が戻ってきました。"
+    },
+    {
+      "it": "La nascita della bambina ha portato un raggio di sole nella loro vita.",
+      "ja": "女の子の誕生は、彼らの生活に希望の光をもたらしました。"
+    },
+    {
+      "it": "È chiaro come il sole che dobbiamo cambiare strategia.",
+      "ja": "戦略を変えなければならないことは火を見るより明らかです。"
+    },
+    {
+      "it": "Le due ragazze sono rimaste sole nella stanza.",
+      "ja": "その二人の少女だけが部屋に残りました。"
+    }
+  ]
+} 
 ]
