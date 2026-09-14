@@ -1489,6 +1489,197 @@
   ]
 },
 {
+  "id": "diligenza",
+  "sid": "2026-00328",
+  "word": "diligenza",
+  "ipa": "/diliˈdʒɛntsa/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "diligenze",
+    "pattern": "agire o lavorare con diligenza / usare la dovuta diligenza / obbligo o dovere di diligenza / diligenza nel + nome o infinito / viaggiare in diligenza"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "legal",
+      "historical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "business",
+      "law",
+      "work",
+      "education",
+      "administration",
+      "history"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "仕事・義務などを注意深く、正確かつ誠実に行う態度",
+      "目的を達成するために、根気よく継続的に努力する勤勉さ",
+      "誤り・危険・損害などを避けるために必要な注意と慎重さ",
+      "契約・職務・専門業務などの遂行に際して法的に要求される注意の水準",
+      "必要な調査・確認・評価・手続などを適切に行うこと",
+      "行政・司法などにおいて権限ある者が行う通知・調査・執行その他の手続",
+      "歴史的に、決められた路線を走った乗合馬車・駅馬車"
+    ],
+    "it": [
+      "Cura, attenzione e precisione con cui si svolge un’attività o si adempie un obbligo.",
+      "Impegno costante e operosità nel perseguire uno scopo.",
+      "Prudenza necessaria per evitare errori, rischi o danni.",
+      "Livello di attenzione giuridicamente richiesto nell’esecuzione di un contratto, di un incarico o di un’attività professionale.",
+      "Svolgimento appropriato delle verifiche, delle valutazioni e delle formalità necessarie.",
+      "Nel linguaggio amministrativo e giudiziario, atto o attività procedurale compiuti da un’autorità o da un funzionario.",
+      "Storicamente, veicolo pubblico trainato da cavalli che percorreva regolarmente una determinata linea."
+    ]
+  },
+
+  "nuance": {
+    "ja": "diligenzaは単に熱心に働くことではなく、状況に応じて求められる注意・正確さ・慎重さを尽くすことを表す。法律ではdiligenza del buon padre di famigliaが一般人に期待される合理的な注意の基準を示す伝統的な表現であり、専門的な業務では、その活動の性質に応じた専門的な注意が考慮される。英語由来のdue diligenceはイタリア語でも一般的だが、企業買収や投資などに先立つ法務・財務・税務上の詳細調査を指すことが多く、一般的なdovuta diligenzaと完全に同じではない。歴史的なdiligenza「駅馬車」は、注意深さとは異なる独立した語義である。",
+    "it": "Diligenza non indica soltanto il lavorare molto, ma soprattutto l’impiego della cura, della precisione e della prudenza richieste dalle circostanze. Nel diritto, la diligenza del buon padre di famiglia è una formula tradizionale che esprime un criterio generale di condotta ragionevole; nelle attività professionali si tiene conto anche della natura tecnica dell’incarico. L’espressione inglese due diligence è comune nel linguaggio economico e giuridico italiano e indica soprattutto una verifica approfondita precedente a un’acquisizione, un investimento o un’altra operazione. Non coincide quindi in tutti i contesti con la semplice espressione dovuta diligenza. Il significato storico di «carrozza pubblica trainata da cavalli» costituisce un’accezione distinta."
+  },
+
+  "etymology": {
+    "ja": "ラテン語diligentia「注意深さ・配慮・熱意」に由来し、動詞diligĕre「選ぶ・重んじる・大切にする」と同じ語族に属する。diligĕreはdis-とlegĕre「選ぶ・集める」から形成され、物事を慎重に選び、その価値を認めて配慮するという観念を持つ。英語diligence、フランス語diligence、スペイン語diligenciaも同じラテン語に由来する。",
+    "it": "Deriva dal latino diligentia, «cura, attenzione, premura», appartenente alla famiglia di diligĕre, «scegliere, apprezzare, amare», formato da dis- e legĕre, «scegliere, raccogliere». L’idea originaria è quella di valutare attentamente e quindi di occuparsi con cura di qualcosa. Sono affini l’inglese diligence, il francese diligence e lo spagnolo diligencia."
+  },
+
+  "minimal": [
+    {
+      "word": "diligenza",
+      "ja": "義務や仕事を適切に遂行するための注意・正確さ・慎重さ",
+      "it": "cura, precisione e prudenza impiegate nell’esecuzione di un’attività o di un obbligo"
+    },
+    {
+      "word": "attenzione",
+      "ja": "特定の対象に意識を向け、見落としや誤りを防ぐこと",
+      "it": "concentrazione della mente su un oggetto, un fatto o un’attività"
+    },
+    {
+      "word": "cura",
+      "ja": "人・物・仕事などを良い状態に保つために注ぐ配慮",
+      "it": "interessamento attento rivolto al benessere o alla corretta gestione di qualcosa"
+    },
+    {
+      "word": "scrupolo",
+      "ja": "細部・規則・道徳的な問題まで厳密に確認しようとする慎重さ",
+      "it": "attenzione rigorosa ai dettagli, alle regole o alle conseguenze morali"
+    },
+    {
+      "word": "negligenza",
+      "ja": "必要な注意や配慮を怠り、適切に行動しないこと",
+      "it": "mancanza della cura e dell’attenzione richieste dalle circostanze"
+    }
+  ],
+
+  "synonyms": [
+    "cura",
+    "attenzione",
+    "precisione",
+    "accuratezza",
+    "scrupolo",
+    "zelo"
+  ],
+
+  "equivalents": {
+    "en": [
+      "diligence",
+      "due care",
+      "carefulness",
+      "stagecoach"
+    ],
+    "de": [
+      "Sorgfalt",
+      "Gewissenhaftigkeit",
+      "Fleiß",
+      "Postkutsche"
+    ],
+    "fr": [
+      "diligence",
+      "soin",
+      "application"
+    ],
+    "es": [
+      "diligencia",
+      "cuidado",
+      "esmero"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "agire con diligenza",
+      "ja": "注意深く行動する"
+    },
+    {
+      "it": "usare la dovuta diligenza",
+      "ja": "相当な注意を尽くす"
+    },
+    {
+      "it": "dovere di diligenza",
+      "ja": "注意義務"
+    },
+    {
+      "it": "condurre una due diligence",
+      "ja": "デューデリジェンスを実施する"
+    },
+    {
+      "it": "viaggiare in diligenza",
+      "ja": "駅馬車で旅をする"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Ha svolto l’incarico con grande diligenza.",
+      "ja": "彼女は細心の注意を払って任務を遂行しました。"
+    },
+    {
+      "it": "Lo studente lavora con diligenza e controlla sempre i propri errori.",
+      "ja": "その学生は勤勉に取り組み、常に自分の誤りを確認しています。"
+    },
+    {
+      "it": "Il debitore deve adempiere l’obbligazione con la dovuta diligenza.",
+      "ja": "債務者は相当な注意をもって債務を履行しなければなりません。"
+    },
+    {
+      "it": "Il professionista è tenuto ad agire con una diligenza adeguata alla natura dell’incarico.",
+      "ja": "専門家は、業務の性質に応じた適切な注意をもって行動する義務があります。"
+    },
+    {
+      "it": "Una verifica svolta con maggiore diligenza avrebbe evitato l’errore.",
+      "ja": "より注意深く確認していれば、その誤りは避けられたでしょう。"
+    },
+    {
+      "it": "Prima dell’acquisizione, l’azienda ha condotto una due diligence legale e finanziaria.",
+      "ja": "買収前に、その会社は法務・財務デューデリジェンスを実施しました。"
+    },
+    {
+      "it": "La mancanza di diligenza può comportare una responsabilità per i danni causati.",
+      "ja": "必要な注意を怠ると、生じた損害について責任を負うことがあります。"
+    },
+    {
+      "it": "Nel XIX secolo il viaggio veniva effettuato in diligenza.",
+      "ja": "19世紀には、その旅は駅馬車で行われていました。"
+    }
+  ]
+},
+{
   "id": "pullman",
   "sid": "2026-00332",
   "word": "pullman",
