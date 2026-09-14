@@ -4401,5 +4401,214 @@
       "ja": "その二人の少女だけが部屋に残りました。"
     }
   ]
-} 
+} ,
+{
+  "id": "luna",
+  "sid": "2026-00344",
+  "word": "luna",
+  "ipa": "/ˈluna/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "lune",
+    "pattern": "la Luna o la luna / le lune / luna + aggettivo / fase della luna / luce o chiarore della luna / al chiaro di luna / luna di + pianeta / avere la luna storta / essere sulla luna / chiedere la luna"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "figurative",
+      "technical",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "astronomy",
+      "nature",
+      "time",
+      "emotions",
+      "relationships",
+      "travel",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "地球の周囲を公転する唯一の天然衛星、月",
+      "太陽に照らされ、夜空にさまざまな形で見える月の円盤",
+      "月から地上に届くように見える光、月光",
+      "luna piena・luna nuovaなど、太陽との位置関係によって変化する月の形・月相",
+      "地球以外の惑星などの周囲を回る天然衛星",
+      "三日月・半月など、月に似た湾曲した形",
+      "満ち欠けする月になぞらえた、人の気分・態度の変化や不安定さ",
+      "比喩的に、現実から離れた空想・注意散漫な状態",
+      "比喩的に、実現困難な要求・非常に手に入りにくい物",
+      "luna di mieleの形で、結婚直後の期間または新婚旅行"
+    ],
+    "it": [
+      "Unico satellite naturale della Terra.",
+      "Disco celeste illuminato dal Sole e visibile nel cielo in forme differenti.",
+      "Luce riflessa dalla Luna e percepita sulla Terra.",
+      "Aspetto assunto dalla Luna secondo la sua posizione rispetto alla Terra e al Sole.",
+      "Per estensione, satellite naturale che orbita intorno a un altro pianeta.",
+      "Forma curva o semicircolare simile a quella della Luna in una delle sue fasi.",
+      "Simbolo della mutevolezza dell’umore, del carattere o del comportamento.",
+      "In senso figurato, condizione di distrazione, fantasticheria o lontananza dalla realtà.",
+      "In senso figurato, cosa irraggiungibile o richiesta eccessiva e difficile da soddisfare.",
+      "Nella locuzione luna di miele, periodo immediatamente successivo al matrimonio o viaggio degli sposi."
+    ]
+  },
+
+  "nuance": {
+    "ja": "天文学ではLunaを地球の衛星の固有名として大文字で書くことがあるが、日常的な文章では小文字のlunaも一般的である。月は自ら光を発するのではなく、太陽光を反射して明るく見える。月相はluna nuova「新月」、luna crescente「満ちていく月」、luna piena「満月」、luna calante「欠けていく月」などで表す。地球以外の惑星の天然衛星も、le lune di Giove「木星の衛星」のようにlunaと呼べるが、科学的な一般名称はsatelliteである。al chiaro di lunaは「月明かりの下で」。慣用表現のavere la luna stortaは「機嫌が悪い」、essere sulla luna・avere la testa nella lunaは「ぼんやりしている・現実離れしている」、chiedere la lunaは「無理な要求をする」を意味する。meseは暦上の「月・一か月」であり、天体としてのlunaとは区別される。",
+    "it": "In astronomia, Luna può essere scritta con l’iniziale maiuscola quando è considerata il nome proprio del satellite terrestre; nell’uso quotidiano è comune anche la minuscola. La Luna non emette luce propria, ma riflette quella del Sole. Le principali fasi sono indicate da luna nuova, luna crescente, luna piena e luna calante. Anche i satelliti naturali di altri pianeti possono essere chiamati lune, come le lune di Giove, mentre satellite è il termine scientifico generale. Al chiaro di luna significa sotto la luce lunare. Avere la luna storta indica cattivo umore; essere sulla luna o avere la testa nella luna significa essere distratti o lontani dalla realtà; chiedere la luna significa pretendere qualcosa di quasi impossibile. Mese indica invece un’unità del calendario e non il corpo celeste."
+  },
+
+  "etymology": {
+    "ja": "ラテン語lūna「月」を直接継承した語であり、ラテン語lūx「光」と関係する古いインド・ヨーロッパ語根に由来すると考えられている。月が夜空に光る天体として捉えられたことを反映している。同じ語族にはluce「光」、luminoso「明るい」、lunare「月の」、lunazione「朔望月」、lunedì「月曜日」などがある。フランス語lune、スペイン語lunaも同じラテン語に由来し、英語lunarはラテン語系の借用語である。",
+    "it": "Continua il latino lūna, «luna», tradizionalmente collegato alla famiglia di lūx, «luce», e a un’antica radice indoeuropea relativa alla luminosità. Alla stessa area lessicale appartengono lunare, lunazione e lunedì, originariamente «giorno della Luna». Il francese lune e lo spagnolo luna derivano dalla stessa parola latina, mentre l’inglese lunar è un prestito di origine latina."
+  },
+
+  "minimal": [
+    {
+      "word": "luna",
+      "ja": "地球の周囲を回る天然衛星、または他の惑星を回る同種の天体",
+      "it": "satellite naturale della Terra oppure, per estensione, di un altro pianeta"
+    },
+    {
+      "word": "satellite",
+      "ja": "別の天体の周囲を公転する天然または人工の物体を表す一般語",
+      "it": "termine generale per un corpo naturale o artificiale che orbita intorno a un altro corpo"
+    },
+    {
+      "word": "sole",
+      "ja": "地球などの惑星が周囲を公転し、自ら光を放つ恒星",
+      "it": "stella che emette luce propria e intorno alla quale orbita la Terra"
+    },
+    {
+      "word": "mese",
+      "ja": "暦を構成する時間の単位としての一か月",
+      "it": "unità temporale del calendario, normalmente compresa tra ventotto e trentuno giorni"
+    },
+    {
+      "word": "mezzaluna",
+      "ja": "半月、または月に似た半円形・三日月形の物",
+      "it": "Luna visibile per metà oppure oggetto dalla forma semicircolare o falcata"
+    }
+  ],
+
+  "synonyms": [
+    "satellite",
+    "satellite naturale",
+    "astro",
+    "disco lunare",
+    "chiarore lunare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "moon",
+      "Moon",
+      "natural satellite",
+      "moonlight"
+    ],
+    "de": [
+      "Mond",
+      "Erdmond",
+      "natürlicher Satellit",
+      "Mondlicht"
+    ],
+    "fr": [
+      "lune",
+      "Lune",
+      "satellite naturel",
+      "clair de lune"
+    ],
+    "es": [
+      "luna",
+      "Luna",
+      "satélite natural",
+      "luz de luna"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "la luna piena",
+      "ja": "満月"
+    },
+    {
+      "it": "la luna crescente",
+      "ja": "満ちていく月"
+    },
+    {
+      "it": "al chiaro di luna",
+      "ja": "月明かりの下で"
+    },
+    {
+      "it": "avere la luna storta",
+      "ja": "機嫌が悪い"
+    },
+    {
+      "it": "la luna di miele",
+      "ja": "新婚期間・新婚旅行"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "La Luna gira intorno alla Terra.",
+      "ja": "月は地球の周囲を回っています。"
+    },
+    {
+      "it": "La luna riflette la luce del Sole.",
+      "ja": "月は太陽の光を反射します。"
+    },
+    {
+      "it": "Questa sera nel cielo si vede una splendida luna piena.",
+      "ja": "今夜は空に美しい満月が見えます。"
+    },
+    {
+      "it": "Abbiamo passeggiato sulla spiaggia al chiaro di luna.",
+      "ja": "私たちは月明かりの下で海岸を散歩しました。"
+    },
+    {
+      "it": "Giove possiede numerose lune.",
+      "ja": "木星には多数の衛星があります。"
+    },
+    {
+      "it": "Oggi il direttore ha la luna storta, quindi è meglio non disturbarlo.",
+      "ja": "今日は責任者の機嫌が悪いので、邪魔しないほうがよいでしょう。"
+    },
+    {
+      "it": "Durante la riunione sembravi essere sulla luna.",
+      "ja": "会議中、あなたは上の空のように見えました。"
+    },
+    {
+      "it": "Pretendere di finire tutto in un’ora significa chiedere la luna.",
+      "ja": "すべてを一時間で終えるよう求めるのは、無理な要求です。"
+    },
+    {
+      "it": "Dopo il matrimonio sono partiti per la luna di miele in Sicilia.",
+      "ja": "結婚後、二人はシチリアへ新婚旅行に出かけました。"
+    },
+    {
+      "it": "La bambina ha disegnato una luna crescente sopra la casa.",
+      "ja": "その女の子は家の上に三日月を描きました。"
+    }
+  ]
+}
 ]
