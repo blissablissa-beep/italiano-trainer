@@ -4829,5 +4829,237 @@
       "ja": "この説明はいささか単純で平凡すぎます。"
     }
   ]
+},
+{
+  "id": "macchina",
+  "sid": "2026-00346",
+  "word": "macchina",
+  "ipa": "/ˈmakkina/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "macchine",
+    "pattern": "la macchina / le macchine / macchina da o per + funzione / andare o viaggiare in macchina / salire in macchina / scendere dalla macchina / macchina di + persona o organizzazione / macchina + aggettivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "technical",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "transport",
+      "home",
+      "work",
+      "industry",
+      "technology",
+      "photography",
+      "administration"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "複数の部品を組み合わせ、力やエネルギーを利用して一定の作業を行う機械",
+      "特定の目的・機能を果たす装置・器械",
+      "日常語で、人を道路上で運ぶ自動車・乗用車",
+      "機能を示す語を伴って、コーヒーメーカー・ミシン・カメラなどの機器",
+      "鉄道で、列車を牽引する機関車、現在では限定的または歴史的な用法",
+      "船舶を動かす機関設備、またはそれが置かれた機関部門",
+      "コンピューター科学で、処理を行う物理的・仮想的なシステム",
+      "複数の組織・制度・権力などが連動して働く複雑な機構",
+      "大規模な活動を効率的に遂行する組織・体制",
+      "比喩的に、休まず機械的に働く人、または非常に高い能力を発揮する人",
+      "複雑な仕掛け、舞台装置、または想像上の機械"
+    ],
+    "it": [
+      "Insieme di elementi collegati che utilizza o trasforma forza ed energia per compiere determinate operazioni.",
+      "Apparecchio o dispositivo costruito per svolgere una funzione specifica.",
+      "Nel linguaggio quotidiano, automobile o autovettura.",
+      "Con una specificazione funzionale, apparecchio come una macchina da caffè, per cucire o fotografica.",
+      "In ambito ferroviario, locomotiva o mezzo di trazione, in un uso oggi limitato o storico.",
+      "Insieme degli apparati che producono la propulsione di una nave oppure reparto nel quale sono collocati.",
+      "In informatica, sistema fisico o virtuale capace di elaborare dati ed eseguire istruzioni.",
+      "In senso figurato, complesso coordinato di istituzioni, uffici, poteri e procedure.",
+      "Organizzazione o apparato predisposto per svolgere un’attività su vasta scala.",
+      "In senso figurato, persona che lavora in modo instancabile e automatico oppure offre prestazioni eccezionali.",
+      "Congegno complesso, apparato scenico o dispositivo immaginario."
+    ]
+  },
+
+  "nuance": {
+    "ja": "macchinaは本来あらゆる機械を表す広い語だが、日常会話で文脈なくla macchinaと言うと、多くの場合「自動車」を指す。Ho lasciato le chiavi in macchinaは「車内に鍵を置き忘れた」という意味である。移動手段にはandare in macchina、乗車にはsalire in macchina、降車にはscendere dalla macchinaを使う。automobileは自動車を明示する正式で正確な語、autoはその非常に一般的な短縮形で女性不変化名詞、autovetturaは行政・法律・保険などで使われやすい。veicoloは自動車・自転車・鉄道車両などを含む「乗り物」の上位語である。機械としてのmacchinaは複数の部品が連動する構造全体を指し、motoreは通常その機械を動かす動力部分、apparecchioは一定の用途を持つ器具・機器、dispositivoは機能に注目した技術的で広い語である。macchinarioは工場などに設置された機械類の総体を表す。比喩的なmacchina amministrativa・macchina dello Statoは、多数の部署や制度が連動する組織機構を意味する。人をuna macchinaと呼ぶと、非常に能率的であるという称賛にも、人間味なく機械的に行動するという批判にもなり得る。",
+    "it": "Macchina è un termine generale per dispositivi meccanici complessi, ma senza altre specificazioni, nella conversazione quotidiana, indica molto spesso l’automobile. Ho lasciato le chiavi in macchina significa normalmente che le chiavi sono rimaste nell’automobile. Per il mezzo di trasporto si usa andare in macchina; per l’ingresso salire in macchina; per l’uscita scendere dalla macchina. Automobile è il termine completo e preciso; auto è la forma abbreviata, femminile e invariabile; autovettura ricorre spesso in contesti amministrativi, giuridici e assicurativi. Veicolo è una categoria più ampia. Una macchina è generalmente un sistema di parti coordinate; il motore è la parte che produce l’energia meccanica, apparecchio indica un oggetto destinato a un uso particolare e dispositivo mette in rilievo la funzione tecnica. Macchinario indica invece un insieme organizzato di macchine. In senso figurato, macchina amministrativa e macchina dello Stato descrivono organismi complessi formati da uffici, regole e procedure. Definire una persona una macchina può essere un elogio della sua efficienza oppure una critica al suo comportamento automatico e poco umano."
+  },
+
+  "etymology": {
+    "ja": "ラテン語machĭna「機械・仕掛け」に由来し、さらに古代ギリシア語のドーリス方言makhaná、アッティカ方言mēkhanḗ「装置・手段・工夫」にさかのぼる。当初から、力を利用する装置だけでなく、目的を達成するための巧妙な仕組みという意味も持っていた。同じ語族にはmeccanica「力学・機械学」、meccanismo「機構」、macchinario「機械設備」、macchinista「機械運転者・機関士」、macchinazione「策略」などがある。英語machine、フランス語machine、スペイン語máquinaも同じギリシア語・ラテン語系統に属する。",
+    "it": "Deriva dal latino machĭna, «macchina, congegno», a sua volta dal greco dorico makhaná, corrispondente all’attico mēkhanḗ, «strumento, espediente, mezzo». La parola indicava sia un dispositivo capace di sfruttare una forza sia un mezzo ingegnoso per ottenere un risultato. Alla stessa famiglia appartengono meccanica, meccanismo, macchinario, macchinista e macchinazione. Hanno la medesima origine l’inglese machine, il francese machine e lo spagnolo máquina."
+  },
+
+  "minimal": [
+    {
+      "word": "macchina",
+      "ja": "一定の作業を行う機械全般、または日常語で自動車",
+      "it": "sistema che compie determinate operazioni oppure, nell’uso comune, automobile"
+    },
+    {
+      "word": "automobile",
+      "ja": "道路上で人を運ぶ自動車を明確に指す完全な語形",
+      "it": "termine completo che indica specificamente un veicolo stradale a motore"
+    },
+    {
+      "word": "auto",
+      "ja": "automobileの一般的な短縮形で、女性不変化名詞",
+      "it": "abbreviazione molto comune, femminile e invariabile, di automobile"
+    },
+    {
+      "word": "motore",
+      "ja": "エネルギーを機械的な動力へ変換し、機械や車を動かす部分",
+      "it": "parte che trasforma energia in movimento e aziona una macchina o un veicolo"
+    },
+    {
+      "word": "apparecchio",
+      "ja": "特定の実用的・技術的機能を持つ器具・機器",
+      "it": "strumento o dispositivo destinato a una particolare funzione pratica o tecnica"
+    }
+  ],
+
+  "synonyms": [
+    "apparecchio",
+    "dispositivo",
+    "meccanismo",
+    "automobile",
+    "auto",
+    "autovettura"
+  ],
+
+  "equivalents": {
+    "en": [
+      "machine",
+      "car",
+      "device",
+      "apparatus",
+      "camera"
+    ],
+    "de": [
+      "Maschine",
+      "Auto",
+      "Gerät",
+      "Apparat"
+    ],
+    "fr": [
+      "machine",
+      "voiture",
+      "appareil",
+      "mécanisme"
+    ],
+    "es": [
+      "máquina",
+      "coche",
+      "automóvil",
+      "aparato"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "andare in macchina",
+      "ja": "車で行く"
+    },
+    {
+      "it": "guidare la macchina",
+      "ja": "車を運転する"
+    },
+    {
+      "it": "parcheggiare la macchina",
+      "ja": "車を駐車する"
+    },
+    {
+      "it": "salire in macchina",
+      "ja": "車に乗り込む"
+    },
+    {
+      "it": "scendere dalla macchina",
+      "ja": "車から降りる"
+    },
+    {
+      "it": "la macchina da caffè",
+      "ja": "コーヒーメーカー・コーヒーマシン"
+    },
+    {
+      "it": "la macchina fotografica",
+      "ja": "写真機・カメラ"
+    },
+    {
+      "it": "la macchina per cucire",
+      "ja": "ミシン"
+    },
+    {
+      "it": "la macchina amministrativa",
+      "ja": "行政機構"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Questa macchina taglia automaticamente le lastre di metallo.",
+      "ja": "この機械は金属板を自動的に切断します。"
+    },
+    {
+      "it": "La macchina da caffè dell’ufficio non funziona.",
+      "ja": "事務所のコーヒーマシンが動きません。"
+    },
+    {
+      "it": "Domani andremo alla stazione in macchina.",
+      "ja": "明日は車で駅へ行きます。"
+    },
+    {
+      "it": "Non ricordo dove ho parcheggiato la macchina.",
+      "ja": "どこに車を駐車したのか覚えていません。"
+    },
+    {
+      "it": "I bambini sono saliti in macchina e hanno allacciato le cinture.",
+      "ja": "子供たちは車に乗り込み、シートベルトを締めました。"
+    },
+    {
+      "it": "Ho portato la macchina fotografica per fotografare il paesaggio.",
+      "ja": "景色を撮影するためにカメラを持ってきました。"
+    },
+    {
+      "it": "Mia nonna usava questa macchina per cucire.",
+      "ja": "祖母はこのミシンを使っていました。"
+    },
+    {
+      "it": "Il personale di macchina ha controllato i motori della nave.",
+      "ja": "機関部の職員が船のエンジンを点検しました。"
+    },
+    {
+      "it": "La macchina amministrativa richiede tempo per esaminare tutte le domande.",
+      "ja": "行政機構がすべての申請を審査するには時間がかかります。"
+    },
+    {
+      "it": "Durante il torneo quel giocatore è stato una vera macchina da gol.",
+      "ja": "大会中、その選手はまさに得点マシンでした。"
+    },
+    {
+      "it": "Il programma viene eseguito all’interno di una macchina virtuale.",
+      "ja": "そのプログラムは仮想マシン内で実行されます。"
+    }
+  ]
 }
 ]
