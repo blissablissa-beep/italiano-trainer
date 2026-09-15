@@ -1,5 +1,245 @@
 [
 {
+  "id": "calendario",
+  "sid": "2026-00313",
+  "word": "calendario",
+  "ipa": "/kalenˈdarjo/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "calendari",
+    "pattern": "il calendario / i calendari / calendario di + anno, attività o eventi / calendario + aggettivo / segnare qualcosa sul calendario / inserire o aggiungere qualcosa al calendario / secondo il calendario"
+  },
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written",
+      "digital"
+    ],
+    "situations": [
+      "conversation",
+      "time",
+      "planning",
+      "education",
+      "business",
+      "sport",
+      "religion"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "年・月・週・日などの単位によって時間を区分し、日付を定める暦法",
+      "一年の日付・曜日・祝日などを月ごとに示した表・冊子・印刷物",
+      "壁掛け・卓上・携帯用などの形で使用される日付表",
+      "コンピューターやスマートフォン上で日付・予定・通知を管理するデジタルカレンダー",
+      "行事・会議・公演・祭典などを時間順に並べた開催日程",
+      "学校・大学における授業期間、休暇、試験などを定めた年間日程",
+      "試合・大会・競技などの開催日と対戦順を示すスポーツ日程",
+      "宗教上の祝祭日・記念日・典礼を一年の中に配置した暦",
+      "国や行政制度により定められた祝日・営業日・手続日などの年間区分",
+      "事業・議会・出版・プロジェクトなどの活動や作業を時系列で定めた計画表",
+      "腕時計などに備えられた、現在の日付を表示する機能または装置"
+    ],
+    "it": [
+      "Sistema convenzionale di divisione e organizzazione del tempo in anni, mesi, settimane e giorni.",
+      "Tabella, libretto o insieme di fogli che presenta i giorni, le settimane, i mesi e le festività di un anno.",
+      "Oggetto da parete, da tavolo o tascabile utilizzato per consultare le date.",
+      "Strumento digitale che consente di visualizzare date, registrare appuntamenti e programmare notifiche.",
+      "Programma cronologicamente ordinato di eventi, riunioni, spettacoli, festival o manifestazioni.",
+      "Prospetto annuale che stabilisce periodi di lezione, vacanze, esami e altre attività scolastiche o universitarie.",
+      "Programma delle gare, delle partite e delle giornate di una competizione sportiva.",
+      "Sistema che distribuisce nell’anno le feste, le commemorazioni e le celebrazioni religiose.",
+      "Prospetto delle festività, delle giornate lavorative o di altre scadenze riconosciute da uno stato o da un’amministrazione.",
+      "Piano temporale delle attività di un’impresa, di un parlamento, di un progetto o di una pubblicazione.",
+      "Dispositivo o funzione di un orologio che indica automaticamente la data corrente."
+    ]
+  },
+  "nuance": {
+    "ja": "calendarioは、時間を区分する制度、日付を一覧表示する物、複数の行事を日付順に配置した日程表のいずれも表す。個人的な約束や日々の作業を書き込む手帳はagendaがより典型的だが、デジタル環境ではcalendarioも予定管理機能全体を指す。programmaは行事の内容や進行順序、orarioは時刻や営業時間、scadenzarioは期限の一覧に重点を置く。segnare un appuntamento sul calendarioは「予定をカレンダーに書き込む」、aggiungere un evento al calendarioは主にデジタルカレンダーへ登録することを表す。",
+    "it": "Calendario può indicare il sistema di computo del tempo, l’oggetto sul quale sono stampate le date oppure un programma di eventi ordinato cronologicamente. Agenda è più specifica per gli appuntamenti personali e le attività quotidiane, anche se nel linguaggio digitale calendario può comprendere tutte le funzioni di pianificazione. Programma mette maggiormente in rilievo i contenuti e la successione di un evento; orario le ore precise; scadenzario l’elenco delle scadenze. Segnare sul calendario è tipico anche della scrittura su carta, mentre aggiungere al calendario è frequente con le applicazioni digitali."
+  },
+  "etymology": {
+    "ja": "ラテン語calendariumに由来し、これは各月の第1日を表すcalendaeから形成された。古代ローマでは利息や債務の期限が月初に設定されることが多かったため、calendariumはもともと債権・債務や支払期限を記録する帳簿を意味した。後に月日や年間の区分を記録する表を指すようになり、現代の「暦・カレンダー」という意味へ発達した。calendaeは日を公に告知することに関係するラテン語calāreと結び付けられる。",
+    "it": "Deriva dal latino calendarium, formato da calendae, nome del primo giorno di ciascun mese romano. Poiché gli interessi e molti pagamenti scadevano alle calende, calendarium indicava originariamente un libro nel quale venivano registrati crediti, debiti e scadenze. Il termine passò poi a designare il prospetto dei giorni e dei mesi dell’anno. Calendae è tradizionalmente collegato al verbo latino calāre, «annunciare pubblicamente»."
+  },
+  "minimal": [
+    {
+      "word": "calendario",
+      "ja": "日付を体系的に示す暦、または行事・活動を日付順に並べた日程表",
+      "it": "sistema o prospetto delle date oppure programma cronologico di eventi e attività"
+    },
+    {
+      "word": "agenda",
+      "ja": "個人の約束・会議・作業などを日ごとに記録し管理する手帳・予定表",
+      "it": "strumento cartaceo o digitale usato soprattutto per registrare appuntamenti e impegni personali"
+    },
+    {
+      "word": "programma",
+      "ja": "行事・活動の内容、順序、予定などをまとめた計画",
+      "it": "piano che presenta contenuti, ordine e svolgimento previsto di attività o manifestazioni"
+    },
+    {
+      "word": "orario",
+      "ja": "交通機関・授業・店舗などの開始・終了時刻を示す時刻表",
+      "it": "prospetto delle ore di partenza, apertura, lezione o svolgimento di un’attività"
+    },
+    {
+      "word": "scadenzario",
+      "ja": "支払い・提出・更新などの期限を日付順にまとめた一覧",
+      "it": "elenco ordinato delle date entro le quali devono essere compiuti pagamenti o adempimenti"
+    }
+  ],
+  "synonyms": [
+    "agenda",
+    "almanacco",
+    "programma",
+    "cronoprogramma",
+    "scadenzario",
+    "prospetto"
+  ],
+  "equivalents": {
+    "en": [
+      "calendar",
+      "schedule",
+      "fixture list"
+    ],
+    "de": [
+      "Kalender",
+      "Terminplan",
+      "Spielplan"
+    ],
+    "fr": [
+      "calendrier",
+      "programme",
+      "planning"
+    ],
+    "es": [
+      "calendario",
+      "programación",
+      "cronograma"
+    ]
+  },
+  "collocations": [
+    {
+      "it": "consultare il calendario",
+      "ja": "カレンダーを確認する"
+    },
+    {
+      "it": "segnare sul calendario",
+      "ja": "カレンダーに書き留める"
+    },
+    {
+      "it": "aggiungere al calendario",
+      "ja": "カレンダーに追加する"
+    },
+    {
+      "it": "calendario da parete",
+      "ja": "壁掛けカレンダー"
+    },
+    {
+      "it": "calendario da tavolo",
+      "ja": "卓上カレンダー"
+    },
+    {
+      "it": "calendario gregoriano",
+      "ja": "グレゴリオ暦"
+    },
+    {
+      "it": "calendario scolastico",
+      "ja": "学校の年間日程"
+    },
+    {
+      "it": "calendario accademico",
+      "ja": "大学の学年暦"
+    },
+    {
+      "it": "calendario sportivo",
+      "ja": "スポーツの競技日程"
+    },
+    {
+      "it": "calendario degli incontri",
+      "ja": "試合・会合の日程"
+    },
+    {
+      "it": "calendario delle scadenze",
+      "ja": "期限の一覧表"
+    },
+    {
+      "it": "rispettare il calendario",
+      "ja": "予定日程を守る"
+    }
+  ],
+  "examples": [
+    {
+      "it": "Ho appeso il calendario alla parete della cucina.",
+      "ja": "私は台所の壁にカレンダーを掛けました。"
+    },
+    {
+      "it": "Controlla sul calendario che giorno della settimana è il 15 ottobre.",
+      "ja": "10月15日が何曜日かカレンダーで確認してください。"
+    },
+    {
+      "it": "Ho segnato la visita medica sul calendario.",
+      "ja": "診察の予定をカレンダーに書き込みました。"
+    },
+    {
+      "it": "Ti invierò un invito da aggiungere al calendario digitale.",
+      "ja": "デジタルカレンダーに追加できる招待を送ります。"
+    },
+    {
+      "it": "Il calendario gregoriano è utilizzato in gran parte del mondo.",
+      "ja": "グレゴリオ暦は世界の大部分で使用されています。"
+    },
+    {
+      "it": "Il calendario islamico è un calendario lunare.",
+      "ja": "イスラム暦は太陰暦です。"
+    },
+    {
+      "it": "Il nuovo calendario scolastico indica l’inizio delle lezioni e le vacanze.",
+      "ja": "新しい学校日程には授業開始日と休暇が示されています。"
+    },
+    {
+      "it": "L’università ha pubblicato il calendario degli esami.",
+      "ja": "大学は試験日程を発表しました。"
+    },
+    {
+      "it": "Il calendario del campionato sarà annunciato domani.",
+      "ja": "リーグ戦の日程は明日発表されます。"
+    },
+    {
+      "it": "Il festival propone un calendario ricco di concerti e conferenze.",
+      "ja": "その祭典ではコンサートや講演が多数予定されています。"
+    },
+    {
+      "it": "Dobbiamo rispettare il calendario dei lavori.",
+      "ja": "私たちは作業日程を守らなければなりません。"
+    },
+    {
+      "it": "Il calendario liturgico stabilisce le feste religiose dell’anno.",
+      "ja": "典礼暦は年間の宗教上の祝祭日を定めています。"
+    },
+    {
+      "it": "Abbiamo preparato un calendario editoriale per i prossimi tre mesi.",
+      "ja": "今後3か月分の編集予定表を作成しました。"
+    },
+    {
+      "it": "Questo orologio dispone di un calendario automatico.",
+      "ja": "この時計には自動日付表示機能があります。"
+    }
+  ]
+},  
+{
   "id": "volta",
   "sid": "2026-00314",
   "word": "volta",
