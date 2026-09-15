@@ -1,1 +1,227 @@
-[]
+[
+{
+  "id": "neppure",
+  "sid": "2026-00320",
+  "word": "neppure",
+  "ipa": "/nepˈpure/",
+  "level": "A2",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "adverb_conjunction",
+    "label": {
+      "ja": "否定副詞・否定の接続表現",
+      "it": "avverbio negativo e congiunzione negativa"
+    },
+    "invariable": true,
+    "pattern": "non + verbo + neppure + elemento / neppure + elemento + verbo senza non / neppure io, tu, lui o lei / senza neppure + infinito / non... e neppure... / neppure se + frase / neppure per sogno"
+  },
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "negation",
+      "comparison",
+      "argumentation",
+      "business",
+      "emphasis"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "すでに否定された人・物・行為に別の否定を加える、～も…ない",
+      "可能性が低い、または最低限と思われる事柄まで否定する、～さえ…ない",
+      "相手の否定的な発言に同意して、自分や別の人にも当てはまることを示す、～もそうではない",
+      "二つの行為・性質などを否定的に結び付ける、そして～も…ない",
+      "senza neppureの形で、当然予想される最低限の行為さえ行わずに",
+      "neppure seの形で、ある条件が成立しても結果が変わらないことを強調する、たとえ～でも…ない",
+      "neppure per sogno、neppure per ideaなどの形で、提案や可能性を強く拒絶する、絶対に嫌だ・とんでもない",
+      "口語のneppure + 接続法の形で、実際にはそうしていないのに、まるで～したかのように"
+    ],
+    "it": [
+      "Aggiunge un elemento a una negazione precedente con il significato di neanche o nemmeno.",
+      "Esclude perfino un fatto considerato minimo, probabile o normalmente prevedibile.",
+      "In una risposta o in una frase ellittica, indica che una negazione vale anche per un’altra persona o cosa.",
+      "Collega due azioni, qualità o proposizioni entrambe negative.",
+      "Nella costruzione senza neppure, sottolinea che non è stata compiuta neanche un’azione minima o attesa.",
+      "Nella costruzione neppure se, indica che nemmeno il verificarsi di una condizione cambierebbe il risultato.",
+      "Nelle espressioni neppure per sogno, neppure per idea e neppure per scherzo, esprime un rifiuto categorico.",
+      "Colloquialmente, seguito dal congiuntivo, può introdurre un paragone irreale con valore simile a come se."
+    ]
+  },
+  "nuance": {
+    "ja": "neppureはneancheおよびnemmenoとほぼ同義で、「～も…ない」と「～さえ…ない」の両方を表す。動詞の後に置く場合は通常Non ho neppure un minutoのようにnonを伴う。一方、Neppure Marco è venutoのようにneppureを動詞より前に置くと、それ自体が文全体を否定するため通常nonは使わない。否定文への同意ではNeppure io「私もそうではない」と言える。senza neppure salutareでは、senzaが否定的な環境を作るため、別のnonは必要ない。neancheは会話で特に多く、neppureは同じ意味を保ちながら、文脈によってやや整った、または強調的な響きを持つ。",
+    "it": "Neppure è sostanzialmente sinonimo di neanche e nemmeno e può significare sia «anche non» sia «perfino non». Quando segue il verbo compare normalmente con non: Non ho neppure un minuto. Se viene anteposto al verbo come elemento negativo, non viene normalmente omesso: Neppure Marco è venuto. In una risposta ellittica, Neppure io significa che la negazione vale anche per chi parla. Dopo senza non occorre un’altra negazione: è uscito senza neppure salutare. Neanche è particolarmente frequente nella conversazione; neppure può risultare leggermente meno familiare o più sorvegliato, senza essere necessariamente formale."
+  },
+  "etymology": {
+    "ja": "否定を表す接続詞néと、副詞pure「～も、～さえ」を組み合わせて形成された。語源的には「そして～もない」「～さえない」という構造を持つ。néはラテン語nec「そして～ない、～もない」に由来し、pureはラテン語pūrē「純粋に、単に」にさかのぼる。二つの要素が一語化し、否定への追加や強調を表すneppureとなった。",
+    "it": "È formato dall’unione di né e pure. Né continua il latino nec, «e non, neanche», mentre pure deriva dal latino pūrē, originariamente «puramente, semplicemente». L’unione dei due elementi ha prodotto un avverbio con valore negativo aggiuntivo o intensivo: «anche non» e «perfino non»."
+  },
+  "minimal": [
+    {
+      "word": "neppure",
+      "ja": "否定に人・物・行為を加える「～も…ない」、または最低限の事柄まで否定する「～さえ…ない」",
+      "it": "aggiunge un elemento a una negazione oppure esclude perfino un fatto minimo"
+    },
+    {
+      "word": "neanche",
+      "ja": "neppureとほぼ同義で、特に日常会話で非常によく使われる",
+      "it": "è quasi equivalente a neppure ed è particolarmente comune nella lingua parlata"
+    },
+    {
+      "word": "nemmeno",
+      "ja": "neppure・neancheとほぼ同義で、否定への追加や強調を表す",
+      "it": "è quasi equivalente a neppure e rafforza o estende una negazione"
+    },
+    {
+      "word": "né",
+      "ja": "複数の語句・行為・性質を「～も…ない」と否定的に結ぶ",
+      "it": "coordina parole o proposizioni attribuendo a entrambe valore negativo"
+    },
+    {
+      "word": "pure",
+      "ja": "肯定文では「～も」、命令文では「どうぞ」などを表し、通常それ自体は否定ではない",
+      "it": "in contesti affermativi significa anche o esprime permesso e non possiede normalmente valore negativo"
+    }
+  ],
+  "synonyms": [
+    "neanche",
+    "nemmeno",
+    "né",
+    "non... neanche",
+    "non... nemmeno",
+    "neanche lontanamente"
+  ],
+  "equivalents": {
+    "en": [
+      "neither",
+      "not even",
+      "either",
+      "nor"
+    ],
+    "de": [
+      "auch nicht",
+      "nicht einmal",
+      "weder",
+      "noch"
+    ],
+    "fr": [
+      "non plus",
+      "même pas",
+      "ni"
+    ],
+    "es": [
+      "tampoco",
+      "ni siquiera",
+      "ni"
+    ]
+  },
+  "collocations": [
+    {
+      "it": "neppure io",
+      "ja": "私も～ない"
+    },
+    {
+      "it": "neppure lui",
+      "ja": "彼も～ない"
+    },
+    {
+      "it": "non dire neppure una parola",
+      "ja": "一言も言わない"
+    },
+    {
+      "it": "non avere neppure un minuto",
+      "ja": "一分の時間さえない"
+    },
+    {
+      "it": "non sapere neppure",
+      "ja": "～さえ知らない"
+    },
+    {
+      "it": "senza neppure salutare",
+      "ja": "挨拶さえせずに"
+    },
+    {
+      "it": "non... e neppure...",
+      "ja": "～せず、そして…もしない"
+    },
+    {
+      "it": "neppure se",
+      "ja": "たとえ～でも…ない"
+    },
+    {
+      "it": "neppure per sogno",
+      "ja": "絶対に嫌だ・とんでもない"
+    },
+    {
+      "it": "neppure per idea",
+      "ja": "全く考えられない・絶対にない"
+    },
+    {
+      "it": "neppure lontanamente",
+      "ja": "少しも・到底"
+    },
+    {
+      "it": "non pensarci neppure",
+      "ja": "そんなことは考えもしない・やめておきなさい"
+    }
+  ],
+  "examples": [
+    {
+      "it": "Non ho neppure un euro con me.",
+      "ja": "私は1ユーロさえ持っていません。"
+    },
+    {
+      "it": "Neppure Marco conosce la risposta.",
+      "ja": "マルコでさえ答えを知りません。"
+    },
+    {
+      "it": "Io non ho capito la domanda. — Neppure io.",
+      "ja": "「私は質問が分かりませんでした」「私もです」"
+    },
+    {
+      "it": "Non ha scritto e neppure ha telefonato.",
+      "ja": "彼は手紙を書かず、電話もしませんでした。"
+    },
+    {
+      "it": "È uscito senza neppure salutare.",
+      "ja": "彼は挨拶さえせずに出ていきました。"
+    },
+    {
+      "it": "Non sapeva neppure come aprire il file.",
+      "ja": "彼女はファイルの開き方さえ知りませんでした。"
+    },
+    {
+      "it": "Neppure i tecnici sono riusciti a individuare il problema.",
+      "ja": "技術者たちでさえ問題を特定できませんでした。"
+    },
+    {
+      "it": "Non accetterei quella proposta neppure se aumentassero lo stipendio.",
+      "ja": "給料を上げてもらったとしても、私はその提案を受け入れません。"
+    },
+    {
+      "it": "Il nuovo modello non è neppure lontanamente pronto.",
+      "ja": "新型モデルは完成にはほど遠い状態です。"
+    },
+    {
+      "it": "Vuoi attraversare il fiume a nuoto? — Neppure per sogno!",
+      "ja": "「泳いで川を渡りたいですか」「絶対に嫌です！」"
+    },
+    {
+      "it": "Non pensarci neppure: è troppo pericoloso.",
+      "ja": "そんなことは考えないでください。危険すぎます。"
+    },
+    {
+      "it": "Si è offeso, neppure l’avessi insultato.",
+      "ja": "私が侮辱でもしたかのように、彼は気分を害しました。"
+    }
+  ]
+}  
+]
