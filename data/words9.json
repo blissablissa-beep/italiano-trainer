@@ -209,5 +209,221 @@
       "ja": "優れた計画は、目先の将来だけでなく、さらにその先の将来も考えなければなりません。"
     }
   ]
-}
+},
+{
+  "id": "stamattina",
+  "sid": "2026-00386",
+  "word": "stamattina",
+  "ipa": "/stamatˈtina/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "時間副詞",
+      "it": "avverbio temporale"
+    },
+    "invariable": true,
+    "pattern": "stamattina + passato, presente o futuro / stamattina + ora / da, fin da, per o entro + stamattina / nome + di stamattina"
+  },
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "daily_life",
+      "work",
+      "planning",
+      "appointments",
+      "weather",
+      "travel",
+      "narration"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "話している日の朝、今朝",
+      "すでに経過した今日の朝の時間帯",
+      "現在進行中である今日の朝",
+      "まだ到来していない今日の朝の予定時刻",
+      "da stamattinaの形で、今朝を起点として現在まで",
+      "per stamattinaの形で、今朝に予定・指定されて"
+    ],
+    "it": [
+      "Nella mattina del giorno in cui si parla, questa mattina.",
+      "Nella parte già trascorsa della mattina di oggi.",
+      "Durante la mattina di oggi ancora in corso.",
+      "Nella parte della mattina di oggi che deve ancora arrivare.",
+      "Con da, a partire dalla mattina di oggi e fino al momento presente.",
+      "Con per, come momento previsto, concordato o stabilito nella mattina di oggi."
+    ]
+  },
+  "nuance": {
+    "ja": "stamattinaは発話日を基準とするため、話す時刻と動詞の時制によって時間関係が変わる。午後にStamattina ho lavoratoと言えば過去の「今朝働いた」、朝の途中でStamattina lavoro da casaと言えば「今朝は自宅で仕事をしている」、早朝にStamattina andrò in bancaと言えば「今朝これから銀行へ行く」となる。questa mattinaとほぼ完全に同義だが、stamattinaのほうが簡潔で日常的である。oggi mattinaも理解されるものの、標準的な一般表現としてはstamattinaまたはquesta mattinaがより自然である。stamaniも同義だが、特にトスカーナでよく使われ、stamaneはやや文学的に響く。stamani自体に「今朝」が含まれるため、stamani mattinaは意味が重複する。過去の物語中で、発話日ではなく物語上の特定の日の朝を指す場合はquella mattinaを使う。",
+    "it": "Stamattina è legato al giorno in cui si parla e può riferirsi al passato, al presente o al futuro secondo l’ora e il tempo verbale. Nel pomeriggio, Stamattina ho lavorato indica una mattina già trascorsa; durante la mattina, Stamattina lavoro da casa può descrivere la situazione in corso; nelle prime ore, Stamattina andrò in banca può riferirsi a un programma successivo. Questa mattina è sostanzialmente equivalente, mentre stamattina è più compatto e quotidiano. Oggi mattina è comprensibile, ma stamattina e questa mattina sono generalmente più naturali nell’italiano comune. Stamani è sinonimo ed è particolarmente diffuso in Toscana; stamane può avere un tono più letterario. Poiché stamani significa già «questa mattina», stamani mattina è ridondante. In una narrazione riferita a un giorno passato si usa normalmente quella mattina."
+  },
+  "etymology": {
+    "ja": "伝統的には、sta「この」とmattina「朝」から成る複合語と説明され、文字どおり「この朝」を意味する。歴史的には、ラテン語ista mane「この朝に」に由来するstamane・stamaniを基礎として、mattinaが重なり、または置き換わって成立したとも分析される。現代語では構成要素が一体化しているため、通常一語でstamattinaと書く。",
+    "it": "È tradizionalmente analizzato come composto di sta, «questa», e mattina, con il significato letterale di «questa mattina». Storicamente viene anche ricondotto a stamane o stamani, continuatori della locuzione latina ista mane, con sovrapposizione o sostituzione di mattina. Nell’italiano moderno gli elementi formano un’unica parola, scritta stamattina."
+  },
+  "minimal": [
+    {
+      "word": "stamattina",
+      "ja": "話している日の朝、今朝",
+      "it": "nella mattina del giorno in cui si parla"
+    },
+    {
+      "word": "questa mattina",
+      "ja": "stamattinaとほぼ同じ「今日の朝」",
+      "it": "espressione analitica sostanzialmente equivalente a stamattina"
+    },
+    {
+      "word": "stamani",
+      "ja": "今朝を表す同義語で、特にトスカーナでよく使われる",
+      "it": "sinonimo di stamattina, particolarmente diffuso in Toscana"
+    },
+    {
+      "word": "ieri mattina",
+      "ja": "今日の直前の日の朝、昨日の朝",
+      "it": "mattina del giorno precedente a oggi"
+    },
+    {
+      "word": "domani mattina",
+      "ja": "今日の直後の日の朝、明日の朝",
+      "it": "mattina del giorno successivo a oggi"
+    }
+  ],
+  "synonyms": [
+    "questa mattina",
+    "stamani",
+    "stamane"
+  ],
+  "equivalents": {
+    "en": [
+      "this morning"
+    ],
+    "de": [
+      "heute Morgen"
+    ],
+    "fr": [
+      "ce matin"
+    ],
+    "es": [
+      "esta mañana"
+    ]
+  },
+  "collocations": [
+    {
+      "it": "stamattina presto",
+      "ja": "今朝早く"
+    },
+    {
+      "it": "stamattina sul presto",
+      "ja": "今朝の早い時間に"
+    },
+    {
+      "it": "stamattina alle otto",
+      "ja": "今朝8時に"
+    },
+    {
+      "it": "proprio stamattina",
+      "ja": "ほかでもなく今朝・ちょうど今朝"
+    },
+    {
+      "it": "solo stamattina",
+      "ja": "今朝になって初めて・今朝だけ"
+    },
+    {
+      "it": "da stamattina",
+      "ja": "今朝から"
+    },
+    {
+      "it": "fin da stamattina",
+      "ja": "今朝からずっと"
+    },
+    {
+      "it": "per stamattina",
+      "ja": "今朝に向けて・今朝の予定として"
+    },
+    {
+      "it": "entro stamattina",
+      "ja": "今朝中に"
+    },
+    {
+      "it": "la riunione di stamattina",
+      "ja": "今朝の会議"
+    },
+    {
+      "it": "il treno di stamattina",
+      "ja": "今朝の列車"
+    },
+    {
+      "it": "il giornale di stamattina",
+      "ja": "今朝の新聞"
+    }
+  ],
+  "examples": [
+    {
+      "it": "Stamattina mi sono svegliato alle sei.",
+      "ja": "今朝、私は6時に目を覚ましました。"
+    },
+    {
+      "it": "Stamattina ho fatto colazione con mia moglie.",
+      "ja": "今朝、私は妻と朝食を取りました。"
+    },
+    {
+      "it": "Stamattina pioveva quando sono uscito di casa.",
+      "ja": "今朝、私が家を出たときには雨が降っていました。"
+    },
+    {
+      "it": "Stamattina lavoro da casa.",
+      "ja": "今朝は自宅で仕事をしています。"
+    },
+    {
+      "it": "Stamattina andrò in banca prima di entrare in ufficio.",
+      "ja": "今朝、事務所へ行く前に銀行へ行く予定です。"
+    },
+    {
+      "it": "Sono in ufficio da stamattina.",
+      "ja": "私は今朝から事務所にいます。"
+    },
+    {
+      "it": "Ti cerco fin da stamattina.",
+      "ja": "今朝からずっとあなたを捜しています。"
+    },
+    {
+      "it": "Il direttore mi ha chiesto il rapporto per stamattina.",
+      "ja": "責任者は今朝までに報告書を用意するよう私に求めました。"
+    },
+    {
+      "it": "Dobbiamo terminare il lavoro entro stamattina.",
+      "ja": "私たちは今朝中に仕事を終えなければなりません。"
+    },
+    {
+      "it": "Ho saputo la notizia solo stamattina.",
+      "ja": "私は今朝になって初めてその知らせを知りました。"
+    },
+    {
+      "it": "Ne abbiamo già parlato durante la riunione di stamattina.",
+      "ja": "そのことについては今朝の会議ですでに話しました。"
+    },
+    {
+      "it": "Il treno di stamattina è partito con venti minuti di ritardo.",
+      "ja": "今朝の列車は20分遅れて出発しました。"
+    },
+    {
+      "it": "Proprio stamattina pensavo di telefonarti.",
+      "ja": "ちょうど今朝、あなたに電話しようと思っていました。"
+    },
+    {
+      "it": "Stamattina fa più fresco di ieri.",
+      "ja": "今朝は昨日より涼しいです。"
+    }
+  ]
+}  
 ]
