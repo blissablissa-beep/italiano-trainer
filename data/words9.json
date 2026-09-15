@@ -1,0 +1,213 @@
+[
+{
+  "id": "dopodomani",
+  "sid": "2026-00385",
+  "word": "dopodomani",
+  "ipa": "/dopodoˈmani/",
+  "level": "A1",
+  "frequency": "common",
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "時間副詞・男性名詞的用法",
+      "it": "avverbio temporale e uso sostantivato maschile"
+    },
+    "invariable": true,
+    "pattern": "dopodomani + presente o futuro / dopodomani mattina, pomeriggio o sera / da, entro, per o fino a + dopodomani / a dopodomani / il dopodomani"
+  },
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "daily_life",
+      "planning",
+      "work",
+      "deadlines",
+      "travel",
+      "appointments",
+      "future"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "明日の次の日、今日から数えて二日後、明後日",
+      "明後日の朝・午後・夕方・夜など、その日の特定の時間帯",
+      "名詞的に、明後日という日",
+      "da dopodomani、entro dopodomaniなどの形で、明後日を開始点・期限・予定日として示す",
+      "比喩的・ややまれな用法で、目先よりも少し先の未来・長期的な将来"
+    ],
+    "it": [
+      "Il giorno immediatamente successivo a domani, cioè due giorni dopo oggi.",
+      "Una parte di tale giornata, come la mattina, il pomeriggio, la sera o la notte.",
+      "Come sostantivo, il giorno che viene dopo domani.",
+      "Con da, entro, per o fino a, il giorno assunto come punto di partenza, scadenza o data prevista.",
+      "In senso figurato e poco comune, un futuro meno immediato e una prospettiva di più lungo periodo."
+    ]
+  },
+  "nuance": {
+    "ja": "標準的な綴りは一語のdopodomaniである。現在を基準として「明後日」を表すため、今日が月曜日ならdopodomaniは水曜日になる。fra due giorniも同じ日を指すが、dopodomaniが暦上の日を直接示すのに対し、fra due giorniは「二日という時間が経過した後」という間隔を意識させる。すでに決まっている予定にはDopodomani partoのように現在形を使うことができ、未来形Dopodomani partiròも正しい。da dopodomaniは「明後日から」、entro dopodomaniは「遅くとも明後日までに」、per dopodomaniは「明後日に向けて・明後日用に」を表す。domani l’altroも同じ意味だが、特にトスカーナで使われる伝統的・地域的な表現である。posdomaniは文学的またはまれで、poidomaniは標準語とはみなされない地域形である。",
+    "it": "La grafia standard è univerbata: dopodomani. La parola indica il giorno situato due giorni dopo quello in cui si parla: se oggi è lunedì, dopodomani è mercoledì. Fra due giorni indica normalmente lo stesso giorno, ma mette maggiormente in rilievo l’intervallo di due giorni. Per un programma già stabilito si può usare il presente, Dopodomani parto, oppure il futuro, Dopodomani partirò. Da dopodomani indica un nuovo punto di partenza; entro dopodomani una scadenza; per dopodomani qualcosa di previsto o preparato per quel giorno. Domani l’altro è una variante tradizionale diffusa soprattutto in Toscana. Posdomani è letterario o raro, mentre poidomani è una forma regionale non appartenente allo standard comune."
+  },
+  "etymology": {
+    "ja": "前置詞・副詞dopo「～の後」とdomani「明日」を組み合わせて形成された複合語で、文字どおりには「明日の後」を意味する。domani自体は後期ラテン語de mane「翌朝に」に由来する。dopodomaniは、独立した時間副詞として定着したため、現代イタリア語では通常一語で書かれる。",
+    "it": "È un composto di dopo e domani e significa letteralmente «dopo domani». Domani deriva a sua volta dalla locuzione del latino tardo de mane, «nella mattina seguente». Poiché la combinazione si è stabilizzata come un unico avverbio temporale, nell’italiano moderno si scrive normalmente in una sola parola."
+  },
+  "minimal": [
+    {
+      "word": "dopodomani",
+      "ja": "明日の次の日、今日から二日後",
+      "it": "giorno immediatamente successivo a domani, cioè due giorni dopo oggi"
+    },
+    {
+      "word": "domani",
+      "ja": "今日の直後の日、明日",
+      "it": "giorno immediatamente successivo a oggi"
+    },
+    {
+      "word": "fra due giorni",
+      "ja": "現在から二日が経過した後に",
+      "it": "dopo che sarà trascorso un intervallo di due giorni"
+    },
+    {
+      "word": "domani l’altro",
+      "ja": "dopodomaniと同じ意味の伝統的・地域的表現",
+      "it": "variante tradizionale di dopodomani, diffusa soprattutto in Toscana"
+    },
+    {
+      "word": "l’indomani",
+      "ja": "すでに述べた特定の日を基準とする、その翌日",
+      "it": "giorno successivo rispetto a un giorno già menzionato"
+    }
+  ],
+  "synonyms": [
+    "fra due giorni",
+    "il giorno dopo domani",
+    "domani l’altro",
+    "posdomani"
+  ],
+  "equivalents": {
+    "en": [
+      "the day after tomorrow"
+    ],
+    "de": [
+      "übermorgen"
+    ],
+    "fr": [
+      "après-demain"
+    ],
+    "es": [
+      "pasado mañana"
+    ]
+  },
+  "collocations": [
+    {
+      "it": "dopodomani mattina",
+      "ja": "明後日の朝"
+    },
+    {
+      "it": "dopodomani pomeriggio",
+      "ja": "明後日の午後"
+    },
+    {
+      "it": "dopodomani sera",
+      "ja": "明後日の夕方・明後日の晩"
+    },
+    {
+      "it": "dopodomani alle otto",
+      "ja": "明後日の8時に"
+    },
+    {
+      "it": "entro dopodomani",
+      "ja": "明後日までに"
+    },
+    {
+      "it": "per dopodomani",
+      "ja": "明後日に向けて・明後日用に"
+    },
+    {
+      "it": "da dopodomani",
+      "ja": "明後日から"
+    },
+    {
+      "it": "fino a dopodomani",
+      "ja": "明後日まで"
+    },
+    {
+      "it": "A dopodomani!",
+      "ja": "また明後日！"
+    },
+    {
+      "it": "domani o dopodomani",
+      "ja": "明日か明後日"
+    },
+    {
+      "it": "partire dopodomani",
+      "ja": "明後日出発する"
+    },
+    {
+      "it": "pensare al dopodomani",
+      "ja": "少し先の将来について考える"
+    }
+  ],
+  "examples": [
+    {
+      "it": "Dopodomani parto per Firenze.",
+      "ja": "明後日、私はフィレンツェへ出発します。"
+    },
+    {
+      "it": "Dopodomani sarà venerdì.",
+      "ja": "明後日は金曜日です。"
+    },
+    {
+      "it": "Dopodomani mattina devo andare dal medico.",
+      "ja": "明後日の朝、医者へ行かなければなりません。"
+    },
+    {
+      "it": "Ci incontreremo dopodomani pomeriggio.",
+      "ja": "私たちは明後日の午後に会います。"
+    },
+    {
+      "it": "Il treno partirà dopodomani alle otto.",
+      "ja": "列車は明後日の8時に出発します。"
+    },
+    {
+      "it": "Puoi consegnare il rapporto entro dopodomani?",
+      "ja": "明後日までに報告書を提出できますか。"
+    },
+    {
+      "it": "Devo preparare tutto per dopodomani.",
+      "ja": "明後日に向けて、すべてを準備しなければなりません。"
+    },
+    {
+      "it": "Da dopodomani lavorerò nel nuovo ufficio.",
+      "ja": "明後日から新しい事務所で働きます。"
+    },
+    {
+      "it": "Il museo rimarrà chiuso fino a dopodomani.",
+      "ja": "その美術館は明後日まで閉館しています。"
+    },
+    {
+      "it": "Domani non posso, ma dopodomani sono libero.",
+      "ja": "明日は都合が悪いですが、明後日は空いています。"
+    },
+    {
+      "it": "Grazie per l’invito. A dopodomani!",
+      "ja": "ご招待ありがとうございます。また明後日！"
+    },
+    {
+      "it": "Fra due giorni, cioè dopodomani, comincerà il corso.",
+      "ja": "二日後、つまり明後日に講座が始まります。"
+    },
+    {
+      "it": "Un buon progetto deve pensare non soltanto al domani, ma anche al dopodomani.",
+      "ja": "優れた計画は、目先の将来だけでなく、さらにその先の将来も考えなければなりません。"
+    }
+  ]
+}
+]
