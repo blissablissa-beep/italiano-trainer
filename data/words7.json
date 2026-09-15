@@ -1,5 +1,256 @@
 [
 {
+  "id": "prenotazione",
+  "sid": "2026-00308",
+  "word": "prenotazione",
+  "ipa": "/prenotatˈtsjone/",
+  "level": "A2",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "prenotazioni",
+    "pattern": "fare una prenotazione / prenotazione di + camera, posto, viaggio o servizio / prenotazione per + numero di persone, data o finalità / prenotazione a nome di + persona / con o senza prenotazione / su prenotazione"
+  },
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "administrative"
+    ],
+    "medium": [
+      "spoken",
+      "written",
+      "online"
+    ],
+    "situations": [
+      "travel",
+      "hotel",
+      "restaurant",
+      "transport",
+      "health",
+      "events",
+      "customer_service"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "ホテル・宿泊施設の客室を利用するために事前に確保すること",
+      "レストランなどの席・テーブルを日時と人数を指定して確保すること",
+      "列車・飛行機・船・フェリーなどの座席や利用枠を事前に確保すること",
+      "劇場・美術館・催事・ツアーなどへの入場枠や参加枠を確保すること",
+      "診察・検査・行政サービスなどを受ける日時または順番を事前に確保すること",
+      "商品・サービスなどが提供される前に購入・利用の意思を示して取り置きを求めること",
+      "予約手続によって作成された、氏名・日時・人数・サービス内容などの登録情報",
+      "予約が成立したことを証明する確認書・電子メール・画面・番号など",
+      "prenotazione obbligatoriaの形で、利用のために事前予約が必須であること",
+      "su prenotazioneの形で、事前に希望を申し出た場合に限り利用・提供できること",
+      "法律用語のprenotazione a debitoで、訴訟費用などを直ちに徴収せず帳簿へ記録する手続"
+    ],
+    "it": [
+      "Atto con cui si riserva anticipatamente una camera in un albergo o in un’altra struttura ricettiva.",
+      "Atto con cui si riserva un tavolo o un certo numero di posti in un ristorante.",
+      "Riserva anticipata di un posto o di uno spazio disponibile su un treno, aereo, traghetto o altro mezzo.",
+      "Riserva di un ingresso o di un posto per uno spettacolo, un museo, una visita, un’escursione o un evento.",
+      "Procedura con cui si ottiene anticipatamente una data o una fascia oraria per una visita medica o un servizio.",
+      "Manifestazione anticipata dell’intenzione di acquistare o utilizzare un prodotto o servizio non ancora disponibile.",
+      "Registrazione risultante dalla procedura, contenente nome, data, numero di persone e servizio richiesto.",
+      "Documento, messaggio, codice o schermata che dimostra che la riserva è stata effettuata.",
+      "Nell’espressione prenotazione obbligatoria, condizione per cui il servizio non può essere utilizzato senza prenotare.",
+      "Nella locuzione su prenotazione, disponibilità di un servizio soltanto per chi lo ha richiesto anticipatamente.",
+      "Nell’espressione giuridica prenotazione a debito, annotazione di spese giudiziarie che non vengono riscosse immediatamente."
+    ]
+  },
+  "nuance": {
+    "ja": "prenotazioneは、限りのある場所・座席・時間枠などを将来の利用のために確保することを表す。appuntamentoは人や専門家と会う日時そのものに重点があり、prenotazioneはその時間枠を取得する手続や記録に重点がある。bigliettoは乗車・入場の権利を証明する券であり、座席予約とは別の場合もある。iscrizioneは講座・団体・大会などへの登録を意味し、必ずしも特定の座席や時間を確保しない。予約した人はa nome diで示し、Ho una prenotazione a nome di Tanakaと言う。予約の取消しにはcancellareのほか、特に予約や契約を取り消すdisdireもよく使われる。",
+    "it": "Prenotazione indica la riserva anticipata di una disponibilità limitata, come una camera, un tavolo, un posto o una fascia oraria. Appuntamento mette in rilievo il momento stabilito per incontrare una persona o ricevere una prestazione; prenotazione il procedimento o la registrazione con cui quel momento viene ottenuto. Biglietto è il titolo che consente di viaggiare o entrare e può essere distinto dalla prenotazione del posto. Iscrizione registra la partecipazione a un corso, un’associazione o una competizione senza necessariamente assegnare un posto preciso. Il nome dell’intestatario è introdotto da a nome di. Disdire una prenotazione significa comunicarne formalmente la cancellazione."
+  },
+  "etymology": {
+    "ja": "後期ラテン語praenotatio、属格praenotationisに由来し、動詞praenotare「前もって記す・印を付ける」から形成された。praenotareはprae-「前に・あらかじめ」とnotare「記す・印を付ける」から成る。将来の利用者や購入者の名前を事前に記録しておくことから、座席・部屋・サービスなどをあらかじめ確保するという現代的な意味が生まれた。prenotare、prenotatoも同じ語族に属する。",
+    "it": "Deriva dal latino tardo praenotatio, genitivo praenotationis, formato dal verbo praenotare, «annotare o contrassegnare in anticipo». Praenotare è composto da prae-, «prima», e notare, «segnare, scrivere». Dall’idea di registrare anticipatamente il nome di una persona si è sviluppato il significato moderno di riservare un posto, una camera o un servizio. Appartengono alla stessa famiglia prenotare e prenotato."
+  },
+  "minimal": [
+    {
+      "word": "prenotazione",
+      "ja": "将来利用する部屋・座席・時間枠などを事前に確保する手続または記録",
+      "it": "procedura o registrazione con cui si riserva anticipatamente una disponibilità"
+    },
+    {
+      "word": "appuntamento",
+      "ja": "人や専門家と特定の日時・場所で会う約束",
+      "it": "accordo per incontrare una persona o ricevere una prestazione in un momento stabilito"
+    },
+    {
+      "word": "biglietto",
+      "ja": "交通機関の利用や施設・催事への入場を認める券",
+      "it": "titolo che consente di utilizzare un trasporto o accedere a un luogo o evento"
+    },
+    {
+      "word": "iscrizione",
+      "ja": "講座・大会・団体・名簿などへ氏名や情報を登録すること",
+      "it": "registrazione di una persona a un corso, una competizione, un’associazione o un elenco"
+    },
+    {
+      "word": "preordine",
+      "ja": "まだ発売・提供されていない商品を事前に注文すること",
+      "it": "ordine effettuato prima che un prodotto sia disponibile o ufficialmente messo in vendita"
+    }
+  ],
+  "synonyms": [
+    "riserva",
+    "booking",
+    "registrazione",
+    "appuntamento",
+    "iscrizione",
+    "preordine"
+  ],
+  "equivalents": {
+    "en": [
+      "reservation",
+      "booking",
+      "appointment booking",
+      "reservation confirmation"
+    ],
+    "de": [
+      "Reservierung",
+      "Buchung",
+      "Terminvereinbarung",
+      "Buchungsbestätigung"
+    ],
+    "fr": [
+      "réservation",
+      "prise de rendez-vous",
+      "confirmation de réservation"
+    ],
+    "es": [
+      "reserva",
+      "reservación",
+      "cita previa",
+      "confirmación de reserva"
+    ]
+  },
+  "collocations": [
+    {
+      "it": "fare una prenotazione",
+      "ja": "予約する"
+    },
+    {
+      "it": "confermare una prenotazione",
+      "ja": "予約を確定・確認する"
+    },
+    {
+      "it": "modificare una prenotazione",
+      "ja": "予約内容を変更する"
+    },
+    {
+      "it": "cancellare una prenotazione",
+      "ja": "予約を取り消す"
+    },
+    {
+      "it": "disdire una prenotazione",
+      "ja": "予約を正式にキャンセルする"
+    },
+    {
+      "it": "prenotazione online",
+      "ja": "オンライン予約"
+    },
+    {
+      "it": "prenotazione obbligatoria",
+      "ja": "予約必須"
+    },
+    {
+      "it": "senza prenotazione",
+      "ja": "予約なしで"
+    },
+    {
+      "it": "su prenotazione",
+      "ja": "予約制で"
+    },
+    {
+      "it": "prenotazione a nome di",
+      "ja": "～名義の予約"
+    },
+    {
+      "it": "codice di prenotazione",
+      "ja": "予約コード・予約番号"
+    },
+    {
+      "it": "conferma di prenotazione",
+      "ja": "予約確認書・予約確認通知"
+    }
+  ],
+  "examples": [
+    {
+      "it": "Vorrei fare una prenotazione per due notti.",
+      "ja": "2泊の予約をしたいのですが。"
+    },
+    {
+      "it": "Abbiamo una prenotazione per due persone alle otto.",
+      "ja": "8時に2名で予約しています。"
+    },
+    {
+      "it": "Ho prenotato un posto sul treno, ma devo ancora comprare il biglietto.",
+      "ja": "列車の座席は予約しましたが、切符はまだ購入していません。"
+    },
+    {
+      "it": "La prenotazione del traghetto comprende anche il trasporto dell’auto.",
+      "ja": "フェリーの予約には自動車の輸送も含まれています。"
+    },
+    {
+      "it": "La visita medica richiede una prenotazione.",
+      "ja": "診察には予約が必要です。"
+    },
+    {
+      "it": "L’ingresso al museo è gratuito, ma la prenotazione è obbligatoria.",
+      "ja": "美術館への入場は無料ですが、予約が必要です。"
+    },
+    {
+      "it": "Ho effettuato la prenotazione online.",
+      "ja": "オンラインで予約手続きをしました。"
+    },
+    {
+      "it": "Ho ricevuto la conferma della prenotazione per posta elettronica.",
+      "ja": "電子メールで予約確認を受け取りました。"
+    },
+    {
+      "it": "Buonasera, ho una prenotazione a nome di Tanaka.",
+      "ja": "こんばんは、タナカ名義で予約しています。"
+    },
+    {
+      "it": "Vorrei modificare la data della prenotazione.",
+      "ja": "予約日を変更したいのですが。"
+    },
+    {
+      "it": "Puoi cancellare la prenotazione senza costi entro domani.",
+      "ja": "明日までなら無料で予約を取り消せます。"
+    },
+    {
+      "it": "Il ristorante accetta clienti anche senza prenotazione.",
+      "ja": "そのレストランは予約なしの客も受け入れています。"
+    },
+    {
+      "it": "Le visite guidate sono disponibili soltanto su prenotazione.",
+      "ja": "ガイド付き見学は予約した場合に限り利用できます。"
+    },
+    {
+      "it": "Mostri il codice di prenotazione al banco, per favore.",
+      "ja": "受付で予約コードを提示してください。"
+    },
+    {
+      "it": "La prenotazione del nuovo prodotto è iniziata ieri.",
+      "ja": "新商品の事前予約は昨日始まりました。"
+    },
+    {
+      "it": "In alcuni procedimenti le spese possono essere registrate mediante prenotazione a debito.",
+      "ja": "一部の手続では、費用を国庫立替えの帳簿記録によって処理できる場合があります。"
+    }
+  ]
+},  
+{
   "id": "traghetto",
   "sid": "2026-00309",
   "word": "traghetto",
