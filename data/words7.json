@@ -1,5 +1,247 @@
 [
 {
+  "id": "riunione",
+  "sid": "2026-00311",
+  "word": "riunione",
+  "ipa": "/rjuˈnjone/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "riunioni",
+    "pattern": "la riunione / le riunioni / riunione di + persone, organo o tipo / riunione su o per + argomento o finalità / riunione con + partecipanti / partecipare a una riunione / essere in riunione"
+  },
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "legal"
+    ],
+    "medium": [
+      "spoken",
+      "written",
+      "online"
+    ],
+    "situations": [
+      "business",
+      "work",
+      "education",
+      "family",
+      "politics",
+      "organizations",
+      "sport"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "複数の人が共通の目的のために集まり、情報交換・協議・決定などを行うこと",
+      "職場で業務・計画・問題などについて話し合う会議",
+      "会社・委員会・団体などの構成員が招集され、正式に協議または決議する会合",
+      "友人・家族・同窓生などが交流や再会のために集まること",
+      "オンライン会議システムを通じて遠隔地の参加者が行う会議",
+      "会議や集会に参加している人々の集合体",
+      "離れていた人々が再び一緒になること・再会・再結合",
+      "分離されていた地域・組織・物などを再び一つにまとめること",
+      "スポーツで、同じ種目の一連の試合・競技をまとめて開催する競技会",
+      "libertà di riunioneの形で、人々が平和的に集会を開くことのできる法的権利"
+    ],
+    "it": [
+      "Incontro organizzato di più persone che si riuniscono per discutere, informarsi o prendere decisioni.",
+      "Incontro di lavoro dedicato all’esame di attività, progetti, problemi o risultati.",
+      "Seduta convocata per consentire ai membri di un’impresa, un comitato o un’organizzazione di discutere e deliberare.",
+      "Incontro di familiari, amici o ex compagni che si ritrovano per stare insieme.",
+      "Incontro svolto a distanza mediante una piattaforma di comunicazione digitale.",
+      "Insieme delle persone che partecipano a un incontro organizzato.",
+      "Ricongiungimento di persone precedentemente separate o lontane.",
+      "Operazione mediante la quale territori, organizzazioni o elementi separati vengono nuovamente uniti.",
+      "In ambito sportivo, manifestazione comprendente una gara o una serie di gare della stessa specialità.",
+      "Nell’espressione libertà di riunione, diritto di riunirsi pacificamente in un luogo privato, aperto al pubblico o pubblico."
+    ]
+  },
+  "nuance": {
+    "ja": "riunioneは通常、複数人があらかじめ定められた目的のために集まる会合を表す。incontroは二人だけの面談、偶然の出会い、外交会談、スポーツの対戦などにも使える、より広い語である。assembleaは団体の構成員が多数参加し、正式な討議・決議を行う集会を表すことが多い。conferenzaは講演者が聴衆に向けて発表する形式に重点がある。appuntamentoは会う日時の約束そのものを表し、会議とは限らない。essere in riunioneは「会議中で応対できない」、tenere una riunioneは「会議を開催する」を意味する。",
+    "it": "Riunione indica normalmente un incontro organizzato di più persone con uno scopo comune. Incontro è più ampio e può riferirsi anche a due persone, a un incontro casuale, a un colloquio diplomatico o a una competizione sportiva. Assemblea suggerisce spesso una partecipazione più numerosa e una procedura formale di discussione o deliberazione. Conferenza mette in rilievo la presentazione di uno o più relatori davanti a un pubblico. Appuntamento indica l’accordo di incontrarsi in un determinato momento e non necessariamente una riunione. Essere in riunione significa essere impegnati e normalmente non disponibili."
+  },
+  "etymology": {
+    "ja": "ri-「再び・一緒に」とunione「結合」を組み合わせた語で、動詞riunire「再び一つにする・人々を集める」と同じ語族に属する。unioneはラテン語unio、属格unionis「一体性・結合」に由来し、その基礎にはunus「一つ」がある。当初の「離れていたものを再び一つにする」という意味から、人々が同じ場所に集まり協議する会合そのものを表すようになった。フランス語réunionも同じラテン語系統に属する。",
+    "it": "È formato da ri-, con valore di ripetizione o ricomposizione, e unione ed è strettamente collegato al verbo riunire. Unione deriva dal latino unio, genitivo unionis, «unità, unione», formato sulla base di unus, «uno». Dal significato originario di ricomporre elementi o persone separati si è sviluppato quello moderno di incontro organizzato. Il francese réunion appartiene alla stessa famiglia e ha contribuito alla diffusione degli usi moderni."
+  },
+  "minimal": [
+    {
+      "word": "riunione",
+      "ja": "複数の人が共通の目的で集まり、話し合いや情報交換を行う会合",
+      "it": "incontro organizzato di più persone per discutere, informarsi o decidere"
+    },
+    {
+      "word": "incontro",
+      "ja": "二人以上が会うこと全般で、偶然の出会い・面談・対戦にも使える",
+      "it": "termine generale per il fatto di incontrarsi, anche casualmente o tra due sole persone"
+    },
+    {
+      "word": "assemblea",
+      "ja": "団体の構成員などが多数集まり、正式に討議・決議する集会",
+      "it": "riunione formale di membri convocati per discutere e deliberare"
+    },
+    {
+      "word": "conferenza",
+      "ja": "一人または複数の発表者が聴衆に向けて説明・講演する会合",
+      "it": "incontro nel quale uno o più relatori presentano un argomento a un pubblico"
+    },
+    {
+      "word": "appuntamento",
+      "ja": "特定の日時・場所で人と会う約束、またはその予定",
+      "it": "accordo per incontrarsi in un luogo e in un momento determinati"
+    }
+  ],
+  "synonyms": [
+    "incontro",
+    "assemblea",
+    "seduta",
+    "adunanza",
+    "raduno",
+    "ricongiungimento"
+  ],
+  "equivalents": {
+    "en": [
+      "meeting",
+      "gathering",
+      "reunion",
+      "assembly"
+    ],
+    "de": [
+      "Besprechung",
+      "Sitzung",
+      "Treffen",
+      "Wiedervereinigung"
+    ],
+    "fr": [
+      "réunion",
+      "séance",
+      "rassemblement",
+      "réunification"
+    ],
+    "es": [
+      "reunión",
+      "junta",
+      "encuentro",
+      "reunificación"
+    ]
+  },
+  "collocations": [
+    {
+      "it": "convocare una riunione",
+      "ja": "会議を招集する"
+    },
+    {
+      "it": "organizzare una riunione",
+      "ja": "会議を設定・準備する"
+    },
+    {
+      "it": "tenere una riunione",
+      "ja": "会議を開催する"
+    },
+    {
+      "it": "partecipare a una riunione",
+      "ja": "会議に出席する"
+    },
+    {
+      "it": "presiedere una riunione",
+      "ja": "会議の議長を務める"
+    },
+    {
+      "it": "rinviare una riunione",
+      "ja": "会議を延期する"
+    },
+    {
+      "it": "annullare una riunione",
+      "ja": "会議を中止する"
+    },
+    {
+      "it": "essere in riunione",
+      "ja": "会議中である"
+    },
+    {
+      "it": "riunione di lavoro",
+      "ja": "仕事上の会議"
+    },
+    {
+      "it": "riunione online",
+      "ja": "オンライン会議"
+    },
+    {
+      "it": "riunione di famiglia",
+      "ja": "家族の集まり"
+    },
+    {
+      "it": "verbale della riunione",
+      "ja": "会議議事録"
+    }
+  ],
+  "examples": [
+    {
+      "it": "Abbiamo una riunione alle dieci.",
+      "ja": "私たちは10時に会議があります。"
+    },
+    {
+      "it": "Il direttore ha convocato una riunione urgente.",
+      "ja": "責任者は緊急会議を招集しました。"
+    },
+    {
+      "it": "Domani terranno una riunione per discutere il nuovo progetto.",
+      "ja": "明日、新しいプロジェクトについて話し合う会議が開かれます。"
+    },
+    {
+      "it": "Tutti i responsabili devono partecipare alla riunione.",
+      "ja": "すべての責任者が会議に出席しなければなりません。"
+    },
+    {
+      "it": "La riunione è stata rinviata alla prossima settimana.",
+      "ja": "会議は来週に延期されました。"
+    },
+    {
+      "it": "Mi dispiace, la direttrice è in riunione.",
+      "ja": "申し訳ありませんが、部長は会議中です。"
+    },
+    {
+      "it": "La riunione si svolgerà online.",
+      "ja": "会議はオンラインで行われます。"
+    },
+    {
+      "it": "Durante la riunione abbiamo esaminato il calendario dei lavori.",
+      "ja": "会議中、私たちは作業日程を検討しました。"
+    },
+    {
+      "it": "Puoi inviarmi il verbale della riunione?",
+      "ja": "会議の議事録を送ってもらえますか。"
+    },
+    {
+      "it": "Ogni estate organizziamo una grande riunione di famiglia.",
+      "ja": "毎年夏に、私たちは大きな家族の集まりを開きます。"
+    },
+    {
+      "it": "La riunione ha respinto la proposta a maggioranza.",
+      "ja": "会議の参加者は多数決でその提案を否決しました。"
+    },
+    {
+      "it": "Il trattato rese possibile la riunione delle due regioni.",
+      "ja": "その条約によって二つの地域の再統合が可能になりました。"
+    },
+    {
+      "it": "La riunione di pugilato comprende cinque incontri.",
+      "ja": "そのボクシング興行では5試合が行われます。"
+    },
+    {
+      "it": "La costituzione tutela la libertà di riunione pacifica.",
+      "ja": "憲法は平和的な集会の自由を保障しています。"
+    }
+  ]
+},  
+{
   "id": "orario",
   "sid": "2026-00312",
   "word": "orario",
