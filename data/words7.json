@@ -1,5 +1,251 @@
 [
 {
+  "id": "negozio",
+  "sid": "2026-00315",
+  "word": "negozio",
+  "ipa": "/neˈɡɔttsjo/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞／negoziareの直説法現在一人称単数",
+      "it": "sostantivo maschile / prima persona singolare dell’indicativo presente di negoziare"
+    },
+    "gender": "masculine",
+    "plural": "negozi",
+    "pattern": "il negozio / i negozi / negozio di + prodotto o settore / andare, entrare o lavorare in negozio / aprire, gestire o chiudere un negozio / negozio giuridico / io negozio + oggetto"
+  },
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "legal",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "shopping",
+      "business",
+      "commerce",
+      "law",
+      "employment",
+      "online_shopping"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "商品を陳列し、一般の客に販売する店舗・小売店",
+      "店舗内で営まれる商売、またはその店舗を基盤とする事業",
+      "ウェブサイトやアプリを通じて商品を販売するオンライン店舗",
+      "商品・財産などの売買や交換に関する取引・商談",
+      "利益または損失の観点から評価される、得な取引または損な取引",
+      "法律上の効果を生じさせることを目的とした意思表示または法律行為",
+      "negozio unilaterale、bilateraleなどの形で、一人または複数人の意思に基づく法律行為",
+      "古風・文学的用法で、仕事・活動・用務",
+      "トスカーナ地方の冗談めいた用法で、名前を特定しない物・事柄",
+      "動詞negoziareの形として、私は価格・契約条件などについて交渉する"
+    ],
+    "it": [
+      "Locale nel quale le merci vengono esposte e vendute direttamente al pubblico.",
+      "Attività commerciale esercitata all’interno di un locale destinato alla vendita.",
+      "Spazio commerciale digitale attraverso il quale vengono venduti prodotti o servizi.",
+      "Operazione commerciale o affare relativo alla vendita, all’acquisto o allo scambio di beni.",
+      "Affare considerato vantaggioso o svantaggioso dal punto di vista economico.",
+      "Nel diritto, manifestazione di volontà destinata a costituire, modificare o estinguere un rapporto giuridico.",
+      "Nelle espressioni negozio unilaterale e negozio bilaterale, atto fondato sulla volontà di uno o più soggetti.",
+      "Nell’uso antico o letterario, attività, occupazione o incombenza.",
+      "Nell’uso regionale toscano e scherzoso, cosa o oggetto che non si sa o non si vuole nominare precisamente.",
+      "Come forma di negoziare, significa che il soggetto io tratta un prezzo, un contratto o altre condizioni."
+    ]
+  },
+  "nuance": {
+    "ja": "現代語で文脈なしにnegozioと言えば、通常は商品を販売する「店」を指す。andare in negozioは「店へ行く・出勤する」、essere in negozioは「店内にいる」、entrare nel negozioは特定の店の中へ入ることを表す。bottegaは小規模な店、職人の工房、昔ながらの商店という印象を持つことがあり、supermercatoは主に食料品などを扱う大型のセルフサービス店である。negozioは建物だけでなく、aprire un negozioやgestire un negozioのように商売そのものも指す。法律用語negozio giuridicoは「法律上の店舗」ではなく、意思表示によって法律効果を生じさせる法律行為を意味する。動詞のIo negozio il prezzoでは、語義も発音も名詞と同じ形になる。",
+    "it": "Nell’italiano contemporaneo, senza altre indicazioni, negozio designa normalmente un punto vendita. Andare in negozio può significare recarsi nel locale come cliente oppure andare al proprio posto di lavoro; entrare nel negozio mette in rilievo l’ingresso in un esercizio determinato. Bottega suggerisce spesso un’attività piccola, tradizionale o artigianale; supermercato indica un grande esercizio prevalentemente alimentare e a libero servizio. Negozio può riferirsi sia al locale sia all’attività economica che vi viene esercitata. Nel linguaggio giuridico, negozio giuridico non indica un esercizio commerciale, ma un atto di autonomia privata destinato a produrre effetti giuridici. Io negozio è invece una forma del verbo negoziare."
+  },
+  "etymology": {
+    "ja": "ラテン語negotium「仕事、用務、取引」に由来する。negotiumは否定を表すnecまたはneと、otium「余暇、休息、活動から離れた時間」から形成され、語源的には「余暇ではないこと」を意味した。そこから仕事・公務・取引という意味が生じ、イタリア語では商取引を経て、商品を販売する場所そのものを表すようになった。negoziare、negoziato、negoziazione、negozianteも同じ語族に属する。",
+    "it": "Deriva dal latino negotium, «attività, occupazione, affare o commercio», formato da un elemento negativo, nec o ne, e otium, «ozio, riposo, tempo libero». Il significato originario era quindi «ciò che non è ozio», ossia attività o impegno. Dal valore di affare e operazione commerciale si è sviluppato quello moderno di locale destinato alla vendita. Appartengono alla stessa famiglia negoziare, negoziato, negoziazione e negoziante."
+  },
+  "minimal": [
+    {
+      "word": "negozio",
+      "ja": "商品を客に販売する店舗、またはそこで営まれる商売",
+      "it": "locale destinato alla vendita al pubblico oppure attività commerciale che vi si svolge"
+    },
+    {
+      "word": "bottega",
+      "ja": "小規模な商店、職人の作業場、または昔ながらの専門店",
+      "it": "piccolo esercizio commerciale o laboratorio nel quale lavora un artigiano"
+    },
+    {
+      "word": "supermercato",
+      "ja": "食料品や日用品を中心に扱う、比較的大型のセルフサービス店",
+      "it": "grande esercizio a libero servizio che vende soprattutto alimentari e prodotti quotidiani"
+    },
+    {
+      "word": "attività commerciale",
+      "ja": "商品の販売やサービス提供を行う事業・営業活動",
+      "it": "impresa o attività economica fondata sulla vendita di beni o sulla prestazione di servizi"
+    },
+    {
+      "word": "locale",
+      "ja": "商店・飲食店・事務所などに使用される物理的な建物または部屋",
+      "it": "spazio fisico o ambiente destinato a un’attività commerciale, professionale o pubblica"
+    }
+  ],
+  "synonyms": [
+    "bottega",
+    "esercizio commerciale",
+    "punto vendita",
+    "attività commerciale",
+    "affare",
+    "operazione commerciale"
+  ],
+  "equivalents": {
+    "en": [
+      "shop",
+      "store",
+      "business",
+      "deal",
+      "legal transaction"
+    ],
+    "de": [
+      "Geschäft",
+      "Laden",
+      "Handel",
+      "Geschäftsvorgang",
+      "Rechtsgeschäft"
+    ],
+    "fr": [
+      "magasin",
+      "commerce",
+      "affaire",
+      "transaction",
+      "acte juridique"
+    ],
+    "es": [
+      "tienda",
+      "comercio",
+      "negocio",
+      "transacción",
+      "negocio jurídico"
+    ]
+  },
+  "collocations": [
+    {
+      "it": "andare in negozio",
+      "ja": "店へ行く・店に出勤する"
+    },
+    {
+      "it": "entrare in un negozio",
+      "ja": "店に入る"
+    },
+    {
+      "it": "aprire un negozio",
+      "ja": "店を開業する・開店する"
+    },
+    {
+      "it": "chiudere il negozio",
+      "ja": "店を閉める・廃業する"
+    },
+    {
+      "it": "gestire un negozio",
+      "ja": "店を経営する"
+    },
+    {
+      "it": "negozio di abbigliamento",
+      "ja": "衣料品店"
+    },
+    {
+      "it": "negozio di alimentari",
+      "ja": "食料品店"
+    },
+    {
+      "it": "negozio online",
+      "ja": "オンラインショップ"
+    },
+    {
+      "it": "orario di apertura del negozio",
+      "ja": "店の営業時間"
+    },
+    {
+      "it": "catena di negozi",
+      "ja": "チェーン店"
+    },
+    {
+      "it": "fare un buon negozio",
+      "ja": "有利な取引をする"
+    },
+    {
+      "it": "negozio giuridico",
+      "ja": "法律行為"
+    }
+  ],
+  "examples": [
+    {
+      "it": "Questo negozio vende prodotti italiani.",
+      "ja": "この店ではイタリア製品を販売しています。"
+    },
+    {
+      "it": "Devo andare in negozio a comprare un pettine.",
+      "ja": "くしを買いに店へ行かなければなりません。"
+    },
+    {
+      "it": "Sono entrato nel negozio, ma non ho comprato niente.",
+      "ja": "その店に入りましたが、何も買いませんでした。"
+    },
+    {
+      "it": "Il negozio apre alle nove e chiude alle sette.",
+      "ja": "その店は9時に開き、7時に閉まります。"
+    },
+    {
+      "it": "Mia sorella gestisce un piccolo negozio di abbigliamento.",
+      "ja": "姉は小さな衣料品店を経営しています。"
+    },
+    {
+      "it": "L’anno scorso hanno aperto tre nuovi negozi.",
+      "ja": "昨年、彼らは新しい店舗を3店開きました。"
+    },
+    {
+      "it": "Ho ordinato il prodotto dal negozio online dell’azienda.",
+      "ja": "その会社のオンラインショップで商品を注文しました。"
+    },
+    {
+      "it": "Questa catena di negozi è presente in tutta Italia.",
+      "ja": "このチェーン店はイタリア全土に展開しています。"
+    },
+    {
+      "it": "Ha comprato la casa a un prezzo basso e ha fatto un buon negozio.",
+      "ja": "彼はその家を安く購入し、有利な取引をしました。"
+    },
+    {
+      "it": "La vendita si è rivelata un cattivo negozio per entrambe le parti.",
+      "ja": "その売却は双方にとって不利な取引だったことが分かりました。"
+    },
+    {
+      "it": "Il contratto è un negozio giuridico bilaterale.",
+      "ja": "契約は二者の意思に基づく法律行為です。"
+    },
+    {
+      "it": "Il testamento è generalmente classificato come negozio unilaterale.",
+      "ja": "遺言は一般に単独行為として分類されます。"
+    },
+    {
+      "it": "Nel testo antico, negozio significa attività o occupazione.",
+      "ja": "その古い文章では、negozioは仕事または活動を意味します。"
+    },
+    {
+      "it": "Io negozio direttamente il prezzo con il fornitore.",
+      "ja": "私は供給業者と価格を直接交渉します。"
+    }
+  ]
+},  
+{
   "id": "negoziato",
   "sid": "2026-00316",
   "word": "negoziato",
