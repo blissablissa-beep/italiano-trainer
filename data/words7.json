@@ -1,5 +1,265 @@
 [
 {
+  "id": "orario",
+  "sid": "2026-00312",
+  "word": "orario",
+  "ipa": "/oˈrarjo/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "noun_adjective",
+    "label": {
+      "ja": "男性名詞・形容詞",
+      "it": "sostantivo maschile e aggettivo"
+    },
+    "gender": "masculine",
+    "plural": "orari",
+    "adjectiveForms": [
+      "orario",
+      "oraria",
+      "orari",
+      "orarie"
+    ],
+    "pattern": "l’orario / gli orari / orario di + attività, apertura, chiusura, partenza o arrivo / essere o arrivare in orario / fuori orario / nome + orario, oraria, orari o orarie"
+  },
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "work",
+      "transport",
+      "education",
+      "shopping",
+      "planning",
+      "travel"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "活動・行事・交通機関などが開始または終了するものとして定められた時刻",
+      "店舗・事務所・公共施設などが営業または利用可能である時間帯",
+      "一日に仕事を開始・終了する時刻、および勤務する時間の範囲",
+      "授業・会議・業務などの時刻と順序を示した時間割・予定表",
+      "列車・バス・船・飛行機などの出発・到着時刻をまとめた時刻表",
+      "in orarioの形で、予定されていた時刻どおりに・遅れずに",
+      "fuori orarioの形で、通常または規定された営業時間・勤務時間外に",
+      "形容詞として、時間または一時間という測定単位に関する",
+      "報酬・料金・速度などが一時間を基準として計算された",
+      "一定の行為・変化などが一時間ごとに行われる",
+      "senso orarioの形で、時計の針と同じ回転方向・右回り",
+      "fuso orarioの形で、共通の標準時を使用する地理的な時間帯",
+      "lancetta orariaの形で、時計の時を示す短針"
+    ],
+    "it": [
+      "Ora stabilita per l’inizio o la conclusione di un’attività, un evento o un servizio.",
+      "Periodo della giornata durante il quale un negozio, un ufficio o una struttura è aperto e accessibile.",
+      "Insieme delle ore di inizio, fine e durata della giornata lavorativa.",
+      "Prospetto che distribuisce lezioni, riunioni o attività secondo ore e ordine prestabiliti.",
+      "Tabella che indica gli orari di partenza e di arrivo dei mezzi di trasporto.",
+      "Nella locuzione in orario, all’ora prevista e senza ritardo.",
+      "Nella locuzione fuori orario, oltre o al di fuori delle ore normalmente stabilite.",
+      "Come aggettivo, relativo all’ora o all’ora considerata come unità di misura.",
+      "Calcolato o determinato sulla base di ciascuna ora, con riferimento a compensi, tariffe o velocità.",
+      "Che avviene o si ripete ogni ora.",
+      "Nell’espressione senso orario, direzione corrispondente al movimento delle lancette di un orologio.",
+      "Nell’espressione fuso orario, zona geografica nella quale viene adottata la stessa ora convenzionale.",
+      "Nell’espressione lancetta oraria, lancetta che indica le ore."
+    ]
+  },
+  "nuance": {
+    "ja": "oraは特定の時刻または60分という時間単位を表すのに対し、orarioは活動について設定された時刻・時間帯、またはそれらをまとめた表を指す。現在時刻を尋ねる場合はChe ora è?と言い、通常Che orario è?とは言わない。A che ora parte il treno?は一つの列車の出発時刻を尋ね、Qual è l’orario dei treni?は時刻表または複数の運行時刻を尋ねる。in orarioは「予定時刻どおり」、puntualeは時間を守る人・乗り物・行為の性質を表す。形容詞のorarioは名詞に一致し、tariffa oraria、salario orario、fasce orarieとなる。",
+    "it": "Ora indica un momento preciso della giornata oppure un’unità di sessanta minuti; orario indica invece l’ora stabilita per un’attività, un intervallo regolato o il prospetto che raccoglie più ore. Per chiedere l’ora corrente si dice Che ora è?, non normalmente Che orario è?. A che ora parte il treno? domanda l’ora di una singola partenza; Qual è l’orario dei treni? può riferirsi all’intero prospetto delle partenze. In orario significa «all’ora prevista», mentre puntuale descrive una persona, un mezzo o un evento che rispetta l’ora stabilita. Come aggettivo, orario concorda con il nome: tariffa oraria, salario orario, fasce orarie."
+  },
+  "etymology": {
+    "ja": "中世ラテン語horarium「時間に関するもの、時刻表」に由来し、その基礎にはラテン語hora「時・時間」がある。horaは古代ギリシア語hṓra「季節、時期、時間」から借用された。時間を区切る単位を表す語から、活動ごとに定められた時刻、その一覧表、一時間を基準とする形容詞という意味が発達した。イタリア語では語頭のhは発音されず、現代の綴りではorarioとなっている。",
+    "it": "Deriva dal latino medievale horarium, formato sulla base di hora, «ora, momento del giorno». Hora era stato a sua volta preso dal greco antico hṓra, «stagione, periodo, momento». Dal riferimento alle ore si sono sviluppati i significati di tempo stabilito, prospetto delle attività e misura calcolata su base oraria. Nell’evoluzione italiana l’h iniziale, non pronunciata, è scomparsa anche dalla grafia."
+  },
+  "minimal": [
+    {
+      "word": "orario",
+      "ja": "活動・営業・交通などについて定められた時刻・時間帯、またはその一覧",
+      "it": "ora o insieme di ore stabilite per attività, servizi, lavoro o trasporti"
+    },
+    {
+      "word": "ora",
+      "ja": "時計が示す特定の時刻、または60分から成る時間単位",
+      "it": "momento indicato dall’orologio oppure unità di tempo pari a sessanta minuti"
+    },
+    {
+      "word": "calendario",
+      "ja": "日・月・年を示す暦、または行事を日付順に配置した年間日程",
+      "it": "sistema delle date oppure programma di attività distribuite per giorni e mesi"
+    },
+    {
+      "word": "programma",
+      "ja": "行事・活動の内容、順序、日時などをまとめた計画",
+      "it": "piano che stabilisce contenuti, ordine e tempi di attività o eventi"
+    },
+    {
+      "word": "turno",
+      "ja": "交替制などによって個人や集団に割り当てられた勤務時間・順番",
+      "it": "periodo di lavoro o posizione in una successione assegnati secondo un sistema di alternanza"
+    }
+  ],
+  "synonyms": [
+    "tabella",
+    "prospetto",
+    "programma",
+    "fascia oraria",
+    "turno",
+    "piano"
+  ],
+  "equivalents": {
+    "en": [
+      "schedule",
+      "timetable",
+      "hours",
+      "hourly",
+      "clockwise"
+    ],
+    "de": [
+      "Zeitplan",
+      "Fahrplan",
+      "Öffnungszeiten",
+      "stündlich",
+      "im Uhrzeigersinn"
+    ],
+    "fr": [
+      "horaire",
+      "emploi du temps",
+      "heures d’ouverture",
+      "horaire",
+      "dans le sens des aiguilles d’une montre"
+    ],
+    "es": [
+      "horario",
+      "horas de apertura",
+      "por hora",
+      "sentido horario"
+    ]
+  },
+  "collocations": [
+    {
+      "it": "orario di lavoro",
+      "ja": "勤務時間"
+    },
+    {
+      "it": "orario d’ufficio",
+      "ja": "事務所の営業時間・勤務時間"
+    },
+    {
+      "it": "orario di apertura",
+      "ja": "開店・開館時刻"
+    },
+    {
+      "it": "orario di chiusura",
+      "ja": "閉店・閉館時刻"
+    },
+    {
+      "it": "orario dei treni",
+      "ja": "列車時刻表"
+    },
+    {
+      "it": "orario scolastico",
+      "ja": "学校の時間割"
+    },
+    {
+      "it": "orario flessibile",
+      "ja": "フレックスタイム・柔軟な勤務時間"
+    },
+    {
+      "it": "orario continuato",
+      "ja": "昼休みなどで中断しない営業時間"
+    },
+    {
+      "it": "in orario",
+      "ja": "予定時刻どおりに"
+    },
+    {
+      "it": "fuori orario",
+      "ja": "営業時間・規定時間外に"
+    },
+    {
+      "it": "fuso orario",
+      "ja": "時間帯・タイムゾーン"
+    },
+    {
+      "it": "senso orario",
+      "ja": "時計回り"
+    }
+  ],
+  "examples": [
+    {
+      "it": "Qual è l’orario di apertura del negozio?",
+      "ja": "その店の開店時刻は何時ですか。"
+    },
+    {
+      "it": "Il museo osserva un orario ridotto durante l’inverno.",
+      "ja": "その美術館は冬季には開館時間を短縮しています。"
+    },
+    {
+      "it": "Il mio orario di lavoro va dalle nove alle sei.",
+      "ja": "私の勤務時間は9時から6時までです。"
+    },
+    {
+      "it": "Questa settimana faccio un orario diverso dal solito.",
+      "ja": "今週は普段とは異なる勤務時間です。"
+    },
+    {
+      "it": "L’insegnante ha distribuito il nuovo orario scolastico.",
+      "ja": "教師は新しい時間割を配布しました。"
+    },
+    {
+      "it": "Ho consultato l’orario dei treni sul telefono.",
+      "ja": "携帯電話で列車時刻表を確認しました。"
+    },
+    {
+      "it": "L’orario di partenza dell’aereo è stato modificato.",
+      "ja": "飛行機の出発時刻が変更されました。"
+    },
+    {
+      "it": "Nonostante la pioggia, il treno è arrivato in orario.",
+      "ja": "雨にもかかわらず、列車は予定時刻どおりに到着しました。"
+    },
+    {
+      "it": "Mi ha telefonato fuori orario.",
+      "ja": "彼は規定時間外に私へ電話してきました。"
+    },
+    {
+      "it": "L’azienda permette ai dipendenti di lavorare con un orario flessibile.",
+      "ja": "その会社では従業員がフレックスタイムで働くことを認めています。"
+    },
+    {
+      "it": "Il negozio fa orario continuato il sabato.",
+      "ja": "その店は土曜日には昼休みなしで営業します。"
+    },
+    {
+      "it": "Tokyo e Roma si trovano in fusi orari diversi.",
+      "ja": "東京とローマは異なるタイムゾーンにあります。"
+    },
+    {
+      "it": "Gira la manopola in senso orario.",
+      "ja": "つまみを時計回りに回してください。"
+    },
+    {
+      "it": "La retribuzione oraria varia in base all’esperienza.",
+      "ja": "時給は経験に応じて異なります。"
+    },
+    {
+      "it": "La velocità media oraria è stata di ottanta chilometri.",
+      "ja": "平均時速は80キロメートルでした。"
+    }
+  ]
+},  
+{
   "id": "calendario",
   "sid": "2026-00313",
   "word": "calendario",
