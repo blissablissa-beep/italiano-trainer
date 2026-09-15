@@ -1,5 +1,279 @@
 [
 {
+  "id": "volta",
+  "sid": "2026-00314",
+  "word": "volta",
+  "ipa": "/ˈvɔlta/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞／voltoの女性単数形",
+      "it": "sostantivo femminile / forma femminile singolare di volto"
+    },
+    "gender": "feminine",
+    "plural": "volte",
+    "pattern": "una, due o molte volte / questa, quella o la prossima volta / la prima volta che + frase / ogni volta che + frase / una volta che + frase / uno alla volta / alla volta di + luogo / volta + tipo architettonico / essere volta verso + direzione"
+  },
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "literary",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "time",
+      "frequency",
+      "sequence",
+      "travel",
+      "narration",
+      "architecture"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "一つの行為・出来事が起こる一回・一度",
+      "数詞や数量表現を伴って、行為・出来事が繰り返される回数",
+      "特定の出来事が起きた時・場合・機会",
+      "順番が回ってきて、ある人が行動する番",
+      "una voltaの形で、不特定の過去の時代・以前・昔",
+      "una volta cheの形で、ある出来事が完了した後、または条件が成立した時点、いったん～すれば",
+      "ogni volta che、tutte le volte cheの形で、ある出来事が起こるたびに",
+      "a volte、certe volteなどの形で、常にではなく時折・場合によって",
+      "uno alla volta、due per voltaなどの形で、一度に扱う人数・数量",
+      "poco alla voltaの形で、少しずつ・徐々に",
+      "di volta in volta、volta per voltaの形で、その都度・状況に応じて",
+      "alla volta diの形で、特定の人・場所の方向へ向かって",
+      "una buona volta、una volta per tutteなどの形で、ようやく・今度こそ・きっぱりと",
+      "建築で、湾曲した面によって空間を覆うヴォールト・アーチ天井",
+      "volta celesteの形で、観察者の上を覆う半球状の空・天空",
+      "voltoの女性形として、特定の方向へ向けられた・面している"
+    ],
+    "it": [
+      "Singola occasione nella quale un’azione o un avvenimento si verifica.",
+      "Numero di ripetizioni di un fatto, espresso mediante un numerale o una quantità.",
+      "Momento, circostanza o occasione determinata in cui qualcosa accade.",
+      "Momento in cui spetta a una persona compiere un’azione secondo un ordine.",
+      "Nella locuzione una volta, tempo passato e non precisamente determinato.",
+      "Nella costruzione una volta che, momento successivo al compimento di un fatto oppure condizione ormai realizzata.",
+      "Nelle costruzioni ogni volta che e tutte le volte che, ciascuna occasione in cui un fatto si ripete.",
+      "Nelle espressioni a volte e certe volte, in alcune occasioni ma non sempre.",
+      "Nelle costruzioni uno alla volta e due per volta, quantità ammessa o considerata in una singola occasione.",
+      "Nella locuzione poco alla volta, progressivamente e in piccole quantità.",
+      "Nelle locuzioni di volta in volta e volta per volta, secondo le circostanze o le necessità di ciascun caso.",
+      "Nella locuzione alla volta di, direzione verso una persona o un luogo.",
+      "Nelle espressioni una buona volta e una volta per tutte, finalmente oppure in maniera definitiva.",
+      "In architettura, struttura curva utilizzata per coprire uno spazio.",
+      "Nell’espressione volta celeste, cielo considerato come una grande superficie curva.",
+      "Come forma femminile di volto, orientata o rivolta verso una determinata direzione."
+    ]
+  },
+  "nuance": {
+    "ja": "voltaは行為や出来事を数える「回」であり、時間の長さを表すtempoとは異なる。una voltaは文脈により「一度」と「昔」の両方を意味し、Sono stato a Roma una voltaは「ローマに一度行った」、Una volta qui c’erano molti negoziは「昔ここには店がたくさんあった」となる。questa voltaは「今回」、la prossima voltaは「次回」。uno alla voltaは「一人ずつ」、poco alla voltaは「少しずつ」である。una volta cheは単なる回数ではなく、「～したら・いったん～すれば」という時間的・条件的な接続表現になる。建築のvoltaも同じ発音・語源を持つ別の語義である。",
+    "it": "Volta conta le occasioni in cui un fatto si verifica e non indica normalmente la durata, espressa invece da tempo. Una volta può significare sia «una singola occasione» sia «in passato»: Sono stato a Roma una volta; Una volta qui c’erano molti negozi. Questa volta indica l’occasione presente, quella volta un’occasione già identificata e la prossima volta un’occasione futura. Uno alla volta esprime distribuzione; poco alla volta gradualità. Una volta che funziona come locuzione congiuntiva temporale o condizionale. La volta architettonica possiede la stessa pronuncia e la stessa origine legata all’idea di curvatura o rotazione."
+  },
+  "etymology": {
+    "ja": "俗ラテン語の再建形*volvĭtaまたは*voltaに由来し、古典ラテン語volvĕre「回す、転がす、向きを変える」と同じ語族に属する。もともとの「回転・方向転換」という空間的な意味から、一巡して順番が来ること、出来事が繰り返される一回という時間的な意味が発達した。建築のvoltaも、湾曲して空間を覆う形から同じ語で呼ばれる。volgere、voltare、rivolgere、svolta、avvolgereも同じ語源的な一群に属する。",
+    "it": "Deriva dalle forme ricostruite del latino volgare *volvĭta o *volta, appartenenti alla famiglia del latino classico volvĕre, «far girare, rotolare, volgere». Dall’idea spaziale di un giro o di un cambiamento di direzione si sono sviluppati i valori di turno, occasione e ripetizione. Anche la struttura architettonica è chiamata volta per la sua superficie curva. Appartengono alla stessa famiglia volgere, voltare, rivolgere, svolta e avvolgere."
+  },
+  "minimal": [
+    {
+      "word": "volta",
+      "ja": "一つの行為・出来事が起こる一回、または特定の機会・順番",
+      "it": "singola occasione in cui un fatto accade oppure momento in cui arriva il proprio turno"
+    },
+    {
+      "word": "tempo",
+      "ja": "出来事が続く期間、時の流れ、または利用できる時間",
+      "it": "durata, successione degli eventi oppure quantità di tempo disponibile"
+    },
+    {
+      "word": "occasione",
+      "ja": "何かを行うのに適した機会、または特定の出来事が起きる場合",
+      "it": "circostanza favorevole o momento nel quale è possibile fare qualcosa"
+    },
+    {
+      "word": "turno",
+      "ja": "定められた順序に従って人に割り当てられる番・勤務時間",
+      "it": "posto assegnato in una successione oppure periodo di lavoro stabilito"
+    },
+    {
+      "word": "giro",
+      "ja": "一周する動き、順番の一巡、または短い外出",
+      "it": "movimento circolare, successione completa di turni oppure breve percorso"
+    }
+  ],
+  "synonyms": [
+    "occasione",
+    "momento",
+    "circostanza",
+    "turno",
+    "giro",
+    "arco"
+  ],
+  "equivalents": {
+    "en": [
+      "time",
+      "occasion",
+      "turn",
+      "once",
+      "vault"
+    ],
+    "de": [
+      "Mal",
+      "Gelegenheit",
+      "Reihe",
+      "einst",
+      "Gewölbe"
+    ],
+    "fr": [
+      "fois",
+      "occasion",
+      "tour",
+      "autrefois",
+      "voûte"
+    ],
+    "es": [
+      "vez",
+      "ocasión",
+      "turno",
+      "antes",
+      "bóveda"
+    ]
+  },
+  "collocations": [
+    {
+      "it": "una volta",
+      "ja": "一度・かつて"
+    },
+    {
+      "it": "per la prima volta",
+      "ja": "初めて"
+    },
+    {
+      "it": "la prossima volta",
+      "ja": "次回・今度"
+    },
+    {
+      "it": "due volte",
+      "ja": "二回・二度"
+    },
+    {
+      "it": "ogni volta che",
+      "ja": "～するたびに"
+    },
+    {
+      "it": "a volte",
+      "ja": "ときどき"
+    },
+    {
+      "it": "una volta che",
+      "ja": "～したら・いったん～すれば"
+    },
+    {
+      "it": "uno alla volta",
+      "ja": "一人ずつ・一つずつ"
+    },
+    {
+      "it": "poco alla volta",
+      "ja": "少しずつ"
+    },
+    {
+      "it": "di volta in volta",
+      "ja": "その都度・場合ごとに"
+    },
+    {
+      "it": "una volta per tutte",
+      "ja": "これを最後に・きっぱりと"
+    },
+    {
+      "it": "volta a botte",
+      "ja": "筒形ヴォールト・樽形天井"
+    }
+  ],
+  "examples": [
+    {
+      "it": "Sono stato a Firenze una sola volta.",
+      "ja": "私はフィレンツェへ一度だけ行ったことがあります。"
+    },
+    {
+      "it": "Prendo questo treno due volte alla settimana.",
+      "ja": "私は週に2回この列車に乗ります。"
+    },
+    {
+      "it": "Questa volta è andato tutto bene.",
+      "ja": "今回はすべてうまくいきました。"
+    },
+    {
+      "it": "La prossima volta prenoteremo un albergo più vicino.",
+      "ja": "次回はもっと近いホテルを予約します。"
+    },
+    {
+      "it": "È la prima volta che visito Roma.",
+      "ja": "ローマを訪れるのは初めてです。"
+    },
+    {
+      "it": "Ora è la tua volta.",
+      "ja": "今度はあなたの番です。"
+    },
+    {
+      "it": "Una volta in questa strada c’erano molti piccoli negozi.",
+      "ja": "昔、この通りには小さな店がたくさんありました。"
+    },
+    {
+      "it": "Una volta che avrai finito il lavoro, potrai uscire.",
+      "ja": "仕事を終えたら、外出して構いません。"
+    },
+    {
+      "it": "Ogni volta che lo incontro, mi parla del suo viaggio.",
+      "ja": "彼に会うたびに、彼は旅行の話をします。"
+    },
+    {
+      "it": "A volte preferisco restare a casa.",
+      "ja": "私はときどき家にいるほうを好みます。"
+    },
+    {
+      "it": "Entrate uno alla volta, per favore.",
+      "ja": "一人ずつ入ってください。"
+    },
+    {
+      "it": "Aggiungi la farina poco alla volta.",
+      "ja": "小麦粉を少しずつ加えてください。"
+    },
+    {
+      "it": "Le richieste saranno valutate di volta in volta.",
+      "ja": "申請はその都度個別に審査されます。"
+    },
+    {
+      "it": "La nave partì alla volta della Sicilia.",
+      "ja": "船はシチリアへ向けて出発しました。"
+    },
+    {
+      "it": "Te lo dico una volta per tutte: non cambierò idea.",
+      "ja": "きっぱり言っておきます。私は考えを変えません。"
+    },
+    {
+      "it": "La chiesa medievale presenta una grande volta a crociera.",
+      "ja": "その中世の教会には大きな交差ヴォールトがあります。"
+    },
+    {
+      "it": "Di notte osservavamo le stelle nella volta celeste.",
+      "ja": "夜、私たちは天空の星々を眺めていました。"
+    },
+    {
+      "it": "La finestra principale è volta verso il mare.",
+      "ja": "主な窓は海の方向を向いています。"
+    }
+  ]
+},  
+{
   "id": "negozio",
   "sid": "2026-00315",
   "word": "negozio",
