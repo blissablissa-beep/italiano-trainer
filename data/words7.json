@@ -1,5 +1,270 @@
 [
 {
+  "id": "richiesta",
+  "sid": "2026-00310",
+  "word": "richiesta",
+  "ipa": "/riˈkjɛsta/",
+  "level": "A2",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞／richiestoの女性単数形",
+      "it": "sostantivo femminile / forma femminile singolare di richiesto"
+    },
+    "gender": "feminine",
+    "plural": "richieste",
+    "adjectiveForms": [
+      "richiesto",
+      "richiesta",
+      "richiesti",
+      "richieste"
+    ],
+    "pattern": "fare o presentare una richiesta a + persona o ente / richiesta di + cosa, informazione o azione / richiesta per + finalità / su richiesta di + persona / essere richiesto, richiesta, richiesti o richieste"
+  },
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "administrative",
+      "legal"
+    ],
+    "medium": [
+      "spoken",
+      "written",
+      "online"
+    ],
+    "situations": [
+      "conversation",
+      "business",
+      "administration",
+      "law",
+      "customer_service",
+      "commerce",
+      "employment"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "物・行為・援助などを得るために相手へ求めること、またはその内容",
+      "情報・説明・回答などを求める問い合わせ",
+      "許可・承認・給付・書類などを得るために提出する正式な申請",
+      "行政機関・企業などに提出される申請書または申請フォーム",
+      "代金・債務・補償などの支払いまたは履行を求める請求",
+      "商品・財産・サービスなどについて提示される価格または報酬の額",
+      "商品・サービス・労働力などを購入・利用したいという市場の需要",
+      "多数の人から寄せられる要望・人気による要求",
+      "su richiesta、a richiestaの形で、希望または申出があった場合に",
+      "法律・訴訟手続において、裁判所・行政機関などへ特定の判断や処置を求める申立て",
+      "richiestoの女性形として、求められた・依頼された・必要とされた",
+      "richiesta di matrimonioの形で、結婚の申込み・プロポーズ"
+    ],
+    "it": [
+      "Atto con cui si chiede a qualcuno di concedere, fornire o compiere qualcosa.",
+      "Domanda rivolta a ottenere informazioni, chiarimenti o una risposta.",
+      "Domanda formale presentata per ottenere un’autorizzazione, un beneficio, un documento o un servizio.",
+      "Documento o modulo contenente una domanda amministrativa o formale.",
+      "Domanda con cui si esige il pagamento di una somma o l’adempimento di un obbligo.",
+      "Somma chiesta come prezzo di un bene o compenso per una prestazione.",
+      "In economia, quantità di beni, servizi o lavoro che il mercato desidera acquistare o utilizzare.",
+      "Desiderio o domanda espressi da un numero elevato di persone.",
+      "Nelle locuzioni su richiesta e a richiesta, in seguito a una domanda o a un desiderio espresso.",
+      "Nel linguaggio giuridico, istanza rivolta a un’autorità per ottenere una decisione o un provvedimento.",
+      "Come forma femminile di richiesto, domandata, necessaria o desiderata.",
+      "Nell’espressione richiesta di matrimonio, proposta rivolta a qualcuno affinché accetti di sposarsi."
+    ]
+  },
+  "nuance": {
+    "ja": "richiestaは、相手から物・行為・許可・情報などを得るための働きかけを表す。domandaは「質問」と「申請」の両方に使えるが、richiestaは何かを実際に提供・実行してもらうことに重点がある。pretesaは権利として強く要求する場合や、過大・不当と評価される要求を表すことがある。ordineは相手に従うことを求める命令であり、richiestaより強制的である。requisitoは申請などを認めてもらうために満たすべき条件で、依頼そのものではない。richiesta di informazioniは求める内容、richiesta al comuneは提出先、richiesta per ottenere un documentoは目的、su richiesta del clienteは要望した人を示す。",
+    "it": "Richiesta mette in rilievo il tentativo di ottenere da qualcuno un oggetto, un’informazione, un’autorizzazione o un’azione. Domanda può essere una frase interrogativa oppure una domanda amministrativa; richiesta sottolinea più direttamente ciò che si desidera ricevere o far compiere. Pretesa può indicare una rivendicazione formulata come diritto oppure una richiesta giudicata eccessiva. Ordine impone un comportamento ed è più vincolante. Requisito è una condizione da soddisfare e non l’atto di chiedere. Richiesta di informazioni indica il contenuto; richiesta al comune il destinatario; richiesta per ottenere un documento lo scopo; su richiesta del cliente la persona che l’ha formulata."
+  },
+  "etymology": {
+    "ja": "動詞richiedere「再び求める、要求する」の過去分詞richiestoから形成された。richiedereは形態的にはri-とchiedereから成り、ラテン語requīrere「探し求める、問い合わせる、必要とする」に対応する。requīrereはre-とquaerere「探す、尋ねる」から形成された。求められた物や内容を表す過去分詞が名詞化し、「依頼・申請・需要」という意味になった。",
+    "it": "Deriva da richiesto, participio passato di richiedere. Il verbo è collegato al latino requīrere, formato da re- e quaerere, «cercare, domandare», e significava cercare, informarsi o considerare necessario. Il participio sostantivato è passato a indicare sia l’atto di chiedere sia ciò che viene domandato. Alla stessa famiglia appartengono chiedere, richiedere, requisito e requisire."
+  },
+  "minimal": [
+    {
+      "word": "richiesta",
+      "ja": "物・情報・許可・行為などを相手から得るために求めること",
+      "it": "atto con cui si chiede di ricevere qualcosa o di far compiere un’azione"
+    },
+    {
+      "word": "domanda",
+      "ja": "回答を求める質問、または許可・給付などを得るための申請",
+      "it": "frase con cui si chiede una risposta oppure domanda formale presentata a un ente"
+    },
+    {
+      "word": "pretesa",
+      "ja": "権利として主張する要求、または過大・不当と見なされる要求",
+      "it": "richiesta formulata come diritto o giudicata eccessiva e poco giustificata"
+    },
+    {
+      "word": "ordine",
+      "ja": "相手に特定の行為を行うよう強制的に指示する命令",
+      "it": "comando vincolante con cui si impone a qualcuno un determinato comportamento"
+    },
+    {
+      "word": "requisito",
+      "ja": "申請・資格・制度などで満たすことが必要な条件",
+      "it": "condizione necessaria per ottenere un’autorizzazione, una qualifica o un beneficio"
+    }
+  ],
+  "synonyms": [
+    "domanda",
+    "istanza",
+    "petizione",
+    "sollecitazione",
+    "pretesa",
+    "appello"
+  ],
+  "equivalents": {
+    "en": [
+      "request",
+      "application",
+      "demand",
+      "claim",
+      "required"
+    ],
+    "de": [
+      "Anfrage",
+      "Antrag",
+      "Forderung",
+      "Nachfrage",
+      "erforderlich"
+    ],
+    "fr": [
+      "demande",
+      "requête",
+      "exigence",
+      "demande du marché",
+      "requise"
+    ],
+    "es": [
+      "solicitud",
+      "petición",
+      "demanda",
+      "reclamación",
+      "requerida"
+    ]
+  },
+  "collocations": [
+    {
+      "it": "fare una richiesta",
+      "ja": "依頼・申請をする"
+    },
+    {
+      "it": "presentare una richiesta",
+      "ja": "申請を提出する"
+    },
+    {
+      "it": "inoltrare una richiesta",
+      "ja": "申請・依頼を正式に送付する"
+    },
+    {
+      "it": "accogliere una richiesta",
+      "ja": "申請・要望を認める"
+    },
+    {
+      "it": "respingere una richiesta",
+      "ja": "申請・要望を拒否する"
+    },
+    {
+      "it": "richiesta di informazioni",
+      "ja": "情報提供の依頼・問い合わせ"
+    },
+    {
+      "it": "richiesta di pagamento",
+      "ja": "支払請求"
+    },
+    {
+      "it": "richiesta di assistenza",
+      "ja": "支援・サポートの依頼"
+    },
+    {
+      "it": "richiesta di autorizzazione",
+      "ja": "許可申請"
+    },
+    {
+      "it": "su richiesta",
+      "ja": "要望に応じて"
+    },
+    {
+      "it": "a grande richiesta",
+      "ja": "大好評につき・多数の要望を受けて"
+    },
+    {
+      "it": "documentazione richiesta",
+      "ja": "要求された・必要な書類"
+    }
+  ],
+  "examples": [
+    {
+      "it": "Posso fare una richiesta?",
+      "ja": "一つお願いしてもよいですか。"
+    },
+    {
+      "it": "Abbiamo ricevuto una richiesta di informazioni dal cliente.",
+      "ja": "顧客から情報提供の依頼を受けました。"
+    },
+    {
+      "it": "La richiesta deve essere presentata entro venerdì.",
+      "ja": "申請は金曜日までに提出しなければなりません。"
+    },
+    {
+      "it": "Puoi compilare questo modulo di richiesta online.",
+      "ja": "このオンライン申請フォームに記入してください。"
+    },
+    {
+      "it": "L’azienda ha inviato una richiesta di pagamento.",
+      "ja": "会社は支払請求を送りました。"
+    },
+    {
+      "it": "Il comune ha accolto la nostra richiesta di autorizzazione.",
+      "ja": "市は私たちの許可申請を認めました。"
+    },
+    {
+      "it": "La richiesta è stata respinta perché mancava un documento.",
+      "ja": "書類が一つ不足していたため、申請は却下されました。"
+    },
+    {
+      "it": "La richiesta economica del venditore è troppo alta.",
+      "ja": "売主の希望価格は高すぎます。"
+    },
+    {
+      "it": "La richiesta di appartamenti in questa zona è aumentata.",
+      "ja": "この地域ではマンションの需要が増えています。"
+    },
+    {
+      "it": "C’è una forte richiesta di personale qualificato.",
+      "ja": "有資格者・熟練者に対する強い需要があります。"
+    },
+    {
+      "it": "Il documento è disponibile anche in formato cartaceo su richiesta.",
+      "ja": "その書類は要望に応じて紙でも提供されます。"
+    },
+    {
+      "it": "A grande richiesta, lo spettacolo sarà replicato domani.",
+      "ja": "大好評につき、その公演は明日再演されます。"
+    },
+    {
+      "it": "Questa è una fermata a richiesta: bisogna premere il pulsante.",
+      "ja": "ここはリクエスト停留所なので、ボタンを押す必要があります。"
+    },
+    {
+      "it": "Il giudice ha respinto la richiesta della difesa.",
+      "ja": "裁判官は弁護側の申立てを退けました。"
+    },
+    {
+      "it": "Abbiamo allegato tutta la documentazione richiesta.",
+      "ja": "私たちは必要とされた書類をすべて添付しました。"
+    },
+    {
+      "it": "Durante il viaggio le ha fatto una richiesta di matrimonio.",
+      "ja": "旅行中、彼は彼女に結婚を申し込みました。"
+    }
+  ]
+},  
+{
   "id": "riunione",
   "sid": "2026-00311",
   "word": "riunione",
