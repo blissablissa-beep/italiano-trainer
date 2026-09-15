@@ -1,5 +1,245 @@
 [
 {
+  "id": "traghetto",
+  "sid": "2026-00309",
+  "word": "traghetto",
+  "ipa": "/traˈɡetto/",
+  "level": "A2",
+  "frequency": "common",
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "traghetti",
+    "pattern": "il traghetto / i traghetti / andare o viaggiare in traghetto / prendere il traghetto per + luogo / salire sul traghetto / scendere dal traghetto / traghetto tra + luoghi / traghetto per il trasporto di + persone o veicoli"
+  },
+  "usage": {
+    "register": [
+      "neutral",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "transport",
+      "tourism",
+      "shipping",
+      "vehicles",
+      "geography"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "海峡・川・湖・運河などを横断して人や物を運ぶ船、フェリー・渡し船",
+      "本土と島、または二つの港の間を定期的に結ぶ旅客船",
+      "乗客とともに自動車・オートバイ・トラックなどを運搬できる船",
+      "専用の設備によって鉄道車両を運搬する鉄道連絡船",
+      "フェリーを利用して水域を渡ること・フェリーによる移動",
+      "一定の区間でフェリーを運航する交通サービスまたは航路",
+      "船を使って対岸へ渡ることのできる場所・渡船場",
+      "ヴェネツィアで、ゴンドラが運河の一方の岸から他方の岸へ人を渡す場所またはサービス",
+      "traghetto a funeの形で、川を横切って張られた索などを利用して移動する渡し船",
+      "astronave traghettoの形で、人員・物資を宇宙空間で輸送する宇宙往還機・シャトル"
+    ],
+    "it": [
+      "Imbarcazione utilizzata per trasportare persone e cose da una sponda all’altra di un fiume, lago, canale o tratto di mare.",
+      "Nave che collega regolarmente un’isola, una costa o due porti trasportando passeggeri.",
+      "Nave attrezzata per imbarcare, oltre ai passeggeri, automobili, motociclette, camion e altri veicoli.",
+      "Nave dotata di impianti che consentono il trasporto di carrozze o convogli ferroviari.",
+      "Operazione o viaggio mediante il quale persone, merci e veicoli vengono trasportati attraverso uno specchio d’acqua.",
+      "Servizio di trasporto o collegamento marittimo svolto regolarmente lungo una determinata rotta.",
+      "Punto o zona dalla quale è possibile attraversare un corso d’acqua mediante un’apposita imbarcazione.",
+      "A Venezia, punto e servizio in cui una gondola trasporta passeggeri da una riva all’altra di un canale.",
+      "Nella locuzione traghetto a fune, barcone collegato a un sistema di cavi che consente di attraversare un fiume.",
+      "Nell’espressione astronave traghetto, veicolo destinato al trasporto di persone e materiali tra la Terra e lo spazio."
+    ]
+  },
+  "nuance": {
+    "ja": "naveは大型船全般、barcaは比較的小型の舟・ボートを表すのに対し、traghettoは人・車両・貨物を対岸や島へ運ぶ機能に重点がある。移動手段としてはandare in traghetto「フェリーで行く」と言い、特定の船に乗っている場合はessere sul traghetto「フェリーに乗っている」と言う。乗船・下船にはsalire sul traghetto、scendere dal traghettoを使う。ヴェネツィアのvaporettoは複数の停留所を結ぶ水上バスであり、traghettoは伝統的にはゴンドラで大運河を短く横断するサービスを指す。",
+    "it": "Nave è il termine generale per una grande imbarcazione e barca indica normalmente un mezzo più piccolo; traghetto mette invece in rilievo la funzione di trasportare persone, veicoli o merci tra due rive o porti. Come mezzo di trasporto si usa in: andare in traghetto. Per indicare la presenza a bordo si usa sul: essere sul traghetto. Si sale sul traghetto e si scende dal traghetto. A Venezia il vaporetto segue una linea con più fermate, mentre il traghetto tradizionale effettua un breve attraversamento trasversale del Canal Grande mediante una gondola."
+  },
+  "etymology": {
+    "ja": "動詞traghettare「船で対岸へ運ぶ」から形成された名詞である。traghettareはヴェネツィア語traghetarの影響を受けた形とされ、後期ラテン語traiectāre「向こう側へ運ぶ・渡す」にさかのぼる。これは「越えて」を表すtrans-と、移動・投射を表す語根に関係し、もともと人や物を一方の側から反対側へ移すことを意味した。traghettamento、traghettiereも同じ語族に属する。",
+    "it": "Deriva dal verbo traghettare, forma influenzata dal veneziano traghetar e collegata al latino tardo traiectāre, «trasportare o far passare dall’altra parte». Il significato fondamentale è quello di trasferire persone o cose da una riva all’altra. Dalla denominazione dell’operazione il termine è passato a indicare anche l’imbarcazione, il servizio e il luogo dell’attraversamento. Appartengono alla stessa famiglia traghettamento e traghettiere."
+  },
+  "minimal": [
+    {
+      "word": "traghetto",
+      "ja": "人・車両・貨物を対岸・島・別の港へ運ぶ船",
+      "it": "nave o imbarcazione che trasporta persone, veicoli e merci tra due rive o porti"
+    },
+    {
+      "word": "nave",
+      "ja": "海上で多数の人や大量の貨物を運ぶ大型船全般",
+      "it": "termine generale per una grande imbarcazione destinata alla navigazione"
+    },
+    {
+      "word": "barca",
+      "ja": "漁・移動・娯楽などに使われる、一般に比較的小型の舟・ボート",
+      "it": "imbarcazione generalmente piccola usata per trasporto, pesca o diporto"
+    },
+    {
+      "word": "vaporetto",
+      "ja": "ヴェネツィアなどで複数の停留所を結ぶ公共交通用の水上バス",
+      "it": "mezzo pubblico veneziano che percorre linee prestabilite effettuando più fermate"
+    },
+    {
+      "word": "aliscafo",
+      "ja": "水中翼によって船体を浮上させ、高速で航行する旅客船",
+      "it": "imbarcazione veloce che durante la navigazione si solleva sull’acqua mediante ali immerse"
+    }
+  ],
+  "synonyms": [
+    "nave traghetto",
+    "ferry-boat",
+    "battello",
+    "barcone",
+    "chiatta",
+    "imbarcazione"
+  ],
+  "equivalents": {
+    "en": [
+      "ferry",
+      "ferryboat",
+      "ferry service",
+      "crossing"
+    ],
+    "de": [
+      "Fähre",
+      "Fährschiff",
+      "Fährverbindung",
+      "Überfahrt"
+    ],
+    "fr": [
+      "ferry",
+      "bac",
+      "service de ferry",
+      "traversée"
+    ],
+    "es": [
+      "ferri",
+      "transbordador",
+      "servicio de ferry",
+      "travesía"
+    ]
+  },
+  "collocations": [
+    {
+      "it": "prendere il traghetto",
+      "ja": "フェリーに乗る"
+    },
+    {
+      "it": "andare in traghetto",
+      "ja": "フェリーで行く"
+    },
+    {
+      "it": "salire sul traghetto",
+      "ja": "フェリーに乗り込む"
+    },
+    {
+      "it": "scendere dal traghetto",
+      "ja": "フェリーから降りる"
+    },
+    {
+      "it": "imbarcarsi sul traghetto",
+      "ja": "フェリーへ乗船する"
+    },
+    {
+      "it": "imbarcare l’auto sul traghetto",
+      "ja": "自動車をフェリーに載せる"
+    },
+    {
+      "it": "traghetto per la Sardegna",
+      "ja": "サルデーニャ行きのフェリー"
+    },
+    {
+      "it": "biglietto del traghetto",
+      "ja": "フェリーの乗船券"
+    },
+    {
+      "it": "orario del traghetto",
+      "ja": "フェリーの運航時刻"
+    },
+    {
+      "it": "servizio di traghetto",
+      "ja": "フェリー運航サービス"
+    },
+    {
+      "it": "traghetto notturno",
+      "ja": "夜行フェリー"
+    },
+    {
+      "it": "perdere il traghetto",
+      "ja": "フェリーに乗り遅れる"
+    }
+  ],
+  "examples": [
+    {
+      "it": "Prenderemo il traghetto per raggiungere l’isola.",
+      "ja": "島へ行くためにフェリーに乗ります。"
+    },
+    {
+      "it": "Il traghetto per la Sardegna parte alle nove.",
+      "ja": "サルデーニャ行きのフェリーは9時に出発します。"
+    },
+    {
+      "it": "Abbiamo controllato online l’orario del traghetto.",
+      "ja": "フェリーの運航時刻をオンラインで確認しました。"
+    },
+    {
+      "it": "I passeggeri stanno salendo sul traghetto.",
+      "ja": "乗客たちはフェリーに乗り込んでいます。"
+    },
+    {
+      "it": "È possibile imbarcare l’auto sul traghetto.",
+      "ja": "フェリーに自動車を載せることができます。"
+    },
+    {
+      "it": "Il traghetto trasporta anche camion e motociclette.",
+      "ja": "そのフェリーはトラックやオートバイも運びます。"
+    },
+    {
+      "it": "Abbiamo prenotato una cabina sul traghetto notturno.",
+      "ja": "夜行フェリーの船室を予約しました。"
+    },
+    {
+      "it": "La traversata in traghetto è durata circa due ore.",
+      "ja": "フェリーでの横断には約2時間かかりました。"
+    },
+    {
+      "it": "Il servizio di traghetto è stato sospeso a causa del vento.",
+      "ja": "強風のためフェリーの運航は停止されました。"
+    },
+    {
+      "it": "Il traghetto tra Villa San Giovanni e Messina trasporta anche vagoni ferroviari.",
+      "ja": "ヴィッラ・サン・ジョヴァンニとメッシーナを結ぶフェリーは鉄道車両も運びます。"
+    },
+    {
+      "it": "A Venezia abbiamo attraversato il Canal Grande con un traghetto in gondola.",
+      "ja": "ヴェネツィアではゴンドラの渡し舟で大運河を横断しました。"
+    },
+    {
+      "it": "Un tempo il traghetto si trovava poco più a valle.",
+      "ja": "かつて渡船場は少し下流にありました。"
+    },
+    {
+      "it": "Il traghetto a fune sfrutta anche la corrente del fiume.",
+      "ja": "索を利用する渡し船は川の流れも利用します。"
+    },
+    {
+      "it": "Il termine astronave traghetto era usato per indicare un veicolo spaziale riutilizzabile.",
+      "ja": "astronave traghettoという語は、再使用可能な宇宙船を指すために使われていました。"
+    }
+  ]
+},  
+{
   "id": "richiesta",
   "sid": "2026-00310",
   "word": "richiesta",
