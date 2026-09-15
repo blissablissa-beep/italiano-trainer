@@ -1,1 +1,435 @@
-[]
+[
+{
+  "id": "stamattina",
+  "sid": "2026-00386",
+  "word": "stamattina",
+  "ipa": "/stamatˈtina/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "時間副詞",
+      "it": "avverbio temporale"
+    },
+    "invariable": true,
+    "pattern": "stamattina + passato, presente o futuro / stamattina + ora / da, fin da, per o entro + stamattina / nome + di stamattina"
+  },
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "daily_life",
+      "work",
+      "planning",
+      "appointments",
+      "weather",
+      "travel",
+      "narration"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "話している日の朝、今朝",
+      "すでに経過した今日の朝の時間帯",
+      "現在進行中である今日の朝",
+      "まだ到来していない今日の朝の予定時刻",
+      "da stamattinaの形で、今朝を起点として現在まで",
+      "per stamattinaの形で、今朝に予定・指定されて"
+    ],
+    "it": [
+      "Nella mattina del giorno in cui si parla, questa mattina.",
+      "Nella parte già trascorsa della mattina di oggi.",
+      "Durante la mattina di oggi ancora in corso.",
+      "Nella parte della mattina di oggi che deve ancora arrivare.",
+      "Con da, a partire dalla mattina di oggi e fino al momento presente.",
+      "Con per, come momento previsto, concordato o stabilito nella mattina di oggi."
+    ]
+  },
+  "nuance": {
+    "ja": "stamattinaは発話日を基準とするため、話す時刻と動詞の時制によって時間関係が変わる。午後にStamattina ho lavoratoと言えば過去の「今朝働いた」、朝の途中でStamattina lavoro da casaと言えば「今朝は自宅で仕事をしている」、早朝にStamattina andrò in bancaと言えば「今朝これから銀行へ行く」となる。questa mattinaとほぼ完全に同義だが、stamattinaのほうが簡潔で日常的である。oggi mattinaも理解されるものの、標準的な一般表現としてはstamattinaまたはquesta mattinaがより自然である。stamaniも同義だが、特にトスカーナでよく使われ、stamaneはやや文学的に響く。stamani自体に「今朝」が含まれるため、stamani mattinaは意味が重複する。過去の物語中で、発話日ではなく物語上の特定の日の朝を指す場合はquella mattinaを使う。",
+    "it": "Stamattina è legato al giorno in cui si parla e può riferirsi al passato, al presente o al futuro secondo l’ora e il tempo verbale. Nel pomeriggio, Stamattina ho lavorato indica una mattina già trascorsa; durante la mattina, Stamattina lavoro da casa può descrivere la situazione in corso; nelle prime ore, Stamattina andrò in banca può riferirsi a un programma successivo. Questa mattina è sostanzialmente equivalente, mentre stamattina è più compatto e quotidiano. Oggi mattina è comprensibile, ma stamattina e questa mattina sono generalmente più naturali nell’italiano comune. Stamani è sinonimo ed è particolarmente diffuso in Toscana; stamane può avere un tono più letterario. Poiché stamani significa già «questa mattina», stamani mattina è ridondante. In una narrazione riferita a un giorno passato si usa normalmente quella mattina."
+  },
+  "etymology": {
+    "ja": "伝統的には、sta「この」とmattina「朝」から成る複合語と説明され、文字どおり「この朝」を意味する。歴史的には、ラテン語ista mane「この朝に」に由来するstamane・stamaniを基礎として、mattinaが重なり、または置き換わって成立したとも分析される。現代語では構成要素が一体化しているため、通常一語でstamattinaと書く。",
+    "it": "È tradizionalmente analizzato come composto di sta, «questa», e mattina, con il significato letterale di «questa mattina». Storicamente viene anche ricondotto a stamane o stamani, continuatori della locuzione latina ista mane, con sovrapposizione o sostituzione di mattina. Nell’italiano moderno gli elementi formano un’unica parola, scritta stamattina."
+  },
+  "minimal": [
+    {
+      "word": "stamattina",
+      "ja": "話している日の朝、今朝",
+      "it": "nella mattina del giorno in cui si parla"
+    },
+    {
+      "word": "questa mattina",
+      "ja": "stamattinaとほぼ同じ「今日の朝」",
+      "it": "espressione analitica sostanzialmente equivalente a stamattina"
+    },
+    {
+      "word": "stamani",
+      "ja": "今朝を表す同義語で、特にトスカーナでよく使われる",
+      "it": "sinonimo di stamattina, particolarmente diffuso in Toscana"
+    },
+    {
+      "word": "ieri mattina",
+      "ja": "今日の直前の日の朝、昨日の朝",
+      "it": "mattina del giorno precedente a oggi"
+    },
+    {
+      "word": "domani mattina",
+      "ja": "今日の直後の日の朝、明日の朝",
+      "it": "mattina del giorno successivo a oggi"
+    }
+  ],
+  "synonyms": [
+    "questa mattina",
+    "stamani",
+    "stamane"
+  ],
+  "equivalents": {
+    "en": [
+      "this morning"
+    ],
+    "de": [
+      "heute Morgen"
+    ],
+    "fr": [
+      "ce matin"
+    ],
+    "es": [
+      "esta mañana"
+    ]
+  },
+  "collocations": [
+    {
+      "it": "stamattina presto",
+      "ja": "今朝早く"
+    },
+    {
+      "it": "stamattina sul presto",
+      "ja": "今朝の早い時間に"
+    },
+    {
+      "it": "stamattina alle otto",
+      "ja": "今朝8時に"
+    },
+    {
+      "it": "proprio stamattina",
+      "ja": "ほかでもなく今朝・ちょうど今朝"
+    },
+    {
+      "it": "solo stamattina",
+      "ja": "今朝になって初めて・今朝だけ"
+    },
+    {
+      "it": "da stamattina",
+      "ja": "今朝から"
+    },
+    {
+      "it": "fin da stamattina",
+      "ja": "今朝からずっと"
+    },
+    {
+      "it": "per stamattina",
+      "ja": "今朝に向けて・今朝の予定として"
+    },
+    {
+      "it": "entro stamattina",
+      "ja": "今朝中に"
+    },
+    {
+      "it": "la riunione di stamattina",
+      "ja": "今朝の会議"
+    },
+    {
+      "it": "il treno di stamattina",
+      "ja": "今朝の列車"
+    },
+    {
+      "it": "il giornale di stamattina",
+      "ja": "今朝の新聞"
+    }
+  ],
+  "examples": [
+    {
+      "it": "Stamattina mi sono svegliato alle sei.",
+      "ja": "今朝、私は6時に目を覚ましました。"
+    },
+    {
+      "it": "Stamattina ho fatto colazione con mia moglie.",
+      "ja": "今朝、私は妻と朝食を取りました。"
+    },
+    {
+      "it": "Stamattina pioveva quando sono uscito di casa.",
+      "ja": "今朝、私が家を出たときには雨が降っていました。"
+    },
+    {
+      "it": "Stamattina lavoro da casa.",
+      "ja": "今朝は自宅で仕事をしています。"
+    },
+    {
+      "it": "Stamattina andrò in banca prima di entrare in ufficio.",
+      "ja": "今朝、事務所へ行く前に銀行へ行く予定です。"
+    },
+    {
+      "it": "Sono in ufficio da stamattina.",
+      "ja": "私は今朝から事務所にいます。"
+    },
+    {
+      "it": "Ti cerco fin da stamattina.",
+      "ja": "今朝からずっとあなたを捜しています。"
+    },
+    {
+      "it": "Il direttore mi ha chiesto il rapporto per stamattina.",
+      "ja": "責任者は今朝までに報告書を用意するよう私に求めました。"
+    },
+    {
+      "it": "Dobbiamo terminare il lavoro entro stamattina.",
+      "ja": "私たちは今朝中に仕事を終えなければなりません。"
+    },
+    {
+      "it": "Ho saputo la notizia solo stamattina.",
+      "ja": "私は今朝になって初めてその知らせを知りました。"
+    },
+    {
+      "it": "Ne abbiamo già parlato durante la riunione di stamattina.",
+      "ja": "そのことについては今朝の会議ですでに話しました。"
+    },
+    {
+      "it": "Il treno di stamattina è partito con venti minuti di ritardo.",
+      "ja": "今朝の列車は20分遅れて出発しました。"
+    },
+    {
+      "it": "Proprio stamattina pensavo di telefonarti.",
+      "ja": "ちょうど今朝、あなたに電話しようと思っていました。"
+    },
+    {
+      "it": "Stamattina fa più fresco di ieri.",
+      "ja": "今朝は昨日より涼しいです。"
+    }
+  ]
+},  
+{
+  "id": "stasera",
+  "sid": "2026-00387",
+  "word": "stasera",
+  "ipa": "/staˈsera/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "時間副詞",
+      "it": "avverbio temporale"
+    },
+    "invariable": true,
+    "pattern": "stasera + presente, passato prossimo o futuro / stasera + ora / da, per, entro o fino a + stasera / nome + di stasera"
+  },
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "daily_life",
+      "planning",
+      "appointments",
+      "dining",
+      "entertainment",
+      "weather",
+      "work"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "話している日の夕方、今晩",
+      "これから来る今日の夕方・夜の早い時間",
+      "現在進行中である今日の夕方・晩",
+      "夕方の時点ですでに起きた、その日の夕方の出来事",
+      "per staseraの形で、今晩に予定・指定されて",
+      "entro staseraの形で、今晩が終わるまでに"
+    ],
+    "it": [
+      "Nella sera del giorno in cui si parla, questa sera.",
+      "Nella sera di oggi che deve ancora arrivare.",
+      "Durante la sera di oggi già in corso.",
+      "Nella parte già trascorsa della sera in corso.",
+      "Con per, come momento previsto o stabilito per la sera di oggi.",
+      "Con entro, prima della conclusione della sera di oggi."
+    ]
+  },
+  "nuance": {
+    "ja": "staseraは発話日を基準とし、「今日の夕方」から「今夜の早い時間」までを幅広く表す。午後にStasera ceniamo fuoriと言えば今後の予定、夕食後にStasera ho mangiato troppoと言えば同じ晩にすでに起きた出来事を表す。確定した予定にはStasera vado al cinemaのような現在形が非常に自然で、未来形Stasera andrò al cinemaも使える。questa seraはほぼ完全な同義表現で、やや明示的または強調的に響くことがある。oggi seraも理解されるが、一般にはstaseraまたはquesta seraのほうが自然である。stanotteは夕方ではなく、主に深夜・就寝時間帯を指し、文脈や時制によって今夜または昨夜を表すことがある。日付が変わった後に前日の夕方を振り返る場合はstaseraではなくieri seraを使う。",
+    "it": "Stasera è legato al giorno in cui si parla e copre generalmente il periodo dalla sera alle prime ore della notte. Nel pomeriggio, Stasera ceniamo fuori indica un programma futuro; dopo cena, Stasera ho mangiato troppo si riferisce a un fatto già avvenuto nella stessa sera. Per un programma stabilito è molto naturale il presente, Stasera vado al cinema; è possibile anche il futuro, Stasera andrò al cinema. Questa sera è sostanzialmente equivalente e può risultare leggermente più esplicito o enfatico. Oggi sera è comprensibile, ma stasera e questa sera sono generalmente più naturali. Stanotte indica soprattutto le ore notturne e può riferirsi, secondo il contesto e il tempo verbale, alla notte futura o a quella appena trascorsa. Dopo il cambiamento di data, la sera precedente viene indicata con ieri sera."
+  },
+  "etymology": {
+    "ja": "sta「この」とsera「夕方・晩」が結合した語で、文字どおり「この晩」を意味する。歴史的には、後期ラテン語の再建形ista sera「この晩」に由来すると考えられている。istaは指示詞isteの女性形で、時間の経過とともに語頭部分が短縮され、seraと一体化してstaseraとなった。",
+    "it": "È formato da sta, «questa», e sera e significa letteralmente «questa sera». Viene generalmente ricondotto alla locuzione del latino tardo ricostruita come ista sera. Ista era la forma femminile del dimostrativo iste; la parte iniziale si è ridotta e si è unita a sera, formando l’avverbio moderno."
+  },
+  "minimal": [
+    {
+      "word": "stasera",
+      "ja": "話している日の夕方・今晩",
+      "it": "nella sera del giorno in cui si parla"
+    },
+    {
+      "word": "questa sera",
+      "ja": "staseraとほぼ同じ「今日の夕方・今晩」",
+      "it": "espressione analitica sostanzialmente equivalente a stasera"
+    },
+    {
+      "word": "stanotte",
+      "ja": "今日に関係する深夜・就寝時間帯、今夜または昨夜",
+      "it": "durante la notte collegata al giorno presente, futura o appena trascorsa"
+    },
+    {
+      "word": "ieri sera",
+      "ja": "今日の直前の日の夕方・昨晩",
+      "it": "nella sera del giorno precedente a oggi"
+    },
+    {
+      "word": "domani sera",
+      "ja": "今日の直後の日の夕方・明晩",
+      "it": "nella sera del giorno successivo a oggi"
+    }
+  ],
+  "synonyms": [
+    "questa sera",
+    "nella serata di oggi"
+  ],
+  "equivalents": {
+    "en": [
+      "this evening",
+      "tonight"
+    ],
+    "de": [
+      "heute Abend"
+    ],
+    "fr": [
+      "ce soir"
+    ],
+    "es": [
+      "esta tarde",
+      "esta noche"
+    ]
+  },
+  "collocations": [
+    {
+      "it": "stasera alle otto",
+      "ja": "今晩8時に"
+    },
+    {
+      "it": "stasera presto",
+      "ja": "今晩早い時間に"
+    },
+    {
+      "it": "stasera tardi",
+      "ja": "今夜遅く"
+    },
+    {
+      "it": "proprio stasera",
+      "ja": "ほかでもなく今晩"
+    },
+    {
+      "it": "solo stasera",
+      "ja": "今晩だけ"
+    },
+    {
+      "it": "da stasera",
+      "ja": "今晩から"
+    },
+    {
+      "it": "per stasera",
+      "ja": "今晩に向けて・今晩の予定として"
+    },
+    {
+      "it": "entro stasera",
+      "ja": "今晩中に"
+    },
+    {
+      "it": "fino a stasera",
+      "ja": "今晩まで"
+    },
+    {
+      "it": "ci vediamo stasera",
+      "ja": "今晩会いましょう"
+    },
+    {
+      "it": "cenare fuori stasera",
+      "ja": "今晩外食する"
+    },
+    {
+      "it": "il programma di stasera",
+      "ja": "今晩の番組・予定"
+    }
+  ],
+  "examples": [
+    {
+      "it": "Stasera ceniamo fuori.",
+      "ja": "今晩は外で夕食を取ります。"
+    },
+    {
+      "it": "Stasera vado al cinema con mia moglie.",
+      "ja": "今晩、私は妻と映画館へ行きます。"
+    },
+    {
+      "it": "Stasera andrò a letto presto.",
+      "ja": "今晩は早く寝るつもりです。"
+    },
+    {
+      "it": "Il concerto comincia stasera alle otto.",
+      "ja": "コンサートは今晩8時に始まります。"
+    },
+    {
+      "it": "Ci vediamo stasera davanti alla stazione.",
+      "ja": "今晩、駅前で会いましょう。"
+    },
+    {
+      "it": "Stasera fa più freddo di ieri.",
+      "ja": "今晩は昨日より寒いです。"
+    },
+    {
+      "it": "Stasera sono molto stanco.",
+      "ja": "今晩はとても疲れています。"
+    },
+    {
+      "it": "Ho già bevuto due caffè stasera.",
+      "ja": "今晩はすでにコーヒーを2杯飲みました。"
+    },
+    {
+      "it": "Il direttore vuole il rapporto entro stasera.",
+      "ja": "責任者は今晩中に報告書を求めています。"
+    },
+    {
+      "it": "La cena sarà pronta per stasera alle sette.",
+      "ja": "夕食は今晩7時には用意できています。"
+    },
+    {
+      "it": "Da stasera il ristorante resterà aperto fino a mezzanotte.",
+      "ja": "今晩から、そのレストランは深夜0時まで営業します。"
+    },
+    {
+      "it": "Qual è il programma di stasera?",
+      "ja": "今晩の予定は何ですか。"
+    },
+    {
+      "it": "Solo stasera tutti i biglietti costano la metà.",
+      "ja": "今晩に限り、すべての切符が半額です。"
+    },
+    {
+      "it": "Stasera guarderemo un film e stanotte dormiremo qui.",
+      "ja": "今晩は映画を見て、今夜はここに泊まります。"
+    }
+  ]
+}
+]
