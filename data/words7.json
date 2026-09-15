@@ -1,5 +1,710 @@
 [
 {
+  "id": "guida",
+  "sid": "2026-00317",
+  "word": "guida",
+  "ipa": "/ˈɡwida/",
+  "level": "A2",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞／guidareの直説法現在三人称単数・命令法二人称単数",
+      "it": "sostantivo femminile / terza persona singolare dell’indicativo presente e seconda persona singolare dell’imperativo di guidare"
+    },
+    "gender": "feminine",
+    "plural": "guide",
+    "pattern": "la guida / le guide / fare da guida a qualcuno / guida di, a o per + luogo o attività / sotto la guida di qualcuno / essere alla guida di un veicolo o di un’organizzazione / nome + guida / lei guida / guida!"
+  },
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "travel",
+      "transport",
+      "education",
+      "business",
+      "leadership",
+      "technology"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "自動車・オートバイなどを運転し、その進行方向や速度を制御すること",
+      "安全運転・乱暴な運転など、車両を運転する仕方や運転の特徴",
+      "道を示したり説明したりしながら人を目的地や見学場所へ案内する人",
+      "観光客に名所・美術館・地域などを案内して解説する職業上のガイド",
+      "登山者を山岳地帯で案内し、安全を確保する専門家",
+      "経験・知識・権威によって他者を指導し、進むべき方向を示す人",
+      "判断・行動・進路の基準または手掛かりとなる物・考え・原則",
+      "都市・地域・施設などの情報、地図、名所、利用方法をまとめた案内書",
+      "特定の分野・作業・製品などについて方法や基本事項を説明する手引き・マニュアル",
+      "企業・政党・組織などを指揮・運営すること、またはその指導的地位",
+      "物体を一定の方向へ動かしたり、正しい位置を保たせたりするレール・溝・装置",
+      "自動車のハンドル位置や運転装置の配置を表すもの",
+      "idea guidaなどの形で、計画・理論・行動の中心となる基本的な考え",
+      "動詞guidareの形として、彼・彼女が運転する、または親しい相手への命令「運転しなさい」"
+    ],
+    "it": [
+      "Azione di condurre e controllare un’automobile, una motocicletta o un altro veicolo.",
+      "Modo o stile con cui una persona conduce un veicolo.",
+      "Persona che indica il percorso e accompagna qualcuno verso un luogo o durante una visita.",
+      "Professionista che accompagna i turisti e illustra monumenti, musei, città o territori.",
+      "Professionista che accompagna e assiste gli escursionisti o gli alpinisti in montagna.",
+      "Persona che, grazie alla propria esperienza o autorità, orienta e consiglia altri.",
+      "Cosa, idea, esempio o principio che indica la direzione da seguire.",
+      "Libro o pubblicazione contenente informazioni, mappe, itinerari e consigli relativi a un luogo.",
+      "Manuale che introduce a una disciplina o spiega come svolgere un’attività o utilizzare qualcosa.",
+      "Direzione e responsabilità del governo di un’impresa, un’organizzazione o un gruppo.",
+      "Dispositivo, rotaia, scanalatura o elemento che regola lo scorrimento e la direzione di una parte mobile.",
+      "Disposizione del volante e dei comandi di un veicolo sul lato destro o sinistro.",
+      "In funzione appositiva e invariabile, elemento che costituisce il principio centrale di un progetto o di una teoria.",
+      "Come forma di guidare, significa che lui o lei conduce o dirige, oppure esprime un comando rivolto a tu."
+    ]
+  },
+  "nuance": {
+    "ja": "人を表すguidaは、対象となる人が男性でも女性でも文法上は女性名詞であり、Marco è una guida esperta「マルコは経験豊富なガイドだ」と言う。guida turisticaは文脈により「観光ガイドという人」と「旅行案内書」の両方を表す。fare da guidaは「案内役を務める」、sotto la guida diは「～の指導の下で」を意味する。essere alla guida diは、車両については「運転席にいる」、企業や組織については「指揮している」となる。idea guida、principio guidaのguidaは形容詞的に使われ、複数でもidee guida、principi guidaと不変化する。動詞のGuida piano!は「ゆっくり運転して」という命令である。",
+    "it": "Quando indica una persona, guida mantiene il genere grammaticale femminile anche se il referente è un uomo: Marco è una guida esperta. Guida turistica può indicare sia il professionista che accompagna i visitatori sia un libro destinato ai turisti; il contesto elimina normalmente l’ambiguità. Fare da guida significa accompagnare o orientare qualcuno; sotto la guida di indica direzione o insegnamento. Essere alla guida di un’automobile significa trovarsi al volante, mentre essere alla guida di un’azienda significa dirigerla. Negli usi appositivi guida rimane invariabile: idea guida, idee guida, principio guida, principi guida. Guida! è inoltre l’imperativo di guidare rivolto a tu."
+  },
+  "etymology": {
+    "ja": "動詞guidare「案内する、運転する」から形成された名詞である。guidareはプロヴァンス語guidarを経てイタリア語に入り、その語源はフランク語、すなわち西ゲルマン語系の言語にさかのぼる。もともとの中心的な観念は「道を知り、他者に進む方向を示すこと」であり、そこから人を案内すること、車両を操縦すること、組織や思想を指導することへ意味が広がった。英語guideとフランス語guideも同じ歴史的な語族に属する。",
+    "it": "È un derivato di guidare. Il verbo italiano proviene dal provenzale guidar, a sua volta di origine franca. Il significato fondamentale era quello di conoscere o indicare il cammino e condurre qualcuno nella direzione corretta. Da questo valore si sono sviluppati gli usi relativi all’accompagnamento, alla conduzione dei veicoli, alla direzione di organizzazioni e all’orientamento morale o intellettuale. L’inglese guide e il francese guide appartengono alla stessa famiglia storica."
+  },
+  "minimal": [
+    {
+      "word": "guida",
+      "ja": "道や行動の方向を示す人・手引き、または車両の運転とその方法",
+      "it": "persona o strumento che orienta, manuale informativo oppure azione di condurre un veicolo"
+    },
+    {
+      "word": "accompagnatore",
+      "ja": "旅行・行事などで人や集団に同行し、必要な世話や調整を行う人",
+      "it": "persona che viaggia con un individuo o un gruppo fornendo assistenza e organizzazione"
+    },
+    {
+      "word": "conducente",
+      "ja": "自動車・バス・列車などの乗り物を運転・操作する人",
+      "it": "persona che conduce un veicolo e ne controlla il movimento"
+    },
+    {
+      "word": "manuale",
+      "ja": "特定の分野・製品・作業について体系的な説明や使用方法を示す本",
+      "it": "libro che presenta sistematicamente una materia o spiega l’uso di un prodotto"
+    },
+    {
+      "word": "direzione",
+      "ja": "進む方角、または企業・組織などを指揮・管理すること",
+      "it": "orientamento verso cui si procede oppure attività di governo e gestione di un’organizzazione"
+    }
+  ],
+  "synonyms": [
+    "accompagnatore",
+    "cicerone",
+    "orientamento",
+    "direzione",
+    "manuale",
+    "conducente"
+  ],
+  "equivalents": {
+    "en": [
+      "guide",
+      "guidance",
+      "guidebook",
+      "driving",
+      "manual"
+    ],
+    "de": [
+      "Führer",
+      "Führung",
+      "Reiseführer",
+      "Fahren",
+      "Anleitung"
+    ],
+    "fr": [
+      "guide",
+      "conduite",
+      "direction",
+      "manuel"
+    ],
+    "es": [
+      "guía",
+      "conducción",
+      "dirección",
+      "manual"
+    ]
+  },
+  "collocations": [
+    {
+      "it": "fare da guida",
+      "ja": "案内役を務める"
+    },
+    {
+      "it": "guida turistica",
+      "ja": "観光ガイド・旅行案内書"
+    },
+    {
+      "it": "guida alpina",
+      "ja": "山岳ガイド"
+    },
+    {
+      "it": "sotto la guida di qualcuno",
+      "ja": "誰かの指導の下で"
+    },
+    {
+      "it": "affidarsi alla guida di qualcuno",
+      "ja": "誰かの案内・指導に身を委ねる"
+    },
+    {
+      "it": "essere alla guida di",
+      "ja": "～を運転している・～を指揮している"
+    },
+    {
+      "it": "patente di guida",
+      "ja": "運転免許証"
+    },
+    {
+      "it": "scuola guida",
+      "ja": "自動車教習所"
+    },
+    {
+      "it": "guida pratica",
+      "ja": "実用的な手引き"
+    },
+    {
+      "it": "guida della città",
+      "ja": "都市の案内書"
+    },
+    {
+      "it": "idea guida",
+      "ja": "中心となる考え・基本理念"
+    },
+    {
+      "it": "guida a destra o a sinistra",
+      "ja": "右ハンドルまたは左ハンドル"
+    }
+  ],
+  "examples": [
+    {
+      "it": "Sto prendendo lezioni di guida.",
+      "ja": "私は運転の教習を受けています。"
+    },
+    {
+      "it": "Ha una guida prudente e tranquilla.",
+      "ja": "彼女は慎重で落ち着いた運転をします。"
+    },
+    {
+      "it": "La guida ci ha accompagnati attraverso il centro storico.",
+      "ja": "ガイドは私たちを歴史地区へ案内してくれました。"
+    },
+    {
+      "it": "Paolo è una guida turistica molto esperta.",
+      "ja": "パオロは非常に経験豊富な観光ガイドです。"
+    },
+    {
+      "it": "Abbiamo assunto una guida alpina per raggiungere la vetta.",
+      "ja": "私たちは山頂へ行くために山岳ガイドを雇いました。"
+    },
+    {
+      "it": "Ho comprato una guida turistica della Sicilia.",
+      "ja": "私はシチリアの旅行案内書を買いました。"
+    },
+    {
+      "it": "Questa guida spiega come installare l’applicazione.",
+      "ja": "このガイドにはアプリケーションのインストール方法が説明されています。"
+    },
+    {
+      "it": "Gli studenti hanno lavorato sotto la guida dell’insegnante.",
+      "ja": "学生たちは教師の指導の下で作業しました。"
+    },
+    {
+      "it": "La stella polare serviva da guida ai naviganti.",
+      "ja": "北極星は航海者たちの道しるべとなっていました。"
+    },
+    {
+      "it": "Da gennaio sarà lei alla guida dell’azienda.",
+      "ja": "1月から彼女が会社を率いることになります。"
+    },
+    {
+      "it": "Il cassetto non scorre perché una guida è danneggiata.",
+      "ja": "案内レールが一つ壊れているため、引き出しが滑らかに動きません。"
+    },
+    {
+      "it": "In Giappone le automobili hanno normalmente la guida a destra.",
+      "ja": "日本では自動車は通常右ハンドルです。"
+    },
+    {
+      "it": "La semplicità è stata l’idea guida del progetto.",
+      "ja": "簡潔さがそのプロジェクトの基本理念でした。"
+    },
+    {
+      "it": "Guida piano: la strada è coperta di fango.",
+      "ja": "ゆっくり運転してください。道路は泥で覆われています。"
+    }
+  ]
+},  
+{
+  "id": "anche",
+  "sid": "2026-00318",
+  "word": "anche",
+  "ipa": "/ˈanke/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "adverb_conjunction",
+    "label": {
+      "ja": "追加・強調の副詞および接続詞",
+      "it": "avverbio e congiunzione aggiuntiva, rafforzativa e concessiva"
+    },
+    "invariable": true,
+    "pattern": "anche + elemento aggiunto / verbo + anche + elemento / anch’io, anche tu / e o ma anche / non solo... ma anche... / anche se + frase / anche + gerundio / anche a + infinito"
+  },
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "addition",
+      "comparison",
+      "argumentation",
+      "business",
+      "concession"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "すでに述べられた人・物・事柄に別のものを加える、～も・～もまた",
+      "すでに述べた行為・条件・理由などに別のものを付け加える、さらに・そのうえ",
+      "通常は予想しにくい人・物・事実まで含める、～さえ・～まで",
+      "起こり得る別の可能性や選択肢を示す、～することもあり得る",
+      "non solo... ma anche...の形で、二つの事柄を「～だけでなく…も」と結び付ける",
+      "anche seの形で、反対の事実や条件があっても結論が変わらないことを表す、～だけれども・たとえ～でも",
+      "anche + ジェルンディオまたはanche a + 不定詞の形で、ある行為をしても結果が変わらないことを表す",
+      "anche troppoの形で、必要または適切な程度を超えていることを表す、十分すぎるほど",
+      "単独または省略表現で、すでに述べられた肯定的内容が別の人・物にも当てはまることを示す",
+      "古風・文学的用法で、再び・さらに・まだ"
+    ],
+    "it": [
+      "Aggiunge una persona, una cosa o un fatto a quanto è già stato detto o sottinteso.",
+      "Aggiunge un’azione, una condizione, una ragione o un’altra considerazione.",
+      "Include perfino un elemento inatteso o normalmente escluso dalle aspettative.",
+      "Presenta un’ulteriore possibilità, alternativa o conseguenza eventuale.",
+      "Nella costruzione non solo... ma anche..., mette in correlazione due elementi aggiuntivi.",
+      "Nella locuzione anche se, introduce un fatto contrario o una condizione che non modifica la conclusione.",
+      "Davanti al gerundio o nella costruzione anche a + infinito, può assumere valore concessivo.",
+      "Nell’espressione anche troppo, indica che una quantità o un’intensità supera quanto sarebbe necessario o opportuno.",
+      "Usato da solo o in una frase ellittica, conferma che un’affermazione vale per un altro elemento.",
+      "Nell’uso antico o letterario, può significare ancora, nuovamente o un’altra volta."
+    ]
+  },
+  "nuance": {
+    "ja": "ancheは通常、直後の語句または近くにある要素を焦点化する。Anche Luca ha telefonatoは「ルカも電話した」、Luca ha anche telefonatoは「ルカは電話もした」、Luca ha telefonato anche a Mariaは「ルカはマリアにも電話した」となる。人称代名詞ioの前ではanch’ioという語形が特に一般的である。追加を表すpureもancheに近いが、pureは地域や文脈によって会話的に響き、命令文ではEntra pure「どうぞ入って」のような許可も表す。perfino、persino、addiritturaはancheより意外性を強く示す。anche seは事実を認める「～だけれども」と、仮定条件を退ける「たとえ～でも」の両方に使える。",
+    "it": "Anche mette normalmente a fuoco l’elemento che segue o al quale si trova più vicino. Anche Luca ha telefonato significa che Luca si aggiunge ad altre persone; Luca ha anche telefonato aggiunge l’azione del telefonare; Luca ha telefonato anche a Maria aggiunge Maria ai destinatari. Davanti a io è particolarmente comune la forma elisa anch’io. Pure può essere equivalente ad anche nel valore aggiuntivo, ma può avere un tono più colloquiale o regionale e, con l’imperativo, esprime anche permesso. Perfino, persino e addirittura sottolineano l’eccezionalità più intensamente. Anche se può introdurre sia un fatto reale ammesso sia una condizione ipotetica incapace di cambiare il risultato."
+  },
+  "etymology": {
+    "ja": "語源は完全には確定していない。古いイタリア語にはancoという形もあり、ancheは中世初期から記録されている。ラテン語の指示詞・追加表現などとの関連を想定する複数の説があるが、確実な形成過程については主要辞書でも「語源不詳」とされる。現代語では追加・強調・譲歩を担う基本語となり、neancheはnéとancheの結合によって形成された。",
+    "it": "L’etimologia non è definitivamente accertata. Nell’italiano antico era diffusa anche la variante anco e la parola è documentata fin dai primi secoli della lingua. Sono state proposte diverse derivazioni da espressioni latine di valore dimostrativo o aggiuntivo, ma i principali dizionari considerano incerta la sua origine. Dall’unione di né e anche si è successivamente formato neanche."
+  },
+  "minimal": [
+    {
+      "word": "anche",
+      "ja": "人・物・行為などを中立的に追加する最も一般的な「～も」",
+      "it": "forma più generale e neutra per aggiungere una persona, una cosa o un fatto"
+    },
+    {
+      "word": "pure",
+      "ja": "追加ではancheに近いが、命令文では許可や穏やかな促しも表す",
+      "it": "può equivalere ad anche, ma con l’imperativo esprime anche permesso o incoraggiamento"
+    },
+    {
+      "word": "inoltre",
+      "ja": "別の情報や論点を「さらに」と加える、やや文章的な接続副詞",
+      "it": "aggiunge un’informazione o un argomento con funzione testuale più esplicita"
+    },
+    {
+      "word": "perfino",
+      "ja": "予想外または極端な要素を「～さえ」と強調して加える",
+      "it": "aggiunge con particolare enfasi un elemento inatteso o estremo"
+    },
+    {
+      "word": "neanche",
+      "ja": "否定文で別の要素を加える「～も…ない」、または「～さえ…ない」",
+      "it": "aggiunge un elemento a una negazione oppure significa nemmeno"
+    }
+  ],
+  "synonyms": [
+    "pure",
+    "inoltre",
+    "altresì",
+    "perfino",
+    "persino",
+    "addirittura"
+  ],
+  "equivalents": {
+    "en": [
+      "also",
+      "too",
+      "as well",
+      "even",
+      "although"
+    ],
+    "de": [
+      "auch",
+      "ebenfalls",
+      "sogar",
+      "obwohl"
+    ],
+    "fr": [
+      "aussi",
+      "également",
+      "même",
+      "bien que"
+    ],
+    "es": [
+      "también",
+      "asimismo",
+      "incluso",
+      "aunque"
+    ]
+  },
+  "collocations": [
+    {
+      "it": "anch’io",
+      "ja": "私も"
+    },
+    {
+      "it": "anche tu",
+      "ja": "あなたも"
+    },
+    {
+      "it": "anche lui",
+      "ja": "彼も"
+    },
+    {
+      "it": "anche a me",
+      "ja": "私にも・私も"
+    },
+    {
+      "it": "anche oggi",
+      "ja": "今日も"
+    },
+    {
+      "it": "e anche",
+      "ja": "そして～も"
+    },
+    {
+      "it": "ma anche",
+      "ja": "しかし～も・～だけでなく…も"
+    },
+    {
+      "it": "non solo... ma anche...",
+      "ja": "～だけでなく…も"
+    },
+    {
+      "it": "anche perché",
+      "ja": "～という理由もあって・とりわけ～なので"
+    },
+    {
+      "it": "anche se",
+      "ja": "～だけれども・たとえ～でも"
+    },
+    {
+      "it": "potrebbe anche",
+      "ja": "～する可能性もある"
+    },
+    {
+      "it": "anche troppo",
+      "ja": "十分すぎるほど・むしろ過度に"
+    }
+  ],
+  "examples": [
+    {
+      "it": "Vengo anch’io alla riunione.",
+      "ja": "私も会議に行きます。"
+    },
+    {
+      "it": "Luca parla inglese e anche tedesco.",
+      "ja": "ルカは英語だけでなくドイツ語も話します。"
+    },
+    {
+      "it": "Dobbiamo anche controllare i documenti.",
+      "ja": "私たちは書類も確認しなければなりません。"
+    },
+    {
+      "it": "Ho telefonato anche a Maria.",
+      "ja": "私はマリアにも電話しました。"
+    },
+    {
+      "it": "Anche un bambino capirebbe questa regola.",
+      "ja": "子供でさえ、この規則は理解できるでしょう。"
+    },
+    {
+      "it": "Il viaggio potrebbe anche durare più del previsto.",
+      "ja": "旅行は予定より長くかかる可能性もあります。"
+    },
+    {
+      "it": "Il corso non è solo utile, ma anche interessante.",
+      "ja": "その講座は役に立つだけでなく、興味深いものです。"
+    },
+    {
+      "it": "Resterò a casa, anche perché sono molto stanco.",
+      "ja": "とても疲れていることもあり、私は家にいます。"
+    },
+    {
+      "it": "Anche se piove, andremo al mare.",
+      "ja": "たとえ雨が降っても、私たちは海へ行きます。"
+    },
+    {
+      "it": "Anche sapendo la verità, non riusciva a crederci.",
+      "ja": "真実を知っていても、彼はそれを信じられませんでした。"
+    },
+    {
+      "it": "Anche a spiegarglielo con calma, non cambierebbe idea.",
+      "ja": "落ち着いて説明しても、彼は考えを変えないでしょう。"
+    },
+    {
+      "it": "Mi hai aiutato anche troppo; ora devi riposarti.",
+      "ja": "あなたには十分すぎるほど助けてもらいました。今は休んでください。"
+    }
+  ]
+},
+{
+  "id": "neanche",
+  "sid": "2026-00319",
+  "word": "neanche",
+  "ipa": "/neˈanke/",
+  "level": "A2",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "adverb_conjunction",
+    "label": {
+      "ja": "否定副詞・否定の接続表現",
+      "it": "avverbio negativo e congiunzione negativa"
+    },
+    "invariable": true,
+    "pattern": "non + verbo + neanche + elemento / neanche + elemento + verbo senza non / neanch’io, neanche tu / senza neanche + infinito / non... e neanche... / neanche se + frase / neanche per sogno"
+  },
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "negation",
+      "comparison",
+      "argumentation",
+      "business",
+      "emphasis"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "すでに否定された人・物・行為に別の否定を加える、～も…ない",
+      "最も容易、最低限または当然と思われる事柄まで否定する、～さえ…ない",
+      "否定的な発言への同意として、自分や別の人にも同じ否定が当てはまることを示す、～もそうではない",
+      "二つの行為・状態・性質などを否定的に結び付ける、そして～も…ない",
+      "senza neancheの形で、当然予想される最低限の行為さえ行わずに",
+      "neanche seの形で、ある条件が成立しても結果が変わらないことを表す、たとえ～でも…ない",
+      "neanche per sogno、neanche per ideaなどの形で、提案や可能性を強く拒絶する、絶対に嫌だ・とんでもない",
+      "口語のneanche + 接続法の形で、実際にはそうしていないのに、まるで～したかのように"
+    ],
+    "it": [
+      "Aggiunge una persona, una cosa o un’azione a una negazione già espressa o sottintesa.",
+      "Esclude perfino il fatto considerato più facile, minimo o normalmente prevedibile.",
+      "In una risposta ellittica, indica che una negazione vale anche per chi parla o per un altro elemento.",
+      "Collega due azioni, condizioni o qualità attribuendo valore negativo anche alla seconda.",
+      "Nella costruzione senza neanche, sottolinea che non è stata compiuta nemmeno un’azione minima o attesa.",
+      "Nella costruzione neanche se, indica che il verificarsi di una condizione non sarebbe sufficiente a cambiare il risultato.",
+      "Nelle espressioni neanche per sogno, neanche per idea e neanche per scherzo, esprime un rifiuto categorico.",
+      "Colloquialmente, seguito dal congiuntivo, può introdurre un paragone irreale con valore simile a come se."
+    ]
+  },
+  "nuance": {
+    "ja": "neancheはneppureおよびnemmenoとほぼ同義だが、特に日常会話で頻繁に使われる。動詞の後に置く場合は通常Non l’ho neanche vistoのようにnonを伴う。一方、Neanche Luca è venutoのようにneancheまたはそれが修飾する要素を動詞より前に置くと、それ自体が文を否定するため通常nonは置かない。同じ内容はNon è venuto neanche Lucaとも表現できる。否定文への同意ではNeanch’io「私もそうではない」を使う。neanche seは「たとえ～でも…ない」、neanche per sognoは強い拒絶を表す。neppureは文脈によってやや整った響きを持つが、三語の意味の違いは通常ごく小さい。",
+    "it": "Neanche è sostanzialmente sinonimo di neppure e nemmeno, ma è particolarmente comune nella conversazione. Quando segue il verbo compare normalmente con non: Non l’ho neanche visto. Se neanche o l’elemento da esso modificato viene anteposto al verbo, non si usa normalmente: Neanche Luca è venuto. Lo stesso contenuto può essere espresso con Non è venuto neanche Luca. In una risposta ellittica, Neanch’io significa «anch’io non». Neanche se introduce una condizione insufficiente a modificare il risultato; neanche per sogno esprime invece un rifiuto assoluto. Neppure può risultare leggermente meno familiare, ma nella maggior parte dei contesti le tre forme sono intercambiabili."
+  },
+  "etymology": {
+    "ja": "否定を表す接続詞néと、追加を表す副詞anche「～も」を組み合わせて形成された。語源的には「～もまた…ない」という構造を持つ。néはラテン語nec「そして～ない、～もない」に由来し、ancheは後期ラテン語の表現hanc adを経て成立したとされる。neancheは比較的新しい複合語で、文献上では17世紀末から確認される。",
+    "it": "È formato dall’unione di né e anche e significa etimologicamente «anche non». Né continua il latino nec, «e non, neppure», mentre anche viene generalmente ricondotto a una locuzione del latino tardo formata da hanc e ad. Neanche è una formazione relativamente recente, documentata dalla fine del Seicento."
+  },
+  "minimal": [
+    {
+      "word": "neanche",
+      "ja": "否定に人・物・行為を加える「～も…ない」、または最低限の可能性まで排除する「～さえ…ない」",
+      "it": "aggiunge un elemento a una negazione oppure esclude perfino la possibilità considerata più ovvia"
+    },
+    {
+      "word": "neppure",
+      "ja": "neancheとほぼ同義だが、文脈によってやや整った響きを持つ",
+      "it": "è quasi equivalente a neanche, ma può avere un tono leggermente meno familiare"
+    },
+    {
+      "word": "nemmeno",
+      "ja": "neancheとほぼ同義で、否定への追加や強調を表す標準的な語",
+      "it": "è quasi equivalente a neanche e aggiunge o rafforza una negazione"
+    },
+    {
+      "word": "né",
+      "ja": "二つ以上の語句・行為・性質を「～も…ない」と否定的に結ぶ",
+      "it": "coordina due o più elementi attribuendo valore negativo a ciascuno"
+    },
+    {
+      "word": "anche",
+      "ja": "肯定文で人・物・事柄を追加する「～も」で、通常それ自体は否定を表さない",
+      "it": "aggiunge un elemento in una frase affermativa e non possiede normalmente valore negativo"
+    }
+  ],
+  "synonyms": [
+    "neppure",
+    "nemmeno",
+    "né",
+    "per nulla",
+    "affatto",
+    "in nessun caso"
+  ],
+  "equivalents": {
+    "en": [
+      "neither",
+      "not even",
+      "either",
+      "nor"
+    ],
+    "de": [
+      "auch nicht",
+      "nicht einmal",
+      "weder",
+      "noch"
+    ],
+    "fr": [
+      "non plus",
+      "même pas",
+      "ni"
+    ],
+    "es": [
+      "tampoco",
+      "ni siquiera",
+      "ni"
+    ]
+  },
+  "collocations": [
+    {
+      "it": "neanch’io",
+      "ja": "私も～ない"
+    },
+    {
+      "it": "neanche tu",
+      "ja": "あなたも～ない"
+    },
+    {
+      "it": "neanche lui",
+      "ja": "彼も～ない"
+    },
+    {
+      "it": "non dire neanche una parola",
+      "ja": "一言も言わない"
+    },
+    {
+      "it": "non avere neanche un minuto",
+      "ja": "一分の時間さえない"
+    },
+    {
+      "it": "non sapere neanche",
+      "ja": "～さえ知らない"
+    },
+    {
+      "it": "senza neanche salutare",
+      "ja": "挨拶さえせずに"
+    },
+    {
+      "it": "neanche se",
+      "ja": "たとえ～でも…ない"
+    },
+    {
+      "it": "neanche per sogno",
+      "ja": "絶対に嫌だ・とんでもない"
+    },
+    {
+      "it": "neanche per idea",
+      "ja": "全く考えられない・絶対にない"
+    },
+    {
+      "it": "neanche lontanamente",
+      "ja": "少しも・到底"
+    },
+    {
+      "it": "non pensarci neanche",
+      "ja": "そんなことは考えもしない・絶対にやめておく"
+    }
+  ],
+  "examples": [
+    {
+      "it": "Non ho neanche un euro con me.",
+      "ja": "私は1ユーロさえ持っていません。"
+    },
+    {
+      "it": "Neanche Marco conosce la risposta.",
+      "ja": "マルコでさえ答えを知りません。"
+    },
+    {
+      "it": "Non è venuto neanche Marco.",
+      "ja": "マルコも来ませんでした。"
+    },
+    {
+      "it": "Non mi piace il tennis. — Neanch’io lo seguo.",
+      "ja": "「私はテニスが好きではありません」「私もテニスは見ません」"
+    },
+    {
+      "it": "Non ha scritto e neanche telefonato.",
+      "ja": "彼は手紙を書かず、電話もしませんでした。"
+    },
+    {
+      "it": "È uscito senza neanche salutare.",
+      "ja": "彼は挨拶さえせずに出ていきました。"
+    },
+    {
+      "it": "Non so neanche da dove cominciare.",
+      "ja": "どこから始めればよいのかさえ分かりません。"
+    },
+    {
+      "it": "Neanche un bambino crederebbe a una storia simile.",
+      "ja": "子供でさえ、そのような話は信じないでしょう。"
+    },
+    {
+      "it": "Non accetterei quell’incarico neanche se mi pagassero il doppio.",
+      "ja": "報酬を倍にしてもらっても、その仕事は引き受けません。"
+    },
+    {
+      "it": "Il progetto non è neanche lontanamente concluso.",
+      "ja": "そのプロジェクトは完成にはほど遠い状態です。"
+    },
+    {
+      "it": "Vuoi guidare per tutta la notte? — Neanche per sogno!",
+      "ja": "「一晩中運転したいですか」「絶対に嫌です！」"
+    },
+    {
+      "it": "Si è arrabbiata, neanche l’avessi insultata.",
+      "ja": "私が侮辱でもしたかのように、彼女は腹を立てました。"
+    }
+  ]
+},  
+{
   "id": "neppure",
   "sid": "2026-00320",
   "word": "neppure",
