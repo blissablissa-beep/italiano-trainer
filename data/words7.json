@@ -1,5 +1,242 @@
 [
 {
+  "id": "negoziato",
+  "sid": "2026-00316",
+  "word": "negoziato",
+  "ipa": "/neɡotˈtsjato/",
+  "level": "B1",
+  "frequency": "common",
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞／negoziareの過去分詞・形容詞",
+      "it": "sostantivo maschile / participio passato e aggettivo di negoziare"
+    },
+    "gender": "masculine",
+    "plural": "negoziati",
+    "adjectiveForms": [
+      "negoziato",
+      "negoziata",
+      "negoziati",
+      "negoziate"
+    ],
+    "pattern": "avviare, condurre, sospendere o concludere un negoziato / negoziato tra + parti / negoziato con + controparte / negoziato su o per + oggetto o finalità / nome + negoziato, negoziata, negoziati o negoziate"
+  },
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "diplomatic",
+      "legal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "business",
+      "politics",
+      "diplomacy",
+      "law",
+      "employment",
+      "international_relations"
+    ]
+  },
+  "meaning": {
+    "ja": [
+      "合意・契約・条約などの締結を目的として当事者間で行われる一連の正式な交渉",
+      "国家・政府・国際機関などの間で外交上の問題を解決するために行われる協議",
+      "戦争・武力衝突を停止し、休戦または和平を成立させるための交渉",
+      "政党・政治勢力などが政権形成や政策上の合意を目指して行う協議",
+      "政府・企業・労働組合などが賃金・労働条件・契約について行う交渉",
+      "企業間または取引当事者間で、価格・契約条件・買収などについて行う正式な話し合い",
+      "意見や利害の異なる当事者が、譲歩と調整によって共通の解決策を探す過程",
+      "negoziareの過去分詞として、価格・条件・契約などについて交渉した",
+      "形容詞的に、当事者間の交渉と合意によって決められた・成立した"
+    ],
+    "it": [
+      "Insieme organizzato di trattative condotte tra due o più parti per giungere a un accordo, un contratto o un trattato.",
+      "Serie di colloqui diplomatici tra stati, governi o organizzazioni internazionali per risolvere una questione.",
+      "Trattativa destinata a ottenere una tregua, la cessazione di un conflitto o un accordo di pace.",
+      "Confronto tra partiti o forze politiche finalizzato alla formazione di un governo o a un’intesa politica.",
+      "Trattativa tra governo, imprese, lavoratori o sindacati relativa a salari, contratti e condizioni di lavoro.",
+      "Discussione formale tra imprese o parti commerciali riguardante prezzi, condizioni contrattuali, acquisizioni o altri affari.",
+      "Processo attraverso il quale parti con interessi diversi cercano una soluzione comune mediante concessioni e compromessi.",
+      "Come participio passato di negoziare, indica che un prezzo, una condizione o un accordo è stato oggetto di trattativa.",
+      "Come aggettivo, stabilito o raggiunto attraverso una trattativa tra le parti."
+    ]
+  },
+  "nuance": {
+    "ja": "negoziatoは、外交・政治・労使関係・契約などで、一定の目的と参加者を持つ組織的かつ比較的正式な交渉過程を指す。単数形un negoziatoは交渉過程全体または一つの交渉を表し、複数形i negoziatiは複数回の協議や継続的な交渉を表すことが多い。trattativaは個々の話し合いや条件の駆け引きにも使え、日常的・商業的な文脈にも広い。negoziazioneは交渉という行為・手法を抽象的に表すことが多い。accordoは交渉の結果として成立する合意であり、negoziatoそのものとは区別される。una soluzione negoziataは「交渉によって成立した解決策」を意味する。",
+    "it": "Negoziato indica normalmente un processo organizzato e relativamente formale, con parti e obiettivi determinati, soprattutto in ambito diplomatico, politico, sindacale o contrattuale. Il singolare un negoziato può designare l’intero processo o una specifica trattativa; il plurale i negoziati presenta spesso una successione di incontri e colloqui. Trattativa può riferirsi anche a un singolo confronto o alla discussione concreta delle condizioni. Negoziazione mette più facilmente in rilievo l’attività, il metodo o la tecnica del negoziare. Accordo indica invece il risultato eventualmente raggiunto. Una soluzione negoziata è una soluzione ottenuta mediante il confronto e il consenso delle parti."
+  },
+  "etymology": {
+    "ja": "動詞negoziare「交渉する」の過去分詞が名詞化した語である。negoziareはラテン語negotiāri「仕事・取引に従事する」に由来し、その基礎となるnegotiumは否定を表すnecまたはneと、otium「余暇・休息」から成る。語源的には「余暇ではないこと」、すなわち仕事・用務・取引を意味した。そこから商取引を行うこと、条件を話し合うこと、合意形成のために交渉することへ意味が発達した。",
+    "it": "È il participio passato sostantivato di negoziare. Il verbo deriva dal latino negotiāri, «occuparsi di affari, commerciare», formato sulla base di negotium. Quest’ultimo nasce dall’unione di un elemento negativo, nec o ne, e otium, «ozio, tempo libero», e significava originariamente «ciò che non è ozio», quindi occupazione, attività o affare. Dal campo degli affari si è sviluppato il significato moderno di discutere condizioni per raggiungere un’intesa."
+  },
+  "minimal": [
+    {
+      "word": "negoziato",
+      "ja": "合意・契約・条約を目指して行われる組織的で正式な一連の交渉",
+      "it": "insieme formale e organizzato di trattative finalizzate al raggiungimento di un accordo"
+    },
+    {
+      "word": "trattativa",
+      "ja": "条件について具体的に話し合い、互いに譲歩や駆け引きを行う交渉",
+      "it": "confronto concreto nel quale le parti discutono condizioni e possibili concessioni"
+    },
+    {
+      "word": "negoziazione",
+      "ja": "交渉する行為・過程・技法を表す、比較的抽象的または専門的な語",
+      "it": "attività, processo o tecnica del negoziare, considerati spesso in modo astratto"
+    },
+    {
+      "word": "accordo",
+      "ja": "交渉などを経て当事者間で最終的に成立した合意",
+      "it": "intesa raggiunta tra le parti, normalmente come risultato del confronto"
+    },
+    {
+      "word": "dialogo",
+      "ja": "必ずしも具体的な合意を目的としない、意見交換や相互理解のための対話",
+      "it": "scambio di opinioni destinato alla comprensione reciproca, non necessariamente a un accordo concreto"
+    }
+  ],
+  "synonyms": [
+    "trattativa",
+    "negoziazione",
+    "contrattazione",
+    "concertazione",
+    "colloquio",
+    "discussione"
+  ],
+  "equivalents": {
+    "en": [
+      "negotiation",
+      "negotiations",
+      "talks",
+      "negotiated"
+    ],
+    "de": [
+      "Verhandlung",
+      "Verhandlungen",
+      "Gespräche",
+      "ausgehandelt"
+    ],
+    "fr": [
+      "négociation",
+      "négociations",
+      "pourparlers",
+      "négocié"
+    ],
+    "es": [
+      "negociación",
+      "negociaciones",
+      "conversaciones",
+      "negociado"
+    ]
+  },
+  "collocations": [
+    {
+      "it": "avviare un negoziato",
+      "ja": "交渉を開始する"
+    },
+    {
+      "it": "intavolare un negoziato",
+      "ja": "交渉の席に着く・交渉を始める"
+    },
+    {
+      "it": "condurre un negoziato",
+      "ja": "交渉を進める"
+    },
+    {
+      "it": "proseguire il negoziato",
+      "ja": "交渉を継続する"
+    },
+    {
+      "it": "sospendere il negoziato",
+      "ja": "交渉を一時停止する"
+    },
+    {
+      "it": "interrompere il negoziato",
+      "ja": "交渉を中断する"
+    },
+    {
+      "it": "riprendere il negoziato",
+      "ja": "交渉を再開する"
+    },
+    {
+      "it": "concludere un negoziato",
+      "ja": "交渉を終了・妥結させる"
+    },
+    {
+      "it": "fallimento del negoziato",
+      "ja": "交渉の決裂・失敗"
+    },
+    {
+      "it": "negoziati di pace",
+      "ja": "和平交渉"
+    },
+    {
+      "it": "soluzione negoziata",
+      "ja": "交渉によって成立した解決策"
+    },
+    {
+      "it": "prezzo negoziato",
+      "ja": "交渉によって決められた価格"
+    }
+  ],
+  "examples": [
+    {
+      "it": "I due governi hanno avviato un negoziato.",
+      "ja": "両国政府は交渉を開始しました。"
+    },
+    {
+      "it": "I negoziati di pace proseguiranno la prossima settimana.",
+      "ja": "和平交渉は来週も続けられます。"
+    },
+    {
+      "it": "Il negoziato tra il governo e i sindacati è durato tutta la notte.",
+      "ja": "政府と労働組合の交渉は一晩中続きました。"
+    },
+    {
+      "it": "I partiti hanno intavolato un negoziato per formare il nuovo governo.",
+      "ja": "各政党は新政権を樹立するための協議を開始しました。"
+    },
+    {
+      "it": "Le due aziende stanno conducendo un negoziato sulle condizioni dell’acquisizione.",
+      "ja": "両社は買収条件について交渉を進めています。"
+    },
+    {
+      "it": "Il negoziato è stato sospeso a causa di un grave disaccordo.",
+      "ja": "重大な意見の相違により、交渉は一時停止されました。"
+    },
+    {
+      "it": "Le parti hanno deciso di riprendere il negoziato.",
+      "ja": "当事者たちは交渉を再開することを決めました。"
+    },
+    {
+      "it": "Dopo mesi di discussioni, il negoziato si è concluso con un accordo.",
+      "ja": "数か月にわたる協議の末、交渉は合意に達して終了しました。"
+    },
+    {
+      "it": "Il fallimento del negoziato ha provocato un nuovo sciopero.",
+      "ja": "交渉の決裂によって新たなストライキが発生しました。"
+    },
+    {
+      "it": "Un negoziato non conduce necessariamente a un accordo.",
+      "ja": "交渉が必ずしも合意につながるとは限りません。"
+    },
+    {
+      "it": "Entrambe le parti preferiscono una soluzione negoziata.",
+      "ja": "双方とも交渉による解決を望んでいます。"
+    },
+    {
+      "it": "Il prezzo finale è stato negoziato direttamente con il fornitore.",
+      "ja": "最終価格は供給業者と直接交渉して決められました。"
+    }
+  ]
+},  
+{
   "id": "guida",
   "sid": "2026-00317",
   "word": "guida",
