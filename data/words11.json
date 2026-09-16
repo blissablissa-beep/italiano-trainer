@@ -2864,5 +2864,223 @@
       "ja": "彼の言葉はうれしかったですが、単なるお世辞だったのかもしれません。"
     }
   ]
-}  
+},
+{
+  "id": "complimento",
+  "sid": "2026-00463",
+  "word": "complimento",
+  "ipa": "/kompliˈmento/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "complimenti",
+    "pattern": "fare un complimento a qualcuno / ricevere un complimento / fare i complimenti a qualcuno per qualcosa / Complimenti! / senza complimenti"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "relationships",
+      "work",
+      "celebrations",
+      "hospitality",
+      "social"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人の外見・性格・能力・行動などを高く評価して伝える褒め言葉",
+      "相手への好意や敬意を示す称賛の言葉",
+      "複数形fare i complimentiの形で、成果・成功・祝い事に対する祝意",
+      "Complimenti!の形で、「おめでとう」「すばらしい」「よくできました」",
+      "料理・作品・仕事などを作った人に伝える高い評価",
+      "社交上の丁寧な言葉・儀礼的な挨拶、やや古風な用法",
+      "senza complimentiの形で、遠慮や堅苦しい儀礼を抜きにして"
+    ],
+    "it": [
+      "Espressione con cui si manifesta apprezzamento per l’aspetto, il carattere, le capacità o le azioni di qualcuno.",
+      "Parola di elogio rivolta a una persona per esprimere simpatia, stima o approvazione.",
+      "Al plurale, congratulazioni rivolte a qualcuno per un successo, un risultato o un lieto evento.",
+      "Nell’esclamazione Complimenti!, formula equivalente a «bravo», «ben fatto» o «congratulazioni».",
+      "Apprezzamento rivolto all’autore di un piatto, di un’opera o di un lavoro ben eseguito.",
+      "Formula di cortesia o cerimonia sociale, soprattutto in usi tradizionali.",
+      "Nell’espressione senza complimenti, senza formalità, esitazioni o riguardi eccessivi."
+    ]
+  },
+
+  "nuance": {
+    "ja": "単数形un complimentoは、外見・能力・仕事などについて述べる個別の「褒め言葉」を表す。複数形complimentiは「お祝い・称賛」の意味で非常によく使われ、Complimenti per la promozione!は「昇進おめでとうございます」となる。lusingaは相手の好意を得たり行動を誘導したりする意図を感じさせることがあるのに対し、complimentoは通常、より中立的で誠実な評価を表す。ただし過度なcomplimentoは、お世辞として受け取られることもある。英語complimentと異なり、イタリア語では成功を祝うcongratulationsの意味でもcomplimentiが広く使われる。",
+    "it": "Il singolare un complimento indica normalmente una specifica espressione di apprezzamento. Il plurale complimenti è molto comune come formula di congratulazione: Complimenti per la promozione! Rispetto a lusinga, complimento è generalmente più neutro e non implica necessariamente un secondo fine. Una lusinga può essere interessata o manipolatoria, mentre un complimento può essere del tutto sincero. Complimenti può inoltre corrispondere sia all’inglese compliments sia a congratulations."
+  },
+
+  "etymology": {
+    "ja": "スペイン語cumplimiento「履行、礼儀、敬意の表明」を経てイタリア語に入った語で、スペイン語cumplir「満たす、遂行する」に由来する。さらにラテン語complēre「満たす、完成する」にさかのぼり、これはcom-「完全に」とplēre「満たす」から成る。「義務を果たすこと」から「礼儀を尽くすこと」、さらに「称賛や祝意を表す言葉」という意味へ発達した。同じラテン語系統にはcompletare、completo、complementoがある。",
+    "it": "È entrato in italiano attraverso lo spagnolo cumplimiento, «adempimento, atto di cortesia», derivato da cumplir, «compiere, soddisfare». La base più remota è il latino complēre, «riempire, portare a compimento», formato da com- e plēre. Dal valore di «adempiere un dovere di cortesia» si è sviluppato quello di espressione elogiativa o congratulazione. Alla stessa famiglia etimologica appartengono completo, completare e complemento."
+  },
+
+  "minimal": [
+    {
+      "word": "complimento",
+      "ja": "相手の性質・能力・外見・行動などを高く評価して伝える褒め言葉",
+      "it": "espressione di apprezzamento rivolta a una persona per una qualità, un’azione o un risultato"
+    },
+    {
+      "word": "lusinga",
+      "ja": "相手を喜ばせ、好意を得たり行動を促したりするための甘い褒め言葉",
+      "it": "elogio piacevole che può essere usato per ottenere favore o influenzare qualcuno"
+    },
+    {
+      "word": "elogio",
+      "ja": "人の功績・能力・行動などを明確に高く評価する言葉",
+      "it": "espressione esplicita e spesso solenne di approvazione per qualità o meriti"
+    },
+    {
+      "word": "congratulazione",
+      "ja": "成功・達成・祝い事について喜びを伝える祝意",
+      "it": "espressione di gioia e approvazione per un successo o un lieto evento"
+    },
+    {
+      "word": "adulazione",
+      "ja": "利益や好意を得るために相手を過度に持ち上げる、へつらい",
+      "it": "elogio eccessivo e servile rivolto a qualcuno per interesse"
+    }
+  ],
+
+  "synonyms": [
+    "elogio",
+    "apprezzamento",
+    "congratulazione",
+    "encomio",
+    "plauso",
+    "lode"
+  ],
+
+  "equivalents": {
+    "en": [
+      "compliment",
+      "praise",
+      "congratulations",
+      "well done"
+    ],
+    "de": [
+      "Kompliment",
+      "Lob",
+      "Glückwunsch"
+    ],
+    "fr": [
+      "compliment",
+      "éloge",
+      "félicitations"
+    ],
+    "es": [
+      "cumplido",
+      "elogio",
+      "felicitación",
+      "enhorabuena"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "fare un complimento a qualcuno",
+      "ja": "誰かを褒める"
+    },
+    {
+      "it": "ricevere un complimento",
+      "ja": "褒め言葉を受ける"
+    },
+    {
+      "it": "accettare un complimento",
+      "ja": "褒め言葉を素直に受け取る"
+    },
+    {
+      "it": "ricambiare un complimento",
+      "ja": "褒め言葉を返す"
+    },
+    {
+      "it": "un complimento sincero",
+      "ja": "心からの褒め言葉"
+    },
+    {
+      "it": "fare i complimenti a qualcuno",
+      "ja": "誰かに称賛や祝意を伝える"
+    },
+    {
+      "it": "fare i complimenti per il lavoro svolto",
+      "ja": "行われた仕事を称賛する"
+    },
+    {
+      "it": "complimenti per il risultato",
+      "ja": "成果を祝福する・成果を褒める"
+    },
+    {
+      "it": "complimenti alla cuoca",
+      "ja": "料理を作った女性への称賛"
+    },
+    {
+      "it": "meritare i complimenti",
+      "ja": "称賛に値する"
+    },
+    {
+      "it": "i miei complimenti",
+      "ja": "心から称賛します・おめでとうございます"
+    },
+    {
+      "it": "senza complimenti",
+      "ja": "遠慮なく・堅苦しい挨拶抜きで"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Le ho fatto un complimento per il suo nuovo vestito.",
+      "ja": "私は彼女の新しい服を褒めました。"
+    },
+    {
+      "it": "Grazie del complimento, sei molto gentile.",
+      "ja": "褒めてくれてありがとう。とても親切ですね。"
+    },
+    {
+      "it": "Complimenti per aver superato l’esame!",
+      "ja": "試験合格おめでとうございます。"
+    },
+    {
+      "it": "Il direttore ci ha fatto i complimenti per il lavoro svolto.",
+      "ja": "責任者は私たちの仕事ぶりを褒めてくれました。"
+    },
+    {
+      "it": "Questo risotto è delizioso: complimenti alla cuoca.",
+      "ja": "このリゾットはとてもおいしいです。料理を作った方に称賛を送ります。"
+    },
+    {
+      "it": "Non era una lusinga, ma un complimento sincero.",
+      "ja": "それはお世辞ではなく、心からの褒め言葉でした。"
+    },
+    {
+      "it": "La tua presentazione è stata chiarissima: complimenti!",
+      "ja": "あなたの発表は非常に分かりやすかったです。お見事でした。"
+    },
+    {
+      "it": "Siediti e mangia senza complimenti.",
+      "ja": "遠慮せずに座って食べてください。"
+    }
+  ]
+}
 ]
