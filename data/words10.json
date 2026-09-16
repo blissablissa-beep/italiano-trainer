@@ -1521,5 +1521,662 @@
       "ja": "頑張って、ゴールまであと1キロだけです。"
     }
   ]
+}, 
+{
+  "id": "momento",
+  "sid": "2026-00393",
+  "word": "momento",
+  "ipa": "/moˈmento/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "momenti",
+    "pattern": "un momento / in, per, al o dal momento / momento di + nome o infinito / nel momento in cui + indicativo o congiuntivo / da un momento all’altro"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "formal",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "time",
+      "waiting",
+      "planning",
+      "emotions",
+      "narration",
+      "work"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "出来事が起こる特定の時点・瞬間",
+      "比較的短い時間・しばらくの間",
+      "人に少し待ってもらうために求める時間",
+      "人生・仕事・社会などにおける時期・局面",
+      "ある行動を行うのに適した、または不適切なタイミング",
+      "現在の時点・現状",
+      "特定の感情や経験を伴うひととき",
+      "物理学・工学で、力や回転などに関する量、モーメント"
+    ],
+    "it": [
+      "Punto determinato del tempo nel quale avviene qualcosa.",
+      "Intervallo di tempo relativamente breve.",
+      "Breve tempo che si chiede a qualcuno di attendere.",
+      "Periodo o fase della vita, del lavoro, della società o di un processo.",
+      "Occasione temporale considerata adatta o inadatta per compiere un’azione.",
+      "Tempo presente o situazione attuale.",
+      "Breve esperienza caratterizzata da una particolare emozione o condizione.",
+      "In fisica e in ingegneria, grandezza relativa all’azione di una forza o a un movimento di rotazione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "momentoは、短い「瞬間」から人生・社会の「時期・局面」まで幅広い長さを表せる。attimoとistanteは通常、momentoより短い時間を強調する。Un momento!は「少し待って」という日常的な表現で、文字どおり一瞬だけとは限らない。in questo momentoは「まさに今」、per il momentoは「今のところ」、al momentoは「現時点では」を意味する。nel momento in cuiは「～する時に」、dal momento cheは時間ではなく「～なのだから」という理由を導く接続表現になる。",
+    "it": "Momento può indicare tanto un punto preciso quanto un periodo o una fase relativamente estesa. Attimo e istante mettono normalmente in rilievo una durata più breve. Un momento! è una richiesta quotidiana di aspettare e non indica necessariamente un solo istante. In questo momento significa «proprio adesso»; per il momento e al momento significano «per ora, attualmente». Nel momento in cui introduce il tempo in cui avviene qualcosa, mentre dal momento che ha normalmente valore causale e significa «poiché»."
+  },
+
+  "etymology": {
+    "ja": "ラテン語momentum「動き、動かす力、変化、重要性、短い時間」に由来し、動詞movēre「動かす」と同じ語族に属する。momentumは、わずかな動きによって状況が変化する転機や、均衡を動かす力を表した。そこから「重要な時点」「短い時間」という意味が発達した。同じ語族にはmovimento、muovere、英語moment・momentum、フランス語moment、スペイン語momentoがある。",
+    "it": "Deriva dal latino momentum, «movimento, impulso, cambiamento, importanza, breve spazio di tempo», appartenente alla famiglia di movēre, «muovere». La parola indicava anche il piccolo movimento capace di modificare un equilibrio e quindi un punto decisivo. Da questi valori si sono sviluppati quelli di breve intervallo e di fase significativa. Sono della stessa famiglia movimento e muovere, oltre agli inglesi moment e momentum, al francese moment e allo spagnolo momento."
+  },
+
+  "minimal": [
+    {
+      "word": "momento",
+      "ja": "特定の時点、短い時間、またはある程度続く時期・局面",
+      "it": "punto del tempo, breve intervallo oppure fase di durata variabile"
+    },
+    {
+      "word": "attimo",
+      "ja": "話者が非常に短いと感じる、ほんの一瞬",
+      "it": "intervallo percepito come estremamente breve"
+    },
+    {
+      "word": "istante",
+      "ja": "時間軸上の正確な一点として捉えられる瞬間",
+      "it": "punto temporale brevissimo considerato con particolare precisione"
+    },
+    {
+      "word": "periodo",
+      "ja": "始まりと終わりを持ち、一定の長さにわたって続く時期",
+      "it": "intervallo dotato di un inizio e di una fine e generalmente più esteso"
+    },
+    {
+      "word": "occasione",
+      "ja": "何かを行うために生じる機会・好機",
+      "it": "circostanza favorevole o possibilità concreta di fare qualcosa"
+    }
+  ],
+
+  "synonyms": [
+    "istante",
+    "attimo",
+    "fase",
+    "periodo",
+    "occasione",
+    "frangente"
+  ],
+
+  "equivalents": {
+    "en": [
+      "moment",
+      "time",
+      "phase",
+      "torque"
+    ],
+    "de": [
+      "Moment",
+      "Augenblick",
+      "Zeitpunkt",
+      "Drehmoment"
+    ],
+    "fr": [
+      "moment",
+      "instant",
+      "période",
+      "couple"
+    ],
+    "es": [
+      "momento",
+      "instante",
+      "etapa",
+      "momento de fuerza"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "aspettare un momento",
+      "ja": "少し待つ"
+    },
+    {
+      "it": "in questo momento",
+      "ja": "今この瞬間に"
+    },
+    {
+      "it": "per il momento",
+      "ja": "今のところ"
+    },
+    {
+      "it": "al momento",
+      "ja": "現時点では"
+    },
+    {
+      "it": "al momento giusto",
+      "ja": "適切なタイミングで"
+    },
+    {
+      "it": "un momento difficile",
+      "ja": "困難な時期・つらい局面"
+    },
+    {
+      "it": "un momento di calma",
+      "ja": "穏やかなひととき"
+    },
+    {
+      "it": "dal primo momento",
+      "ja": "最初の瞬間から"
+    },
+    {
+      "it": "nel momento in cui",
+      "ja": "～する時に・～したその時に"
+    },
+    {
+      "it": "da un momento all’altro",
+      "ja": "今にも・いつ起きてもおかしくなく"
+    },
+    {
+      "it": "godersi il momento",
+      "ja": "その瞬間を楽しむ"
+    },
+    {
+      "it": "Un momento!",
+      "ja": "ちょっと待ってください"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Aspetta un momento, devo prendere le chiavi.",
+      "ja": "少し待ってください。鍵を取らなければなりません。"
+    },
+    {
+      "it": "In questo momento non posso parlare.",
+      "ja": "今は話すことができません。"
+    },
+    {
+      "it": "Per il momento non abbiamo bisogno di modificare il programma.",
+      "ja": "今のところ、計画を変更する必要はありません。"
+    },
+    {
+      "it": "L’azienda sta attraversando un momento difficile.",
+      "ja": "その会社は現在、困難な局面を迎えています。"
+    },
+    {
+      "it": "Non è il momento giusto per discutere di questo problema.",
+      "ja": "今はこの問題について話し合うのに適切な時ではありません。"
+    },
+    {
+      "it": "Nel momento in cui ho aperto la porta, il telefono ha cominciato a suonare.",
+      "ja": "私がドアを開けたその時、電話が鳴り始めました。"
+    },
+    {
+      "it": "Il treno potrebbe arrivare da un momento all’altro.",
+      "ja": "列車は今にも到着するかもしれません。"
+    },
+    {
+      "it": "Dimentichiamo le preoccupazioni e godiamoci questo momento.",
+      "ja": "心配事は忘れて、このひとときを楽しみましょう。"
+    }
+  ]
+},
+{
+  "id": "presto",
+  "sid": "2026-00394",
+  "word": "presto",
+  "ipa": "/ˈprɛsto/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "時間・様態副詞／形容詞・間投詞的用法",
+      "it": "avverbio di tempo e di modo, con usi aggettivali e interiettivi"
+    },
+    "pattern": "verbo + presto / essere presto / molto o troppo presto / più presto / al più presto / a presto / fare presto / Presto!"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "time",
+      "planning",
+      "travel",
+      "work",
+      "urgency",
+      "farewells"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "通常・予定・予想より早い時刻に、早く",
+      "朝またはある時間帯の早い時間に",
+      "発話時点からあまり時間が経たないうちに、まもなく",
+      "動作を短時間で行って、素早く",
+      "fare prestoの形で、急ぐ・早くする",
+      "al più prestoの形で、可能な限り早く・至急",
+      "A presto!の形で、近いうちの再会を期待する別れの挨拶",
+      "Presto!の形で、急ぐよう命じる「早く！」"
+    ],
+    "it": [
+      "A un’ora anteriore rispetto a quella abituale, prevista o attesa.",
+      "Nelle prime ore della mattina o di un determinato periodo.",
+      "Dopo poco tempo rispetto al momento in cui si parla.",
+      "Con rapidità, impiegando poco tempo per compiere un’azione.",
+      "Nella locuzione fare presto, agire rapidamente o affrettarsi.",
+      "Nella locuzione al più presto, nel minor tempo possibile.",
+      "Nella formula A presto!, saluto che esprime la speranza di rivedersi in un futuro vicino.",
+      "Come esclamazione, ordine o invito ad agire rapidamente."
+    ]
+  },
+
+  "nuance": {
+    "ja": "prestoは文脈によって「早い時刻に」「まもなく」「素早く」という三つの主要な意味を持つ。Mi sveglio prestoは時刻が早いこと、Tornerò prestoは現在から近い未来、Fai prestoは動作の速さを表す。subitoは「直ちに」と遅れがないことを強調し、prestoの「近いうちに」より切迫している。primaは別の時点との比較で「より前に」、rapidamenteは動作の速度そのものを表す。È prestoは「まだ時間が早い」、È troppo prestoは「早すぎる」となる。",
+    "it": "Presto può significare «a un’ora anticipata», «fra poco» oppure «rapidamente». Mi sveglio presto riguarda l’ora; tornerò presto indica un futuro vicino; fai presto riguarda la rapidità dell’azione. Subito sottolinea l’assenza di ritardo ed è generalmente più immediato. Prima stabilisce un rapporto di anteriorità rispetto a un altro momento, mentre rapidamente descrive soprattutto la velocità. È presto significa che l’ora è ancora anticipata; è troppo presto indica che il momento non è ancora opportuno."
+  },
+
+  "etymology": {
+    "ja": "ラテン語praestus「用意のできた、すぐ使える、目前にある」に由来する。そこから「すぐに行動できる」「迅速な」という意味を経て、動作の速さや時間の早さを表す副詞になった。同じ語族・関連語にはprestare「貸す、提供する」、prestazione「遂行、給付、性能」、pronto「準備のできた」などがある。英語prestissimoなどの音楽用語にも、イタリア語のprestoが受け継がれている。",
+    "it": "Deriva dal latino praestus, «pronto, disponibile, presente». Dal valore di ciò che è pronto all’azione si sono sviluppati quelli di rapidità e di anteriorità temporale. Sono storicamente collegati prestare e prestazione. In ambito musicale, presto indica un andamento rapido ed è entrato con questa forma anche nella terminologia internazionale."
+  },
+
+  "minimal": [
+    {
+      "word": "presto",
+      "ja": "早い時刻に、近いうちに、または素早く",
+      "it": "a un’ora anticipata, fra poco oppure rapidamente"
+    },
+    {
+      "word": "subito",
+      "ja": "遅れることなく、直ちに・すぐに",
+      "it": "senza alcun ritardo, immediatamente"
+    },
+    {
+      "word": "prima",
+      "ja": "別の時点・出来事より前に、または現在より以前に",
+      "it": "in un momento anteriore rispetto a un altro punto di riferimento"
+    },
+    {
+      "word": "rapidamente",
+      "ja": "動作そのものを高い速度で行って、迅速に",
+      "it": "con elevata velocità nello svolgimento di un’azione"
+    },
+    {
+      "word": "tardi",
+      "ja": "通常・予定・適切な時刻より遅く",
+      "it": "a un’ora successiva rispetto a quella abituale, prevista o opportuna"
+    }
+  ],
+
+  "synonyms": [
+    "anticipatamente",
+    "fra poco",
+    "rapidamente",
+    "velocemente",
+    "sollecitamente",
+    "tempestivamente"
+  ],
+
+  "equivalents": {
+    "en": [
+      "early",
+      "soon",
+      "quickly"
+    ],
+    "de": [
+      "früh",
+      "bald",
+      "schnell"
+    ],
+    "fr": [
+      "tôt",
+      "bientôt",
+      "vite"
+    ],
+    "es": [
+      "temprano",
+      "pronto",
+      "rápidamente"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "svegliarsi presto",
+      "ja": "早く目を覚ます"
+    },
+    {
+      "it": "alzarsi presto",
+      "ja": "早起きする"
+    },
+    {
+      "it": "arrivare presto",
+      "ja": "早く到着する"
+    },
+    {
+      "it": "tornare presto",
+      "ja": "早く・近いうちに戻る"
+    },
+    {
+      "it": "molto presto",
+      "ja": "とても早く"
+    },
+    {
+      "it": "troppo presto",
+      "ja": "早すぎて"
+    },
+    {
+      "it": "il più presto possibile",
+      "ja": "できるだけ早く"
+    },
+    {
+      "it": "al più presto",
+      "ja": "可能な限り早く・至急"
+    },
+    {
+      "it": "fare presto",
+      "ja": "急ぐ・早くする"
+    },
+    {
+      "it": "presto o tardi",
+      "ja": "遅かれ早かれ・いつかは"
+    },
+    {
+      "it": "A presto!",
+      "ja": "また近いうちに"
+    },
+    {
+      "it": "Presto!",
+      "ja": "早く！"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Domani devo alzarmi presto per prendere il primo treno.",
+      "ja": "明日は始発列車に乗るため、早起きしなければなりません。"
+    },
+    {
+      "it": "Siamo arrivati troppo presto e il negozio era ancora chiuso.",
+      "ja": "私たちは早く着きすぎて、店はまだ閉まっていました。"
+    },
+    {
+      "it": "Non preoccuparti, tornerò presto.",
+      "ja": "心配しないでください。すぐに戻ります。"
+    },
+    {
+      "it": "Fai presto, il pullman sta per partire!",
+      "ja": "急いでください。バスがもうすぐ出発します。"
+    },
+    {
+      "it": "Le invieremo una risposta al più presto.",
+      "ja": "可能な限り早く回答をお送りします。"
+    },
+    {
+      "it": "È ancora presto per prendere una decisione definitiva.",
+      "ja": "最終的な決定を下すにはまだ早すぎます。"
+    },
+    {
+      "it": "Presto o tardi dovremo affrontare questo problema.",
+      "ja": "遅かれ早かれ、私たちはこの問題に向き合わなければなりません。"
+    },
+    {
+      "it": "Grazie per essere venuto. A presto!",
+      "ja": "来てくれてありがとう。また近いうちに。"
+    }
+  ]
+},
+{
+  "id": "istante",
+  "sid": "2026-00395",
+  "word": "istante",
+  "ipa": "/isˈtante/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "istanti",
+    "pattern": "un istante / per un istante / in un istante / all’istante / nell’istante in cui + frase / da un istante all’altro"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "time",
+      "waiting",
+      "narration",
+      "emotions",
+      "emergency",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "時間の流れの中の非常に短い一点、瞬間",
+      "出来事が起こる正確な時点",
+      "ほんのわずかな長さしかない時間",
+      "少し待ってもらうために求める短い時間",
+      "判断・感情・状況などが突然変化する瞬間",
+      "in un istanteの形で、極めて短時間のうちに",
+      "all’istanteの形で、直ちに・その場ですぐに"
+    ],
+    "it": [
+      "Punto estremamente breve nel corso del tempo.",
+      "Momento preciso nel quale si verifica un avvenimento.",
+      "Intervallo di durata brevissima.",
+      "Breve tempo che si chiede a qualcuno di attendere.",
+      "Punto nel quale una decisione, un’emozione o una situazione cambia improvvisamente.",
+      "Nella locuzione in un istante, entro un tempo estremamente breve.",
+      "Nella locuzione all’istante, immediatamente e senza alcun ritardo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "istanteは、時間軸上の正確な一点として捉えられる非常に短い瞬間を表し、attimoよりやや精密・文章語的に響くことがある。momentoは一瞬から比較的長い時期まで幅広く使えるが、istanteは通常ごく短い。Aspetti un istanteは丁寧な「少々お待ちください」である。per un istanteは継続時間の「一瞬の間」、in un istanteは完了までの速さ、all’istanteは「直ちに」を表す。スペイン語のinstanteとは異なり、現代標準イタリア語では語頭にnを置かずistanteと綴る。",
+    "it": "Istante indica un punto temporale estremamente breve, spesso considerato con maggiore precisione rispetto ad attimo. Può inoltre avere un tono leggermente più formale o letterario. Momento è più ampio e può designare anche una fase relativamente lunga. Aspetti un istante è una richiesta cortese di attendere. Per un istante indica durata; in un istante la rapidità con cui qualcosa si compie; all’istante significa «immediatamente». In italiano moderno si scrive istante, senza la n iniziale presente nello spagnolo instante."
+  },
+
+  "etymology": {
+    "ja": "ラテン語instans、属格instantis「差し迫った、現在の」に由来する。これは動詞instāre「上に立つ、迫る、差し迫る」の現在分詞で、in-「上に・中に」とstāre「立つ」から成る。目の前に差し迫っているものという意味から「現在の瞬間」を表す名詞になった。同じ語族にはイタリア語istantaneo、英語instant、フランス語instant、スペイン語instanteがある。",
+    "it": "Deriva dal latino instans, genitivo instantis, participio presente di instāre, «stare sopra, incombere, essere imminente», formato da in- e stāre, «stare». Ciò che incombe ed è immediatamente presente finì per indicare il punto temporale attuale. Alla stessa famiglia appartengono istantaneo, l’inglese instant, il francese instant e lo spagnolo instante."
+  },
+
+  "minimal": [
+    {
+      "word": "istante",
+      "ja": "正確な一点として捉えられる、極めて短い瞬間",
+      "it": "punto temporale estremamente breve considerato con precisione"
+    },
+    {
+      "word": "attimo",
+      "ja": "話者が非常に短いと感じる、ほんの一瞬",
+      "it": "intervallo percepito come brevissimo, spesso nell’uso quotidiano"
+    },
+    {
+      "word": "momento",
+      "ja": "特定の時点から、ある程度続く時期・局面まで表せる語",
+      "it": "punto del tempo oppure fase di durata anche relativamente ampia"
+    },
+    {
+      "word": "secondo",
+      "ja": "時間を客観的に測定する単位としての1秒",
+      "it": "unità oggettiva di misura del tempo"
+    },
+    {
+      "word": "immediatamente",
+      "ja": "時間を置かず直ちに行動することを表す副詞",
+      "it": "avverbio che indica un’azione compiuta senza alcun ritardo"
+    }
+  ],
+
+  "synonyms": [
+    "attimo",
+    "momento",
+    "secondo",
+    "battito di ciglia",
+    "frazione di secondo"
+  ],
+
+  "equivalents": {
+    "en": [
+      "instant",
+      "moment",
+      "split second"
+    ],
+    "de": [
+      "Augenblick",
+      "Moment",
+      "Sekunde"
+    ],
+    "fr": [
+      "instant",
+      "moment",
+      "seconde"
+    ],
+    "es": [
+      "instante",
+      "momento",
+      "segundo"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "aspettare un istante",
+      "ja": "少し待つ"
+    },
+    {
+      "it": "esitare per un istante",
+      "ja": "一瞬ためらう"
+    },
+    {
+      "it": "fermarsi per un istante",
+      "ja": "一瞬立ち止まる"
+    },
+    {
+      "it": "per un breve istante",
+      "ja": "ほんの短い間"
+    },
+    {
+      "it": "in un istante",
+      "ja": "瞬く間に"
+    },
+    {
+      "it": "sparire in un istante",
+      "ja": "一瞬で消える"
+    },
+    {
+      "it": "all’istante",
+      "ja": "直ちに・即座に"
+    },
+    {
+      "it": "nell’istante esatto",
+      "ja": "まさにその瞬間に"
+    },
+    {
+      "it": "nell’istante in cui",
+      "ja": "～したその瞬間に"
+    },
+    {
+      "it": "da un istante all’altro",
+      "ja": "今にも・いつ起きてもおかしくなく"
+    },
+    {
+      "it": "istante dopo istante",
+      "ja": "刻一刻と"
+    },
+    {
+      "it": "Aspetti un istante.",
+      "ja": "少々お待ちください"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Aspetti un istante, per favore.",
+      "ja": "少々お待ちください。"
+    },
+    {
+      "it": "Per un istante ho pensato di aver perso il passaporto.",
+      "ja": "一瞬、パスポートをなくしたと思いました。"
+    },
+    {
+      "it": "La luce si è spenta e la stanza è diventata buia in un istante.",
+      "ja": "明かりが消え、部屋は一瞬で暗くなりました。"
+    },
+    {
+      "it": "Nell’istante in cui aprì la porta, il cane corse fuori.",
+      "ja": "彼女がドアを開けたその瞬間、犬が外へ走り出しました。"
+    },
+    {
+      "it": "Il medico ordinò che il paziente fosse trasferito all’istante.",
+      "ja": "医師は患者を直ちに移送するよう命じました。"
+    },
+    {
+      "it": "Il suo volto cambiò espressione per un solo istante.",
+      "ja": "彼の表情はほんの一瞬だけ変わりました。"
+    },
+    {
+      "it": "La situazione diventava più difficile istante dopo istante.",
+      "ja": "状況は刻一刻と困難になっていきました。"
+    },
+    {
+      "it": "Il temporale potrebbe cominciare da un istante all’altro.",
+      "ja": "雷雨は今にも始まるかもしれません。"
+    }
+  ]
 }  
 ]
