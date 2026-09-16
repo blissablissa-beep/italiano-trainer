@@ -2644,5 +2644,225 @@
       "ja": "暗く悲観的な考えに支配されないでください。"
     }
   ]
+},
+{
+  "id": "lusinga",
+  "sid": "2026-00462",
+  "word": "lusinga",
+  "ipa": "/luˈziŋɡa/",
+  "level": "B2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "lusinghe",
+    "pattern": "fare una lusinga a qualcuno / rivolgere lusinghe a qualcuno / cedere alle lusinghe / attirare o conquistare con le lusinghe / la lusinga di + nome o infinito"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "relationships",
+      "work",
+      "politics",
+      "persuasion",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "相手を喜ばせたり好意を得たりするために述べる褒め言葉、お世辞",
+      "相手を説得・誘惑・操作する目的で与える称賛",
+      "人を引き付ける魅力的な約束や誘い",
+      "成功・利益・名声などへの魅力や誘惑",
+      "自尊心や虚栄心を満足させる高い評価",
+      "ある期待が実現するのではないかという、しばしば当てにならない希望",
+      "古風・文学的に、人を甘く誘い寄せる魅力や誘惑"
+    ],
+    "it": [
+      "Complimento rivolto a qualcuno per compiacerlo o conquistarne il favore.",
+      "Elogio interessato impiegato per persuadere, sedurre o influenzare una persona.",
+      "Promessa o proposta attraente capace di indurre qualcuno ad agire.",
+      "Attrattiva esercitata dalla prospettiva del successo, del guadagno o della fama.",
+      "Apprezzamento che soddisfa l’orgoglio o la vanità di una persona.",
+      "Speranza, spesso poco fondata, che una determinata aspettativa possa realizzarsi.",
+      "In uso letterario, attrazione seducente e ingannevole."
+    ]
+  },
+
+  "nuance": {
+    "ja": "lusingaは肯定的な「褒め言葉」を表すこともあるが、多くの場合、相手の機嫌を取ったり行動を誘導したりする意図を含む。そのためcomplimentoよりも「お世辞・甘言」に近く、文脈によっては不誠実さや策略を感じさせる。通常、個々の褒め言葉には単数形una lusinga、繰り返されるお世辞や誘惑には複数形le lusingheが使われる。Cedere alle lusingheは「甘言や誘惑に屈する」、non lasciarsi lusingareは「おだてられてその気にならない」を意味する。",
+    "it": "Lusinga può indicare un apprezzamento piacevole, ma suggerisce spesso l’intenzione di ottenere il favore o di influenzare il comportamento di qualcuno. Rispetto a complimento, può quindi avere una sfumatura più interessata, seduttiva o manipolatoria. Il singolare una lusinga indica un elogio specifico; il plurale le lusinghe è frequente quando si parla di adulazioni ripetute o di attrattive alle quali si può cedere. Cedere alle lusinghe significa lasciarsi convincere o sedurre da esse."
+  },
+
+  "etymology": {
+    "ja": "語源は完全には確定していないが、一般にゲルマン語系の語に由来すると考えられ、中高ドイツ語のlôsinc「欺く者、策略家」などとの関連が指摘されている。当初の「人を欺く甘い言葉」という観念から、相手を喜ばせて好意を得る「お世辞」、さらに人を引き付ける「誘惑・魅力」の意味へ発達した。同じ語族には動詞lusingare「おだてる、喜ばせる」と形容詞lusinghiero「喜ばしい、期待を持たせる」がある。",
+    "it": "L’origine non è del tutto certa, ma la parola è generalmente considerata di provenienza germanica e viene accostata a forme medievali riferite all’inganno o all’adulazione. Dall’idea di parole piacevoli usate per conquistare o ingannare si sono sviluppati i significati di elogio interessato, seduzione e attrattiva. Appartengono alla stessa famiglia lusingare, lusinghiero e lusingato."
+  },
+
+  "minimal": [
+    {
+      "word": "lusinga",
+      "ja": "好意を得たり相手を動かしたりするための褒め言葉・甘言",
+      "it": "elogio piacevole, spesso interessato, usato per ottenere favore o esercitare influenza"
+    },
+    {
+      "word": "complimento",
+      "ja": "相手の性質・能力・外見などを評価して伝える褒め言葉",
+      "it": "espressione di apprezzamento che non implica necessariamente un secondo fine"
+    },
+    {
+      "word": "adulazione",
+      "ja": "利益を得るために相手を過度に持ち上げる、へつらい",
+      "it": "elogio eccessivo e servile rivolto a qualcuno per interesse"
+    },
+    {
+      "word": "elogio",
+      "ja": "人の長所・功績・行動などを公然と高く評価する言葉",
+      "it": "espressione esplicita di approvazione per qualità, meriti o azioni"
+    },
+    {
+      "word": "tentazione",
+      "ja": "望ましくない可能性があっても何かをしたいと思わせる誘惑",
+      "it": "impulso o attrattiva che induce a desiderare qualcosa, anche se inopportuno"
+    }
+  ],
+
+  "synonyms": [
+    "complimento",
+    "adulazione",
+    "piaggeria",
+    "elogio",
+    "blandizia",
+    "attrattiva",
+    "seduzione"
+  ],
+
+  "equivalents": {
+    "en": [
+      "flattery",
+      "compliment",
+      "allurement",
+      "enticement"
+    ],
+    "de": [
+      "Schmeichelei",
+      "Kompliment",
+      "Verlockung"
+    ],
+    "fr": [
+      "flatterie",
+      "compliment",
+      "séduction",
+      "attrait"
+    ],
+    "es": [
+      "halago",
+      "adulación",
+      "lisonja",
+      "atractivo"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "fare una lusinga a qualcuno",
+      "ja": "誰かにお世辞を言う"
+    },
+    {
+      "it": "rivolgere lusinghe a qualcuno",
+      "ja": "誰かに甘い褒め言葉をかける"
+    },
+    {
+      "it": "coprire qualcuno di lusinghe",
+      "ja": "誰かを盛んに褒めそやす"
+    },
+    {
+      "it": "cedere alle lusinghe",
+      "ja": "甘言や誘惑に屈する"
+    },
+    {
+      "it": "resistere alle lusinghe",
+      "ja": "甘言や誘惑に抵抗する"
+    },
+    {
+      "it": "lasciarsi conquistare dalle lusinghe",
+      "ja": "お世辞に乗せられる"
+    },
+    {
+      "it": "attirare qualcuno con le lusinghe",
+      "ja": "甘い言葉で誰かを引き付ける"
+    },
+    {
+      "it": "essere sensibile alle lusinghe",
+      "ja": "お世辞に弱い"
+    },
+    {
+      "it": "ignorare le lusinghe",
+      "ja": "お世辞や誘惑を意に介さない"
+    },
+    {
+      "it": "false lusinghe",
+      "ja": "偽りの甘言"
+    },
+    {
+      "it": "le lusinghe del successo",
+      "ja": "成功の誘惑"
+    },
+    {
+      "it": "le lusinghe del potere",
+      "ja": "権力の誘惑"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Non cercare di convincermi con le lusinghe.",
+      "ja": "お世辞で私を説得しようとしないでください。"
+    },
+    {
+      "it": "Era molto sensibile alle lusinghe dei colleghi.",
+      "ja": "彼は同僚からのお世辞にとても弱い人でした。"
+    },
+    {
+      "it": "Il direttore non si lasciò conquistare dalle loro lusinghe.",
+      "ja": "責任者は彼らの甘言には乗りませんでした。"
+    },
+    {
+      "it": "Le sue parole erano più una lusinga che un giudizio sincero.",
+      "ja": "彼の言葉は誠実な評価というより、お世辞でした。"
+    },
+    {
+      "it": "Ha resistito alle lusinghe del denaro e del potere.",
+      "ja": "彼女は金銭と権力の誘惑に屈しませんでした。"
+    },
+    {
+      "it": "Il giovane attore fu subito conquistato dalle lusinghe della fama.",
+      "ja": "その若い俳優は、たちまち名声の魅力に心を奪われました。"
+    },
+    {
+      "it": "La proposta offriva la lusinga di un guadagno immediato.",
+      "ja": "その提案は、すぐに利益が得られるという魅力を示していました。"
+    },
+    {
+      "it": "Il suo commento mi ha fatto piacere, anche se forse era soltanto una lusinga.",
+      "ja": "彼の言葉はうれしかったですが、単なるお世辞だったのかもしれません。"
+    }
+  ]
 }  
 ]
