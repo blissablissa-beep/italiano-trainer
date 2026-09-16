@@ -4672,6 +4672,223 @@
   ]
 },
 {
+  "id": "zio",
+  "sid": "2026-00408",
+  "word": "zio",
+  "ipa": "/ˈtsio/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "zii",
+    "feminine": "zia",
+    "femininePlural": "zie",
+    "pattern": "lo zio / gli zii / uno zio / essere zio di + persona / mio zio / zio da parte di + familiare"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "colloquial",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "identity",
+      "genealogy",
+      "affection",
+      "slang"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "父または母の兄弟、おじ",
+      "父または母の姉妹の夫、義理のおじ",
+      "配偶者の親族関係などを通じておじに当たる人物",
+      "子供にとって親しい成人男性を、血縁にかかわらず親しみを込めて呼ぶ語",
+      "若者の口語で、親しい男性に対する「兄弟・おまえ・あんた」に近い呼び掛け",
+      "擬人化された国・組織などを親族になぞらえて呼ぶ表現の構成要素",
+      "宗教共同体・大家族などで、年長の男性に対する親しみを込めた呼称"
+    ],
+    "it": [
+      "Fratello del padre o della madre.",
+      "Marito della sorella del padre o della madre.",
+      "Persona che acquisisce il rapporto di zio attraverso il matrimonio o altri legami familiari.",
+      "Adulto vicino alla famiglia che viene chiamato affettuosamente zio anche senza un rapporto di parentela.",
+      "Nel linguaggio giovanile, appellativo colloquiale rivolto a un amico o a un altro uomo.",
+      "Elemento di espressioni che rappresentano simbolicamente un paese o un’istituzione come un parente.",
+      "Appellativo affettuoso rivolto a un uomo anziano all’interno di una comunità o di una famiglia estesa."
+    ]
+  },
+
+  "nuance": {
+    "ja": "zioは血縁上のおじだけでなく、おばの夫である義理のおじにも使う。父方・母方を区別する場合はzio paterno、zio maternoと言う。親の兄弟とその配偶者を日常的に区別する必要がある場合は、È il fratello di mia madre「母の兄弟です」のように説明する。所有形容詞を伴う単数の親族名では通常定冠詞を省き、mio zioと言う。通常の定冠詞はlo、複数形はgliとなり、lo zio、gli zii、uno zioである。若者言葉のzio!は非常にくだけた表現で、正式な場面には適さない。",
+    "it": "Zio indica sia il fratello di un genitore sia il marito di una zia. Per distinguere il ramo familiare si dice zio paterno o zio materno. Quando occorre precisare il rapporto, si può dire il fratello di mia madre oppure il marito della sorella di mio padre. Con il possessivo singolare si omette normalmente l’articolo: mio zio. Negli altri casi si usano lo zio, gli zii e uno zio. L’uso giovanile di zio come appellativo tra amici è molto informale e non è adatto a situazioni formali."
+  },
+
+  "etymology": {
+    "ja": "後期ラテン語thiusを経て、古代ギリシア語theîos「おじ」に由来する。古典ラテン語では父方のおじをpatruus、母方のおじをavunculusと区別したが、後にギリシア語系のthiusが両方を表す一般語として広まった。同じ起源を持つ語にスペイン語tíoとポルトガル語tioがある。フランス語oncleや英語uncleは、ラテン語avunculusに由来する別系統の語である。",
+    "it": "Deriva dal latino tardo thius, a sua volta dal greco antico theîos, «zio». Il latino classico distingueva il patruus, fratello del padre, dall’avunculus, fratello della madre; successivamente thius si diffuse come termine generale. Hanno la stessa origine lo spagnolo tío e il portoghese tio. Il francese oncle e l’inglese uncle derivano invece dal latino avunculus."
+  },
+
+  "minimal": [
+    {
+      "word": "zio",
+      "ja": "父母の兄弟、または父母の姉妹の夫に当たるおじ",
+      "it": "fratello di un genitore oppure marito di una sorella del genitore"
+    },
+    {
+      "word": "zia",
+      "ja": "父母の姉妹、または父母の兄弟の妻に当たるおば",
+      "it": "sorella di un genitore oppure moglie di un fratello del genitore"
+    },
+    {
+      "word": "nipote",
+      "ja": "おじ・おばから見た甥・姪、または祖父母から見た孫",
+      "it": "figlio dei propri fratelli oppure figlio dei propri figli"
+    },
+    {
+      "word": "prozio",
+      "ja": "祖父または祖母の兄弟に当たる大おじ",
+      "it": "fratello di un nonno o di una nonna"
+    },
+    {
+      "word": "cognato",
+      "ja": "配偶者の兄弟、または兄弟姉妹の配偶者に当たる義兄弟",
+      "it": "fratello del coniuge oppure marito di un fratello o di una sorella"
+    }
+  ],
+
+  "synonyms": [
+    "parente",
+    "familiare",
+    "zio acquisito"
+  ],
+
+  "equivalents": {
+    "en": [
+      "uncle",
+      "uncle by marriage",
+      "dude"
+    ],
+    "de": [
+      "Onkel",
+      "angeheirateter Onkel",
+      "Alter"
+    ],
+    "fr": [
+      "oncle",
+      "oncle par alliance",
+      "mec"
+    ],
+    "es": [
+      "tío",
+      "tío político",
+      "colega"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mio zio",
+      "ja": "私のおじ"
+    },
+    {
+      "it": "zio paterno",
+      "ja": "父方のおじ"
+    },
+    {
+      "it": "zio materno",
+      "ja": "母方のおじ"
+    },
+    {
+      "it": "zio acquisito",
+      "ja": "婚姻による義理のおじ"
+    },
+    {
+      "it": "zio preferito",
+      "ja": "一番好きなおじ"
+    },
+    {
+      "it": "diventare zio",
+      "ja": "おじになる"
+    },
+    {
+      "it": "essere zio di qualcuno",
+      "ja": "誰かのおじである"
+    },
+    {
+      "it": "andare dallo zio",
+      "ja": "おじの家・もとへ行く"
+    },
+    {
+      "it": "vivere con gli zii",
+      "ja": "おじ・おばと暮らす"
+    },
+    {
+      "it": "zio e nipote",
+      "ja": "おじと甥・姪"
+    },
+    {
+      "it": "zio Sam",
+      "ja": "アンクル・サム"
+    },
+    {
+      "it": "Ciao, zio!",
+      "ja": "よう、兄弟！"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Mio zio è il fratello maggiore di mia madre.",
+      "ja": "私のおじは母の兄です。"
+    },
+    {
+      "it": "Lo zio paterno di Luca vive a Firenze.",
+      "ja": "ルカの父方のおじはフィレンツェに住んでいます。"
+    },
+    {
+      "it": "Il marito di mia zia è mio zio acquisito.",
+      "ja": "おばの夫は私の義理のおじです。"
+    },
+    {
+      "it": "Sono diventato zio quando è nata la figlia di mia sorella.",
+      "ja": "姉妹の娘が生まれたとき、私はおじになりました。"
+    },
+    {
+      "it": "Da bambino trascorrevo le vacanze estive a casa degli zii.",
+      "ja": "子供のころ、私は夏休みをおじとおばの家で過ごしていました。"
+    },
+    {
+      "it": "I bambini lo chiamano zio anche se non è un loro parente.",
+      "ja": "その人は親族ではありませんが、子供たちは彼を「おじさん」と呼んでいます。"
+    },
+    {
+      "it": "Lo zio Sam è una personificazione degli Stati Uniti.",
+      "ja": "アンクル・サムはアメリカ合衆国を擬人化した存在です。"
+    },
+    {
+      "it": "Ciao, zio! È da tanto che non ci vediamo.",
+      "ja": "よう、久しぶりだな。"
+    }
+  ]
+},  
+{
   "id": "zia",
   "sid": "2026-00409",
   "word": "zia",
