@@ -11257,5 +11257,2221 @@
       "ja": "nuoraは親族関係を表す語であり、単に「妻」を意味するわけではありません。"
     }
   ]
+},
+{
+  "id": "bisnonno",
+  "sid": "2026-00439",
+  "word": "bisnonno",
+  "ipa": "/bizˈnɔnno/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "bisnonni",
+    "pattern": "mio, tuo, suo bisnonno / il bisnonno di + persona / diventare bisnonno / da parte del bisnonno"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "genealogy",
+      "history",
+      "biography",
+      "inheritance"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "祖父または祖母の父、曾祖父・ひいおじいさん",
+      "自分から三世代前に位置する男性の直系尊属",
+      "子孫から見て曾孫を持つ男性",
+      "家系・一族の過去を語る際に登場する男性の祖先"
+    ],
+    "it": [
+      "Padre del proprio nonno o della propria nonna.",
+      "Ascendente diretto di sesso maschile appartenente alla terza generazione precedente.",
+      "Uomo considerato rispetto al proprio pronipote o alla propria pronipote.",
+      "Antenato maschile ricordato nella storia di una famiglia."
+    ]
+  },
+
+  "nuance": {
+    "ja": "bisnonnoは、自分の祖父母の父、すなわち曾祖父を表す。一人の人物には家系上、原則として最大4人のbisnonni男性がいる。より改まった系譜上の語としてbisavoloも使われる。bisnonnoの父はtrisnonno「高祖父」である。近親者を表す単数名詞なので、所有形容詞と使う場合は通常定冠詞を付けずmio bisnonnoと言う。複数形bisnonniは複数の曾祖父だけでなく、曾祖父母をまとめて表す場合もある。",
+    "it": "Bisnonno indica il padre del proprio nonno o della propria nonna. Una persona può avere genealogicamente fino a quattro bisnonni di sesso maschile. Bisavolo è un sinonimo più formale o genealogico. Il padre del bisnonno è il trisnonno. Con l’aggettivo possessivo singolare si usa normalmente senza articolo: mio bisnonno. Il plurale bisnonni può indicare più bisnonni oppure, in senso collettivo, bisnonni e bisnonne."
+  },
+
+  "etymology": {
+    "ja": "nonno「祖父」に接頭辞bis-を加えて形成された。bis-はラテン語bis「二度・二重に」に由来し、親族名称では世代がさらに一段さかのぼることを示す。語源的には「祖父母の世代をもう一度さかのぼった祖父」という構造である。同じ形成法による語にbisnonna、bisnipote、bisavoloがある。",
+    "it": "È formato da nonno con il prefisso bis-, derivato dal latino bis, «due volte». Nei termini di parentela bis- segnala un ulteriore passaggio generazionale rispetto al rapporto espresso dalla parola di base. Appartengono allo stesso modello bisnonna, bisnipote e bisavolo."
+  },
+
+  "minimal": [
+    {
+      "word": "bisnonno",
+      "ja": "祖父または祖母の父、曾祖父",
+      "it": "padre del nonno o della nonna"
+    },
+    {
+      "word": "nonno",
+      "ja": "父または母の父、祖父",
+      "it": "padre del padre o della madre"
+    },
+    {
+      "word": "bisavolo",
+      "ja": "曾祖父を表す、やや改まった系譜上の語",
+      "it": "sinonimo più formale o genealogico di bisnonno"
+    },
+    {
+      "word": "trisnonno",
+      "ja": "曾祖父母の父、高祖父",
+      "it": "padre del bisnonno o della bisnonna"
+    },
+    {
+      "word": "antenato",
+      "ja": "自分より前の世代に属する祖先",
+      "it": "persona appartenente alle generazioni precedenti della propria famiglia"
+    }
+  ],
+
+  "synonyms": [
+    "bisavolo",
+    "proavo",
+    "antenato",
+    "ascendente"
+  ],
+
+  "equivalents": {
+    "en": [
+      "great-grandfather"
+    ],
+    "de": [
+      "Urgroßvater"
+    ],
+    "fr": [
+      "arrière-grand-père"
+    ],
+    "es": [
+      "bisabuelo"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mio bisnonno",
+      "ja": "私の曾祖父"
+    },
+    {
+      "it": "il bisnonno di Marco",
+      "ja": "マルコの曾祖父"
+    },
+    {
+      "it": "il padre di mio nonno",
+      "ja": "私の祖父の父"
+    },
+    {
+      "it": "il padre di mia nonna",
+      "ja": "私の祖母の父"
+    },
+    {
+      "it": "il mio bisnonno paterno",
+      "ja": "父方の曾祖父"
+    },
+    {
+      "it": "il mio bisnonno materno",
+      "ja": "母方の曾祖父"
+    },
+    {
+      "it": "diventare bisnonno",
+      "ja": "曾祖父になる"
+    },
+    {
+      "it": "ricordare il bisnonno",
+      "ja": "曾祖父を覚えている・思い出す"
+    },
+    {
+      "it": "una fotografia del bisnonno",
+      "ja": "曾祖父の写真"
+    },
+    {
+      "it": "la casa del bisnonno",
+      "ja": "曾祖父の家"
+    },
+    {
+      "it": "ereditare qualcosa dal bisnonno",
+      "ja": "曾祖父から何かを受け継ぐ"
+    },
+    {
+      "it": "la storia del bisnonno",
+      "ja": "曾祖父の物語・経歴"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Il padre di mio nonno era il mio bisnonno.",
+      "ja": "祖父の父は私の曾祖父です。"
+    },
+    {
+      "it": "Mio bisnonno nacque alla fine dell’Ottocento.",
+      "ja": "私の曾祖父は19世紀末に生まれました。"
+    },
+    {
+      "it": "Conservo una vecchia fotografia del mio bisnonno.",
+      "ja": "私は曾祖父の古い写真を保管しています。"
+    },
+    {
+      "it": "Questa casa fu costruita dal mio bisnonno.",
+      "ja": "この家は私の曾祖父によって建てられました。"
+    },
+    {
+      "it": "Mio padre è diventato bisnonno l’anno scorso.",
+      "ja": "私の父は昨年、曾祖父になりました。"
+    },
+    {
+      "it": "Ho ereditato questo orologio dal mio bisnonno.",
+      "ja": "私はこの時計を曾祖父から受け継ぎました。"
+    },
+    {
+      "it": "Non ho conosciuto il mio bisnonno, ma ho sentito molte storie su di lui.",
+      "ja": "私は曾祖父に会ったことはありませんが、彼について多くの話を聞きました。"
+    }
+  ]
+},
+{
+  "id": "bisnonna",
+  "sid": "2026-00440",
+  "word": "bisnonna",
+  "ipa": "/bizˈnɔnna/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "bisnonne",
+    "pattern": "mia, tua, sua bisnonna / la bisnonna di + persona / diventare bisnonna / da parte della bisnonna"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "genealogy",
+      "history",
+      "biography",
+      "inheritance"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "祖父または祖母の母、曾祖母・ひいおばあさん",
+      "自分から三世代前に位置する女性の直系尊属",
+      "子孫から見て曾孫を持つ女性",
+      "家系・一族の過去を語る際に登場する女性の祖先"
+    ],
+    "it": [
+      "Madre del proprio nonno o della propria nonna.",
+      "Ascendente diretta di sesso femminile appartenente alla terza generazione precedente.",
+      "Donna considerata rispetto al proprio pronipote o alla propria pronipote.",
+      "Antenata ricordata nella storia di una famiglia."
+    ]
+  },
+
+  "nuance": {
+    "ja": "bisnonnaは、自分の祖父母の母、すなわち曾祖母を表す。一人の人物には家系上、原則として最大4人のbisnonneがいる。より改まった系譜上の語としてbisavolaも使われる。bisnonnaの母はtrisnonna「高祖母」である。所有形容詞と使う場合は通常定冠詞を付けずmia bisnonnaと言う。",
+    "it": "Bisnonna indica la madre del proprio nonno o della propria nonna. Una persona può avere genealogicamente fino a quattro bisnonne. Bisavola è un sinonimo più formale o genealogico. La madre della bisnonna è la trisnonna. Con l’aggettivo possessivo singolare si usa normalmente senza articolo: mia bisnonna."
+  },
+
+  "etymology": {
+    "ja": "nonna「祖母」に接頭辞bis-を加えて形成された。bis-はラテン語bis「二度・二重に」に由来し、親族名称では世代をさらに一段さかのぼることを示す。語源的には「祖父母の世代をもう一度さかのぼった祖母」という構造である。男性形はbisnonnoである。",
+    "it": "È formato da nonna con il prefisso bis-, derivato dal latino bis, «due volte». Nei termini di parentela bis- indica un ulteriore passaggio generazionale rispetto al rapporto espresso dalla parola di base. La forma maschile corrispondente è bisnonno."
+  },
+
+  "minimal": [
+    {
+      "word": "bisnonna",
+      "ja": "祖父または祖母の母、曾祖母",
+      "it": "madre del nonno o della nonna"
+    },
+    {
+      "word": "nonna",
+      "ja": "父または母の母、祖母",
+      "it": "madre del padre o della madre"
+    },
+    {
+      "word": "bisavola",
+      "ja": "曾祖母を表す、やや改まった系譜上の語",
+      "it": "sinonimo più formale o genealogico di bisnonna"
+    },
+    {
+      "word": "trisnonna",
+      "ja": "曾祖父母の母、高祖母",
+      "it": "madre del bisnonno o della bisnonna"
+    },
+    {
+      "word": "antenata",
+      "ja": "自分より前の世代に属する女性の祖先",
+      "it": "donna appartenente alle generazioni precedenti della propria famiglia"
+    }
+  ],
+
+  "synonyms": [
+    "bisavola",
+    "proava",
+    "antenata",
+    "ascendente"
+  ],
+
+  "equivalents": {
+    "en": [
+      "great-grandmother"
+    ],
+    "de": [
+      "Urgroßmutter"
+    ],
+    "fr": [
+      "arrière-grand-mère"
+    ],
+    "es": [
+      "bisabuela"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mia bisnonna",
+      "ja": "私の曾祖母"
+    },
+    {
+      "it": "la bisnonna di Maria",
+      "ja": "マリアの曾祖母"
+    },
+    {
+      "it": "la madre di mio nonno",
+      "ja": "私の祖父の母"
+    },
+    {
+      "it": "la madre di mia nonna",
+      "ja": "私の祖母の母"
+    },
+    {
+      "it": "la mia bisnonna paterna",
+      "ja": "父方の曾祖母"
+    },
+    {
+      "it": "la mia bisnonna materna",
+      "ja": "母方の曾祖母"
+    },
+    {
+      "it": "diventare bisnonna",
+      "ja": "曾祖母になる"
+    },
+    {
+      "it": "ricordare la bisnonna",
+      "ja": "曾祖母を覚えている・思い出す"
+    },
+    {
+      "it": "una fotografia della bisnonna",
+      "ja": "曾祖母の写真"
+    },
+    {
+      "it": "la ricetta della bisnonna",
+      "ja": "曾祖母から伝わるレシピ"
+    },
+    {
+      "it": "ereditare qualcosa dalla bisnonna",
+      "ja": "曾祖母から何かを受け継ぐ"
+    },
+    {
+      "it": "la storia della bisnonna",
+      "ja": "曾祖母の物語・経歴"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "La madre di mia nonna era la mia bisnonna.",
+      "ja": "祖母の母は私の曾祖母です。"
+    },
+    {
+      "it": "Mia bisnonna visse fino a novantacinque anni.",
+      "ja": "私の曾祖母は95歳まで生きました。"
+    },
+    {
+      "it": "Conservo una lettera scritta dalla mia bisnonna.",
+      "ja": "私は曾祖母が書いた手紙を保管しています。"
+    },
+    {
+      "it": "Questa ricetta viene dalla mia bisnonna.",
+      "ja": "このレシピは私の曾祖母から伝わったものです。"
+    },
+    {
+      "it": "Mia madre è diventata bisnonna quest’anno.",
+      "ja": "私の母は今年、曾祖母になりました。"
+    },
+    {
+      "it": "Ho ricevuto questo anello dalla mia bisnonna.",
+      "ja": "私はこの指輪を曾祖母から受け継ぎました。"
+    },
+    {
+      "it": "Da bambina ascoltavo spesso i racconti della mia bisnonna.",
+      "ja": "子供のころ、私は曾祖母の話をよく聞いていました。"
+    }
+  ]
+},
+{
+  "id": "patrigno",
+  "sid": "2026-00441",
+  "word": "patrigno",
+  "ipa": "/paˈtriɲɲo/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "patrigni",
+    "pattern": "mio, tuo, suo patrigno / il patrigno di + persona / vivere con il patrigno / diventare patrigno"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "marriage",
+      "law",
+      "childcare",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "母親の夫であり、自分の実父ではない男性、継父",
+      "親の再婚などによって家族に加わり、父親に相当する立場となった男性",
+      "配偶者の以前の関係から生まれた子供に対して父親に相当する男性",
+      "比喩的・文学的に、十分な配慮や保護を与えない父親のような存在"
+    ],
+    "it": [
+      "Marito della propria madre che non è il proprio padre biologico.",
+      "Uomo entrato nella famiglia attraverso il matrimonio con la madre e posto in una funzione simile a quella paterna.",
+      "Uomo considerato rispetto ai figli che il proprio coniuge ha avuto da una relazione precedente.",
+      "In usi figurati o letterari, figura paterna ritenuta poco affettuosa o incapace di offrire un’adeguata protezione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "patrignoは母親の新しい夫を子供の側から表す「継父」であり、配偶者の父を表すsuocero「義父」とは異なる。また、法的に養子縁組をした父はpadre adottivoと呼ばれ、patrignoが自動的に法的な父になるわけではない。童話や古い文学の影響で冷たい人物を連想させる場合があるが、現実の家族関係を述べる語としては中立的に使用できる。より説明的にはil marito di mia madreと言える。",
+    "it": "Patrigno indica il nuovo marito della madre dal punto di vista del figlio e non va confuso con suocero, che è il padre del coniuge. Non coincide necessariamente neppure con padre adottivo: il matrimonio con la madre non crea automaticamente un rapporto giuridico di adozione. A causa di rappresentazioni tradizionali e letterarie, il termine può evocare talvolta una figura poco affettuosa, ma può essere usato in modo neutro per descrivere il rapporto familiare. Una formulazione più esplicita è il marito di mia madre."
+  },
+
+  "etymology": {
+    "ja": "ラテン語patrignus「継父」に由来する。これはpater「父」を基礎とし、血縁上の父ではないが父に相当する関係を示す接尾要素が加わった語である。イタリア語では音韻変化により現在のpatrignoとなった。同じ構造の女性形がmatrignaであり、関係する語にfigliastro「継息子」、figliastra「継娘」がある。",
+    "it": "Deriva dal latino patrignus, «patrigno», formato sulla base di pater, «padre», con un elemento suffissale che indicava un rapporto simile ma non identico a quello espresso dalla parola di base. Attraverso l’evoluzione fonetica si è formata la voce italiana patrigno. La forma femminile corrispondente è matrigna; termini collegati nel sistema della parentela sono figliastro e figliastra."
+  },
+
+  "minimal": [
+    {
+      "word": "patrigno",
+      "ja": "母親の夫で、自分の実父ではない男性、継父",
+      "it": "marito della madre che non è il padre biologico della persona"
+    },
+    {
+      "word": "padre",
+      "ja": "実父・養父を含め、親として認められる男性",
+      "it": "genitore di sesso maschile"
+    },
+    {
+      "word": "padre adottivo",
+      "ja": "養子縁組によって法的な父となった男性、養父",
+      "it": "uomo diventato legalmente padre attraverso l’adozione"
+    },
+    {
+      "word": "suocero",
+      "ja": "配偶者の父、義父",
+      "it": "padre del proprio coniuge"
+    },
+    {
+      "word": "figliastro",
+      "ja": "配偶者の以前の関係から生まれた息子、継息子",
+      "it": "figlio del proprio coniuge nato da una relazione precedente"
+    }
+  ],
+
+  "synonyms": [
+    "marito della madre",
+    "secondo marito della madre",
+    "genitore acquisito",
+    "padre acquisito"
+  ],
+
+  "equivalents": {
+    "en": [
+      "stepfather"
+    ],
+    "de": [
+      "Stiefvater"
+    ],
+    "fr": [
+      "beau-père",
+      "père par alliance"
+    ],
+    "es": [
+      "padrastro"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mio patrigno",
+      "ja": "私の継父"
+    },
+    {
+      "it": "il patrigno di Luca",
+      "ja": "ルカの継父"
+    },
+    {
+      "it": "il marito di mia madre",
+      "ja": "私の母の夫"
+    },
+    {
+      "it": "il futuro patrigno",
+      "ja": "将来の継父"
+    },
+    {
+      "it": "diventare patrigno",
+      "ja": "継父になる"
+    },
+    {
+      "it": "vivere con il patrigno",
+      "ja": "継父と暮らす"
+    },
+    {
+      "it": "crescere con il patrigno",
+      "ja": "継父とともに育つ"
+    },
+    {
+      "it": "andare d’accordo con il patrigno",
+      "ja": "継父と仲良くする"
+    },
+    {
+      "it": "avere un buon rapporto con il patrigno",
+      "ja": "継父と良好な関係を持つ"
+    },
+    {
+      "it": "essere cresciuto dal patrigno",
+      "ja": "継父に育てられる"
+    },
+    {
+      "it": "considerare qualcuno come un padre",
+      "ja": "誰かを父親同然と考える"
+    },
+    {
+      "it": "famiglia ricostituita",
+      "ja": "再婚などによって構成された家族"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Il secondo marito di mia madre è il mio patrigno.",
+      "ja": "母の再婚相手は私の継父です。"
+    },
+    {
+      "it": "Vivo con mia madre e mio patrigno.",
+      "ja": "私は母と継父と暮らしています。"
+    },
+    {
+      "it": "Luca ha un ottimo rapporto con il patrigno.",
+      "ja": "ルカは継父と非常に良い関係を築いています。"
+    },
+    {
+      "it": "Il patrigno lo ha cresciuto come un figlio.",
+      "ja": "継父は彼を実の息子のように育てました。"
+    },
+    {
+      "it": "Il matrimonio con la madre non rende automaticamente il patrigno un padre adottivo.",
+      "ja": "母親との結婚によって、継父が自動的に養父になるわけではありません。"
+    },
+    {
+      "it": "Dopo il matrimonio Paolo è diventato patrigno di due bambini.",
+      "ja": "結婚後、パオロは二人の子供の継父になりました。"
+    },
+    {
+      "it": "Nelle fiabe il patrigno è meno frequente della matrigna.",
+      "ja": "童話では、継父は継母ほど頻繁には登場しません。"
+    }
+  ]
+},
+{
+  "id": "matrigna",
+  "sid": "2026-00442",
+  "word": "matrigna",
+  "ipa": "/maˈtriɲɲa/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "matrigne",
+    "pattern": "mia, tua, sua matrigna / la matrigna di + persona / vivere con la matrigna / diventare matrigna"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "marriage",
+      "law",
+      "childcare",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "父親の妻であり、自分の実母ではない女性、継母",
+      "親の再婚などによって家族に加わり、母親に相当する立場となった女性",
+      "配偶者の以前の関係から生まれた子供に対して母親に相当する女性",
+      "童話・文学などで、子供に冷たく接する継母として描かれる人物",
+      "比喩的に、人を冷たく扱い、十分な保護や恩恵を与えない存在"
+    ],
+    "it": [
+      "Moglie del proprio padre che non è la propria madre biologica.",
+      "Donna entrata nella famiglia attraverso il matrimonio con il padre e posta in una funzione simile a quella materna.",
+      "Donna considerata rispetto ai figli che il proprio coniuge ha avuto da una relazione precedente.",
+      "Personaggio rappresentato nelle fiabe o nella letteratura come una madre acquisita ostile o crudele.",
+      "In senso figurato, persona, istituzione o realtà che tratta qualcuno con durezza e senza adeguata protezione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "matrignaは父親の新しい妻を子供の側から表す「継母」であり、配偶者の母を表すsuocera「義母」とは異なる。また、養子縁組による母はmadre adottivaであり、matrignaが自動的に法的な母になるわけではない。『シンデレラ』や『白雪姫』などの童話に登場する冷酷な継母像のため、この語にはpatrigno以上に否定的な連想が生じる場合がある。ただし、実際の家族関係を説明する語としては中立的に使用できる。説明的にはla moglie di mio padreとも言える。",
+    "it": "Matrigna indica la nuova moglie del padre dal punto di vista del figlio e non va confusa con suocera, che è la madre del coniuge. Non coincide necessariamente con madre adottiva, perché il matrimonio con il padre non comporta automaticamente un’adozione. Le matrigne crudeli delle fiabe, come quelle di Cenerentola e Biancaneve, hanno dato al termine una forte associazione negativa. Nella descrizione di una famiglia reale, tuttavia, la parola può essere usata neutralmente. Una formulazione più esplicita è la moglie di mio padre."
+  },
+
+  "etymology": {
+    "ja": "ラテン語matrigna「継母」に由来し、mater「母」を基礎として形成された。血縁上の母ではないが母に相当する関係を示す語で、男性形patrignus「継父」と同じ構造を持つ。イタリア語では現在のmatrignaとなり、そこから比喩的な形容詞matrigno「冷淡な・不利な」も発達した。",
+    "it": "Deriva dal latino matrigna, «matrigna», formato sulla base di mater, «madre», secondo un modello parallelo a patrignus, «patrigno». Indicava una donna posta in un rapporto simile a quello materno senza essere la madre biologica. In italiano dalla stessa area semantica si è sviluppato anche l’uso figurato dell’aggettivo matrigno, «duro, sfavorevole, poco generoso»."
+  },
+
+  "minimal": [
+    {
+      "word": "matrigna",
+      "ja": "父親の妻で、自分の実母ではない女性、継母",
+      "it": "moglie del padre che non è la madre biologica della persona"
+    },
+    {
+      "word": "madre",
+      "ja": "実母・養母を含め、親として認められる女性",
+      "it": "genitore di sesso femminile"
+    },
+    {
+      "word": "madre adottiva",
+      "ja": "養子縁組によって法的な母となった女性、養母",
+      "it": "donna diventata legalmente madre attraverso l’adozione"
+    },
+    {
+      "word": "suocera",
+      "ja": "配偶者の母、義母",
+      "it": "madre del proprio coniuge"
+    },
+    {
+      "word": "figliastra",
+      "ja": "配偶者の以前の関係から生まれた娘、継娘",
+      "it": "figlia del proprio coniuge nata da una relazione precedente"
+    }
+  ],
+
+  "synonyms": [
+    "moglie del padre",
+    "seconda moglie del padre",
+    "genitrice acquisita",
+    "madre acquisita"
+  ],
+
+  "equivalents": {
+    "en": [
+      "stepmother"
+    ],
+    "de": [
+      "Stiefmutter"
+    ],
+    "fr": [
+      "belle-mère",
+      "marâtre"
+    ],
+    "es": [
+      "madrastra"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mia matrigna",
+      "ja": "私の継母"
+    },
+    {
+      "it": "la matrigna di Anna",
+      "ja": "アンナの継母"
+    },
+    {
+      "it": "la moglie di mio padre",
+      "ja": "私の父の妻"
+    },
+    {
+      "it": "la futura matrigna",
+      "ja": "将来の継母"
+    },
+    {
+      "it": "diventare matrigna",
+      "ja": "継母になる"
+    },
+    {
+      "it": "vivere con la matrigna",
+      "ja": "継母と暮らす"
+    },
+    {
+      "it": "crescere con la matrigna",
+      "ja": "継母とともに育つ"
+    },
+    {
+      "it": "andare d’accordo con la matrigna",
+      "ja": "継母と仲良くする"
+    },
+    {
+      "it": "avere un buon rapporto con la matrigna",
+      "ja": "継母と良好な関係を持つ"
+    },
+    {
+      "it": "essere cresciuto dalla matrigna",
+      "ja": "継母に育てられる"
+    },
+    {
+      "it": "la matrigna cattiva delle fiabe",
+      "ja": "童話に登場する意地悪な継母"
+    },
+    {
+      "it": "famiglia ricostituita",
+      "ja": "再婚などによって構成された家族"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "La seconda moglie di mio padre è la mia matrigna.",
+      "ja": "父の再婚相手は私の継母です。"
+    },
+    {
+      "it": "Vive con suo padre e sua matrigna.",
+      "ja": "彼女は父親と継母と暮らしています。"
+    },
+    {
+      "it": "Anna ha un buon rapporto con la matrigna.",
+      "ja": "アンナは継母と良い関係を築いています。"
+    },
+    {
+      "it": "La matrigna l’ha cresciuta come una figlia.",
+      "ja": "継母は彼女を実の娘のように育てました。"
+    },
+    {
+      "it": "Il matrimonio con il padre non rende automaticamente la matrigna una madre adottiva.",
+      "ja": "父親との結婚によって、継母が自動的に養母になるわけではありません。"
+    },
+    {
+      "it": "Dopo il matrimonio Laura è diventata matrigna di un bambino.",
+      "ja": "結婚後、ラウラは一人の男の子の継母になりました。"
+    },
+    {
+      "it": "Nelle fiabe la matrigna viene spesso rappresentata come un personaggio crudele.",
+      "ja": "童話では、継母はしばしば残酷な人物として描かれます。"
+    }
+  ]
+},
+{
+  "id": "figliastro",
+  "sid": "2026-00443",
+  "word": "figliastro",
+  "ipa": "/fiʎˈʎastro/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "figliastri",
+    "pattern": "mio, tuo, suo figliastro / il figliastro di + persona / trattare qualcuno come un figlio / considerare qualcosa un figliastro"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "marriage",
+      "law",
+      "childcare",
+      "social_commentary"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "配偶者・パートナーの以前の関係から生まれた息子、継息子",
+      "親の再婚によって新しい配偶者と親族関係になった男児または男性",
+      "継父または継母から見た男性の子供",
+      "比喩的に、同じ集団の他のものより冷遇・軽視されている人や物",
+      "文学的表現で、運命・社会などから不遇な扱いを受ける男性"
+    ],
+    "it": [
+      "Figlio maschio che il proprio coniuge o partner ha avuto da una relazione precedente.",
+      "Bambino o uomo divenuto parente del nuovo coniuge di un proprio genitore.",
+      "Figlio maschio considerato rispetto al proprio patrigno o alla propria matrigna.",
+      "In senso figurato, persona, attività o realtà trascurata e trattata meno favorevolmente rispetto alle altre.",
+      "In usi letterari, uomo considerato sfavorito dalla sorte, dalla società o dalle circostanze."
+    ]
+  },
+
+  "nuance": {
+    "ja": "figliastroは継父・継母から見た男性の継子を表す。実子figlio biologicoや養子figlio adottivoとは区別され、親の新しい配偶者と自動的に法的な親子関係が成立することを意味しない。接尾辞-astroは多くの語で軽蔑的な響きを持つが、figliastroは標準的な親族名称としても用いられる。ただし否定的な連想を避けたい場合はil figlio di mio marito、il figlio della mia compagnaなどの説明的表現も使える。比喩的にはessere trattato da figliastro「不公平に冷遇される」と言う。",
+    "it": "Figliastro indica un figlio maschio rispetto al nuovo coniuge di uno dei suoi genitori. Si distingue dal figlio biologico e dal figlio adottivo: il matrimonio con il genitore non crea automaticamente un rapporto giuridico di filiazione. Benché il suffisso -astro possa avere valore peggiorativo, figliastro è anche un termine ordinario di parentela. Per evitare eventuali sfumature negative si può usare una descrizione come il figlio di mio marito. Figuratamente, essere trattato da figliastro significa essere trascurato o discriminato."
+  },
+
+  "etymology": {
+    "ja": "figlio「息子・子」に接尾辞-astroを加えて形成された。-astroはラテン語の接尾辞-asterに由来し、不完全・類似・二次的な関係を表し、ときに軽蔑的な意味を伴う。親族名称では、血縁上の実子ではないが婚姻によって子に相当する関係を示す。女性形はfigliastraである。",
+    "it": "È formato da figlio con il suffisso -astro, derivato dal latino -aster. Il suffisso può indicare somiglianza imperfetta, carattere secondario o assumere una sfumatura peggiorativa. Nei termini di parentela segnala un rapporto acquisito attraverso il matrimonio anziché una filiazione biologica diretta. La forma femminile corrispondente è figliastra."
+  },
+
+  "minimal": [
+    {
+      "word": "figliastro",
+      "ja": "配偶者・パートナーの以前の関係から生まれた息子、継息子",
+      "it": "figlio maschio del proprio coniuge nato da una relazione precedente"
+    },
+    {
+      "word": "figlio",
+      "ja": "親との関係から見た男性の子",
+      "it": "persona di sesso maschile considerata rispetto ai propri genitori"
+    },
+    {
+      "word": "figlio adottivo",
+      "ja": "養子縁組によって法的な子となった男性、養子",
+      "it": "figlio maschio divenuto tale giuridicamente attraverso l’adozione"
+    },
+    {
+      "word": "patrigno",
+      "ja": "母親の夫で、実父ではない男性、継父",
+      "it": "marito della madre che non è il padre biologico"
+    },
+    {
+      "word": "fratellastro",
+      "ja": "親の一方だけを共有する兄弟、または親の再婚による兄弟",
+      "it": "fratello con cui si condivide un solo genitore oppure acquisito attraverso il matrimonio dei genitori"
+    }
+  ],
+
+  "synonyms": [
+    "figlio del coniuge",
+    "figlio acquisito",
+    "figlio del partner",
+    "parente acquisito"
+  ],
+
+  "equivalents": {
+    "en": [
+      "stepson"
+    ],
+    "de": [
+      "Stiefsohn"
+    ],
+    "fr": [
+      "beau-fils",
+      "fils par alliance"
+    ],
+    "es": [
+      "hijastro"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mio figliastro",
+      "ja": "私の継息子"
+    },
+    {
+      "it": "il figliastro di Paolo",
+      "ja": "パオロの継息子"
+    },
+    {
+      "it": "il figlio di mia moglie",
+      "ja": "私の妻の息子"
+    },
+    {
+      "it": "il figlio di mio marito",
+      "ja": "私の夫の息子"
+    },
+    {
+      "it": "vivere con il figliastro",
+      "ja": "継息子と暮らす"
+    },
+    {
+      "it": "crescere il figliastro",
+      "ja": "継息子を育てる"
+    },
+    {
+      "it": "prendersi cura del figliastro",
+      "ja": "継息子の世話をする"
+    },
+    {
+      "it": "avere un buon rapporto con il figliastro",
+      "ja": "継息子と良好な関係を持つ"
+    },
+    {
+      "it": "considerare il figliastro come un figlio",
+      "ja": "継息子を実の息子同然に考える"
+    },
+    {
+      "it": "adottare il figliastro",
+      "ja": "継息子と養子縁組をする"
+    },
+    {
+      "it": "trattare qualcuno da figliastro",
+      "ja": "誰かを不公平に冷遇する"
+    },
+    {
+      "it": "essere il figliastro della sorte",
+      "ja": "運命に冷遇された人である"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Il figlio di mia moglie è il mio figliastro.",
+      "ja": "妻の息子は私の継息子です。"
+    },
+    {
+      "it": "Vivo con mia moglie e mio figliastro.",
+      "ja": "私は妻と継息子と暮らしています。"
+    },
+    {
+      "it": "Paolo ha un ottimo rapporto con il figliastro.",
+      "ja": "パオロは継息子と非常に良い関係を築いています。"
+    },
+    {
+      "it": "Ha cresciuto il figliastro come se fosse suo figlio.",
+      "ja": "彼は継息子を実の息子であるかのように育てました。"
+    },
+    {
+      "it": "Il matrimonio non crea automaticamente un rapporto giuridico tra patrigno e figliastro.",
+      "ja": "結婚によって継父と継息子の間に自動的に法的親子関係が生じるわけではありません。"
+    },
+    {
+      "it": "Dopo alcuni anni ha deciso di adottare il figliastro.",
+      "ja": "数年後、彼は継息子と養子縁組をすることにしました。"
+    },
+    {
+      "it": "Questo settore è stato a lungo trattato da figliastro dalla politica nazionale.",
+      "ja": "この分野は長い間、国の政策によって冷遇されてきました。"
+    }
+  ]
+},
+{
+  "id": "figliastra",
+  "sid": "2026-00444",
+  "word": "figliastra",
+  "ipa": "/fiʎˈʎastra/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "figliastre",
+    "pattern": "mia, tua, sua figliastra / la figliastra di + persona / trattare qualcuno come una figlia / considerare qualcosa una figliastra"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "marriage",
+      "law",
+      "childcare",
+      "social_commentary"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "配偶者・パートナーの以前の関係から生まれた娘、継娘",
+      "親の再婚によって新しい配偶者と親族関係になった女児または女性",
+      "継父または継母から見た女性の子供",
+      "比喩的に、同じ集団の他のものより冷遇・軽視されている女性や物事",
+      "文学的表現で、運命・社会などから不遇な扱いを受ける女性"
+    ],
+    "it": [
+      "Figlia che il proprio coniuge o partner ha avuto da una relazione precedente.",
+      "Bambina o donna divenuta parente del nuovo coniuge di un proprio genitore.",
+      "Figlia considerata rispetto al proprio patrigno o alla propria matrigna.",
+      "In senso figurato, persona, attività o realtà trascurata e trattata meno favorevolmente rispetto alle altre.",
+      "In usi letterari, donna considerata sfavorita dalla sorte, dalla società o dalle circostanze."
+    ]
+  },
+
+  "nuance": {
+    "ja": "figliastraは継父・継母から見た女性の継子を表す。実の娘figlia biologicaや養女figlia adottivaとは区別され、親の新しい配偶者と自動的に法的な親子関係が成立することを意味しない。接尾辞-astro／-astraには軽蔑的な響きが生じることがあるが、figliastraは標準的な親族名称でもある。否定的な印象を避けるにはla figlia di mio maritoなどの説明的表現を使える。比喩的には冷遇されている人・分野などを表す。",
+    "it": "Figliastra indica una figlia rispetto al nuovo coniuge di uno dei suoi genitori. Si distingue dalla figlia biologica e dalla figlia adottiva: il matrimonio con il genitore non crea automaticamente un rapporto giuridico di filiazione. Benché il suffisso -astra possa avere una sfumatura peggiorativa, figliastra è anche un termine ordinario di parentela. Per evitare eventuali connotazioni negative si può dire la figlia di mio marito. Figuratamente può indicare una persona o una realtà trascurata."
+  },
+
+  "etymology": {
+    "ja": "figlia「娘・女性の子」に接尾辞-astraを加えて形成された。-astro／-astraはラテン語の接尾辞-asterに由来し、不完全・二次的・類似した関係を表し、ときに軽蔑的な意味を持つ。親族名称では婚姻によって成立した、実の親子関係とは異なる関係を示す。男性形はfigliastroである。",
+    "it": "È formato da figlia con il suffisso -astra, femminile di -astro e derivato dal latino -aster. Il suffisso può esprimere carattere secondario, somiglianza imperfetta o una sfumatura peggiorativa. Nei termini di parentela segnala un rapporto acquisito attraverso il matrimonio anziché una filiazione biologica diretta. La forma maschile corrispondente è figliastro."
+  },
+
+  "minimal": [
+    {
+      "word": "figliastra",
+      "ja": "配偶者・パートナーの以前の関係から生まれた娘、継娘",
+      "it": "figlia del proprio coniuge nata da una relazione precedente"
+    },
+    {
+      "word": "figlia",
+      "ja": "親との関係から見た女性の子",
+      "it": "persona di sesso femminile considerata rispetto ai propri genitori"
+    },
+    {
+      "word": "figlia adottiva",
+      "ja": "養子縁組によって法的な子となった女性、養女",
+      "it": "figlia divenuta tale giuridicamente attraverso l’adozione"
+    },
+    {
+      "word": "matrigna",
+      "ja": "父親の妻で、実母ではない女性、継母",
+      "it": "moglie del padre che non è la madre biologica"
+    },
+    {
+      "word": "sorellastra",
+      "ja": "親の一方だけを共有する姉妹、または親の再婚による姉妹",
+      "it": "sorella con cui si condivide un solo genitore oppure acquisita attraverso il matrimonio dei genitori"
+    }
+  ],
+
+  "synonyms": [
+    "figlia del coniuge",
+    "figlia acquisita",
+    "figlia del partner",
+    "parente acquisita"
+  ],
+
+  "equivalents": {
+    "en": [
+      "stepdaughter"
+    ],
+    "de": [
+      "Stieftochter"
+    ],
+    "fr": [
+      "belle-fille",
+      "fille par alliance"
+    ],
+    "es": [
+      "hijastra"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mia figliastra",
+      "ja": "私の継娘"
+    },
+    {
+      "it": "la figliastra di Anna",
+      "ja": "アンナの継娘"
+    },
+    {
+      "it": "la figlia di mia moglie",
+      "ja": "私の妻の娘"
+    },
+    {
+      "it": "la figlia di mio marito",
+      "ja": "私の夫の娘"
+    },
+    {
+      "it": "vivere con la figliastra",
+      "ja": "継娘と暮らす"
+    },
+    {
+      "it": "crescere la figliastra",
+      "ja": "継娘を育てる"
+    },
+    {
+      "it": "prendersi cura della figliastra",
+      "ja": "継娘の世話をする"
+    },
+    {
+      "it": "avere un buon rapporto con la figliastra",
+      "ja": "継娘と良好な関係を持つ"
+    },
+    {
+      "it": "considerare la figliastra come una figlia",
+      "ja": "継娘を実の娘同然に考える"
+    },
+    {
+      "it": "adottare la figliastra",
+      "ja": "継娘と養子縁組をする"
+    },
+    {
+      "it": "trattare qualcuno da figliastra",
+      "ja": "誰かを不公平に冷遇する"
+    },
+    {
+      "it": "essere la figliastra della sorte",
+      "ja": "運命に冷遇された女性である"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "La figlia di mio marito è la mia figliastra.",
+      "ja": "夫の娘は私の継娘です。"
+    },
+    {
+      "it": "Vive con suo marito e sua figliastra.",
+      "ja": "彼女は夫と継娘と暮らしています。"
+    },
+    {
+      "it": "Laura ha un ottimo rapporto con la figliastra.",
+      "ja": "ラウラは継娘と非常に良い関係を築いています。"
+    },
+    {
+      "it": "Ha cresciuto la figliastra come se fosse sua figlia.",
+      "ja": "彼女は継娘を実の娘であるかのように育てました。"
+    },
+    {
+      "it": "Il matrimonio non crea automaticamente un rapporto giuridico tra matrigna e figliastra.",
+      "ja": "結婚によって継母と継娘の間に自動的に法的親子関係が生じるわけではありません。"
+    },
+    {
+      "it": "Dopo alcuni anni ha deciso di adottare la figliastra.",
+      "ja": "数年後、彼女は継娘と養子縁組をすることにしました。"
+    },
+    {
+      "it": "Quella disciplina è stata a lungo considerata la figliastra delle scienze.",
+      "ja": "その学問分野は長い間、科学の中で冷遇される存在と見なされてきました。"
+    }
+  ]
+},
+{
+  "id": "fratellastro",
+  "sid": "2026-00445",
+  "word": "fratellastro",
+  "ipa": "/fratelˈlastro/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "fratellastri",
+    "pattern": "mio, tuo, suo fratellastro / il fratellastro di + persona / fratellastro da parte di madre o di padre / vivere con il fratellastro"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "marriage",
+      "genealogy",
+      "law",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "父親または母親の一方だけを共有する男性のきょうだい、異父兄弟・異母兄弟",
+      "親の再婚によって家族となった、血縁のない男性のきょうだい",
+      "継父または継母の息子",
+      "複合家族・再構成家族において兄弟に相当する男性",
+      "比喩的に、兄弟のような関係にありながら劣った扱いを受ける男性"
+    ],
+    "it": [
+      "Fratello con il quale si condivide soltanto il padre o soltanto la madre.",
+      "Figlio del patrigno o della matrigna con il quale non si condivide alcun genitore.",
+      "Figlio maschio del nuovo coniuge di uno dei propri genitori.",
+      "Membro maschile della stessa famiglia ricostituita in un rapporto assimilabile a quello tra fratelli.",
+      "In senso figurato, persona legata come un fratello ma trattata in modo secondario o sfavorevole."
+    ]
+  },
+
+  "nuance": {
+    "ja": "fratellastroは、①父または母の一方だけを共有するhalf-brotherと、②親の再婚によって家族になった血縁のないstepbrotherの両方を指し得る。このため、厳密に区別する必要がある場合は、片親を共有する兄弟をfratello unilaterale、同じ父だけを持つ兄弟をfratello consanguineo、同じ母だけを持つ兄弟をfratello uterinoと言う。血縁のない場合はil figlio del mio patrignoなどと説明できる。接尾辞-astroには否定的な響きが生じることもあるため、本人の好む表現に配慮する場合がある。",
+    "it": "Fratellastro può indicare sia un half-brother, con il quale si condivide un solo genitore, sia uno stepbrother, figlio del nuovo coniuge di un genitore senza legame di sangue. Per maggiore precisione, fratello unilaterale indica chi condivide un solo genitore; fratello consanguineo chi condivide il padre; fratello uterino chi condivide la madre. In assenza di parentela biologica si può dire il figlio del mio patrigno. Poiché il suffisso -astro può assumere una sfumatura negativa, in alcuni contesti si preferiscono espressioni descrittive."
+  },
+
+  "etymology": {
+    "ja": "fratello「兄弟」に接尾辞-astroを加えて形成された。-astroはラテン語の接尾辞-asterに由来し、類似しているが完全には同一でない関係や、二次的な関係を表す。また、ときに軽蔑的な響きを伴う。親族名称では、両親をともにする実の兄弟とは異なる関係を示す。女性形はsorellastraである。",
+    "it": "È formato da fratello con il suffisso -astro, derivato dal latino -aster. Il suffisso indica spesso un rapporto simile ma non pienamente coincidente con quello espresso dalla parola di base e può assumere una sfumatura peggiorativa. Nel sistema della parentela distingue questo rapporto da quello tra fratelli che condividono entrambi i genitori. La forma femminile corrispondente è sorellastra."
+  },
+
+  "minimal": [
+    {
+      "word": "fratellastro",
+      "ja": "片親だけを共有する兄弟、または親の再婚によってできた血縁のない兄弟",
+      "it": "fratello con un solo genitore in comune oppure figlio del nuovo coniuge di un genitore"
+    },
+    {
+      "word": "fratello",
+      "ja": "通常、同じ両親または親の一方を共有する男性のきょうだい",
+      "it": "persona di sesso maschile che condivide uno o entrambi i genitori"
+    },
+    {
+      "word": "fratello unilaterale",
+      "ja": "父または母の一方だけを共有する兄弟",
+      "it": "fratello con il quale si condivide un solo genitore"
+    },
+    {
+      "word": "fratello consanguineo",
+      "ja": "父親だけを共有する異母兄弟",
+      "it": "fratello con il quale si condivide il padre ma non la madre"
+    },
+    {
+      "word": "fratello uterino",
+      "ja": "母親だけを共有する異父兄弟",
+      "it": "fratello con il quale si condivide la madre ma non il padre"
+    }
+  ],
+
+  "synonyms": [
+    "fratello unilaterale",
+    "fratello acquisito",
+    "figlio del patrigno",
+    "figlio della matrigna"
+  ],
+
+  "equivalents": {
+    "en": [
+      "half-brother",
+      "stepbrother"
+    ],
+    "de": [
+      "Halbbruder",
+      "Stiefbruder"
+    ],
+    "fr": [
+      "demi-frère",
+      "frère par alliance"
+    ],
+    "es": [
+      "medio hermano",
+      "hermanastro"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mio fratellastro",
+      "ja": "私の異父・異母兄弟／継兄弟"
+    },
+    {
+      "it": "il fratellastro di Luca",
+      "ja": "ルカの異父・異母兄弟／継兄弟"
+    },
+    {
+      "it": "un fratellastro maggiore",
+      "ja": "年上の異父・異母兄弟／継兄"
+    },
+    {
+      "it": "un fratellastro minore",
+      "ja": "年下の異父・異母兄弟／継弟"
+    },
+    {
+      "it": "fratellastro da parte di padre",
+      "ja": "父親を共有する異母兄弟"
+    },
+    {
+      "it": "fratellastro da parte di madre",
+      "ja": "母親を共有する異父兄弟"
+    },
+    {
+      "it": "il figlio del mio patrigno",
+      "ja": "私の継父の息子"
+    },
+    {
+      "it": "il figlio della mia matrigna",
+      "ja": "私の継母の息子"
+    },
+    {
+      "it": "vivere con il fratellastro",
+      "ja": "異父・異母兄弟／継兄弟と暮らす"
+    },
+    {
+      "it": "crescere insieme al fratellastro",
+      "ja": "異父・異母兄弟／継兄弟と一緒に育つ"
+    },
+    {
+      "it": "andare d’accordo con il fratellastro",
+      "ja": "異父・異母兄弟／継兄弟と仲良くする"
+    },
+    {
+      "it": "avere lo stesso padre",
+      "ja": "同じ父親を持つ"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Io e mio fratellastro abbiamo lo stesso padre, ma madri diverse.",
+      "ja": "私と異母兄弟は同じ父親を持ちますが、母親は異なります。"
+    },
+    {
+      "it": "Paolo è mio fratellastro da parte di madre.",
+      "ja": "パオロは母親を同じくする私の異父兄弟です。"
+    },
+    {
+      "it": "Il figlio del mio patrigno è diventato il mio fratellastro.",
+      "ja": "継父の息子は私の継兄弟になりました。"
+    },
+    {
+      "it": "Sono cresciuto insieme a mio fratellastro.",
+      "ja": "私は異父・異母兄弟／継兄弟と一緒に育ちました。"
+    },
+    {
+      "it": "Anche se non hanno legami di sangue, si considerano fratelli.",
+      "ja": "二人には血縁がありませんが、互いを兄弟だと思っています。"
+    },
+    {
+      "it": "Nel linguaggio giuridico è più preciso parlare di fratello unilaterale.",
+      "ja": "法律用語ではfratello unilateraleと表現するほうが正確です。"
+    },
+    {
+      "it": "La parola fratellastro non chiarisce da sola se esista un legame di sangue.",
+      "ja": "fratellastroという語だけでは、血縁があるかどうかは明らかになりません。"
+    }
+  ]
+},
+{
+  "id": "sorellastra",
+  "sid": "2026-00446",
+  "word": "sorellastra",
+  "ipa": "/sorelˈlastra/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "sorellastre",
+    "pattern": "mia, tua, sua sorellastra / la sorellastra di + persona / sorellastra da parte di madre o di padre / vivere con la sorellastra"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "marriage",
+      "genealogy",
+      "law",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "父親または母親の一方だけを共有する女性のきょうだい、異父姉妹・異母姉妹",
+      "親の再婚によって家族となった、血縁のない女性のきょうだい",
+      "継父または継母の娘",
+      "複合家族・再構成家族において姉妹に相当する女性",
+      "比喩的に、姉妹のような関係にありながら劣った扱いを受ける女性"
+    ],
+    "it": [
+      "Sorella con la quale si condivide soltanto il padre o soltanto la madre.",
+      "Figlia del patrigno o della matrigna con la quale non si condivide alcun genitore.",
+      "Figlia del nuovo coniuge di uno dei propri genitori.",
+      "Membro femminile della stessa famiglia ricostituita in un rapporto assimilabile a quello tra sorelle.",
+      "In senso figurato, persona legata come una sorella ma trattata in modo secondario o sfavorevole."
+    ]
+  },
+
+  "nuance": {
+    "ja": "sorellastraは、①父または母の一方だけを共有するhalf-sisterと、②親の再婚によって家族になった血縁のないstepsisterの両方を指し得る。厳密に区別する場合は、片親を共有する姉妹をsorella unilaterale、同じ父だけを持つ姉妹をsorella consanguinea、同じ母だけを持つ姉妹をsorella uterinaと言う。血縁のない場合はla figlia della mia matrignaなどと説明できる。童話では意地悪なsorellastraが登場することがあるため、否定的な連想が生じる場合もある。",
+    "it": "Sorellastra può indicare sia una half-sister, con la quale si condivide un solo genitore, sia una stepsister, figlia del nuovo coniuge di un genitore senza legame di sangue. Per maggiore precisione, sorella unilaterale indica chi condivide un solo genitore; sorella consanguinea chi condivide il padre; sorella uterina chi condivide la madre. In assenza di parentela biologica si può dire la figlia della mia matrigna. Le rappresentazioni delle fiabe possono inoltre attribuire alla parola una sfumatura negativa."
+  },
+
+  "etymology": {
+    "ja": "sorella「姉妹」に接尾辞-astraを加えて形成された。-astro／-astraはラテン語の接尾辞-asterに由来し、類似しているが完全には同一でない関係や二次的な関係を表し、ときに軽蔑的な響きを伴う。親族名称では、両親をともにする実の姉妹とは異なる関係を示す。男性形はfratellastroである。",
+    "it": "È formato da sorella con il suffisso -astra, femminile di -astro e derivato dal latino -aster. Il suffisso indica spesso un rapporto simile ma non pienamente coincidente con quello espresso dalla parola di base e può assumere una sfumatura peggiorativa. Nel sistema della parentela distingue questo rapporto da quello tra sorelle che condividono entrambi i genitori. La forma maschile corrispondente è fratellastro."
+  },
+
+  "minimal": [
+    {
+      "word": "sorellastra",
+      "ja": "片親だけを共有する姉妹、または親の再婚によってできた血縁のない姉妹",
+      "it": "sorella con un solo genitore in comune oppure figlia del nuovo coniuge di un genitore"
+    },
+    {
+      "word": "sorella",
+      "ja": "通常、同じ両親または親の一方を共有する女性のきょうだい",
+      "it": "persona di sesso femminile che condivide uno o entrambi i genitori"
+    },
+    {
+      "word": "sorella unilaterale",
+      "ja": "父または母の一方だけを共有する姉妹",
+      "it": "sorella con la quale si condivide un solo genitore"
+    },
+    {
+      "word": "sorella consanguinea",
+      "ja": "父親だけを共有する異母姉妹",
+      "it": "sorella con la quale si condivide il padre ma non la madre"
+    },
+    {
+      "word": "sorella uterina",
+      "ja": "母親だけを共有する異父姉妹",
+      "it": "sorella con la quale si condivide la madre ma non il padre"
+    }
+  ],
+
+  "synonyms": [
+    "sorella unilaterale",
+    "sorella acquisita",
+    "figlia del patrigno",
+    "figlia della matrigna"
+  ],
+
+  "equivalents": {
+    "en": [
+      "half-sister",
+      "stepsister"
+    ],
+    "de": [
+      "Halbschwester",
+      "Stiefschwester"
+    ],
+    "fr": [
+      "demi-sœur",
+      "sœur par alliance"
+    ],
+    "es": [
+      "media hermana",
+      "hermanastra"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mia sorellastra",
+      "ja": "私の異父・異母姉妹／継姉妹"
+    },
+    {
+      "it": "la sorellastra di Anna",
+      "ja": "アンナの異父・異母姉妹／継姉妹"
+    },
+    {
+      "it": "una sorellastra maggiore",
+      "ja": "年上の異父・異母姉妹／継姉"
+    },
+    {
+      "it": "una sorellastra minore",
+      "ja": "年下の異父・異母姉妹／継妹"
+    },
+    {
+      "it": "sorellastra da parte di padre",
+      "ja": "父親を共有する異母姉妹"
+    },
+    {
+      "it": "sorellastra da parte di madre",
+      "ja": "母親を共有する異父姉妹"
+    },
+    {
+      "it": "la figlia del mio patrigno",
+      "ja": "私の継父の娘"
+    },
+    {
+      "it": "la figlia della mia matrigna",
+      "ja": "私の継母の娘"
+    },
+    {
+      "it": "vivere con la sorellastra",
+      "ja": "異父・異母姉妹／継姉妹と暮らす"
+    },
+    {
+      "it": "crescere insieme alla sorellastra",
+      "ja": "異父・異母姉妹／継姉妹と一緒に育つ"
+    },
+    {
+      "it": "andare d’accordo con la sorellastra",
+      "ja": "異父・異母姉妹／継姉妹と仲良くする"
+    },
+    {
+      "it": "avere la stessa madre",
+      "ja": "同じ母親を持つ"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Io e mia sorellastra abbiamo la stessa madre, ma padri diversi.",
+      "ja": "私と異父姉妹は同じ母親を持ちますが、父親は異なります。"
+    },
+    {
+      "it": "Laura è mia sorellastra da parte di padre.",
+      "ja": "ラウラは父親を同じくする私の異母姉妹です。"
+    },
+    {
+      "it": "La figlia della mia matrigna è diventata la mia sorellastra.",
+      "ja": "継母の娘は私の継姉妹になりました。"
+    },
+    {
+      "it": "Sono cresciuta insieme a mia sorellastra.",
+      "ja": "私は異父・異母姉妹／継姉妹と一緒に育ちました。"
+    },
+    {
+      "it": "Anche se non condividono i genitori, si considerano sorelle.",
+      "ja": "二人は親を共有していませんが、互いを姉妹だと思っています。"
+    },
+    {
+      "it": "Cenerentola viveva con le sue sorellastre.",
+      "ja": "シンデレラは継姉妹たちと暮らしていました。"
+    },
+    {
+      "it": "La parola sorellastra non chiarisce da sola se esista un legame di sangue.",
+      "ja": "sorellastraという語だけでは、血縁があるかどうかは明らかになりません。"
+    }
+  ]
+},
+{
+  "id": "vedovo",
+  "sid": "2026-00447",
+  "word": "vedovo",
+  "ipa": "/ˈvɛdovo/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞・形容詞",
+      "it": "sostantivo maschile e aggettivo"
+    },
+    "gender": "masculine",
+    "plural": "vedovi",
+    "adjectiveForms": [
+      "vedovo",
+      "vedova",
+      "vedovi",
+      "vedove"
+    ],
+    "pattern": "essere o rimanere vedovo / un uomo vedovo / vedovo di + persona / vivere da vedovo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "bereavement",
+      "law",
+      "administration",
+      "biography"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "配偶者と死別した男性、男やもめ",
+      "配偶者を亡くし、現在は婚姻関係にない男性",
+      "形容詞として、妻または男性配偶者と死別した",
+      "比喩的・文学的に、親しい人や重要なものを失った男性",
+      "vedovo diの形で、亡くなった配偶者との関係を示す"
+    ],
+    "it": [
+      "Uomo al quale è morto il coniuge.",
+      "Uomo che ha perduto il coniuge e non è attualmente unito in un nuovo matrimonio.",
+      "Come aggettivo, rimasto senza la moglie o il coniuge a causa della sua morte.",
+      "In senso figurato o letterario, uomo privato di una persona o di una realtà essenziale.",
+      "Nella costruzione vedovo di, persona identificata attraverso il coniuge defunto."
+    ]
+  },
+
+  "nuance": {
+    "ja": "vedovoは配偶者との死別を表し、離婚した男性divorziatoや別居中の男性separatoとは区別される。essere vedovoは現在の状態、rimanere vedovoは配偶者を亡くしてその状態になることを表す。vedovo di Mariaは「亡きマリアの夫」を意味する。公的書類ではstato civile「婚姻状況」の一つとしてvedovoが用いられる。名詞としてun vedovo、形容詞としてun uomo vedovoのどちらも可能である。",
+    "it": "Vedovo indica la perdita del coniuge per morte e si distingue da divorziato e separato. Essere vedovo descrive lo stato attuale; rimanere vedovo mette in rilievo il passaggio a tale condizione. Vedovo di Maria significa «marito della defunta Maria». Nei documenti amministrativi vedovo può comparire come stato civile. La parola può essere usata come sostantivo, un vedovo, oppure come aggettivo, un uomo vedovo."
+  },
+
+  "etymology": {
+    "ja": "ラテン語viduus「配偶者を失った、欠けている」に由来する。語源的には「何かを奪われた・欠いている」という意味を持ち、そこから配偶者を失った人を表すようになった。同じ古いインド・ヨーロッパ語根から英語widow、ドイツ語Witweなども生じている。女性形はvedovaである。",
+    "it": "Deriva dal latino viduus, «privo, rimasto senza il coniuge». Il significato originario era più generale e indicava chi o ciò che era privo di qualcosa; successivamente si specializzò soprattutto nella perdita del coniuge. Sono etimologicamente affini l’inglese widow e il tedesco Witwe. La forma femminile corrispondente è vedova."
+  },
+
+  "minimal": [
+    {
+      "word": "vedovo",
+      "ja": "配偶者と死別した男性",
+      "it": "uomo che ha perduto il coniuge per morte"
+    },
+    {
+      "word": "vedova",
+      "ja": "配偶者と死別した女性",
+      "it": "donna che ha perduto il coniuge per morte"
+    },
+    {
+      "word": "divorziato",
+      "ja": "離婚によって婚姻関係を解消した男性",
+      "it": "uomo il cui matrimonio è stato sciolto mediante divorzio"
+    },
+    {
+      "word": "separato",
+      "ja": "配偶者と別居または法的に別離している男性",
+      "it": "uomo che vive separato dal coniuge senza essere necessariamente divorziato"
+    },
+    {
+      "word": "celibe",
+      "ja": "一度も結婚していない男性",
+      "it": "uomo che non si è mai sposato"
+    }
+  ],
+
+  "synonyms": [
+    "uomo rimasto senza coniuge",
+    "marito superstite",
+    "coniuge superstite"
+  ],
+
+  "equivalents": {
+    "en": [
+      "widower",
+      "widowed"
+    ],
+    "de": [
+      "Witwer",
+      "verwitwet"
+    ],
+    "fr": [
+      "veuf"
+    ],
+    "es": [
+      "viudo"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "essere vedovo",
+      "ja": "妻・配偶者と死別している"
+    },
+    {
+      "it": "rimanere vedovo",
+      "ja": "妻・配偶者を亡くして男やもめになる"
+    },
+    {
+      "it": "un uomo vedovo",
+      "ja": "配偶者と死別した男性"
+    },
+    {
+      "it": "un giovane vedovo",
+      "ja": "若くして配偶者と死別した男性"
+    },
+    {
+      "it": "vedovo da molti anni",
+      "ja": "配偶者と死別して何年もたつ男性"
+    },
+    {
+      "it": "vedovo con figli",
+      "ja": "子供のいる男やもめ"
+    },
+    {
+      "it": "vedovo di Maria",
+      "ja": "亡きマリアの夫"
+    },
+    {
+      "it": "vivere da vedovo",
+      "ja": "男やもめとして暮らす"
+    },
+    {
+      "it": "risposarsi dopo essere rimasto vedovo",
+      "ja": "配偶者との死別後に再婚する"
+    },
+    {
+      "it": "padre vedovo",
+      "ja": "配偶者と死別した父親"
+    },
+    {
+      "it": "coniuge superstite",
+      "ja": "生存している配偶者"
+    },
+    {
+      "it": "stato civile: vedovo",
+      "ja": "婚姻状況：死別"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Paolo è vedovo da cinque anni.",
+      "ja": "パオロは妻と死別して5年になります。"
+    },
+    {
+      "it": "È rimasto vedovo quando i figli erano ancora piccoli.",
+      "ja": "子供たちがまだ幼いころ、彼は妻と死別しました。"
+    },
+    {
+      "it": "Mio nonno vedovo vive da solo.",
+      "ja": "妻と死別した祖父は一人で暮らしています。"
+    },
+    {
+      "it": "Dopo essere rimasto vedovo, si è dedicato alla famiglia.",
+      "ja": "妻との死別後、彼は家族のために尽くしました。"
+    },
+    {
+      "it": "Il signor Bianchi, vedovo di Anna Rossi, ha partecipato alla cerimonia.",
+      "ja": "亡きアンナ・ロッシの夫であるビアンキ氏が式典に出席しました。"
+    },
+    {
+      "it": "Vedovo non significa divorziato: il matrimonio è terminato con la morte del coniuge.",
+      "ja": "vedovoは離婚した男性ではなく、配偶者の死によって婚姻が終わった男性を意味します。"
+    },
+    {
+      "it": "Si è risposato alcuni anni dopo essere rimasto vedovo.",
+      "ja": "彼は妻と死別して数年後に再婚しました。"
+    }
+  ]
+},
+{
+  "id": "vedova",
+  "sid": "2026-00448",
+  "word": "vedova",
+  "ipa": "/ˈvɛdova/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞・形容詞",
+      "it": "sostantivo femminile e aggettivo"
+    },
+    "gender": "feminine",
+    "plural": "vedove",
+    "adjectiveForms": [
+      "vedovo",
+      "vedova",
+      "vedovi",
+      "vedove"
+    ],
+    "pattern": "essere o rimanere vedova / una donna vedova / vedova di + persona / vivere da vedova"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "bereavement",
+      "law",
+      "administration",
+      "biography"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "配偶者と死別した女性、未亡人",
+      "配偶者を亡くし、現在は婚姻関係にない女性",
+      "形容詞として、夫または女性配偶者と死別した",
+      "比喩的・文学的に、親しい人や重要なものを失った女性",
+      "vedova diの形で、亡くなった配偶者との関係を示す"
+    ],
+    "it": [
+      "Donna alla quale è morto il coniuge.",
+      "Donna che ha perduto il coniuge e non è attualmente unita in un nuovo matrimonio.",
+      "Come aggettivo, rimasta senza il marito o il coniuge a causa della sua morte.",
+      "In senso figurato o letterario, donna privata di una persona o di una realtà essenziale.",
+      "Nella costruzione vedova di, persona identificata attraverso il coniuge defunto."
+    ]
+  },
+
+  "nuance": {
+    "ja": "vedovaは配偶者との死別を表し、離婚した女性divorziataや別居中の女性separataとは区別される。essere vedovaは現在の状態、rimanere vedovaは配偶者を亡くしてその状態になることを表す。vedova di Marcoは「亡きマルコの妻」を意味する。日本語の「未亡人」は場面によって古風または形式的に響くが、イタリア語のvedovaは現在でも中立的な一般語である。",
+    "it": "Vedova indica la perdita del coniuge per morte e si distingue da divorziata e separata. Essere vedova descrive lo stato attuale; rimanere vedova mette in rilievo il passaggio a tale condizione. Vedova di Marco significa «moglie del defunto Marco». La parola è tuttora un termine neutro e comune, utilizzabile sia come sostantivo, una vedova, sia come aggettivo, una donna vedova."
+  },
+
+  "etymology": {
+    "ja": "男性形vedovoと同じく、ラテン語vidua「配偶者を失った女性、何かを欠いた女性」に由来する。viduaはviduusの女性形で、「奪われた・欠いている」という意味から配偶者と死別した女性を表すようになった。英語widow、ドイツ語Witwe、スペイン語viudaなどと遠い同系関係にある。",
+    "it": "Deriva dal latino vidua, femminile di viduus, «privo, rimasto senza il coniuge». Dal significato generale di persona privata di qualcosa si sviluppò quello specifico di donna che aveva perduto il marito. Sono etimologicamente affini l’inglese widow, il tedesco Witwe e lo spagnolo viuda."
+  },
+
+  "minimal": [
+    {
+      "word": "vedova",
+      "ja": "配偶者と死別した女性",
+      "it": "donna che ha perduto il coniuge per morte"
+    },
+    {
+      "word": "vedovo",
+      "ja": "配偶者と死別した男性",
+      "it": "uomo che ha perduto il coniuge per morte"
+    },
+    {
+      "word": "divorziata",
+      "ja": "離婚によって婚姻関係を解消した女性",
+      "it": "donna il cui matrimonio è stato sciolto mediante divorzio"
+    },
+    {
+      "word": "separata",
+      "ja": "配偶者と別居または法的に別離している女性",
+      "it": "donna che vive separata dal coniuge senza essere necessariamente divorziata"
+    },
+    {
+      "word": "nubile",
+      "ja": "一度も結婚していない女性",
+      "it": "donna che non si è mai sposata"
+    }
+  ],
+
+  "synonyms": [
+    "donna rimasta senza coniuge",
+    "moglie superstite",
+    "coniuge superstite"
+  ],
+
+  "equivalents": {
+    "en": [
+      "widow",
+      "widowed"
+    ],
+    "de": [
+      "Witwe",
+      "verwitwet"
+    ],
+    "fr": [
+      "veuve"
+    ],
+    "es": [
+      "viuda"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "essere vedova",
+      "ja": "夫・配偶者と死別している"
+    },
+    {
+      "it": "rimanere vedova",
+      "ja": "夫・配偶者を亡くして未亡人になる"
+    },
+    {
+      "it": "una donna vedova",
+      "ja": "配偶者と死別した女性"
+    },
+    {
+      "it": "una giovane vedova",
+      "ja": "若くして配偶者と死別した女性"
+    },
+    {
+      "it": "vedova da molti anni",
+      "ja": "配偶者と死別して何年もたつ女性"
+    },
+    {
+      "it": "vedova con figli",
+      "ja": "子供のいる未亡人"
+    },
+    {
+      "it": "vedova di Marco",
+      "ja": "亡きマルコの妻"
+    },
+    {
+      "it": "vivere da vedova",
+      "ja": "未亡人として暮らす"
+    },
+    {
+      "it": "risposarsi dopo essere rimasta vedova",
+      "ja": "配偶者との死別後に再婚する"
+    },
+    {
+      "it": "madre vedova",
+      "ja": "配偶者と死別した母親"
+    },
+    {
+      "it": "pensione di reversibilità",
+      "ja": "遺族年金"
+    },
+    {
+      "it": "stato civile: vedova",
+      "ja": "婚姻状況：死別"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Maria è vedova da molti anni.",
+      "ja": "マリアは夫と死別して何年もたちます。"
+    },
+    {
+      "it": "È rimasta vedova quando aveva quarant’anni.",
+      "ja": "彼女は40歳のときに夫と死別しました。"
+    },
+    {
+      "it": "La donna vedova viveva con i suoi figli.",
+      "ja": "夫と死別したその女性は子供たちと暮らしていました。"
+    },
+    {
+      "it": "Dopo essere rimasta vedova, ha continuato a gestire l’azienda.",
+      "ja": "夫との死別後も、彼女は会社の経営を続けました。"
+    },
+    {
+      "it": "La signora Verdi, vedova di Paolo Bianchi, ha firmato il documento.",
+      "ja": "亡きパオロ・ビアンキの妻であるヴェルディ夫人が書類に署名しました。"
+    },
+    {
+      "it": "Vedova non significa divorziata: il coniuge è morto.",
+      "ja": "vedovaは離婚した女性ではなく、配偶者と死別した女性を意味します。"
+    },
+    {
+      "it": "Si è risposata dieci anni dopo essere rimasta vedova.",
+      "ja": "彼女は夫と死別して10年後に再婚しました。"
+    }
+  ]
+},
+{
+  "id": "orfano",
+  "sid": "2026-00449",
+  "word": "orfano",
+  "ipa": "/ˈɔrfano/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞・形容詞（女性形orfana）",
+      "it": "sostantivo maschile e aggettivo, con femminile orfana"
+    },
+    "gender": "masculine",
+    "plural": "orfani",
+    "adjectiveForms": [
+      "orfano",
+      "orfana",
+      "orfani",
+      "orfane"
+    ],
+    "pattern": "essere o rimanere orfano / orfano di padre, di madre o di entrambi i genitori / un bambino orfano / essere orfano di + persona o cosa"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "bereavement",
+      "childcare",
+      "law",
+      "social_services",
+      "literature",
+      "figurative_language"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "父母の一方または両方を亡くした子供、孤児",
+      "父親を亡くした人、父なし子",
+      "母親を亡くした人、母なし子",
+      "両親をともに亡くした人",
+      "成人であっても、父母の死という関係を述べる場合の遺児",
+      "形容詞として、親を亡くした",
+      "比喩的に、指導者・支援者・重要な要素などを失った人や物",
+      "技術的・組織的文脈で、所属先や関連対象を失い孤立したもの"
+    ],
+    "it": [
+      "Persona, soprattutto bambino, che ha perduto uno o entrambi i genitori.",
+      "Persona che ha perduto il padre.",
+      "Persona che ha perduto la madre.",
+      "Persona che ha perduto entrambi i genitori.",
+      "Anche adulto considerato rispetto alla perdita del padre o della madre.",
+      "Come aggettivo, privo di uno o di entrambi i genitori a causa della loro morte.",
+      "In senso figurato, persona, gruppo o realtà rimasti senza una guida, un sostegno o un elemento essenziale.",
+      "In contesti tecnici o organizzativi, elemento rimasto privo del collegamento o della struttura da cui dipendeva."
+    ]
+  },
+
+  "nuance": {
+    "ja": "orfanoは必ずしも両親をともに亡くした人だけを意味せず、orfano di padre「父を亡くした」、orfano di madre「母を亡くした」のように片方の親を亡くした場合にも用いる。両親とも亡くしたことを明示するにはorfano di entrambi i genitoriまたはorfano di padre e di madreと言う。捨て子trovatelloや、親が生存している可能性のあるabbandonato「遺棄された子供」とは意味が異なる。比喩的にはun progetto orfano di una guida「指導者を失った計画」のように、人以外にも使える。",
+    "it": "Orfano non indica esclusivamente chi ha perduto entrambi i genitori. Si può essere orfani di padre o orfani di madre; per precisare la perdita di entrambi si dice orfano di entrambi i genitori oppure orfano di padre e di madre. Il termine non è sinonimo di trovatello o bambino abbandonato, perché i genitori di un bambino abbandonato possono essere ancora vivi. Figuratamente, orfano può riferirsi anche a persone, progetti o comunità rimasti senza una guida o un sostegno."
+  },
+
+  "etymology": {
+    "ja": "後期ラテン語orphănusを経て、古代ギリシア語orphanós「親のない、保護者を失った」に由来する。ギリシア語では親や家族を失って保護を欠く状態を広く表した。同じ語源から英語orphan、フランス語orphelin、ドイツ語の古い関連語などが生じている。イタリア語の派生語にはorfanotrofio「孤児院」、orfanello「幼い孤児」がある。",
+    "it": "Deriva dal latino tardo orphănus, a sua volta dal greco antico orphanós, «privo dei genitori o di protezione». La parola greca esprimeva più ampiamente la condizione di chi aveva perduto un familiare o un sostegno. Dalla stessa origine derivano l’inglese orphan e il francese orphelin. In italiano appartengono alla stessa famiglia orfanotrofio e orfanello."
+  },
+
+  "minimal": [
+    {
+      "word": "orfano",
+      "ja": "父母の一方または両方を亡くした男性・男児",
+      "it": "persona di sesso maschile che ha perduto uno o entrambi i genitori"
+    },
+    {
+      "word": "orfana",
+      "ja": "父母の一方または両方を亡くした女性・女児",
+      "it": "persona di sesso femminile che ha perduto uno o entrambi i genitori"
+    },
+    {
+      "word": "trovatello",
+      "ja": "親が分からない状態で発見・保護された捨て子",
+      "it": "bambino abbandonato e ritrovato senza che ne siano noti i genitori"
+    },
+    {
+      "word": "bambino abbandonato",
+      "ja": "親や保護者によって遺棄された子供",
+      "it": "bambino lasciato senza cura dal genitore o dal responsabile"
+    },
+    {
+      "word": "vedovo",
+      "ja": "配偶者と死別した男性",
+      "it": "uomo che ha perduto il coniuge per morte"
+    }
+  ],
+
+  "synonyms": [
+    "senza genitori",
+    "privo dei genitori",
+    "orfanello",
+    "superstite"
+  ],
+
+  "equivalents": {
+    "en": [
+      "orphan",
+      "orphaned",
+      "bereft of"
+    ],
+    "de": [
+      "Waise",
+      "verwaist"
+    ],
+    "fr": [
+      "orphelin",
+      "orpheline"
+    ],
+    "es": [
+      "huérfano",
+      "huérfana"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "un bambino orfano",
+      "ja": "孤児となった男の子・親を亡くした子供"
+    },
+    {
+      "it": "una bambina orfana",
+      "ja": "孤児となった女の子"
+    },
+    {
+      "it": "essere orfano",
+      "ja": "親を亡くしている"
+    },
+    {
+      "it": "rimanere orfano",
+      "ja": "親を亡くして孤児になる"
+    },
+    {
+      "it": "orfano di padre",
+      "ja": "父親を亡くした"
+    },
+    {
+      "it": "orfano di madre",
+      "ja": "母親を亡くした"
+    },
+    {
+      "it": "orfano di entrambi i genitori",
+      "ja": "両親をともに亡くした"
+    },
+    {
+      "it": "orfano fin da piccolo",
+      "ja": "幼いころから孤児である"
+    },
+    {
+      "it": "assistere i bambini orfani",
+      "ja": "孤児となった子供たちを支援する"
+    },
+    {
+      "it": "crescere in un orfanotrofio",
+      "ja": "孤児院で育つ"
+    },
+    {
+      "it": "un progetto orfano di una guida",
+      "ja": "指導者を失った計画"
+    },
+    {
+      "it": "una comunità rimasta orfana del suo leader",
+      "ja": "指導者を失った共同体"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Il bambino rimase orfano di padre all’età di sei anni.",
+      "ja": "その男の子は6歳で父親を亡くしました。"
+    },
+    {
+      "it": "Maria è rimasta orfana di madre quando era molto piccola.",
+      "ja": "マリアは非常に幼いころに母親を亡くしました。"
+    },
+    {
+      "it": "Dopo l’incidente i due bambini rimasero orfani di entrambi i genitori.",
+      "ja": "事故の後、二人の子供は両親をともに失いました。"
+    },
+    {
+      "it": "Fu cresciuto dai nonni perché era rimasto orfano.",
+      "ja": "彼は親を亡くしたため、祖父母に育てられました。"
+    },
+    {
+      "it": "L’associazione offre assistenza ai bambini orfani.",
+      "ja": "その団体は孤児となった子供たちを支援しています。"
+    },
+    {
+      "it": "Un bambino abbandonato non è necessariamente orfano.",
+      "ja": "遺棄された子供が必ずしも孤児であるとは限りません。"
+    },
+    {
+      "it": "Dopo la morte del fondatore, il progetto rimase orfano di una guida.",
+      "ja": "創設者の死後、その計画は指導者を失いました。"
+    },
+    {
+      "it": "La città si sentiva orfana del suo artista più amato.",
+      "ja": "その町は最も愛された芸術家を失い、よりどころをなくしたように感じていました。"
+    }
+  ]
 }  
 ]
