@@ -1,1 +1,860 @@
-[]
+[
+{
+  "id": "amico",
+  "sid": "2026-00450",
+  "word": "amico",
+  "ipa": "/aˈmiko/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞・形容詞（女性形amica）",
+      "it": "sostantivo maschile e aggettivo, con femminile amica"
+    },
+    "gender": "masculine",
+    "plural": "amici",
+    "adjectiveForms": [
+      "amico",
+      "amica",
+      "amici",
+      "amiche"
+    ],
+    "pattern": "un amico / il mio amico / un mio amico / essere amico di + persona / diventare amici / nome + amico"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "relationships",
+      "school",
+      "work",
+      "social",
+      "diplomacy",
+      "technology"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "信頼・親愛・好意によって結ばれた男性の友人、男友達",
+      "性別を特に意識せずに表す友人・仲間",
+      "ある人・団体・理念などを支持し、力を貸す男性",
+      "親しみを込めた男性への呼びかけ",
+      "形容詞として、友好的な・好意的な",
+      "国家・組織などについて、友好関係にある",
+      "人・環境・利用者などに適した、負担や害が少ない",
+      "コンピューターなどで、互いに関連・連携するもの"
+    ],
+    "it": [
+      "Persona di sesso maschile legata a un’altra da affetto, fiducia e frequentazione reciproca.",
+      "Persona con la quale si ha un rapporto di amicizia, senza particolare rilievo del sesso in alcuni usi generali.",
+      "Uomo che sostiene una persona, un’organizzazione, una causa o un’idea.",
+      "Forma familiare o affettuosa con cui ci si rivolge a un uomo.",
+      "Come aggettivo, favorevole, cordiale o animato da amicizia.",
+      "Riferito a uno Stato o a un’organizzazione, legato da rapporti di collaborazione.",
+      "Adatto a una persona, all’ambiente o all’utente e capace di ridurre difficoltà o danni.",
+      "In ambito tecnico, elemento autorizzato a cooperare o accedere a un altro elemento."
+    ]
+  },
+
+  "nuance": {
+    "ja": "amicoは単なる知り合いconoscenteよりも、信頼や親しさを伴う関係を表す。学校・職場などを共にするだけならcompagnoやcollegaが適切な場合がある。所有形容詞と使うときは親族名詞と異なり、通常定冠詞が必要でil mio amicoと言う。un mio amicoは「私の友人の一人」を意味する。男性がil mio amicoと言っても恋人を意味するのが普通ではなく、男性の恋人ならil mio ragazzo、il mio compagnoなどを使う。",
+    "it": "Amico implica normalmente affetto, fiducia o una frequentazione personale più stretta rispetto a conoscente. Compagno e collega descrivono invece soprattutto un’attività o un ambiente condiviso. Diversamente dai nomi di parentela, con il possessivo richiede normalmente l’articolo: il mio amico. Un mio amico significa «uno dei miei amici». Il mio amico non indica normalmente il partner sentimentale; in quel caso si usano il mio ragazzo o il mio compagno."
+  },
+
+  "etymology": {
+    "ja": "ラテン語amīcus「友人・友好的な」に由来し、動詞amāre「愛する・好む」と同じ語族に属する。語源的には「愛情を抱く相手」「好意を向ける人」を意味する。イタリア語のamicizia、amichevole、inimico、フランス語ami、スペイン語amigoも同じラテン語系統に属する。",
+    "it": "Deriva dal latino amīcus, «amico, favorevole», appartenente alla famiglia del verbo amāre, «amare». Il significato originario è quindi quello di una persona verso la quale si prova affetto o benevolenza. Alla stessa famiglia appartengono amicizia, amichevole e inimico; derivano dalla stessa base anche il francese ami e lo spagnolo amigo."
+  },
+
+  "minimal": [
+    {
+      "word": "amico",
+      "ja": "信頼・親愛によって結ばれた男性の友人",
+      "it": "persona di sesso maschile con la quale si ha un rapporto di amicizia"
+    },
+    {
+      "word": "amica",
+      "ja": "信頼・親愛によって結ばれた女性の友人",
+      "it": "persona di sesso femminile con la quale si ha un rapporto di amicizia"
+    },
+    {
+      "word": "conoscente",
+      "ja": "面識はあるが、必ずしも親しい関係ではない人",
+      "it": "persona che si conosce senza avere necessariamente un rapporto stretto"
+    },
+    {
+      "word": "compagno",
+      "ja": "学校・活動・生活などを共にする男性",
+      "it": "persona di sesso maschile con cui si condivide un’attività, un ambiente o una relazione"
+    },
+    {
+      "word": "collega",
+      "ja": "同じ職場・職業で働く人",
+      "it": "persona con cui si condivide il lavoro o la professione"
+    }
+  ],
+
+  "synonyms": [
+    "compagno",
+    "confidente",
+    "alleato",
+    "sostenitore",
+    "conoscente"
+  ],
+
+  "equivalents": {
+    "en": [
+      "friend",
+      "male friend",
+      "friendly",
+      "ally"
+    ],
+    "de": [
+      "Freund",
+      "freundlich",
+      "Verbündeter"
+    ],
+    "fr": [
+      "ami",
+      "amical",
+      "allié"
+    ],
+    "es": [
+      "amigo",
+      "amistoso",
+      "aliado"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "il mio migliore amico",
+      "ja": "私の一番の男友達・親友"
+    },
+    {
+      "it": "un mio amico",
+      "ja": "私の友人の一人"
+    },
+    {
+      "it": "un vecchio amico",
+      "ja": "昔からの友人"
+    },
+    {
+      "it": "un caro amico",
+      "ja": "親愛なる友人・大切な友人"
+    },
+    {
+      "it": "un amico d’infanzia",
+      "ja": "幼なじみの男友達"
+    },
+    {
+      "it": "un amico comune",
+      "ja": "共通の友人"
+    },
+    {
+      "it": "essere amico di qualcuno",
+      "ja": "誰かの友人である"
+    },
+    {
+      "it": "diventare amici",
+      "ja": "友達になる"
+    },
+    {
+      "it": "fare amicizia con qualcuno",
+      "ja": "誰かと友達になる"
+    },
+    {
+      "it": "uscire con gli amici",
+      "ja": "友人たちと出掛ける"
+    },
+    {
+      "it": "un paese amico",
+      "ja": "友好国"
+    },
+    {
+      "it": "rispettoso dell’ambiente",
+      "ja": "環境に優しい"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Luca è un mio caro amico.",
+      "ja": "ルカは私の大切な友人の一人です。"
+    },
+    {
+      "it": "Conosco il mio migliore amico fin dall’infanzia.",
+      "ja": "私は幼いころから親友を知っています。"
+    },
+    {
+      "it": "Siamo diventati amici all’università.",
+      "ja": "私たちは大学で友達になりました。"
+    },
+    {
+      "it": "Questa sera esco con alcuni amici.",
+      "ja": "今晩は何人かの友人と出掛けます。"
+    },
+    {
+      "it": "Marco non è un amico intimo, ma soltanto un conoscente.",
+      "ja": "マルコは親しい友人ではなく、単なる知人です。"
+    },
+    {
+      "it": "I due paesi mantengono rapporti amichevoli.",
+      "ja": "両国は友好的な関係を維持しています。"
+    },
+    {
+      "it": "Questo programma ha un’interfaccia amica dell’utente.",
+      "ja": "このプログラムには利用者に優しいインターフェースがあります。"
+    }
+  ]
+},
+{
+  "id": "amica",
+  "sid": "2026-00451",
+  "word": "amica",
+  "ipa": "/aˈmika/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞・形容詞",
+      "it": "sostantivo femminile e aggettivo"
+    },
+    "gender": "feminine",
+    "plural": "amiche",
+    "adjectiveForms": [
+      "amico",
+      "amica",
+      "amici",
+      "amiche"
+    ],
+    "pattern": "un’amica / la mia amica / una mia amica / essere amica di + persona / diventare amiche / nome + amica"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "relationships",
+      "school",
+      "work",
+      "social",
+      "diplomacy",
+      "daily_life"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "信頼・親愛・好意によって結ばれた女性の友人、女友達",
+      "親しく付き合い、相談や活動を共にする女性",
+      "ある人・団体・理念などを支持し、力を貸す女性",
+      "親しみを込めた女性への呼びかけ",
+      "形容詞として、友好的な・好意的な",
+      "国家・組織・考えなどについて、協力的または親和的な",
+      "人・環境などに適し、負担や害が少ない"
+    ],
+    "it": [
+      "Persona di sesso femminile legata a un’altra da affetto, fiducia e frequentazione reciproca.",
+      "Donna con la quale si condividono confidenze, esperienze o attività.",
+      "Donna che sostiene una persona, un’organizzazione, una causa o un’idea.",
+      "Forma familiare o affettuosa con cui ci si rivolge a una donna.",
+      "Come aggettivo, favorevole, cordiale o animata da amicizia.",
+      "Riferita a una realtà, un’organizzazione o un’idea, collaborativa o compatibile.",
+      "Adatta a una persona o all’ambiente e capace di ridurre difficoltà o danni."
+    ]
+  },
+
+  "nuance": {
+    "ja": "amicaは女性の友人を表し、恋人であることを意味しない。la mia amicaは通常「私の女友達」であり、「私の彼女」ならla mia ragazza、la mia compagnaまたはla mia fidanzataを使う。単なる知人ならconoscente、学校や活動を共にする女性ならcompagnaが適切な場合がある。所有形容詞と使う場合は定冠詞が必要でla mia amicaと言う。una mia amicaは「私の女友達の一人」を意味する。",
+    "it": "Amica indica una persona di sesso femminile legata da amicizia e non implica normalmente una relazione sentimentale. La mia amica significa «la mia amica», mentre per una partner si usano la mia ragazza, la mia compagna o la mia fidanzata. Conoscente indica un rapporto meno stretto; compagna può mettere in rilievo un’attività, una scuola o una vita condivisa. Con il possessivo si usa normalmente l’articolo: la mia amica. Una mia amica significa «una delle mie amiche»."
+  },
+
+  "etymology": {
+    "ja": "amicoの女性形で、ラテン語amīca「女性の友人・友好的な女性」に由来する。amīcaは動詞amāre「愛する・好む」と同じ語族に属し、「好意や愛情を向ける女性」を意味した。関連語にはamicizia「友情」、amichevole「友好的な」、amare「愛する」がある。",
+    "it": "È il femminile di amico e deriva dal latino amīca, «amica, donna favorevole», appartenente alla famiglia del verbo amāre, «amare». La parola indicava quindi una donna verso la quale si provava affetto o benevolenza. Alla stessa famiglia appartengono amicizia, amichevole e amare."
+  },
+
+  "minimal": [
+    {
+      "word": "amica",
+      "ja": "信頼・親愛によって結ばれた女性の友人",
+      "it": "persona di sesso femminile con la quale si ha un rapporto di amicizia"
+    },
+    {
+      "word": "amico",
+      "ja": "信頼・親愛によって結ばれた男性の友人",
+      "it": "persona di sesso maschile con la quale si ha un rapporto di amicizia"
+    },
+    {
+      "word": "conoscente",
+      "ja": "面識はあるが、必ずしも親しい関係ではない女性",
+      "it": "persona che si conosce senza avere necessariamente un rapporto stretto"
+    },
+    {
+      "word": "compagna",
+      "ja": "学校・活動・生活などを共にする女性",
+      "it": "persona di sesso femminile con cui si condivide un’attività, un ambiente o una relazione"
+    },
+    {
+      "word": "fidanzata",
+      "ja": "女性の恋人または婚約者",
+      "it": "partner femminile in una relazione sentimentale o in un fidanzamento"
+    }
+  ],
+
+  "synonyms": [
+    "compagna",
+    "confidente",
+    "alleata",
+    "sostenitrice",
+    "conoscente"
+  ],
+
+  "equivalents": {
+    "en": [
+      "female friend",
+      "friend",
+      "ally"
+    ],
+    "de": [
+      "Freundin",
+      "Verbündete"
+    ],
+    "fr": [
+      "amie",
+      "alliée"
+    ],
+    "es": [
+      "amiga",
+      "aliada"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "la mia migliore amica",
+      "ja": "私の一番の女友達・親友"
+    },
+    {
+      "it": "una mia amica",
+      "ja": "私の女友達の一人"
+    },
+    {
+      "it": "una vecchia amica",
+      "ja": "昔からの女友達"
+    },
+    {
+      "it": "una cara amica",
+      "ja": "親愛なる女友達・大切な友人"
+    },
+    {
+      "it": "un’amica d’infanzia",
+      "ja": "幼なじみの女友達"
+    },
+    {
+      "it": "un’amica comune",
+      "ja": "共通の女友達"
+    },
+    {
+      "it": "essere amica di qualcuno",
+      "ja": "誰かの女友達である"
+    },
+    {
+      "it": "diventare amiche",
+      "ja": "女友達になる"
+    },
+    {
+      "it": "confidarsi con un’amica",
+      "ja": "女友達に悩みや秘密を打ち明ける"
+    },
+    {
+      "it": "uscire con le amiche",
+      "ja": "女友達と出掛ける"
+    },
+    {
+      "it": "presentare un’amica",
+      "ja": "女友達を紹介する"
+    },
+    {
+      "it": "una voce amica",
+      "ja": "親しみのある、味方となる声"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Anna è una mia cara amica.",
+      "ja": "アンナは私の大切な女友達の一人です。"
+    },
+    {
+      "it": "Conosco la mia migliore amica fin dalla scuola elementare.",
+      "ja": "私は小学校のころから親友を知っています。"
+    },
+    {
+      "it": "Siamo diventate amiche durante un viaggio.",
+      "ja": "私たちは旅行中に友達になりました。"
+    },
+    {
+      "it": "Questa sera esco con le mie amiche.",
+      "ja": "今晩は女友達と出掛けます。"
+    },
+    {
+      "it": "Quando sono preoccupata, mi confido con un’amica.",
+      "ja": "心配事があるとき、私は女友達に打ち明けます。"
+    },
+    {
+      "it": "Laura è una mia amica, non la mia fidanzata.",
+      "ja": "ラウラは私の女友達であって、恋人ではありません。"
+    },
+    {
+      "it": "In quel momento aveva bisogno di una voce amica.",
+      "ja": "そのとき彼女には、親身になってくれる声が必要でした。"
+    }
+  ]
+},
+{
+  "id": "fidanzato",
+  "sid": "2026-00452",
+  "word": "fidanzato",
+  "ipa": "/fidanˈtsato/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞・形容詞・fidanzareの過去分詞",
+      "it": "sostantivo maschile, aggettivo e participio passato di fidanzare"
+    },
+    "gender": "masculine",
+    "plural": "fidanzati",
+    "adjectiveForms": [
+      "fidanzato",
+      "fidanzata",
+      "fidanzati",
+      "fidanzate"
+    ],
+    "pattern": "il mio fidanzato / essere fidanzato con + persona / fidanzarsi con + persona / presentare il fidanzato / essere ufficialmente fidanzati"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "relationships",
+      "dating",
+      "family",
+      "marriage",
+      "social",
+      "introductions"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "恋愛関係にある男性、彼氏",
+      "結婚の約束をした男性、婚約者",
+      "ある人と交際している男性",
+      "形容詞として、恋人がいる・交際中の",
+      "正式に婚約している",
+      "fidanzareの過去分詞として、婚約させた・恋人関係にした"
+    ],
+    "it": [
+      "Partner maschile in una relazione sentimentale.",
+      "Uomo che ha promesso di sposare la propria partner o il proprio partner.",
+      "Uomo che frequenta stabilmente una persona con finalità sentimentali.",
+      "Come aggettivo, impegnato in una relazione amorosa.",
+      "Formalmente promesso in matrimonio.",
+      "Come participio passato di fidanzare, unito a qualcuno in una relazione o in un fidanzamento."
+    ]
+  },
+
+  "nuance": {
+    "ja": "現代イタリア語のfidanzatoは、正式な婚約の有無にかかわらず、一般に「彼氏」を意味する。婚約者であることを明確にしたい場合はpromesso sposo、fidanzato ufficiale、essere ufficialmente fidanzatiなどと言える。il mio ragazzoも「私の彼氏」を意味するが、fidanzatoのほうが恋愛関係であることが明確である。compagnoは同居や長期的な結び付きを伴う成人のパートナーに使われやすい。単数の親族名詞とは異なり、所有形容詞には定冠詞を付けてil mio fidanzatoと言う。",
+    "it": "Nell’italiano contemporaneo fidanzato significa comunemente «ragazzo con cui si ha una relazione» e non implica necessariamente una promessa formale di matrimonio. Per indicare senza ambiguità un futuro sposo si possono usare promesso sposo, fidanzato ufficiale o essere ufficialmente fidanzati. Il mio ragazzo è quasi equivalente nel parlato, mentre compagno suggerisce spesso una relazione adulta stabile o una convivenza. Con il possessivo si usa l’articolo: il mio fidanzato."
+  },
+
+  "etymology": {
+    "ja": "動詞fidanzareの過去分詞が名詞化した語である。fidanzareは古い名詞fidanza「信頼・誓約」に由来し、これは中世ラテン語fidantia、さらにラテン語fidĕre「信頼する」およびfides「信頼・信義」と同じ語族に属する。もともとは信頼に基づく正式な約束、とりわけ婚姻の約束をした人を表した。フランス語fiancéおよび英語の借用語fiancéも同じ語源を持つ。",
+    "it": "È il participio passato sostantivato di fidanzare, verbo derivato dall’antico fidanza, «fiducia, promessa». Fidanza risale al latino medievale fidantia ed è collegato al latino fidĕre, «fidarsi», e fides, «fede, fiducia». In origine indicava una persona legata da una promessa solenne, in particolare matrimoniale. Hanno la stessa origine il francese fiancé e l’inglese fiancé."
+  },
+
+  "minimal": [
+    {
+      "word": "fidanzato",
+      "ja": "男性の恋人。文脈によっては正式な婚約者",
+      "it": "partner maschile in una relazione sentimentale oppure promesso sposo"
+    },
+    {
+      "word": "ragazzo",
+      "ja": "若い男性。il mio ragazzoでは「私の彼氏」",
+      "it": "giovane uomo; nell’espressione il mio ragazzo, partner sentimentale"
+    },
+    {
+      "word": "compagno",
+      "ja": "安定した関係または共同生活を送る男性パートナー",
+      "it": "partner maschile in una relazione stabile, spesso con vita condivisa"
+    },
+    {
+      "word": "promesso sposo",
+      "ja": "結婚を正式に約束した男性、婚約者",
+      "it": "uomo formalmente impegnato a sposarsi"
+    },
+    {
+      "word": "marito",
+      "ja": "婚姻関係にある男性配偶者、夫",
+      "it": "coniuge di sesso maschile"
+    }
+  ],
+
+  "synonyms": [
+    "ragazzo",
+    "compagno",
+    "partner",
+    "promesso sposo",
+    "innamorato"
+  ],
+
+  "equivalents": {
+    "en": [
+      "boyfriend",
+      "fiancé"
+    ],
+    "de": [
+      "Freund",
+      "Verlobter"
+    ],
+    "fr": [
+      "petit ami",
+      "fiancé"
+    ],
+    "es": [
+      "novio",
+      "prometido"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "il mio fidanzato",
+      "ja": "私の彼氏・婚約者"
+    },
+    {
+      "it": "avere un fidanzato",
+      "ja": "彼氏がいる"
+    },
+    {
+      "it": "essere fidanzato",
+      "ja": "交際中・婚約中である"
+    },
+    {
+      "it": "essere fidanzato con qualcuno",
+      "ja": "誰かと交際・婚約している"
+    },
+    {
+      "it": "fidanzarsi con qualcuno",
+      "ja": "誰かと交際を始める・婚約する"
+    },
+    {
+      "it": "presentare il fidanzato",
+      "ja": "彼氏を紹介する"
+    },
+    {
+      "it": "il futuro marito",
+      "ja": "将来の夫"
+    },
+    {
+      "it": "il promesso sposo",
+      "ja": "正式な婚約者"
+    },
+    {
+      "it": "l’ex fidanzato",
+      "ja": "元彼"
+    },
+    {
+      "it": "un fidanzato geloso",
+      "ja": "嫉妬深い彼氏"
+    },
+    {
+      "it": "un fidanzato premuroso",
+      "ja": "思いやりのある彼氏"
+    },
+    {
+      "it": "stare insieme al fidanzato",
+      "ja": "彼氏と一緒に過ごす・交際する"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Ti presento il mio fidanzato, Luca.",
+      "ja": "私の彼氏のルカを紹介します。"
+    },
+    {
+      "it": "Anna è fidanzata con Marco da due anni.",
+      "ja": "アンナはマルコと交際して2年になります。"
+    },
+    {
+      "it": "Hai un fidanzato?",
+      "ja": "彼氏はいますか。"
+    },
+    {
+      "it": "Ha conosciuto il suo fidanzato all’università.",
+      "ja": "彼女は大学で彼氏と知り合いました。"
+    },
+    {
+      "it": "Il mio fidanzato verrà a cena con noi.",
+      "ja": "私の彼氏も私たちと一緒に夕食に来ます。"
+    },
+    {
+      "it": "Sono ufficialmente fidanzati e si sposeranno in primavera.",
+      "ja": "二人は正式に婚約しており、春に結婚します。"
+    },
+    {
+      "it": "Il termine fidanzato non significa necessariamente che sia già stato deciso il matrimonio.",
+      "ja": "fidanzatoという語は、必ずしも結婚がすでに決まっていることを意味しません。"
+    }
+  ]
+},
+{
+  "id": "fidanzata",
+  "sid": "2026-00453",
+  "word": "fidanzata",
+  "ipa": "/fidanˈtsata/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞・形容詞・fidanzareの過去分詞女性形",
+      "it": "sostantivo femminile, aggettivo e participio passato femminile di fidanzare"
+    },
+    "gender": "feminine",
+    "plural": "fidanzate",
+    "adjectiveForms": [
+      "fidanzato",
+      "fidanzata",
+      "fidanzati",
+      "fidanzate"
+    ],
+    "pattern": "la mia fidanzata / essere fidanzata con + persona / fidanzarsi con + persona / presentare la fidanzata / essere ufficialmente fidanzate"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "relationships",
+      "dating",
+      "family",
+      "marriage",
+      "social",
+      "introductions"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "恋愛関係にある女性、彼女",
+      "結婚の約束をした女性、婚約者",
+      "ある人と交際している女性",
+      "形容詞として、恋人がいる・交際中の",
+      "正式に婚約している",
+      "fidanzareの過去分詞女性形として、婚約させられた・恋人関係になった"
+    ],
+    "it": [
+      "Partner femminile in una relazione sentimentale.",
+      "Donna che ha promesso di sposare la propria partner o il proprio partner.",
+      "Donna che frequenta stabilmente una persona con finalità sentimentali.",
+      "Come aggettivo, impegnata in una relazione amorosa.",
+      "Formalmente promessa in matrimonio.",
+      "Come participio passato femminile di fidanzare, unita a qualcuno in una relazione o in un fidanzamento."
+    ]
+  },
+
+  "nuance": {
+    "ja": "現代イタリア語のfidanzataは、正式な婚約の有無にかかわらず、一般に「彼女」を意味する。婚約者であることを明確にするにはpromessa sposa、fidanzata ufficiale、essere ufficialmente fidanzatiなどを使う。la mia ragazzaも「私の彼女」を意味するが、fidanzataのほうが恋愛関係であることが明確である。la mia amicaは通常、恋人ではなく単なる女友達を意味する。所有形容詞には定冠詞を付けてla mia fidanzataと言う。",
+    "it": "Nell’italiano contemporaneo fidanzata significa comunemente «ragazza con cui si ha una relazione» e non implica necessariamente una promessa formale di matrimonio. Per indicare senza ambiguità una futura sposa si possono usare promessa sposa, fidanzata ufficiale o essere ufficialmente fidanzati. La mia ragazza è quasi equivalente nel parlato; la mia amica indica invece normalmente un’amica e non una partner sentimentale. Con il possessivo si usa l’articolo: la mia fidanzata."
+  },
+
+  "etymology": {
+    "ja": "fidanzatoの女性形で、動詞fidanzareの過去分詞女性形が名詞化した語である。fidanzareはfidanza「信頼・誓約」に由来し、さらに中世ラテン語fidantia、ラテン語fidĕre「信頼する」およびfides「信義・信頼」にさかのぼる。もともとは正式な婚姻の約束によって結ばれた女性を表した。",
+    "it": "È il femminile di fidanzato e il participio passato femminile sostantivato di fidanzare. Il verbo deriva dall’antico fidanza, «fiducia, promessa», a sua volta dal latino medievale fidantia e collegato a fidĕre, «fidarsi», e fides, «fede, fiducia». In origine indicava una donna legata da una promessa formale di matrimonio."
+  },
+
+  "minimal": [
+    {
+      "word": "fidanzata",
+      "ja": "女性の恋人。文脈によっては正式な婚約者",
+      "it": "partner femminile in una relazione sentimentale oppure promessa sposa"
+    },
+    {
+      "word": "ragazza",
+      "ja": "若い女性。la mia ragazzaでは「私の彼女」",
+      "it": "giovane donna; nell’espressione la mia ragazza, partner sentimentale"
+    },
+    {
+      "word": "compagna",
+      "ja": "安定した関係または共同生活を送る女性パートナー",
+      "it": "partner femminile in una relazione stabile, spesso con vita condivisa"
+    },
+    {
+      "word": "promessa sposa",
+      "ja": "結婚を正式に約束した女性、婚約者",
+      "it": "donna formalmente impegnata a sposarsi"
+    },
+    {
+      "word": "moglie",
+      "ja": "婚姻関係にある女性配偶者、妻",
+      "it": "coniuge di sesso femminile"
+    }
+  ],
+
+  "synonyms": [
+    "ragazza",
+    "compagna",
+    "partner",
+    "promessa sposa",
+    "innamorata"
+  ],
+
+  "equivalents": {
+    "en": [
+      "girlfriend",
+      "fiancée"
+    ],
+    "de": [
+      "Freundin",
+      "Verlobte"
+    ],
+    "fr": [
+      "petite amie",
+      "fiancée"
+    ],
+    "es": [
+      "novia",
+      "prometida"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "la mia fidanzata",
+      "ja": "私の彼女・婚約者"
+    },
+    {
+      "it": "avere una fidanzata",
+      "ja": "彼女がいる"
+    },
+    {
+      "it": "essere fidanzata",
+      "ja": "交際中・婚約中である"
+    },
+    {
+      "it": "essere fidanzata con qualcuno",
+      "ja": "誰かと交際・婚約している"
+    },
+    {
+      "it": "fidanzarsi con qualcuno",
+      "ja": "誰かと交際を始める・婚約する"
+    },
+    {
+      "it": "presentare la fidanzata",
+      "ja": "彼女を紹介する"
+    },
+    {
+      "it": "la futura moglie",
+      "ja": "将来の妻"
+    },
+    {
+      "it": "la promessa sposa",
+      "ja": "正式な婚約者"
+    },
+    {
+      "it": "l’ex fidanzata",
+      "ja": "元彼女"
+    },
+    {
+      "it": "una fidanzata gelosa",
+      "ja": "嫉妬深い彼女"
+    },
+    {
+      "it": "una fidanzata premurosa",
+      "ja": "思いやりのある彼女"
+    },
+    {
+      "it": "stare insieme alla fidanzata",
+      "ja": "彼女と一緒に過ごす・交際する"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Ti presento la mia fidanzata, Anna.",
+      "ja": "私の彼女のアンナを紹介します。"
+    },
+    {
+      "it": "Marco è fidanzato con Laura da tre anni.",
+      "ja": "マルコはラウラと交際して3年になります。"
+    },
+    {
+      "it": "Hai una fidanzata?",
+      "ja": "彼女はいますか。"
+    },
+    {
+      "it": "Ha conosciuto la sua fidanzata durante un viaggio.",
+      "ja": "彼は旅行中に彼女と知り合いました。"
+    },
+    {
+      "it": "La mia fidanzata verrà alla festa con me.",
+      "ja": "私の彼女も一緒にパーティーへ来ます。"
+    },
+    {
+      "it": "È la sua promessa sposa: il matrimonio è fissato per giugno.",
+      "ja": "彼女は正式な婚約者で、結婚式は6月に決まっています。"
+    },
+    {
+      "it": "Anna è una mia amica, non la mia fidanzata.",
+      "ja": "アンナは私の女友達であって、彼女ではありません。"
+    }
+  ]
+}  
+]
