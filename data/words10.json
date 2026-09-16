@@ -856,5 +856,226 @@
       "ja": "問題が解決したので、安心して出発できます。"
     }
   ]
+},
+{
+  "id": "timore",
+  "sid": "2026-00390",
+  "word": "timore",
+  "ipa": "/tiˈmore/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "timori",
+    "pattern": "avere timore di + nome o infinito / avere il timore che + congiuntivo / per timore di + nome o infinito / nel timore che + congiuntivo / incutere timore a + persona"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "emotions",
+      "work",
+      "relationships",
+      "law",
+      "religion",
+      "public_affairs"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "危険・損害・好ましくない出来事に対する恐れ",
+      "将来、悪い結果が起こるのではないかという懸念",
+      "特定の行動・判断・発言をためらわせる不安",
+      "強い立場や権威を持つ人に対して感じる畏れ",
+      "尊敬と恐れが入り交じった畏敬の念",
+      "複数形timoriで、複数の不安・懸念・危惧",
+      "senza timoreの形で、恐れることなく・安心して"
+    ],
+    "it": [
+      "Paura moderata o controllata davanti a un pericolo, un danno o un evento negativo.",
+      "Preoccupazione che in futuro possa verificarsi una conseguenza indesiderata.",
+      "Inquietudine che induce a esitare prima di agire, decidere o parlare.",
+      "Soggezione provata davanti a una persona potente o autorevole.",
+      "Sentimento di rispetto profondo accompagnato da paura o reverenza.",
+      "Al plurale, insieme di paure, dubbi o preoccupazioni.",
+      "Nella locuzione senza timore, senza paura o esitazione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "timoreはpauraよりも改まった語で、しばしば抑制された恐れや将来の悪い結果に対する懸念を表す。Ho paura del caneは直接的な恐怖を表すのに対し、Nutro timori per il futuroは将来への懸念を落ち着いた調子で述べる。preoccupazioneは特定の問題を気に掛けること、ansiaは持続的な緊張や落ち着かなさに重点がある。timore reverenzialeは、権威ある人物に対する強い畏れによって自由な判断や行動が妨げられる状態を表す。",
+    "it": "Timore ha spesso un tono più formale e controllato di paura e può indicare soprattutto l’apprensione per una possibile conseguenza futura. Ho paura del cane descrive una reazione diretta; nutro timori per il futuro esprime invece una preoccupazione più riflessiva. Preoccupazione mette in rilievo il problema concreto, mentre ansia indica una tensione più persistente. Timore reverenziale designa una forte soggezione davanti a una persona autorevole o potente."
+  },
+
+  "etymology": {
+    "ja": "ラテン語timor、属格timōris「恐れ」に由来し、動詞timēre「恐れる」と同じ語族に属する。これらのさらに古い語源は確定していない。同じラテン語からイタリア語temere、timido、timorosoが生じ、フランス語の文語的なtimoré、スペイン語temorにも受け継がれている。",
+    "it": "Deriva dal latino timor, genitivo timōris, «paura, timore», appartenente alla famiglia del verbo timēre, «temere». L’origine più remota della base latina non è certa. Dalla stessa famiglia derivano temere, timido e timoroso; forme corrispondenti si trovano anche nello spagnolo temor e nel francese letterario timoré."
+  },
+
+  "minimal": [
+    {
+      "word": "timore",
+      "ja": "危険や悪い結果に対する、比較的抑制された恐れ・懸念",
+      "it": "paura contenuta o apprensione per una possibile conseguenza negativa"
+    },
+    {
+      "word": "paura",
+      "ja": "現実または想像上の危険に対する、直接的で一般的な恐怖",
+      "it": "reazione diretta e comune davanti a un pericolo reale o immaginato"
+    },
+    {
+      "word": "preoccupazione",
+      "ja": "具体的な問題や望ましくない結果について気に掛けること",
+      "it": "inquietudine rivolta a un problema concreto o a una possibile conseguenza"
+    },
+    {
+      "word": "ansia",
+      "ja": "将来に対する持続的な緊張・不安・落ち着かなさ",
+      "it": "tensione persistente e inquietudine rivolte soprattutto al futuro"
+    },
+    {
+      "word": "soggezione",
+      "ja": "相手の権威・能力・立場などに圧倒されて感じる緊張や萎縮",
+      "it": "disagio e inibizione provati davanti a una persona autorevole o superiore"
+    }
+  ],
+
+  "synonyms": [
+    "paura",
+    "apprensione",
+    "preoccupazione",
+    "soggezione",
+    "inquietudine",
+    "riverenza"
+  ],
+
+  "equivalents": {
+    "en": [
+      "fear",
+      "apprehension",
+      "concern",
+      "awe"
+    ],
+    "de": [
+      "Furcht",
+      "Befürchtung",
+      "Besorgnis",
+      "Ehrfurcht"
+    ],
+    "fr": [
+      "crainte",
+      "appréhension",
+      "inquiétude",
+      "révérence"
+    ],
+    "es": [
+      "temor",
+      "aprensión",
+      "preocupación",
+      "reverencia"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "avere timore di qualcosa",
+      "ja": "何かを恐れている"
+    },
+    {
+      "it": "nutrire un timore",
+      "ja": "懸念を抱く"
+    },
+    {
+      "it": "esprimere un timore",
+      "ja": "懸念を表明する"
+    },
+    {
+      "it": "superare il timore",
+      "ja": "恐れを克服する"
+    },
+    {
+      "it": "incutere timore",
+      "ja": "恐れを抱かせる"
+    },
+    {
+      "it": "un timore fondato",
+      "ja": "根拠のある懸念"
+    },
+    {
+      "it": "un timore infondato",
+      "ja": "根拠のない懸念"
+    },
+    {
+      "it": "per timore di sbagliare",
+      "ja": "間違えることを恐れて"
+    },
+    {
+      "it": "nel timore che accada qualcosa",
+      "ja": "何かが起こることを恐れて"
+    },
+    {
+      "it": "senza alcun timore",
+      "ja": "何も恐れることなく"
+    },
+    {
+      "it": "timore reverenziale",
+      "ja": "権威に対する畏れ・畏怖"
+    },
+    {
+      "it": "timore di Dio",
+      "ja": "神への畏敬"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Non devi avere timore di chiedere aiuto.",
+      "ja": "助けを求めることを恐れる必要はありません。"
+    },
+    {
+      "it": "Nutro seri timori per il futuro dell’azienda.",
+      "ja": "私は会社の将来に深刻な懸念を抱いています。"
+    },
+    {
+      "it": "Molti dipendenti non parlavano per timore di perdere il lavoro.",
+      "ja": "多くの従業員は職を失うことを恐れて発言しませんでした。"
+    },
+    {
+      "it": "Abbiamo chiuso tutte le finestre nel timore che arrivasse un temporale.",
+      "ja": "雷雨が来ることを恐れて、私たちは窓をすべて閉めました。"
+    },
+    {
+      "it": "Il suo aspetto severo incuteva timore agli studenti.",
+      "ja": "彼の厳格な風貌は生徒たちに恐れを抱かせました。"
+    },
+    {
+      "it": "Il medico ci ha assicurato che i nostri timori erano infondati.",
+      "ja": "医師は、私たちの心配には根拠がないと説明してくれました。"
+    },
+    {
+      "it": "Dopo qualche esitazione, ha espresso il proprio parere senza timore.",
+      "ja": "少しためらった後、彼女は恐れることなく自分の意見を述べました。"
+    },
+    {
+      "it": "Provava un profondo timore reverenziale nei confronti del direttore.",
+      "ja": "彼は責任者に対して強い畏怖の念を抱いていました。"
+    }
+  ]
 }  
 ]
