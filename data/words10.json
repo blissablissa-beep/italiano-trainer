@@ -1,7 +1,7 @@
 [
 {
   "id": "cuore",
-  "sid": "2026-00386",
+  "sid": "2026-00387",
   "word": "cuore",
   "ipa": "/ˈkwɔre/",
   "level": "A1",
@@ -223,7 +223,7 @@
 },
 {
   "id": "stasera",
-  "sid": "2026-00387",
+  "sid": "2026-00388",
   "word": "stasera",
   "ipa": "/staˈsera/",
   "level": "A1",
@@ -426,7 +426,7 @@
 },
 {
   "id": "ansia",
-  "sid": "2026-00388",
+  "sid": "2026-00389",
   "word": "ansia",
   "ipa": "/ˈansja/",
   "level": "A2",
@@ -643,7 +643,7 @@
 },
 {
   "id": "preoccupazione",
-  "sid": "2026-00389",
+  "sid": "2026-00390",
   "word": "preoccupazione",
   "ipa": "/preokkupatˈtsjone/",
   "level": "A2",
@@ -859,7 +859,7 @@
 },
 {
   "id": "timore",
-  "sid": "2026-00390",
+  "sid": "2026-00391",
   "word": "timore",
   "ipa": "/tiˈmore/",
   "level": "B1",
@@ -1080,7 +1080,7 @@
 },
 {
   "id": "mente",
-  "sid": "2026-00391",
+  "sid": "2026-00392",
   "word": "mente",
   "ipa": "/ˈmente/",
   "level": "A2",
@@ -1300,7 +1300,7 @@
 },
 {
   "id": "animo",
-  "sid": "2026-00392",
+  "sid": "2026-00393",
   "word": "animo",
   "ipa": "/ˈanimo/",
   "level": "B1",
@@ -1524,7 +1524,7 @@
 }, 
 {
   "id": "momento",
-  "sid": "2026-00393",
+  "sid": "2026-00394",
   "word": "momento",
   "ipa": "/moˈmento/",
   "level": "A1",
@@ -1748,7 +1748,7 @@
 },
 {
   "id": "presto",
-  "sid": "2026-00394",
+  "sid": "2026-00395",
   "word": "presto",
   "ipa": "/ˈprɛsto/",
   "level": "A1",
@@ -1965,7 +1965,7 @@
 },
 {
   "id": "istante",
-  "sid": "2026-00395",
+  "sid": "2026-00396",
   "word": "istante",
   "ipa": "/isˈtante/",
   "level": "B1",
@@ -2181,7 +2181,7 @@
 },
 {
   "id": "tempo",
-  "sid": "2026-00396",
+  "sid": "2026-00397",
   "word": "tempo",
   "ipa": "/ˈtɛmpo/",
   "level": "A1",
@@ -2417,7 +2417,7 @@
 },
 {
   "id": "periodo",
-  "sid": "2026-00397",
+  "sid": "2026-00398",
   "word": "periodo",
   "ipa": "/peˈrjodo/",
   "level": "A2",
@@ -2651,7 +2651,7 @@
 },
 {
   "id": "fase",
-  "sid": "2026-00398",
+  "sid": "2026-00399",
   "word": "fase",
   "ipa": "/ˈfaze/",
   "level": "B1",
@@ -2876,7 +2876,7 @@
 },
 {
   "id": "dolore",
-  "sid": "2026-00399",
+  "sid": "2026-00400",
   "word": "dolore",
   "ipa": "/doˈlore/",
   "level": "A2",
@@ -3098,7 +3098,7 @@
 },
 {
   "id": "sofferenza",
-  "sid": "2026-00400",
+  "sid": "2026-00401",
   "word": "sofferenza",
   "ipa": "/soffeˈrɛntsa/",
   "level": "B1",
@@ -3320,7 +3320,7 @@
 },
 {
   "id": "meteo",
-  "sid": "2026-00401",
+  "sid": "2026-00402",
   "word": "meteo",
   "ipa": "/ˈmɛteo/",
   "level": "A2",
@@ -3534,7 +3534,7 @@
 },
 {
   "id": "clima",
-  "sid": "2026-00402",
+  "sid": "2026-00403",
   "word": "clima",
   "ipa": "/ˈklima/",
   "level": "A2",
@@ -3748,6 +3748,4405 @@
     {
       "it": "Il clima politico è cambiato dopo le elezioni.",
       "ja": "選挙後、政治情勢は変化しました。"
+    }
+  ]
+},
+{
+  "id": "capo",
+  "sid": "2026-00404",
+  "word": "capo",
+  "ipa": "/ˈkapo/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞／人を表す場合は女性にも使用",
+      "it": "sostantivo maschile; riferito a una persona può essere usato anche al femminile"
+    },
+    "gender": "masculine",
+    "plural": "capi",
+    "pattern": "il capo / i capi / capo di + gruppo, ente o parte / essere o mettersi a capo di + nome / da capo / a capo / capo + specificazione"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "formal",
+      "technical",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "body",
+      "work",
+      "organizations",
+      "clothing",
+      "geography",
+      "law",
+      "agriculture"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人や動物の頭、特に文章語・慣用表現で用いられる語",
+      "組織・集団・部署などを指揮する上司・責任者・指導者",
+      "国・政府・軍隊などの最高指導者",
+      "集団や活動の先頭に立って指揮する人",
+      "衣服を一つの製品として数える際の一点・一着",
+      "物の先端・端・始まりに当たる部分",
+      "海へ突き出した陸地、岬",
+      "家畜などを数える際の一頭・個体",
+      "法律・公文書などを構成する項目・区分",
+      "a capoの形で改行、da capoの形で最初から繰り返すこと"
+    ],
+    "it": [
+      "Testa di una persona o di un animale, soprattutto in usi letterari o idiomatici.",
+      "Persona che dirige un’organizzazione, un gruppo, un ufficio o un reparto.",
+      "Massima autorità di uno Stato, di un governo, di un esercito o di un’altra istituzione.",
+      "Persona che guida un’attività o si trova alla testa di un gruppo.",
+      "Singolo articolo di abbigliamento considerato come unità.",
+      "Estremità, punta o parte iniziale di un oggetto.",
+      "Promontorio che si protende nel mare.",
+      "Unità utilizzata per contare animali, soprattutto bestiame.",
+      "Sezione o parte autonoma di un testo giuridico o amministrativo.",
+      "Nelle locuzioni a capo e da capo, rispettivamente cambio di riga e ripetizione dall’inizio."
+    ]
+  },
+
+  "nuance": {
+    "ja": "身体部位としての日常的な「頭」には通常testaを使い、capoはabbassare il capo「頭を垂れる」、da capo a piedi「頭から足まで」などの慣用表現や文章語で多い。人については「上司・責任者」を表し、Il mio capoは男女を問わず使える。女性にはla capoが中立的な職名として使われる一方、la capaも口語で見られる。essere a capo diは「～を率いている」、da capoは「最初から」、a capoは「改行して」を意味する。衣服ではun capo d’abbigliamentoが「衣料品一点」となる。",
+    "it": "Per la parte del corpo, testa è la parola quotidiana più comune; capo ricorre soprattutto in usi letterari e in espressioni come abbassare il capo o da capo a piedi. Riferito a una persona, indica chi dirige: il mio capo può designare un uomo o una donna. Per una donna è diffuso la capo come nome professionale invariabile; la capa esiste soprattutto nell’uso colloquiale. Essere a capo di significa dirigere; da capo significa dall’inizio; a capo indica il passaggio a una nuova riga. Un capo d’abbigliamento è un singolo articolo di vestiario."
+  },
+
+  "etymology": {
+    "ja": "ラテン語caput、属格capitis「頭、先端、指導者」に由来する。身体の最上部である頭から、「先頭」「中心人物」「指導者」「物の端」といった意味が発達した。同じ語族にはcapitale、capitolo、capitano、decapitareがある。フランス語chef、英語chief・capital・chapterも、直接またはフランス語を介して同じラテン語caputにさかのぼる。",
+    "it": "Deriva dal latino caput, genitivo capitis, «testa, estremità, persona principale». Dalla testa, parte superiore del corpo, si sono sviluppati i significati di inizio, estremità e autorità. Alla stessa famiglia appartengono capitale, capitolo, capitano e decapitare. Anche il francese chef e gli inglesi chief, capital e chapter risalgono, direttamente o attraverso il francese, al latino caput."
+  },
+
+  "minimal": [
+    {
+      "word": "capo",
+      "ja": "頭、集団の指導者、衣料品一点、物の端などを表す多義語",
+      "it": "parola che può indicare la testa, un dirigente, un indumento o un’estremità"
+    },
+    {
+      "word": "testa",
+      "ja": "人や動物の身体部位としての頭を表す最も一般的な語",
+      "it": "termine quotidiano più comune per la parte superiore del corpo"
+    },
+    {
+      "word": "responsabile",
+      "ja": "部署・業務・判断などについて責任を負う担当者",
+      "it": "persona incaricata di un’attività e tenuta a risponderne"
+    },
+    {
+      "word": "dirigente",
+      "ja": "企業・機関などで管理・指揮を担当する上級職員",
+      "it": "persona che esercita funzioni direttive in un’impresa o in un ente"
+    },
+    {
+      "word": "leader",
+      "ja": "集団・組織・運動などを導き、影響を与える人物",
+      "it": "persona che guida un gruppo e ne orienta le decisioni"
+    }
+  ],
+
+  "synonyms": [
+    "testa",
+    "responsabile",
+    "dirigente",
+    "leader",
+    "estremità",
+    "promontorio"
+  ],
+
+  "equivalents": {
+    "en": [
+      "head",
+      "boss",
+      "chief",
+      "item",
+      "cape"
+    ],
+    "de": [
+      "Kopf",
+      "Chef",
+      "Leiter",
+      "Kleidungsstück",
+      "Kap"
+    ],
+    "fr": [
+      "tête",
+      "chef",
+      "patron",
+      "article",
+      "cap"
+    ],
+    "es": [
+      "cabeza",
+      "jefe",
+      "prenda",
+      "cabo"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "il capo dell’ufficio",
+      "ja": "事務所・部署の責任者"
+    },
+    {
+      "it": "capo di Stato",
+      "ja": "国家元首"
+    },
+    {
+      "it": "capo del governo",
+      "ja": "政府の長・首相"
+    },
+    {
+      "it": "capo squadra",
+      "ja": "チームリーダー・班長"
+    },
+    {
+      "it": "essere a capo di",
+      "ja": "～を率いている"
+    },
+    {
+      "it": "mettersi a capo di",
+      "ja": "～の先頭に立つ"
+    },
+    {
+      "it": "capo d’abbigliamento",
+      "ja": "衣料品一点"
+    },
+    {
+      "it": "capo d’accusa",
+      "ja": "訴因・起訴事実"
+    },
+    {
+      "it": "capo di bestiame",
+      "ja": "家畜一頭"
+    },
+    {
+      "it": "da capo",
+      "ja": "最初から・もう一度"
+    },
+    {
+      "it": "andare a capo",
+      "ja": "改行する"
+    },
+    {
+      "it": "da capo a piedi",
+      "ja": "頭から足まで・全身"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Abbassò il capo senza rispondere.",
+      "ja": "彼は返事をせずに頭を下げました。"
+    },
+    {
+      "it": "Devo chiedere l’autorizzazione al mio capo.",
+      "ja": "上司に許可を求めなければなりません。"
+    },
+    {
+      "it": "È stata nominata capo del nuovo reparto.",
+      "ja": "彼女は新しい部署の責任者に任命されました。"
+    },
+    {
+      "it": "Il presidente della Repubblica è il capo dello Stato.",
+      "ja": "共和国大統領は国家元首です。"
+    },
+    {
+      "it": "Questo capo d’abbigliamento deve essere lavato a mano.",
+      "ja": "この衣料品は手洗いしなければなりません。"
+    },
+    {
+      "it": "La nave ha navigato intorno al Capo di Buona Speranza.",
+      "ja": "その船は喜望峰を回って航行しました。"
+    },
+    {
+      "it": "L’azienda agricola possiede circa duecento capi di bestiame.",
+      "ja": "その農場は約200頭の家畜を所有しています。"
+    },
+    {
+      "it": "L’imputato deve rispondere di tre capi d’accusa.",
+      "ja": "被告人は三つの訴因について責任を問われています。"
+    },
+    {
+      "it": "Non ho capito la spiegazione: puoi ricominciare da capo?",
+      "ja": "説明が分かりませんでした。最初からやり直してもらえますか。"
+    },
+    {
+      "it": "Alla fine della frase devi mettere un punto e andare a capo.",
+      "ja": "文末にピリオドを付けて、改行しなければなりません。"
+    }
+  ]
+},
+{
+  "id": "figlio",
+  "sid": "2026-00405",
+  "word": "figlio",
+  "ipa": "/ˈfiʎʎo/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "figli",
+    "feminine": "figlia",
+    "femininePlural": "figlie",
+    "pattern": "essere figlio di + persona / avere un figlio / figlio + aggettivo / figlio di + luogo, epoca o situazione / mio, tuo, suo figlio"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "formal",
+      "figurative",
+      "religious"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "identity",
+      "law",
+      "history",
+      "religion"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "親との関係から見た男性の子、息子",
+      "年齢にかかわらず、父母に対する子",
+      "複数形figliで、息子たち、または男女を含む子供たち",
+      "家系・民族・共同体などに属する子孫",
+      "ある土地で生まれ育った人物",
+      "特定の時代・社会・状況から生まれ、その影響を受けた人物または事物",
+      "比喩的に、ある原因・活動・考えなどから生じた結果・産物",
+      "宗教的用法で、神の子または信仰共同体に属する者",
+      "figlio mioの形で、親愛・保護・叱責などを込めた呼び掛け"
+    ],
+    "it": [
+      "Persona di sesso maschile considerata in rapporto ai propri genitori.",
+      "Persona considerata come discendente diretto dei genitori, indipendentemente dall’età.",
+      "Al plurale, figli maschi oppure insieme dei figli maschi e femmine.",
+      "Discendente appartenente a una famiglia, un popolo o una comunità.",
+      "Persona nata e cresciuta in un determinato luogo.",
+      "Persona o realtà formata dalle condizioni di un’epoca, di una società o di una situazione.",
+      "In senso figurato, risultato o prodotto di una causa, di un’attività o di un’idea.",
+      "In ambito religioso, il Figlio di Dio oppure un membro della comunità dei credenti.",
+      "Nell’espressione figlio mio, appellativo affettuoso, protettivo o di rimprovero."
+    ]
+  },
+
+  "nuance": {
+    "ja": "figlioは年齢ではなく親子関係を表すため、成人男性についてもÈ mio figlioと言える。bambinoは年齢上の「子供」であり、親との関係は必ずしも示さない。単数のfiglioは男性、figliaは女性を表すが、複数形figliは男性だけでなく、男女を含むきょうだい・子供全体を指すことがある。所有形容詞を伴う単数の親族名では通常定冠詞を付けず、mio figlio、tua figliaと言う。ただし複数形や修飾語がある場合はi miei figli、il mio figlio maggioreのように冠詞を用いる。",
+    "it": "Figlio esprime un rapporto familiare, non un’età: anche un uomo adulto può essere chiamato figlio dai propri genitori. Bambino indica invece una persona giovane senza specificare necessariamente la relazione familiare. Figlio è maschile e figlia femminile; il plurale figli può comprendere sia maschi sia maschi e femmine. Con un nome di parentela singolare e un possessivo normalmente si omette l’articolo: mio figlio, tua figlia. Al plurale o in presenza di una modificazione si usa l’articolo: i miei figli, il mio figlio maggiore."
+  },
+
+  "etymology": {
+    "ja": "ラテン語fīlius「息子、子」に由来する。女性形figliaはラテン語fīliaに対応する。ラテン語からイタリア語へ移る際、-li-が口蓋化して現在のgliの音になった。同じ語族にはfiliale「子としての・系列の」、filiazione「親子関係・派生」、affiliare「加入させる」がある。フランス語fils、スペイン語hijo、ポルトガル語filhoも同じラテン語に由来する。",
+    "it": "Deriva dal latino fīlius, «figlio», mentre il femminile figlia continua fīlia. Nell’evoluzione verso l’italiano, il gruppo consonantico interno si è palatalizzato dando il suono rappresentato da gli. Alla stessa famiglia appartengono filiale, filiazione e affiliare. Derivano dalla stessa parola latina anche il francese fils, lo spagnolo hijo e il portoghese filho."
+  },
+
+  "minimal": [
+    {
+      "word": "figlio",
+      "ja": "親との関係から見た男性の子、息子",
+      "it": "persona di sesso maschile considerata in rapporto ai propri genitori"
+    },
+    {
+      "word": "figlia",
+      "ja": "親との関係から見た女性の子、娘",
+      "it": "persona di sesso femminile considerata in rapporto ai propri genitori"
+    },
+    {
+      "word": "bambino",
+      "ja": "年齢が幼い男の子・子供",
+      "it": "persona di giovane età, soprattutto di sesso maschile"
+    },
+    {
+      "word": "discendente",
+      "ja": "子・孫など、ある人物や家系から血統上続く者",
+      "it": "persona che deriva genealogicamente da un’altra persona o famiglia"
+    },
+    {
+      "word": "erede",
+      "ja": "財産・権利・地位などを受け継ぐ人",
+      "it": "persona che riceve beni, diritti, titolo o posizione da un’altra"
+    }
+  ],
+
+  "synonyms": [
+    "discendente",
+    "erede",
+    "prole",
+    "rampollo",
+    "creatura"
+  ],
+
+  "equivalents": {
+    "en": [
+      "son",
+      "child",
+      "offspring",
+      "descendant"
+    ],
+    "de": [
+      "Sohn",
+      "Kind",
+      "Nachkomme"
+    ],
+    "fr": [
+      "fils",
+      "enfant",
+      "descendant"
+    ],
+    "es": [
+      "hijo",
+      "niño",
+      "descendiente"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "avere un figlio",
+      "ja": "息子・子供が一人いる"
+    },
+    {
+      "it": "aspettare un figlio",
+      "ja": "子供の誕生を控えている"
+    },
+    {
+      "it": "crescere un figlio",
+      "ja": "子供を育てる"
+    },
+    {
+      "it": "figlio unico",
+      "ja": "一人息子・一人っ子"
+    },
+    {
+      "it": "figlio maggiore",
+      "ja": "長男・年上の息子"
+    },
+    {
+      "it": "figlio minore",
+      "ja": "年下の息子・末の息子"
+    },
+    {
+      "it": "figlio adottivo",
+      "ja": "養子である息子"
+    },
+    {
+      "it": "padre e figlio",
+      "ja": "父と息子"
+    },
+    {
+      "it": "madre e figlio",
+      "ja": "母と息子"
+    },
+    {
+      "it": "essere figlio del proprio tempo",
+      "ja": "自分の時代の影響を受けた人である"
+    },
+    {
+      "it": "Figlio di Dio",
+      "ja": "神の子"
+    },
+    {
+      "it": "figlio mio",
+      "ja": "わが子よ・おまえ"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Luca è il figlio maggiore di Maria e Paolo.",
+      "ja": "ルカはマリアとパオロの長男です。"
+    },
+    {
+      "it": "Mio figlio vive all’estero da tre anni.",
+      "ja": "私の息子は3年前から外国で暮らしています。"
+    },
+    {
+      "it": "Hanno due figli, un maschio e una femmina.",
+      "ja": "彼らには男の子と女の子の二人の子供がいます。"
+    },
+    {
+      "it": "Anche se ha cinquant’anni, per sua madre rimane sempre suo figlio.",
+      "ja": "彼は50歳ですが、母親にとってはいつまでも息子です。"
+    },
+    {
+      "it": "La coppia ha deciso di adottare un figlio.",
+      "ja": "その夫婦は養子を迎えることに決めました。"
+    },
+    {
+      "it": "Era figlio di una famiglia di agricoltori.",
+      "ja": "彼は農家の出身でした。"
+    },
+    {
+      "it": "Ogni autore è in parte figlio del proprio tempo.",
+      "ja": "あらゆる作家は、ある程度、自分の時代が生んだ存在です。"
+    },
+    {
+      "it": "Questa crisi è figlia di decisioni prese molti anni fa.",
+      "ja": "この危機は、何年も前に下された決定の産物です。"
+    },
+    {
+      "it": "Coraggio, figlio mio: non devi perderti d’animo.",
+      "ja": "元気を出しなさい、わが子よ。くじけてはいけません。"
+    }
+  ]
+},
+{
+  "id": "figlia",
+  "sid": "2026-00406",
+  "word": "figlia",
+  "ipa": "/ˈfiʎʎa/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "figlie",
+    "masculine": "figlio",
+    "masculinePlural": "figli",
+    "pattern": "essere figlia di + persona / avere una figlia / figlia + aggettivo / figlia di + luogo, epoca o situazione / mia, tua, sua figlia"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "formal",
+      "figurative",
+      "religious"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "identity",
+      "law",
+      "history",
+      "religion"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "親との関係から見た女性の子、娘",
+      "年齢にかかわらず、父母に対する女性の子",
+      "家系・民族・共同体などに属する女性の子孫",
+      "ある土地で生まれ育った女性",
+      "特定の時代・社会・状況から生まれ、その影響を受けた女性",
+      "女性名詞で表される物事について、ある原因・活動・思想などから生じた結果・産物",
+      "figlia d’arteの形で、芸術家・俳優などの家庭に生まれ、同じ分野で活動する女性",
+      "宗教的用法で、神・教会・修道会などに属する女性",
+      "figlia miaの形で、親愛・保護・叱責などを込めた呼び掛け"
+    ],
+    "it": [
+      "Persona di sesso femminile considerata in rapporto ai propri genitori.",
+      "Discendente femminile diretta dei genitori, indipendentemente dall’età.",
+      "Discendente femminile appartenente a una famiglia, un popolo o una comunità.",
+      "Donna nata e cresciuta in un determinato luogo.",
+      "Donna formata dalle condizioni di un’epoca, di una società o di una situazione.",
+      "In senso figurato, realtà di genere femminile considerata come risultato di una causa, di un’attività o di un’idea.",
+      "Nell’espressione figlia d’arte, donna nata in una famiglia di artisti e attiva nello stesso ambiente.",
+      "In ambito religioso, donna considerata appartenente a Dio, alla Chiesa o a una comunità religiosa.",
+      "Nell’espressione figlia mia, appellativo affettuoso, protettivo o di rimprovero."
+    ]
+  },
+
+  "nuance": {
+    "ja": "figliaは年齢ではなく親子関係を表すため、成人女性についてもÈ mia figliaと言える。bambinaは年齢上の「女の子」であり、親との関係を必ずしも示さない。figlieは女性の子供たちだけを表すが、男性または男女を含む子供全体にはfigliを用いる。所有形容詞を伴う単数の親族名では通常定冠詞を付けず、mia figlia、sua figliaと言う。ただし修飾語が付く場合はla mia figlia maggiore、複数形ではle mie figlieとなる。",
+    "it": "Figlia esprime una relazione familiare, non un’età: anche una donna adulta rimane figlia dei propri genitori. Bambina indica invece una persona giovane senza specificare necessariamente il rapporto familiare. Figlie si riferisce soltanto a persone di sesso femminile; figli può comprendere maschi oppure un gruppo misto. Con un nome di parentela singolare accompagnato da un possessivo si omette normalmente l’articolo: mia figlia, sua figlia. Con una modificazione o al plurale si usa l’articolo: la mia figlia maggiore, le mie figlie."
+  },
+
+  "etymology": {
+    "ja": "ラテン語fīlia「娘、女性の子」に由来し、男性形figlioに対応するfīliusと同じ語族に属する。ラテン語からイタリア語へ移る過程で、-li-が口蓋化して現在のgliの音になった。同じ語族にはfiliale「子としての・系列の」、filiazione「親子関係・派生」、affiliare「加入させる」がある。フランス語fille、スペイン語hija、ポルトガル語filhaも同じラテン語に由来する。",
+    "it": "Deriva dal latino fīlia, «figlia», femminile di fīlius. Nell’evoluzione verso l’italiano, il gruppo consonantico interno si è palatalizzato producendo il suono rappresentato da gli. Alla stessa famiglia appartengono filiale, filiazione e affiliare. Dalla stessa parola latina derivano anche il francese fille, lo spagnolo hija e il portoghese filha."
+  },
+
+  "minimal": [
+    {
+      "word": "figlia",
+      "ja": "親との関係から見た女性の子、娘",
+      "it": "persona di sesso femminile considerata in rapporto ai propri genitori"
+    },
+    {
+      "word": "figlio",
+      "ja": "親との関係から見た男性の子、息子",
+      "it": "persona di sesso maschile considerata in rapporto ai propri genitori"
+    },
+    {
+      "word": "bambina",
+      "ja": "年齢が幼い女の子",
+      "it": "persona di sesso femminile e di giovane età"
+    },
+    {
+      "word": "discendente",
+      "ja": "子・孫など、ある人物や家系から血統上続く者",
+      "it": "persona che deriva genealogicamente da un’altra persona o famiglia"
+    },
+    {
+      "word": "erede",
+      "ja": "財産・権利・地位などを受け継ぐ人",
+      "it": "persona che riceve beni, diritti, titolo o posizione da un’altra"
+    }
+  ],
+
+  "synonyms": [
+    "discendente",
+    "erede",
+    "rampolla",
+    "creatura"
+  ],
+
+  "equivalents": {
+    "en": [
+      "daughter",
+      "female child",
+      "descendant"
+    ],
+    "de": [
+      "Tochter",
+      "Kind",
+      "Nachfahrin"
+    ],
+    "fr": [
+      "fille",
+      "enfant",
+      "descendante"
+    ],
+    "es": [
+      "hija",
+      "niña",
+      "descendiente"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "avere una figlia",
+      "ja": "娘が一人いる"
+    },
+    {
+      "it": "aspettare una figlia",
+      "ja": "娘の誕生を控えている"
+    },
+    {
+      "it": "crescere una figlia",
+      "ja": "娘を育てる"
+    },
+    {
+      "it": "figlia unica",
+      "ja": "一人娘・一人っ子"
+    },
+    {
+      "it": "figlia maggiore",
+      "ja": "長女・年上の娘"
+    },
+    {
+      "it": "figlia minore",
+      "ja": "年下の娘・末娘"
+    },
+    {
+      "it": "figlia adottiva",
+      "ja": "養子である娘"
+    },
+    {
+      "it": "madre e figlia",
+      "ja": "母と娘"
+    },
+    {
+      "it": "padre e figlia",
+      "ja": "父と娘"
+    },
+    {
+      "it": "figlia d’arte",
+      "ja": "芸術家などの家庭に生まれ、同じ分野で活動する女性"
+    },
+    {
+      "it": "essere figlia del proprio tempo",
+      "ja": "自分の時代の影響を受けた女性である"
+    },
+    {
+      "it": "figlia mia",
+      "ja": "わが娘よ・おまえ"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Anna è la figlia minore di Carlo e Lucia.",
+      "ja": "アンナはカルロとルチアの末娘です。"
+    },
+    {
+      "it": "Mia figlia comincerà l’università il prossimo anno.",
+      "ja": "私の娘は来年大学へ進学します。"
+    },
+    {
+      "it": "Hanno due figlie e un figlio.",
+      "ja": "彼らには娘が二人と息子が一人います。"
+    },
+    {
+      "it": "Anche se vive lontano, telefona a sua figlia ogni sera.",
+      "ja": "遠くに住んでいますが、彼女は毎晩娘に電話します。"
+    },
+    {
+      "it": "La coppia ha adottato una figlia.",
+      "ja": "その夫婦は女の子を養子に迎えました。"
+    },
+    {
+      "it": "È figlia di una nota famiglia di musicisti.",
+      "ja": "彼女は著名な音楽家一家の出身です。"
+    },
+    {
+      "it": "Essendo figlia d’arte, ha conosciuto il mondo del teatro fin da bambina.",
+      "ja": "芸能一家の娘だったため、彼女は幼いころから演劇の世界に親しんでいました。"
+    },
+    {
+      "it": "Quella riforma fu figlia del clima politico dell’epoca.",
+      "ja": "その改革は当時の政治情勢から生まれたものでした。"
+    },
+    {
+      "it": "Non preoccuparti, figlia mia: troveremo una soluzione.",
+      "ja": "心配しないで、わが娘よ。私たちは解決策を見つけます。"
+    }
+  ]
+},
+{
+  "id": "nipote",
+  "sid": "2026-00407",
+  "word": "nipote",
+  "ipa": "/niˈpote/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男女同形名詞",
+      "it": "sostantivo di genere comune"
+    },
+    "gender": "common",
+    "masculine": "il nipote",
+    "feminine": "la nipote",
+    "plural": "nipoti",
+    "pattern": "essere nipote di + persona / avere un nipote o una nipote / mio nipote o mia nipote / nipote da parte di + familiare / nipote in linea diretta o collaterale"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "identity",
+      "genealogy",
+      "law",
+      "inheritance"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "自分の息子または娘の男性の子、孫息子",
+      "自分の息子または娘の女性の子、孫娘",
+      "自分の兄弟または姉妹の男性の子、甥",
+      "自分の兄弟または姉妹の女性の子、姪",
+      "祖父母との関係から見た孫",
+      "おじ・おばとの関係から見た甥・姪",
+      "広い意味で、後の世代に属する子孫",
+      "法律・系譜上、直系または傍系の親族として位置付けられる者"
+    ],
+    "it": [
+      "Figlio del proprio figlio o della propria figlia.",
+      "Figlia del proprio figlio o della propria figlia.",
+      "Figlio del proprio fratello o della propria sorella.",
+      "Figlia del proprio fratello o della propria sorella.",
+      "Persona considerata in rapporto ai propri nonni.",
+      "Persona considerata in rapporto ai propri zii.",
+      "In senso ampio, discendente appartenente a una generazione successiva.",
+      "Nel linguaggio giuridico e genealogico, parente appartenente alla linea diretta o collaterale."
+    ]
+  },
+
+  "nuance": {
+    "ja": "nipoteは、英語のgrandchildとnephew・nieceに相当する関係を一語で表すため、文脈がなければ「孫」か「甥・姪」か判別できない。性別は冠詞・所有形容詞・形容詞で示され、il mio nipoteは男性、la mia nipoteは女性を表す。ただし単数の親族名に所有形容詞を付ける場合、通常は冠詞を省いてmio nipote、mia nipoteと言う。関係を明確にするにはÈ il figlio di mia sorella「姉妹の息子です」やÈ la figlia di mio figlio「息子の娘です」のように説明する。",
+    "it": "Nipote può indicare sia un discendente dei figli sia un figlio o una figlia dei fratelli. Senza contesto non è quindi possibile stabilire se significhi «grandchild», «nephew» o «niece». Il genere è indicato dall’articolo, dal possessivo o dall’aggettivo: il nipote o mio nipote per un maschio, la nipote o mia nipote per una femmina. Con il possessivo e il nome di parentela singolare si omette normalmente l’articolo. Per eliminare l’ambiguità si specifica, per esempio, il figlio di mia sorella oppure la figlia di mio figlio."
+  },
+
+  "etymology": {
+    "ja": "ラテン語nepōs、属格nepōtis「孫、甥、子孫」に由来する。ラテン語の段階ですでに、後の世代に属する直系の「孫」と傍系の「甥」を同じ語で表していた。同じ語族にはnepotismo「縁故主義」がある。この語は、かつて高位聖職者が自分のnipotiと称される親族を優遇した慣行に由来する。英語nephew、フランス語neveu、スペイン語nietoも同じ古い語族に属する。",
+    "it": "Deriva dal latino nepōs, genitivo nepōtis, «nipote, discendente». Già in latino la parola poteva riferirsi sia al figlio di un figlio sia al figlio di un fratello o di una sorella. Dalla stessa base deriva nepotismo, termine legato storicamente alla pratica di favorire i propri nipoti e altri parenti. Sono collegati anche l’inglese nephew, il francese neveu e lo spagnolo nieto."
+  },
+
+  "minimal": [
+    {
+      "word": "nipote",
+      "ja": "自分の子の子である孫、または兄弟姉妹の子である甥・姪",
+      "it": "figlio o figlia dei propri figli oppure dei propri fratelli e sorelle"
+    },
+    {
+      "word": "figlio",
+      "ja": "親との関係から見た男性の子、息子",
+      "it": "persona di sesso maschile considerata in rapporto ai propri genitori"
+    },
+    {
+      "word": "figlia",
+      "ja": "親との関係から見た女性の子、娘",
+      "it": "persona di sesso femminile considerata in rapporto ai propri genitori"
+    },
+    {
+      "word": "pronipote",
+      "ja": "ひ孫、または兄弟姉妹の孫・甥や姪の子",
+      "it": "discendente di una generazione ulteriore oppure figlio di un nipote"
+    },
+    {
+      "word": "discendente",
+      "ja": "子・孫など、ある人物や家系から血統上続く者",
+      "it": "persona che deriva genealogicamente da un’altra persona o famiglia"
+    }
+  ],
+
+  "synonyms": [
+    "discendente",
+    "parente",
+    "erede",
+    "rampollo"
+  ],
+
+  "equivalents": {
+    "en": [
+      "grandson",
+      "granddaughter",
+      "nephew",
+      "niece",
+      "grandchild"
+    ],
+    "de": [
+      "Enkel",
+      "Enkelin",
+      "Neffe",
+      "Nichte"
+    ],
+    "fr": [
+      "petit-fils",
+      "petite-fille",
+      "neveu",
+      "nièce"
+    ],
+    "es": [
+      "nieto",
+      "nieta",
+      "sobrino",
+      "sobrina"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "avere un nipote",
+      "ja": "男性の孫または甥がいる"
+    },
+    {
+      "it": "avere una nipote",
+      "ja": "女性の孫または姪がいる"
+    },
+    {
+      "it": "mio nipote",
+      "ja": "私の孫息子・甥"
+    },
+    {
+      "it": "mia nipote",
+      "ja": "私の孫娘・姪"
+    },
+    {
+      "it": "nipote maschio",
+      "ja": "男性の孫・甥"
+    },
+    {
+      "it": "nipote femmina",
+      "ja": "女性の孫・姪"
+    },
+    {
+      "it": "nipote da parte di mio figlio",
+      "ja": "息子側の孫"
+    },
+    {
+      "it": "nipote da parte di mia figlia",
+      "ja": "娘側の孫"
+    },
+    {
+      "it": "nipote di secondo grado",
+      "ja": "親族関係上の甥・姪"
+    },
+    {
+      "it": "nipote in linea diretta",
+      "ja": "直系の孫"
+    },
+    {
+      "it": "nipote in linea collaterale",
+      "ja": "傍系の甥・姪"
+    },
+    {
+      "it": "zio e nipote",
+      "ja": "おじと甥・姪"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Mio nipote è il figlio di mia sorella.",
+      "ja": "私の甥は姉妹の息子です。"
+    },
+    {
+      "it": "Mia nipote è la figlia di mio fratello.",
+      "ja": "私の姪は兄弟の娘です。"
+    },
+    {
+      "it": "Il loro primo nipote è nato ieri.",
+      "ja": "彼らの初孫が昨日生まれました。"
+    },
+    {
+      "it": "Vado spesso al parco con mia nipote, la figlia di mio figlio.",
+      "ja": "私は息子の娘である孫娘とよく公園へ行きます。"
+    },
+    {
+      "it": "I nonni trascorrono ogni estate con i nipoti.",
+      "ja": "祖父母は毎年夏を孫たちと過ごします。"
+    },
+    {
+      "it": "Ho quattro nipoti: due sono figli di mia figlia e due di mio fratello.",
+      "ja": "私には孫・甥姪が四人います。二人は娘の子で、二人は兄弟の子です。"
+    },
+    {
+      "it": "Dal contesto non è chiaro se sia suo nipote o suo nipote.",
+      "ja": "文脈だけでは、その人が彼の孫なのか甥なのか分かりません。"
+    },
+    {
+      "it": "La proprietà è stata lasciata in eredità ai nipoti.",
+      "ja": "その不動産は孫または甥・姪たちに相続されました。"
+    }
+  ]
+},
+{
+  "id": "zia",
+  "sid": "2026-00409",
+  "word": "zia",
+  "ipa": "/ˈtsia/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "zie",
+    "masculine": "zio",
+    "masculinePlural": "zii",
+    "pattern": "la zia / le zie / una zia / essere zia di + persona / mia zia / zia da parte di + familiare"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "colloquial",
+      "affectionate"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "identity",
+      "genealogy",
+      "affection",
+      "slang"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "父または母の姉妹、おば",
+      "父または母の兄弟の妻、義理のおば",
+      "配偶者の親族関係などを通じておばに当たる人物",
+      "子供にとって親しい成人女性を、血縁にかかわらず親しみを込めて呼ぶ語",
+      "家族ぐるみで親しくしている女性に対する呼称",
+      "口語で、親しい女性に対して冗談や親愛を込めて使う呼び掛け",
+      "大家族・共同体などで、年長の女性に対して使われる親族的な呼称"
+    ],
+    "it": [
+      "Sorella del padre o della madre.",
+      "Moglie del fratello del padre o della madre.",
+      "Persona che acquisisce il rapporto di zia attraverso il matrimonio o altri legami familiari.",
+      "Donna adulta vicina alla famiglia che viene chiamata affettuosamente zia anche senza parentela.",
+      "Amica di famiglia chiamata zia soprattutto dai bambini.",
+      "Nel parlato, appellativo scherzoso o affettuoso rivolto a un’amica o a un’altra donna.",
+      "Appellativo familiare rivolto a una donna anziana all’interno di una comunità o di una famiglia estesa."
+    ]
+  },
+
+  "nuance": {
+    "ja": "ziaは血縁上のおばだけでなく、おじの妻である義理のおばにも使う。父方・母方を区別する場合はzia paterna、zia maternaと言う。親の姉妹とその配偶者を明確に区別する必要がある場合はÈ la sorella di mio padre「父の姉妹です」のように説明する。所有形容詞を伴う単数の親族名では通常定冠詞を省き、mia ziaと言う。複数形ではle mie zieとなる。血縁のない親しい女性を子供がziaと呼ぶこともある。",
+    "it": "Zia indica sia la sorella di un genitore sia la moglie di uno zio. Per distinguere il ramo familiare si dice zia paterna o zia materna. Se occorre precisare il rapporto, si può dire la sorella di mio padre oppure la moglie del fratello di mia madre. Con il possessivo singolare si omette normalmente l’articolo: mia zia. Al plurale si dice le mie zie. Anche una donna molto vicina alla famiglia può essere chiamata affettuosamente zia dai bambini."
+  },
+
+  "etymology": {
+    "ja": "後期ラテン語thiaを経て、古代ギリシア語theía「おば」に由来する。古典ラテン語では父方のおばをamita、母方のおばをmaterteraと区別していたが、後にギリシア語系のthiaが両方を表す一般語として広まった。同じ起源を持つ語にスペイン語tíaとポルトガル語tiaがある。フランス語tanteは幼児語的な形成による別系統の語である。",
+    "it": "Deriva dal latino tardo thia, a sua volta dal greco antico theía, «zia». Il latino classico distingueva l’amita, sorella del padre, dalla matertera, sorella della madre; successivamente thia si diffuse come termine generale. Hanno la stessa origine lo spagnolo tía e il portoghese tia. Il francese tante appartiene invece a una formazione familiare differente."
+  },
+
+  "minimal": [
+    {
+      "word": "zia",
+      "ja": "父母の姉妹、または父母の兄弟の妻に当たるおば",
+      "it": "sorella di un genitore oppure moglie di un fratello del genitore"
+    },
+    {
+      "word": "zio",
+      "ja": "父母の兄弟、または父母の姉妹の夫に当たるおじ",
+      "it": "fratello di un genitore oppure marito di una sorella del genitore"
+    },
+    {
+      "word": "nipote",
+      "ja": "おじ・おばから見た甥・姪、または祖父母から見た孫",
+      "it": "figlio dei propri fratelli oppure figlio dei propri figli"
+    },
+    {
+      "word": "prozia",
+      "ja": "祖父または祖母の姉妹に当たる大おば",
+      "it": "sorella di un nonno o di una nonna"
+    },
+    {
+      "word": "cognata",
+      "ja": "配偶者の姉妹、または兄弟姉妹の妻に当たる義姉妹",
+      "it": "sorella del coniuge oppure moglie di un fratello o di una sorella"
+    }
+  ],
+
+  "synonyms": [
+    "parente",
+    "familiare",
+    "zia acquisita"
+  ],
+
+  "equivalents": {
+    "en": [
+      "aunt",
+      "aunt by marriage"
+    ],
+    "de": [
+      "Tante",
+      "angeheiratete Tante"
+    ],
+    "fr": [
+      "tante",
+      "tante par alliance"
+    ],
+    "es": [
+      "tía",
+      "tía política"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mia zia",
+      "ja": "私のおば"
+    },
+    {
+      "it": "zia paterna",
+      "ja": "父方のおば"
+    },
+    {
+      "it": "zia materna",
+      "ja": "母方のおば"
+    },
+    {
+      "it": "zia acquisita",
+      "ja": "婚姻による義理のおば"
+    },
+    {
+      "it": "zia preferita",
+      "ja": "一番好きなおば"
+    },
+    {
+      "it": "diventare zia",
+      "ja": "おばになる"
+    },
+    {
+      "it": "essere zia di qualcuno",
+      "ja": "誰かのおばである"
+    },
+    {
+      "it": "andare dalla zia",
+      "ja": "おばの家・もとへ行く"
+    },
+    {
+      "it": "vivere con gli zii",
+      "ja": "おじ・おばと暮らす"
+    },
+    {
+      "it": "zia e nipote",
+      "ja": "おばと甥・姪"
+    },
+    {
+      "it": "fare la zia",
+      "ja": "おばとして子供の世話をする・かわいがる"
+    },
+    {
+      "it": "Ciao, zia!",
+      "ja": "やあ・こんにちは、おばさん"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Mia zia è la sorella minore di mio padre.",
+      "ja": "私のおばは父の妹です。"
+    },
+    {
+      "it": "La zia materna di Giulia vive a Napoli.",
+      "ja": "ジュリアの母方のおばはナポリに住んでいます。"
+    },
+    {
+      "it": "La moglie di mio zio è mia zia acquisita.",
+      "ja": "おじの妻は私の義理のおばです。"
+    },
+    {
+      "it": "Sono diventata zia quando è nato il figlio di mio fratello.",
+      "ja": "兄弟の息子が生まれたとき、私はおばになりました。"
+    },
+    {
+      "it": "Da bambina passavo spesso il fine settimana a casa della zia.",
+      "ja": "子供のころ、私はよく週末をおばの家で過ごしていました。"
+    },
+    {
+      "it": "I bambini la chiamano zia, anche se è soltanto un’amica di famiglia.",
+      "ja": "彼女は家族の友人にすぎませんが、子供たちは彼女を「おばさん」と呼んでいます。"
+    },
+    {
+      "it": "Mia zia mi ha insegnato a preparare questa ricetta.",
+      "ja": "この料理の作り方はおばが教えてくれました。"
+    },
+    {
+      "it": "Le mie zie si riuniscono ogni anno per una cena di famiglia.",
+      "ja": "私のおばたちは毎年、家族の夕食会に集まります。"
+    }
+  ]
+},
+{
+  "id": "nonno",
+  "sid": "2026-00410",
+  "word": "nonno",
+  "ipa": "/ˈnɔnno/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "nonni",
+    "feminine": "nonna",
+    "femininePlural": "nonne",
+    "pattern": "il nonno / i nonni / essere nonno di + persona / diventare nonno / mio nonno / nonno paterno o materno"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "affectionate",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "identity",
+      "genealogy",
+      "childhood",
+      "affection"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "父または母の父、祖父",
+      "孫との関係から見た男性",
+      "複数形nonniで、複数の祖父または祖父母",
+      "家族内で祖父の役割を果たす義理・養親関係の男性",
+      "子供が自分の祖父に対して用いる親愛を込めた呼び掛け",
+      "広い意味で、以前の世代に属する男性の祖先",
+      "比喩的に、ある技術・活動・集団などの非常に古い先駆者"
+    ],
+    "it": [
+      "Padre del proprio padre o della propria madre.",
+      "Uomo considerato in rapporto ai propri nipoti.",
+      "Al plurale, più nonni maschi oppure una coppia o un gruppo di nonni e nonne.",
+      "Uomo che svolge il ruolo di nonno attraverso un rapporto acquisito, adottivo o familiare.",
+      "Appellativo affettuoso usato da un bambino rivolgendosi al proprio nonno.",
+      "In senso ampio, antenato maschile appartenente a una generazione precedente.",
+      "In senso figurato, precursore molto antico di una tecnologia, un’attività o un gruppo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "nonnoは父方・母方のどちらの祖父にも使う。区別する場合はnonno paterno「父方の祖父」、nonno materno「母方の祖父」と言う。複数形nonniは男性の祖父たちだけでなく、祖父と祖母をまとめた「祖父母」を表すことがある。所有形容詞を伴う単数の親族名では通常定冠詞を省き、mio nonnoと言う。複数形ではi miei nonniとなる。より改まった系譜上の「祖先」にはavoまたはantenatoを使う。",
+    "it": "Nonno si usa sia per il padre del padre sia per il padre della madre. Per distinguerli si dice nonno paterno e nonno materno. Il plurale nonni può indicare più uomini oppure i nonni di entrambi i sessi. Con il possessivo singolare si omette normalmente l’articolo: mio nonno. Al plurale si dice i miei nonni. Per un antenato remoto o in un contesto genealogico sono più adatti avo e antenato."
+  },
+
+  "etymology": {
+    "ja": "幼児語・親族呼称に由来すると考えられ、後期ラテン語nonnus「年長の男性、養育者、修道士」とnonna「年長の女性、修道女」に関連付けられる。これらは年長者に対する親しみや敬意を込めた呼び方だった。同じ語族にはnonna、bisnonno、trisnonnoがある。英語nun「修道女」も後期ラテン語nonnaに由来する。",
+    "it": "È generalmente considerato di origine familiare o infantile ed è collegato al latino tardo nonnus, titolo affettuoso o rispettoso rivolto a un uomo anziano, a un educatore o a un religioso. La forma femminile nonna era usata anche per donne anziane e religiose. Alla stessa famiglia appartengono nonna, bisnonno e trisnonno. Anche l’inglese nun risale al latino tardo nonna."
+  },
+
+  "minimal": [
+    {
+      "word": "nonno",
+      "ja": "父または母の父に当たる祖父",
+      "it": "padre del proprio padre o della propria madre"
+    },
+    {
+      "word": "nonna",
+      "ja": "父または母の母に当たる祖母",
+      "it": "madre del proprio padre o della propria madre"
+    },
+    {
+      "word": "bisnonno",
+      "ja": "祖父または祖母の父に当たる曽祖父",
+      "it": "padre di un nonno o di una nonna"
+    },
+    {
+      "word": "nipote",
+      "ja": "祖父母から見た孫、またはおじ・おばから見た甥・姪",
+      "it": "figlio dei propri figli oppure dei propri fratelli e sorelle"
+    },
+    {
+      "word": "antenato",
+      "ja": "何世代も前の家系に属する祖先",
+      "it": "persona appartenente a una generazione precedente della propria famiglia"
+    }
+  ],
+
+  "synonyms": [
+    "avo",
+    "antenato",
+    "progenitore",
+    "capostipite"
+  ],
+
+  "equivalents": {
+    "en": [
+      "grandfather",
+      "grandpa",
+      "grandparent"
+    ],
+    "de": [
+      "Großvater",
+      "Opa",
+      "Großelternteil"
+    ],
+    "fr": [
+      "grand-père",
+      "papi",
+      "aïeul"
+    ],
+    "es": [
+      "abuelo",
+      "abuelito",
+      "antepasado"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mio nonno",
+      "ja": "私の祖父"
+    },
+    {
+      "it": "nonno paterno",
+      "ja": "父方の祖父"
+    },
+    {
+      "it": "nonno materno",
+      "ja": "母方の祖父"
+    },
+    {
+      "it": "diventare nonno",
+      "ja": "祖父になる"
+    },
+    {
+      "it": "essere nonno di qualcuno",
+      "ja": "誰かの祖父である"
+    },
+    {
+      "it": "andare dal nonno",
+      "ja": "祖父の家・もとへ行く"
+    },
+    {
+      "it": "vivere con i nonni",
+      "ja": "祖父母と暮らす"
+    },
+    {
+      "it": "casa dei nonni",
+      "ja": "祖父母の家"
+    },
+    {
+      "it": "nonno e nipote",
+      "ja": "祖父と孫"
+    },
+    {
+      "it": "raccontare una storia ai nipoti",
+      "ja": "孫たちに物語を聞かせる"
+    },
+    {
+      "it": "seguire le orme del nonno",
+      "ja": "祖父の後を継ぐ"
+    },
+    {
+      "it": "Ciao, nonno!",
+      "ja": "おじいちゃん、こんにちは"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Mio nonno paterno vive ancora nel paese in cui è nato.",
+      "ja": "父方の祖父は今も生まれた村に住んでいます。"
+    },
+    {
+      "it": "Da bambino andavo spesso a pescare con mio nonno.",
+      "ja": "子供のころ、私はよく祖父と釣りに行きました。"
+    },
+    {
+      "it": "È diventato nonno per la prima volta a sessant’anni.",
+      "ja": "彼は60歳で初めて祖父になりました。"
+    },
+    {
+      "it": "I nonni si occupano dei bambini mentre i genitori lavorano.",
+      "ja": "両親が働いている間、祖父母が子供たちの世話をしています。"
+    },
+    {
+      "it": "Mio nonno mi raccontava spesso storie della sua giovinezza.",
+      "ja": "祖父はよく若いころの話を聞かせてくれました。"
+    },
+    {
+      "it": "Ha imparato il mestiere seguendo le orme del nonno.",
+      "ja": "彼は祖父の後を継いでその職業を身につけました。"
+    },
+    {
+      "it": "Il bambino corse incontro al nonno e lo abbracciò.",
+      "ja": "その子供は祖父のところへ走っていき、抱きつきました。"
+    },
+    {
+      "it": "Questo vecchio apparecchio può essere considerato il nonno dei moderni computer portatili.",
+      "ja": "この古い装置は、現代のノートパソコンの祖先とみなすことができます。"
+    }
+  ]
+},
+{
+  "id": "nonna",
+  "sid": "2026-00411",
+  "word": "nonna",
+  "ipa": "/ˈnɔnna/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "nonne",
+    "masculine": "nonno",
+    "masculinePlural": "nonni",
+    "pattern": "la nonna / le nonne / essere nonna di + persona / diventare nonna / mia nonna / nonna paterna o materna"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "affectionate",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "identity",
+      "genealogy",
+      "childhood",
+      "cooking"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "父または母の母、祖母",
+      "孫との関係から見た女性",
+      "複数形nonneで、複数の祖母",
+      "家族内で祖母の役割を果たす義理・養親関係の女性",
+      "子供が自分の祖母に対して用いる親愛を込めた呼び掛け",
+      "伝統的な家庭料理・生活の知恵を受け継ぐ年長女性の象徴",
+      "広い意味で、以前の世代に属する女性の祖先",
+      "比喩的に、古い技術・製品・慣習などの女性的に表現された先駆的存在"
+    ],
+    "it": [
+      "Madre del proprio padre o della propria madre.",
+      "Donna considerata in rapporto ai propri nipoti.",
+      "Al plurale, più donne che hanno nipoti.",
+      "Donna che svolge il ruolo di nonna attraverso un rapporto acquisito, adottivo o familiare.",
+      "Appellativo affettuoso usato da un bambino rivolgendosi alla propria nonna.",
+      "Figura simbolica associata alla cucina tradizionale e alla trasmissione di conoscenze familiari.",
+      "In senso ampio, antenata appartenente a una generazione precedente.",
+      "In senso figurato, precursore molto antico di una tecnica, di un prodotto o di una consuetudine."
+    ]
+  },
+
+  "nuance": {
+    "ja": "nonnaは父方・母方のどちらの祖母にも使う。区別する場合はnonna paterna「父方の祖母」、nonna materna「母方の祖母」と言う。所有形容詞を伴う単数の親族名では通常定冠詞を省き、mia nonnaと言う。複数形ではle mie nonneとなる。祖父母を男女まとめて表す場合は男性複数形i nonniを用いる。ricetta della nonnaやrimedi della nonnaでは、家庭で代々伝えられてきた伝統や知恵という温かい語感を持つ。",
+    "it": "Nonna si usa sia per la madre del padre sia per la madre della madre. Per distinguerle si dice nonna paterna e nonna materna. Con il possessivo singolare si omette normalmente l’articolo: mia nonna. Al plurale si dice le mie nonne. Per indicare insieme nonni e nonne si usa il plurale maschile i nonni. Espressioni come ricetta della nonna e rimedio della nonna evocano una tradizione familiare trasmessa attraverso le generazioni."
+  },
+
+  "etymology": {
+    "ja": "幼児語・親族呼称に由来すると考えられ、後期ラテン語nonna「年長の女性、養育者、修道女」と関連付けられる。この語は年長女性に対する親しみや敬意を込めた呼び方だった。同じ語族にはnonno、bisnonna、trisnonnaがある。英語nun「修道女」も、後期ラテン語nonnaがゲルマン語・フランス語を経て伝わった語である。",
+    "it": "È generalmente considerata di origine familiare o infantile ed è collegata al latino tardo nonna, titolo affettuoso o rispettoso rivolto a una donna anziana, a un’educatrice o a una religiosa. Alla stessa famiglia appartengono nonno, bisnonna e trisnonna. Anche l’inglese nun, «suora», risale al latino tardo nonna attraverso altre lingue europee."
+  },
+
+  "minimal": [
+    {
+      "word": "nonna",
+      "ja": "父または母の母に当たる祖母",
+      "it": "madre del proprio padre o della propria madre"
+    },
+    {
+      "word": "nonno",
+      "ja": "父または母の父に当たる祖父",
+      "it": "padre del proprio padre o della propria madre"
+    },
+    {
+      "word": "bisnonna",
+      "ja": "祖父または祖母の母に当たる曽祖母",
+      "it": "madre di un nonno o di una nonna"
+    },
+    {
+      "word": "nipote",
+      "ja": "祖父母から見た孫、またはおじ・おばから見た甥・姪",
+      "it": "figlio dei propri figli oppure dei propri fratelli e sorelle"
+    },
+    {
+      "word": "antenata",
+      "ja": "何世代も前の家系に属する女性の祖先",
+      "it": "donna appartenente a una generazione precedente della propria famiglia"
+    }
+  ],
+
+  "synonyms": [
+    "ava",
+    "antenata",
+    "progenitrice",
+    "matriarca"
+  ],
+
+  "equivalents": {
+    "en": [
+      "grandmother",
+      "grandma",
+      "grandparent"
+    ],
+    "de": [
+      "Großmutter",
+      "Oma",
+      "Großelternteil"
+    ],
+    "fr": [
+      "grand-mère",
+      "mamie",
+      "aïeule"
+    ],
+    "es": [
+      "abuela",
+      "abuelita",
+      "antepasada"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mia nonna",
+      "ja": "私の祖母"
+    },
+    {
+      "it": "nonna paterna",
+      "ja": "父方の祖母"
+    },
+    {
+      "it": "nonna materna",
+      "ja": "母方の祖母"
+    },
+    {
+      "it": "diventare nonna",
+      "ja": "祖母になる"
+    },
+    {
+      "it": "essere nonna di qualcuno",
+      "ja": "誰かの祖母である"
+    },
+    {
+      "it": "andare dalla nonna",
+      "ja": "祖母の家・もとへ行く"
+    },
+    {
+      "it": "casa della nonna",
+      "ja": "祖母の家"
+    },
+    {
+      "it": "nonna e nipote",
+      "ja": "祖母と孫"
+    },
+    {
+      "it": "ricetta della nonna",
+      "ja": "祖母から伝わる家庭料理のレシピ"
+    },
+    {
+      "it": "rimedio della nonna",
+      "ja": "昔ながらの家庭療法"
+    },
+    {
+      "it": "seguire i consigli della nonna",
+      "ja": "祖母の助言に従う"
+    },
+    {
+      "it": "Ciao, nonna!",
+      "ja": "おばあちゃん、こんにちは"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Mia nonna materna vive vicino a casa nostra.",
+      "ja": "母方の祖母は私たちの家の近くに住んでいます。"
+    },
+    {
+      "it": "Da bambina cucinavo spesso insieme a mia nonna.",
+      "ja": "子供のころ、私はよく祖母と一緒に料理をしました。"
+    },
+    {
+      "it": "È diventata nonna per la prima volta l’anno scorso.",
+      "ja": "彼女は昨年、初めて祖母になりました。"
+    },
+    {
+      "it": "La nonna accompagna ogni mattina la nipote a scuola.",
+      "ja": "祖母は毎朝、孫娘を学校まで送ります。"
+    },
+    {
+      "it": "Questa è una vecchia ricetta della nonna.",
+      "ja": "これは祖母から伝わった昔ながらのレシピです。"
+    },
+    {
+      "it": "Mia nonna mi raccontava storie della sua infanzia.",
+      "ja": "祖母は自分の子供時代の話を聞かせてくれました。"
+    },
+    {
+      "it": "Le mie nonne provenivano da due regioni diverse.",
+      "ja": "私の二人の祖母は異なる地方の出身でした。"
+    },
+    {
+      "it": "Il bambino corse verso la nonna e le prese la mano.",
+      "ja": "その子供は祖母のところへ走っていき、その手を取りました。"
+    }
+  ]
+},
+{
+  "id": "padre",
+  "sid": "2026-00412",
+  "word": "padre",
+  "ipa": "/ˈpadre/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "padri",
+    "pattern": "il padre / i padri / essere padre di + persona / diventare padre / mio padre / padre + specificazione / Padre + nome religioso"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "religious",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "identity",
+      "law",
+      "religion",
+      "history",
+      "science"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "子との関係から見た男性の親、父",
+      "子をもうけた生物学上の父親",
+      "養子縁組・婚姻・養育などを通じて父親の役割を担う男性",
+      "家族を養い、子供を育てる男性の保護者",
+      "カトリックなどで、司祭・修道士に対して用いる称号",
+      "キリスト教で、三位一体の第一位格である父なる神",
+      "ある学問・制度・国家・作品などを創始した人物",
+      "複数形padriで、祖先・先人・建国者など",
+      "比喩的に、思想・出来事・成果などを生み出した人物"
+    ],
+    "it": [
+      "Genitore di sesso maschile considerato in rapporto ai propri figli.",
+      "Uomo dal quale una persona discende biologicamente.",
+      "Uomo che assume il ruolo paterno attraverso adozione, matrimonio, affidamento o cura.",
+      "Figura maschile responsabile della crescita e della protezione dei figli.",
+      "Titolo rivolto a un sacerdote o a un religioso in alcune confessioni cristiane.",
+      "Nel cristianesimo, prima persona della Trinità.",
+      "Persona considerata fondatrice di una scienza, un’istituzione, uno Stato o un’opera.",
+      "Al plurale, antenati, predecessori o fondatori di una comunità.",
+      "In senso figurato, autore o origine personale di un’idea, di un evento o di un risultato."
+    ]
+  },
+
+  "nuance": {
+    "ja": "padreは中立的・公的な「父」で、papàは家族内で使う親しみの強い「お父さん」である。genitoreは性別を特定しない「親」で、行政・法律・学校などでもよく使われる。所有形容詞を伴う単数の親族名では通常定冠詞を付けず、mio padreと言う。複数のi padriは父親たちのほか、文脈によって「祖先・先人」を意味する。宗教的称号ではPadre Francescoのように大文字で書かれることがある。",
+    "it": "Padre è il termine neutro e anche formale per il genitore maschile; papà è più affettuoso e familiare. Genitore non specifica il sesso ed è comune nel linguaggio amministrativo, scolastico e giuridico. Con il possessivo singolare si omette normalmente l’articolo: mio padre. Il plurale i padri può indicare più genitori maschili oppure, in contesti storici, gli antenati e i fondatori. Come titolo religioso può essere scritto con l’iniziale maiuscola davanti al nome."
+  },
+
+  "etymology": {
+    "ja": "ラテン語pater、属格patris「父」に由来し、インド・ヨーロッパ祖語の非常に古い親族名称にさかのぼる。英語father、ドイツ語Vater、古代ギリシア語patḗr、サンスクリット語pitṛ́とは遠い同系語である。同じラテン語族にはpaterno、paternità、patria、patrimonio、patriarcaがある。もともとの父親という意味から、保護者・創始者・権威者という比喩的用法が発達した。",
+    "it": "Deriva dal latino pater, genitivo patris, «padre», risalente a un’antichissima parola indoeuropea di parentela. Sono lontanamente affini l’inglese father, il tedesco Vater, il greco antico patḗr e il sanscrito pitṛ́. Alla famiglia latina appartengono paterno, paternità, patria, patrimonio e patriarca. Dal significato familiare si sono sviluppati quelli figurati di protettore, fondatore e autorità."
+  },
+
+  "minimal": [
+    {
+      "word": "padre",
+      "ja": "子との関係から見た男性の親、父",
+      "it": "genitore di sesso maschile considerato in rapporto ai propri figli"
+    },
+    {
+      "word": "papà",
+      "ja": "家庭内で親しみを込めて呼ぶ「お父さん」",
+      "it": "modo familiare e affettuoso di chiamare il padre"
+    },
+    {
+      "word": "genitore",
+      "ja": "性別を特定せず、父または母を表す「親」",
+      "it": "padre o madre considerati senza specificarne il sesso"
+    },
+    {
+      "word": "patrigno",
+      "ja": "親の再婚相手として父親の立場にある継父",
+      "it": "marito della madre che non è il padre biologico di una persona"
+    },
+    {
+      "word": "antenato",
+      "ja": "何世代も前の家系に属する祖先",
+      "it": "persona appartenente a una generazione precedente della propria famiglia"
+    }
+  ],
+
+  "synonyms": [
+    "papà",
+    "genitore",
+    "babbo",
+    "progenitore",
+    "fondatore",
+    "creatore"
+  ],
+
+  "equivalents": {
+    "en": [
+      "father",
+      "dad",
+      "parent",
+      "founder"
+    ],
+    "de": [
+      "Vater",
+      "Papa",
+      "Elternteil",
+      "Gründer"
+    ],
+    "fr": [
+      "père",
+      "papa",
+      "parent",
+      "fondateur"
+    ],
+    "es": [
+      "padre",
+      "papá",
+      "progenitor",
+      "fundador"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mio padre",
+      "ja": "私の父"
+    },
+    {
+      "it": "diventare padre",
+      "ja": "父親になる"
+    },
+    {
+      "it": "essere padre di qualcuno",
+      "ja": "誰かの父親である"
+    },
+    {
+      "it": "padre biologico",
+      "ja": "生物学上の父"
+    },
+    {
+      "it": "padre adottivo",
+      "ja": "養父"
+    },
+    {
+      "it": "padre di famiglia",
+      "ja": "一家の父親"
+    },
+    {
+      "it": "padre e figlio",
+      "ja": "父と息子"
+    },
+    {
+      "it": "padre e figlia",
+      "ja": "父と娘"
+    },
+    {
+      "it": "seguire le orme del padre",
+      "ja": "父の後を継ぐ"
+    },
+    {
+      "it": "padre fondatore",
+      "ja": "創設者・建国の父"
+    },
+    {
+      "it": "Padre nostro",
+      "ja": "主の祈り・天にまします我らの父"
+    },
+    {
+      "it": "Padri della Chiesa",
+      "ja": "教父"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Mio padre lavora in un piccolo ufficio vicino alla stazione.",
+      "ja": "私の父は駅の近くにある小さな事務所で働いています。"
+    },
+    {
+      "it": "È diventato padre per la prima volta a trentacinque anni.",
+      "ja": "彼は35歳で初めて父親になりました。"
+    },
+    {
+      "it": "Il padre accompagnò sua figlia a scuola.",
+      "ja": "父親は娘を学校まで送りました。"
+    },
+    {
+      "it": "Il bambino vive con la madre e il padre adottivo.",
+      "ja": "その子供は母親と養父と暮らしています。"
+    },
+    {
+      "it": "Ha deciso di seguire le orme del padre e diventare medico.",
+      "ja": "彼女は父の後を継いで医師になることを決めました。"
+    },
+    {
+      "it": "Padre Antonio celebrerà la messa di domenica.",
+      "ja": "アントニオ神父が日曜日のミサを執り行います。"
+    },
+    {
+      "it": "Galileo è considerato uno dei padri della scienza moderna.",
+      "ja": "ガリレオは近代科学の父の一人とみなされています。"
+    },
+    {
+      "it": "I padri fondatori elaborarono i principi fondamentali del nuovo Stato.",
+      "ja": "建国の父たちは新しい国家の基本原則を作り上げました。"
+    },
+    {
+      "it": "La necessità è spesso madre dell’invenzione, ma l’esperienza può esserne il padre.",
+      "ja": "必要はしばしば発明の母ですが、経験がその父となることもあります。"
+    }
+  ]
+},
+{
+  "id": "madre",
+  "sid": "2026-00413",
+  "word": "madre",
+  "ipa": "/ˈmadre/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞／名詞を修飾する不変化要素としての用法あり",
+      "it": "sostantivo femminile, con usi invariabili in funzione attributiva"
+    },
+    "gender": "feminine",
+    "plural": "madri",
+    "pattern": "la madre / le madri / essere madre di + persona / diventare madre / mia madre / madre + specificazione / nome + madre"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "religious",
+      "figurative",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "identity",
+      "law",
+      "religion",
+      "organizations",
+      "technology"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "子との関係から見た女性の親、母",
+      "子を産んだ生物学上の母親",
+      "養子縁組・婚姻・養育などを通じて母親の役割を担う女性",
+      "子供を育て、保護する女性の保護者",
+      "動物について、子を産んだ雌",
+      "修道院などで、女性の宗教者・修道院長に用いる称号",
+      "物事・思想・制度などを生み出す起源・源泉",
+      "組織・企業・施設などの中心となる本部・母体",
+      "複合表現で、基礎・起源・主要部分となるもの"
+    ],
+    "it": [
+      "Genitore di sesso femminile considerato in rapporto ai propri figli.",
+      "Donna dalla quale una persona discende biologicamente.",
+      "Donna che assume il ruolo materno attraverso adozione, matrimonio, affidamento o cura.",
+      "Figura femminile responsabile della crescita e della protezione dei figli.",
+      "Femmina di un animale che ha generato dei piccoli.",
+      "Titolo attribuito a una religiosa o alla superiora di una comunità monastica.",
+      "In senso figurato, origine o causa dalla quale nasce qualcosa.",
+      "Organizzazione, impresa o sede dalla quale dipendono altre strutture.",
+      "Elemento di espressioni che indicano la base, l’origine o la componente principale di qualcosa."
+    ]
+  },
+
+  "nuance": {
+    "ja": "madreは中立的・公的な「母」で、mammaは家庭内で使う親しみの強い「お母さん」である。genitoreは性別を特定しない「親」で、行政・法律・学校などでも使われる。所有形容詞を伴う単数の親族名では通常定冠詞を付けず、mia madreと言う。比喩的にはLa necessità è madre dell’invenzione「必要は発明の母」のように、何かを生み出す原因を表す。lingua madre、casa madre、scheda madreではmadreが後ろから前の名詞を限定する。",
+    "it": "Madre è il termine neutro e anche formale per il genitore femminile; mamma è più affettuoso e familiare. Genitore non specifica il sesso ed è comune nel linguaggio amministrativo, scolastico e giuridico. Con il possessivo singolare si omette normalmente l’articolo: mia madre. In senso figurato, madre indica ciò che genera o dà origine a qualcosa. In lingua madre, casa madre e scheda madre, la parola segue il nome e ne indica l’origine o la funzione principale."
+  },
+
+  "etymology": {
+    "ja": "ラテン語māter、属格mātris「母」に由来し、インド・ヨーロッパ祖語の非常に古い親族名称にさかのぼる。英語mother、ドイツ語Mutter、古代ギリシア語mḗtēr、サンスクリット語mātṛ́とは遠い同系語である。同じラテン語族にはmaterno、maternità、matrimonio、matriceがある。母親という意味から、起源・母体・生み出すものという比喩的用法が発達した。",
+    "it": "Deriva dal latino māter, genitivo mātris, «madre», risalente a un’antichissima parola indoeuropea di parentela. Sono lontanamente affini l’inglese mother, il tedesco Mutter, il greco antico mḗtēr e il sanscrito mātṛ́. Alla famiglia latina appartengono materno, maternità, matrimonio e matrice. Dal significato familiare si sono sviluppati quelli figurati di origine, causa e struttura principale."
+  },
+
+  "minimal": [
+    {
+      "word": "madre",
+      "ja": "子との関係から見た女性の親、母",
+      "it": "genitore di sesso femminile considerato in rapporto ai propri figli"
+    },
+    {
+      "word": "mamma",
+      "ja": "家庭内で親しみを込めて呼ぶ「お母さん」",
+      "it": "modo familiare e affettuoso di chiamare la madre"
+    },
+    {
+      "word": "genitore",
+      "ja": "性別を特定せず、父または母を表す「親」",
+      "it": "padre o madre considerati senza specificarne il sesso"
+    },
+    {
+      "word": "matrigna",
+      "ja": "親の再婚相手として母親の立場にある継母",
+      "it": "moglie del padre che non è la madre biologica di una persona"
+    },
+    {
+      "word": "antenata",
+      "ja": "何世代も前の家系に属する女性の祖先",
+      "it": "donna appartenente a una generazione precedente della propria famiglia"
+    }
+  ],
+
+  "synonyms": [
+    "mamma",
+    "genitrice",
+    "genitore",
+    "progenitrice",
+    "origine",
+    "matrice"
+  ],
+
+  "equivalents": {
+    "en": [
+      "mother",
+      "mom",
+      "parent",
+      "source"
+    ],
+    "de": [
+      "Mutter",
+      "Mama",
+      "Elternteil",
+      "Ursprung"
+    ],
+    "fr": [
+      "mère",
+      "maman",
+      "parent",
+      "origine"
+    ],
+    "es": [
+      "madre",
+      "mamá",
+      "progenitora",
+      "origen"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mia madre",
+      "ja": "私の母"
+    },
+    {
+      "it": "diventare madre",
+      "ja": "母親になる"
+    },
+    {
+      "it": "essere madre di qualcuno",
+      "ja": "誰かの母親である"
+    },
+    {
+      "it": "madre biologica",
+      "ja": "生物学上の母"
+    },
+    {
+      "it": "madre adottiva",
+      "ja": "養母"
+    },
+    {
+      "it": "madre e figlio",
+      "ja": "母と息子"
+    },
+    {
+      "it": "madre e figlia",
+      "ja": "母と娘"
+    },
+    {
+      "it": "lingua madre",
+      "ja": "母語"
+    },
+    {
+      "it": "madrepatria",
+      "ja": "祖国・母国"
+    },
+    {
+      "it": "casa madre",
+      "ja": "本社・母体となる組織"
+    },
+    {
+      "it": "scheda madre",
+      "ja": "マザーボード"
+    },
+    {
+      "it": "Madre di Dio",
+      "ja": "神の母・聖母"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Mia madre lavora in una scuola vicino a casa.",
+      "ja": "私の母は自宅近くの学校で働いています。"
+    },
+    {
+      "it": "È diventata madre per la prima volta a trent’anni.",
+      "ja": "彼女は30歳で初めて母親になりました。"
+    },
+    {
+      "it": "La madre accompagnò suo figlio dal medico.",
+      "ja": "母親は息子を医師のところへ連れていきました。"
+    },
+    {
+      "it": "La bambina vive con il padre e la madre adottiva.",
+      "ja": "その女の子は父親と養母と暮らしています。"
+    },
+    {
+      "it": "L’italiano è la sua lingua madre.",
+      "ja": "イタリア語は彼女の母語です。"
+    },
+    {
+      "it": "La casa madre coordina tutte le filiali europee.",
+      "ja": "本社はヨーロッパにあるすべての支社を統括しています。"
+    },
+    {
+      "it": "La scheda madre collega i principali componenti del computer.",
+      "ja": "マザーボードはコンピューターの主要部品を接続します。"
+    },
+    {
+      "it": "La necessità è spesso considerata la madre dell’invenzione.",
+      "ja": "必要はしばしば発明の母と考えられています。"
+    },
+    {
+      "it": "La gatta proteggeva attentamente i suoi piccoli come ogni madre.",
+      "ja": "その母猫は、あらゆる母親と同じように子猫たちを注意深く守っていました。"
+    }
+  ]
+},
+{
+  "id": "mamma",
+  "sid": "2026-00414",
+  "word": "mamma",
+  "ipa": "/ˈmamma/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞・親愛を表す親族呼称",
+      "it": "sostantivo femminile e appellativo familiare affettivo"
+    },
+    "gender": "feminine",
+    "plural": "mamme",
+    "pattern": "la mamma / le mamme / mia mamma / essere o diventare mamma / chiamare la mamma / Mamma! / Mamma mia!"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "affectionate",
+      "colloquial"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "childhood",
+      "parenting",
+      "emotions",
+      "exclamations"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "家庭内で親しみを込めて呼ぶ母親、お母さん",
+      "子供が自分の母親に呼び掛ける際の呼称",
+      "子供を産み、育てる女性を親しみのある調子で表す語",
+      "養子縁組・養育などを通じて母親の役割を担う女性",
+      "動物について、子を産み育てる雌を親しみを込めて表す語",
+      "世話好きで保護的な女性を比喩的に表す語",
+      "Mamma mia!の形で、驚き・困惑・感嘆・喜びなどを表す感嘆表現"
+    ],
+    "it": [
+      "Modo familiare e affettuoso di indicare la propria madre.",
+      "Appellativo con cui un figlio si rivolge direttamente alla madre.",
+      "Donna che ha figli ed è considerata con un tono quotidiano e affettuoso.",
+      "Donna che assume un ruolo materno attraverso adozione, affidamento o cura.",
+      "Femmina di un animale che genera e accudisce i propri piccoli, in un uso affettuoso.",
+      "In senso figurato, donna particolarmente protettiva e premurosa.",
+      "Nell’esclamazione Mamma mia!, espressione di sorpresa, preoccupazione, ammirazione o esasperazione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "mammaはmadreより親しみが強く、日本語の「お母さん・ママ」に近い。子供だけでなく成人も日常会話でmia mammaと言えるが、法律・行政・医学などの改まった文脈ではmadreが一般的である。直接呼び掛ける場合はMamma, ascoltami「お母さん、聞いて」のように冠詞を付けない。所有形容詞を伴う場合も通常mia mammaだが、幼児的・愛情を強調する表現としてla mia mammaも使われる。Mamma mia!は母親を実際に呼ぶとは限らず、非常に一般的な感嘆表現である。",
+    "it": "Mamma è più familiare e affettuoso di madre. Non è limitato al linguaggio infantile: anche un adulto può dire mia mamma nella conversazione quotidiana, mentre nei contesti giuridici, amministrativi e medici è più comune madre. Nel richiamo diretto si usa senza articolo: Mamma, ascoltami. Con il possessivo è normale mia mamma; la mia mamma può avere un tono infantile o particolarmente affettuoso. Mamma mia! è spesso una semplice esclamazione e non un vero richiamo alla propria madre."
+  },
+
+  "etymology": {
+    "ja": "ラテン語mamma「乳房、母」に由来し、幼児が発しやすいmaという音の反復から生じた非常に古い親族呼称と考えられる。同様のmama・mamma型の語は、共通の語源を持たない言語にも独立して広く見られる。赤ん坊が授乳時に発する音と母親との結び付きから、「乳房」および「母」を表すようになった。同じ語族にはmammella、mammiferoがある。",
+    "it": "Deriva dal latino mamma, «mammella, madre», ed è collegata alla ripetizione della sillaba ma, facilmente pronunciabile dai bambini. Forme simili a mama e mamma sono nate anche indipendentemente in molte lingue. L’associazione tra il suono infantile, l’allattamento e la figura materna ha prodotto i significati di mammella e madre. Alla stessa famiglia appartengono mammella e mammifero."
+  },
+
+  "minimal": [
+    {
+      "word": "mamma",
+      "ja": "家庭内で親しみを込めて呼ぶ「お母さん・ママ」",
+      "it": "modo familiare e affettuoso di indicare o chiamare la madre"
+    },
+    {
+      "word": "madre",
+      "ja": "中立的・公的な文脈でも使える「母・母親」",
+      "it": "termine neutro e formale per il genitore femminile"
+    },
+    {
+      "word": "genitore",
+      "ja": "性別を特定せず、父または母を表す「親」",
+      "it": "padre o madre considerati senza specificarne il sesso"
+    },
+    {
+      "word": "papà",
+      "ja": "家庭内で親しみを込めて呼ぶ「お父さん・パパ」",
+      "it": "modo familiare e affettuoso di indicare o chiamare il padre"
+    },
+    {
+      "word": "mammina",
+      "ja": "強い親愛を込めた「ママ・お母ちゃん」",
+      "it": "diminutivo affettuoso di mamma"
+    }
+  ],
+
+  "synonyms": [
+    "madre",
+    "mammina",
+    "genitrice",
+    "genitore"
+  ],
+
+  "equivalents": {
+    "en": [
+      "mom",
+      "mum",
+      "mommy",
+      "mother"
+    ],
+    "de": [
+      "Mama",
+      "Mutti",
+      "Mutter"
+    ],
+    "fr": [
+      "maman",
+      "mère"
+    ],
+    "es": [
+      "mamá",
+      "mami",
+      "madre"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mia mamma",
+      "ja": "私のお母さん"
+    },
+    {
+      "it": "diventare mamma",
+      "ja": "母親になる"
+    },
+    {
+      "it": "essere mamma",
+      "ja": "母親である"
+    },
+    {
+      "it": "chiamare la mamma",
+      "ja": "お母さんを呼ぶ・電話する"
+    },
+    {
+      "it": "mamma e figlio",
+      "ja": "母親と息子"
+    },
+    {
+      "it": "mamma e figlia",
+      "ja": "母親と娘"
+    },
+    {
+      "it": "mamma adottiva",
+      "ja": "養母・養子を育てるお母さん"
+    },
+    {
+      "it": "mamma single",
+      "ja": "ひとり親の母親"
+    },
+    {
+      "it": "mamma lavoratrice",
+      "ja": "働く母親"
+    },
+    {
+      "it": "mamma a tempo pieno",
+      "ja": "専業で育児をする母親"
+    },
+    {
+      "it": "mamma chioccia",
+      "ja": "非常に世話好きで過保護な母親"
+    },
+    {
+      "it": "Mamma mia!",
+      "ja": "まあ！・なんてことだ！"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Mia mamma prepara spesso la pasta fatta in casa.",
+      "ja": "私の母はよく手作りのパスタを作ります。"
+    },
+    {
+      "it": "Mamma, posso uscire con i miei amici?",
+      "ja": "お母さん、友達と出かけてもいい？"
+    },
+    {
+      "it": "È diventata mamma per la prima volta lo scorso mese.",
+      "ja": "彼女は先月、初めて母親になりました。"
+    },
+    {
+      "it": "Anche da adulto telefono a mia mamma quasi ogni giorno.",
+      "ja": "大人になってからも、私はほぼ毎日母に電話します。"
+    },
+    {
+      "it": "La sua mamma adottiva l’ha cresciuta con grande affetto.",
+      "ja": "養母は彼女を深い愛情をもって育てました。"
+    },
+    {
+      "it": "La gatta mamma proteggeva attentamente i suoi piccoli.",
+      "ja": "母猫は子猫たちを注意深く守っていました。"
+    },
+    {
+      "it": "Sei sempre stata la mamma del gruppo, pronta ad aiutare tutti.",
+      "ja": "あなたはいつも皆を助ける、グループのお母さん役でした。"
+    },
+    {
+      "it": "Mamma mia, quanto è diventato grande tuo figlio!",
+      "ja": "まあ、あなたの息子さんはずいぶん大きくなりましたね。"
+    }
+  ]
+},
+{
+  "id": "papa",
+  "sid": "2026-00415",
+  "word": "papa",
+  "ipa": "/ˈpapa/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞・宗教上の称号",
+      "it": "sostantivo maschile e titolo religioso"
+    },
+    "gender": "masculine",
+    "plural": "papi",
+    "pattern": "il papa / i papi / eleggere qualcuno papa / essere eletto papa / papa + nome / il pontificato del papa"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "religious",
+      "historical",
+      "journalistic"
+    ],
+    "medium": [
+      "spoken",
+      "written",
+      "broadcast"
+    ],
+    "situations": [
+      "religion",
+      "history",
+      "news",
+      "institutions",
+      "culture",
+      "idioms"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "カトリック教会の最高指導者であるローマ教皇",
+      "ローマ司教としてカトリック教会を統率する人物",
+      "バチカン市国の元首",
+      "歴史上、ローマ教皇の地位に就いた人物",
+      "papaの後に個人名・教皇名を置いて用いる宗教上の称号",
+      "比喩的に、ある分野で最高の権威とみなされる人物",
+      "慣用表現で、絶対的権威や極めてまれな出来事を表す要素"
+    ],
+    "it": [
+      "Massima autorità della Chiesa cattolica.",
+      "Vescovo di Roma che guida la Chiesa cattolica.",
+      "Capo dello Stato della Città del Vaticano.",
+      "Persona che, in un determinato periodo storico, ha ricoperto l’ufficio pontificio.",
+      "Titolo religioso seguito dal nome assunto durante il pontificato.",
+      "In senso figurato, persona considerata la massima autorità in un determinato settore.",
+      "Elemento di espressioni idiomatiche relative all’autorità assoluta o a eventi molto rari."
+    ]
+  },
+
+  "nuance": {
+    "ja": "papaは第一音節にアクセントを置く/ˈpapa/で「教皇」を意味する。語末にアクセント記号を付けたpapà /paˈpa/は「お父さん」であり、発音も意味も異なる。一般名詞としてはil papa、称号と名前ではpapa Giovanni XXIIIのように書く。文脈によって敬意や制度性を示すためPapaと大文字にすることもあるが、通常のイタリア語正書法では小文字も広く用いられる。sommo ponteficeやpontefice romanoは、より改まった表現である。",
+    "it": "Papa, con accento sulla prima sillaba, significa il pontefice romano. Papà, con accento grafico e tonico sull’ultima sillaba, significa invece «padre» in tono familiare. Come nome comune si dice il papa; davanti al nome pontificio è comune papa Giovanni XXIII. La maiuscola Papa può essere usata per rispetto o in contesti istituzionali, ma la minuscola è normale secondo l’uso comune. Sommo pontefice e pontefice romano sono denominazioni più solenni e formali."
+  },
+
+  "etymology": {
+    "ja": "後期ラテン語papaを経て、古代ギリシア語pápas「父、聖職者」に由来する。もともとは父親への親愛ある呼称であり、初期キリスト教では司教や高位聖職者への敬称として広く使われた。西方教会では次第にローマ司教の称号として定着した。同じ起源を持つ語に英語pope、ドイツ語Papst、フランス語pape、スペイン語papaがある。父親を表すイタリア語papàも、幼児語的な「父」という同じ概念に関連する。",
+    "it": "Deriva dal latino tardo papa, a sua volta dal greco pápas, «padre, sacerdote». In origine era un appellativo affettuoso e rispettoso rivolto a vescovi e religiosi. Nella Chiesa occidentale il titolo venne progressivamente riservato al vescovo di Roma. Hanno la stessa origine l’inglese pope, il tedesco Papst, il francese pape e lo spagnolo papa. Anche papà è collegato all’antico appellativo familiare per il padre."
+  },
+
+  "minimal": [
+    {
+      "word": "papa",
+      "ja": "カトリック教会の最高指導者であるローマ教皇",
+      "it": "vescovo di Roma e massima autorità della Chiesa cattolica"
+    },
+    {
+      "word": "papà",
+      "ja": "家庭内で親しみを込めて呼ぶ「お父さん・パパ」",
+      "it": "modo familiare e affettuoso di chiamare il padre"
+    },
+    {
+      "word": "pontefice",
+      "ja": "教皇を表す、より改まった宗教的・制度的な語",
+      "it": "termine formale e solenne che indica il papa"
+    },
+    {
+      "word": "vescovo",
+      "ja": "一定の教区を統括するキリスト教の高位聖職者",
+      "it": "autorità ecclesiastica responsabile di una diocesi"
+    },
+    {
+      "word": "sacerdote",
+      "ja": "礼拝・秘跡などの宗教的職務を行う聖職者",
+      "it": "ministro religioso autorizzato a celebrare riti e sacramenti"
+    }
+  ],
+
+  "synonyms": [
+    "pontefice",
+    "sommo pontefice",
+    "pontefice romano",
+    "Santo Padre",
+    "vescovo di Roma"
+  ],
+
+  "equivalents": {
+    "en": [
+      "pope",
+      "pontiff",
+      "Holy Father"
+    ],
+    "de": [
+      "Papst",
+      "Pontifex",
+      "Heiliger Vater"
+    ],
+    "fr": [
+      "pape",
+      "pontife",
+      "Saint-Père"
+    ],
+    "es": [
+      "papa",
+      "pontífice",
+      "Santo Padre"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "il papa",
+      "ja": "ローマ教皇"
+    },
+    {
+      "it": "eleggere il papa",
+      "ja": "教皇を選出する"
+    },
+    {
+      "it": "essere eletto papa",
+      "ja": "教皇に選出される"
+    },
+    {
+      "it": "diventare papa",
+      "ja": "教皇になる"
+    },
+    {
+      "it": "papa Giovanni XXIII",
+      "ja": "教皇ヨハネ23世"
+    },
+    {
+      "it": "il pontificato del papa",
+      "ja": "教皇の在位期間"
+    },
+    {
+      "it": "l’elezione del papa",
+      "ja": "教皇選挙"
+    },
+    {
+      "it": "la visita del papa",
+      "ja": "教皇の訪問"
+    },
+    {
+      "it": "l’autorità del papa",
+      "ja": "教皇の権威"
+    },
+    {
+      "it": "più papista del papa",
+      "ja": "本人以上にその主義・規則へ忠実な"
+    },
+    {
+      "it": "ogni morte di papa",
+      "ja": "ごくまれに"
+    },
+    {
+      "it": "morto un papa se ne fa un altro",
+      "ja": "誰かが去っても代わりは現れる"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Il papa è il vescovo di Roma.",
+      "ja": "教皇はローマ司教です。"
+    },
+    {
+      "it": "Il papa viene eletto dai cardinali riuniti in conclave.",
+      "ja": "教皇はコンクラーベに集まった枢機卿によって選出されます。"
+    },
+    {
+      "it": "Dopo l’elezione, il nuovo papa sceglie il proprio nome pontificio.",
+      "ja": "選出後、新教皇は自らの教皇名を選びます。"
+    },
+    {
+      "it": "Papa Giovanni XXIII convocò il Concilio Vaticano II.",
+      "ja": "教皇ヨハネ23世は第2バチカン公会議を招集しました。"
+    },
+    {
+      "it": "Durante il viaggio il papa incontrò rappresentanti di diverse religioni.",
+      "ja": "訪問中、教皇はさまざまな宗教の代表者と会談しました。"
+    },
+    {
+      "it": "Nel corso della storia alcuni papi hanno avuto un’importante influenza politica.",
+      "ja": "歴史上、一部の教皇は政治に大きな影響を与えました。"
+    },
+    {
+      "it": "Non devi essere più papista del papa: questa regola può essere applicata con buon senso.",
+      "ja": "規則を本人以上に厳格に守る必要はありません。これは常識的に適用できます。"
+    },
+    {
+      "it": "Va al cinema ogni morte di papa.",
+      "ja": "彼が映画館へ行くのはごくまれです。"
+    }
+  ]
+},
+{
+  "id": "papa-accent",
+  "sid": "2026-00416",
+  "word": "papà",
+  "ipa": "/paˈpa/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞・不変化名詞・親愛を表す親族呼称",
+      "it": "sostantivo maschile invariabile e appellativo familiare affettivo"
+    },
+    "gender": "masculine",
+    "plural": "papà",
+    "invariable": true,
+    "pattern": "il papà / i papà / mio papà / essere o diventare papà / chiamare il papà / Papà!"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "affectionate",
+      "colloquial"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "childhood",
+      "parenting",
+      "emotions"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "家庭内で親しみを込めて呼ぶ父親、お父さん・パパ",
+      "子供が自分の父親に呼び掛ける際の呼称",
+      "子供を持つ男性を日常的で親しみのある調子で表す語",
+      "養子縁組・婚姻・養育などを通じて父親の役割を担う男性",
+      "子供を世話し、保護し、育てる男性",
+      "世話好きで父親的な役割を果たす男性を比喩的に表す語"
+    ],
+    "it": [
+      "Modo familiare e affettuoso di indicare il proprio padre.",
+      "Appellativo con cui un figlio si rivolge direttamente al padre.",
+      "Uomo che ha figli, indicato con un tono quotidiano e affettuoso.",
+      "Uomo che assume un ruolo paterno attraverso adozione, matrimonio, affidamento o cura.",
+      "Uomo che si occupa della protezione, dell’educazione e della crescita dei figli.",
+      "In senso figurato, uomo premuroso che svolge un ruolo paterno nei confronti di altre persone."
+    ]
+  },
+
+  "nuance": {
+    "ja": "papàはpadreより親しみが強く、日本語の「お父さん・パパ」に近い。子供だけでなく成人も日常会話でmio papàと言えるが、法律・行政・医学などの改まった文脈ではpadreが一般的である。直接呼び掛ける場合はPapà, ascoltami「お父さん、聞いて」のように冠詞を付けない。複数形も語形が変わらず、i papàとなる。アクセント記号のないpapa /ˈpapa/は「ローマ教皇」であり、papà /paˈpa/とは発音も意味も異なる。",
+    "it": "Papà è più familiare e affettuoso di padre. Non è limitato al linguaggio infantile: anche un adulto può dire mio papà nella conversazione quotidiana, mentre nei contesti giuridici, amministrativi e medici è più comune padre. Nel richiamo diretto si usa senza articolo: Papà, ascoltami. La parola è invariabile: un papà, due papà, i papà. Papa, senza accento e con accento tonico sulla prima sillaba, indica invece il pontefice romano."
+  },
+
+  "etymology": {
+    "ja": "フランス語papaを通じてイタリア語に広まった幼児語的な親族呼称で、子供が発音しやすいpaという音の反復から生じた。mammaと同様、papa型の父親呼称は多くの言語に見られる。イタリア語では、語末に強勢があることを示すためpapàとアクセント記号を付け、教皇を表すpapaと区別する。",
+    "it": "Si è diffuso in italiano attraverso il francese papa ed è una voce di origine infantile, formata dalla ripetizione della sillaba pa, facilmente pronunciabile dai bambini. Forme simili sono presenti in numerose lingue. In italiano si scrive papà con l’accento grafico finale, che segnala l’accento tonico sull’ultima sillaba e distingue la parola da papa, «pontefice»."
+  },
+
+  "minimal": [
+    {
+      "word": "papà",
+      "ja": "家庭内で親しみを込めて呼ぶ「お父さん・パパ」",
+      "it": "modo familiare e affettuoso di indicare o chiamare il padre"
+    },
+    {
+      "word": "padre",
+      "ja": "中立的・公的な文脈でも使える「父・父親」",
+      "it": "termine neutro e formale per il genitore maschile"
+    },
+    {
+      "word": "papa",
+      "ja": "カトリック教会の最高指導者であるローマ教皇",
+      "it": "vescovo di Roma e massima autorità della Chiesa cattolica"
+    },
+    {
+      "word": "genitore",
+      "ja": "性別を特定せず、父または母を表す「親」",
+      "it": "padre o madre considerati senza specificarne il sesso"
+    },
+    {
+      "word": "babbo",
+      "ja": "地域によって使われる、親しみを込めた「お父さん」",
+      "it": "termine familiare per padre, particolarmente diffuso in alcune regioni"
+    }
+  ],
+
+  "synonyms": [
+    "padre",
+    "babbo",
+    "papino",
+    "genitore"
+  ],
+
+  "equivalents": {
+    "en": [
+      "dad",
+      "daddy",
+      "father"
+    ],
+    "de": [
+      "Papa",
+      "Vati",
+      "Vater"
+    ],
+    "fr": [
+      "papa",
+      "père"
+    ],
+    "es": [
+      "papá",
+      "papi",
+      "padre"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mio papà",
+      "ja": "私のお父さん"
+    },
+    {
+      "it": "diventare papà",
+      "ja": "父親になる"
+    },
+    {
+      "it": "essere papà",
+      "ja": "父親である"
+    },
+    {
+      "it": "chiamare il papà",
+      "ja": "お父さんを呼ぶ・電話する"
+    },
+    {
+      "it": "papà e figlio",
+      "ja": "父親と息子"
+    },
+    {
+      "it": "papà e figlia",
+      "ja": "父親と娘"
+    },
+    {
+      "it": "papà adottivo",
+      "ja": "養父・養子を育てるお父さん"
+    },
+    {
+      "it": "papà single",
+      "ja": "ひとり親の父親"
+    },
+    {
+      "it": "papà lavoratore",
+      "ja": "働く父親"
+    },
+    {
+      "it": "papà a tempo pieno",
+      "ja": "専業で育児をする父親"
+    },
+    {
+      "it": "neo papà",
+      "ja": "父親になったばかりの男性"
+    },
+    {
+      "it": "festa del papà",
+      "ja": "父の日"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Mio papà prepara la colazione ogni mattina.",
+      "ja": "私の父は毎朝、朝食を作ります。"
+    },
+    {
+      "it": "Papà, puoi aiutarmi con i compiti?",
+      "ja": "お父さん、宿題を手伝ってくれる？"
+    },
+    {
+      "it": "È diventato papà per la prima volta lo scorso mese.",
+      "ja": "彼は先月、初めて父親になりました。"
+    },
+    {
+      "it": "Anche da adulto telefono spesso al mio papà.",
+      "ja": "大人になってからも、私はよく父に電話します。"
+    },
+    {
+      "it": "Il suo papà adottivo lo ha cresciuto con grande affetto.",
+      "ja": "養父は彼を深い愛情をもって育てました。"
+    },
+    {
+      "it": "Il neo papà ha preso alcuni giorni di congedo.",
+      "ja": "父親になったばかりの彼は、数日間の休暇を取りました。"
+    },
+    {
+      "it": "Quest’anno festeggeremo la festa del papà tutti insieme.",
+      "ja": "今年は皆で一緒に父の日を祝います。"
+    },
+    {
+      "it": "Papa e papà si distinguono sia per l’accento sia per il significato.",
+      "ja": "papaとpapàは、アクセントでも意味でも区別されます。"
+    }
+  ]
+},
+{
+  "id": "fratello",
+  "sid": "2026-00417",
+  "word": "fratello",
+  "ipa": "/fraˈtɛllo/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "fratelli",
+    "feminine": "sorella",
+    "femininePlural": "sorelle",
+    "pattern": "il fratello / i fratelli / essere fratello di + persona / avere un fratello / mio fratello / fratello + aggettivo / fratello di + comunità o esperienza"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "religious",
+      "figurative",
+      "affectionate"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "identity",
+      "religion",
+      "solidarity",
+      "history"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "同じ親の一方または両方を持つ男性のきょうだい、兄・弟",
+      "養子縁組などによって兄弟関係にある男性",
+      "同じ共同体・民族・信仰などに属する仲間",
+      "修道会・宗教共同体に属する男性信徒・修道士",
+      "深い友情・連帯によって実の兄弟のように感じられる男性",
+      "同じ苦難・戦争・活動などを共有した仲間",
+      "呼び掛けとして、親愛・連帯を表す「兄弟」",
+      "複数形fratelliで、人類・信徒・共同体の構成員全体を表すことがある"
+    ],
+    "it": [
+      "Persona di sesso maschile che ha in comune uno o entrambi i genitori con un’altra persona.",
+      "Persona di sesso maschile legata da un rapporto fraterno attraverso l’adozione.",
+      "Membro della stessa comunità, nazione, fede o condizione umana.",
+      "Religioso o membro maschile di una comunità religiosa.",
+      "Amico molto vicino considerato come un fratello.",
+      "Compagno con il quale si condividono difficoltà, guerra, attività o ideali.",
+      "Appellativo che esprime affetto, vicinanza o solidarietà.",
+      "Al plurale, insieme dei fedeli, dei membri di una comunità o degli esseri umani."
+    ]
+  },
+
+  "nuance": {
+    "ja": "fratelloは年齢に関係なく男性のきょうだいを表し、年上ならfratello maggiore、年下ならfratello minoreと明示する。sorellaは女性のきょうだい、cognatoは配偶者の兄弟または姉妹の夫であり、fratelloとは区別される。所有形容詞を伴う単数の親族名では通常定冠詞を省き、mio fratelloと言う。複数形はi miei fratelliとなる。fratelliは通常「兄弟たち」だが、宗教的・修辞的な用法では男女を含む共同体全体を指すこともある。",
+    "it": "Fratello indica un parente maschio indipendentemente dall’età. Per specificare l’età relativa si usano fratello maggiore e fratello minore. Sorella indica una parente femmina; cognato il fratello del coniuge o il marito di una sorella. Con il possessivo singolare si omette normalmente l’articolo: mio fratello. Al plurale si dice i miei fratelli. Fratelli indica normalmente più fratelli maschi, ma in contesti religiosi o retorici può comprendere tutti i membri di una comunità."
+  },
+
+  "etymology": {
+    "ja": "後期ラテン語fratellusに由来し、これは古典ラテン語frāter、属格frātris「兄弟」に指小辞-ellusを加えた形である。もともとは親愛を込めた「小さな兄弟」を意味したが、イタリア語では兄弟一般を表す語になった。英語brother、ドイツ語Bruder、サンスクリット語bhrātṛとは遠い同系語である。同じ語族にはfraterno、fraternità、confratello、affratellareがある。",
+    "it": "Deriva dal latino tardo fratellus, diminutivo affettivo del latino classico frāter, genitivo frātris, «fratello». La forma indicava originariamente un fratello più giovane o chiamato con affetto, ma in italiano è diventata il termine generale. Sono lontanamente affini l’inglese brother, il tedesco Bruder e il sanscrito bhrātṛ. Alla stessa famiglia appartengono fraterno, fraternità, confratello e affratellare."
+  },
+
+  "minimal": [
+    {
+      "word": "fratello",
+      "ja": "同じ親の一方または両方を持つ男性のきょうだい",
+      "it": "persona di sesso maschile che condivide uno o entrambi i genitori con un’altra"
+    },
+    {
+      "word": "sorella",
+      "ja": "同じ親の一方または両方を持つ女性のきょうだい",
+      "it": "persona di sesso femminile che condivide uno o entrambi i genitori con un’altra"
+    },
+    {
+      "word": "fratellastro",
+      "ja": "親の再婚などによって生じる義理の兄弟、または片親のみを共有する兄弟",
+      "it": "fratello acquisito oppure, nell’uso comune, fratello con un solo genitore in comune"
+    },
+    {
+      "word": "cognato",
+      "ja": "配偶者の兄弟、または姉妹の夫に当たる義兄弟",
+      "it": "fratello del coniuge oppure marito di una sorella"
+    },
+    {
+      "word": "gemello",
+      "ja": "同じ妊娠から生まれた双子の兄弟",
+      "it": "fratello nato dallo stesso parto"
+    }
+  ],
+
+  "synonyms": [
+    "germano",
+    "consanguineo",
+    "confratello",
+    "compagno",
+    "amico fraterno"
+  ],
+
+  "equivalents": {
+    "en": [
+      "brother",
+      "sibling",
+      "fellow member"
+    ],
+    "de": [
+      "Bruder",
+      "Geschwisterteil",
+      "Mitbruder"
+    ],
+    "fr": [
+      "frère",
+      "membre de la même communauté"
+    ],
+    "es": [
+      "hermano",
+      "miembro de la misma comunidad"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mio fratello",
+      "ja": "私の兄・弟"
+    },
+    {
+      "it": "fratello maggiore",
+      "ja": "兄"
+    },
+    {
+      "it": "fratello minore",
+      "ja": "弟"
+    },
+    {
+      "it": "fratello gemello",
+      "ja": "双子の兄弟"
+    },
+    {
+      "it": "fratello adottivo",
+      "ja": "養子縁組による兄弟"
+    },
+    {
+      "it": "fratello di sangue",
+      "ja": "血のつながった兄弟"
+    },
+    {
+      "it": "essere come un fratello",
+      "ja": "兄弟のような存在である"
+    },
+    {
+      "it": "voler bene a un fratello",
+      "ja": "兄弟を大切に思う"
+    },
+    {
+      "it": "litigare con il fratello",
+      "ja": "兄弟とけんかする"
+    },
+    {
+      "it": "fratello e sorella",
+      "ja": "兄弟と姉妹・きょうだい"
+    },
+    {
+      "it": "fratello d’armi",
+      "ja": "戦友"
+    },
+    {
+      "it": "fratelli nella fede",
+      "ja": "信仰を同じくする兄弟姉妹"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Mio fratello maggiore vive a Milano.",
+      "ja": "私の兄はミラノに住んでいます。"
+    },
+    {
+      "it": "Ho un fratello minore e due sorelle.",
+      "ja": "私には弟が一人と姉妹が二人います。"
+    },
+    {
+      "it": "I due fratelli lavorano nella stessa azienda.",
+      "ja": "その兄弟二人は同じ会社で働いています。"
+    },
+    {
+      "it": "Luca e Marco sono fratelli gemelli.",
+      "ja": "ルカとマルコは双子の兄弟です。"
+    },
+    {
+      "it": "Da bambini litigavamo spesso, ma oggi io e mio fratello siamo molto uniti.",
+      "ja": "子供のころはよくけんかしましたが、今では私と兄弟はとても仲がよいです。"
+    },
+    {
+      "it": "Non siamo parenti, ma per me è come un fratello.",
+      "ja": "私たちは親族ではありませんが、彼は私にとって兄弟のような存在です。"
+    },
+    {
+      "it": "I soldati ricordavano i compagni caduti come fratelli d’armi.",
+      "ja": "兵士たちは亡くなった仲間を戦友として記憶していました。"
+    },
+    {
+      "it": "Il sacerdote si rivolse ai presenti chiamandoli fratelli e sorelle.",
+      "ja": "司祭は参列者に「兄弟姉妹の皆さん」と呼び掛けました。"
+    }
+  ]
+},
+{
+  "id": "sorella",
+  "sid": "2026-00418",
+  "word": "sorella",
+  "ipa": "/soˈrɛlla/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "sorelle",
+    "masculine": "fratello",
+    "masculinePlural": "fratelli",
+    "pattern": "la sorella / le sorelle / essere sorella di + persona / avere una sorella / mia sorella / sorella + aggettivo / sorella di + comunità o esperienza"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "religious",
+      "figurative",
+      "affectionate"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "identity",
+      "religion",
+      "solidarity",
+      "culture"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "同じ親の一方または両方を持つ女性のきょうだい、姉・妹",
+      "養子縁組などによって姉妹関係にある女性",
+      "同じ共同体・民族・信仰などに属する女性の仲間",
+      "修道会・宗教共同体に属する女性信徒・修道女",
+      "深い友情・連帯によって実の姉妹のように感じられる女性",
+      "同じ苦難・活動・理想などを共有する女性",
+      "共通の起源・性質・目的を持つ言語・都市・組織など",
+      "呼び掛けとして、親愛・信仰上の連帯を表す「姉妹」"
+    ],
+    "it": [
+      "Persona di sesso femminile che ha in comune uno o entrambi i genitori con un’altra persona.",
+      "Persona di sesso femminile legata da un rapporto fraterno attraverso l’adozione.",
+      "Membro femminile della stessa comunità, nazione, fede o condizione umana.",
+      "Religiosa o membro femminile di una comunità religiosa.",
+      "Amica molto vicina considerata come una sorella.",
+      "Compagna con la quale si condividono difficoltà, attività o ideali.",
+      "Entità che condivide con un’altra un’origine, una natura o una funzione.",
+      "Appellativo che esprime affetto, solidarietà o appartenenza religiosa."
+    ]
+  },
+
+  "nuance": {
+    "ja": "sorellaは年齢に関係なく女性のきょうだいを表し、年上ならsorella maggiore、年下ならsorella minoreと明示する。fratelloは男性のきょうだい、cognataは配偶者の姉妹または兄弟の妻であり、sorellaとは区別される。所有形容詞を伴う単数の親族名では通常定冠詞を省き、mia sorellaと言う。複数形ではle mie sorelleとなる。宗教的なsorellaは信徒同士の呼称または修道女を表すが、修道女の一般的な名称にはsuoraも使われる。",
+    "it": "Sorella indica una parente femmina indipendentemente dall’età. Per specificare l’età relativa si usano sorella maggiore e sorella minore. Fratello indica un parente maschio; cognata la sorella del coniuge o la moglie di un fratello. Con il possessivo singolare si omette normalmente l’articolo: mia sorella. Al plurale si dice le mie sorelle. In ambito religioso sorella può essere un appellativo tra fedeli o indicare una religiosa, per la quale è comune anche suora."
+  },
+
+  "etymology": {
+    "ja": "後期ラテン語sorĕllaに由来し、これは古典ラテン語sŏror、属格sorōris「姉妹」に指小辞を加えた親愛形である。もともとは「小さな姉妹・愛しい姉妹」を意味したが、イタリア語では姉妹一般を表す語になった。英語sister、ドイツ語Schwester、サンスクリット語svásṛとは遠い同系語である。同じ語族にはsororale、sororità、consorellaがある。",
+    "it": "Deriva dal latino tardo sorella, diminutivo affettivo del latino classico sŏror, genitivo sorōris, «sorella». La forma indicava originariamente una sorella più giovane o chiamata con affetto, ma in italiano è diventata il termine generale. Sono lontanamente affini l’inglese sister, il tedesco Schwester e il sanscrito svásṛ. Alla stessa famiglia appartengono sororale, sororità e consorella."
+  },
+
+  "minimal": [
+    {
+      "word": "sorella",
+      "ja": "同じ親の一方または両方を持つ女性のきょうだい",
+      "it": "persona di sesso femminile che condivide uno o entrambi i genitori con un’altra"
+    },
+    {
+      "word": "fratello",
+      "ja": "同じ親の一方または両方を持つ男性のきょうだい",
+      "it": "persona di sesso maschile che condivide uno o entrambi i genitori con un’altra"
+    },
+    {
+      "word": "sorellastra",
+      "ja": "親の再婚などによる義理の姉妹、または片親のみを共有する姉妹",
+      "it": "sorella acquisita oppure, nell’uso comune, sorella con un solo genitore in comune"
+    },
+    {
+      "word": "cognata",
+      "ja": "配偶者の姉妹、または兄弟の妻に当たる義姉妹",
+      "it": "sorella del coniuge oppure moglie di un fratello"
+    },
+    {
+      "word": "gemella",
+      "ja": "同じ妊娠から生まれた双子の姉妹",
+      "it": "sorella nata dallo stesso parto"
+    }
+  ],
+
+  "synonyms": [
+    "germana",
+    "consanguinea",
+    "consorella",
+    "compagna",
+    "amica fraterna"
+  ],
+
+  "equivalents": {
+    "en": [
+      "sister",
+      "female sibling",
+      "fellow member"
+    ],
+    "de": [
+      "Schwester",
+      "weibliches Geschwister",
+      "Mitschwester"
+    ],
+    "fr": [
+      "sœur",
+      "membre de la même communauté"
+    ],
+    "es": [
+      "hermana",
+      "miembro de la misma comunidad"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mia sorella",
+      "ja": "私の姉・妹"
+    },
+    {
+      "it": "sorella maggiore",
+      "ja": "姉"
+    },
+    {
+      "it": "sorella minore",
+      "ja": "妹"
+    },
+    {
+      "it": "sorella gemella",
+      "ja": "双子の姉妹"
+    },
+    {
+      "it": "sorella adottiva",
+      "ja": "養子縁組による姉妹"
+    },
+    {
+      "it": "sorella di sangue",
+      "ja": "血のつながった姉妹"
+    },
+    {
+      "it": "essere come una sorella",
+      "ja": "姉妹のような存在である"
+    },
+    {
+      "it": "voler bene a una sorella",
+      "ja": "姉妹を大切に思う"
+    },
+    {
+      "it": "fratello e sorella",
+      "ja": "兄弟と姉妹・きょうだい"
+    },
+    {
+      "it": "sorelle nella fede",
+      "ja": "信仰を同じくする姉妹"
+    },
+    {
+      "it": "lingue sorelle",
+      "ja": "姉妹言語"
+    },
+    {
+      "it": "città sorelle",
+      "ja": "姉妹都市"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Mia sorella maggiore vive a Torino.",
+      "ja": "私の姉はトリノに住んでいます。"
+    },
+    {
+      "it": "Ho una sorella minore e due fratelli.",
+      "ja": "私には妹が一人と兄弟が二人います。"
+    },
+    {
+      "it": "Le due sorelle lavorano nello stesso ospedale.",
+      "ja": "その姉妹二人は同じ病院で働いています。"
+    },
+    {
+      "it": "Anna e Lucia sono sorelle gemelle.",
+      "ja": "アンナとルチアは双子の姉妹です。"
+    },
+    {
+      "it": "Da bambine litigavamo spesso, ma oggi io e mia sorella siamo molto unite.",
+      "ja": "子供のころはよくけんかしましたが、今では私と姉妹はとても仲がよいです。"
+    },
+    {
+      "it": "Non siamo parenti, ma per me è come una sorella.",
+      "ja": "私たちは親族ではありませんが、彼女は私にとって姉妹のような存在です。"
+    },
+    {
+      "it": "L’italiano e lo spagnolo sono lingue sorelle derivate dal latino.",
+      "ja": "イタリア語とスペイン語はラテン語から派生した姉妹言語です。"
+    },
+    {
+      "it": "La religiosa si rivolse alle altre donne chiamandole sorelle.",
+      "ja": "その修道女はほかの女性たちに「姉妹の皆さん」と呼び掛けました。"
+    }
+  ]
+},
+{
+  "id": "genitore",
+  "sid": "2026-00419",
+  "word": "genitore",
+  "ipa": "/dʒeniˈtore/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞／性別を特定しない総称的用法あり",
+      "it": "sostantivo maschile, usato anche genericamente senza specificare il sesso"
+    },
+    "gender": "masculine",
+    "plural": "genitori",
+    "feminine": "genitrice",
+    "femininePlural": "genitrici",
+    "pattern": "il genitore / i genitori / essere genitore di + persona / diventare genitore / uno o entrambi i genitori / genitore + aggettivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "administrative",
+      "legal",
+      "biological"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "family",
+      "education",
+      "law",
+      "administration",
+      "health",
+      "parenting",
+      "biology"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "性別を特定せずに表す父または母、親",
+      "子供をもうけた生物学上の父母の一方",
+      "子供を養育し、保護し、教育する責任を負う者",
+      "養子縁組によって法的な親となった人物",
+      "法律上、親権・監護・扶養などの権利義務を持つ人物",
+      "複数形genitoriで、父母・両親",
+      "家庭・学校・行政などで子供の保護者として行動する者",
+      "生物学で、子孫・次世代を生じさせる親個体"
+    ],
+    "it": [
+      "Padre o madre indicati senza specificarne il sesso.",
+      "Persona dalla quale un figlio discende biologicamente.",
+      "Persona responsabile della cura, della protezione e dell’educazione di un figlio.",
+      "Persona che diventa legalmente padre o madre attraverso l’adozione.",
+      "Persona titolare di diritti e doveri relativi alla responsabilità e al mantenimento di un figlio.",
+      "Al plurale, il padre e la madre oppure più persone che svolgono un ruolo genitoriale.",
+      "Persona che agisce come responsabile del minore nei rapporti con scuola, sanità o amministrazione.",
+      "In biologia, organismo dal quale deriva una generazione successiva."
+    ]
+  },
+
+  "nuance": {
+    "ja": "genitoreは父・母のどちらかを性別を明示せずに表す語で、学校・行政・法律・医療などの文脈で特によく使われる。複数形i genitoriは通常「両親」を意味する。日常会話ではmio padre、mia madreのほうが具体的で自然なことが多い。女性形genitriceも存在するが、生物学上の母親を強調する場合や改まった文脈で使われ、日常語ではmadreが一般的である。イタリア語parentiは「両親」ではなく「親戚」を意味するため、英語parentsとの混同に注意が必要である。",
+    "it": "Genitore indica il padre o la madre senza specificarne il sesso ed è particolarmente comune nel linguaggio scolastico, amministrativo, medico e giuridico. Il plurale i genitori significa normalmente «il padre e la madre» o, più in generale, le persone che svolgono il ruolo genitoriale. Nella conversazione quotidiana mio padre e mia madre sono spesso più naturali. Il femminile genitrice esiste, ma può avere un tono biologico o formale; madre rimane il termine comune. L’italiano parenti significa «relatives», non «parents»."
+  },
+
+  "etymology": {
+    "ja": "ラテン語genĭtor、属格genitōris「生む者、父」に由来し、動詞gignĕre「生む、発生させる」と同じ語族に属する。さらにインド・ヨーロッパ祖語の「生む・生じる」を表す語根にさかのぼる。同じ語族にはgenerare、generazione、genere、genetica、progenitoreがある。英語generate・generation、フランス語géniteur、スペイン語genitorも同じ起源を持つ。",
+    "it": "Deriva dal latino genĭtor, genitivo genitōris, «colui che genera, padre», appartenente alla famiglia di gignĕre, «generare, produrre». La base risale a un’antica radice indoeuropea legata alla nascita e all’origine. Alla stessa famiglia appartengono generare, generazione, genere, genetica e progenitore, oltre agli inglesi generate e generation."
+  },
+
+  "minimal": [
+    {
+      "word": "genitore",
+      "ja": "性別を特定せずに父または母を表す「親」",
+      "it": "padre o madre considerati senza specificarne il sesso"
+    },
+    {
+      "word": "padre",
+      "ja": "子との関係から見た男性の親、父",
+      "it": "genitore di sesso maschile"
+    },
+    {
+      "word": "madre",
+      "ja": "子との関係から見た女性の親、母",
+      "it": "genitore di sesso femminile"
+    },
+    {
+      "word": "parente",
+      "ja": "血縁・婚姻などによって結ばれた親戚",
+      "it": "persona legata a un’altra da parentela o matrimonio"
+    },
+    {
+      "word": "tutore",
+      "ja": "未成年者などを法律上保護し、代理する後見人",
+      "it": "persona incaricata legalmente di proteggere e rappresentare un minore o un incapace"
+    }
+  ],
+
+  "synonyms": [
+    "padre",
+    "madre",
+    "genitrice",
+    "progenitore",
+    "ascendente"
+  ],
+
+  "equivalents": {
+    "en": [
+      "parent",
+      "biological parent",
+      "legal parent"
+    ],
+    "de": [
+      "Elternteil",
+      "Eltern",
+      "Erziehungsberechtigter"
+    ],
+    "fr": [
+      "parent",
+      "géniteur",
+      "représentant légal"
+    ],
+    "es": [
+      "progenitor",
+      "padre o madre",
+      "representante legal"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "essere genitore",
+      "ja": "親である"
+    },
+    {
+      "it": "diventare genitore",
+      "ja": "親になる"
+    },
+    {
+      "it": "i miei genitori",
+      "ja": "私の両親"
+    },
+    {
+      "it": "entrambi i genitori",
+      "ja": "両親の双方"
+    },
+    {
+      "it": "genitore biologico",
+      "ja": "生物学上の親"
+    },
+    {
+      "it": "genitore adottivo",
+      "ja": "養親"
+    },
+    {
+      "it": "genitore affidatario",
+      "ja": "里親・委託養育者"
+    },
+    {
+      "it": "genitore single",
+      "ja": "ひとり親"
+    },
+    {
+      "it": "responsabilità genitoriale",
+      "ja": "親としての法的責任・親権"
+    },
+    {
+      "it": "consenso dei genitori",
+      "ja": "保護者の同意"
+    },
+    {
+      "it": "riunione dei genitori",
+      "ja": "保護者会"
+    },
+    {
+      "it": "rapporto tra genitori e figli",
+      "ja": "親子関係"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Per iscrivere il bambino è necessaria la firma di un genitore.",
+      "ja": "子供を登録するには、保護者一名の署名が必要です。"
+    },
+    {
+      "it": "I miei genitori vivono ancora nella città in cui sono nato.",
+      "ja": "私の両親は今も私が生まれた町に住んでいます。"
+    },
+    {
+      "it": "Entrambi i genitori partecipano all’educazione dei figli.",
+      "ja": "両親の双方が子供の教育に関わっています。"
+    },
+    {
+      "it": "Diventare genitore comporta nuove responsabilità.",
+      "ja": "親になることには新たな責任が伴います。"
+    },
+    {
+      "it": "Il consenso dei genitori è richiesto per la gita scolastica.",
+      "ja": "学校行事への参加には保護者の同意が必要です。"
+    },
+    {
+      "it": "I genitori adottivi lo hanno accolto quando aveva tre anni.",
+      "ja": "養父母は、彼が3歳のときに迎え入れました。"
+    },
+    {
+      "it": "La scuola organizzerà una riunione con i genitori.",
+      "ja": "学校は保護者会を開催します。"
+    },
+    {
+      "it": "In inglese parents significa genitori, mentre parenti significa relatives.",
+      "ja": "英語のparentsはgenitoriを意味し、イタリア語のparentiはrelativesを意味します。"
+    },
+    {
+      "it": "In biologia, i caratteri vengono trasmessi dagli organismi genitori alla prole.",
+      "ja": "生物学では、形質は親個体から子孫へ受け継がれます。"
+    }
+  ]
+},
+{
+  "id": "parente",
+  "sid": "2026-00420",
+  "word": "parente",
+  "ipa": "/paˈrɛnte/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男女同形名詞",
+      "it": "sostantivo di genere comune"
+    },
+    "gender": "common",
+    "masculine": "il parente",
+    "feminine": "la parente",
+    "plural": "parenti",
+    "pattern": "essere parente di + persona / avere parenti / un mio parente o una mia parente / parente stretto o lontano / parenti da parte di + familiare"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "legal",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "genealogy",
+      "law",
+      "inheritance",
+      "biology",
+      "language"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "血縁によって結ばれた親族・親戚",
+      "婚姻によって家族関係を持つ親族",
+      "養子縁組などの法的関係によって結ばれた親族",
+      "性別を問わず、家系・家族に属する人物",
+      "複数形parentiで、親戚一同・親族",
+      "法律上、一定の親等によって関係付けられる者",
+      "比喩的に、共通の起源や性質を持つ言語・生物・概念など",
+      "広い意味で、何らかの系統的なつながりを持つもの"
+    ],
+    "it": [
+      "Persona legata a un’altra da un rapporto di sangue.",
+      "Persona legata a un’altra attraverso il matrimonio.",
+      "Persona unita a un’altra da un rapporto familiare costituito legalmente, come l’adozione.",
+      "Membro della famiglia o della parentela, indipendentemente dal sesso.",
+      "Al plurale, insieme delle persone appartenenti alla parentela.",
+      "Nel linguaggio giuridico, persona collegata a un’altra secondo un determinato grado di parentela.",
+      "In senso figurato, lingua, organismo o concetto che condivide con un altro un’origine o caratteristiche comuni.",
+      "In senso ampio, elemento appartenente alla stessa famiglia o linea di sviluppo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "parenteは「親」ではなく「親戚」を意味する。英語parentはイタリア語ではgenitore、英語relativeがイタリア語parenteに相当するため、特に注意が必要である。familiareも「家族・身内」を意味するが、同時に「よく知られた・親しみのある」という形容詞でもある。parente strettoは近い親族、parente lontanoは遠縁の親戚を表す。性別は冠詞や形容詞で示され、il parente、la parenteとなる。",
+    "it": "Parente significa «relative», non «parent». L’inglese parent corrisponde all’italiano genitore, mentre parente corrisponde normalmente a relative. Familiare può indicare un membro della famiglia, ma è anche un aggettivo con il significato di «noto, consueto». Parente stretto indica una persona con un legame familiare vicino; parente lontano un legame genealogico remoto. Il genere è indicato dall’articolo: il parente, la parente."
+  },
+
+  "etymology": {
+    "ja": "ラテン語parens、属格parentis「父母、生み出す者」に由来し、動詞parĕre「産む、生み出す」の現在分詞が名詞化したものである。ラテン語では主に父母を表したが、イタリア語では意味が広がり、血縁・婚姻などで結ばれた「親戚」を表すようになった。同じ語族にはparentela、parentale、imparentarsiがある。英語parentは古い「父母」の意味を保ったため、現代イタリア語parenteとは意味が異なる。",
+    "it": "Deriva dal latino parens, genitivo parentis, participio presente sostantivato di parĕre, «generare, partorire». In latino indicava soprattutto il padre o la madre; in italiano il significato si è esteso alle persone legate da rapporti familiari. Alla stessa famiglia appartengono parentela, parentale e imparentarsi. L’inglese parent ha conservato il significato latino di «genitore», creando un falso amico con l’italiano parente."
+  },
+
+  "minimal": [
+    {
+      "word": "parente",
+      "ja": "血縁・婚姻・養子縁組などによって結ばれた親戚",
+      "it": "persona legata a un’altra da sangue, matrimonio o altro rapporto familiare"
+    },
+    {
+      "word": "genitore",
+      "ja": "性別を特定せず、父または母を表す「親」",
+      "it": "padre o madre considerati senza specificarne il sesso"
+    },
+    {
+      "word": "familiare",
+      "ja": "家族・身内、または親しみがありよく知られているもの",
+      "it": "membro della famiglia oppure qualcosa di noto e consueto"
+    },
+    {
+      "word": "congiunto",
+      "ja": "親族・身内を表す、比較的改まった語",
+      "it": "termine formale che indica una persona legata da parentela"
+    },
+    {
+      "word": "affine",
+      "ja": "婚姻を通じて生じた姻族関係にある人物",
+      "it": "persona legata attraverso il matrimonio e non per discendenza diretta"
+    }
+  ],
+
+  "synonyms": [
+    "familiare",
+    "congiunto",
+    "consanguineo",
+    "affine",
+    "membro della famiglia"
+  ],
+
+  "equivalents": {
+    "en": [
+      "relative",
+      "relation",
+      "family member"
+    ],
+    "de": [
+      "Verwandter",
+      "Verwandte",
+      "Familienangehöriger"
+    ],
+    "fr": [
+      "parent",
+      "proche",
+      "membre de la famille"
+    ],
+    "es": [
+      "pariente",
+      "familiar",
+      "miembro de la familia"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "un mio parente",
+      "ja": "私の親戚の一人"
+    },
+    {
+      "it": "parente stretto",
+      "ja": "近い親族"
+    },
+    {
+      "it": "parente prossimo",
+      "ja": "近親者"
+    },
+    {
+      "it": "parente lontano",
+      "ja": "遠縁の親戚"
+    },
+    {
+      "it": "parente acquisito",
+      "ja": "婚姻などによる親族"
+    },
+    {
+      "it": "parente di sangue",
+      "ja": "血縁のある親族"
+    },
+    {
+      "it": "essere parente di qualcuno",
+      "ja": "誰かの親戚である"
+    },
+    {
+      "it": "avere parenti all’estero",
+      "ja": "外国に親戚がいる"
+    },
+    {
+      "it": "visitare i parenti",
+      "ja": "親戚を訪ねる"
+    },
+    {
+      "it": "riunione di parenti",
+      "ja": "親族の集まり"
+    },
+    {
+      "it": "grado di parentela",
+      "ja": "親等・親族関係の近さ"
+    },
+    {
+      "it": "parenti serpenti",
+      "ja": "親戚同士は争いが起こりやすいという表現"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Molti dei miei parenti vivono in Sicilia.",
+      "ja": "私の親戚の多くはシチリアに住んでいます。"
+    },
+    {
+      "it": "È una mia parente, ma non ricordo esattamente il grado di parentela.",
+      "ja": "彼女は私の親戚ですが、具体的な親族関係を覚えていません。"
+    },
+    {
+      "it": "Alla cerimonia erano presenti soltanto i parenti più stretti.",
+      "ja": "式典には近親者だけが出席していました。"
+    },
+    {
+      "it": "Ho scoperto di avere un lontano parente in Argentina.",
+      "ja": "アルゼンチンに遠縁の親戚がいることが分かりました。"
+    },
+    {
+      "it": "Durante le vacanze andremo a visitare alcuni parenti.",
+      "ja": "休暇中に何人かの親戚を訪ねる予定です。"
+    },
+    {
+      "it": "La legge stabilisce diversi gradi di parentela.",
+      "ja": "法律は複数の親等を定めています。"
+    },
+    {
+      "it": "L’italiano e lo spagnolo sono lingue parenti perché derivano entrambe dal latino.",
+      "ja": "イタリア語とスペイン語はともにラテン語から派生した同系言語です。"
+    },
+    {
+      "it": "In inglese parents significa genitori, non parenti.",
+      "ja": "英語のparentsはgenitoriを意味し、parentiという意味ではありません。"
+    }
+  ]
+},
+{
+  "id": "tutore",
+  "sid": "2026-00421",
+  "word": "tutore",
+  "ipa": "/tuˈtore/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "tutori",
+    "feminine": "tutrice",
+    "femininePlural": "tutrici",
+    "pattern": "tutore di + persona / nominare qualcuno tutore / agire in qualità di tutore / tutore per + parte del corpo / legare qualcosa a un tutore"
+  },
+
+  "usage": {
+    "register": [
+      "formal",
+      "legal",
+      "medical",
+      "educational",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "law",
+      "family",
+      "administration",
+      "education",
+      "medicine",
+      "rehabilitation",
+      "agriculture"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "未成年者などを法律上保護し、財産管理や手続を代理する後見人",
+      "自分で法律行為を行うことが困難な人物を支援・代理する者",
+      "教育・研修などで学習者を指導し、進行を支援する担当者",
+      "歴史的用法で、子供の教育や生活を個人的に指導する家庭教師・保護者",
+      "関節や身体部位を固定・保護する医療用装具・サポーター",
+      "植物の茎や幹を支えて成長方向を整える支柱",
+      "比喩的に、人・権利・価値などを守る保護者・擁護者"
+    ],
+    "it": [
+      "Persona incaricata legalmente di proteggere e rappresentare un minore o un’altra persona sottoposta a tutela.",
+      "Persona che assiste o rappresenta chi non può compiere autonomamente determinati atti giuridici.",
+      "Persona incaricata di seguire e orientare uno studente o un partecipante a un percorso formativo.",
+      "Storicamente, educatore privato responsabile della formazione e della condotta di un giovane.",
+      "Dispositivo ortopedico utilizzato per sostenere, immobilizzare o proteggere una parte del corpo.",
+      "Sostegno al quale viene legata una pianta per guidarne e proteggerne la crescita.",
+      "In senso figurato, persona che protegge o difende qualcuno, un diritto o un valore."
+    ]
+  },
+
+  "nuance": {
+    "ja": "法律上のtutoreは、単なる世話人ではなく、裁判所などによって選任され、保護対象者を代理する正式な役割を表す。curatoreやamministratore di sostegnoも支援を行うが、法的権限や対象となる状況が異なるため、同義ではない。教育分野では英語由来のtutorも広く使われ、現代では指導担当者にはtutor、法律上の後見人にはtutoreという区別が比較的明確である。医療ではtutore per il ginocchio、農業ではtutore per pianteのように、身体や植物を物理的に支える物も表す。",
+    "it": "Nel linguaggio giuridico il tutore non è un semplice assistente, ma una persona formalmente incaricata di proteggere e rappresentare il soggetto sottoposto a tutela. Curatore e amministratore di sostegno hanno funzioni e poteri differenti e non sono sinonimi perfetti. Nell’istruzione è oggi molto comune anche l’anglicismo tutor; in generale tutor indica più facilmente una guida didattica, mentre tutore conserva soprattutto il valore giuridico. In medicina e agricoltura, tutore indica invece un sostegno fisico."
+  },
+
+  "etymology": {
+    "ja": "ラテン語tūtor、属格tūtōris「保護者、守る者」に由来し、動詞tuērī「見守る、保護する」と同じ語族に属する。もともとは他者の安全・権利・財産を守る人物を表した。そこから、人を法的に保護する後見人、身体を支える装具、植物を支える支柱という意味が発達した。同じ語族にはtutela、tutelare、英語tutor、フランス語tuteur、スペイン語tutorがある。",
+    "it": "Deriva dal latino tūtor, genitivo tūtōris, «protettore, difensore», appartenente alla famiglia del verbo tuērī, «guardare, proteggere». Dal significato di persona che protegge si sono sviluppati gli usi giuridici, educativi e tecnici. Alla stessa famiglia appartengono tutela e tutelare, oltre all’inglese tutor, al francese tuteur e allo spagnolo tutor."
+  },
+
+  "minimal": [
+    {
+      "word": "tutore",
+      "ja": "法律上の後見人、または身体・植物を支える装具や支柱",
+      "it": "rappresentante legale oppure sostegno fisico per il corpo o una pianta"
+    },
+    {
+      "word": "tutor",
+      "ja": "教育・研修で学習者を指導し、進行を支援する担当者",
+      "it": "persona che guida uno studente o un partecipante in un percorso formativo"
+    },
+    {
+      "word": "curatore",
+      "ja": "特定の人物・財産・手続などを管理・補助する者",
+      "it": "persona incaricata di assistere, amministrare o gestire determinati interessi"
+    },
+    {
+      "word": "custode",
+      "ja": "人・場所・物を見守り、管理・保管する者",
+      "it": "persona incaricata di sorvegliare e conservare un luogo o un bene"
+    },
+    {
+      "word": "protettore",
+      "ja": "人・集団・価値などを危険や攻撃から守る者",
+      "it": "persona che difende qualcuno o qualcosa da pericoli e attacchi"
+    }
+  ],
+
+  "synonyms": [
+    "protettore",
+    "rappresentante legale",
+    "guardiano",
+    "educatore",
+    "sostegno",
+    "supporto"
+  ],
+
+  "equivalents": {
+    "en": [
+      "legal guardian",
+      "tutor",
+      "brace",
+      "plant stake"
+    ],
+    "de": [
+      "Vormund",
+      "Betreuer",
+      "Orthese",
+      "Pflanzstütze"
+    ],
+    "fr": [
+      "tuteur",
+      "représentant légal",
+      "orthèse",
+      "tuteur de plante"
+    ],
+    "es": [
+      "tutor",
+      "representante legal",
+      "órtesis",
+      "tutor para plantas"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "tutore legale",
+      "ja": "法定後見人"
+    },
+    {
+      "it": "nominare un tutore",
+      "ja": "後見人を選任する"
+    },
+    {
+      "it": "agire in qualità di tutore",
+      "ja": "後見人として行動する"
+    },
+    {
+      "it": "tutore di un minore",
+      "ja": "未成年者の後見人"
+    },
+    {
+      "it": "consenso del tutore",
+      "ja": "後見人の同意"
+    },
+    {
+      "it": "sotto la tutela di un tutore",
+      "ja": "後見人の保護・後見下に"
+    },
+    {
+      "it": "tutore didattico",
+      "ja": "学習指導担当者"
+    },
+    {
+      "it": "tutore ortopedico",
+      "ja": "整形外科用装具"
+    },
+    {
+      "it": "indossare un tutore",
+      "ja": "装具を着用する"
+    },
+    {
+      "it": "tutore per il ginocchio",
+      "ja": "膝用装具・膝サポーター"
+    },
+    {
+      "it": "tutore per piante",
+      "ja": "植物用の支柱"
+    },
+    {
+      "it": "legare la pianta al tutore",
+      "ja": "植物を支柱に結び付ける"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Il giudice ha nominato un tutore per il minore.",
+      "ja": "裁判官はその未成年者のために後見人を選任しました。"
+    },
+    {
+      "it": "Il tutore deve agire nell’interesse della persona affidata alla sua protezione.",
+      "ja": "後見人は、保護を委ねられた人物の利益のために行動しなければなりません。"
+    },
+    {
+      "it": "Per completare la procedura è necessario il consenso del tutore legale.",
+      "ja": "手続を完了するには法定後見人の同意が必要です。"
+    },
+    {
+      "it": "Ogni studente è seguito da un tutore didattico.",
+      "ja": "各学生には学習指導担当者が付きます。"
+    },
+    {
+      "it": "Dopo l’incidente ha dovuto indossare un tutore per il ginocchio.",
+      "ja": "事故後、彼は膝用装具を着用しなければなりませんでした。"
+    },
+    {
+      "it": "Il medico ha regolato il tutore per sostenere meglio la caviglia.",
+      "ja": "医師は足首をより適切に支えるために装具を調整しました。"
+    },
+    {
+      "it": "Le giovani piante sono state legate a un tutore di legno.",
+      "ja": "若い植物は木製の支柱に結び付けられました。"
+    },
+    {
+      "it": "Fu considerato un tutore delle arti e della cultura.",
+      "ja": "彼は芸術と文化の保護者とみなされました。"
+    }
+  ]
+},
+{
+  "id": "cugino",
+  "sid": "2026-00422",
+  "word": "cugino",
+  "ipa": "/kuˈdʒino/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "cugini",
+    "feminine": "cugina",
+    "femininePlural": "cugine",
+    "pattern": "il cugino / i cugini / essere cugino di + persona / avere un cugino / mio cugino / cugino da parte di + familiare"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "genealogy",
+      "identity",
+      "law"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "父母の兄弟姉妹の男性の子、いとこ",
+      "共通の祖先を持つ、同世代または近い世代の男性親族",
+      "婚姻を通じて、いとこに当たる関係になった男性",
+      "遠い血縁関係にある男性親族",
+      "比喩的に、共通の起源やよく似た性質を持つ男性・物・概念",
+      "複数形cuginiで、男性のいとこたち、または男女を含むいとこ全体"
+    ],
+    "it": [
+      "Figlio di un fratello o di una sorella di uno dei propri genitori.",
+      "Parente maschio di generazione uguale o vicina con il quale si condivide un antenato.",
+      "Uomo diventato cugino attraverso un matrimonio.",
+      "Parente maschio legato da una parentela più lontana.",
+      "In senso figurato, persona, oggetto o concetto che condivide con un altro origine o caratteristiche.",
+      "Al plurale, cugini maschi oppure insieme di cugini e cugine."
+    ]
+  },
+
+  "nuance": {
+    "ja": "cuginoは通常、父母の兄弟姉妹の息子を表す。父方・母方を区別する場合はcugino da parte di padre、cugino da parte di madreと言う。単数では男性がcugino、女性がcuginaだが、複数形cuginiは男性だけでなく男女混合のいとこ全体を指すことがある。所有形容詞を伴う単数の親族名では通常定冠詞を省き、mio cuginoと言う。英語cousinは性別を示さないが、イタリア語では語形で性別を区別する。",
+    "it": "Cugino indica normalmente il figlio di uno zio o di una zia. Per distinguere il ramo familiare si dice cugino da parte di padre o da parte di madre. Al singolare cugino è maschile e cugina femminile; il plurale cugini può comprendere sia maschi sia un gruppo misto. Con il possessivo singolare si omette normalmente l’articolo: mio cugino. L’inglese cousin non distingue il genere, mentre l’italiano lo indica nella forma della parola."
+  },
+
+  "etymology": {
+    "ja": "ラテン語consobrīnus「母方のいとこ」に由来する。古典ラテン語では親族関係に応じて複数の語を使い分けていたが、後にこの語の意味が一般化して、父方・母方を問わない「いとこ」を表すようになった。フランス語cousinも同じラテン語に由来し、英語cousinはフランス語から借用された。",
+    "it": "Deriva dal latino consobrīnus, che indicava propriamente un cugino dal lato materno. Il latino distingueva diversi tipi di parentela con termini specifici, ma il significato si è successivamente generalizzato. Anche il francese cousin deriva dalla stessa parola latina; l’inglese cousin è stato preso dal francese."
+  },
+
+  "minimal": [
+    {
+      "word": "cugino",
+      "ja": "父母の兄弟姉妹の男性の子、男性のいとこ",
+      "it": "figlio di uno zio o di una zia"
+    },
+    {
+      "word": "cugina",
+      "ja": "父母の兄弟姉妹の女性の子、女性のいとこ",
+      "it": "figlia di uno zio o di una zia"
+    },
+    {
+      "word": "fratello",
+      "ja": "同じ親の一方または両方を持つ男性のきょうだい",
+      "it": "persona di sesso maschile che condivide uno o entrambi i genitori"
+    },
+    {
+      "word": "nipote",
+      "ja": "孫、または甥・姪",
+      "it": "figlio dei propri figli oppure dei propri fratelli e sorelle"
+    },
+    {
+      "word": "parente",
+      "ja": "血縁・婚姻・養子縁組などによって結ばれた親戚",
+      "it": "persona legata da sangue, matrimonio o altro rapporto familiare"
+    }
+  ],
+
+  "synonyms": [
+    "parente",
+    "consanguineo",
+    "familiare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "male cousin",
+      "cousin"
+    ],
+    "de": [
+      "Cousin",
+      "Vetter"
+    ],
+    "fr": [
+      "cousin"
+    ],
+    "es": [
+      "primo"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mio cugino",
+      "ja": "私の男性のいとこ"
+    },
+    {
+      "it": "cugino da parte di padre",
+      "ja": "父方の男性のいとこ"
+    },
+    {
+      "it": "cugino da parte di madre",
+      "ja": "母方の男性のいとこ"
+    },
+    {
+      "it": "cugino di primo grado",
+      "ja": "親同士が兄弟姉妹であるいとこ"
+    },
+    {
+      "it": "cugino lontano",
+      "ja": "遠縁の男性のいとこ"
+    },
+    {
+      "it": "cugino acquisito",
+      "ja": "婚姻によって生じたいとこ"
+    },
+    {
+      "it": "essere cugino di qualcuno",
+      "ja": "誰かのいとこである"
+    },
+    {
+      "it": "crescere insieme al cugino",
+      "ja": "いとこと一緒に育つ"
+    },
+    {
+      "it": "andare dal cugino",
+      "ja": "いとこの家・もとへ行く"
+    },
+    {
+      "it": "riunione tra cugini",
+      "ja": "いとこ同士の集まり"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Marco è mio cugino, il figlio della sorella di mia madre.",
+      "ja": "マルコは私のいとこで、母の姉妹の息子です。"
+    },
+    {
+      "it": "Mio cugino da parte di padre vive a Bologna.",
+      "ja": "父方のいとこはボローニャに住んでいます。"
+    },
+    {
+      "it": "Da bambini io e mio cugino giocavamo sempre insieme.",
+      "ja": "子供のころ、私といとこはいつも一緒に遊んでいました。"
+    },
+    {
+      "it": "Ho tre cugini e due cugine.",
+      "ja": "私には男性のいとこが三人、女性のいとこが二人います。"
+    },
+    {
+      "it": "Al matrimonio ho incontrato un cugino che non vedevo da anni.",
+      "ja": "結婚式で、何年も会っていなかったいとこに会いました。"
+    },
+    {
+      "it": "È un cugino lontano della famiglia di mia madre.",
+      "ja": "彼は母方の遠縁のいとこです。"
+    },
+    {
+      "it": "L’italiano può essere considerato un cugino linguistico dello spagnolo.",
+      "ja": "イタリア語はスペイン語の言語上の親戚とみなすことができます。"
+    }
+  ]
+},
+  {
+  "id": "cugina",
+  "sid": "2026-00423",
+  "word": "cugina",
+  "ipa": "/kuˈdʒina/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "cugine",
+    "masculine": "cugino",
+    "masculinePlural": "cugini",
+    "pattern": "la cugina / le cugine / essere cugina di + persona / avere una cugina / mia cugina / cugina da parte di + familiare"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "genealogy",
+      "identity",
+      "law"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "父母の兄弟姉妹の女性の子、いとこ",
+      "共通の祖先を持つ、同世代または近い世代の女性親族",
+      "婚姻を通じて、いとこに当たる関係になった女性",
+      "遠い血縁関係にある女性親族",
+      "比喩的に、共通の起源やよく似た性質を持つ女性・物・概念"
+    ],
+    "it": [
+      "Figlia di un fratello o di una sorella di uno dei propri genitori.",
+      "Parente femmina di generazione uguale o vicina con la quale si condivide un antenato.",
+      "Donna diventata cugina attraverso un matrimonio.",
+      "Parente femmina legata da una parentela più lontana.",
+      "In senso figurato, persona, entità o concetto che condivide con un altro origine o caratteristiche."
+    ]
+  },
+
+  "nuance": {
+    "ja": "cuginaは通常、父母の兄弟姉妹の娘を表す。父方・母方を区別する場合はcugina da parte di padre、cugina da parte di madreと言う。女性だけの複数形はcugineで、男女が混在する場合は通常cuginiを用いる。所有形容詞を伴う単数の親族名では通常定冠詞を省き、mia cuginaと言う。英語cousinは性別を区別しないが、イタリア語ではcuginoとcuginaを使い分ける。",
+    "it": "Cugina indica normalmente la figlia di uno zio o di una zia. Per distinguere il ramo familiare si dice cugina da parte di padre o da parte di madre. Il plurale femminile è cugine; per un gruppo misto si usa normalmente cugini. Con il possessivo singolare si omette normalmente l’articolo: mia cugina. L’inglese cousin non distingue il genere, mentre l’italiano usa cugino e cugina."
+  },
+
+  "etymology": {
+    "ja": "男性形cuginoと同じく、ラテン語consobrīna「母方の女性のいとこ」に由来する。古典ラテン語では親族関係に応じて語を使い分けていたが、後に意味が一般化し、父方・母方を問わない女性のいとこを表すようになった。フランス語cousineも同じラテン語に由来する。",
+    "it": "Come il maschile cugino, deriva dal latino consobrīna, che indicava propriamente una cugina dal lato materno. Il significato si è successivamente generalizzato fino a comprendere le cugine di entrambi i rami familiari. Anche il francese cousine deriva dalla stessa parola latina."
+  },
+
+  "minimal": [
+    {
+      "word": "cugina",
+      "ja": "父母の兄弟姉妹の女性の子、女性のいとこ",
+      "it": "figlia di uno zio o di una zia"
+    },
+    {
+      "word": "cugino",
+      "ja": "父母の兄弟姉妹の男性の子、男性のいとこ",
+      "it": "figlio di uno zio o di una zia"
+    },
+    {
+      "word": "sorella",
+      "ja": "同じ親の一方または両方を持つ女性のきょうだい",
+      "it": "persona di sesso femminile che condivide uno o entrambi i genitori"
+    },
+    {
+      "word": "nipote",
+      "ja": "孫、または甥・姪",
+      "it": "figlio dei propri figli oppure dei propri fratelli e sorelle"
+    },
+    {
+      "word": "parente",
+      "ja": "血縁・婚姻・養子縁組などによって結ばれた親戚",
+      "it": "persona legata da sangue, matrimonio o altro rapporto familiare"
+    }
+  ],
+
+  "synonyms": [
+    "parente",
+    "consanguinea",
+    "familiare"
+  ],
+
+  "equivalents": {
+    "en": [
+      "female cousin",
+      "cousin"
+    ],
+    "de": [
+      "Cousine",
+      "Base"
+    ],
+    "fr": [
+      "cousine"
+    ],
+    "es": [
+      "prima"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mia cugina",
+      "ja": "私の女性のいとこ"
+    },
+    {
+      "it": "cugina da parte di padre",
+      "ja": "父方の女性のいとこ"
+    },
+    {
+      "it": "cugina da parte di madre",
+      "ja": "母方の女性のいとこ"
+    },
+    {
+      "it": "cugina di primo grado",
+      "ja": "親同士が兄弟姉妹であるいとこ"
+    },
+    {
+      "it": "cugina lontana",
+      "ja": "遠縁の女性のいとこ"
+    },
+    {
+      "it": "cugina acquisita",
+      "ja": "婚姻によって生じたいとこ"
+    },
+    {
+      "it": "essere cugina di qualcuno",
+      "ja": "誰かのいとこである"
+    },
+    {
+      "it": "crescere insieme alla cugina",
+      "ja": "いとこと一緒に育つ"
+    },
+    {
+      "it": "andare dalla cugina",
+      "ja": "いとこの家・もとへ行く"
+    },
+    {
+      "it": "riunione tra cugine",
+      "ja": "女性のいとこ同士の集まり"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Laura è mia cugina, la figlia del fratello di mio padre.",
+      "ja": "ラウラは私のいとこで、父の兄弟の娘です。"
+    },
+    {
+      "it": "Mia cugina da parte di madre vive a Roma.",
+      "ja": "母方のいとこはローマに住んでいます。"
+    },
+    {
+      "it": "Da bambine io e mia cugina trascorrevamo insieme tutte le estati.",
+      "ja": "子供のころ、私といとこは毎年夏を一緒に過ごしていました。"
+    },
+    {
+      "it": "Le mie cugine studiano nella stessa università.",
+      "ja": "私の女性のいとこたちは同じ大学で学んでいます。"
+    },
+    {
+      "it": "Alla riunione di famiglia ho conosciuto una cugina lontana.",
+      "ja": "親族の集まりで、遠縁のいとこと知り合いました。"
+    },
+    {
+      "it": "Mia cugina è quasi della mia stessa età.",
+      "ja": "私のいとこは私とほぼ同い年です。"
+    },
+    {
+      "it": "Per me non è soltanto una cugina, ma anche una grande amica.",
+      "ja": "彼女は私にとって単なるいとこではなく、親友でもあります。"
+    }
+  ]
+},
+{
+  "id": "famiglia",
+  "sid": "2026-00424",
+  "word": "famiglia",
+  "ipa": "/faˈmiʎʎa/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "famiglie",
+    "pattern": "la famiglia / le famiglie / avere o formare una famiglia / vivere in famiglia / famiglia di + persona, animali, piante o parole"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "relationships",
+      "home",
+      "society",
+      "law",
+      "biology",
+      "linguistics"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "親子・夫婦・きょうだいなど、血縁・婚姻・養子関係によって結ばれた人々、家族",
+      "同じ家で生活する家族または世帯",
+      "祖先を共有する一族・家系",
+      "親しい人々を家族になぞらえた共同体・集団",
+      "生物分類において、複数の属をまとめる階級、科",
+      "共通の起源や特徴を持つ言語・単語・物などのまとまり",
+      "犯罪組織、特にマフィアを構成する一団"
+    ],
+    "it": [
+      "Insieme di persone unite da rapporti di parentela, matrimonio, adozione o legami affettivi stabili.",
+      "Nucleo di persone che vive nella stessa abitazione e condivide la vita quotidiana.",
+      "Insieme dei discendenti di una stessa stirpe o casata.",
+      "Gruppo o comunità i cui membri sono uniti da una forte solidarietà reciproca.",
+      "In biologia, categoria tassonomica che comprende uno o più generi affini.",
+      "Insieme di lingue, parole, oggetti o fenomeni che condividono un’origine o determinate caratteristiche.",
+      "Gruppo appartenente a un’organizzazione criminale, in particolare mafiosa."
+    ]
+  },
+
+  "nuance": {
+    "ja": "famigliaは、親・子・配偶者などから成る家族全体を表す最も一般的な語である。parentiは親戚全般を指し、必ずしも同居しているとは限らない。家庭生活を強調する場合はvita familiare、同じ住居と家計を共有する単位を行政・統計的に述べる場合はnucleo familiareがよく使われる。essere di famigliaは「家族同然である」、mettere su famigliaは「結婚などをして家庭を築く」を意味する。famigliaは生物学の「科」や、famiglia di parole「語族・同語源語のまとまり」のような分類にも使われる。",
+    "it": "Famiglia è il termine generale per il gruppo formato da genitori, figli, coniugi e altre persone unite da parentela, adozione o legami affettivi. Parenti indica invece i singoli parenti o il loro insieme, anche quando non vivono nella stessa casa. Nucleo familiare è frequente nel linguaggio amministrativo e statistico per le persone che formano un’unità domestica. Essere di famiglia significa essere trattato con grande familiarità; mettere su famiglia significa creare un proprio nucleo familiare. Il termine si usa inoltre nelle classificazioni biologiche, linguistiche e tecniche."
+  },
+
+  "etymology": {
+    "ja": "ラテン語familiaに由来する。古代ローマでは、同じ家の主人に属する使用人や奴隷を含め、家に属する人々全体を表した。その後、意味が血縁・婚姻によって結ばれた人々を中心とするものへ変化した。ラテン語famulus「召使い」と同じ語族に属する。英語family、フランス語famille、スペイン語familiaも同じラテン語から派生した。",
+    "it": "Deriva dal latino familia, che nell’antica Roma indicava l’insieme delle persone appartenenti a una casa, compresi originariamente servi e schiavi sottoposti al capofamiglia. In seguito il significato si concentrò sui rapporti di parentela e di matrimonio. La parola appartiene alla stessa famiglia di famulus, «servo». Dalla forma latina derivano anche l’inglese family, il francese famille e lo spagnolo familia."
+  },
+
+  "minimal": [
+    {
+      "word": "famiglia",
+      "ja": "親子・夫婦など、血縁・婚姻・養子関係や安定した結び付きによって構成される集団",
+      "it": "insieme di persone unite da parentela, matrimonio, adozione o stretti legami affettivi"
+    },
+    {
+      "word": "parente",
+      "ja": "血縁または婚姻によって自分とつながりのある個人",
+      "it": "persona legata a un’altra da un rapporto di parentela o affinità"
+    },
+    {
+      "word": "nucleo familiare",
+      "ja": "同じ住居・家計・生活を共有する家族の単位",
+      "it": "insieme di persone che costituisce un’unità domestica, soprattutto in ambito amministrativo"
+    },
+    {
+      "word": "casata",
+      "ja": "歴史的・社会的に知られた一族や家系",
+      "it": "famiglia considerata nella sua continuità genealogica, spesso nobile o storicamente importante"
+    },
+    {
+      "word": "parentela",
+      "ja": "血縁・婚姻などによって人々の間に成立する親族関係",
+      "it": "rapporto che unisce persone legate da discendenza, matrimonio o adozione"
+    }
+  ],
+
+  "synonyms": [
+    "nucleo familiare",
+    "parentela",
+    "casata",
+    "stirpe",
+    "casa",
+    "clan"
+  ],
+
+  "equivalents": {
+    "en": [
+      "family",
+      "household",
+      "lineage"
+    ],
+    "de": [
+      "Familie",
+      "Haushalt",
+      "Geschlecht"
+    ],
+    "fr": [
+      "famille",
+      "foyer",
+      "lignée"
+    ],
+    "es": [
+      "familia",
+      "hogar",
+      "linaje"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "la mia famiglia",
+      "ja": "私の家族"
+    },
+    {
+      "it": "una famiglia numerosa",
+      "ja": "人数の多い家族・大家族"
+    },
+    {
+      "it": "una famiglia unita",
+      "ja": "仲の良い結束した家族"
+    },
+    {
+      "it": "vivere in famiglia",
+      "ja": "家族と暮らす"
+    },
+    {
+      "it": "passare del tempo con la famiglia",
+      "ja": "家族と時間を過ごす"
+    },
+    {
+      "it": "avere una famiglia",
+      "ja": "家族がいる・家庭を持っている"
+    },
+    {
+      "it": "formare una famiglia",
+      "ja": "家庭を築く"
+    },
+    {
+      "it": "mettere su famiglia",
+      "ja": "結婚などをして家庭を築く"
+    },
+    {
+      "it": "membro della famiglia",
+      "ja": "家族の一員"
+    },
+    {
+      "it": "nucleo familiare",
+      "ja": "家族世帯・家族単位"
+    },
+    {
+      "it": "essere di famiglia",
+      "ja": "家族同然である・内輪の人である"
+    },
+    {
+      "it": "famiglia di parole",
+      "ja": "同じ語源を持つ単語のまとまり"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "La mia famiglia vive a Bologna.",
+      "ja": "私の家族はボローニャに住んでいます。"
+    },
+    {
+      "it": "Ogni domenica pranziamo con tutta la famiglia.",
+      "ja": "毎週日曜日に家族全員で昼食を取ります。"
+    },
+    {
+      "it": "Marco proviene da una famiglia numerosa.",
+      "ja": "マルコは大家族の出身です。"
+    },
+    {
+      "it": "Vorrebbero sposarsi e mettere su famiglia.",
+      "ja": "二人は結婚して家庭を築きたいと思っています。"
+    },
+    {
+      "it": "Dopo tanti anni, ormai sei uno di famiglia.",
+      "ja": "長年の付き合いなので、あなたはもう家族同然です。"
+    },
+    {
+      "it": "La famiglia svolge un ruolo importante nella società.",
+      "ja": "家族は社会において重要な役割を果たします。"
+    },
+    {
+      "it": "Il leone appartiene alla famiglia dei felidi.",
+      "ja": "ライオンはネコ科に属します。"
+    },
+    {
+      "it": "Italiano, francese e spagnolo appartengono alla famiglia delle lingue romanze.",
+      "ja": "イタリア語、フランス語、スペイン語はロマンス語族に属します。"
     }
   ]
 }  
