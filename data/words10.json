@@ -1077,5 +1077,449 @@
       "ja": "彼は責任者に対して強い畏怖の念を抱いていました。"
     }
   ]
+},
+{
+  "id": "mente",
+  "sid": "2026-00391",
+  "word": "mente",
+  "ipa": "/ˈmente/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "menti",
+    "pattern": "la mente / le menti / avere o tenere qualcosa in mente / venire in mente a + persona / mettersi in mente di + infinito / mente + aggettivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "figurative",
+      "psychological"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "thought",
+      "memory",
+      "education",
+      "work",
+      "psychology",
+      "creativity"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "思考・理解・判断・想像などを行う精神の働き、心・知性",
+      "考え・記憶・印象などが存在する意識の領域",
+      "物事を理解し、問題を解決する知的能力",
+      "ある人物の考え方・精神状態・内面的世界",
+      "計画・意図・目的を考え出す能力またはその主体",
+      "優れた知性や創造力を持つ人物",
+      "記憶や注意を向けて何かを忘れないようにする働き",
+      "精神的な正常さ・正気"
+    ],
+    "it": [
+      "Facoltà psichica con cui si pensa, comprende, giudica e immagina.",
+      "Spazio interiore nel quale sono presenti pensieri, ricordi e impressioni.",
+      "Capacità intellettuale di comprendere e risolvere problemi.",
+      "Modo di pensare, stato mentale o mondo interiore di una persona.",
+      "Facoltà che elabora un piano, un’intenzione o un progetto.",
+      "Persona dotata di particolare intelligenza o creatività.",
+      "Facoltà che permette di ricordare e mantenere l’attenzione su qualcosa.",
+      "Equilibrio mentale e capacità di ragionare normalmente."
+    ]
+  },
+
+  "nuance": {
+    "ja": "menteは思考・理解・記憶・想像などを行う精神機能を表す。cervelloは本来、身体器官としての「脳」だが、口語では知能や考える人を比喩的に表すこともある。cuoreは主に愛情や感情、animoは気分・精神状態・人柄に重点を置く。avere qualcosa in menteは「何かを考えている」、tenere a menteは「覚えておく」、venire in menteは「思い浮かぶ」を意味する。日本語の「心」は感情と知性の両方を含み得るため、文脈に応じてmente、cuore、animoを使い分ける必要がある。",
+    "it": "Mente indica soprattutto le facoltà del pensiero, della comprensione, della memoria e dell’immaginazione. Cervello designa propriamente l’organo fisico, ma nel parlato può riferirsi anche all’intelligenza o alla persona che dirige un progetto. Cuore rappresenta soprattutto i sentimenti; animo mette in rilievo la disposizione emotiva e morale. Avere qualcosa in mente significa pensarla o progettarla; tenere a mente significa ricordarla; venire in mente significa comparire spontaneamente nel pensiero."
+  },
+
+  "etymology": {
+    "ja": "ラテン語mens、属格mentis「心、知性、思考」に由来し、インド・ヨーロッパ祖語の「考える」を表す語根にさかのぼる。英語mind、サンスクリット語manas「心・精神」と遠い同系関係にある。同じラテン語族にはmentale、demente、commentare、rammentareなどがある。イタリア語の副詞を作る接尾辞-menteも同じmensに由来し、もともとはchiara mente「明瞭な心で」のような表現だった。",
+    "it": "Deriva dal latino mens, genitivo mentis, «mente, intelletto, pensiero», risalente a una radice indoeuropea con il significato di «pensare». Sono lontanamente affini l’inglese mind e il sanscrito manas. Alla famiglia latina appartengono mentale, demente, commentare e rammentare. Anche il suffisso avverbiale -mente deriva da mens: espressioni come clara mente, originariamente «con mente chiara», finirono per formare avverbi come chiaramente."
+  },
+
+  "minimal": [
+    {
+      "word": "mente",
+      "ja": "思考・理解・記憶・想像を担う精神の働き",
+      "it": "insieme delle facoltà con cui si pensa, comprende, ricorda e immagina"
+    },
+    {
+      "word": "cervello",
+      "ja": "頭蓋骨内にある身体器官としての脳、または比喩的に知能",
+      "it": "organo fisico contenuto nel cranio oppure, figuratamente, intelligenza"
+    },
+    {
+      "word": "cuore",
+      "ja": "心臓、または愛情・感情・人間性を象徴する心",
+      "it": "organo cardiaco oppure sede simbolica dei sentimenti"
+    },
+    {
+      "word": "animo",
+      "ja": "人の気分・感情・精神状態・内面的な性質",
+      "it": "disposizione emotiva, stato interiore e qualità morale di una persona"
+    },
+    {
+      "word": "memoria",
+      "ja": "経験・情報・出来事を保持し、後から思い出す能力",
+      "it": "facoltà di conservare e richiamare esperienze e informazioni"
+    }
+  ],
+
+  "synonyms": [
+    "intelletto",
+    "pensiero",
+    "intelligenza",
+    "psiche",
+    "ingegno",
+    "cervello"
+  ],
+
+  "equivalents": {
+    "en": [
+      "mind",
+      "intellect",
+      "mental faculty"
+    ],
+    "de": [
+      "Geist",
+      "Verstand",
+      "Sinn"
+    ],
+    "fr": [
+      "esprit",
+      "intellect",
+      "pensée"
+    ],
+    "es": [
+      "mente",
+      "intelecto",
+      "pensamiento"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "avere qualcosa in mente",
+      "ja": "何かを考えている"
+    },
+    {
+      "it": "tenere qualcosa a mente",
+      "ja": "何かを覚えておく"
+    },
+    {
+      "it": "venire in mente",
+      "ja": "思い浮かぶ"
+    },
+    {
+      "it": "passare per la mente",
+      "ja": "頭をよぎる"
+    },
+    {
+      "it": "mettersi in mente di fare qualcosa",
+      "ja": "何かをしようと固く思い込む"
+    },
+    {
+      "it": "cambiare mente",
+      "ja": "考えを変える"
+    },
+    {
+      "it": "aprire la mente",
+      "ja": "視野・考え方を広げる"
+    },
+    {
+      "it": "liberare la mente",
+      "ja": "頭を空にして気持ちを楽にする"
+    },
+    {
+      "it": "una mente brillante",
+      "ja": "優れた頭脳を持つ人"
+    },
+    {
+      "it": "una mente aperta",
+      "ja": "柔軟で偏見のない考え方"
+    },
+    {
+      "it": "la mente umana",
+      "ja": "人間の精神・知性"
+    },
+    {
+      "it": "essere fuori di mente",
+      "ja": "正気ではない・常軌を逸している"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Hai già in mente un posto dove andare in vacanza?",
+      "ja": "休暇で行きたい場所をもう考えていますか。"
+    },
+    {
+      "it": "Tieni a mente che domani l’ufficio chiuderà prima.",
+      "ja": "明日は事務所が早く閉まることを覚えておいてください。"
+    },
+    {
+      "it": "Mi è venuta in mente una possibile soluzione.",
+      "ja": "一つの解決策が思い浮かびました。"
+    },
+    {
+      "it": "Per un attimo mi è passato per la mente di rinunciare.",
+      "ja": "一瞬、諦めようという考えが頭をよぎりました。"
+    },
+    {
+      "it": "Viaggiare e conoscere altre culture aiuta ad aprire la mente.",
+      "ja": "旅行して異文化を知ることは、視野を広げる助けになります。"
+    },
+    {
+      "it": "Prima dell’esame cerco di rilassarmi e liberare la mente.",
+      "ja": "試験前には、リラックスして頭を空にするようにしています。"
+    },
+    {
+      "it": "Era una delle menti più brillanti della sua generazione.",
+      "ja": "彼女は同世代で最も優れた知性の持ち主の一人でした。"
+    },
+    {
+      "it": "Sei fuori di mente se pensi di attraversare il fiume con questa tempesta.",
+      "ja": "この嵐の中で川を渡ろうと思っているなら、正気ではありません。"
+    }
+  ]
+},
+{
+  "id": "animo",
+  "sid": "2026-00392",
+  "word": "animo",
+  "ipa": "/ˈanimo/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "animi",
+    "pattern": "stato d’animo / animo + aggettivo / con animo + aggettivo / perdere, farsi o sollevare l’animo / nell’animo di + persona"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "literary",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "emotions",
+      "personality",
+      "relationships",
+      "encouragement",
+      "literature",
+      "law"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "ある時点での人の気分・感情・精神状態",
+      "人の内面・心情・感情が宿ると考えられる心",
+      "人柄を形作る精神的・道徳的な性質",
+      "困難や危険に立ち向かう勇気・気力",
+      "落胆せずに行動を続ける意欲",
+      "人が行動するときに抱く意図・目的・心構え",
+      "複数形animiで、集団内の人々の感情・気持ち・雰囲気",
+      "感嘆表現Animo!で、元気を出すよう促す励まし"
+    ],
+    "it": [
+      "Condizione emotiva o psicologica di una persona in un determinato momento.",
+      "Interiorità considerata come sede dei sentimenti e delle emozioni.",
+      "Insieme delle qualità morali e caratteriali di una persona.",
+      "Coraggio e forza interiore necessari per affrontare difficoltà o pericoli.",
+      "Energia e volontà che permettono di continuare ad agire senza scoraggiarsi.",
+      "Intenzione, disposizione o atteggiamento con cui viene compiuta un’azione.",
+      "Al plurale, sentimenti e disposizioni delle persone appartenenti a un gruppo.",
+      "Nell’esclamazione Animo!, invito a riprendere coraggio e ad agire."
+    ]
+  },
+
+  "nuance": {
+    "ja": "animoは、人の気分・感情・勇気・人柄など、変化し得る精神的・感情的な内面に重点を置く。menteは思考・理解・記憶などの知的機能、cuoreは愛情や思いやり、animaは生命を与える魂または宗教的・哲学的な霊魂を表す。stato d’animoは一時的な「気分・心理状態」、avere un animo gentileは比較的持続的な「優しい心・人柄」を意味する。perdersi d’animoは「気落ちする」、farsi animoは「勇気を奮い起こす」となる。",
+    "it": "Animo mette in rilievo l’interiorità emotiva e morale, comprendendo l’umore, il coraggio, la disposizione e il carattere. Mente riguarda soprattutto il pensiero e le facoltà intellettuali; cuore rappresenta in particolare l’amore e i sentimenti; anima indica il principio vitale o spirituale. Stato d’animo descrive una condizione emotiva temporanea, mentre avere un animo gentile indica una qualità più stabile del carattere. Perdersi d’animo significa scoraggiarsi; farsi animo significa trovare o recuperare coraggio."
+  },
+
+  "etymology": {
+    "ja": "ラテン語animus「精神、心、勇気、意図」に由来する。animusは、生命・呼吸・魂を表すラテン語animaと同じ語族に属し、さらに「息をする」という観念に関係する古いインド・ヨーロッパ語根にさかのぼると考えられる。古代から、身体に生命と意志を与える内的な力という意味を持っていた。同じ語族にはanimare、animato、coraggiosoの意味を持つmagnanimo、unanimeなどがある。",
+    "it": "Deriva dal latino animus, «spirito, disposizione, coraggio, intenzione», appartenente alla stessa famiglia di anima, originariamente collegata all’idea del respiro e del principio vitale. Già in latino animus indicava soprattutto l’interiorità cosciente, la volontà e il carattere. Alla stessa famiglia appartengono animare, animato, magnanimo e unanime."
+  },
+
+  "minimal": [
+    {
+      "word": "animo",
+      "ja": "人の気分・感情・勇気・人柄を含む精神的な内面",
+      "it": "interiorità emotiva e morale comprendente umore, carattere e coraggio"
+    },
+    {
+      "word": "anima",
+      "ja": "生命を与える魂、または宗教的・哲学的な霊魂",
+      "it": "principio vitale o spirituale di una persona o di un essere vivente"
+    },
+    {
+      "word": "mente",
+      "ja": "思考・理解・記憶・想像などを担う知的な働き",
+      "it": "insieme delle facoltà relative al pensiero, alla comprensione e alla memoria"
+    },
+    {
+      "word": "cuore",
+      "ja": "心臓、または愛情・感情・思いやりを象徴する心",
+      "it": "organo cardiaco oppure sede simbolica dell’amore e dei sentimenti"
+    },
+    {
+      "word": "umore",
+      "ja": "その時々に変化する機嫌・気分",
+      "it": "disposizione emotiva temporanea, positiva o negativa"
+    }
+  ],
+
+  "synonyms": [
+    "spirito",
+    "interiorità",
+    "indole",
+    "umore",
+    "coraggio",
+    "intenzione"
+  ],
+
+  "equivalents": {
+    "en": [
+      "spirit",
+      "state of mind",
+      "mood",
+      "courage"
+    ],
+    "de": [
+      "Gemüt",
+      "Stimmung",
+      "Geist",
+      "Mut"
+    ],
+    "fr": [
+      "esprit",
+      "état d’âme",
+      "disposition",
+      "courage"
+    ],
+    "es": [
+      "ánimo",
+      "estado de ánimo",
+      "espíritu",
+      "valor"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "stato d’animo",
+      "ja": "心理状態・気分"
+    },
+    {
+      "it": "essere di buon animo",
+      "ja": "前向きで元気な気持ちでいる"
+    },
+    {
+      "it": "avere un animo gentile",
+      "ja": "優しい心を持っている"
+    },
+    {
+      "it": "avere un animo nobile",
+      "ja": "気高い人格を持っている"
+    },
+    {
+      "it": "con animo sereno",
+      "ja": "穏やかな気持ちで"
+    },
+    {
+      "it": "con animo sincero",
+      "ja": "誠実な気持ちで"
+    },
+    {
+      "it": "perdersi d’animo",
+      "ja": "気落ちする・くじける"
+    },
+    {
+      "it": "non perdersi d’animo",
+      "ja": "くじけない"
+    },
+    {
+      "it": "farsi animo",
+      "ja": "勇気を奮い起こす"
+    },
+    {
+      "it": "sollevare l’animo",
+      "ja": "気持ちを明るくする"
+    },
+    {
+      "it": "placare gli animi",
+      "ja": "人々の興奮・怒りを鎮める"
+    },
+    {
+      "it": "Animo!",
+      "ja": "元気を出して・さあ頑張って"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Dopo la buona notizia il suo stato d’animo è completamente cambiato.",
+      "ja": "よい知らせを受けて、彼女の気分はすっかり変わりました。"
+    },
+    {
+      "it": "È una persona di animo gentile e generoso.",
+      "ja": "彼は優しく寛大な心を持った人です。"
+    },
+    {
+      "it": "Non perderti d’animo: puoi ancora superare l’esame.",
+      "ja": "くじけないでください。まだ試験に合格できます。"
+    },
+    {
+      "it": "Si fece animo ed entrò nella stanza per affrontare il direttore.",
+      "ja": "彼女は勇気を奮い起こし、責任者と向き合うために部屋へ入りました。"
+    },
+    {
+      "it": "La musica riuscì a sollevare l’animo di tutti.",
+      "ja": "その音楽は皆の気持ちを明るくしました。"
+    },
+    {
+      "it": "Ha accettato la decisione con animo sereno.",
+      "ja": "彼は穏やかな気持ちでその決定を受け入れました。"
+    },
+    {
+      "it": "Il presidente cercò di placare gli animi dopo l’accesa discussione.",
+      "ja": "激しい議論の後、議長は人々の興奮を鎮めようとしました。"
+    },
+    {
+      "it": "Animo, manca soltanto un chilometro alla fine del percorso!",
+      "ja": "頑張って、ゴールまであと1キロだけです。"
+    }
+  ]
 }  
 ]
