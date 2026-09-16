@@ -1,5 +1,222 @@
 [
 {
+  "id": "necessita",
+  "sid": "2026-00306",
+  "word": "necessità",
+  "ipa": "/netʃessiˈta/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞・不変化名詞",
+      "it": "sostantivo femminile invariabile"
+    },
+    "gender": "feminine",
+    "plural": "necessità",
+    "invariable": true,
+    "pattern": "avere necessità di + nome o infinito / esserci la necessità di + infinito / esserci la necessità che + congiuntivo / in caso di necessità / per necessità"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "daily_life",
+      "business",
+      "administration",
+      "law",
+      "health",
+      "emergency"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "ある目的を達成するために欠かせないこと、必要性",
+      "避けることができず、実行または対応しなければならない事情",
+      "生活・健康・仕事などにおいて必要とされるもの",
+      "困窮・不足などによって助けを必要としている状態",
+      "緊急時や問題が生じた場合に必要となる援助・対応",
+      "per necessitàの形で、自由な選択ではなく必要に迫られて",
+      "di prima necessitàの形で、生活に不可欠な基本的な"
+    ],
+    "it": [
+      "Condizione per cui qualcosa è indispensabile al raggiungimento di uno scopo.",
+      "Circostanza inevitabile che obbliga ad agire o a prendere un provvedimento.",
+      "Cosa richiesta per la vita, la salute, il lavoro o un’altra attività.",
+      "Condizione di bisogno materiale, economico o personale.",
+      "Bisogno di assistenza o di intervento in una situazione problematica o urgente.",
+      "Nella locuzione per necessità, a causa di un bisogno e non per libera scelta.",
+      "Nella locuzione di prima necessità, indispensabile per soddisfare i bisogni fondamentali."
+    ]
+  },
+
+  "nuance": {
+    "ja": "necessitàは、何かが客観的・論理的・実際的に不可欠であることを表し、bisognoより改まった響きを持つことがある。Ho bisogno di riposareは日常的な「休む必要がある」だが、C’è la necessità di intervenireは状況上、介入が必要不可欠であることを強調する。esigenzaは個人・組織・状況が満たすことを求める具体的な要求や要請に重点を置く。necessitàの複数形も同形で、le necessità dei clienti「顧客のさまざまなニーズ」のように冠詞などによって単複を区別する。",
+    "it": "Necessità indica che qualcosa è indispensabile per ragioni oggettive, logiche o pratiche e può avere un tono più formale di bisogno. Ho bisogno di riposare esprime una necessità personale in modo quotidiano; c’è la necessità di intervenire sottolinea invece che la situazione rende indispensabile un’azione. Esigenza mette maggiormente in rilievo una richiesta concreta che deve essere soddisfatta. Il sostantivo è invariabile: la necessità al singolare e le necessità al plurale."
+  },
+
+  "etymology": {
+    "ja": "ラテン語necessĭtas、属格necessitātis「必然性、不可避、必要」に由来する。これは形容詞necesse「避けられない、必要な」と同じ語族に属する。その構成については諸説あるが、否定を表すne-と、退く・譲るという概念に関係する要素から「退くことのできないもの」という意味が生じたと説明される。同じ語族にはnecessario、necessitare、英語necessity、フランス語nécessité、スペイン語necesidadがある。",
+    "it": "Deriva dal latino necessĭtas, genitivo necessitātis, «inevitabilità, bisogno, necessità», appartenente alla famiglia di necesse, «inevitabile, necessario». La formazione più antica è discussa, ma viene tradizionalmente interpretata come ciò davanti a cui non è possibile ritirarsi o cedere. Alla stessa famiglia appartengono necessario e necessitare, oltre all’inglese necessity, al francese nécessité e allo spagnolo necesidad."
+  },
+
+  "minimal": [
+    {
+      "word": "necessità",
+      "ja": "状況・目的・義務などから、何かが不可欠であること",
+      "it": "condizione per cui qualcosa risulta indispensabile o inevitabile"
+    },
+    {
+      "word": "bisogno",
+      "ja": "人が必要と感じるものや、不足を満たそうとする要求",
+      "it": "mancanza o esigenza percepita da una persona che richiede soddisfazione"
+    },
+    {
+      "word": "esigenza",
+      "ja": "個人・組織・状況が満たすことを求める具体的な要請",
+      "it": "richiesta concreta derivante da una persona, un’attività o una situazione"
+    },
+    {
+      "word": "obbligo",
+      "ja": "法律・規則・契約・道徳などによって行動を要求されること",
+      "it": "dovere imposto da una legge, una regola, un contratto o un principio morale"
+    },
+    {
+      "word": "urgenza",
+      "ja": "対応を遅らせることができず、直ちに行動する必要がある状態",
+      "it": "condizione che richiede un intervento immediato e non rinviabile"
+    }
+  ],
+
+  "synonyms": [
+    "bisogno",
+    "esigenza",
+    "indispensabilità",
+    "obbligo",
+    "urgenza",
+    "inevitabilità"
+  ],
+
+  "equivalents": {
+    "en": [
+      "necessity",
+      "need",
+      "requirement"
+    ],
+    "de": [
+      "Notwendigkeit",
+      "Bedarf",
+      "Bedürfnis"
+    ],
+    "fr": [
+      "nécessité",
+      "besoin",
+      "exigence"
+    ],
+    "es": [
+      "necesidad",
+      "requisito",
+      "exigencia"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "avere necessità di qualcosa",
+      "ja": "何かを必要としている"
+    },
+    {
+      "it": "avere necessità di fare qualcosa",
+      "ja": "何かをする必要がある"
+    },
+    {
+      "it": "esserci la necessità di intervenire",
+      "ja": "介入する必要がある"
+    },
+    {
+      "it": "in caso di necessità",
+      "ja": "必要な場合には・いざというときには"
+    },
+    {
+      "it": "in caso di estrema necessità",
+      "ja": "やむを得ない緊急の場合には"
+    },
+    {
+      "it": "per necessità",
+      "ja": "必要に迫られて"
+    },
+    {
+      "it": "senza necessità",
+      "ja": "必要もなく"
+    },
+    {
+      "it": "una necessità urgente",
+      "ja": "差し迫った必要"
+    },
+    {
+      "it": "una necessità assoluta",
+      "ja": "絶対的な必要"
+    },
+    {
+      "it": "beni di prima necessità",
+      "ja": "生活必需品"
+    },
+    {
+      "it": "soddisfare una necessità",
+      "ja": "必要を満たす"
+    },
+    {
+      "it": "adattarsi alle necessità",
+      "ja": "必要性・ニーズに適応する"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Ho necessità di parlare con il responsabile.",
+      "ja": "責任者と話す必要があります。"
+    },
+    {
+      "it": "C’è la necessità di modificare il programma.",
+      "ja": "計画を変更する必要があります。"
+    },
+    {
+      "it": "È necessario che il sistema venga aggiornato, ma non c’è necessità che il lavoro sia interrotto.",
+      "ja": "システムを更新する必要はありますが、作業を中断する必要はありません。"
+    },
+    {
+      "it": "In caso di necessità, chiami questo numero.",
+      "ja": "必要な場合には、この番号へ電話してください。"
+    },
+    {
+      "it": "Si è trasferito in un’altra città per necessità, non per scelta.",
+      "ja": "彼は自分の意思ではなく、必要に迫られて別の町へ移りました。"
+    },
+    {
+      "it": "L’organizzazione distribuisce cibo e altri beni di prima necessità.",
+      "ja": "その団体は食料やその他の生活必需品を配布しています。"
+    },
+    {
+      "it": "Il nuovo servizio è stato progettato per rispondere alle necessità dei clienti.",
+      "ja": "新しいサービスは顧客のニーズに応えるために設計されました。"
+    },
+    {
+      "it": "Non vedo la necessità di prendere una decisione così in fretta.",
+      "ja": "それほど急いで決定する必要があるとは思いません。"
+    }
+  ]
+},  
+{
   "id": "pagamento",
   "sid": "2026-00307",
   "word": "pagamento",
