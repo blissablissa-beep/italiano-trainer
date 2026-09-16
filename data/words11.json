@@ -856,5 +856,1127 @@
       "ja": "アンナは私の女友達であって、彼女ではありません。"
     }
   ]
+},
+{
+  "id": "futuro",
+  "sid": "2026-00454",
+  "word": "futuro",
+  "ipa": "/fuˈturo/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞・形容詞",
+      "it": "sostantivo maschile e aggettivo"
+    },
+    "gender": "masculine",
+    "plural": "futuri",
+    "adjectiveForms": [
+      "futuro",
+      "futura",
+      "futuri",
+      "future"
+    ],
+    "pattern": "il futuro / in futuro / nel prossimo futuro / nome + futuro / futuro semplice / futuro anteriore"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "time",
+      "planning",
+      "work",
+      "education",
+      "grammar",
+      "society",
+      "technology"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "現在より後に来る時間・時代、未来・将来",
+      "今後起こる出来事や展開",
+      "人・組織・社会などの将来の可能性・見通し",
+      "将来の生活・職業・運命",
+      "形容詞として、これから存在・発生・実現する",
+      "将来ある地位・関係になる予定の",
+      "文法において、未来の出来事を表す時制",
+      "推測・仮定を表す未来形の用法"
+    ],
+    "it": [
+      "Tempo successivo al presente.",
+      "Insieme degli avvenimenti che devono ancora verificarsi.",
+      "Prospettiva o possibilità di sviluppo di una persona, un’organizzazione o una società.",
+      "Vita, carriera o destino che attendono una persona.",
+      "Come aggettivo, destinato a esistere, accadere o realizzarsi in seguito.",
+      "Destinato ad assumere in seguito un determinato ruolo o rapporto.",
+      "In grammatica, tempo verbale che colloca un evento dopo il momento presente.",
+      "Forma verbale usata anche per esprimere una supposizione o una probabilità."
+    ]
+  },
+
+  "nuance": {
+    "ja": "名詞のil futuroは未来という時間や将来の見通しを表す。in futuroは「今後・将来は」という副詞句で、In futuro sarò più prudente「今後はもっと慎重にします」のように使う。nel futuroは未来という時代・世界の内部を意識させ、Nel futuro le città saranno diverse「未来には都市の姿が違うだろう」のように使われる。avvenireも「未来」を意味するが、やや抽象的・文学的である。文法上の未来形は未来だけでなく、Saranno le otto「8時ごろだろう」のような現在についての推測にも使われる。",
+    "it": "Come sostantivo, il futuro indica il tempo successivo al presente oppure le prospettive di qualcuno. In futuro significa «d’ora in avanti» o «in un tempo successivo»: In futuro sarò più prudente. Nel futuro mette maggiormente in rilievo un’epoca o un mondo futuro. Avvenire è quasi sinonimo, ma può avere un tono più astratto o letterario. Il futuro verbale non esprime soltanto posteriorità: in Saranno le otto indica una supposizione relativa al presente."
+  },
+
+  "etymology": {
+    "ja": "ラテン語futūrus「これから存在する・将来の」に由来する。これはesse「～である」の未来分詞で、fuī「私は～であった」などに見られる語幹fu-と同じ語族に属する。語源的には「これから存在すること」を意味する。英語future、フランス語futur、スペイン語futuroも同じラテン語から派生した。",
+    "it": "Deriva dal latino futūrus, «che sarà, destinato a esistere», participio futuro del verbo esse, «essere». La forma appartiene alla stessa base fu- presente in forme latine come fuī. Il significato etimologico è quindi «ciò che sarà». Dalla stessa parola latina derivano anche l’inglese future, il francese futur e lo spagnolo futuro."
+  },
+
+  "minimal": [
+    {
+      "word": "futuro",
+      "ja": "現在より後に来る時間、またはこれから実現すること",
+      "it": "tempo successivo al presente oppure ciò che deve ancora avvenire"
+    },
+    {
+      "word": "presente",
+      "ja": "現在の時点・時代、または文法上の現在時制",
+      "it": "tempo attuale oppure tempo verbale riferito al presente"
+    },
+    {
+      "word": "passato",
+      "ja": "すでに過ぎた時間・時代・出来事",
+      "it": "tempo o insieme di avvenimenti anteriori al presente"
+    },
+    {
+      "word": "avvenire",
+      "ja": "これから来る時代・将来を表す、やや抽象的な語",
+      "it": "tempo futuro considerato in modo spesso astratto o letterario"
+    },
+    {
+      "word": "domani",
+      "ja": "今日の翌日、または比喩的な未来",
+      "it": "giorno successivo a oggi oppure, figuratamente, futuro"
+    }
+  ],
+
+  "synonyms": [
+    "avvenire",
+    "domani",
+    "prospettiva",
+    "destino",
+    "posterità"
+  ],
+
+  "equivalents": {
+    "en": [
+      "future",
+      "forthcoming",
+      "prospective"
+    ],
+    "de": [
+      "Zukunft",
+      "zukünftig",
+      "künftig"
+    ],
+    "fr": [
+      "avenir",
+      "futur",
+      "futur"
+    ],
+    "es": [
+      "futuro",
+      "porvenir",
+      "futuro"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "pensare al futuro",
+      "ja": "将来について考える"
+    },
+    {
+      "it": "guardare al futuro",
+      "ja": "未来に目を向ける"
+    },
+    {
+      "it": "costruire il futuro",
+      "ja": "未来を築く"
+    },
+    {
+      "it": "prevedere il futuro",
+      "ja": "未来を予測する"
+    },
+    {
+      "it": "avere un futuro",
+      "ja": "将来性がある"
+    },
+    {
+      "it": "un futuro migliore",
+      "ja": "よりよい未来"
+    },
+    {
+      "it": "nel prossimo futuro",
+      "ja": "近い将来に"
+    },
+    {
+      "it": "in futuro",
+      "ja": "将来・今後"
+    },
+    {
+      "it": "il futuro marito",
+      "ja": "将来の夫"
+    },
+    {
+      "it": "le generazioni future",
+      "ja": "将来の世代"
+    },
+    {
+      "it": "futuro semplice",
+      "ja": "単純未来"
+    },
+    {
+      "it": "futuro anteriore",
+      "ja": "前未来・未来完了"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Nessuno può conoscere con certezza il futuro.",
+      "ja": "未来を確実に知ることは誰にもできません。"
+    },
+    {
+      "it": "Dobbiamo pensare al futuro dei nostri figli.",
+      "ja": "私たちは子供たちの将来について考えなければなりません。"
+    },
+    {
+      "it": "In futuro cercherò di arrivare più presto.",
+      "ja": "今後はもっと早く到着するようにします。"
+    },
+    {
+      "it": "Nel prossimo futuro l’azienda aprirà un nuovo ufficio.",
+      "ja": "近い将来、その会社は新しい事務所を開設します。"
+    },
+    {
+      "it": "Questa giovane ricercatrice ha un grande futuro.",
+      "ja": "この若い研究者には大きな将来性があります。"
+    },
+    {
+      "it": "Anna ha presentato ai genitori il suo futuro marito.",
+      "ja": "アンナは両親に将来の夫を紹介しました。"
+    },
+    {
+      "it": "Domani partirò è una frase al futuro semplice.",
+      "ja": "Domani partiròは単純未来を使った文です。"
+    },
+    {
+      "it": "Non risponde al telefono: sarà occupato.",
+      "ja": "彼は電話に出ません。忙しいのでしょう。"
+    }
+  ]
+},
+{
+  "id": "passato",
+  "sid": "2026-00455",
+  "word": "passato",
+  "ipa": "/pasˈsato/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞・形容詞・passareの過去分詞",
+      "it": "sostantivo maschile, aggettivo e participio passato di passare"
+    },
+    "gender": "masculine",
+    "plural": "passati",
+    "adjectiveForms": [
+      "passato",
+      "passata",
+      "passati",
+      "passate"
+    ],
+    "pattern": "il passato / in passato / nel passato / nome + passato / essere passato / passato prossimo, remoto o prossimo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "time",
+      "memory",
+      "history",
+      "education",
+      "grammar",
+      "movement",
+      "cooking"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "現在より前に存在した時間・時代、過去",
+      "以前に起きた出来事・経験の総体",
+      "人・組織・場所などが持つ経歴・過去",
+      "形容詞として、すでに過ぎた・以前の",
+      "直前の週・月・年などを表す、先の・この前の",
+      "文法において、過去の出来事を表す時制",
+      "passareの過去分詞として、通った・過ぎた・移った・合格した",
+      "passato diの形で、ある状態・時期・限度などを越えた",
+      "passato di verdureなどで、野菜などを裏ごしした料理"
+    ],
+    "it": [
+      "Tempo anteriore al presente.",
+      "Insieme degli eventi e delle esperienze già avvenuti.",
+      "Storia personale o precedente di una persona, un’organizzazione o un luogo.",
+      "Come aggettivo, trascorso o appartenente a un tempo precedente.",
+      "Riferito a una settimana, un mese o un anno, immediatamente precedente.",
+      "In grammatica, tempo verbale che colloca un evento anteriormente al momento di riferimento.",
+      "Come participio passato di passare, transitato, trascorso, cambiato o promosso.",
+      "Nella costruzione passato di, andato oltre un punto, un’età, un limite o una condizione.",
+      "In espressioni gastronomiche, preparazione ottenuta passando e riducendo in crema determinati alimenti."
+    ]
+  },
+
+  "nuance": {
+    "ja": "名詞のil passatoは過去という時間や個人の経歴を表す。in passatoは「以前は・かつて」という一般的な副詞句で、In passato vivevo a Romaのように使う。nel passatoは歴史上のある過去の時代を意識させる。形容詞ではla settimana passata「先週」のように使えるが、日常語ではla settimana scorsaも非常に一般的である。文法ではpassato prossimo、passato remoto、imperfettoなど複数の過去時制があり、passatoだけでは特定の活用形を指さない。過去分詞passatoは移動のpassareがessereを取る場合、主語に合わせてpassato、passata、passati、passateと一致する。",
+    "it": "Come sostantivo, il passato indica il tempo trascorso oppure la storia precedente di qualcuno. In passato significa «un tempo, precedentemente»: In passato vivevo a Roma. Nel passato richiama più facilmente una determinata epoca storica. Come aggettivo, la settimana passata equivale spesso a la settimana scorsa. In grammatica esistono diversi tempi del passato, tra cui passato prossimo, passato remoto e imperfetto. Come participio di passare con essere, passato concorda con il soggetto: sono passato, è passata, siamo passati."
+  },
+
+  "etymology": {
+    "ja": "動詞passare「通る・過ぎる」の過去分詞が、形容詞および名詞として用いられるようになった語である。passareは後期ラテン語passāreに由来し、passus「歩み・一歩」と関係する。語源的には「通過したもの・過ぎ去ったもの」を意味し、そこから時間としての「過去」が生まれた。同じ語族にはpasso、passaggio、passeggiareがある。",
+    "it": "È il participio passato di passare, successivamente usato anche come aggettivo e sostantivo. Passare deriva dal latino tardo passāre ed è collegato a passus, «passo». Il significato etimologico è quindi quello di ciò che è passato oltre o è trascorso. Alla stessa famiglia appartengono passo, passaggio e passeggiare."
+  },
+
+  "minimal": [
+    {
+      "word": "passato",
+      "ja": "現在より前の時間、またはすでに起きた出来事",
+      "it": "tempo anteriore al presente oppure insieme degli eventi già avvenuti"
+    },
+    {
+      "word": "presente",
+      "ja": "現在の時点・時代、または文法上の現在時制",
+      "it": "tempo attuale oppure tempo verbale riferito al presente"
+    },
+    {
+      "word": "futuro",
+      "ja": "現在より後に来る時間・出来事",
+      "it": "tempo successivo al presente oppure ciò che deve ancora avvenire"
+    },
+    {
+      "word": "scorso",
+      "ja": "週・月・年などについて、直前の・この前の",
+      "it": "immediatamente precedente, soprattutto con periodi di tempo"
+    },
+    {
+      "word": "precedente",
+      "ja": "基準となる物事より前に位置する",
+      "it": "situato o avvenuto prima rispetto a un punto di riferimento"
+    }
+  ],
+
+  "synonyms": [
+    "trascorso",
+    "precedente",
+    "ieri",
+    "storia",
+    "antecedente"
+  ],
+
+  "equivalents": {
+    "en": [
+      "past",
+      "previous",
+      "last",
+      "passed"
+    ],
+    "de": [
+      "Vergangenheit",
+      "vergangen",
+      "vorig",
+      "vorbeigegangen"
+    ],
+    "fr": [
+      "passé",
+      "précédent",
+      "écoulé"
+    ],
+    "es": [
+      "pasado",
+      "anterior",
+      "transcurrido"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "ricordare il passato",
+      "ja": "過去を思い出す"
+    },
+    {
+      "it": "dimenticare il passato",
+      "ja": "過去を忘れる"
+    },
+    {
+      "it": "vivere nel passato",
+      "ja": "過去にとらわれて生きる"
+    },
+    {
+      "it": "imparare dal passato",
+      "ja": "過去から学ぶ"
+    },
+    {
+      "it": "in passato",
+      "ja": "以前は・かつて"
+    },
+    {
+      "it": "la settimana passata",
+      "ja": "先週"
+    },
+    {
+      "it": "l’anno passato",
+      "ja": "昨年"
+    },
+    {
+      "it": "un’esperienza passata",
+      "ja": "過去の経験"
+    },
+    {
+      "it": "passato prossimo",
+      "ja": "近過去"
+    },
+    {
+      "it": "passato remoto",
+      "ja": "遠過去"
+    },
+    {
+      "it": "essere passato di moda",
+      "ja": "流行遅れになっている"
+    },
+    {
+      "it": "passato di verdure",
+      "ja": "裏ごしした野菜のスープ・野菜のポタージュ"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Non possiamo cambiare il passato.",
+      "ja": "私たちは過去を変えることはできません。"
+    },
+    {
+      "it": "In passato lavoravo in un’altra azienda.",
+      "ja": "以前、私は別の会社で働いていました。"
+    },
+    {
+      "it": "È importante imparare dagli errori del passato.",
+      "ja": "過去の失敗から学ぶことが重要です。"
+    },
+    {
+      "it": "La settimana passata sono stato molto occupato.",
+      "ja": "先週、私はとても忙しかったです。"
+    },
+    {
+      "it": "Ieri sono passato davanti alla tua casa.",
+      "ja": "昨日、私はあなたの家の前を通りました。"
+    },
+    {
+      "it": "Maria è passata dall’ufficio questa mattina.",
+      "ja": "マリアは今朝、事務所に立ち寄りました。"
+    },
+    {
+      "it": "Ho mangiato è una forma del passato prossimo.",
+      "ja": "Ho mangiatoは近過去の形です。"
+    },
+    {
+      "it": "Quel modello è ormai passato di moda.",
+      "ja": "その型はもう流行遅れになっています。"
+    }
+  ]
+},
+{
+  "id": "presente",
+  "sid": "2026-00456",
+  "word": "presente",
+  "ipa": "/preˈzɛnte/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞・形容詞・呼びかけへの応答",
+      "it": "sostantivo maschile, aggettivo e formula di risposta"
+    },
+    "gender": "masculine",
+    "plural": "presenti",
+    "adjectiveForms": [
+      "presente",
+      "presente",
+      "presenti",
+      "presenti"
+    ],
+    "pattern": "il presente / al presente / essere presente a o in + luogo o evento / tenere presente + nome o che + frase / presente indicativo / Presente!"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "time",
+      "meetings",
+      "education",
+      "grammar",
+      "business",
+      "law",
+      "administration"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "過去と未来の間にある現在の時間・時代",
+      "今起きている状況、現状",
+      "形容詞として、現在の・現時点の",
+      "人がその場所・会議・出来事などにいる、出席している",
+      "物・要素・性質などが存在している、含まれている",
+      "記憶・意識の中にはっきり存在している",
+      "tenere presenteの形で、考慮する・念頭に置く",
+      "文法において、現在の行為・状態などを表す時制",
+      "点呼などへのPresente!という応答で、出席しています",
+      "複数形i presentiで、その場にいる人々・出席者",
+      "やや改まった用法で、贈り物・進物"
+    ],
+    "it": [
+      "Tempo attuale, situato tra passato e futuro.",
+      "Situazione o condizione esistente nel momento in cui si parla.",
+      "Come aggettivo, relativo al momento attuale.",
+      "Fisicamente presente in un luogo, una riunione o un avvenimento.",
+      "Esistente, riscontrabile o contenuto in qualcosa.",
+      "Vivo e chiaro nella memoria o nella coscienza.",
+      "Nella locuzione tenere presente, considerare o non dimenticare un elemento.",
+      "In grammatica, tempo verbale che esprime normalmente un fatto contemporaneo al momento dell’enunciazione.",
+      "Nella risposta Presente!, formula con cui si conferma la propria partecipazione a un appello.",
+      "Al plurale i presenti, persone che si trovano sul posto o partecipano a un evento.",
+      "In uso più formale o letterario, dono offerto a qualcuno."
+    ]
+  },
+
+  "nuance": {
+    "ja": "名詞のil presenteは「現在」という時間や現在の状況を表す。al presenteは「現在のところ」というやや改まった表現で、日常語ではattualmenteやal momentoが一般的である。人についてessere presenteと言えば「その場にいる・出席している」、物や成分についてessere presenteと言えば「存在する・含まれている」となる。tenere presenteは直訳的な「現在に保つ」ではなく、「考慮する・覚えておく」という非常に一般的な表現である。文法上の現在形は、Domani partoのように確定した未来を表すこともある。",
+    "it": "Come sostantivo, il presente indica il tempo attuale o la situazione contemporanea. Al presente significa «attualmente», ma ha un tono più formale rispetto ad al momento. Essere presente, riferito a una persona, significa trovarsi o partecipare; riferito a una sostanza o caratteristica, significa esistere o essere contenuto. Tenere presente significa considerare o ricordare. Il presente verbale può inoltre esprimere un futuro programmato, come in Domani parto."
+  },
+
+  "etymology": {
+    "ja": "ラテン語praesens、属格praesentis「目の前にいる・その場にある・現在の」に由来する。これはpraeesse「前にいる・その場にある」の現在分詞で、prae-「前に」とesse「存在する」から成る。語源的には「目の前に存在しているもの」を意味する。英語present、フランス語présent、スペイン語presenteも同じラテン語から派生した。",
+    "it": "Deriva dal latino praesens, genitivo praesentis, «presente, che si trova davanti», participio di praeesse, formato da prae-, «davanti», ed esse, «essere». Il significato etimologico è quindi «ciò che si trova davanti o è qui». Dalla stessa parola latina derivano l’inglese present, il francese présent e lo spagnolo presente."
+  },
+
+  "minimal": [
+    {
+      "word": "presente",
+      "ja": "現在の時間、またはその場に存在・出席している状態",
+      "it": "tempo attuale oppure condizione di chi o ciò che si trova sul posto"
+    },
+    {
+      "word": "passato",
+      "ja": "現在より前の時間・出来事",
+      "it": "tempo o insieme di eventi anteriori al presente"
+    },
+    {
+      "word": "futuro",
+      "ja": "現在より後に来る時間・出来事",
+      "it": "tempo successivo al presente oppure ciò che deve ancora avvenire"
+    },
+    {
+      "word": "attuale",
+      "ja": "現在存在・通用している",
+      "it": "esistente o valido nel momento presente"
+    },
+    {
+      "word": "assente",
+      "ja": "その場所にいない・欠席している",
+      "it": "non presente nel luogo o nell’attività considerati"
+    }
+  ],
+
+  "synonyms": [
+    "attualità",
+    "oggi",
+    "attuale",
+    "partecipante",
+    "dono",
+    "regalo"
+  ],
+
+  "equivalents": {
+    "en": [
+      "present",
+      "current",
+      "present tense",
+      "gift"
+    ],
+    "de": [
+      "Gegenwart",
+      "anwesend",
+      "gegenwärtig",
+      "Geschenk"
+    ],
+    "fr": [
+      "présent",
+      "actuel",
+      "cadeau"
+    ],
+    "es": [
+      "presente",
+      "actual",
+      "regalo"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "vivere nel presente",
+      "ja": "現在を生きる"
+    },
+    {
+      "it": "al momento presente",
+      "ja": "現時点で"
+    },
+    {
+      "it": "essere presente",
+      "ja": "その場にいる・出席している"
+    },
+    {
+      "it": "essere presente alla riunione",
+      "ja": "会議に出席している"
+    },
+    {
+      "it": "tenere presente qualcosa",
+      "ja": "何かを念頭に置く"
+    },
+    {
+      "it": "tenere presente che",
+      "ja": "～ということを考慮する"
+    },
+    {
+      "it": "avere ben presente",
+      "ja": "はっきり認識・記憶している"
+    },
+    {
+      "it": "nel presente documento",
+      "ja": "本書面において"
+    },
+    {
+      "it": "indicativo presente",
+      "ja": "直説法現在"
+    },
+    {
+      "it": "i presenti",
+      "ja": "出席者・その場にいる人々"
+    },
+    {
+      "it": "fare l’appello",
+      "ja": "点呼を取る"
+    },
+    {
+      "it": "fare un presente a qualcuno",
+      "ja": "誰かに贈り物をする"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Dobbiamo vivere nel presente senza dimenticare il passato.",
+      "ja": "私たちは過去を忘れずに現在を生きなければなりません。"
+    },
+    {
+      "it": "Al momento presente non abbiamo altre informazioni.",
+      "ja": "現時点では、これ以上の情報はありません。"
+    },
+    {
+      "it": "Tutti i membri erano presenti alla riunione.",
+      "ja": "すべての構成員が会議に出席していました。"
+    },
+    {
+      "it": "Questa sostanza è presente in molti alimenti.",
+      "ja": "この物質は多くの食品に含まれています。"
+    },
+    {
+      "it": "Bisogna tenere presente che i prezzi possono cambiare.",
+      "ja": "価格が変動する可能性を考慮しなければなりません。"
+    },
+    {
+      "it": "Parto è la prima persona singolare dell’indicativo presente di partire.",
+      "ja": "Partoはpartireの直説法現在一人称単数です。"
+    },
+    {
+      "it": "Quando l’insegnante chiamò il suo nome, rispose: «Presente!»",
+      "ja": "先生が名前を呼ぶと、彼は「はい、います」と答えました。"
+    },
+    {
+      "it": "Il presidente ringraziò tutti i presenti.",
+      "ja": "議長は出席者全員に感謝しました。"
+    }
+  ]
+},
+{
+  "id": "adesso",
+  "sid": "2026-00457",
+  "word": "adesso",
+  "ipa": "/aˈdesso/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "時間副詞・接続表現の構成要素",
+      "it": "avverbio temporale e componente di locuzioni congiuntive"
+    },
+    "invariable": true,
+    "pattern": "adesso + verbo / proprio adesso / da adesso in poi / fino ad adesso / adesso che + frase"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "time",
+      "daily_life",
+      "work",
+      "planning",
+      "change",
+      "emphasis"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "話しているまさにこの瞬間、今",
+      "現在の時期・現時点では",
+      "それまでの状況と対比される現在、今では",
+      "すぐに・今すぐ",
+      "直前の非常に近い過去、たった今",
+      "da adesso in poiの形で、今から先・今後",
+      "adesso cheの形で、今や～なので・～となった今",
+      "話題・行動を次の段階へ移す際の、さて・それでは今度は"
+    ],
+    "it": [
+      "Nel preciso momento in cui si parla.",
+      "Nel periodo presente o nelle condizioni attuali.",
+      "Nel presente contrapposto a una situazione precedente.",
+      "Immediatamente, senza aspettare.",
+      "In un momento appena precedente, secondo il contesto.",
+      "Nella locuzione da adesso in poi, a partire dal momento presente.",
+      "Nella costruzione adesso che, ora che una nuova condizione si è verificata.",
+      "Come segnale discorsivo, per introdurre una nuova fase del discorso o dell’azione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "adessoとoraは多くの場合置き換え可能だが、adessoは会話で特に一般的で、「まさに今」という直接性や強調を帯びやすい。Adesso basta!は「もうたくさんだ」、Fallo adesso!は「今すぐやりなさい」と強い即時性を表す。oraはやや簡潔で、書き言葉や論理的な展開にも使いやすい。adessoは「今」という副詞に限られ、oraのように「1時間」を意味する名詞にはならない。",
+    "it": "Adesso e ora sono spesso intercambiabili, ma adesso è particolarmente comune nel parlato e può sottolineare con maggiore forza il momento immediato. Adesso basta! esprime la decisione di interrompere qualcosa; Fallo adesso! richiede un’azione immediata. Ora è più breve e si adatta facilmente anche alla scrittura e alla progressione logica di un discorso. Adesso è soltanto un avverbio e non possiede il significato nominale di «sessanta minuti» proprio di ora."
+  },
+
+  "etymology": {
+    "ja": "一般にラテン語の表現ad ipsum tempus「まさにこの時に」が短縮・変化したものと説明される。adは「～へ・～に」、ipsumは「まさにそれ自身」、tempusは「時」を意味する。語源的には「まさにその時点で」という強調を含み、現代語の「今・今すぐ」という意味につながっている。",
+    "it": "È generalmente ricondotto all’espressione latina ad ipsum tempus, «proprio in questo momento», successivamente ridotta ed evoluta foneticamente. Ad significa «a, verso», ipsum rafforza l’identità del momento e tempus significa «tempo». L’origine spiega la sfumatura di immediatezza spesso presente nell’uso moderno."
+  },
+
+  "minimal": [
+    {
+      "word": "adesso",
+      "ja": "発話しているまさにこの瞬間、今・今すぐ",
+      "it": "nel preciso momento in cui si parla, spesso con una sfumatura di immediatezza"
+    },
+    {
+      "word": "ora",
+      "ja": "現在・今。また名詞として「時・1時間」",
+      "it": "nel momento presente oppure, come sostantivo, unità di sessanta minuti"
+    },
+    {
+      "word": "oggi",
+      "ja": "話している時点が属する一日、今日",
+      "it": "giorno nel quale si parla"
+    },
+    {
+      "word": "subito",
+      "ja": "待たずに直ちに・すぐ",
+      "it": "senza alcuna attesa, immediatamente"
+    },
+    {
+      "word": "attualmente",
+      "ja": "現在の状況・時期において、現時点では",
+      "it": "nel periodo o nelle condizioni presenti"
+    }
+  ],
+
+  "synonyms": [
+    "ora",
+    "in questo momento",
+    "attualmente",
+    "subito",
+    "al momento"
+  ],
+
+  "equivalents": {
+    "en": [
+      "now",
+      "right now",
+      "at present"
+    ],
+    "de": [
+      "jetzt",
+      "gerade jetzt",
+      "nun"
+    ],
+    "fr": [
+      "maintenant",
+      "tout de suite",
+      "à présent"
+    ],
+    "es": [
+      "ahora",
+      "ahora mismo",
+      "en este momento"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "proprio adesso",
+      "ja": "まさに今"
+    },
+    {
+      "it": "adesso stesso",
+      "ja": "今すぐに"
+    },
+    {
+      "it": "adesso o mai più",
+      "ja": "今しかない・今やらなければ二度とない"
+    },
+    {
+      "it": "da adesso",
+      "ja": "今から"
+    },
+    {
+      "it": "da adesso in poi",
+      "ja": "今後・これから先"
+    },
+    {
+      "it": "fino ad adesso",
+      "ja": "今まで"
+    },
+    {
+      "it": "per adesso",
+      "ja": "今のところ"
+    },
+    {
+      "it": "adesso che",
+      "ja": "今や～なので・～となった今"
+    },
+    {
+      "it": "farlo adesso",
+      "ja": "それを今する"
+    },
+    {
+      "it": "venire adesso",
+      "ja": "今来る"
+    },
+    {
+      "it": "Adesso basta!",
+      "ja": "もうたくさんだ！"
+    },
+    {
+      "it": "Che cosa facciamo adesso?",
+      "ja": "今から何をしますか。"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Adesso non posso parlare.",
+      "ja": "今は話せません。"
+    },
+    {
+      "it": "Che cosa stai facendo adesso?",
+      "ja": "今、何をしていますか。"
+    },
+    {
+      "it": "Devi decidere adesso.",
+      "ja": "今すぐ決めなければなりません。"
+    },
+    {
+      "it": "Fino ad adesso non abbiamo avuto problemi.",
+      "ja": "今までのところ、問題はありませんでした。"
+    },
+    {
+      "it": "Da adesso in poi sarò più prudente.",
+      "ja": "これからはもっと慎重にします。"
+    },
+    {
+      "it": "Adesso che hai finito il lavoro, puoi riposarti.",
+      "ja": "仕事を終えた今、休んでも構いません。"
+    },
+    {
+      "it": "Prima vivevo a Roma, ma adesso abito a Milano.",
+      "ja": "以前はローマに住んでいましたが、今はミラノに住んでいます。"
+    },
+    {
+      "it": "Adesso basta: ne parleremo domani.",
+      "ja": "もう十分です。そのことは明日話しましょう。"
+    }
+  ]
+},
+{
+  "id": "ora",
+  "sid": "2026-00458",
+  "word": "ora",
+  "ipa": "/ˈora/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞・時間副詞・接続表現の構成要素",
+      "it": "sostantivo femminile, avverbio temporale e componente di locuzioni congiuntive"
+    },
+    "gender": "feminine",
+    "plural": "ore",
+    "pattern": "un’ora, due ore / che ora è? / ora + verbo / per ora / d’ora in poi / ora che + frase / è ora di + infinito"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "time",
+      "daily_life",
+      "work",
+      "planning",
+      "education",
+      "narration",
+      "argumentation"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "60分から成る時間の単位、1時間",
+      "時計によって示される時刻",
+      "ある行為・出来事が予定されている時間",
+      "授業・勤務などに区切られた一定の時間",
+      "特定の出来事が起きる瞬間・時",
+      "副詞として、話している現在の時点、今",
+      "それまでと対比される現在、今では",
+      "ora cheの形で、今や～なので・～となった今",
+      "è ora diの形で、～する時間である",
+      "ora... ora...の形で、ある時は～、またある時は～"
+    ],
+    "it": [
+      "Unità di misura del tempo equivalente a sessanta minuti.",
+      "Indicazione temporale fornita dall’orologio.",
+      "Momento stabilito per un’attività o un avvenimento.",
+      "Periodo determinato dedicato a una lezione, al lavoro o a un’altra attività.",
+      "Momento nel quale qualcosa accade o deve accadere.",
+      "Come avverbio, nel momento presente.",
+      "Nel presente contrapposto a una situazione precedente.",
+      "Nella costruzione ora che, dal momento che una nuova condizione si è verificata.",
+      "Nella locuzione è ora di, momento appropriato per compiere un’azione.",
+      "Nella correlazione ora... ora..., alternanza tra situazioni diverse."
+    ]
+  },
+
+  "nuance": {
+    "ja": "oraは名詞として「時・1時間」、副詞として「今」を表す。Che ora è?は「何時ですか」、Quanto tempo ci vuole? — Un’ora.は「1時間かかります」となる。副詞のoraはadessoとほぼ同義だが、やや簡潔で、文章の論理的な展開にも使いやすい。per oraは「今のところ」、d’ora in poiは「今後」、tra un’oraは「1時間後」、entro un’oraは「1時間以内に」を意味する。è ora di partireでは、oraは名詞として「出発する時」を表している。",
+    "it": "Ora funziona sia come sostantivo, «periodo di sessanta minuti o momento indicato dall’orologio», sia come avverbio, «adesso». Come avverbio è quasi sinonimo di adesso, ma è più breve e frequente anche nella scrittura argomentativa. Per ora significa «per il momento»; d’ora in poi «da questo momento in avanti»; tra un’ora colloca un evento sessanta minuti nel futuro; entro un’ora stabilisce una scadenza. In è ora di partire, ora è un sostantivo."
+  },
+
+  "etymology": {
+    "ja": "ラテン語hōra「時・時間」に由来し、さらに古代ギリシア語hṓra「季節・適切な時・時間」へさかのぼる。もともとは自然の周期や何かを行うのにふさわしい時を表し、後に一日を区切る時間単位を意味するようになった。英語hour、フランス語heure、スペイン語horaも同じギリシア・ラテン系の語源を持つ。",
+    "it": "Deriva dal latino hōra, «ora, momento», a sua volta dal greco antico hṓra, «stagione, momento opportuno, ora». In origine indicava un periodo naturale o il momento adatto per qualcosa; successivamente assunse il valore di unità con cui si divide la giornata. Hanno la stessa origine l’inglese hour, il francese heure e lo spagnolo hora."
+  },
+
+  "minimal": [
+    {
+      "word": "ora",
+      "ja": "60分の時間単位、時計の時刻、または副詞の「今」",
+      "it": "unità di sessanta minuti, momento indicato dall’orologio oppure avverbio con il significato di adesso"
+    },
+    {
+      "word": "adesso",
+      "ja": "話しているまさにこの瞬間、今・今すぐ",
+      "it": "nel preciso momento in cui si parla, spesso con maggiore immediatezza"
+    },
+    {
+      "word": "momento",
+      "ja": "長さを厳密に定めない一点または短い時間",
+      "it": "punto o intervallo di tempo di durata non necessariamente precisa"
+    },
+    {
+      "word": "minuto",
+      "ja": "60秒から成る時間の単位、1分",
+      "it": "unità di tempo equivalente a sessanta secondi"
+    },
+    {
+      "word": "orario",
+      "ja": "時刻または複数の予定時刻をまとめた時間表",
+      "it": "indicazione dell’ora oppure insieme organizzato di orari"
+    }
+  ],
+
+  "synonyms": [
+    "adesso",
+    "momento",
+    "tempo",
+    "sessanta minuti",
+    "attualmente"
+  ],
+
+  "equivalents": {
+    "en": [
+      "hour",
+      "time",
+      "now"
+    ],
+    "de": [
+      "Stunde",
+      "Uhrzeit",
+      "jetzt"
+    ],
+    "fr": [
+      "heure",
+      "maintenant"
+    ],
+    "es": [
+      "hora",
+      "ahora"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "Che ora è?",
+      "ja": "何時ですか。"
+    },
+    {
+      "it": "a che ora?",
+      "ja": "何時に？"
+    },
+    {
+      "it": "un’ora",
+      "ja": "1時間"
+    },
+    {
+      "it": "tra un’ora",
+      "ja": "1時間後に"
+    },
+    {
+      "it": "entro un’ora",
+      "ja": "1時間以内に"
+    },
+    {
+      "it": "per un’ora",
+      "ja": "1時間にわたって"
+    },
+    {
+      "it": "all’ora stabilita",
+      "ja": "決められた時刻に"
+    },
+    {
+      "it": "per ora",
+      "ja": "今のところ"
+    },
+    {
+      "it": "d’ora in poi",
+      "ja": "今後・これから先"
+    },
+    {
+      "it": "ora che",
+      "ja": "今や～なので・～となった今"
+    },
+    {
+      "it": "è ora di partire",
+      "ja": "出発する時間だ"
+    },
+    {
+      "it": "ora... ora...",
+      "ja": "ある時は～、またある時は～"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Che ora è? — Sono le tre.",
+      "ja": "「何時ですか」「3時です」"
+    },
+    {
+      "it": "Il viaggio dura circa un’ora.",
+      "ja": "その移動には約1時間かかります。"
+    },
+    {
+      "it": "Tornerò tra un’ora.",
+      "ja": "1時間後に戻ります。"
+    },
+    {
+      "it": "Ora non posso rispondere.",
+      "ja": "今は答えられません。"
+    },
+    {
+      "it": "Per ora tutto procede bene.",
+      "ja": "今のところ、すべて順調に進んでいます。"
+    },
+    {
+      "it": "D’ora in poi controllerò meglio i documenti.",
+      "ja": "今後は書類をもっと注意深く確認します。"
+    },
+    {
+      "it": "Ora che sei qui, possiamo cominciare.",
+      "ja": "あなたが来たので、始められます。"
+    },
+    {
+      "it": "È ora di andare a casa.",
+      "ja": "家へ帰る時間です。"
+    }
+  ]
 }  
 ]
