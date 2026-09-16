@@ -3095,5 +3095,227 @@
       "ja": "痛みにもかかわらず、彼は冷静さを保とうとしました。"
     }
   ]
+},
+{
+  "id": "sofferenza",
+  "sid": "2026-00400",
+  "word": "sofferenza",
+  "ipa": "/soffeˈrɛntsa/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "sofferenze",
+    "pattern": "provare, causare o alleviare sofferenza / sofferenza fisica o psicologica / essere fonte di sofferenza / vivere in una condizione di sofferenza / le sofferenze di + persona o gruppo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "medical",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "health",
+      "emotions",
+      "relationships",
+      "hardship",
+      "medicine",
+      "social_issues",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "身体的な痛みや病気によって苦しんでいる状態",
+      "悲しみ・喪失・不安などによる精神的・感情的な苦痛",
+      "困難・貧困・迫害などが長く続くことによる苦難",
+      "他人や動物が経験している痛み・苦しみ",
+      "問題・関係・状況などによって引き起こされる心痛",
+      "医学で、臓器・組織などが正常に機能せず負担を受けている状態",
+      "経済・組織などが困難または不調に陥っている状態",
+      "複数形sofferenzeで、長期間にわたるさまざまな苦労・苦難"
+    ],
+    "it": [
+      "Condizione di chi prova dolore fisico a causa di una malattia, una ferita o un disturbo.",
+      "Dolore psicologico o emotivo provocato da tristezza, perdita, paura o ansia.",
+      "Condizione prolungata di difficoltà dovuta a povertà, persecuzione o altre avversità.",
+      "Dolore e disagio vissuti da un’altra persona o da un animale.",
+      "Tormento morale provocato da una relazione, un problema o una situazione.",
+      "In medicina, condizione nella quale un organo o un tessuto è sottoposto a danno o funziona con difficoltà.",
+      "Stato di difficoltà o debolezza riferito all’economia, a un’impresa o a un’organizzazione.",
+      "Al plurale, insieme delle difficoltà e dei dolori sopportati nel corso del tempo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "sofferenzaは、一時的な痛みそのものよりも、身体的・精神的に苦しんでいる状態全体に重点を置く。doloreは特定の痛みや深い悲しみを直接表し、sofferenzaはその痛みによって生じる継続的・総合的な苦しみを表しやすい。penaは心痛のほか、法律上の刑罰も意味する。disagioは不快感・不便・社会的困難を表し、必ずしも強い苦痛を伴わない。医療ではsofferenza cardiacaやsofferenza fetaleのように、器官・身体が危険または負担のある状態にあることを示す。",
+    "it": "Sofferenza mette in rilievo la condizione complessiva, e spesso prolungata, di chi soffre fisicamente o moralmente. Dolore indica più direttamente una sensazione fisica o una profonda tristezza; sofferenza comprende invece l’esperienza e le conseguenze di quel dolore. Pena può indicare anche una sanzione giuridica. Disagio esprime difficoltà o malessere, non necessariamente intenso. Nel linguaggio medico, espressioni come sofferenza cardiaca o sofferenza fetale indicano una condizione di rischio o di funzionamento compromesso."
+  },
+
+  "etymology": {
+    "ja": "動詞soffrire「苦しむ、耐える」に、状態や性質を表す接尾辞-enzaを加えて形成された。soffrireはラテン語sufferreに由来し、sub-「下から・下で」とferre「運ぶ、担う」から成る。語源的には「下から支える・重荷を担う」を意味し、そこから苦痛や困難に耐えるという意味が発達した。同じ語族にはsofferente、insopportabile、英語suffer・sufferingがある。",
+    "it": "Deriva da soffrire con il suffisso -enza, che indica uno stato o una condizione. Soffrire continua il latino sufferre, formato da sub-, «sotto», e ferre, «portare, sopportare». Il significato originario di sostenere un peso ha prodotto quello di sopportare dolore e difficoltà. Alla stessa famiglia appartengono sofferente e sopportare; anche gli inglesi suffer e suffering derivano dal latino attraverso il francese."
+  },
+
+  "minimal": [
+    {
+      "word": "sofferenza",
+      "ja": "身体的・精神的な痛みや困難によって苦しんでいる状態",
+      "it": "condizione complessiva di dolore fisico, emotivo o morale"
+    },
+    {
+      "word": "dolore",
+      "ja": "身体に感じる痛み、または喪失などによる深い悲しみ",
+      "it": "sensazione fisica dolorosa oppure profonda tristezza"
+    },
+    {
+      "word": "pena",
+      "ja": "精神的な苦しみ・心痛、または法律上の刑罰",
+      "it": "sofferenza morale oppure sanzione prevista dalla legge"
+    },
+    {
+      "word": "disagio",
+      "ja": "不快感・不便・居心地の悪さ、または社会的困難",
+      "it": "condizione di malessere, difficoltà o mancanza di comodità"
+    },
+    {
+      "word": "tormento",
+      "ja": "人を絶えず苦しめる非常に強い身体的・精神的苦痛",
+      "it": "sofferenza intensa e persistente che non concede tranquillità"
+    }
+  ],
+
+  "synonyms": [
+    "dolore",
+    "pena",
+    "patimento",
+    "tormento",
+    "angoscia",
+    "afflizione"
+  ],
+
+  "equivalents": {
+    "en": [
+      "suffering",
+      "distress",
+      "pain",
+      "hardship"
+    ],
+    "de": [
+      "Leiden",
+      "Qual",
+      "Schmerz",
+      "Not"
+    ],
+    "fr": [
+      "souffrance",
+      "douleur",
+      "détresse"
+    ],
+    "es": [
+      "sufrimiento",
+      "dolor",
+      "padecimiento"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "provare sofferenza",
+      "ja": "苦痛を感じる"
+    },
+    {
+      "it": "causare sofferenza",
+      "ja": "苦しみを引き起こす"
+    },
+    {
+      "it": "alleviare la sofferenza",
+      "ja": "苦しみを和らげる"
+    },
+    {
+      "it": "porre fine alla sofferenza",
+      "ja": "苦しみを終わらせる"
+    },
+    {
+      "it": "sofferenza fisica",
+      "ja": "身体的苦痛"
+    },
+    {
+      "it": "sofferenza psicologica",
+      "ja": "心理的苦痛"
+    },
+    {
+      "it": "sofferenza emotiva",
+      "ja": "感情的な苦痛"
+    },
+    {
+      "it": "una profonda sofferenza",
+      "ja": "深い苦しみ"
+    },
+    {
+      "it": "essere fonte di sofferenza",
+      "ja": "苦しみの原因となる"
+    },
+    {
+      "it": "vivere nella sofferenza",
+      "ja": "苦しみの中で生きる"
+    },
+    {
+      "it": "sofferenza cardiaca",
+      "ja": "心臓に負担・障害が生じている状態"
+    },
+    {
+      "it": "un settore in sofferenza",
+      "ja": "不振・苦境にある部門"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "La terapia ha contribuito ad alleviare la sofferenza del paziente.",
+      "ja": "その治療は患者の苦痛を和らげる助けとなりました。"
+    },
+    {
+      "it": "La malattia gli ha causato anni di sofferenza fisica.",
+      "ja": "その病気は彼に何年にもわたる身体的苦痛をもたらしました。"
+    },
+    {
+      "it": "La fine della relazione è stata per lei fonte di grande sofferenza.",
+      "ja": "その関係が終わったことは、彼女にとって大きな心の苦しみとなりました。"
+    },
+    {
+      "it": "Non sempre la sofferenza psicologica è visibile agli altri.",
+      "ja": "心理的な苦痛が常に他人から見えるとは限りません。"
+    },
+    {
+      "it": "L’organizzazione lavora per ridurre le sofferenze causate dalla guerra.",
+      "ja": "その団体は戦争によって引き起こされる苦難を軽減するために活動しています。"
+    },
+    {
+      "it": "È importante evitare inutili sofferenze agli animali.",
+      "ja": "動物に不必要な苦痛を与えないことが重要です。"
+    },
+    {
+      "it": "Gli esami hanno mostrato alcuni segni di sofferenza cardiaca.",
+      "ja": "検査では心臓に負担が生じている兆候がいくつか確認されました。"
+    },
+    {
+      "it": "L’aumento dei costi ha messo in sofferenza molte piccole imprese.",
+      "ja": "費用の増加によって、多くの中小企業が苦境に陥りました。"
+    }
+  ]
 }  
 ]
