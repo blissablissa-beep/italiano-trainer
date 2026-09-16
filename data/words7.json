@@ -1,5 +1,222 @@
 [
 {
+  "id": "pagamento",
+  "sid": "2026-00307",
+  "word": "pagamento",
+  "ipa": "/paɡaˈmento/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "pagamenti",
+    "pattern": "effettuare, fare o ricevere un pagamento / pagamento di + somma, prezzo o debito / pagamento con, in o tramite + mezzo / pagamento entro + termine / pagamento a rate"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "business",
+      "legal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "shopping",
+      "business",
+      "banking",
+      "contracts",
+      "administration",
+      "travel",
+      "online_services"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "商品・サービス・債務などについて、金銭を支払う行為",
+      "支払いとして渡される金額・金銭",
+      "契約・請求書・債務などに基づく金銭給付の履行",
+      "現金・カード・振込などを用いた決済",
+      "報酬・給料・代金などを受け取ること",
+      "支払期限・分割払い・前払いなど、支払いに関する条件や手続",
+      "比喩的または文語的に、行為に対して受ける報い・代償"
+    ],
+    "it": [
+      "Atto con cui si versa denaro per acquistare un bene, ricevere un servizio o estinguere un debito.",
+      "Somma di denaro versata o ricevuta.",
+      "Adempimento di un’obbligazione pecuniaria derivante da un contratto, una fattura o un debito.",
+      "Operazione di acquisto o trasferimento eseguita in contanti, con carta, mediante bonifico o con un altro mezzo.",
+      "Corresponsione di uno stipendio, un compenso, un prezzo o un’altra somma dovuta.",
+      "Insieme delle condizioni e delle procedure relative a scadenze, anticipi o rate.",
+      "In senso figurato o letterario, conseguenza o prezzo che si deve sopportare per un’azione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "pagamentoは「支払うという行為」と「支払われる金額」の両方を表す一般的な語である。商店ではpagamento in contanti「現金払い」、pagamento con carta「カード払い」と言う。銀行口座への入金・送金行為に焦点を置く場合はversamento、請求額の残りを完済することにはsaldoがよく使われる。pagaは主に賃金・給料を指し、pagamentoより意味が限定される。法律ではil pagamento estingue il debito「支払いによって債務が消滅する」のように、金銭債務の履行を表す。",
+    "it": "Pagamento può indicare sia l’atto di pagare sia la somma corrisposta. Per il mezzo utilizzato si dice pagamento in contanti, con carta o tramite bonifico. Versamento mette maggiormente in rilievo il deposito o il trasferimento di una somma; saldo può indicare il pagamento della parte restante e la completa estinzione di un conto. Paga si riferisce soprattutto alla retribuzione del lavoro. Nel linguaggio giuridico, il pagamento costituisce l’adempimento di un’obbligazione pecuniaria e normalmente estingue il relativo debito."
+  },
+
+  "etymology": {
+    "ja": "動詞pagare「支払う」に、行為や結果を表す接尾辞-mentoを加えて形成された。pagareはラテン語pacāre「平和にする、なだめる、解決する」に由来し、これはpax、属格pacis「平和」と同じ語族である。債務を支払うことで当事者間の争いや義務を解消するという意味から、現代の「支払う」が発達した。英語pay、フランス語payer、スペイン語pagarも同じラテン語に由来する。",
+    "it": "Deriva da pagare con il suffisso -mento, che indica l’azione o il suo risultato. Pagare continua il latino pacāre, «pacificare, placare, regolare», appartenente alla famiglia di pax, pacis, «pace». Dal significato di risolvere una controversia o soddisfare un’obbligazione si è sviluppato quello moderno di versare una somma dovuta. Sono della stessa origine l’inglese pay, il francese payer e lo spagnolo pagar."
+  },
+
+  "minimal": [
+    {
+      "word": "pagamento",
+      "ja": "商品・サービス・債務などについて金銭を支払う行為またはその金額",
+      "it": "atto di versare una somma dovuta oppure somma versata"
+    },
+    {
+      "word": "versamento",
+      "ja": "口座・基金・機関などへ金銭を入金または送金する行為",
+      "it": "operazione con cui una somma viene depositata o trasferita"
+    },
+    {
+      "word": "saldo",
+      "ja": "請求額の残額、または残額を支払って勘定を完了すること",
+      "it": "somma restante da pagare oppure pagamento che chiude un conto"
+    },
+    {
+      "word": "paga",
+      "ja": "労働の対価として定期的に支払われる賃金・給料",
+      "it": "somma corrisposta come retribuzione del lavoro"
+    },
+    {
+      "word": "rimborso",
+      "ja": "すでに支払った費用や代金を返してもらうこと",
+      "it": "restituzione di una somma precedentemente spesa o pagata"
+    }
+  ],
+
+  "synonyms": [
+    "versamento",
+    "corresponsione",
+    "saldo",
+    "liquidazione",
+    "remunerazione"
+  ],
+
+  "equivalents": {
+    "en": [
+      "payment",
+      "settlement",
+      "remittance"
+    ],
+    "de": [
+      "Zahlung",
+      "Bezahlung",
+      "Begleichung"
+    ],
+    "fr": [
+      "paiement",
+      "règlement",
+      "versement"
+    ],
+    "es": [
+      "pago",
+      "abono",
+      "liquidación"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "effettuare un pagamento",
+      "ja": "支払いを行う"
+    },
+    {
+      "it": "ricevere un pagamento",
+      "ja": "支払いを受ける"
+    },
+    {
+      "it": "pagamento in contanti",
+      "ja": "現金払い"
+    },
+    {
+      "it": "pagamento con carta",
+      "ja": "カード払い"
+    },
+    {
+      "it": "pagamento tramite bonifico",
+      "ja": "銀行振込による支払い"
+    },
+    {
+      "it": "pagamento online",
+      "ja": "オンライン決済"
+    },
+    {
+      "it": "pagamento anticipato",
+      "ja": "前払い"
+    },
+    {
+      "it": "pagamento a rate",
+      "ja": "分割払い"
+    },
+    {
+      "it": "pagamento immediato",
+      "ja": "即時払い"
+    },
+    {
+      "it": "termine di pagamento",
+      "ja": "支払期限"
+    },
+    {
+      "it": "conferma del pagamento",
+      "ja": "支払いの確認"
+    },
+    {
+      "it": "mancato pagamento",
+      "ja": "支払いの不履行・未払い"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Il pagamento può essere effettuato in contanti o con carta.",
+      "ja": "支払いは現金またはカードで行えます。"
+    },
+    {
+      "it": "Ho ricevuto la conferma del pagamento via e-mail.",
+      "ja": "支払いの確認を電子メールで受け取りました。"
+    },
+    {
+      "it": "Il pagamento della fattura deve avvenire entro trenta giorni.",
+      "ja": "請求書の支払いは30日以内に行わなければなりません。"
+    },
+    {
+      "it": "Per gli acquisti più costosi è disponibile il pagamento a rate.",
+      "ja": "高額な買い物には分割払いを利用できます。"
+    },
+    {
+      "it": "L’albergo richiede il pagamento anticipato della prima notte.",
+      "ja": "そのホテルでは最初の一泊分を前払いする必要があります。"
+    },
+    {
+      "it": "Il pagamento non è andato a buon fine perché la carta era scaduta.",
+      "ja": "カードの有効期限が切れていたため、決済は正常に完了しませんでした。"
+    },
+    {
+      "it": "Il mancato pagamento può comportare la sospensione del servizio.",
+      "ja": "未払いの場合、サービスが停止されることがあります。"
+    },
+    {
+      "it": "Con questo ultimo pagamento il debito è stato completamente estinto.",
+      "ja": "この最後の支払いによって、債務は完全に消滅しました。"
+    }
+  ]
+},  
+{
   "id": "prenotazione",
   "sid": "2026-00308",
   "word": "prenotazione",
