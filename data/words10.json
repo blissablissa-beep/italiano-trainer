@@ -8149,5 +8149,1719 @@
       "ja": "イタリア語、フランス語、スペイン語はロマンス語族に属します。"
     }
   ]
+},
+{
+  "id": "uomo",
+  "sid": "2026-00425",
+  "word": "uomo",
+  "ipa": "/ˈwɔmo/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞・不規則な複数形",
+      "it": "sostantivo maschile con plurale irregolare"
+    },
+    "gender": "masculine",
+    "plural": "uomini",
+    "pattern": "l’uomo / gli uomini / un uomo + aggettivo / uomo di + qualità, professione o appartenenza / uomo che + verbo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "identity",
+      "family",
+      "society",
+      "work",
+      "history",
+      "philosophy",
+      "science"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "成人した男性、男",
+      "性別や年齢を特定せずに捉えた一人の人間",
+      "人類全体、人間という存在",
+      "特定の性格・能力・地位・職業などを持つ男性",
+      "ある組織・指導者・理念などに従い、それを代表する人物",
+      "任務・作業・軍事行動などに従事する構成員",
+      "夫・恋人など、ある女性と特別な関係にある男性",
+      "チェスで使用する駒、または競技に参加する選手"
+    ],
+    "it": [
+      "Essere umano adulto di sesso maschile.",
+      "Essere umano considerato indipendentemente dal sesso, soprattutto in usi generali, filosofici o tradizionali.",
+      "L’umanità nel suo complesso o la specie umana.",
+      "Individuo maschile caratterizzato da una determinata qualità, professione, posizione o esperienza.",
+      "Persona che appartiene a un’organizzazione, segue un’autorità o ne rappresenta gli interessi.",
+      "Membro impiegato in un’attività, una squadra, un reparto o un’operazione.",
+      "Partner, marito o compagno di una donna, secondo il contesto.",
+      "Pezzo di un gioco oppure componente di una formazione sportiva."
+    ]
+  },
+
+  "nuance": {
+    "ja": "uomoは基本的に成人男性を指し、女性はdonna、男の子はragazzoまたはbambinoという。生物学的な性別を強調するmaschioに対し、uomoは社会的・個人的な存在としての「男性」を表す。伝統的にはL’uomo è un animale socialeのように「人間・人類」の総称にも使われるが、現代では性別を問わない個人にはpersona、人類全体にはessere umano、umanità、genere umanoなどのより包括的な表現もよく使われる。文脈によってはil mio uomoが「私の夫・恋人」を意味するが、所有的または感情的な響きを伴うことがある。複数形は規則的なuomiではなくuominiである。",
+    "it": "Uomo indica innanzitutto un essere umano adulto di sesso maschile; donna è il termine corrispondente femminile, mentre ragazzo e bambino si riferiscono a persone più giovani. Maschio mette maggiormente in rilievo il sesso biologico, mentre uomo presenta normalmente la persona nella sua dimensione sociale e individuale. Nell’uso tradizionale uomo può indicare l’essere umano o l’intera umanità, ma oggi, quando il sesso non è rilevante, sono spesso preferiti persona, essere umano, umanità o genere umano. Il mio uomo può indicare il proprio compagno, ma può assumere una sfumatura affettiva o possessiva. Il plurale è irregolare: uomini."
+  },
+
+  "etymology": {
+    "ja": "ラテン語homo、属格hominis「人間、人」に由来する。homoは男性だけでなく人間一般を表す語で、男性を性別として明示するラテン語virとは区別された。イタリア語では語頭のhが発音されなくなり、語形変化を経てuomoとなった。複数形uominiはラテン語の変化形hominesの影響を残している。同じ語族にはumano、umanità、omicidio、ominoがある。",
+    "it": "Deriva dal latino homo, genitivo hominis, «essere umano, persona». In latino homo indicava l’essere umano in generale e si distingueva da vir, che designava specificamente l’uomo adulto di sesso maschile. Dalle diverse forme della declinazione latina derivano il singolare uomo e il plurale irregolare uomini. Alla stessa famiglia etimologica appartengono umano, umanità, omicidio e omino."
+  },
+
+  "minimal": [
+    {
+      "word": "uomo",
+      "ja": "成人した男性、または伝統的・一般的な用法における人間",
+      "it": "essere umano adulto di sesso maschile oppure, in usi generali, essere umano"
+    },
+    {
+      "word": "donna",
+      "ja": "成人した女性",
+      "it": "essere umano adulto di sesso femminile"
+    },
+    {
+      "word": "persona",
+      "ja": "性別を問わず一人の人間を表す中立的な語",
+      "it": "termine neutro che indica un individuo senza specificarne il sesso"
+    },
+    {
+      "word": "maschio",
+      "ja": "人間・動物の生物学的な雄性を強調する語",
+      "it": "individuo di sesso maschile, considerato soprattutto dal punto di vista biologico"
+    },
+    {
+      "word": "marito",
+      "ja": "婚姻関係にある男性、夫",
+      "it": "uomo unito in matrimonio alla propria moglie o al proprio coniuge"
+    }
+  ],
+
+  "synonyms": [
+    "persona",
+    "individuo",
+    "essere umano",
+    "maschio",
+    "adulto",
+    "persona di sesso maschile"
+  ],
+
+  "equivalents": {
+    "en": [
+      "man",
+      "human being",
+      "mankind"
+    ],
+    "de": [
+      "Mann",
+      "Mensch",
+      "Menschheit"
+    ],
+    "fr": [
+      "homme",
+      "être humain",
+      "humanité"
+    ],
+    "es": [
+      "hombre",
+      "ser humano",
+      "humanidad"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "un uomo giovane",
+      "ja": "若い男性"
+    },
+    {
+      "it": "un uomo anziano",
+      "ja": "高齢の男性"
+    },
+    {
+      "it": "un uomo alto",
+      "ja": "背の高い男性"
+    },
+    {
+      "it": "un uomo sposato",
+      "ja": "既婚男性"
+    },
+    {
+      "it": "un uomo di famiglia",
+      "ja": "家庭を大切にする男性"
+    },
+    {
+      "it": "un uomo d’affari",
+      "ja": "実業家・ビジネスマン"
+    },
+    {
+      "it": "un uomo di fiducia",
+      "ja": "信頼されている側近・腹心"
+    },
+    {
+      "it": "un uomo di parola",
+      "ja": "約束を守る男性"
+    },
+    {
+      "it": "un uomo coraggioso",
+      "ja": "勇敢な男性"
+    },
+    {
+      "it": "un uomo comune",
+      "ja": "普通の人・一般人"
+    },
+    {
+      "it": "l’uomo moderno",
+      "ja": "現代人"
+    },
+    {
+      "it": "la storia dell’uomo",
+      "ja": "人類の歴史"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "C’è un uomo che ti aspetta davanti all’ingresso.",
+      "ja": "入口の前で、ある男性があなたを待っています。"
+    },
+    {
+      "it": "Quell’uomo alto è mio fratello.",
+      "ja": "あの背の高い男性は私の兄です。"
+    },
+    {
+      "it": "È un uomo gentile e sempre disponibile ad aiutare gli altri.",
+      "ja": "彼は親切で、いつでも人を助けようとする男性です。"
+    },
+    {
+      "it": "Mio nonno era un uomo di parola.",
+      "ja": "私の祖父は約束を守る人でした。"
+    },
+    {
+      "it": "L’azienda cerca uomini e donne con esperienza internazionale.",
+      "ja": "その会社は国際経験を持つ男女を募集しています。"
+    },
+    {
+      "it": "L’uomo ha sempre cercato di comprendere il cielo e le stelle.",
+      "ja": "人類は常に空と星を理解しようとしてきました。"
+    },
+    {
+      "it": "L’uomo è un essere sociale.",
+      "ja": "人間は社会的な存在です。"
+    },
+    {
+      "it": "Il comandante ordinò ai suoi uomini di tornare alla nave.",
+      "ja": "指揮官は部下たちに船へ戻るよう命じました。"
+    }
+  ]
+},
+{
+  "id": "donna",
+  "sid": "2026-00426",
+  "word": "donna",
+  "ipa": "/ˈdɔnna/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "donne",
+    "pattern": "la donna / le donne / una donna + aggettivo / donna di + qualità, professione o appartenenza / donna che + verbo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "identity",
+      "family",
+      "relationships",
+      "society",
+      "work",
+      "history",
+      "culture"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "成人した女性、女",
+      "特定の性格・能力・地位・職業などを持つ女性",
+      "女性一般または社会における女性という存在",
+      "妻・恋人・伴侶など、ある人と親密な関係にある女性",
+      "ある組織・活動・社会集団などに属する女性",
+      "女性らしさ・成熟・自立などを備えた成人女性",
+      "トランプのクイーン、またはチェスの女王の駒",
+      "donna delle pulizieなどの表現で、特定の仕事をする女性"
+    ],
+    "it": [
+      "Essere umano adulto di sesso femminile.",
+      "Persona adulta di sesso femminile caratterizzata da una determinata qualità, professione o posizione.",
+      "La componente femminile della società o la condizione femminile in generale.",
+      "Moglie, compagna o partner femminile di una persona, secondo il contesto.",
+      "Membro femminile di un’organizzazione, un’attività o un gruppo sociale.",
+      "Persona considerata nella sua maturità, autonomia o identità femminile.",
+      "Figura femminile delle carte da gioco oppure pezzo principale degli scacchi, detto anche regina.",
+      "In alcune locuzioni professionali, persona di sesso femminile che svolge una determinata attività."
+    ]
+  },
+
+  "nuance": {
+    "ja": "donnaは成人女性を表す最も一般的な語で、成人男性のuomoに対応する。少女・若い女性にはragazza、女児にはbambinaを使う。femminaは人間と動物の生物学的な雌性を表すため、人間の女性を単独でuna femminaと呼ぶと、文脈によっては物扱い・性的または侮蔑的に響くことがある。signoraは成人女性への敬称や丁寧な呼び方であり、donnaより直接的ではない。la mia donnaは「私の恋人・伴侶」を意味し得るが、所有的または古風な響きを伴う場合があるため、通常はmia moglie、la mia compagnaなどのほうが明確である。",
+    "it": "Donna è il termine generale per un essere umano adulto di sesso femminile e corrisponde a uomo. Ragazza indica normalmente una persona più giovane e bambina una persona di età infantile. Femmina mette in rilievo il sesso biologico e, se riferito isolatamente a una persona, può assumere un tono riduttivo, sessualizzato o offensivo. Signora è invece una forma cortese di riferimento o di appellativo. La mia donna può indicare la propria compagna, ma può suonare possessivo o tradizionale; mia moglie o la mia compagna sono spesso più precisi."
+  },
+
+  "etymology": {
+    "ja": "ラテン語domina「女主人、家の奥方」に由来する。dominaはdominus「主人」の女性形で、家・権力を表すdomus「家」と同じ語族に属する。発音と語形の変化によりdominaからdonnaとなり、当初の「女主人・高貴な女性」から成人女性一般を表すようになった。同じ語源からdama、Madonna、フランス語dame、スペイン語doñaなども生まれた。",
+    "it": "Deriva dal latino domina, «padrona, signora», femminile di dominus, «padrone», appartenente alla famiglia di domus, «casa». Attraverso l’evoluzione fonetica domina divenne donna. Dal significato originario di padrona della casa o signora di rango elevato, la parola passò a indicare qualsiasi persona adulta di sesso femminile. Sono storicamente collegati anche dama, Madonna, il francese dame e lo spagnolo doña."
+  },
+
+  "minimal": [
+    {
+      "word": "donna",
+      "ja": "成人した女性を表す一般的な語",
+      "it": "termine generale per un essere umano adulto di sesso femminile"
+    },
+    {
+      "word": "uomo",
+      "ja": "成人した男性",
+      "it": "essere umano adulto di sesso maschile"
+    },
+    {
+      "word": "ragazza",
+      "ja": "少女または比較的若い女性",
+      "it": "persona giovane di sesso femminile"
+    },
+    {
+      "word": "signora",
+      "ja": "成人女性に対する丁寧な呼び方・敬称",
+      "it": "forma cortese usata per rivolgersi a una donna adulta o parlare di lei"
+    },
+    {
+      "word": "femmina",
+      "ja": "人間・動物の生物学的な雌性を表す語",
+      "it": "individuo di sesso femminile, considerato soprattutto dal punto di vista biologico"
+    }
+  ],
+
+  "synonyms": [
+    "persona",
+    "signora",
+    "adulta",
+    "persona di sesso femminile",
+    "figura femminile"
+  ],
+
+  "equivalents": {
+    "en": [
+      "woman",
+      "lady",
+      "female"
+    ],
+    "de": [
+      "Frau",
+      "Dame",
+      "weibliche Person"
+    ],
+    "fr": [
+      "femme",
+      "dame",
+      "personne de sexe féminin"
+    ],
+    "es": [
+      "mujer",
+      "señora",
+      "persona de sexo femenino"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "una donna giovane",
+      "ja": "若い女性"
+    },
+    {
+      "it": "una donna anziana",
+      "ja": "高齢の女性"
+    },
+    {
+      "it": "una donna sposata",
+      "ja": "既婚女性"
+    },
+    {
+      "it": "una donna incinta",
+      "ja": "妊娠している女性"
+    },
+    {
+      "it": "una donna forte",
+      "ja": "強い女性"
+    },
+    {
+      "it": "una donna indipendente",
+      "ja": "自立した女性"
+    },
+    {
+      "it": "una donna in carriera",
+      "ja": "キャリアを重視する職業女性"
+    },
+    {
+      "it": "una donna d’affari",
+      "ja": "女性実業家・ビジネスウーマン"
+    },
+    {
+      "it": "una donna di talento",
+      "ja": "才能のある女性"
+    },
+    {
+      "it": "diritti delle donne",
+      "ja": "女性の権利"
+    },
+    {
+      "it": "uomini e donne",
+      "ja": "男性と女性"
+    },
+    {
+      "it": "donna delle pulizie",
+      "ja": "女性の清掃員・家事代行者"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Una donna ti aspetta davanti all’ingresso.",
+      "ja": "入口の前で、ある女性があなたを待っています。"
+    },
+    {
+      "it": "Quella donna con il cappotto rosso è mia sorella.",
+      "ja": "あの赤いコートを着た女性は私の姉です。"
+    },
+    {
+      "it": "Mia nonna era una donna forte e indipendente.",
+      "ja": "私の祖母は強く自立した女性でした。"
+    },
+    {
+      "it": "È stata la prima donna a dirigere questa azienda.",
+      "ja": "彼女はこの会社を経営した最初の女性でした。"
+    },
+    {
+      "it": "L’azienda offre le stesse opportunità a uomini e donne.",
+      "ja": "その会社は男性と女性に同じ機会を提供しています。"
+    },
+    {
+      "it": "La condizione della donna è cambiata profondamente nel corso della storia.",
+      "ja": "女性の社会的地位は歴史を通じて大きく変化しました。"
+    },
+    {
+      "it": "La donna delle pulizie viene ogni martedì mattina.",
+      "ja": "清掃員の女性は毎週火曜日の朝に来ます。"
+    },
+    {
+      "it": "Negli scacchi la donna è il pezzo che può muoversi più liberamente.",
+      "ja": "チェスでは、クイーンは最も自由に動ける駒です。"
+    }
+  ]
+},
+{
+  "id": "ragazzo",
+  "sid": "2026-00427",
+  "word": "ragazzo",
+  "ipa": "/raˈɡattso/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "ragazzi",
+    "pattern": "il ragazzo / i ragazzi / un ragazzo + aggettivo / il ragazzo di + persona / rivolgersi a un gruppo con ragazzi"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "school",
+      "work",
+      "social",
+      "daily_life"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "少年、十代またはそれに近い年齢の男子",
+      "若い男性、青年",
+      "成人より若い、または話者から見て若く感じられる男性",
+      "恋愛関係にある男性、彼氏・恋人",
+      "若い従業員・見習い・助手など",
+      "複数形ragazziで、男女を含む若者・子供の集団",
+      "複数形を呼びかけに用いて、みんな・君たち",
+      "親しみを込めて、自分の息子や若い仲間"
+    ],
+    "it": [
+      "Persona di sesso maschile nell’adolescenza o in un’età vicina.",
+      "Uomo giovane, non ancora considerato pienamente maturo.",
+      "Persona di sesso maschile percepita come giovane rispetto a chi parla.",
+      "Partner maschile con il quale si ha una relazione sentimentale.",
+      "Giovane lavoratore, apprendista, aiutante o dipendente.",
+      "Al plurale, gruppo di giovani o bambini, anche di sesso diverso.",
+      "Al plurale come forma di richiamo, insieme delle persone alle quali ci si rivolge.",
+      "Figlio o giovane membro di un gruppo, indicato con familiarità."
+    ]
+  },
+
+  "nuance": {
+    "ja": "ragazzoは年齢の幅が広く、少年から若い成人男性までを指す。正確な年齢区分はなく、話者との年齢差や場面によっては30歳前後の男性にも使われる。成人男性を中立的に述べる場合はuomoのほうが明確である。il mio ragazzoは通常「私の彼氏」を意味するが、親が自分の息子を親しみを込めて指す場合もある。複数形ragazziは男性だけでなく男女混合の集団にも使われ、Ragazzi!は「みんな！」という一般的な呼びかけになる。",
+    "it": "Ragazzo può indicare tanto un adolescente quanto un giovane adulto e non corrisponde a un limite d’età preciso. La scelta dipende dal contesto, dalla differenza d’età e dalla percezione di chi parla. Uomo è più adatto quando si vuole indicare chiaramente un adulto. Il mio ragazzo significa normalmente «il mio fidanzato» o «il mio compagno», ma un genitore può usare il termine anche per il proprio figlio. Il plurale ragazzi può comprendere un gruppo misto e viene comunemente usato come richiamo informale: Ragazzi, ascoltate!"
+  },
+
+  "etymology": {
+    "ja": "中世イタリア語ですでに用いられていた語だが、その語源は確定していない。アラビア語で使者・走者を表した語との関係など、複数の説が提案されている。当初は若い使用人・小姓・使い走りなどを指し、そこから少年・若者一般へ意味が広がったと考えられる。派生語にはragazzino、ragazzetto、ragazzataがある。",
+    "it": "La parola è attestata nell’italiano medievale, ma la sua origine non è definitivamente chiarita. Sono state proposte diverse ipotesi, tra cui un collegamento con una voce araba riferita a un messaggero o a un corridore. In origine indicava probabilmente un giovane servitore, garzone o aiutante; in seguito passò a designare genericamente un adolescente o un giovane. Dalla stessa base derivano ragazzino, ragazzetto e ragazzata."
+  },
+
+  "minimal": [
+    {
+      "word": "ragazzo",
+      "ja": "少年または若い男性。文脈によっては彼氏",
+      "it": "persona giovane di sesso maschile oppure partner maschile"
+    },
+    {
+      "word": "uomo",
+      "ja": "成人した男性",
+      "it": "essere umano adulto di sesso maschile"
+    },
+    {
+      "word": "bambino",
+      "ja": "思春期前の男児・子供",
+      "it": "persona di sesso maschile nell’età infantile"
+    },
+    {
+      "word": "giovane",
+      "ja": "性別にかかわらず若い人、または「若い」を表す形容詞",
+      "it": "persona di giovane età oppure aggettivo che indica giovinezza"
+    },
+    {
+      "word": "fidanzato",
+      "ja": "恋愛関係にある男性。文脈により婚約者または彼氏",
+      "it": "partner maschile in una relazione sentimentale, talvolta promesso sposo"
+    }
+  ],
+
+  "synonyms": [
+    "giovane",
+    "giovanotto",
+    "adolescente",
+    "fidanzato",
+    "compagno",
+    "garzone"
+  ],
+
+  "equivalents": {
+    "en": [
+      "boy",
+      "young man",
+      "boyfriend",
+      "guy"
+    ],
+    "de": [
+      "Junge",
+      "junger Mann",
+      "Freund"
+    ],
+    "fr": [
+      "garçon",
+      "jeune homme",
+      "petit ami"
+    ],
+    "es": [
+      "chico",
+      "joven",
+      "novio"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "un ragazzo giovane",
+      "ja": "若い男性"
+    },
+    {
+      "it": "un bravo ragazzo",
+      "ja": "善良な青年・感じの良い若者"
+    },
+    {
+      "it": "un ragazzo intelligente",
+      "ja": "頭の良い少年・青年"
+    },
+    {
+      "it": "un ragazzo timido",
+      "ja": "内気な少年・青年"
+    },
+    {
+      "it": "un ragazzo della mia età",
+      "ja": "私と同年代の男性"
+    },
+    {
+      "it": "un ragazzo di diciotto anni",
+      "ja": "18歳の少年・青年"
+    },
+    {
+      "it": "il mio ragazzo",
+      "ja": "私の彼氏"
+    },
+    {
+      "it": "conoscere un ragazzo",
+      "ja": "ある男性と知り合う"
+    },
+    {
+      "it": "uscire con un ragazzo",
+      "ja": "男性とデートする・交際する"
+    },
+    {
+      "it": "un gruppo di ragazzi",
+      "ja": "若者たちの一団"
+    },
+    {
+      "it": "ragazzi e ragazze",
+      "ja": "少年少女・若い男女"
+    },
+    {
+      "it": "Ciao, ragazzi!",
+      "ja": "やあ、みんな！"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Quel ragazzo è mio figlio.",
+      "ja": "あの少年は私の息子です。"
+    },
+    {
+      "it": "Alla fermata ho incontrato un ragazzo della mia età.",
+      "ja": "停留所で私と同年代の男性に会いました。"
+    },
+    {
+      "it": "Luca è un ragazzo gentile e responsabile.",
+      "ja": "ルカは親切で責任感のある青年です。"
+    },
+    {
+      "it": "Mia sorella mi ha presentato il suo ragazzo.",
+      "ja": "姉は私に彼氏を紹介しました。"
+    },
+    {
+      "it": "Quando ero ragazzo, andavo spesso a pescare con mio padre.",
+      "ja": "少年だったころ、私は父とよく釣りに行きました。"
+    },
+    {
+      "it": "Un gruppo di ragazzi giocava a calcio nel parco.",
+      "ja": "若者たちの一団が公園でサッカーをしていました。"
+    },
+    {
+      "it": "Ragazzi, la lezione sta per cominciare!",
+      "ja": "みなさん、もうすぐ授業が始まりますよ。"
+    },
+    {
+      "it": "Il ragazzo del bar ci ha portato due caffè.",
+      "ja": "カフェの若い店員が私たちにコーヒーを二杯運んできました。"
+    }
+  ]
+},
+{
+  "id": "ragazza",
+  "sid": "2026-00428",
+  "word": "ragazza",
+  "ipa": "/raˈɡattsa/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "ragazze",
+    "pattern": "la ragazza / le ragazze / una ragazza + aggettivo / la ragazza di + persona / ragazza che + verbo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "school",
+      "work",
+      "social",
+      "daily_life"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "少女、十代またはそれに近い年齢の女子",
+      "若い女性",
+      "成人より若い、または話者から見て若く感じられる女性",
+      "恋愛関係にある女性、彼女・恋人",
+      "若い女性従業員・見習い・助手など",
+      "娘や若い女性の家族を親しみを込めて指す語",
+      "複数形ragazzeで、少女・若い女性の集団",
+      "複数形を呼びかけに用いて、女性たち・みんな"
+    ],
+    "it": [
+      "Persona di sesso femminile nell’adolescenza o in un’età vicina.",
+      "Donna giovane, non ancora considerata pienamente matura.",
+      "Persona di sesso femminile percepita come giovane rispetto a chi parla.",
+      "Partner femminile con la quale si ha una relazione sentimentale.",
+      "Giovane lavoratrice, apprendista, aiutante o dipendente.",
+      "Figlia o giovane componente femminile della famiglia, indicata con familiarità.",
+      "Al plurale, gruppo formato da adolescenti o giovani donne.",
+      "Al plurale come forma informale di richiamo rivolta a più persone di sesso femminile."
+    ]
+  },
+
+  "nuance": {
+    "ja": "ragazzaは少女から若い成人女性までを広く指し、年齢の明確な上限はない。会話では20代や30代の女性にも使われることがあるが、成人女性であることを中立的に示すならdonnaがより明確である。la mia ragazzaは通常「私の彼女・恋人」を意味する。単独で相手をragazzaと呼ぶと、年齢差や状況によっては親しみのある表現にも、相手を子供扱いする表現にもなり得る。職業を示すragazza alla pariは住み込みで育児や家事を手伝うオペアを意味する。",
+    "it": "Ragazza può indicare un’adolescente o una giovane adulta e non possiede un limite d’età rigoroso. Nel parlato può essere usato anche per donne di venti o trent’anni; donna è però più neutro quando si vuole sottolineare l’età adulta. La mia ragazza significa normalmente «la mia fidanzata» o «la mia compagna». Rivolgersi direttamente a un’adulta chiamandola ragazza può essere affettuoso, ma in alcuni contesti può risultare paternalistico. Ragazza alla pari indica una giovane che vive presso una famiglia aiutandola soprattutto nella cura dei bambini."
+  },
+
+  "etymology": {
+    "ja": "男性形ragazzoから作られた女性形である。ragazzo自体は中世イタリア語ですでに確認されるが、さらに古い語源は確定していない。若い使用人・小姓・使い走りなどを指す語から、若者一般を表すようになったと考えられる。派生語にはragazzina「少女・小柄な若い女性」、ragazzetta、ragazzata「若気の至り」がある。",
+    "it": "È il femminile di ragazzo, parola attestata già nell’italiano medievale ma di origine non definitivamente chiarita. La voce indicava probabilmente in origine un giovane servitore, garzone o aiutante e passò poi a designare una persona giovane. Dalla stessa base derivano ragazzina, ragazzetta e ragazzata."
+  },
+
+  "minimal": [
+    {
+      "word": "ragazza",
+      "ja": "少女または若い女性。文脈によっては彼女・恋人",
+      "it": "persona giovane di sesso femminile oppure partner femminile"
+    },
+    {
+      "word": "donna",
+      "ja": "成人した女性",
+      "it": "essere umano adulto di sesso femminile"
+    },
+    {
+      "word": "bambina",
+      "ja": "思春期前の女児・子供",
+      "it": "persona di sesso femminile nell’età infantile"
+    },
+    {
+      "word": "giovane",
+      "ja": "性別にかかわらず若い人、または「若い」を表す形容詞",
+      "it": "persona di giovane età oppure aggettivo che indica giovinezza"
+    },
+    {
+      "word": "fidanzata",
+      "ja": "恋愛関係にある女性。文脈により婚約者または彼女",
+      "it": "partner femminile in una relazione sentimentale, talvolta promessa sposa"
+    }
+  ],
+
+  "synonyms": [
+    "giovane",
+    "giovane donna",
+    "adolescente",
+    "fidanzata",
+    "compagna",
+    "ragazzina"
+  ],
+
+  "equivalents": {
+    "en": [
+      "girl",
+      "young woman",
+      "girlfriend"
+    ],
+    "de": [
+      "Mädchen",
+      "junge Frau",
+      "Freundin"
+    ],
+    "fr": [
+      "fille",
+      "jeune femme",
+      "petite amie"
+    ],
+    "es": [
+      "chica",
+      "joven",
+      "novia"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "una ragazza giovane",
+      "ja": "若い女性"
+    },
+    {
+      "it": "una brava ragazza",
+      "ja": "善良な女性・感じの良い女の子"
+    },
+    {
+      "it": "una ragazza intelligente",
+      "ja": "頭の良い少女・若い女性"
+    },
+    {
+      "it": "una ragazza timida",
+      "ja": "内気な少女・若い女性"
+    },
+    {
+      "it": "una ragazza della mia età",
+      "ja": "私と同年代の女性"
+    },
+    {
+      "it": "una ragazza di diciotto anni",
+      "ja": "18歳の少女・若い女性"
+    },
+    {
+      "it": "la mia ragazza",
+      "ja": "私の彼女"
+    },
+    {
+      "it": "conoscere una ragazza",
+      "ja": "ある女性と知り合う"
+    },
+    {
+      "it": "uscire con una ragazza",
+      "ja": "女性とデートする・交際する"
+    },
+    {
+      "it": "un gruppo di ragazze",
+      "ja": "少女・若い女性たちの一団"
+    },
+    {
+      "it": "ragazza alla pari",
+      "ja": "住み込みで育児などを手伝うオペア"
+    },
+    {
+      "it": "Ciao, ragazze!",
+      "ja": "やあ、みんな！"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Quella ragazza è mia figlia.",
+      "ja": "あの女の子は私の娘です。"
+    },
+    {
+      "it": "Sul treno ho conosciuto una ragazza di Firenze.",
+      "ja": "列車の中でフィレンツェ出身の若い女性と知り合いました。"
+    },
+    {
+      "it": "Anna è una ragazza gentile e molto curiosa.",
+      "ja": "アンナは親切で、とても好奇心の強い女性です。"
+    },
+    {
+      "it": "Luca ci ha presentato la sua ragazza.",
+      "ja": "ルカは私たちに彼女を紹介しました。"
+    },
+    {
+      "it": "Quando ero ragazza, trascorrevo ogni estate dai nonni.",
+      "ja": "少女だったころ、私は毎年夏を祖父母の家で過ごしていました。"
+    },
+    {
+      "it": "Un gruppo di ragazze aspettava davanti alla scuola.",
+      "ja": "少女たちの一団が学校の前で待っていました。"
+    },
+    {
+      "it": "Ragazze, siete pronte per partire?",
+      "ja": "みなさん、出発の準備はできましたか。"
+    },
+    {
+      "it": "La famiglia cerca una ragazza alla pari per occuparsi dei bambini.",
+      "ja": "その家族は子供たちの世話をするオペアを探しています。"
+    }
+  ]
+},
+{
+  "id": "bambino",
+  "sid": "2026-00429",
+  "word": "bambino",
+  "ipa": "/bamˈbino/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞・形容詞的用法もある",
+      "it": "sostantivo maschile, anche con uso aggettivale"
+    },
+    "gender": "masculine",
+    "plural": "bambini",
+    "pattern": "il bambino / i bambini / un bambino + aggettivo / bambino di + età / quando ero bambino / comportarsi come un bambino"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "childcare",
+      "education",
+      "health",
+      "play",
+      "daily_life"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "乳児期を過ぎて思春期に達する前の男児、子供",
+      "性別を特に意識せずに捉えた幼い子供",
+      "複数形bambiniで、男児または男女を含む子供たち",
+      "親から見た息子、特にまだ幼い息子",
+      "年齢にかかわらず、未熟・無邪気・子供っぽい人",
+      "人の幼少期を表すquando ero bambinoなどの表現の構成要素",
+      "形容詞的に、幼少期の人物や子供としての姿"
+    ],
+    "it": [
+      "Persona di sesso maschile dall’infanzia fino all’inizio dell’adolescenza.",
+      "Essere umano in età infantile, senza particolare rilievo del sesso.",
+      "Al plurale, gruppo di figli o persone in età infantile, anche di sesso diverso.",
+      "Figlio maschio considerato soprattutto durante l’infanzia.",
+      "Persona che si comporta in modo immaturo, ingenuo o capriccioso.",
+      "Elemento di espressioni che indicano il periodo dell’infanzia.",
+      "In uso aggettivale, riferito a una persona quando era ancora nell’età infantile."
+    ]
+  },
+
+  "nuance": {
+    "ja": "bambinoは一般に乳児期から思春期前までの男児を指すが、複数形bambiniは男女混合の子供たちにも用いられる。出生直後の赤ちゃんはneonato、日常的な「赤ちゃん」にはbebèが使われることもある。思春期以降の少年・若者は通常ragazzoである。成人に対してSei un bambino!と言うと「子供っぽい・未熟だ」という批判になる一方、親しい間柄では愛情を込めた表現になる場合もある。写真の説明などでio bambinoと言えば「子供のころの私」を意味する。",
+    "it": "Bambino indica generalmente una persona di sesso maschile dall’infanzia fino all’inizio dell’adolescenza. Il plurale bambini può comprendere anche un gruppo misto. Neonato indica specificamente un bambino nelle prime settimane di vita, mentre bebè è comune per un bambino molto piccolo. Ragazzo si usa normalmente dall’adolescenza in poi. Riferito a un adulto, bambino può criticare un comportamento immaturo, ma in un rapporto affettivo può assumere un tono tenero. Espressioni come io bambino significano «io quando ero bambino»."
+  },
+
+  "etymology": {
+    "ja": "幼児語に由来するbambo「子供・単純な人」に、縮小・親愛を表す接尾辞-inoが付いて形成されたと考えられる。bamb-は幼児の発する反復的な音を模した表現的な語根で、古くから幼さ・言葉をうまく話せないことと結び付けられてきた。同じ語族にはbambina、bambino、bambinata、bambinesco、rimbambireがある。",
+    "it": "È generalmente ricondotto a bambo, antica voce espressiva riferita a un bambino o a una persona semplice, con l’aggiunta del suffisso diminutivo e affettivo -ino. La base bamb- è probabilmente di origine infantile e imitativa, collegata ai suoni ripetuti prodotti dai bambini piccoli. Alla stessa famiglia appartengono bambina, bambinata, bambinesco e rimbambire."
+  },
+
+  "minimal": [
+    {
+      "word": "bambino",
+      "ja": "思春期前の男児、または性別を特に限定しない幼い子供",
+      "it": "persona di sesso maschile nell’età infantile oppure, in senso generale, essere umano molto giovane"
+    },
+    {
+      "word": "neonato",
+      "ja": "生まれて間もない新生児",
+      "it": "bambino nelle prime settimane successive alla nascita"
+    },
+    {
+      "word": "bebè",
+      "ja": "日常語で、乳児・赤ちゃん",
+      "it": "bambino molto piccolo, soprattutto nel linguaggio quotidiano"
+    },
+    {
+      "word": "ragazzo",
+      "ja": "思春期の少年または若い男性",
+      "it": "persona di sesso maschile nell’adolescenza o nella prima giovinezza"
+    },
+    {
+      "word": "figlio",
+      "ja": "親との関係から見た男性の子",
+      "it": "persona di sesso maschile considerata rispetto ai propri genitori"
+    }
+  ],
+
+  "synonyms": [
+    "bimbo",
+    "piccolo",
+    "fanciullo",
+    "minore",
+    "ragazzino",
+    "figlio"
+  ],
+
+  "equivalents": {
+    "en": [
+      "child",
+      "boy",
+      "kid"
+    ],
+    "de": [
+      "Kind",
+      "Junge",
+      "kleiner Junge"
+    ],
+    "fr": [
+      "enfant",
+      "garçon",
+      "petit"
+    ],
+    "es": [
+      "niño",
+      "chico",
+      "pequeño"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "un bambino piccolo",
+      "ja": "小さな子供・幼い男の子"
+    },
+    {
+      "it": "un bambino appena nato",
+      "ja": "生まれたばかりの赤ちゃん"
+    },
+    {
+      "it": "un bambino di cinque anni",
+      "ja": "5歳の男の子"
+    },
+    {
+      "it": "un bambino sano",
+      "ja": "健康な子供"
+    },
+    {
+      "it": "un bambino vivace",
+      "ja": "活発な子供"
+    },
+    {
+      "it": "un bambino timido",
+      "ja": "内気な子供"
+    },
+    {
+      "it": "aspettare un bambino",
+      "ja": "子供の誕生を待つ・妊娠している"
+    },
+    {
+      "it": "avere un bambino",
+      "ja": "子供を産む・子供がいる"
+    },
+    {
+      "it": "prendersi cura di un bambino",
+      "ja": "子供の世話をする"
+    },
+    {
+      "it": "crescere un bambino",
+      "ja": "子供を育てる"
+    },
+    {
+      "it": "quando ero bambino",
+      "ja": "私が子供だったころ"
+    },
+    {
+      "it": "comportarsi come un bambino",
+      "ja": "子供のように振る舞う"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Il bambino sta giocando in giardino.",
+      "ja": "その男の子は庭で遊んでいます。"
+    },
+    {
+      "it": "Hanno un bambino di quattro anni.",
+      "ja": "彼らには4歳の男の子がいます。"
+    },
+    {
+      "it": "Quando ero bambino, avevo paura del buio.",
+      "ja": "子供のころ、私は暗闇が怖かったです。"
+    },
+    {
+      "it": "I bambini sono già entrati in classe.",
+      "ja": "子供たちはもう教室に入りました。"
+    },
+    {
+      "it": "È importante ascoltare ciò che dice un bambino.",
+      "ja": "子供の言うことに耳を傾けるのは重要です。"
+    },
+    {
+      "it": "Mia sorella aspetta un bambino.",
+      "ja": "姉は妊娠しています。"
+    },
+    {
+      "it": "Non comportarti come un bambino.",
+      "ja": "子供のように振る舞わないでください。"
+    },
+    {
+      "it": "In questa fotografia sono io da bambino.",
+      "ja": "この写真に写っているのは子供のころの私です。"
+    }
+  ]
+},
+{
+  "id": "bambina",
+  "sid": "2026-00430",
+  "word": "bambina",
+  "ipa": "/bamˈbina/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞・形容詞的用法もある",
+      "it": "sostantivo femminile, anche con uso aggettivale"
+    },
+    "gender": "feminine",
+    "plural": "bambine",
+    "pattern": "la bambina / le bambine / una bambina + aggettivo / bambina di + età / quando ero bambina / comportarsi come una bambina"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "childcare",
+      "education",
+      "health",
+      "play",
+      "daily_life"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "乳児期を過ぎて思春期に達する前の女児、女の子",
+      "親から見た娘、特にまだ幼い娘",
+      "幼さ・無邪気さ・未熟さを感じさせる女性",
+      "年齢にかかわらず、子供っぽく振る舞う女性",
+      "人の幼少期を表すquando ero bambinaなどの表現の構成要素",
+      "複数形bambineで、女児だけからなる集団",
+      "形容詞的に、幼少期の女性や子供としての姿"
+    ],
+    "it": [
+      "Persona di sesso femminile dall’infanzia fino all’inizio dell’adolescenza.",
+      "Figlia femmina considerata soprattutto durante l’infanzia.",
+      "Persona di sesso femminile che mostra innocenza, fragilità o caratteristiche infantili.",
+      "Donna che si comporta in modo immaturo, ingenuo o capriccioso.",
+      "Elemento di espressioni che indicano il periodo dell’infanzia.",
+      "Al plurale, gruppo composto esclusivamente da persone di sesso femminile in età infantile.",
+      "In uso aggettivale, riferito a una persona di sesso femminile quando era ancora nell’età infantile."
+    ]
+  },
+
+  "nuance": {
+    "ja": "bambinaは乳児期から思春期前までの女児を指し、男性形はbambinoである。出生直後ならneonata、日常的な「赤ちゃん」ならbebèも使える。思春期以降の少女・若い女性には通常ragazzaを使う。成人女性にSei una bambinaと言うと「幼稚だ・未熟だ」という批判になり得るが、恋人や家族の間では愛情を込めた呼び方になる場合もある。写真などでio bambinaと言えば「少女だったころの私」を表す。",
+    "it": "Bambina indica una persona di sesso femminile dall’infanzia fino all’inizio dell’adolescenza; la forma maschile è bambino. Neonata si riferisce in modo specifico alle prime settimane di vita, mentre bebè può indicare familiarmente una bambina molto piccola. Dall’adolescenza in poi si usa normalmente ragazza. Dire a un’adulta Sei una bambina può criticare la sua immaturità, ma in un rapporto affettivo può avere un tono tenero. Io bambina significa «io quando ero bambina»."
+  },
+
+  "etymology": {
+    "ja": "bambinoの女性形で、幼児語に由来するbambo「子供・単純な人」と、縮小・親愛を表す接尾辞-ino／-inaに関係する。bamb-は幼児が発する反復音を模した表現的な語根と考えられている。同じ語族にはbimbo、bimba、bambinata、bambinescoなどがある。",
+    "it": "È il femminile di bambino, generalmente ricondotto all’antica voce espressiva bambo con il suffisso diminutivo e affettivo -ino, al femminile -ina. La base bamb- è probabilmente legata ai suoni ripetuti tipici del linguaggio infantile. Alla stessa famiglia appartengono bimbo, bimba, bambinata e bambinesco."
+  },
+
+  "minimal": [
+    {
+      "word": "bambina",
+      "ja": "乳児期を過ぎ、思春期に達する前の女児",
+      "it": "persona di sesso femminile nell’età infantile"
+    },
+    {
+      "word": "neonata",
+      "ja": "生まれて間もない女児・新生児",
+      "it": "bambina nelle prime settimane successive alla nascita"
+    },
+    {
+      "word": "bebè",
+      "ja": "性別を特定せずに表す乳児・赤ちゃん",
+      "it": "bambino o bambina molto piccoli, soprattutto nel linguaggio quotidiano"
+    },
+    {
+      "word": "ragazza",
+      "ja": "思春期の少女または若い女性",
+      "it": "persona di sesso femminile nell’adolescenza o nella prima giovinezza"
+    },
+    {
+      "word": "figlia",
+      "ja": "親との関係から見た女性の子",
+      "it": "persona di sesso femminile considerata rispetto ai propri genitori"
+    }
+  ],
+
+  "synonyms": [
+    "bimba",
+    "piccola",
+    "fanciulla",
+    "minore",
+    "ragazzina",
+    "figlia"
+  ],
+
+  "equivalents": {
+    "en": [
+      "girl",
+      "female child",
+      "little girl"
+    ],
+    "de": [
+      "Mädchen",
+      "Kind",
+      "kleines Mädchen"
+    ],
+    "fr": [
+      "fille",
+      "enfant",
+      "petite fille"
+    ],
+    "es": [
+      "niña",
+      "chica",
+      "pequeña"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "una bambina piccola",
+      "ja": "小さな女の子"
+    },
+    {
+      "it": "una bambina appena nata",
+      "ja": "生まれたばかりの女の赤ちゃん"
+    },
+    {
+      "it": "una bambina di cinque anni",
+      "ja": "5歳の女の子"
+    },
+    {
+      "it": "una bambina sana",
+      "ja": "健康な女の子"
+    },
+    {
+      "it": "una bambina vivace",
+      "ja": "活発な女の子"
+    },
+    {
+      "it": "una bambina timida",
+      "ja": "内気な女の子"
+    },
+    {
+      "it": "una bambina curiosa",
+      "ja": "好奇心の強い女の子"
+    },
+    {
+      "it": "prendersi cura di una bambina",
+      "ja": "女の子の世話をする"
+    },
+    {
+      "it": "crescere una bambina",
+      "ja": "女の子を育てる"
+    },
+    {
+      "it": "giocare con le bambine",
+      "ja": "女の子たちと遊ぶ"
+    },
+    {
+      "it": "quando ero bambina",
+      "ja": "私が子供だったころ"
+    },
+    {
+      "it": "comportarsi come una bambina",
+      "ja": "子供のように振る舞う"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "La bambina sta disegnando un fiore.",
+      "ja": "その女の子は花の絵を描いています。"
+    },
+    {
+      "it": "Hanno una bambina di sei anni.",
+      "ja": "彼らには6歳の女の子がいます。"
+    },
+    {
+      "it": "Quando ero bambina, trascorrevo l’estate al mare.",
+      "ja": "子供のころ、私は夏を海辺で過ごしていました。"
+    },
+    {
+      "it": "Le bambine giocano insieme nel giardino.",
+      "ja": "女の子たちは庭で一緒に遊んでいます。"
+    },
+    {
+      "it": "La bambina ha cominciato a parlare molto presto.",
+      "ja": "その女の子はとても早く話し始めました。"
+    },
+    {
+      "it": "La madre teneva la bambina per mano.",
+      "ja": "母親は女の子の手を握っていました。"
+    },
+    {
+      "it": "Non fare la bambina: affronta il problema con calma.",
+      "ja": "子供のように振る舞わず、落ち着いて問題に向き合ってください。"
+    },
+    {
+      "it": "In quella fotografia mia nonna era ancora bambina.",
+      "ja": "その写真では、祖母はまだ少女でした。"
+    }
+  ]
+},
+{
+  "id": "marito",
+  "sid": "2026-00431",
+  "word": "marito",
+  "ipa": "/maˈrito/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "mariti",
+    "pattern": "mio, tuo, suo marito / il marito di + persona / essere marito e moglie / prendere qualcuno per marito"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "marriage",
+      "law",
+      "administration",
+      "daily_life"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "婚姻関係にある男性、夫",
+      "配偶者として家庭生活を営む男性",
+      "法律・行政上、婚姻によって他者と結ばれた男性",
+      "特定の人物の男性配偶者",
+      "文学的・歴史的文脈で、女性が結婚相手として選ぶ男性"
+    ],
+    "it": [
+      "Uomo unito in matrimonio a un’altra persona.",
+      "Coniuge maschile considerato nella vita familiare e domestica.",
+      "Persona di sesso maschile legata da un rapporto matrimoniale riconosciuto giuridicamente.",
+      "Coniuge maschile di una persona determinata.",
+      "In contesti letterari o storici, uomo scelto o destinato come partner matrimoniale."
+    ]
+  },
+
+  "nuance": {
+    "ja": "maritoは正式な婚姻関係にある男性配偶者を表す。通常、近親者を表す語と同様に、単数の所有形容詞と使う場合は定冠詞を付けずmio marito、tuo marito、suo maritoと言う。ただし形容詞などが加わる場合はil mio caro maritoのように冠詞を用いる。結婚していない恋人はfidanzatoまたはcompagnoであり、maritoとは区別される。sposoは結婚式当日の「新郎」や結婚したばかりの夫を指すことが多い。",
+    "it": "Marito indica il coniuge maschile all’interno di un matrimonio. Con l’aggettivo possessivo singolare si usa normalmente senza articolo: mio marito, tuo marito, suo marito. L’articolo ricompare quando il nome è modificato, per esempio il mio caro marito. Un partner non sposato è normalmente chiamato fidanzato o compagno. Sposo indica soprattutto l’uomo nel giorno delle nozze oppure un uomo appena sposato."
+  },
+
+  "etymology": {
+    "ja": "ラテン語marītus「夫・既婚男性」に由来する。古典ラテン語では名詞として「夫」、形容詞として「婚姻の・夫婦の」を意味した。さらに古い語源については完全には確定していないが、男性を表すmasや婚姻に関係する語群との関連が論じられている。同じ語族にはmaritale「夫婦の」、maritarsi「結婚する」がある。",
+    "it": "Deriva dal latino marītus, «marito, uomo sposato», usato anche come aggettivo con il significato di «coniugale». L’origine più remota non è del tutto certa, anche se è stata collegata a parole latine relative al maschio e al matrimonio. Alla stessa famiglia appartengono maritale e maritarsi."
+  },
+
+  "minimal": [
+    {
+      "word": "marito",
+      "ja": "婚姻関係にある男性配偶者、夫",
+      "it": "coniuge di sesso maschile"
+    },
+    {
+      "word": "moglie",
+      "ja": "婚姻関係にある女性配偶者、妻",
+      "it": "coniuge di sesso femminile"
+    },
+    {
+      "word": "sposo",
+      "ja": "結婚式の新郎、または結婚したばかりの夫",
+      "it": "uomo nel giorno delle nozze oppure uomo appena sposato"
+    },
+    {
+      "word": "fidanzato",
+      "ja": "男性の恋人または婚約者",
+      "it": "partner maschile in una relazione sentimentale o in un fidanzamento"
+    },
+    {
+      "word": "compagno",
+      "ja": "婚姻の有無を問わず、生活を共にする男性パートナー",
+      "it": "partner maschile con cui si condivide una relazione stabile, anche senza matrimonio"
+    }
+  ],
+
+  "synonyms": [
+    "coniuge",
+    "sposo",
+    "consorte",
+    "compagno",
+    "partner"
+  ],
+
+  "equivalents": {
+    "en": [
+      "husband",
+      "spouse"
+    ],
+    "de": [
+      "Ehemann",
+      "Gatte"
+    ],
+    "fr": [
+      "mari",
+      "époux"
+    ],
+    "es": [
+      "marido",
+      "esposo"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mio marito",
+      "ja": "私の夫"
+    },
+    {
+      "it": "il marito di Maria",
+      "ja": "マリアの夫"
+    },
+    {
+      "it": "marito e moglie",
+      "ja": "夫と妻・夫婦"
+    },
+    {
+      "it": "un buon marito",
+      "ja": "よい夫"
+    },
+    {
+      "it": "un marito affettuoso",
+      "ja": "愛情深い夫"
+    },
+    {
+      "it": "un marito fedele",
+      "ja": "貞節な夫"
+    },
+    {
+      "it": "il futuro marito",
+      "ja": "将来の夫"
+    },
+    {
+      "it": "l’ex marito",
+      "ja": "元夫"
+    },
+    {
+      "it": "diventare marito e moglie",
+      "ja": "夫婦になる"
+    },
+    {
+      "it": "presentare il proprio marito",
+      "ja": "自分の夫を紹介する"
+    },
+    {
+      "it": "separarsi dal marito",
+      "ja": "夫と別居する・別れる"
+    },
+    {
+      "it": "perdere il marito",
+      "ja": "夫を亡くす"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Mio marito lavora in una banca.",
+      "ja": "私の夫は銀行で働いています。"
+    },
+    {
+      "it": "Ti presento mio marito, Luca.",
+      "ja": "夫のルカを紹介します。"
+    },
+    {
+      "it": "Lei e suo marito vivono a Roma.",
+      "ja": "彼女と夫はローマに住んでいます。"
+    },
+    {
+      "it": "Sono marito e moglie da dieci anni.",
+      "ja": "二人は結婚して10年になります。"
+    },
+    {
+      "it": "Anna ha conosciuto il futuro marito all’università.",
+      "ja": "アンナは大学で将来の夫と出会いました。"
+    },
+    {
+      "it": "Il marito di mia sorella è mio cognato.",
+      "ja": "姉の夫は私の義兄です。"
+    },
+    {
+      "it": "Dopo il divorzio è rimasta in buoni rapporti con l’ex marito.",
+      "ja": "離婚後も、彼女は元夫と良好な関係を保っています。"
+    }
+  ]
+},
+{
+  "id": "moglie",
+  "sid": "2026-00432",
+  "word": "moglie",
+  "ipa": "/ˈmoʎʎe/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "mogli",
+    "pattern": "mia, tua, sua moglie / la moglie di + persona / essere marito e moglie / prendere qualcuno per moglie"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "marriage",
+      "law",
+      "administration",
+      "daily_life"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "婚姻関係にある女性、妻",
+      "配偶者として家庭生活を営む女性",
+      "法律・行政上、婚姻によって他者と結ばれた女性",
+      "特定の人物の女性配偶者",
+      "文学的・歴史的文脈で、結婚相手として選ばれた女性"
+    ],
+    "it": [
+      "Donna unita in matrimonio a un’altra persona.",
+      "Coniuge femminile considerata nella vita familiare e domestica.",
+      "Persona di sesso femminile legata da un rapporto matrimoniale riconosciuto giuridicamente.",
+      "Coniuge femminile di una persona determinata.",
+      "In contesti letterari o storici, donna scelta o destinata come partner matrimoniale."
+    ]
+  },
+
+  "nuance": {
+    "ja": "moglieは正式な婚姻関係にある女性配偶者を表す。単数の所有形容詞と使う場合は通常定冠詞を付けずmia moglie、tua moglie、sua moglieと言う。ただし形容詞などが加わればla mia cara moglieのように冠詞を用いる。結婚していない女性の恋人はfidanzataまたはcompagnaであり、moglieとは区別される。sposaは結婚式当日の「花嫁」や結婚したばかりの妻を指すことが多い。複数形はmoglieではなくmogliとなる。",
+    "it": "Moglie indica la coniuge femminile all’interno di un matrimonio. Con l’aggettivo possessivo singolare si usa normalmente senza articolo: mia moglie, tua moglie, sua moglie. L’articolo ricompare quando il nome è accompagnato da altri elementi, come la mia cara moglie. Una partner non sposata è normalmente chiamata fidanzata o compagna. Sposa indica soprattutto la donna nel giorno delle nozze oppure una donna appena sposata. Il plurale è mogli."
+  },
+
+  "etymology": {
+    "ja": "ラテン語mulier、属格mulieris「女性・妻」に由来する。ラテン語では成人女性一般を表す語だったが、イタリア語では意味が狭まり、主として「妻」を表すようになった。音韻変化によって語中の-li-がイタリア語特有の子音/ʎʎ/となり、現在のmoglieが成立した。",
+    "it": "Deriva dal latino mulier, genitivo mulieris, «donna, moglie». In latino la parola indicava generalmente una donna adulta; nel passaggio all’italiano il significato si è ristretto soprattutto a quello di coniuge femminile. L’evoluzione fonetica ha prodotto il suono palatale rappresentato dal gruppo gli nella forma moderna moglie."
+  },
+
+  "minimal": [
+    {
+      "word": "moglie",
+      "ja": "婚姻関係にある女性配偶者、妻",
+      "it": "coniuge di sesso femminile"
+    },
+    {
+      "word": "marito",
+      "ja": "婚姻関係にある男性配偶者、夫",
+      "it": "coniuge di sesso maschile"
+    },
+    {
+      "word": "sposa",
+      "ja": "結婚式の花嫁、または結婚したばかりの妻",
+      "it": "donna nel giorno delle nozze oppure donna appena sposata"
+    },
+    {
+      "word": "fidanzata",
+      "ja": "女性の恋人または婚約者",
+      "it": "partner femminile in una relazione sentimentale o in un fidanzamento"
+    },
+    {
+      "word": "compagna",
+      "ja": "婚姻の有無を問わず、生活を共にする女性パートナー",
+      "it": "partner femminile con cui si condivide una relazione stabile, anche senza matrimonio"
+    }
+  ],
+
+  "synonyms": [
+    "coniuge",
+    "sposa",
+    "consorte",
+    "compagna",
+    "partner"
+  ],
+
+  "equivalents": {
+    "en": [
+      "wife",
+      "spouse"
+    ],
+    "de": [
+      "Ehefrau",
+      "Gattin"
+    ],
+    "fr": [
+      "femme",
+      "épouse"
+    ],
+    "es": [
+      "mujer",
+      "esposa"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mia moglie",
+      "ja": "私の妻"
+    },
+    {
+      "it": "la moglie di Marco",
+      "ja": "マルコの妻"
+    },
+    {
+      "it": "marito e moglie",
+      "ja": "夫と妻・夫婦"
+    },
+    {
+      "it": "una buona moglie",
+      "ja": "よい妻"
+    },
+    {
+      "it": "una moglie affettuosa",
+      "ja": "愛情深い妻"
+    },
+    {
+      "it": "una moglie fedele",
+      "ja": "貞節な妻"
+    },
+    {
+      "it": "la futura moglie",
+      "ja": "将来の妻"
+    },
+    {
+      "it": "l’ex moglie",
+      "ja": "元妻"
+    },
+    {
+      "it": "diventare marito e moglie",
+      "ja": "夫婦になる"
+    },
+    {
+      "it": "presentare la propria moglie",
+      "ja": "自分の妻を紹介する"
+    },
+    {
+      "it": "separarsi dalla moglie",
+      "ja": "妻と別居する・別れる"
+    },
+    {
+      "it": "perdere la moglie",
+      "ja": "妻を亡くす"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Mia moglie si chiama Mayumi.",
+      "ja": "私の妻はマユミといいます。"
+    },
+    {
+      "it": "Ti presento mia moglie.",
+      "ja": "妻を紹介します。"
+    },
+    {
+      "it": "Paolo e sua moglie abitano vicino alla stazione.",
+      "ja": "パオロと妻は駅の近くに住んでいます。"
+    },
+    {
+      "it": "Sono marito e moglie da cinque anni.",
+      "ja": "二人は結婚して5年になります。"
+    },
+    {
+      "it": "Ha conosciuto la futura moglie durante un viaggio.",
+      "ja": "彼は旅行中に将来の妻と出会いました。"
+    },
+    {
+      "it": "La moglie di mio fratello è mia cognata.",
+      "ja": "兄の妻は私の義姉です。"
+    },
+    {
+      "it": "Dopo il divorzio ha continuato a collaborare con l’ex moglie.",
+      "ja": "離婚後も、彼は元妻との協力を続けました。"
+    }
+  ]
 }  
 ]
