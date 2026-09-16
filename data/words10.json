@@ -2873,5 +2873,227 @@
       "ja": "そのチームは攻撃局面でも守備局面でもよいプレーをしました。"
     }
   ]
+},
+{
+  "id": "dolore",
+  "sid": "2026-00399",
+  "word": "dolore",
+  "ipa": "/doˈlore/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "dolori",
+    "pattern": "avere un dolore a + parte del corpo / provare o sentire dolore / dolore a, al, alla + parte del corpo / dolore per + evento o perdita / causare, alleviare o sopportare il dolore"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "medical",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "health",
+      "medicine",
+      "emotions",
+      "loss",
+      "emergency",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "けが・病気・刺激などによって身体に感じる痛み",
+      "身体の特定の部分に生じる痛み・疼痛",
+      "死別・喪失・失敗などによって感じる深い悲しみ",
+      "精神的・感情的な苦痛",
+      "長期間にわたって人を苦しめる身体的または精神的な苦しみ",
+      "複数形doloriで、身体の各部に生じる痛み・疼痛",
+      "dolori del partoの形で、出産時の陣痛",
+      "他人の苦しみに対して感じる悲痛・同情"
+    ],
+    "it": [
+      "Sensazione fisica spiacevole provocata da una ferita, una malattia o uno stimolo dannoso.",
+      "Sofferenza localizzata in una determinata parte del corpo.",
+      "Profonda tristezza causata da una morte, una perdita o un grave insuccesso.",
+      "Sofferenza psicologica o emotiva.",
+      "Condizione dolorosa fisica o morale che si protrae nel tempo.",
+      "Al plurale, disturbi dolorosi presenti in diverse parti del corpo.",
+      "Nell’espressione dolori del parto, contrazioni dolorose che accompagnano il parto.",
+      "Partecipazione emotiva alla sofferenza di un’altra persona."
+    ]
+  },
+
+  "nuance": {
+    "ja": "doloreは身体的な「痛み」と精神的な「深い悲しみ・苦痛」の両方を表す。Ho un dolore alla schienaは特定部位の痛みを述べ、Provo un grande dolore per la sua morteは死に対する深い悲しみを表す。maleは日常会話で身体の痛みを表すことが多く、Ho mal di testa「頭が痛い」、Mi fa male la schiena「背中が痛い」のように使う。sofferenzaは痛みを含む苦しみの状態全体、tristezzaは一般的な悲しさに重点を置く。医療ではdoloreの位置・強さ・持続時間・性質が重要になる。",
+    "it": "Dolore può essere sia fisico sia emotivo. Ho un dolore alla schiena indica una sensazione localizzata; provo un grande dolore per la sua morte esprime una profonda sofferenza morale. Male è molto comune nel parlato per i disturbi fisici: ho mal di testa, mi fa male la schiena. Sofferenza indica una condizione complessiva e spesso prolungata; tristezza una normale emozione di infelicità. In medicina si descrivono la sede, l’intensità, la durata e il carattere del dolore."
+  },
+
+  "etymology": {
+    "ja": "ラテン語dolor、属格dolōris「痛み、悲しみ」に由来し、動詞dolēre「痛む、悲しむ」と同じ語族に属する。身体の痛みと精神的な悲しみはラテン語の段階ですでに同じ語によって表されていた。同じ語族にはdoloroso、addolorato、indoloreがあり、英語dolor・doleful、フランス語douleur、スペイン語dolorも同じラテン語に由来する。",
+    "it": "Deriva dal latino dolor, genitivo dolōris, «dolore fisico, sofferenza, tristezza», appartenente alla famiglia del verbo dolēre, «provare dolore, soffrire». Già in latino la parola comprendeva sia il dolore corporeo sia quello morale. Alla stessa famiglia appartengono doloroso, addolorato e indolore, oltre all’inglese letterario dolor, al francese douleur e allo spagnolo dolor."
+  },
+
+  "minimal": [
+    {
+      "word": "dolore",
+      "ja": "身体に感じる痛み、または喪失などによる深い精神的苦痛",
+      "it": "sensazione fisica dolorosa oppure profonda sofferenza emotiva"
+    },
+    {
+      "word": "male",
+      "ja": "日常会話で使われる身体の痛み、または悪いもの・害",
+      "it": "dolore fisico nell’uso quotidiano oppure ciò che è cattivo o dannoso"
+    },
+    {
+      "word": "sofferenza",
+      "ja": "身体的・精神的な苦しみが続いている状態",
+      "it": "condizione complessiva e spesso prolungata di dolore fisico o morale"
+    },
+    {
+      "word": "tristezza",
+      "ja": "不幸・失望・喪失などによって感じる悲しい気持ち",
+      "it": "emozione di infelicità causata da perdita, delusione o altre circostanze negative"
+    },
+    {
+      "word": "pena",
+      "ja": "精神的な苦しみ・心痛、または法律上の刑罰",
+      "it": "sofferenza morale oppure sanzione prevista dalla legge"
+    }
+  ],
+
+  "synonyms": [
+    "male",
+    "sofferenza",
+    "pena",
+    "tormento",
+    "afflizione",
+    "patimento"
+  ],
+
+  "equivalents": {
+    "en": [
+      "pain",
+      "ache",
+      "sorrow",
+      "grief"
+    ],
+    "de": [
+      "Schmerz",
+      "Leid",
+      "Kummer",
+      "Trauer"
+    ],
+    "fr": [
+      "douleur",
+      "souffrance",
+      "chagrin"
+    ],
+    "es": [
+      "dolor",
+      "sufrimiento",
+      "pena"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "provare dolore",
+      "ja": "痛み・苦痛を感じる"
+    },
+    {
+      "it": "sentire dolore",
+      "ja": "痛みを感じる"
+    },
+    {
+      "it": "avere un forte dolore",
+      "ja": "強い痛みがある"
+    },
+    {
+      "it": "dolore alla schiena",
+      "ja": "背中の痛み"
+    },
+    {
+      "it": "dolore al petto",
+      "ja": "胸の痛み"
+    },
+    {
+      "it": "dolore acuto",
+      "ja": "急性の鋭い痛み"
+    },
+    {
+      "it": "dolore cronico",
+      "ja": "慢性疼痛"
+    },
+    {
+      "it": "causare dolore",
+      "ja": "痛み・悲しみを引き起こす"
+    },
+    {
+      "it": "alleviare il dolore",
+      "ja": "痛みを和らげる"
+    },
+    {
+      "it": "sopportare il dolore",
+      "ja": "痛みに耐える"
+    },
+    {
+      "it": "gridare dal dolore",
+      "ja": "痛みで叫ぶ"
+    },
+    {
+      "it": "dolori del parto",
+      "ja": "陣痛"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Sento un forte dolore alla schiena.",
+      "ja": "背中に強い痛みを感じます。"
+    },
+    {
+      "it": "Il dolore è cominciato ieri sera ed è diventato più intenso durante la notte.",
+      "ja": "痛みは昨晩始まり、夜の間にさらに強くなりました。"
+    },
+    {
+      "it": "Questo farmaco serve ad alleviare il dolore.",
+      "ja": "この薬は痛みを和らげるためのものです。"
+    },
+    {
+      "it": "Il medico gli ha chiesto di descrivere la posizione e l’intensità del dolore.",
+      "ja": "医師は彼に、痛む場所と痛みの強さを説明するよう求めました。"
+    },
+    {
+      "it": "Soffre da anni di dolori alle ginocchia.",
+      "ja": "彼女は何年も膝の痛みに苦しんでいます。"
+    },
+    {
+      "it": "La perdita di un amico gli ha causato un dolore profondo.",
+      "ja": "友人を失ったことは彼に深い悲しみをもたらしました。"
+    },
+    {
+      "it": "Condividiamo il dolore della famiglia in questo momento difficile.",
+      "ja": "この困難な時に、私たちはご家族の悲しみを共にしています。"
+    },
+    {
+      "it": "Nonostante il dolore, ha cercato di mantenere la calma.",
+      "ja": "痛みにもかかわらず、彼は冷静さを保とうとしました。"
+    }
+  ]
 }  
 ]
