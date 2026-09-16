@@ -1978,5 +1978,671 @@
       "ja": "家へ帰る時間です。"
     }
   ]
+},
+{
+  "id": "scuro",
+  "sid": "2026-00459",
+  "word": "scuro",
+  "ipa": "/ˈskuro/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adjective",
+    "label": {
+      "ja": "形容詞・男性名詞",
+      "it": "aggettivo e sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "scuri",
+    "adjectiveForms": [
+      "scuro",
+      "scura",
+      "scuri",
+      "scure"
+    ],
+    "pattern": "nome + scuro / essere o diventare scuro / più o meno scuro / scuro di + colore / lo scuro"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "colors",
+      "appearance",
+      "weather",
+      "description",
+      "emotions",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "色について、黒に近く明度が低い、濃い・暗い",
+      "場所・空・部屋などについて、光が少なく薄暗い",
+      "髪・目・肌などについて、色が濃い",
+      "天候や空について、曇って暗い",
+      "内容・意味などについて、理解しにくい・不明瞭な",
+      "見通し・状況などについて、悲観的で不安な",
+      "表情・顔つきについて、険しい・沈んだ",
+      "名詞として、暗い色・暗い部分",
+      "名詞として、窓の外側や内側に設ける板戸・鎧戸"
+    ],
+    "it": [
+      "Di colore poco luminoso e vicino al nero.",
+      "Poco illuminato o caratterizzato da una quantità ridotta di luce.",
+      "Riferito a capelli, occhi o carnagione, di tonalità intensa.",
+      "Riferito al cielo o al tempo, coperto e scarsamente luminoso.",
+      "Difficile da comprendere, poco chiaro o misterioso.",
+      "Riferito a una situazione o prospettiva, preoccupante o pessimista.",
+      "Riferito al volto o all’espressione, serio, chiuso o turbato.",
+      "Come sostantivo, colore o zona caratterizzati da poca luminosità.",
+      "Come sostantivo, pannello o imposta usati per chiudere una finestra."
+    ]
+  },
+
+  "nuance": {
+    "ja": "scuroは明るさや色の相対的な低さを表す。blu scuro「濃紺」、capelli scuri「黒っぽい髪」のように色の濃淡を述べる際の基本語である。buioは光がない、または行動できないほど暗い状態に重点があり、Una stanza scuraは「薄暗い部屋」、Una stanza buiaは「明かりのない暗い部屋」という違いが生じ得る。cupoは暗さに加えて、重苦しさ・陰鬱さ・不吉さを伴う。",
+    "it": "Scuro indica soprattutto un basso grado di luminosità o una tonalità vicina al nero: blu scuro, capelli scuri. Buio mette invece in rilievo la mancanza di luce. Una stanza scura può essere poco illuminata; una stanza buia può essere priva di illuminazione sufficiente per vedere. Cupo aggiunge spesso una sensazione di pesantezza, tristezza o minaccia."
+  },
+
+  "etymology": {
+    "ja": "ラテン語obscūrus「暗い・不明瞭な」に由来する。イタリア語では語頭のob-が失われ、scuroとなった。同じ語源からoscuroも成立しており、oscuroは現代語ではscuroより文章語的で、「難解な・知られていない」という意味にも使われやすい。英語obscure、フランス語obscur、スペイン語oscuroも同じラテン語に由来する。",
+    "it": "Deriva dal latino obscūrus, «buio, poco chiaro», attraverso la perdita dell’elemento iniziale ob-. Dalla forma latina deriva anche oscuro, oggi spesso più letterario e adatto ai significati di «difficile da comprendere» o «poco conosciuto». Hanno la stessa origine l’inglese obscure, il francese obscur e lo spagnolo oscuro."
+  },
+
+  "minimal": [
+    {
+      "word": "scuro",
+      "ja": "色の明度が低い、または光が少なく薄暗い",
+      "it": "poco luminoso oppure di tonalità vicina al nero"
+    },
+    {
+      "word": "buio",
+      "ja": "光がない、または非常に少ない暗闇の状態",
+      "it": "caratterizzato dall’assenza o dalla forte insufficienza di luce"
+    },
+    {
+      "word": "cupo",
+      "ja": "暗く、重苦しい・陰鬱・不吉な印象を与える",
+      "it": "scuro e nello stesso tempo triste, pesante o minaccioso"
+    },
+    {
+      "word": "chiaro",
+      "ja": "光が多い、色の明度が高い、または理解しやすい",
+      "it": "luminoso, di tonalità leggera oppure facile da comprendere"
+    },
+    {
+      "word": "oscuro",
+      "ja": "暗い、または意味・由来などが分かりにくい",
+      "it": "privo di luce oppure difficile da comprendere o poco noto"
+    }
+  ],
+
+  "synonyms": [
+    "oscuro",
+    "ombroso",
+    "tenebroso",
+    "fosco",
+    "cupo"
+  ],
+
+  "equivalents": {
+    "en": [
+      "dark",
+      "deep-colored",
+      "dim",
+      "obscure"
+    ],
+    "de": [
+      "dunkel",
+      "düster",
+      "unklar"
+    ],
+    "fr": [
+      "sombre",
+      "foncé",
+      "obscur"
+    ],
+    "es": [
+      "oscuro",
+      "sombrío",
+      "poco claro"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "blu scuro",
+      "ja": "濃紺"
+    },
+    {
+      "it": "verde scuro",
+      "ja": "濃い緑色"
+    },
+    {
+      "it": "colore scuro",
+      "ja": "暗い色・濃い色"
+    },
+    {
+      "it": "capelli scuri",
+      "ja": "黒っぽい髪・濃い色の髪"
+    },
+    {
+      "it": "occhi scuri",
+      "ja": "黒または濃い色の目"
+    },
+    {
+      "it": "una stanza scura",
+      "ja": "薄暗い部屋"
+    },
+    {
+      "it": "un cielo scuro",
+      "ja": "暗い空"
+    },
+    {
+      "it": "diventare scuro",
+      "ja": "暗くなる・色が濃くなる"
+    },
+    {
+      "it": "un’espressione scura",
+      "ja": "険しく沈んだ表情"
+    },
+    {
+      "it": "un periodo scuro",
+      "ja": "暗く困難な時期"
+    },
+    {
+      "it": "vedere tutto scuro",
+      "ja": "何もかも悲観的に見る"
+    },
+    {
+      "it": "aprire gli scuri",
+      "ja": "鎧戸・板戸を開ける"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Preferisco il blu scuro al blu chiaro.",
+      "ja": "私は水色より濃紺のほうが好きです。"
+    },
+    {
+      "it": "Ha i capelli scuri e gli occhi verdi.",
+      "ja": "彼女は濃い色の髪と緑色の目をしています。"
+    },
+    {
+      "it": "La stanza era scura perché entrava poca luce.",
+      "ja": "光がほとんど入らなかったため、部屋は薄暗い状態でした。"
+    },
+    {
+      "it": "Il cielo è diventato improvvisamente scuro.",
+      "ja": "空が突然暗くなりました。"
+    },
+    {
+      "it": "Il suo volto si fece scuro dopo aver sentito la notizia.",
+      "ja": "その知らせを聞くと、彼の表情は険しくなりました。"
+    },
+    {
+      "it": "Il significato di questo passaggio rimane scuro.",
+      "ja": "この一節の意味は依然として不明瞭です。"
+    },
+    {
+      "it": "Prima di uscire ha chiuso gli scuri delle finestre.",
+      "ja": "外出前に、彼は窓の鎧戸を閉めました。"
+    }
+  ]
+},
+{
+  "id": "buio",
+  "sid": "2026-00460",
+  "word": "buio",
+  "ipa": "/ˈbujo/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adjective",
+    "label": {
+      "ja": "形容詞・男性名詞",
+      "it": "aggettivo e sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "bui",
+    "adjectiveForms": [
+      "buio",
+      "buia",
+      "bui",
+      "buie"
+    ],
+    "pattern": "essere buio / una stanza buia / il buio / al buio / fare buio / avere paura del buio"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "night",
+      "weather",
+      "travel",
+      "fear",
+      "uncertainty",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "場所や空間について、光がない・非常に少ない、暗い",
+      "夜・空などについて、日光や照明がなく暗い",
+      "名詞として、光のない状態・暗闇",
+      "日没後の暗い時間帯",
+      "知識・情報・理解が欠けている状態",
+      "将来・原因・状況などが分からない不確実な状態",
+      "比喩的に、精神的・社会的に希望が見えない状態",
+      "技術的に、画面・信号・通信などが途絶えた状態"
+    ],
+    "it": [
+      "Privo di luce o insufficientemente illuminato.",
+      "Riferito alla notte o al cielo, senza luce solare o artificiale.",
+      "Come sostantivo, condizione determinata dall’assenza di luce.",
+      "Periodo della giornata successivo al tramonto.",
+      "Condizione di ignoranza o mancanza di informazioni.",
+      "Situazione di incertezza nella quale non si comprende che cosa accada o accadrà.",
+      "In senso figurato, condizione psicologica o sociale priva di speranza.",
+      "In ambito tecnico, interruzione della visibilità, del segnale o delle comunicazioni."
+    ]
+  },
+
+  "nuance": {
+    "ja": "buioは光がない、または物を見るのが難しいほど光が少ない状態を表す。名詞としてil buio「暗闇」が非常に一般的である。scuroは色の濃さや相対的な薄暗さにも使えるが、buioは基本的に照明・光の不足に焦点を置く。そのためun vestito scuro「暗い色の服」とは言うが、通常un vestito buioとは言わない。cupoは物理的な暗さに加えて、陰鬱さ・不吉さなどの感情的印象を表す。",
+    "it": "Buio mette in rilievo l’assenza o l’insufficienza di luce e come sostantivo il buio significa «oscurità». Scuro può indicare anche una tonalità di colore o una luminosità relativamente bassa; buio riguarda soprattutto la possibilità di vedere. Si dice quindi un vestito scuro, non normalmente un vestito buio. Cupo aggiunge all’oscurità una sensazione emotiva di tristezza, pesantezza o minaccia."
+  },
+
+  "etymology": {
+    "ja": "語源は完全には確定していない。古いイタリア語にもbuioに相当する形が見られ、光のない状態を表す語として発達した。俗ラテン語またはゲルマン語系の語との関係など複数の説が提案されているが、決定的な説明はない。派生語にはbuietto「やや暗い」、imbuia­re「暗くする・暗くなる」がある。",
+    "it": "L’origine della parola non è definitivamente chiarita. Forme corrispondenti sono già documentate nell’italiano antico e indicano l’assenza di luce. Sono state proposte diverse ipotesi, tra cui collegamenti con forme del latino popolare o di origine germanica, ma non esiste una spiegazione conclusiva. Alla stessa famiglia italiana appartengono buietto e imbuiare."
+  },
+
+  "minimal": [
+    {
+      "word": "buio",
+      "ja": "光がなく、物を見ることが困難な暗闇",
+      "it": "condizione nella quale la luce è assente o insufficiente per vedere"
+    },
+    {
+      "word": "scuro",
+      "ja": "色の明度が低い、または光が少なく薄暗い",
+      "it": "poco luminoso oppure di tonalità vicina al nero"
+    },
+    {
+      "word": "cupo",
+      "ja": "暗く、陰鬱・重苦しい印象を与える",
+      "it": "scuro e caratterizzato da tristezza, pesantezza o minaccia"
+    },
+    {
+      "word": "oscurità",
+      "ja": "光がない状態を表す、buioより抽象的・文章語的な名詞",
+      "it": "assenza di luce espressa con un termine più astratto o formale"
+    },
+    {
+      "word": "penombra",
+      "ja": "完全な暗闇ではなく、光が弱い薄暗がり",
+      "it": "condizione intermedia tra luce e oscurità"
+    }
+  ],
+
+  "synonyms": [
+    "oscurità",
+    "tenebra",
+    "ombra",
+    "notte",
+    "oscuramento"
+  ],
+
+  "equivalents": {
+    "en": [
+      "dark",
+      "darkness",
+      "pitch-dark"
+    ],
+    "de": [
+      "dunkel",
+      "Dunkelheit",
+      "Finsternis"
+    ],
+    "fr": [
+      "sombre",
+      "obscurité",
+      "noir"
+    ],
+    "es": [
+      "oscuro",
+      "oscuridad",
+      "a oscuras"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "avere paura del buio",
+      "ja": "暗闇を怖がる"
+    },
+    {
+      "it": "essere al buio",
+      "ja": "暗闇の中にいる"
+    },
+    {
+      "it": "lasciare qualcuno al buio",
+      "ja": "誰かを暗闇に残す／情報を与えない"
+    },
+    {
+      "it": "una stanza buia",
+      "ja": "明かりのない暗い部屋"
+    },
+    {
+      "it": "una notte buia",
+      "ja": "暗い夜"
+    },
+    {
+      "it": "buio pesto",
+      "ja": "真っ暗闇"
+    },
+    {
+      "it": "fare buio",
+      "ja": "暗くなる・日が暮れる"
+    },
+    {
+      "it": "prima che faccia buio",
+      "ja": "暗くなる前に"
+    },
+    {
+      "it": "camminare nel buio",
+      "ja": "暗闇の中を歩く"
+    },
+    {
+      "it": "brancolare nel buio",
+      "ja": "手探りで進む・何も分からず模索する"
+    },
+    {
+      "it": "un salto nel buio",
+      "ja": "先の見えない賭け・未知への飛躍"
+    },
+    {
+      "it": "tenere qualcuno al buio",
+      "ja": "誰かに情報を知らせない"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "La stanza era completamente buia.",
+      "ja": "その部屋は完全に真っ暗でした。"
+    },
+    {
+      "it": "Da bambino avevo paura del buio.",
+      "ja": "子供のころ、私は暗闇が怖かったです。"
+    },
+    {
+      "it": "Accendi la luce: qui è troppo buio.",
+      "ja": "明かりをつけてください。ここは暗すぎます。"
+    },
+    {
+      "it": "Dobbiamo tornare prima che faccia buio.",
+      "ja": "暗くなる前に戻らなければなりません。"
+    },
+    {
+      "it": "A causa del guasto, tutto il quartiere è rimasto al buio.",
+      "ja": "故障のため、地区全体が停電して暗闇になりました。"
+    },
+    {
+      "it": "Gli investigatori stanno ancora brancolando nel buio.",
+      "ja": "捜査官たちは依然として手掛かりがなく、手探りの状態です。"
+    },
+    {
+      "it": "Accettare quell’offerta sarebbe un salto nel buio.",
+      "ja": "その申し出を受け入れるのは、先の見えない賭けになるでしょう。"
+    }
+  ]
+},
+{
+  "id": "cupo",
+  "sid": "2026-00461",
+  "word": "cupo",
+  "ipa": "/ˈkupo/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "adjective",
+    "label": {
+      "ja": "形容詞",
+      "it": "aggettivo qualificativo"
+    },
+    "adjectiveForms": [
+      "cupo",
+      "cupa",
+      "cupi",
+      "cupe"
+    ],
+    "pattern": "nome + cupo / essere o diventare cupo / tono, suono o colore cupo / atmosfera cupa"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "literary",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "emotions",
+      "sound",
+      "colors",
+      "weather",
+      "literature",
+      "music",
+      "description",
+      "narration"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "色・光景などについて、暗く重い色調の",
+      "空・天候などについて、暗く不吉な",
+      "場所・雰囲気について、陰鬱で重苦しい",
+      "人・表情・気分について、沈んだ・憂鬱な",
+      "声・音について、低く深く、こもって響く",
+      "考え・予測などについて、悲観的な",
+      "出来事・時代などについて、暗く悲惨な",
+      "恐怖や不安を引き起こす、不吉な"
+    ],
+    "it": [
+      "Riferito a un colore o a un’immagine, scuro e pesante.",
+      "Riferito al cielo o al tempo, oscuro e minaccioso.",
+      "Riferito a un luogo o a un’atmosfera, triste, opprimente o inquietante.",
+      "Riferito a una persona, un volto o uno stato d’animo, malinconico e chiuso.",
+      "Riferito alla voce o a un suono, basso, profondo e poco risonante.",
+      "Riferito a un pensiero o a una previsione, pessimista.",
+      "Riferito a un avvenimento o a un periodo, doloroso e difficile.",
+      "Capace di suscitare inquietudine o senso di minaccia."
+    ]
+  },
+
+  "nuance": {
+    "ja": "cupoは単なる暗さではなく、暗さから生じる重苦しさ・陰鬱さ・不吉さを表す。un cielo cupoは単に光が少ない空ではなく、嵐や悪い出来事を予感させるような暗い空である。声や音にも使え、una voce cupaは「低く沈んだ声」、un rumore cupoは「低くこもった音」となる。scuroは色・明度、buioは光の欠如が中心であり、cupoは感情的・感覚的な印象が中心である。",
+    "it": "Cupo non descrive soltanto una scarsa luminosità, ma aggiunge un’impressione di tristezza, pesantezza o minaccia. Un cielo cupo non è semplicemente scuro: sembra annunciare un temporale o qualcosa di negativo. Il termine si usa anche per la voce e i suoni: una voce cupa è bassa e triste; un rumore cupo è profondo e sordo. Scuro riguarda soprattutto colore e luminosità, buio l’assenza di luce, cupo l’effetto emotivo o sensoriale."
+  },
+
+  "etymology": {
+    "ja": "一般にラテン語cūpa「樽・大きな容器」に関連すると説明される。内部が深く空洞になった容器から、奥深くこもって響く音や、深く暗い印象を表す意味が発達したと考えられている。同じ語族にはcupa「樽」、cupola「丸屋根」などがあるとされる。",
+    "it": "È generalmente collegato al latino cūpa, «botte, grande recipiente». Dall’idea di una cavità profonda si sarebbe sviluppato il riferimento a un suono profondo e rimbombante e, successivamente, a colori, atmosfere e stati d’animo scuri e pesanti. Alla stessa area etimologica vengono ricondotte parole come cupa e cupola."
+  },
+
+  "minimal": [
+    {
+      "word": "cupo",
+      "ja": "暗さに加えて、重苦しさ・陰鬱さ・不吉さを感じさせる",
+      "it": "scuro e caratterizzato da tristezza, pesantezza o minaccia"
+    },
+    {
+      "word": "scuro",
+      "ja": "色の明度が低い、または光が少ない",
+      "it": "poco luminoso oppure di tonalità vicina al nero"
+    },
+    {
+      "word": "buio",
+      "ja": "光がない、または非常に少ない",
+      "it": "privo di luce o insufficientemente illuminato"
+    },
+    {
+      "word": "tet​​ro",
+      "ja": "恐ろしいほど暗く、陰惨・不気味な",
+      "it": "molto oscuro, triste e capace di suscitare paura"
+    },
+    {
+      "word": "fosco",
+      "ja": "光が濁って暗い、または先行きが不穏な",
+      "it": "oscurato, poco limpido oppure minaccioso"
+    }
+  ],
+
+  "synonyms": [
+    "tet​​ro",
+    "fosco",
+    "lugubre",
+    "oscuro",
+    "tenebroso",
+    "malinconico"
+  ],
+
+  "equivalents": {
+    "en": [
+      "gloomy",
+      "somber",
+      "dark",
+      "deep-sounding"
+    ],
+    "de": [
+      "düster",
+      "finster",
+      "dumpf",
+      "tief"
+    ],
+    "fr": [
+      "sombre",
+      "lugubre",
+      "grave",
+      "étouffé"
+    ],
+    "es": [
+      "sombrío",
+      "lúgubre",
+      "grave",
+      "apagado"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "un cielo cupo",
+      "ja": "暗く不穏な空"
+    },
+    {
+      "it": "un’atmosfera cupa",
+      "ja": "陰鬱で重苦しい雰囲気"
+    },
+    {
+      "it": "un colore cupo",
+      "ja": "暗く重い色"
+    },
+    {
+      "it": "un volto cupo",
+      "ja": "沈んだ険しい顔"
+    },
+    {
+      "it": "uno sguardo cupo",
+      "ja": "暗く沈んだまなざし"
+    },
+    {
+      "it": "un’espressione cupa",
+      "ja": "陰鬱な表情"
+    },
+    {
+      "it": "una voce cupa",
+      "ja": "低く沈んだ声"
+    },
+    {
+      "it": "un suono cupo",
+      "ja": "低くこもった音"
+    },
+    {
+      "it": "un rumore cupo",
+      "ja": "鈍く低い音"
+    },
+    {
+      "it": "un pensiero cupo",
+      "ja": "暗く悲観的な考え"
+    },
+    {
+      "it": "un periodo cupo",
+      "ja": "暗く困難な時期"
+    },
+    {
+      "it": "diventare cupo",
+      "ja": "陰鬱になる・険しい様子になる"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Il cielo era cupo e minacciava pioggia.",
+      "ja": "空は暗く不穏で、雨が降りそうでした。"
+    },
+    {
+      "it": "Nella stanza regnava un’atmosfera cupa.",
+      "ja": "部屋には重苦しい雰囲気が漂っていました。"
+    },
+    {
+      "it": "Dopo aver letto la lettera, il suo volto divenne cupo.",
+      "ja": "手紙を読むと、彼の顔は険しく沈んだものになりました。"
+    },
+    {
+      "it": "Rispose con una voce bassa e cupa.",
+      "ja": "彼は低く沈んだ声で答えました。"
+    },
+    {
+      "it": "Dal fondo del tunnel venne un rumore cupo.",
+      "ja": "トンネルの奥から低くこもった音が聞こえました。"
+    },
+    {
+      "it": "Il romanzo racconta uno dei periodi più cupi della storia.",
+      "ja": "その小説は歴史上最も暗い時代の一つを描いています。"
+    },
+    {
+      "it": "Non lasciarti dominare dai pensieri cupi.",
+      "ja": "暗く悲観的な考えに支配されないでください。"
+    }
+  ]
 }  
 ]
