@@ -2648,5 +2648,230 @@
       "ja": "周期表では、それぞれの横の列が一つの周期を構成します。"
     }
   ]
+},
+{
+  "id": "fase",
+  "sid": "2026-00398",
+  "word": "fase",
+  "ipa": "/ˈfaze/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "fasi",
+    "pattern": "fase di + processo o attività / essere, entrare o trovarsi in una fase / in fase di + nome o infinito / passare alla fase successiva / durante la fase"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "technical",
+      "scientific"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "work",
+      "projects",
+      "health",
+      "science",
+      "economics",
+      "sport",
+      "astronomy"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "変化・発展する過程の中で、特徴によって区別される一段階",
+      "計画・作業・交渉などを構成する工程",
+      "人生・病気・経済などにおける特定の状態・局面",
+      "in fase diの形で、ある作業・変化などが進行中であること",
+      "月が太陽光を反射して見せる形の変化、月相",
+      "物理学・化学で、物質が示す固体・液体・気体などの状態",
+      "電気工学で、交流電流・電圧の周期上の位置または電力供給方式",
+      "スポーツで、攻撃・守備・予選など試合や競技を構成する局面"
+    ],
+    "it": [
+      "Stadio distinguibile all’interno di un processo di sviluppo o trasformazione.",
+      "Parte organizzata di un progetto, di un lavoro, di una trattativa o di un’altra attività.",
+      "Condizione particolare attraversata dalla vita, da una malattia, dall’economia o da un fenomeno.",
+      "Nella locuzione in fase di, condizione di un’attività o di un cambiamento ancora in corso.",
+      "Ciascuno degli aspetti con cui la Luna appare illuminata dal Sole.",
+      "In fisica e chimica, stato omogeneo della materia, come solido, liquido o gas.",
+      "In elettrotecnica, posizione in un ciclo di corrente alternata oppure componente di un sistema elettrico.",
+      "Nello sport, momento offensivo, difensivo, eliminatorio o decisivo di una competizione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "faseは、進行する過程の中で前後の段階と異なる特徴を持つ一区分を表す。periodoは主に時間的な長さと始まり・終わりに重点を置くが、faseは過程の内容・状態・機能に重点を置く。stadioは発達・病気・競技などの到達段階をより明確に区分する場合に多く、tappaは旅程や計画上の一つの通過点を表す。in fase di preparazioneは「準備中」、in fase di sviluppoは「開発・発展中」を意味する。",
+    "it": "Fase indica una parte di un processo caratterizzata da condizioni o funzioni diverse rispetto alle parti precedenti e successive. Periodo mette maggiormente in rilievo la durata e i limiti temporali; fase il contenuto e lo stato del processo. Stadio è frequente per livelli di sviluppo, malattie o competizioni; tappa indica un punto intermedio di un viaggio o di un progetto. In fase di preparazione significa che la preparazione è ancora in corso; in fase di sviluppo indica un processo non ancora completato."
+  },
+
+  "etymology": {
+    "ja": "ラテン語phasisを経て、古代ギリシア語phásis「出現、現れ方」に由来する。これはphaínein「現れさせる、輝かせる」と同じ語族に属する。もともとは月や星が空に現れる様子、とりわけ月の満ち欠けを指した。そこから、一定の過程の中で現れる異なる状態・段階という一般的な意味へ広がった。同じ語族にはfenomeno、fantasia、英語phase・phenomenonがある。",
+    "it": "Deriva dal latino phasis, a sua volta dal greco antico phásis, «apparizione, modo di presentarsi», appartenente alla famiglia di phaínein, «mostrare, far apparire». In origine indicava soprattutto l’aspetto con cui la Luna e gli astri appaiono nel cielo. Da questo valore astronomico si è sviluppato quello generale di stato o stadio distinguibile di un processo. Alla stessa famiglia appartengono fenomeno e fantasia, oltre agli inglesi phase e phenomenon."
+  },
+
+  "minimal": [
+    {
+      "word": "fase",
+      "ja": "変化・発展する過程の中で特徴によって区別される一段階",
+      "it": "stadio di un processo caratterizzato da condizioni o funzioni particolari"
+    },
+    {
+      "word": "periodo",
+      "ja": "始まりと終わりを持ち、一定時間続く時期・期間",
+      "it": "intervallo temporale delimitato da un inizio e da una fine"
+    },
+    {
+      "word": "stadio",
+      "ja": "発達・進行・病気などを段階的に区分した到達状態",
+      "it": "livello raggiunto nello sviluppo o nell’avanzamento di un processo"
+    },
+    {
+      "word": "tappa",
+      "ja": "旅程・計画・成長過程などにおける通過点・一区切り",
+      "it": "punto intermedio o passaggio riconoscibile di un percorso"
+    },
+    {
+      "word": "momento",
+      "ja": "特定の時点、短い時間、またはある状況・局面",
+      "it": "punto temporale, breve intervallo oppure particolare situazione"
+    }
+  ],
+
+  "synonyms": [
+    "stadio",
+    "periodo",
+    "tappa",
+    "momento",
+    "passaggio",
+    "condizione"
+  ],
+
+  "equivalents": {
+    "en": [
+      "phase",
+      "stage",
+      "state"
+    ],
+    "de": [
+      "Phase",
+      "Stadium",
+      "Abschnitt"
+    ],
+    "fr": [
+      "phase",
+      "étape",
+      "stade"
+    ],
+    "es": [
+      "fase",
+      "etapa",
+      "estado"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "fase iniziale",
+      "ja": "初期段階"
+    },
+    {
+      "it": "fase finale",
+      "ja": "最終段階"
+    },
+    {
+      "it": "fase successiva",
+      "ja": "次の段階"
+    },
+    {
+      "it": "fase decisiva",
+      "ja": "決定的な局面"
+    },
+    {
+      "it": "entrare in una nuova fase",
+      "ja": "新たな段階に入る"
+    },
+    {
+      "it": "passare alla fase successiva",
+      "ja": "次の段階へ進む"
+    },
+    {
+      "it": "in fase di preparazione",
+      "ja": "準備中で"
+    },
+    {
+      "it": "in fase di sviluppo",
+      "ja": "開発中・発展途上で"
+    },
+    {
+      "it": "fase di crescita",
+      "ja": "成長段階"
+    },
+    {
+      "it": "fase di recupero",
+      "ja": "回復段階"
+    },
+    {
+      "it": "fasi lunari",
+      "ja": "月の満ち欠け・月相"
+    },
+    {
+      "it": "fase liquida",
+      "ja": "液相"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Il progetto è ancora nella fase iniziale.",
+      "ja": "そのプロジェクトはまだ初期段階にあります。"
+    },
+    {
+      "it": "Dopo l’approvazione potremo passare alla fase successiva.",
+      "ja": "承認後、次の段階へ進むことができます。"
+    },
+    {
+      "it": "Il nuovo prodotto è attualmente in fase di sviluppo.",
+      "ja": "新製品は現在開発中です。"
+    },
+    {
+      "it": "Le trattative sono entrate in una fase decisiva.",
+      "ja": "交渉は決定的な局面に入りました。"
+    },
+    {
+      "it": "Il paziente si trova nella fase di recupero.",
+      "ja": "患者は回復段階にあります。"
+    },
+    {
+      "it": "L’economia attraversa una fase di crescita moderata.",
+      "ja": "経済は緩やかな成長局面にあります。"
+    },
+    {
+      "it": "Le fasi lunari dipendono dalla posizione relativa della Terra, della Luna e del Sole.",
+      "ja": "月の満ち欠けは、地球・月・太陽の相対的な位置によって決まります。"
+    },
+    {
+      "it": "L’acqua può trovarsi nella fase solida, liquida o gassosa.",
+      "ja": "水は固相・液相・気相の状態を取ることができます。"
+    },
+    {
+      "it": "La squadra ha giocato bene sia nella fase offensiva sia in quella difensiva.",
+      "ja": "そのチームは攻撃局面でも守備局面でもよいプレーをしました。"
+    }
+  ]
 }  
 ]
