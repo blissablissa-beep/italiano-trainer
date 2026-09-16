@@ -2178,5 +2178,475 @@
       "ja": "雷雨は今にも始まるかもしれません。"
     }
   ]
+},
+{
+  "id": "tempo",
+  "sid": "2026-00396",
+  "word": "tempo",
+  "ipa": "/ˈtɛmpo/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "tempi",
+    "pattern": "avere tempo per + nome / avere tempo di + infinito / passare o trascorrere il tempo / in tempo / a tempo / da tempo / tempo fa / che tempo fa? / tempo + aggettivo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "daily_life",
+      "planning",
+      "weather",
+      "history",
+      "grammar",
+      "music",
+      "sport"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "出来事が継続・変化していく時間という概念",
+      "行動・仕事などに使うことのできる時間",
+      "始まりと終わりを持つ一定の期間",
+      "人生・歴史・社会などにおける時代・時期",
+      "予定された時刻または期限までに残された時間",
+      "晴れ・雨・風・気温などを含む天気・空模様",
+      "文法で、動作・状態の時間的な位置を示す時制",
+      "音楽で、演奏の速さ・拍子・リズム",
+      "スポーツで、試合を区切る前半・後半などの一区分",
+      "料理・作業・移動などに必要な所要時間"
+    ],
+    "it": [
+      "Dimensione nella quale gli eventi si susseguono e le cose cambiano.",
+      "Quantità di tempo disponibile per svolgere un’attività.",
+      "Intervallo dotato di un inizio e di una fine.",
+      "Epoca o fase della vita, della storia o della società.",
+      "Tempo disponibile prima di un appuntamento, di una scadenza o di un evento.",
+      "Insieme delle condizioni atmosferiche, come sole, pioggia, vento e temperatura.",
+      "In grammatica, categoria che colloca un’azione o uno stato nel presente, nel passato o nel futuro.",
+      "In musica, velocità, andamento o organizzazione ritmica dell’esecuzione.",
+      "Nello sport, ciascuna delle parti nelle quali viene divisa una partita.",
+      "Durata necessaria per una preparazione, un lavoro, un viaggio o un processo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "tempoは非常に広い語で、「時間」だけでなく「時期」「天気」「時制」「演奏速度」なども表す。oraは60分という単位または時刻、momentoは特定の時点や比較的短い局面、periodoは始まりと終わりを持つ期間に重点を置く。in tempoは「手遅れになる前に・間に合って」、a tempoは「定刻に・リズムに合わせて」を意味する。da tempoは「以前から長い間」、tempo faは「しばらく前に」となる。天気を尋ねるChe tempo fa?では、tempoはclimaではなく現在または短期間の気象状態を指す。",
+    "it": "Tempo è una parola molto ampia che può indicare durata, epoca, condizioni atmosferiche, tempo grammaticale e andamento musicale. Ora indica un’unità di sessanta minuti oppure l’ora precisa; momento un punto o una fase relativamente breve; periodo un intervallo delimitato. In tempo significa prima che sia troppo tardi; a tempo può significare puntualmente oppure seguendo il ritmo. Da tempo indica una situazione iniziata molto prima; tempo fa colloca un evento in un passato non recente. In Che tempo fa?, tempo indica le condizioni meteorologiche, non il clima generale di una regione."
+  },
+
+  "etymology": {
+    "ja": "ラテン語tempus、属格temporis「時間、時期、適切な時」に由来する。さらに古い語源は完全には確定していないが、時間を区切られた部分として捉える「切る・分ける」という古い語根と関連付けられることがある。フランス語temps、スペイン語tiempo、ポルトガル語tempoも同じラテン語に由来する。英語tempoは、音楽用語としてイタリア語から借用された。",
+    "it": "Deriva dal latino tempus, genitivo temporis, «tempo, periodo, occasione opportuna». L’origine più remota non è del tutto certa, ma viene spesso collegata a un’antica radice riferita al tagliare o dividere, considerando il tempo come una successione di parti. Dalla stessa parola latina derivano il francese temps, lo spagnolo tiempo e il portoghese tempo. L’inglese tempo è stato preso dall’italiano come termine musicale."
+  },
+
+  "minimal": [
+    {
+      "word": "tempo",
+      "ja": "出来事が進行する時間、一定の期間、時代、または天気",
+      "it": "dimensione temporale, durata, epoca oppure condizioni atmosferiche"
+    },
+    {
+      "word": "ora",
+      "ja": "60分の時間単位、または時計で示される特定の時刻",
+      "it": "unità di sessanta minuti oppure punto preciso indicato dall’orologio"
+    },
+    {
+      "word": "momento",
+      "ja": "特定の時点、短い時間、またはある局面",
+      "it": "punto del tempo, breve intervallo oppure particolare fase"
+    },
+    {
+      "word": "periodo",
+      "ja": "始まりと終わりを持ち、一定の長さにわたって続く期間",
+      "it": "intervallo delimitato da un inizio e da una fine"
+    },
+    {
+      "word": "clima",
+      "ja": "ある地域に長期間見られる平均的な気象傾向",
+      "it": "insieme delle condizioni atmosferiche medie di una regione nel lungo periodo"
+    }
+  ],
+
+  "synonyms": [
+    "durata",
+    "periodo",
+    "epoca",
+    "momento",
+    "andamento",
+    "condizioni atmosferiche"
+  ],
+
+  "equivalents": {
+    "en": [
+      "time",
+      "weather",
+      "tense",
+      "tempo"
+    ],
+    "de": [
+      "Zeit",
+      "Wetter",
+      "Tempus",
+      "Tempo"
+    ],
+    "fr": [
+      "temps",
+      "météo",
+      "temps verbal",
+      "tempo"
+    ],
+    "es": [
+      "tiempo",
+      "tiempo atmosférico",
+      "tiempo verbal",
+      "tempo"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "avere tempo",
+      "ja": "時間がある"
+    },
+    {
+      "it": "prendersi del tempo",
+      "ja": "時間を取って考える・休む"
+    },
+    {
+      "it": "perdere tempo",
+      "ja": "時間を無駄にする"
+    },
+    {
+      "it": "passare il tempo",
+      "ja": "時間を過ごす"
+    },
+    {
+      "it": "tempo libero",
+      "ja": "自由時間・余暇"
+    },
+    {
+      "it": "in tempo",
+      "ja": "間に合って・手遅れになる前に"
+    },
+    {
+      "it": "a tempo",
+      "ja": "定刻に・リズムに合わせて"
+    },
+    {
+      "it": "da molto tempo",
+      "ja": "ずっと以前から・長い間"
+    },
+    {
+      "it": "molto tempo fa",
+      "ja": "ずっと前に"
+    },
+    {
+      "it": "tempo di cottura",
+      "ja": "調理時間"
+    },
+    {
+      "it": "Che tempo fa?",
+      "ja": "天気はどうですか"
+    },
+    {
+      "it": "tempo verbale",
+      "ja": "動詞の時制"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Oggi non ho tempo di pranzare con calma.",
+      "ja": "今日はゆっくり昼食を取る時間がありません。"
+    },
+    {
+      "it": "Nel tempo libero mi piace leggere e studiare le lingue.",
+      "ja": "自由時間には読書や語学の勉強をするのが好きです。"
+    },
+    {
+      "it": "Siamo arrivati alla stazione appena in tempo per prendere il treno.",
+      "ja": "私たちは列車に乗るのにぎりぎり間に合うよう駅へ到着しました。"
+    },
+    {
+      "it": "Vive in questa città da molto tempo.",
+      "ja": "彼女は長い間この町に住んでいます。"
+    },
+    {
+      "it": "Un tempo questo edificio era una stazione.",
+      "ja": "かつて、この建物は駅でした。"
+    },
+    {
+      "it": "Che tempo farà domani?",
+      "ja": "明日の天気はどうなるでしょうか。"
+    },
+    {
+      "it": "Il passato prossimo e l’imperfetto sono due tempi verbali italiani.",
+      "ja": "近過去と半過去は、イタリア語の二つの動詞時制です。"
+    },
+    {
+      "it": "Il direttore d’orchestra ha scelto un tempo più lento.",
+      "ja": "指揮者はより遅いテンポを選びました。"
+    },
+    {
+      "it": "La squadra ha segnato due gol nel secondo tempo.",
+      "ja": "そのチームは後半に2点を取りました。"
+    },
+    {
+      "it": "Il tempo di cottura della pasta è di circa dieci minuti.",
+      "ja": "そのパスタの調理時間は約10分です。"
+    }
+  ]
+},
+{
+  "id": "periodo",
+  "sid": "2026-00397",
+  "word": "periodo",
+  "ipa": "/peˈrjodo/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "periodi",
+    "pattern": "periodo di + durata, attività o fenomeno / per un periodo di + quantità di tempo / durante o nel corso del periodo / in questo periodo / nel periodo in cui + frase"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "time",
+      "history",
+      "work",
+      "education",
+      "grammar",
+      "science",
+      "health"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "始まりと終わりを持つ一定の時間・期間",
+      "人生・仕事・活動などにおける特定の時期",
+      "共通する特徴を持つ歴史・文化・社会上の時代",
+      "特定の活動・状態・制度などが継続する期間",
+      "文法で、一つ以上の節から構成されるまとまった文",
+      "文法のperiodo ipoteticoで、条件節と帰結節からなる仮定文",
+      "医学・生物学で、症状・発達・潜伏などが続く期間",
+      "女性の月経およびその期間を表す婉曲的な用法",
+      "科学で、一つの循環・反復に要する時間、または周期的分類の一区分"
+    ],
+    "it": [
+      "Intervallo di tempo delimitato da un inizio e da una fine.",
+      "Fase particolare della vita, del lavoro o di un’attività.",
+      "Epoca storica, culturale o sociale caratterizzata da elementi comuni.",
+      "Durata durante la quale continua un’attività, uno stato o un regime.",
+      "In grammatica, struttura sintattica composta da una o più proposizioni.",
+      "Nell’espressione periodo ipotetico, costruzione formata da una condizione e dalla relativa conseguenza.",
+      "In medicina e biologia, intervallo relativo a sintomi, sviluppo, incubazione o altri processi.",
+      "Uso eufemistico per indicare le mestruazioni e la loro durata.",
+      "Nelle scienze, tempo necessario al completamento di un ciclo oppure sezione di una classificazione periodica."
+    ]
+  },
+
+  "nuance": {
+    "ja": "periodoは、始まりと終わりを持つ時間のまとまりに重点を置く。tempoは時間という概念全般や利用可能な時間も表し、momentoは特定の時点または比較的短い局面を表す。faseは過程の中で特徴の異なる一段階、epocaは主に長い歴史的時代を指す。per un periodo di tre mesiは「3か月間」、in questo periodoは「この時期・最近」、nel periodo in cuiは「～していた時期に」となる。文法用語のperiodoは単なる一文というより、一つ以上の節からなる統語的なまとまりを指す。",
+    "it": "Periodo mette in rilievo un intervallo dotato di un inizio e di una fine. Tempo è più generale e può indicare anche la dimensione temporale o il tempo disponibile; momento indica un punto o una fase generalmente più breve. Fase è una parte riconoscibile di un processo; epoca designa soprattutto un’ampia età storica. Per un periodo di tre mesi indica una durata; in questo periodo significa «in questa fase, recentemente»; nel periodo in cui introduce l’intervallo durante il quale avviene qualcosa. In grammatica, periodo è un’unità sintattica composta da una o più proposizioni."
+  },
+
+  "etymology": {
+    "ja": "ラテン語periodusを経て、古代ギリシア語períodos「一周、巡回、周期」に由来する。これは perí-「周囲に」とhodós「道」から成り、語源的には「一周する道」を意味した。循環して出発点へ戻るという概念から、一定の時間・周期・文章のまとまりを表すようになった。英語period、フランス語période、スペイン語periodoも同じギリシア・ラテン系の語源を持つ。",
+    "it": "Deriva dal latino periodus, a sua volta dal greco antico períodos, «giro, circuito, ciclo», formato da perí-, «intorno», e hodós, «via, strada». L’idea di un percorso che compie un giro completo ha prodotto i significati di ciclo, intervallo temporale e struttura compiuta del discorso. Hanno la stessa origine l’inglese period, il francese période e lo spagnolo periodo."
+  },
+
+  "minimal": [
+    {
+      "word": "periodo",
+      "ja": "始まりと終わりを持ち、一定時間続く時期・期間",
+      "it": "intervallo temporale delimitato da un inizio e da una fine"
+    },
+    {
+      "word": "tempo",
+      "ja": "出来事が進行する時間という概念、利用可能な時間、または天気",
+      "it": "dimensione temporale, tempo disponibile oppure condizioni atmosferiche"
+    },
+    {
+      "word": "momento",
+      "ja": "特定の時点、比較的短い時間、またはある局面",
+      "it": "punto del tempo, breve intervallo oppure particolare situazione"
+    },
+    {
+      "word": "fase",
+      "ja": "変化・発展する過程の中で、特徴によって区別される一段階",
+      "it": "stadio riconoscibile all’interno di un processo di sviluppo o trasformazione"
+    },
+    {
+      "word": "epoca",
+      "ja": "歴史上の特徴によって区分される比較的長い時代",
+      "it": "ampio intervallo storico caratterizzato da elementi distintivi"
+    }
+  ],
+
+  "synonyms": [
+    "intervallo",
+    "fase",
+    "epoca",
+    "arco di tempo",
+    "ciclo",
+    "durata"
+  ],
+
+  "equivalents": {
+    "en": [
+      "period",
+      "phase",
+      "era",
+      "sentence"
+    ],
+    "de": [
+      "Zeitraum",
+      "Periode",
+      "Phase",
+      "Satzgefüge"
+    ],
+    "fr": [
+      "période",
+      "phase",
+      "époque",
+      "phrase complexe"
+    ],
+    "es": [
+      "período",
+      "fase",
+      "época",
+      "oración compuesta"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "un lungo periodo",
+      "ja": "長期間"
+    },
+    {
+      "it": "un breve periodo",
+      "ja": "短期間"
+    },
+    {
+      "it": "per un periodo di tre mesi",
+      "ja": "3か月間"
+    },
+    {
+      "it": "in questo periodo",
+      "ja": "この時期に・最近"
+    },
+    {
+      "it": "durante il periodo",
+      "ja": "その期間中に"
+    },
+    {
+      "it": "periodo di prova",
+      "ja": "試用期間"
+    },
+    {
+      "it": "periodo di validità",
+      "ja": "有効期間"
+    },
+    {
+      "it": "periodo di vacanza",
+      "ja": "休暇期間"
+    },
+    {
+      "it": "periodo storico",
+      "ja": "歴史上の時代"
+    },
+    {
+      "it": "periodo difficile",
+      "ja": "困難な時期"
+    },
+    {
+      "it": "periodo di incubazione",
+      "ja": "潜伏期間"
+    },
+    {
+      "it": "periodo ipotetico",
+      "ja": "仮定文・条件文の構文"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Ho vissuto a Roma per un periodo di tre anni.",
+      "ja": "私は3年間ローマに住んでいました。"
+    },
+    {
+      "it": "In questo periodo ho molto lavoro.",
+      "ja": "このところ、仕事がたくさんあります。"
+    },
+    {
+      "it": "La famiglia sta attraversando un periodo difficile.",
+      "ja": "その家族は困難な時期を経験しています。"
+    },
+    {
+      "it": "Durante il periodo di prova il dipendente riceverà una formazione specifica.",
+      "ja": "試用期間中、従業員は専門的な研修を受けます。"
+    },
+    {
+      "it": "Il documento deve rimanere valido per l’intero periodo del viaggio.",
+      "ja": "その書類は旅行の全期間にわたって有効でなければなりません。"
+    },
+    {
+      "it": "Il Rinascimento è un periodo fondamentale della storia europea.",
+      "ja": "ルネサンスはヨーロッパ史における重要な時代です。"
+    },
+    {
+      "it": "Il periodo di incubazione della malattia può variare.",
+      "ja": "その病気の潜伏期間は変動することがあります。"
+    },
+    {
+      "it": "Nel periodo in cui studiavo all’università lavoravo anche in un ristorante.",
+      "ja": "大学で学んでいた時期には、レストランでも働いていました。"
+    },
+    {
+      "it": "Il periodo ipotetico esprime una condizione e la sua conseguenza.",
+      "ja": "仮定文は条件とその結果を表します。"
+    },
+    {
+      "it": "Nella tavola periodica, ogni riga orizzontale costituisce un periodo.",
+      "ja": "周期表では、それぞれの横の列が一つの周期を構成します。"
+    }
+  ]
 }  
 ]
