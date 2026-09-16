@@ -417,5 +417,438 @@
       "ja": "今は仕事に戻らなければなりません。では今晩また。"
     }
   ]
+},
+{
+  "id": "ansia",
+  "sid": "2026-00388",
+  "word": "ansia",
+  "ipa": "/ˈansja/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "ansie",
+    "pattern": "avere l’ansia / essere o stare in ansia per + persona o cosa / provare ansia / mettere qualcuno in ansia / con ansia / ansia di + nome o infinito"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "medical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "emotions",
+      "health",
+      "work",
+      "education",
+      "relationships",
+      "waiting"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "将来の危険・失敗・好ましくない出来事を予想して感じる不安",
+      "原因が明確でないまま続く緊張・落ち着かなさ",
+      "結果や知らせを待つときに感じる心配・焦り",
+      "試験・仕事・人間関係などから生じる精神的な重圧",
+      "動悸・息苦しさ・筋肉の緊張などを伴うことのある不安状態",
+      "何かを早く知りたい、得たい、実現したいという強い期待や切望",
+      "複数形ansieで、さまざまな心配事・不安"
+    ],
+    "it": [
+      "Stato di inquietudine provocato dall’attesa di un pericolo, di un fallimento o di un evento indesiderato.",
+      "Tensione e agitazione persistenti che possono manifestarsi anche senza una causa chiaramente identificabile.",
+      "Preoccupazione e impazienza avvertite mentre si attende un risultato o una notizia.",
+      "Pressione emotiva collegata a esami, lavoro, relazioni o altre situazioni impegnative.",
+      "Stato che può accompagnarsi a manifestazioni fisiche come palpitazioni, difficoltà respiratoria o tensione muscolare.",
+      "Forte desiderio o impazienza di conoscere, ottenere o realizzare qualcosa.",
+      "Al plurale, insieme di preoccupazioni, timori o inquietudini."
+    ]
+  },
+
+  "nuance": {
+    "ja": "ansiaは、目の前の具体的な危険に対するpaura「恐怖」よりも、これから起こるかもしれないことへの持続的な不安・緊張に重点がある。preoccupazioneは特定の問題について気に掛けることで、ansiaほど強い身体的・感情的反応を伴わない場合もある。angosciaは胸が締め付けられるような、より深く強い苦悩を表す。日常会話ではHo l’ansiaやQuesta situazione mi mette ansiaのように定冠詞なしでも使われることがある。医学的なdisturbo d’ansiaは一時的な不安とは異なる診断上の概念である。",
+    "it": "Ansia riguarda soprattutto un’inquietudine rivolta a ciò che potrebbe accadere, mentre paura indica più facilmente la reazione a un pericolo concreto e presente. Preoccupazione è il pensiero rivolto a un problema specifico e può essere meno intensa; angoscia suggerisce una sofferenza più profonda e opprimente. Nel parlato sono comuni sia avere l’ansia sia espressioni come questa situazione mi mette ansia. Il disturbo d’ansia è un concetto clinico e non coincide con ogni normale esperienza momentanea di ansia."
+  },
+
+  "etymology": {
+    "ja": "ラテン語の形容詞anxius「不安な、苦悩した」の女性形に由来し、さらに動詞angĕre「締め付ける、苦しめる」と関係する。もともと、胸や喉を締め付けられるような身体感覚を伴う苦悩を表していた。同じ語族にはイタリア語ansioso、angoscia、英語anxiety・anxious、フランス語anxiété、スペイン語ansiaがある。",
+    "it": "Deriva dal latino anxia, femminile di anxius, «inquieto, angosciato», appartenente alla famiglia del verbo angĕre, «stringere, soffocare, tormentare». L’origine richiama quindi la sensazione fisica di costrizione associata all’inquietudine. Alla stessa famiglia appartengono ansioso e angoscia, oltre agli inglesi anxiety e anxious, al francese anxiété e allo spagnolo ansia."
+  },
+
+  "minimal": [
+    {
+      "word": "ansia",
+      "ja": "将来起こり得ることに対する持続的な不安・緊張・落ち着かなさ",
+      "it": "inquietudine e tensione rivolte soprattutto a ciò che potrebbe accadere"
+    },
+    {
+      "word": "paura",
+      "ja": "具体的または差し迫った危険を認識したときに生じる恐怖",
+      "it": "reazione emotiva davanti a un pericolo concreto o percepito come imminente"
+    },
+    {
+      "word": "preoccupazione",
+      "ja": "特定の問題や好ましくない結果について気に掛けること",
+      "it": "pensiero inquieto rivolto a un problema o a una possibile conseguenza negativa"
+    },
+    {
+      "word": "angoscia",
+      "ja": "圧迫感や無力感を伴う、深く強い精神的苦痛",
+      "it": "sofferenza intensa e opprimente accompagnata spesso da senso di impotenza"
+    },
+    {
+      "word": "stress",
+      "ja": "負担・要求・緊張が続くことによって生じる心身の反応",
+      "it": "reazione psicofisica provocata da pressioni, richieste o tensioni prolungate"
+    }
+  ],
+
+  "synonyms": [
+    "inquietudine",
+    "apprensione",
+    "agitazione",
+    "preoccupazione",
+    "angoscia",
+    "affanno"
+  ],
+
+  "equivalents": {
+    "en": [
+      "anxiety",
+      "uneasiness",
+      "apprehension"
+    ],
+    "de": [
+      "Angst",
+      "Unruhe",
+      "Beklemmung"
+    ],
+    "fr": [
+      "anxiété",
+      "inquiétude",
+      "angoisse"
+    ],
+    "es": [
+      "ansiedad",
+      "inquietud",
+      "ansia"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "avere l’ansia",
+      "ja": "不安を感じている"
+    },
+    {
+      "it": "essere in ansia",
+      "ja": "不安な状態にある"
+    },
+    {
+      "it": "stare in ansia per qualcuno",
+      "ja": "誰かのことを心配している"
+    },
+    {
+      "it": "provare ansia",
+      "ja": "不安を覚える"
+    },
+    {
+      "it": "mettere qualcuno in ansia",
+      "ja": "誰かを不安にさせる"
+    },
+    {
+      "it": "aspettare con ansia",
+      "ja": "不安または強い期待を抱いて待つ"
+    },
+    {
+      "it": "un attacco d’ansia",
+      "ja": "強い不安の発作"
+    },
+    {
+      "it": "un disturbo d’ansia",
+      "ja": "不安障害"
+    },
+    {
+      "it": "ansia da esame",
+      "ja": "試験不安"
+    },
+    {
+      "it": "ansia da prestazione",
+      "ja": "成果を求められる場面での不安"
+    },
+    {
+      "it": "ridurre l’ansia",
+      "ja": "不安を軽減する"
+    },
+    {
+      "it": "controllare l’ansia",
+      "ja": "不安をコントロールする"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Sono in ansia per il risultato dell’esame.",
+      "ja": "試験の結果が心配です。"
+    },
+    {
+      "it": "Non volevo metterti in ansia con quella telefonata.",
+      "ja": "あの電話であなたを不安にさせるつもりはありませんでした。"
+    },
+    {
+      "it": "L’attesa di una risposta gli provoca molta ansia.",
+      "ja": "返事を待つことが、彼に強い不安を引き起こしています。"
+    },
+    {
+      "it": "Prima di parlare in pubblico provo sempre un po’ d’ansia.",
+      "ja": "人前で話す前には、いつも少し不安を感じます。"
+    },
+    {
+      "it": "Era in ansia perché sua figlia non era ancora tornata a casa.",
+      "ja": "娘がまだ帰宅していなかったので、彼女は心配していました。"
+    },
+    {
+      "it": "Alcuni esercizi di respirazione possono aiutare a ridurre l’ansia.",
+      "ja": "呼吸法の中には、不安を和らげる助けとなるものがあります。"
+    },
+    {
+      "it": "Aspettiamo con ansia l’annuncio dei risultati.",
+      "ja": "私たちは結果の発表を待ち望んでいます。"
+    },
+    {
+      "it": "Le ansie quotidiane gli impedivano di riposare bene.",
+      "ja": "日々のさまざまな心配事のため、彼は十分に休めませんでした。"
+    }
+  ]
+},
+{
+  "id": "preoccupazione",
+  "sid": "2026-00389",
+  "word": "preoccupazione",
+  "ipa": "/preokkupatˈtsjone/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "preoccupazioni",
+    "pattern": "preoccupazione per + persona o cosa / preoccupazione di + infinito / preoccupazione che + congiuntivo / motivo o fonte di preoccupazione / con preoccupazione / senza preoccupazioni"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "emotions",
+      "family",
+      "health",
+      "work",
+      "business",
+      "public_affairs"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "問題や好ましくない結果について気に掛けること、心配",
+      "将来何か悪いことが起こる可能性を考えて感じる不安",
+      "家族・健康・仕事など、心配の対象となる具体的な事柄",
+      "危険・問題・悪化などを示す状況に対する懸念",
+      "誰かまたは何かに注意や配慮を向け続けること",
+      "複数形preoccupazioniで、複数の心配事・悩み・懸案",
+      "senza preoccupazioniの形で、心配や負担がなく安心して"
+    ],
+    "it": [
+      "Stato d’animo di chi pensa con inquietudine a un problema o a una possibile conseguenza negativa.",
+      "Timore che in futuro possa verificarsi qualcosa di indesiderato.",
+      "Problema concreto riguardante la famiglia, la salute, il lavoro o un altro ambito.",
+      "Inquietudine suscitata da una situazione che segnala un rischio, una difficoltà o un peggioramento.",
+      "Attenzione costante rivolta al benessere di una persona o al buon esito di qualcosa.",
+      "Al plurale, insieme di problemi, pensieri o questioni che causano inquietudine.",
+      "Nella locuzione senza preoccupazioni, in una condizione di tranquillità e senza particolari problemi."
+    ]
+  },
+
+  "nuance": {
+    "ja": "preoccupazioneは、心配の原因となる人物・問題・結果が比較的明確な場合に使われることが多い。ansiaは原因がはっきりしない場合もあり、持続的な緊張や身体的な不快感を伴うことがある。timoreは特定の悪い結果に対する恐れを表し、文脈によってはpreoccupazioneより控えめまたは改まった響きを持つ。essere preoccupatoは「心配している」という人の状態を述べ、una preoccupazioneは「一つの心配事」または心配という感情そのものを名詞として表す。",
+    "it": "Preoccupazione si usa spesso quando la causa dell’inquietudine è relativamente concreta, come un problema familiare, economico o professionale. Ansia può invece essere più diffusa, persistente e non sempre collegata a una causa chiaramente identificabile. Timore mette in rilievo la paura di una conseguenza specifica e può avere un tono più contenuto o formale. Essere preoccupato descrive lo stato della persona; una preoccupazione può indicare sia il sentimento sia il problema concreto che lo provoca."
+  },
+
+  "etymology": {
+    "ja": "動詞preoccupare「心配させる、前もって占める」に、行為・状態を表す接尾辞-zioneを加えて形成された。preoccupareはラテン語praeoccupāreに由来し、prae-「前もって」とoccupāre「占める、取りつく」から成る。語源的には、ある考えがほかの考えより先に心を占めることを意味し、そこから「将来の問題を前もって考えて心を悩ませる」という現在の意味が発達した。",
+    "it": "Deriva da preoccupare con il suffisso -zione. Preoccupare continua il latino praeoccupāre, formato da prae-, «prima, in anticipo», e occupāre, «occupare, impadronirsi». Il significato originario era quello di occupare preventivamente uno spazio o la mente; da qui si è sviluppato il valore moderno di pensare anticipatamente a un possibile problema fino a provare inquietudine."
+  },
+
+  "minimal": [
+    {
+      "word": "preoccupazione",
+      "ja": "具体的な問題や望ましくない結果について気に掛けること",
+      "it": "inquietudine rivolta a un problema concreto o a una possibile conseguenza negativa"
+    },
+    {
+      "word": "ansia",
+      "ja": "将来に対する持続的な緊張や落ち着かなさで、原因が明確でないこともある",
+      "it": "tensione persistente rivolta al futuro, talvolta priva di una causa chiaramente identificabile"
+    },
+    {
+      "word": "timore",
+      "ja": "特定の危険や悪い結果が起こることへの恐れ・懸念",
+      "it": "paura o apprensione relativa a un pericolo o a una conseguenza specifica"
+    },
+    {
+      "word": "paura",
+      "ja": "現実または想像上の危険に対して生じる恐怖",
+      "it": "reazione emotiva davanti a un pericolo reale o immaginato"
+    },
+    {
+      "word": "pensiero",
+      "ja": "口語では、心から離れない悩み・気掛かりを表すことがある",
+      "it": "nel parlato può indicare un problema o una questione che continua a occupare la mente"
+    }
+  ],
+
+  "synonyms": [
+    "pensiero",
+    "inquietudine",
+    "apprensione",
+    "timore",
+    "ansia",
+    "cruccio"
+  ],
+
+  "equivalents": {
+    "en": [
+      "concern",
+      "worry",
+      "preoccupation"
+    ],
+    "de": [
+      "Sorge",
+      "Besorgnis",
+      "Beunruhigung"
+    ],
+    "fr": [
+      "préoccupation",
+      "inquiétude",
+      "souci"
+    ],
+    "es": [
+      "preocupación",
+      "inquietud",
+      "temor"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "provare preoccupazione",
+      "ja": "心配を感じる"
+    },
+    {
+      "it": "esprimere preoccupazione",
+      "ja": "懸念を表明する"
+    },
+    {
+      "it": "mostrare preoccupazione",
+      "ja": "心配している様子を示す"
+    },
+    {
+      "it": "destare preoccupazione",
+      "ja": "懸念を引き起こす"
+    },
+    {
+      "it": "suscitare preoccupazione",
+      "ja": "心配を生じさせる"
+    },
+    {
+      "it": "una crescente preoccupazione",
+      "ja": "高まりつつある懸念"
+    },
+    {
+      "it": "una seria preoccupazione",
+      "ja": "深刻な懸念"
+    },
+    {
+      "it": "preoccupazione per la salute",
+      "ja": "健康についての心配"
+    },
+    {
+      "it": "motivo di preoccupazione",
+      "ja": "心配の種・懸念材料"
+    },
+    {
+      "it": "fonte di preoccupazione",
+      "ja": "心配の原因"
+    },
+    {
+      "it": "guardare con preoccupazione",
+      "ja": "心配そうに見る"
+    },
+    {
+      "it": "vivere senza preoccupazioni",
+      "ja": "心配なく暮らす"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "La salute di suo padre è la sua principale preoccupazione.",
+      "ja": "父親の健康が彼女にとって最大の心配事です。"
+    },
+    {
+      "it": "Il ritardo del treno non è motivo di preoccupazione.",
+      "ja": "列車の遅れは心配するほどのことではありません。"
+    },
+    {
+      "it": "Il medico ha espresso preoccupazione per le condizioni del paziente.",
+      "ja": "医師は患者の容体について懸念を示しました。"
+    },
+    {
+      "it": "C’è preoccupazione che i prezzi continuino ad aumentare.",
+      "ja": "物価が上昇し続けるのではないかという懸念があります。"
+    },
+    {
+      "it": "La notizia ha suscitato grande preoccupazione tra i dipendenti.",
+      "ja": "その知らせは従業員の間に大きな不安を引き起こしました。"
+    },
+    {
+      "it": "Mi parlava con evidente preoccupazione.",
+      "ja": "彼は明らかに心配そうな様子で私に話していました。"
+    },
+    {
+      "it": "In questo periodo ho molte preoccupazioni economiche.",
+      "ja": "このところ、私には経済的な心配事がたくさんあります。"
+    },
+    {
+      "it": "Ora che il problema è stato risolto, possiamo partire senza preoccupazioni.",
+      "ja": "問題が解決したので、安心して出発できます。"
+    }
+  ]
 }  
 ]
