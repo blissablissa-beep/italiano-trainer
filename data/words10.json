@@ -1,23 +1,29 @@
 [
 {
-  "id": "stamattina",
+  "id": "cuore",
   "sid": "2026-00386",
-  "word": "stamattina",
-  "ipa": "/stamatˈtina/",
+  "word": "cuore",
+  "ipa": "/ˈkwɔre/",
   "level": "A1",
   "frequency": "very_common",
+
   "grammar": {
-    "pos": "adverb",
+    "pos": "noun",
     "label": {
-      "ja": "時間副詞",
-      "it": "avverbio temporale"
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
     },
-    "invariable": true,
-    "pattern": "stamattina + passato, presente o futuro / stamattina + ora / da, fin da, per o entro + stamattina / nome + di stamattina"
+    "gender": "masculine",
+    "plural": "cuori",
+    "pattern": "il cuore / i cuori / cuore di + persona o cosa / al cuore di + luogo o questione / con, di o a cuore / avere a cuore + nome o infinito"
   },
+
   "usage": {
     "register": [
-      "neutral"
+      "neutral",
+      "figurative",
+      "medical",
+      "literary"
     ],
     "medium": [
       "spoken",
@@ -25,193 +31,193 @@
     ],
     "situations": [
       "conversation",
-      "daily_life",
-      "work",
-      "planning",
-      "appointments",
-      "weather",
-      "travel",
-      "narration"
+      "body",
+      "health",
+      "emotions",
+      "relationships",
+      "description",
+      "idioms"
     ]
   },
+
   "meaning": {
     "ja": [
-      "話している日の朝、今朝",
-      "すでに経過した今日の朝の時間帯",
-      "現在進行中である今日の朝",
-      "まだ到来していない今日の朝の予定時刻",
-      "da stamattinaの形で、今朝を起点として現在まで",
-      "per stamattinaの形で、今朝に予定・指定されて"
+      "血液を全身へ送り出す胸部の臓器、心臓",
+      "心臓がある胸の部分、胸元",
+      "愛情・悲しみ・喜びなどの感情が宿ると考えられる心",
+      "人の優しさ・思いやり・誠実さなどの内面的な性質",
+      "困難に立ち向かう勇気・気力",
+      "場所・組織・問題などの中心部・核心",
+      "果物・野菜・物体などの内側にある中心部分",
+      "ハート形の記号、またはトランプのハートの組",
+      "大切に思い、強い関心を寄せる対象"
     ],
     "it": [
-      "Nella mattina del giorno in cui si parla, questa mattina.",
-      "Nella parte già trascorsa della mattina di oggi.",
-      "Durante la mattina di oggi ancora in corso.",
-      "Nella parte della mattina di oggi che deve ancora arrivare.",
-      "Con da, a partire dalla mattina di oggi e fino al momento presente.",
-      "Con per, come momento previsto, concordato o stabilito nella mattina di oggi."
+      "Organo muscolare che pompa il sangue attraverso il sistema circolatorio.",
+      "Parte del petto nella quale si trova il cuore.",
+      "Sede simbolica dei sentimenti, dell’amore, della tristezza e della gioia.",
+      "Insieme delle qualità interiori di una persona, come bontà, generosità e sincerità.",
+      "Forza d’animo e coraggio necessari per affrontare una difficoltà.",
+      "Parte centrale o essenziale di un luogo, di un’organizzazione o di una questione.",
+      "Parte più interna e centrale di un frutto, di un ortaggio o di un oggetto.",
+      "Simbolo a forma di cuore oppure seme delle carte da gioco.",
+      "Persona, valore o questione alla quale si attribuisce particolare importanza."
     ]
   },
+
   "nuance": {
-    "ja": "stamattinaは発話日を基準とするため、話す時刻と動詞の時制によって時間関係が変わる。午後にStamattina ho lavoratoと言えば過去の「今朝働いた」、朝の途中でStamattina lavoro da casaと言えば「今朝は自宅で仕事をしている」、早朝にStamattina andrò in bancaと言えば「今朝これから銀行へ行く」となる。questa mattinaとほぼ完全に同義だが、stamattinaのほうが簡潔で日常的である。oggi mattinaも理解されるものの、標準的な一般表現としてはstamattinaまたはquesta mattinaがより自然である。stamaniも同義だが、特にトスカーナでよく使われ、stamaneはやや文学的に響く。stamani自体に「今朝」が含まれるため、stamani mattinaは意味が重複する。過去の物語中で、発話日ではなく物語上の特定の日の朝を指す場合はquella mattinaを使う。",
-    "it": "Stamattina è legato al giorno in cui si parla e può riferirsi al passato, al presente o al futuro secondo l’ora e il tempo verbale. Nel pomeriggio, Stamattina ho lavorato indica una mattina già trascorsa; durante la mattina, Stamattina lavoro da casa può descrivere la situazione in corso; nelle prime ore, Stamattina andrò in banca può riferirsi a un programma successivo. Questa mattina è sostanzialmente equivalente, mentre stamattina è più compatto e quotidiano. Oggi mattina è comprensibile, ma stamattina e questa mattina sono generalmente più naturali nell’italiano comune. Stamani è sinonimo ed è particolarmente diffuso in Toscana; stamane può avere un tono più letterario. Poiché stamani significa già «questa mattina», stamani mattina è ridondante. In una narrazione riferita a un giorno passato si usa normalmente quella mattina."
+    "ja": "cuoreは身体器官としての「心臓」と、感情・愛情・人間性を表す「心」の両方に使われる。日本語の「心」は思考も含むことがあるが、イタリア語で論理的な思考を表す場合は通常menteを使う。avere a cuore qualcosaは「何かを大切に思う」、stare a cuore a qualcunoは「誰かにとって大切である」という構文になる。di cuoreは「心から」、a memoriaまたはa memoriaではなくimparare a memoriaが一般的だが、sapere a memoriaと同じ意味でsapere a cuoreという表現は標準的ではない。一方、英語のby heartに対応する伝統的な表現としてimparare a memoriaを用いる。",
+    "it": "Cuore indica sia l’organo anatomico sia, figuratamente, la sede dei sentimenti e delle qualità morali. Per il pensiero razionale si usa normalmente mente, non cuore. Avere a cuore qualcosa significa considerarla importante e occuparsene con attenzione; stare a cuore a qualcuno significa essere importante per quella persona. Di cuore rafforza la sincerità di un sentimento o di un augurio. Per esprimere l’inglese by heart si dice normalmente a memoria, non a cuore."
   },
+
   "etymology": {
-    "ja": "伝統的には、sta「この」とmattina「朝」から成る複合語と説明され、文字どおり「この朝」を意味する。歴史的には、ラテン語ista mane「この朝に」に由来するstamane・stamaniを基礎として、mattinaが重なり、または置き換わって成立したとも分析される。現代語では構成要素が一体化しているため、通常一語でstamattinaと書く。",
-    "it": "È tradizionalmente analizzato come composto di sta, «questa», e mattina, con il significato letterale di «questa mattina». Storicamente viene anche ricondotto a stamane o stamani, continuatori della locuzione latina ista mane, con sovrapposizione o sostituzione di mattina. Nell’italiano moderno gli elementi formano un’unica parola, scritta stamattina."
+    "ja": "ラテン語cor、属格cordis「心臓、心」に由来し、インド・ヨーロッパ祖語の「心臓」を表す古い語根にさかのぼる。英語heart、ドイツ語Herz、古代ギリシア語kardíaとは遠い同系語である。同じラテン語族にはcordiale「心のこもった」、concordia「調和」、discordia「不和」、ricordare「思い出す」などがある。coraggio「勇気」も、フランス語を介して「心」を表す同じ語族から生じた。",
+    "it": "Deriva dal latino cor, genitivo cordis, «cuore», risalente a un’antichissima radice indoeuropea. Sono lontanamente affini l’inglese heart, il tedesco Herz e il greco antico kardía. Alla famiglia latina appartengono cordiale, concordia, discordia e ricordare. Anche coraggio risale, attraverso il francese, alla stessa idea del cuore come sede della forza interiore."
   },
+
   "minimal": [
     {
-      "word": "stamattina",
-      "ja": "話している日の朝、今朝",
-      "it": "nella mattina del giorno in cui si parla"
+      "word": "cuore",
+      "ja": "血液を送り出す心臓、または感情・愛情・人間性を象徴する心",
+      "it": "organo che pompa il sangue oppure sede simbolica dei sentimenti"
     },
     {
-      "word": "questa mattina",
-      "ja": "stamattinaとほぼ同じ「今日の朝」",
-      "it": "espressione analitica sostanzialmente equivalente a stamattina"
+      "word": "mente",
+      "ja": "思考・記憶・判断などを行う精神の働き",
+      "it": "facoltà relativa al pensiero, alla memoria e al ragionamento"
     },
     {
-      "word": "stamani",
-      "ja": "今朝を表す同義語で、特にトスカーナでよく使われる",
-      "it": "sinonimo di stamattina, particolarmente diffuso in Toscana"
+      "word": "animo",
+      "ja": "人の感情・気分・精神状態や内面的な性質",
+      "it": "interiorità emotiva, disposizione e stato spirituale di una persona"
     },
     {
-      "word": "ieri mattina",
-      "ja": "今日の直前の日の朝、昨日の朝",
-      "it": "mattina del giorno precedente a oggi"
+      "word": "centro",
+      "ja": "空間・活動・問題などの中央または主要部分",
+      "it": "parte centrale o principale di uno spazio, un’attività o una questione"
     },
     {
-      "word": "domani mattina",
-      "ja": "今日の直後の日の朝、明日の朝",
-      "it": "mattina del giorno successivo a oggi"
+      "word": "coraggio",
+      "ja": "恐怖や困難に負けず行動するための勇気",
+      "it": "forza interiore necessaria per affrontare paure e difficoltà"
     }
   ],
+
   "synonyms": [
-    "questa mattina",
-    "stamani",
-    "stamane"
+    "organo cardiaco",
+    "animo",
+    "sentimento",
+    "centro",
+    "nucleo",
+    "coraggio"
   ],
+
   "equivalents": {
     "en": [
-      "this morning"
+      "heart",
+      "core",
+      "courage"
     ],
     "de": [
-      "heute Morgen"
+      "Herz",
+      "Kern",
+      "Mut"
     ],
     "fr": [
-      "ce matin"
+      "cœur",
+      "centre",
+      "courage"
     ],
     "es": [
-      "esta mañana"
+      "corazón",
+      "centro",
+      "ánimo"
     ]
   },
+
   "collocations": [
     {
-      "it": "stamattina presto",
-      "ja": "今朝早く"
+      "it": "battito del cuore",
+      "ja": "心臓の鼓動"
     },
     {
-      "it": "stamattina sul presto",
-      "ja": "今朝の早い時間に"
+      "it": "malattia del cuore",
+      "ja": "心臓病"
     },
     {
-      "it": "stamattina alle otto",
-      "ja": "今朝8時に"
+      "it": "avere il cuore spezzato",
+      "ja": "悲しみで心が打ち砕かれている"
     },
     {
-      "it": "proprio stamattina",
-      "ja": "ほかでもなく今朝・ちょうど今朝"
+      "it": "avere un cuore d’oro",
+      "ja": "非常に優しい心を持っている"
     },
     {
-      "it": "solo stamattina",
-      "ja": "今朝になって初めて・今朝だけ"
+      "it": "aprire il proprio cuore",
+      "ja": "心を開く・胸の内を明かす"
     },
     {
-      "it": "da stamattina",
-      "ja": "今朝から"
+      "it": "parlare con il cuore",
+      "ja": "心を込めて率直に話す"
     },
     {
-      "it": "fin da stamattina",
-      "ja": "今朝からずっと"
+      "it": "ringraziare di cuore",
+      "ja": "心から感謝する"
     },
     {
-      "it": "per stamattina",
-      "ja": "今朝に向けて・今朝の予定として"
+      "it": "avere a cuore qualcosa",
+      "ja": "何かを大切に思う"
     },
     {
-      "it": "entro stamattina",
-      "ja": "今朝中に"
+      "it": "stare a cuore a qualcuno",
+      "ja": "誰かにとって大切である"
     },
     {
-      "it": "la riunione di stamattina",
-      "ja": "今朝の会議"
+      "it": "nel cuore della città",
+      "ja": "街の中心部に"
     },
     {
-      "it": "il treno di stamattina",
-      "ja": "今朝の列車"
+      "it": "andare al cuore della questione",
+      "ja": "問題の核心に迫る"
     },
     {
-      "it": "il giornale di stamattina",
-      "ja": "今朝の新聞"
+      "it": "in fondo al cuore",
+      "ja": "心の奥底では"
     }
   ],
+
   "examples": [
     {
-      "it": "Stamattina mi sono svegliato alle sei.",
-      "ja": "今朝、私は6時に目を覚ましました。"
+      "it": "Il cuore pompa il sangue in tutto il corpo.",
+      "ja": "心臓は全身へ血液を送り出します。"
     },
     {
-      "it": "Stamattina ho fatto colazione con mia moglie.",
-      "ja": "今朝、私は妻と朝食を取りました。"
+      "it": "Dopo la corsa sentivo il cuore battere molto velocemente.",
+      "ja": "走った後、心臓が非常に速く鼓動しているのを感じました。"
     },
     {
-      "it": "Stamattina pioveva quando sono uscito di casa.",
-      "ja": "今朝、私が家を出たときには雨が降っていました。"
+      "it": "È una persona generosa e ha davvero un cuore d’oro.",
+      "ja": "彼女は寛大で、本当に優しい心を持った人です。"
     },
     {
-      "it": "Stamattina lavoro da casa.",
-      "ja": "今朝は自宅で仕事をしています。"
+      "it": "Ti ringrazio di cuore per tutto quello che hai fatto.",
+      "ja": "あなたがしてくれたすべてのことに心から感謝します。"
     },
     {
-      "it": "Stamattina andrò in banca prima di entrare in ufficio.",
-      "ja": "今朝、事務所へ行く前に銀行へ行く予定です。"
+      "it": "La tutela dell’ambiente è un tema che mi sta molto a cuore.",
+      "ja": "環境保護は、私がとても大切にしている問題です。"
     },
     {
-      "it": "Sono in ufficio da stamattina.",
-      "ja": "私は今朝から事務所にいます。"
+      "it": "L’albergo si trova nel cuore della città.",
+      "ja": "そのホテルは街の中心部にあります。"
     },
     {
-      "it": "Ti cerco fin da stamattina.",
-      "ja": "今朝からずっとあなたを捜しています。"
+      "it": "Dobbiamo andare al cuore del problema e individuarne la causa.",
+      "ja": "問題の核心に迫り、その原因を突き止めなければなりません。"
     },
     {
-      "it": "Il direttore mi ha chiesto il rapporto per stamattina.",
-      "ja": "責任者は今朝までに報告書を用意するよう私に求めました。"
-    },
-    {
-      "it": "Dobbiamo terminare il lavoro entro stamattina.",
-      "ja": "私たちは今朝中に仕事を終えなければなりません。"
-    },
-    {
-      "it": "Ho saputo la notizia solo stamattina.",
-      "ja": "私は今朝になって初めてその知らせを知りました。"
-    },
-    {
-      "it": "Ne abbiamo già parlato durante la riunione di stamattina.",
-      "ja": "そのことについては今朝の会議ですでに話しました。"
-    },
-    {
-      "it": "Il treno di stamattina è partito con venti minuti di ritardo.",
-      "ja": "今朝の列車は20分遅れて出発しました。"
-    },
-    {
-      "it": "Proprio stamattina pensavo di telefonarti.",
-      "ja": "ちょうど今朝、あなたに電話しようと思っていました。"
-    },
-    {
-      "it": "Stamattina fa più fresco di ieri.",
-      "ja": "今朝は昨日より涼しいです。"
+      "it": "In fondo al cuore sapeva che quella era la decisione giusta.",
+      "ja": "心の奥底では、それが正しい決断だと彼は分かっていました。"
     }
   ]
 },
