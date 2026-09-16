@@ -3317,5 +3317,438 @@
       "ja": "費用の増加によって、多くの中小企業が苦境に陥りました。"
     }
   ]
+},
+{
+  "id": "meteo",
+  "sid": "2026-00401",
+  "word": "meteo",
+  "ipa": "/ˈmɛteo/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞・不変化名詞／名詞を修飾する不変化要素",
+      "it": "sostantivo maschile invariabile e elemento invariabile con funzione attributiva"
+    },
+    "gender": "masculine",
+    "plural": "meteo",
+    "invariable": true,
+    "pattern": "il meteo / guardare o controllare il meteo / secondo il meteo / previsioni meteo / servizio, bollettino o allerta meteo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "journalistic"
+    ],
+    "medium": [
+      "spoken",
+      "written",
+      "broadcast",
+      "digital"
+    ],
+    "situations": [
+      "conversation",
+      "weather",
+      "travel",
+      "planning",
+      "news",
+      "transport",
+      "outdoor_activities"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "テレビ・ウェブサイト・アプリなどで提供される天気予報",
+      "現在または今後予想される気象状況",
+      "気象情報を伝える番組・ウェブサービス・情報欄",
+      "名詞を修飾して、気象・天気予報に関することを表す不変化要素",
+      "口語で、予定や旅行に影響する天候全般"
+    ],
+    "it": [
+      "Previsione del tempo diffusa dalla televisione, da un sito, da un’applicazione o da un altro servizio.",
+      "Insieme delle condizioni atmosferiche attuali o previste.",
+      "Programma, servizio o sezione informativa dedicati alle condizioni atmosferiche.",
+      "Elemento invariabile che, unito a un nome, indica una relazione con la meteorologia o con le previsioni del tempo.",
+      "Nel parlato, condizioni del tempo considerate soprattutto in relazione a un programma o a un viaggio."
+    ]
+  },
+
+  "nuance": {
+    "ja": "meteoはmeteorologiaまたはmeteorologicoを短縮した現代的で非常に一般的な語で、特に「天気予報」やそれを提供するサービスを指す。天気そのものを尋ねる場合はChe tempo fa?が自然で、Che meteo fa?とは通常言わない。Ho controllato il meteoは「天気予報を確認した」、Il tempo è bruttoは「天気が悪い」となる。previsioni meteo、allerta meteo、radar meteoのように名詞を後ろから修飾する場合も語形は変化しない。",
+    "it": "Meteo è un’abbreviazione moderna e molto comune di meteorologia o meteorologico e indica soprattutto le previsioni del tempo o il servizio che le diffonde. Per chiedere le condizioni atmosferiche si dice normalmente Che tempo fa?, non Che meteo fa?. Ho controllato il meteo significa che ho consultato le previsioni; Il tempo è brutto descrive invece le condizioni reali. In espressioni come previsioni meteo, allerta meteo e radar meteo, la parola rimane invariabile."
+  },
+
+  "etymology": {
+    "ja": "meteorologiaおよびmeteorologicoの短縮形として成立した。これらは古代ギリシア語meteōrologíaに由来し、metéōros「空中の、高く持ち上げられた」と-logía「研究・論述」から成る。古代には空や大気中で起こる現象全般の研究を意味した。metéōrosは英語meteor、フランス語météo、イタリア語meteoraなどにも受け継がれている。",
+    "it": "È una forma abbreviata di meteorologia e meteorologico. Queste parole derivano dal greco antico meteōrología, formato da metéōros, «sollevato in alto, presente nell’aria», e -logía, «studio, trattazione». Nell’antichità indicava lo studio dei fenomeni che avvengono nel cielo e nell’atmosfera. La stessa base compare in meteora, nell’inglese meteor e nel francese météo."
+  },
+
+  "minimal": [
+    {
+      "word": "meteo",
+      "ja": "天気予報、またはそれを提供する番組・アプリ・サービス",
+      "it": "previsioni del tempo oppure servizio che fornisce informazioni meteorologiche"
+    },
+    {
+      "word": "tempo",
+      "ja": "晴れ・雨・風など、実際の天気・空模様",
+      "it": "condizioni atmosferiche effettive, come sole, pioggia e vento"
+    },
+    {
+      "word": "clima",
+      "ja": "ある地域に長期間見られる平均的な気象傾向",
+      "it": "insieme delle condizioni atmosferiche medie di una regione nel lungo periodo"
+    },
+    {
+      "word": "meteorologia",
+      "ja": "大気と気象現象を研究する科学",
+      "it": "scienza che studia l’atmosfera e i fenomeni meteorologici"
+    },
+    {
+      "word": "previsione",
+      "ja": "将来起こることをデータや判断に基づいて予測すること",
+      "it": "valutazione anticipata di ciò che probabilmente accadrà"
+    }
+  ],
+
+  "synonyms": [
+    "previsioni del tempo",
+    "previsioni meteorologiche",
+    "bollettino meteorologico",
+    "servizio meteorologico"
+  ],
+
+  "equivalents": {
+    "en": [
+      "weather forecast",
+      "weather report",
+      "weather"
+    ],
+    "de": [
+      "Wettervorhersage",
+      "Wetterbericht",
+      "Wetter"
+    ],
+    "fr": [
+      "météo",
+      "prévisions météorologiques",
+      "bulletin météo"
+    ],
+    "es": [
+      "pronóstico del tiempo",
+      "previsión meteorológica",
+      "parte meteorológico"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "guardare il meteo",
+      "ja": "天気予報を見る"
+    },
+    {
+      "it": "controllare il meteo",
+      "ja": "天気予報を確認する"
+    },
+    {
+      "it": "secondo il meteo",
+      "ja": "天気予報によると"
+    },
+    {
+      "it": "previsioni meteo",
+      "ja": "天気予報"
+    },
+    {
+      "it": "servizio meteo",
+      "ja": "気象情報サービス"
+    },
+    {
+      "it": "bollettino meteo",
+      "ja": "気象通報・天気予報"
+    },
+    {
+      "it": "app meteo",
+      "ja": "天気予報アプリ"
+    },
+    {
+      "it": "sito meteo",
+      "ja": "気象情報サイト"
+    },
+    {
+      "it": "radar meteo",
+      "ja": "気象レーダー"
+    },
+    {
+      "it": "allerta meteo",
+      "ja": "気象警報"
+    },
+    {
+      "it": "dati meteo",
+      "ja": "気象データ"
+    },
+    {
+      "it": "condizioni meteo",
+      "ja": "気象条件"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Prima di uscire controllo sempre il meteo.",
+      "ja": "外出する前には、いつも天気予報を確認します。"
+    },
+    {
+      "it": "Secondo il meteo, stasera dovrebbe piovere.",
+      "ja": "天気予報によると、今晩は雨が降る見込みです。"
+    },
+    {
+      "it": "Le previsioni meteo annunciano sole per tutto il fine settimana.",
+      "ja": "天気予報では週末を通して晴れると伝えています。"
+    },
+    {
+      "it": "Ho installato una nuova app meteo sul telefono.",
+      "ja": "携帯電話に新しい天気予報アプリを入れました。"
+    },
+    {
+      "it": "La regione ha emesso un’allerta meteo per forti temporali.",
+      "ja": "州は激しい雷雨に対する気象警報を発表しました。"
+    },
+    {
+      "it": "Il traghetto è stato cancellato a causa delle cattive condizioni meteo.",
+      "ja": "悪天候のため、フェリーは欠航しました。"
+    },
+    {
+      "it": "Il radar meteo mostra una vasta area di pioggia in avvicinamento.",
+      "ja": "気象レーダーには、広い雨域が接近している様子が映っています。"
+    },
+    {
+      "it": "Il meteo può cambiare rapidamente in montagna.",
+      "ja": "山では天候が急速に変化することがあります。"
+    }
+  ]
+},
+{
+  "id": "clima",
+  "sid": "2026-00402",
+  "word": "clima",
+  "ipa": "/ˈklima/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "climi",
+    "pattern": "clima + aggettivo / clima di + luogo / un clima di + sentimento o situazione / creare, favorire o vivere in un clima / adattarsi al clima"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "scientific",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "weather",
+      "geography",
+      "environment",
+      "travel",
+      "work",
+      "politics",
+      "relationships"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "ある地域に長期間見られる気温・降水量・風などの平均的な気象状態",
+      "特定の地域・季節帯を特徴付ける気候",
+      "地球規模または地域規模の長期的な気象傾向",
+      "人々の間に広がっている感情的・社会的な雰囲気",
+      "職場・学校・家庭などにおける人間関係上の環境",
+      "政治・経済・社会における全般的な情勢・空気",
+      "ある行動・協力・対立などを促進または妨げる状況"
+    ],
+    "it": [
+      "Insieme delle condizioni atmosferiche medie di una regione osservate per un lungo periodo.",
+      "Tipo di condizioni meteorologiche che caratterizza una determinata area o fascia geografica.",
+      "Tendenza atmosferica di lungo periodo considerata a livello regionale o globale.",
+      "Atmosfera emotiva o sociale diffusa tra più persone.",
+      "Qualità delle relazioni e dell’ambiente presenti in un luogo di lavoro, in una scuola o in una famiglia.",
+      "Situazione generale politica, economica o sociale.",
+      "Condizione capace di favorire o ostacolare collaborazione, fiducia, conflitto o altre forme di comportamento."
+    ]
+  },
+
+  "nuance": {
+    "ja": "climaは、通常数十年ほどの長期間にわたる平均的な気象傾向を表す。tempoは今日の雨や明日の晴れなど、特定の時点における実際の天気を指し、meteoは主に天気予報や気象情報サービスを表す。したがってOggi il tempo è belloとは言えるが、通常Oggi il clima è belloとは言わない。比喩的にはclima di fiducia「信頼の雰囲気」、clima politico「政治情勢」のように、人々を取り巻く全般的な空気を表す。",
+    "it": "Clima indica normalmente l’andamento medio delle condizioni atmosferiche osservato per un lungo periodo, spesso nell’arco di decenni. Tempo descrive le condizioni effettive di oggi o di domani; meteo indica soprattutto le previsioni e i servizi meteorologici. Si dice quindi Oggi il tempo è bello, non normalmente Oggi il clima è bello. In senso figurato, clima descrive l’atmosfera generale che influenza i rapporti e i comportamenti, come in clima di fiducia o clima politico."
+  },
+
+  "etymology": {
+    "ja": "ラテン語climaを経て、古代ギリシア語klíma「傾き、地表の緯度帯」に由来する。これはklínein「傾ける」に関連する。古代地理学では、太陽光線の傾きや昼の長さによって地球を複数の帯に分け、それぞれをklímaと呼んだ。そこから、ある地域を特徴付ける気象条件という現在の意味が発達した。英語climate、ドイツ語Klima、フランス語climat、スペイン語climaも同じ起源を持つ。",
+    "it": "Deriva dal latino clima, a sua volta dal greco antico klíma, «inclinazione, fascia della superficie terrestre», collegato a klínein, «inclinare». Nella geografia antica la Terra veniva divisa in fasce secondo l’inclinazione dei raggi solari e la durata del giorno. Da questa suddivisione geografica si è sviluppato il significato moderno di insieme delle condizioni atmosferiche proprie di una regione."
+  },
+
+  "minimal": [
+    {
+      "word": "clima",
+      "ja": "ある地域に長期間見られる平均的な気象傾向、または社会的な雰囲気",
+      "it": "condizioni atmosferiche medie di lungo periodo oppure atmosfera sociale"
+    },
+    {
+      "word": "tempo",
+      "ja": "特定の日時に実際に見られる雨・晴れ・風などの天気",
+      "it": "condizioni atmosferiche presenti in un determinato momento"
+    },
+    {
+      "word": "meteo",
+      "ja": "天気予報、またはそれを提供する番組・アプリ・サービス",
+      "it": "previsioni del tempo oppure servizio che fornisce informazioni meteorologiche"
+    },
+    {
+      "word": "atmosfera",
+      "ja": "地球を取り巻く気体、または場所・場面から感じられる雰囲気",
+      "it": "involucro gassoso della Terra oppure impressione emotiva di un luogo"
+    },
+    {
+      "word": "ambiente",
+      "ja": "人や生物を取り巻く自然的・社会的・物理的な環境",
+      "it": "insieme delle condizioni naturali, sociali o fisiche che circondano qualcuno"
+    }
+  ],
+
+  "synonyms": [
+    "condizioni climatiche",
+    "atmosfera",
+    "ambiente",
+    "situazione",
+    "aria",
+    "contesto"
+  ],
+
+  "equivalents": {
+    "en": [
+      "climate",
+      "atmosphere",
+      "environment"
+    ],
+    "de": [
+      "Klima",
+      "Atmosphäre",
+      "Stimmung"
+    ],
+    "fr": [
+      "climat",
+      "atmosphère",
+      "ambiance"
+    ],
+    "es": [
+      "clima",
+      "atmósfera",
+      "ambiente"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "clima caldo",
+      "ja": "温暖・高温な気候"
+    },
+    {
+      "it": "clima freddo",
+      "ja": "寒冷な気候"
+    },
+    {
+      "it": "clima temperato",
+      "ja": "温帯気候"
+    },
+    {
+      "it": "clima mediterraneo",
+      "ja": "地中海性気候"
+    },
+    {
+      "it": "clima tropicale",
+      "ja": "熱帯気候"
+    },
+    {
+      "it": "cambiamento climatico",
+      "ja": "気候変動"
+    },
+    {
+      "it": "adattarsi al clima",
+      "ja": "気候に適応する"
+    },
+    {
+      "it": "clima di fiducia",
+      "ja": "信頼の雰囲気"
+    },
+    {
+      "it": "clima di tensione",
+      "ja": "緊張した雰囲気"
+    },
+    {
+      "it": "creare un clima favorevole",
+      "ja": "好ましい環境・雰囲気を作る"
+    },
+    {
+      "it": "clima aziendale",
+      "ja": "職場・企業内の雰囲気"
+    },
+    {
+      "it": "clima politico",
+      "ja": "政治情勢・政治的な空気"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "La Sicilia ha un clima mediterraneo, con estati calde e secche.",
+      "ja": "シチリアは、夏が暑く乾燥する地中海性気候です。"
+    },
+    {
+      "it": "Non sono ancora abituato al clima freddo di questa regione.",
+      "ja": "私はまだこの地域の寒冷な気候に慣れていません。"
+    },
+    {
+      "it": "Il cambiamento climatico sta modificando la distribuzione delle piogge.",
+      "ja": "気候変動によって降雨の分布が変化しています。"
+    },
+    {
+      "it": "Il clima non si misura osservando il tempo di un solo giorno.",
+      "ja": "気候は一日だけの天気を観察して測るものではありません。"
+    },
+    {
+      "it": "Il direttore cerca di creare un clima di fiducia tra i dipendenti.",
+      "ja": "責任者は従業員の間に信頼の雰囲気を作ろうとしています。"
+    },
+    {
+      "it": "Durante la riunione si respirava un clima di forte tensione.",
+      "ja": "会議中には、強い緊張感が漂っていました。"
+    },
+    {
+      "it": "Un buon clima aziendale favorisce la collaborazione.",
+      "ja": "良好な職場環境は協力を促進します。"
+    },
+    {
+      "it": "Il clima politico è cambiato dopo le elezioni.",
+      "ja": "選挙後、政治情勢は変化しました。"
+    }
+  ]
 }  
 ]
