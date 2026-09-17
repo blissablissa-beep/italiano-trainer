@@ -3301,5 +3301,223 @@
       "ja": "この本は自由と個人の責任をたたえる作品です。"
     }
   ]
+},
+{
+  "id": "tentazione",
+  "sid": "2026-00465",
+  "word": "tentazione",
+  "ipa": "/tentaˈtsjone/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "tentazioni",
+    "pattern": "avere la tentazione di + infinito / sentire o provare la tentazione di + infinito / resistere alla tentazione / cedere alla tentazione / cadere in tentazione"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "religious"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "food",
+      "shopping",
+      "relationships",
+      "decision",
+      "ethics",
+      "religion"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "好ましくない、危険または禁止されていると分かっていても、何かをしたいと感じる誘惑",
+      "楽しみ・利益・満足などを得るために、ある行動を取りたいという強い衝動",
+      "人の欲望や好奇心を刺激して行動へ誘う魅力的な物・機会",
+      "食べ物・買い物・娯楽などに対する抑えにくい欲求",
+      "規則・約束・道徳的原則などに反する行動を選びたくなる気持ち",
+      "宗教的に、人を罪や悪い行いへ誘う力・試み",
+      "比喩的に、安易な方法や性急な結論を選びたくなる傾向"
+    ],
+    "it": [
+      "Desiderio di compiere un’azione considerata inopportuna, rischiosa, proibita o moralmente sbagliata.",
+      "Impulso intenso a fare qualcosa per ottenere piacere, vantaggio o soddisfazione.",
+      "Persona, oggetto o occasione capace di suscitare un desiderio difficile da controllare.",
+      "Desiderio particolarmente forte rivolto al cibo, agli acquisti o a un’altra forma di piacere.",
+      "Spinta a violare una regola, una promessa o un principio morale.",
+      "In ambito religioso, forza o prova che induce una persona al peccato.",
+      "In senso figurato, inclinazione a scegliere una soluzione facile o a formulare una conclusione affrettata."
+    ]
+  },
+
+  "nuance": {
+    "ja": "tentazioneは、外部にある魅力的な対象と、それに引かれて心の中に生じる欲求の両方を表せる。Quel dolce è una tentazioneではケーキ自体が「誘惑」、Ho la tentazione di mangiarloでは食べたいという内面的な衝動を指す。desiderioは中立的な「願望・欲求」だが、tentazioneは通常、抵抗すべき理由や迷いがあることを含意する。誘惑に抵抗する場合はresistere alla tentazione、負ける場合はcedere alla tentazioneという。cadere in tentazioneは道徳的・宗教的な響きを持つことがある。",
+    "it": "Tentazione può indicare sia l’attrattiva esercitata da qualcosa sia il desiderio che nasce nella persona. Quel dolce è una tentazione presenta il dolce come oggetto attraente; Ho la tentazione di mangiarlo descrive invece l’impulso interiore. Desiderio è più neutro, mentre tentazione implica normalmente che esista una ragione per resistere. Si resiste alla tentazione quando si controlla l’impulso e si cede alla tentazione quando lo si segue."
+  },
+
+  "etymology": {
+    "ja": "ラテン語temptatio、対格temptationem「試み、試験、誘惑」に由来し、動詞temptareまたはtentare「試す、確かめる、誘惑する」と同じ語族に属する。当初の「人や物を試すこと」から、信念・意志・道徳心を試すもの、さらに人を好ましくない行動へ誘う「誘惑」という意味が発達した。同じ語族にはtentare「試みる、誘惑する」とtentatore「誘惑する者」がある。",
+    "it": "Deriva dal latino temptatio, temptationis, «tentativo, prova, impulso», appartenente alla famiglia di temptare o tentare, «toccare, mettere alla prova, cercare di indurre». Dall’idea di mettere alla prova la volontà o la fermezza di una persona si è sviluppato il significato di impulso verso un comportamento desiderabile ma inopportuno. Alla stessa famiglia appartengono tentare, tentatore e tentativo."
+  },
+
+  "minimal": [
+    {
+      "word": "tentazione",
+      "ja": "控えるべき理由があるにもかかわらず、何かをしたいと感じる誘惑・衝動",
+      "it": "desiderio di fare qualcosa nonostante esista una ragione per evitarlo"
+    },
+    {
+      "word": "desiderio",
+      "ja": "何かを得たい、実現したい、行いたいという中立的な願望",
+      "it": "aspirazione o volontà di ottenere, realizzare o fare qualcosa"
+    },
+    {
+      "word": "impulso",
+      "ja": "深く考える前に行動へ向かわせる、突然の強い衝動",
+      "it": "spinta improvvisa e intensa che porta ad agire senza lunga riflessione"
+    },
+    {
+      "word": "lusinga",
+      "ja": "好意を得たり人を動かしたりする甘い褒め言葉、または魅力的な誘い",
+      "it": "elogio interessato o attrattiva usati per conquistare e influenzare qualcuno"
+    },
+    {
+      "word": "seduzione",
+      "ja": "魅力によって人を引き付け、感情や行動に影響を与えること",
+      "it": "forza di attrazione con cui qualcuno o qualcosa conquista e influenza"
+    }
+  ],
+
+  "synonyms": [
+    "attrattiva",
+    "seduzione",
+    "allettamento",
+    "impulso",
+    "desiderio",
+    "richiamo"
+  ],
+
+  "equivalents": {
+    "en": [
+      "temptation",
+      "urge",
+      "enticement",
+      "allurement"
+    ],
+    "de": [
+      "Versuchung",
+      "Verlockung",
+      "Drang"
+    ],
+    "fr": [
+      "tentation",
+      "envie",
+      "attrait"
+    ],
+    "es": [
+      "tentación",
+      "deseo",
+      "impulso"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "avere la tentazione di fare qualcosa",
+      "ja": "何かをしたいという誘惑に駆られる"
+    },
+    {
+      "it": "sentire la tentazione",
+      "ja": "誘惑を感じる"
+    },
+    {
+      "it": "provare una forte tentazione",
+      "ja": "強い誘惑を感じる"
+    },
+    {
+      "it": "resistere alla tentazione",
+      "ja": "誘惑に抵抗する"
+    },
+    {
+      "it": "cedere alla tentazione",
+      "ja": "誘惑に負ける"
+    },
+    {
+      "it": "cadere in tentazione",
+      "ja": "誘惑に陥る"
+    },
+    {
+      "it": "indurre qualcuno in tentazione",
+      "ja": "誰かを誘惑する"
+    },
+    {
+      "it": "evitare le tentazioni",
+      "ja": "誘惑を避ける"
+    },
+    {
+      "it": "una tentazione irresistibile",
+      "ja": "抗いがたい誘惑"
+    },
+    {
+      "it": "la tentazione del denaro",
+      "ja": "金銭の誘惑"
+    },
+    {
+      "it": "la tentazione del potere",
+      "ja": "権力の誘惑"
+    },
+    {
+      "it": "una continua tentazione",
+      "ja": "絶え間ない誘惑"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Ho avuto la tentazione di dirgli tutta la verità.",
+      "ja": "私は彼にすべての真実を話したいという衝動に駆られました。"
+    },
+    {
+      "it": "Non sono riuscito a resistere alla tentazione di comprare quel libro.",
+      "ja": "私はその本を買いたいという誘惑に抵抗できませんでした。"
+    },
+    {
+      "it": "La torta era una tentazione irresistibile.",
+      "ja": "そのケーキは抗いがたい誘惑でした。"
+    },
+    {
+      "it": "Alla fine ha ceduto alla tentazione e ha mangiato un altro pezzo.",
+      "ja": "結局、彼は誘惑に負けてもう一切れ食べました。"
+    },
+    {
+      "it": "Cerco di evitare i negozi quando non voglio cadere in tentazione.",
+      "ja": "買いたい誘惑に負けたくないときは、店を避けるようにしています。"
+    },
+    {
+      "it": "Il potere può rappresentare una forte tentazione.",
+      "ja": "権力は強い誘惑となることがあります。"
+    },
+    {
+      "it": "Dobbiamo resistere alla tentazione di trarre conclusioni troppo rapide.",
+      "ja": "私たちは性急な結論を出したくなる誘惑に抵抗しなければなりません。"
+    },
+    {
+      "it": "Non ci indurre in tentazione, ma liberaci dal male.",
+      "ja": "私たちを誘惑に陥らせず、悪からお救いください。"
+    }
+  ]
 }
 ]
