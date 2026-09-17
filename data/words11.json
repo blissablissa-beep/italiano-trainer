@@ -5047,5 +5047,433 @@
       "ja": "それは彼女の青春時代で最も重要な夏でした。"
     }
   ]
+},
+{
+  "id": "autunno",
+  "sid": "2026-00473",
+  "word": "autunno",
+  "ipa": "/auˈtunno/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "autunni",
+    "pattern": "in autunno / d’autunno / durante l’autunno / lo scorso o prossimo autunno / nell’autunno del + anno / autunno di + luogo o periodo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "weather",
+      "nature",
+      "travel",
+      "agriculture",
+      "planning",
+      "history"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "夏と冬の間に位置し、気温が下がり、多くの樹木が葉を落とす季節、秋",
+      "秋に当たる数か月またはその期間",
+      "収穫・紅葉・落葉などに特徴付けられる時期",
+      "涼しさ・雨・短くなる昼などに特徴付けられる気候や雰囲気",
+      "特定の年または場所で経験した秋の期間・出来事",
+      "比喩的・文学的に、人生・活動・文明などが成熟から衰退へ向かう時期",
+      "政治・労働・社会運動などが活発化する特定の秋の時期"
+    ],
+    "it": [
+      "Stagione compresa tra l’estate e l’inverno, caratterizzata dal calo delle temperature e dalla caduta delle foglie.",
+      "Periodo dell’anno corrispondente ai mesi autunnali.",
+      "Stagione associata al raccolto, al cambiamento di colore e alla caduta delle foglie.",
+      "Clima o atmosfera caratterizzati da temperature più fresche, piogge e giornate progressivamente più brevi.",
+      "Periodo autunnale di un determinato anno o vissuto in un particolare luogo.",
+      "In senso figurato o letterario, fase della vita o di un’attività che passa dalla maturità al declino.",
+      "Periodo autunnale caratterizzato da un’intensa attività politica, sindacale o sociale."
+    ]
+  },
+
+  "nuance": {
+    "ja": "季節一般として「秋に」と言う場合はin autunnoが最も一般的である。d’autunnoは毎年繰り返される習慣や秋らしい現象を表しやすく、D’autunno cadono le foglie「秋には葉が落ちる」となる。特定の年の秋にはnell’autunno del 2026、過去・次の秋にはlo scorso autunno、il prossimo autunnoを使う。比喩的なl’autunno della vitaは、人生の成熟期から老年へ向かう時期を表す。",
+    "it": "Per indicare la stagione in generale si usa soprattutto in autunno. D’autunno è particolarmente naturale per fenomeni e abitudini che si ripetono ogni anno: D’autunno cadono le foglie. Per un periodo determinato si dice nell’autunno del 2026, lo scorso autunno o il prossimo autunno. In senso figurato, l’autunno della vita indica la fase che dalla piena maturità conduce verso la vecchiaia."
+  },
+
+  "etymology": {
+    "ja": "ラテン語autumnusまたはauctumnus「秋、収穫の季節」に由来する。ラテン語以前のさらに古い起源については確定しておらず、収穫や季節の成熟を表す語との関連が論じられている。同じ語族には形容詞autunnale「秋の」と、詩語的なautunnare「秋を過ごす」がある。フランス語automneと英語autumnもラテン語autumnusに由来する。",
+    "it": "Deriva dal latino autumnus, documentato anche nella forma auctumnus, «autunno, stagione del raccolto». L’origine più remota della parola latina non è del tutto certa. Alla stessa famiglia appartiene autunnale. Anche il francese automne e l’inglese autumn derivano dal latino autumnus."
+  },
+
+  "minimal": [
+    {
+      "word": "autunno",
+      "ja": "夏と冬の間に位置し、気温が下がり落葉や収穫が進む季節",
+      "it": "stagione tra estate e inverno, caratterizzata dal calo delle temperature, dal raccolto e dalla caduta delle foglie"
+    },
+    {
+      "word": "estate",
+      "ja": "春の後、秋の前に位置する、通常一年で最も暑い季節",
+      "it": "stagione tra primavera e autunno, generalmente la più calda dell’anno"
+    },
+    {
+      "word": "inverno",
+      "ja": "秋の後、春の前に位置する、通常一年で最も寒い季節",
+      "it": "stagione tra autunno e primavera, generalmente la più fredda dell’anno"
+    },
+    {
+      "word": "raccolto",
+      "ja": "農作物を取り入れること、または取り入れられた作物",
+      "it": "operazione di raccogliere i prodotti agricoli oppure insieme dei prodotti raccolti"
+    },
+    {
+      "word": "foliage",
+      "ja": "秋に葉が赤や黄色へ変化する現象、またはその景観",
+      "it": "fenomeno e spettacolo naturale delle foglie che cambiano colore in autunno"
+    }
+  ],
+
+  "synonyms": [
+    "stagione autunnale",
+    "stagione del raccolto",
+    "periodo autunnale",
+    "declino"
+  ],
+
+  "equivalents": {
+    "en": [
+      "autumn",
+      "fall",
+      "autumn season"
+    ],
+    "de": [
+      "Herbst",
+      "Herbstzeit",
+      "Erntezeit"
+    ],
+    "fr": [
+      "automne",
+      "saison automnale"
+    ],
+    "es": [
+      "otoño",
+      "temporada otoñal"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "in autunno",
+      "ja": "秋に"
+    },
+    {
+      "it": "d’autunno",
+      "ja": "秋には・秋になると"
+    },
+    {
+      "it": "lo scorso autunno",
+      "ja": "昨秋・この前の秋"
+    },
+    {
+      "it": "il prossimo autunno",
+      "ja": "来秋・次の秋"
+    },
+    {
+      "it": "all’inizio dell’autunno",
+      "ja": "秋の初めに"
+    },
+    {
+      "it": "alla fine dell’autunno",
+      "ja": "秋の終わりに"
+    },
+    {
+      "it": "una giornata d’autunno",
+      "ja": "秋の一日"
+    },
+    {
+      "it": "i colori dell’autunno",
+      "ja": "秋の色彩"
+    },
+    {
+      "it": "le foglie d’autunno",
+      "ja": "秋の葉・紅葉"
+    },
+    {
+      "it": "il raccolto autunnale",
+      "ja": "秋の収穫"
+    },
+    {
+      "it": "l’autunno della vita",
+      "ja": "人生の秋・人生の晩年"
+    },
+    {
+      "it": "l’autunno caldo",
+      "ja": "社会・労働運動が激化した秋、特に1969年のイタリアの労働争議期"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "In autunno le temperature cominciano a diminuire.",
+      "ja": "秋になると気温が下がり始めます。"
+    },
+    {
+      "it": "D’autunno le foglie diventano rosse e gialle.",
+      "ja": "秋には葉が赤や黄色になります。"
+    },
+    {
+      "it": "Il prossimo autunno visiteremo alcune città dell’Italia settentrionale.",
+      "ja": "来秋、私たちは北イタリアのいくつかの都市を訪れる予定です。"
+    },
+    {
+      "it": "Lo scorso autunno ha piovuto molto.",
+      "ja": "昨秋は雨がたくさん降りました。"
+    },
+    {
+      "it": "Mi piace camminare nel bosco per osservare i colori dell’autunno.",
+      "ja": "私は秋の色彩を眺めるために森を歩くのが好きです。"
+    },
+    {
+      "it": "La vendemmia si svolge normalmente tra la fine dell’estate e l’inizio dell’autunno.",
+      "ja": "ブドウの収穫は通常、夏の終わりから秋の初めに行われます。"
+    },
+    {
+      "it": "Il romanzo racconta un uomo entrato nell’autunno della vita.",
+      "ja": "その小説は人生の晩年に入った男性を描いています。"
+    },
+    {
+      "it": "L’espressione autunno caldo è legata soprattutto alle lotte operaie italiane del 1969.",
+      "ja": "「熱い秋」という表現は、特に1969年のイタリアの労働運動と結び付いています。"
+    }
+  ]
+},
+{
+  "id": "inverno",
+  "sid": "2026-00474",
+  "word": "inverno",
+  "ipa": "/inˈvɛrno/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "inverni",
+    "pattern": "in inverno / d’inverno / durante l’inverno / lo scorso o prossimo inverno / nell’inverno del + anno / inverno di + luogo o periodo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "weather",
+      "nature",
+      "travel",
+      "clothing",
+      "planning",
+      "society"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "秋と春の間に位置し、一般に一年で最も寒い季節、冬",
+      "冬に当たる数か月またはその期間",
+      "寒さ・雪・霜・短い昼などに特徴付けられる気候や雰囲気",
+      "特定の年または場所で経験した冬の期間・出来事",
+      "植物・動物・活動などが休止または低調になる時期",
+      "比喩的・文学的に、人生・社会・文化などの衰退・停滞・孤独の時期",
+      "inverno demograficoの形で、出生数が長期的に減少する社会状況",
+      "inverno nucleareの形で、核戦争後に予想される世界的な寒冷化"
+    ],
+    "it": [
+      "Stagione compresa tra l’autunno e la primavera, generalmente la più fredda dell’anno.",
+      "Periodo dell’anno corrispondente ai mesi invernali.",
+      "Clima o atmosfera caratterizzati da freddo, neve, gelo e giornate brevi.",
+      "Periodo invernale di un determinato anno o vissuto in un particolare luogo.",
+      "Fase di riposo o riduzione dell’attività nella vita delle piante, degli animali o delle attività umane.",
+      "In senso figurato o letterario, periodo di declino, immobilità, isolamento o difficoltà.",
+      "Nell’espressione inverno demografico, situazione di prolungata diminuzione delle nascite.",
+      "Nell’espressione inverno nucleare, drastico raffreddamento globale ipotizzato dopo una guerra nucleare."
+    ]
+  },
+
+  "nuance": {
+    "ja": "季節一般として「冬に」と言う場合はin invernoが最も一般的である。d’invernoは毎年の習慣や冬に一般的な現象を表しやすく、D’inverno nevica spesso「冬にはよく雪が降る」となる。特定の年の冬にはnell’inverno del 2026、過去・次の冬にはlo scorso inverno、il prossimo invernoを使う。英語winterとは異なり、イタリア語invernoは男性名詞であり、定冠詞はl’inverno、複数形はgli inverniとなる。",
+    "it": "Per indicare la stagione in generale si usa soprattutto in inverno. D’inverno è particolarmente naturale per abitudini e fenomeni che si ripetono ogni anno: D’inverno nevica spesso. Per un periodo determinato si dice nell’inverno del 2026, lo scorso inverno o il prossimo inverno. Inverno è maschile: l’inverno al singolare e gli inverni al plurale."
+  },
+
+  "etymology": {
+    "ja": "俗ラテン語hibernum、すなわちラテン語hibernum tempus「冬の時期」に由来する。hibernumは形容詞hibernus「冬の」の中性形が名詞化したもので、hiems「冬、寒さ」と同じ語族に属する。語頭のhが発音されなくなり、音韻変化を経てイタリア語invernoとなった。同じ語族にはibernare「冬眠させる」、ibernazione「冬眠」がある。",
+    "it": "Deriva dal latino hibernum, forma sostantivata di hibernus nella locuzione hibernum tempus, «tempo invernale». Hibernus appartiene alla famiglia di hiems, «inverno, freddo». Attraverso la perdita dell’h iniziale e successive trasformazioni fonetiche si è sviluppata la forma italiana inverno. Alla stessa famiglia appartengono ibernare e ibernazione."
+  },
+
+  "minimal": [
+    {
+      "word": "inverno",
+      "ja": "秋と春の間に位置し、通常一年で最も寒い季節",
+      "it": "stagione tra autunno e primavera, generalmente la più fredda dell’anno"
+    },
+    {
+      "word": "autunno",
+      "ja": "夏の後、冬の前に位置し、気温が下がり落葉が進む季節",
+      "it": "stagione tra estate e inverno, caratterizzata dal calo delle temperature"
+    },
+    {
+      "word": "primavera",
+      "ja": "冬の後、夏の前に位置し、暖かさが戻って植物が成長する季節",
+      "it": "stagione tra inverno ed estate, caratterizzata dalla ripresa della vegetazione"
+    },
+    {
+      "word": "freddo",
+      "ja": "気温・物体・身体などの温度が低い状態",
+      "it": "condizione caratterizzata da una temperatura bassa"
+    },
+    {
+      "word": "gelo",
+      "ja": "水が凍るほどの厳しい寒さ、または凍結した状態",
+      "it": "freddo intenso capace di provocare il congelamento dell’acqua"
+    }
+  ],
+
+  "synonyms": [
+    "stagione invernale",
+    "stagione fredda",
+    "periodo invernale",
+    "stagione del freddo"
+  ],
+
+  "equivalents": {
+    "en": [
+      "winter",
+      "wintertime",
+      "winter season"
+    ],
+    "de": [
+      "Winter",
+      "Winterzeit",
+      "kalte Jahreszeit"
+    ],
+    "fr": [
+      "hiver",
+      "saison hivernale",
+      "saison froide"
+    ],
+    "es": [
+      "invierno",
+      "temporada invernal",
+      "estación fría"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "in inverno",
+      "ja": "冬に"
+    },
+    {
+      "it": "d’inverno",
+      "ja": "冬には・冬になると"
+    },
+    {
+      "it": "durante l’inverno",
+      "ja": "冬の間に"
+    },
+    {
+      "it": "lo scorso inverno",
+      "ja": "昨冬・この前の冬"
+    },
+    {
+      "it": "il prossimo inverno",
+      "ja": "来冬・次の冬"
+    },
+    {
+      "it": "all’inizio dell’inverno",
+      "ja": "冬の初めに"
+    },
+    {
+      "it": "alla fine dell’inverno",
+      "ja": "冬の終わりに"
+    },
+    {
+      "it": "un inverno rigido",
+      "ja": "厳しい冬"
+    },
+    {
+      "it": "un inverno mite",
+      "ja": "暖かな冬"
+    },
+    {
+      "it": "abbigliamento invernale",
+      "ja": "冬服"
+    },
+    {
+      "it": "inverno demografico",
+      "ja": "少子化・出生数減少が続く社会状況"
+    },
+    {
+      "it": "inverno nucleare",
+      "ja": "核戦争後に想定される世界的寒冷化"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "In inverno le giornate sono più corte.",
+      "ja": "冬は日が短くなります。"
+    },
+    {
+      "it": "D’inverno questa strada è spesso coperta di neve.",
+      "ja": "冬にはこの道はしばしば雪に覆われます。"
+    },
+    {
+      "it": "Il prossimo inverno vorremmo andare a sciare.",
+      "ja": "来冬、私たちはスキーへ行きたいと思っています。"
+    },
+    {
+      "it": "Lo scorso inverno è stato particolarmente rigido.",
+      "ja": "昨冬は特に厳しい寒さでした。"
+    },
+    {
+      "it": "Abbiamo comprato dei vestiti pesanti per l’inverno.",
+      "ja": "私たちは冬に備えて厚手の服を買いました。"
+    },
+    {
+      "it": "Alcuni animali vanno in letargo durante l’inverno.",
+      "ja": "一部の動物は冬の間、冬眠します。"
+    },
+    {
+      "it": "Dopo un lungo inverno, il giardino comincia finalmente a rifiorire.",
+      "ja": "長い冬の後、庭はようやく再び花を咲かせ始めます。"
+    },
+    {
+      "it": "Il calo delle nascite viene spesso descritto come un inverno demografico.",
+      "ja": "出生数の減少は、しばしば「人口の冬」と表現されます。"
+    }
+  ]
 }  
 ]
