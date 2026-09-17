@@ -4177,5 +4177,224 @@
       "ja": "うそは長続きせず、すぐにばれるものです。"
     }
   ]
+},
+{
+  "id": "falsita",
+  "sid": "2026-00469",
+  "word": "falsità",
+  "ipa": "/falsiˈta/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞・単複同形",
+      "it": "sostantivo femminile invariabile"
+    },
+    "gender": "feminine",
+    "plural": "falsità",
+    "invariable": true,
+    "pattern": "la falsità / le falsità / dimostrare o accertare la falsità di + nome / dire o diffondere falsità / falsità in + ambito"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "legal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "relationships",
+      "media",
+      "politics",
+      "law",
+      "work",
+      "analysis"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "発言・情報・主張などが事実または真実に反していること",
+      "事実ではない発言・情報・主張、虚偽",
+      "人の態度・感情・言葉などに誠実さがないこと、偽善・不実",
+      "証言・文書・証拠などが真正ではなく、偽造または改変されていること",
+      "他人を欺くために意図的に広められた誤った情報",
+      "複数形le falsitàの形で、複数の虚偽の発言・作り話",
+      "法律上、文書・証明・申告などの内容または形式を偽る行為"
+    ],
+    "it": [
+      "Carattere di un’affermazione, un’informazione o una tesi contraria alla verità.",
+      "Affermazione o notizia non corrispondente ai fatti.",
+      "Mancanza di sincerità o autenticità nel comportamento, nei sentimenti o nelle parole di una persona.",
+      "Carattere non autentico, alterato o contraffatto di un documento, una testimonianza o una prova.",
+      "Informazione errata diffusa intenzionalmente per ingannare altre persone.",
+      "Al plurale, insieme di affermazioni false, invenzioni o accuse infondate.",
+      "In ambito giuridico, alterazione della forma o del contenuto di atti, certificazioni o dichiarazioni."
+    ]
+  },
+
+  "nuance": {
+    "ja": "falsitàは、個々の「うそ」だけでなく、発言・文書・感情などが真実または本物ではないという性質を表す。bugiaとmenzognaは通常、誰かが意図的についた「うそ」を指すが、falsitàは発言者の意図が明らかでなくても、その内容が事実に反することを指せる。また、la falsità di una personaでは、その人の不誠実さや表裏のある態度を意味する。法律ではfalsità in atti、falsità materiale、falsità ideologicaなどの専門表現に使われる。",
+    "it": "Falsità può indicare sia una singola affermazione falsa sia la qualità di ciò che non è vero, autentico o sincero. Bugia e menzogna presuppongono normalmente una persona che afferma consapevolmente il falso; falsità può invece descrivere il contrasto con i fatti anche quando l’intenzione non è ancora accertata. Riferita a una persona, indica insincerità o doppiezza. Nel linguaggio giuridico compare in espressioni come falsità in atti, falsità materiale e falsità ideologica."
+  },
+
+  "etymology": {
+    "ja": "ラテン語falsĭtas、属格falsitātis「虚偽、欺瞞」に由来する。これは形容詞falsus「誤った、偽の」の派生語で、falsusは動詞fallĕre「欺く、誤らせる」の過去分詞に由来する。「人を誤らせるもの」という観念から、真実でないこと、真正でないこと、不誠実さを表すようになった。同じ語族にはfalso、falsificare、falsificazione、fallaceがある。",
+    "it": "Deriva dal latino falsĭtas, falsitātis, «falsità, inganno», formato da falsus, «falso», participio di fallĕre, «ingannare, trarre in errore». Dall’idea di qualcosa che induce in errore si sono sviluppati i significati di non verità, mancanza di autenticità e insincerità. Alla stessa famiglia appartengono falso, falsificare, falsificazione e fallace."
+  },
+
+  "minimal": [
+    {
+      "word": "falsità",
+      "ja": "発言・情報・文書などが真実または真正ではないこと、あるいは不誠実な態度",
+      "it": "carattere di ciò che non è vero, autentico o sincero"
+    },
+    {
+      "word": "bugia",
+      "ja": "日常会話で使われる、意図的に述べられた個別のうそ",
+      "it": "affermazione intenzionalmente falsa, indicata con il termine più comune nella lingua quotidiana"
+    },
+    {
+      "word": "menzogna",
+      "ja": "重大・意図的・組織的であることを強く感じさせるうそ",
+      "it": "affermazione consapevolmente falsa, spesso presentata come grave o moralmente condannabile"
+    },
+    {
+      "word": "errore",
+      "ja": "知識不足・誤解・不注意などによって生じた、通常は意図的でない間違い",
+      "it": "affermazione o azione sbagliata, normalmente priva dell’intenzione di ingannare"
+    },
+    {
+      "word": "ipocrisia",
+      "ja": "実際には持っていない道徳・感情・信念などを装う偽善",
+      "it": "simulazione di virtù, sentimenti o principi che in realtà non si possiedono"
+    }
+  ],
+
+  "synonyms": [
+    "non verità",
+    "menzogna",
+    "bugia",
+    "insincerità",
+    "doppiezza",
+    "contraffazione"
+  ],
+
+  "equivalents": {
+    "en": [
+      "falsehood",
+      "falsity",
+      "untruth",
+      "insincerity"
+    ],
+    "de": [
+      "Falschheit",
+      "Unwahrheit",
+      "Unehrlichkeit"
+    ],
+    "fr": [
+      "fausseté",
+      "mensonge",
+      "insincérité"
+    ],
+    "es": [
+      "falsedad",
+      "mentira",
+      "insinceridad"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "dimostrare la falsità di un’affermazione",
+      "ja": "主張が虚偽であることを証明する"
+    },
+    {
+      "it": "accertare la falsità di un documento",
+      "ja": "文書が偽造されたものだと確認する"
+    },
+    {
+      "it": "denunciare la falsità di una notizia",
+      "ja": "ニュースが虚偽であると告発する"
+    },
+    {
+      "it": "riconoscere la falsità di un’accusa",
+      "ja": "告発が虚偽であると認める"
+    },
+    {
+      "it": "dire una falsità",
+      "ja": "事実でないことを言う"
+    },
+    {
+      "it": "diffondere falsità",
+      "ja": "虚偽を広める"
+    },
+    {
+      "it": "smentire una falsità",
+      "ja": "虚偽を否定する"
+    },
+    {
+      "it": "un’accusa piena di falsità",
+      "ja": "虚偽に満ちた告発"
+    },
+    {
+      "it": "la falsità di una persona",
+      "ja": "人の不誠実さ・表裏のある性質"
+    },
+    {
+      "it": "falsità in atti",
+      "ja": "文書に関する虚偽・文書偽造"
+    },
+    {
+      "it": "falsità materiale",
+      "ja": "文書の作成者・形式などについての物理的な偽造"
+    },
+    {
+      "it": "falsità ideologica",
+      "ja": "真正な文書に虚偽の内容を記載すること"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Le prove hanno dimostrato la falsità dell’accusa.",
+      "ja": "証拠によって、その告発が虚偽であることが明らかになりました。"
+    },
+    {
+      "it": "Il giornale è stato criticato per aver diffuso numerose falsità.",
+      "ja": "その新聞は多数の虚偽を広めたとして批判されました。"
+    },
+    {
+      "it": "Non sappiamo ancora se si tratti di un errore o di una falsità intenzionale.",
+      "ja": "それが誤りなのか、意図的な虚偽なのかはまだ分かりません。"
+    },
+    {
+      "it": "La falsità del documento è stata accertata dagli esperti.",
+      "ja": "その文書が偽造されたものであることを専門家が確認しました。"
+    },
+    {
+      "it": "Non sopporto la falsità nei rapporti personali.",
+      "ja": "私は人間関係における不誠実さに耐えられません。"
+    },
+    {
+      "it": "Ha risposto punto per punto alle falsità contenute nell’articolo.",
+      "ja": "彼女は記事に含まれる虚偽へ一つずつ反論しました。"
+    },
+    {
+      "it": "Ripetere continuamente una falsità non la trasforma in verità.",
+      "ja": "虚偽を繰り返し述べても、それが真実になるわけではありません。"
+    },
+    {
+      "it": "Il tribunale dovrà stabilire se vi sia stata falsità in atti.",
+      "ja": "裁判所は文書に関する虚偽があったかどうかを判断しなければなりません。"
+    }
+  ]
 }
 ]
