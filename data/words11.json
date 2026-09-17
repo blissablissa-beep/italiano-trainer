@@ -3082,5 +3082,224 @@
       "ja": "遠慮せずに座って食べてください。"
     }
   ]
+},
+{
+  "id": "elogio",
+  "sid": "2026-00464",
+  "word": "elogio",
+  "ipa": "/eˈlɔdʒo/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "elogi",
+    "pattern": "fare l’elogio di qualcuno o qualcosa / rivolgere un elogio a qualcuno / ricevere elogi / meritare un elogio / elogio di + persona, qualità o attività"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "work",
+      "education",
+      "literature",
+      "media",
+      "ceremonies",
+      "public_speaking"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人の能力・功績・行動・人格などを高く評価して述べる称賛",
+      "作品・制度・思想・活動などの価値や長所をたたえる言葉または文章",
+      "公の場や文章で示される、明確でまとまった高い評価",
+      "優れた仕事や成果に対して与えられる賛辞",
+      "fare l’elogio diの形で、人や物の長所を詳しく述べて称賛すること",
+      "elogio funebreの形で、故人の生涯や功績をたたえる弔辞・追悼演説",
+      "題名などで、特定の思想・性質・対象の価値を論じ、擁護する文章"
+    ],
+    "it": [
+      "Espressione di viva approvazione per le qualità, i meriti o le azioni di una persona.",
+      "Discorso o testo che celebra il valore di un’opera, un’attività, un’idea o un’istituzione.",
+      "Valutazione positiva, esplicita e articolata, espressa pubblicamente o per iscritto.",
+      "Riconoscimento verbale attribuito a un lavoro o a un risultato particolarmente apprezzato.",
+      "Nella costruzione fare l’elogio di, esposizione delle qualità positive di qualcuno o qualcosa.",
+      "Nella locuzione elogio funebre, discorso che commemora la vita e i meriti di una persona defunta.",
+      "In titoli e testi argomentativi, celebrazione o difesa del valore di un determinato soggetto."
+    ]
+  },
+
+  "nuance": {
+    "ja": "elogioはcomplimentoよりも改まった、内容のある「称賛」を表す。complimentoは会話で外見・料理・仕事などを個人的に褒める際に広く使われるが、elogioは功績・能力・作品などを公的または明示的に高く評価する場合に適する。lodeも「称賛」を意味するが、道徳的・宗教的な賞賛や学校の最高評価にも使われる。encomioはelogioよりさらに格式が高く、公式な表彰・顕彰を指すことがある。反語的にBell’elogio!と言えば、褒めているようで実際には批判している場合もある。",
+    "it": "Elogio è generalmente più formale, articolato e pubblico di complimento. Un complimento può riguardare l’aspetto, un vestito o un piatto ed essere espresso nella conversazione quotidiana; un elogio mette spesso in rilievo meriti, capacità, opere o risultati. Lode è molto vicina, ma può comparire anche in contesti morali, religiosi e scolastici. Encomio ha un tono ancora più solenne e può indicare un riconoscimento ufficiale."
+  },
+
+  "etymology": {
+    "ja": "ラテン語elogium「碑文、人物の功績を記した文、短い評価文」に由来する。古代には墓碑や像などに人物の身元・経歴・功績を記した文章を指し、そこから人物の価値や長所をたたえる「称賛の言葉・文章」という意味が発達した。同じ語族には動詞elogiare「称賛する」と形容詞elogiativo「称賛の」がある。",
+    "it": "Deriva dal latino elogium, che indicava un’iscrizione, un’epigrafe o un breve testo relativo alla vita e ai meriti di una persona. Dal riferimento alla commemorazione delle qualità e delle imprese individuali si è sviluppato il significato moderno di discorso o espressione di lode. Alla stessa famiglia appartengono elogiare, elogiativo ed elogiabile."
+  },
+
+  "minimal": [
+    {
+      "word": "elogio",
+      "ja": "人の功績・能力または物事の価値を明確に高く評価する言葉や文章",
+      "it": "espressione o discorso che celebra apertamente qualità, meriti o risultati"
+    },
+    {
+      "word": "complimento",
+      "ja": "相手の外見・能力・行動などへの好意的な評価を伝える日常的な褒め言葉",
+      "it": "espressione personale di apprezzamento, comune anche nella conversazione quotidiana"
+    },
+    {
+      "word": "lode",
+      "ja": "優れた性質・行動・功績などを認めてたたえること",
+      "it": "approvazione espressa per una qualità, un comportamento o un merito"
+    },
+    {
+      "word": "encomio",
+      "ja": "功績や模範的な行動に対する、格式の高い公的な称賛",
+      "it": "elogio solenne, spesso attribuito ufficialmente per un comportamento meritevole"
+    },
+    {
+      "word": "lusinga",
+      "ja": "好意を得たり相手を動かしたりする目的を伴うことのある甘い褒め言葉",
+      "it": "elogio piacevole che può nascondere l’intenzione di influenzare o conquistare qualcuno"
+    }
+  ],
+
+  "synonyms": [
+    "lode",
+    "encomio",
+    "apprezzamento",
+    "plauso",
+    "celebrazione",
+    "panegirico"
+  ],
+
+  "equivalents": {
+    "en": [
+      "praise",
+      "commendation",
+      "tribute",
+      "eulogy"
+    ],
+    "de": [
+      "Lob",
+      "Anerkennung",
+      "Würdigung",
+      "Lobrede"
+    ],
+    "fr": [
+      "éloge",
+      "louange",
+      "hommage"
+    ],
+    "es": [
+      "elogio",
+      "alabanza",
+      "encomio",
+      "homenaje"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "fare l’elogio di qualcuno",
+      "ja": "誰かのことを称賛する"
+    },
+    {
+      "it": "rivolgere un elogio a qualcuno",
+      "ja": "誰かに賛辞を送る"
+    },
+    {
+      "it": "ricevere un elogio",
+      "ja": "称賛を受ける"
+    },
+    {
+      "it": "meritare un elogio",
+      "ja": "称賛に値する"
+    },
+    {
+      "it": "esprimere un elogio",
+      "ja": "称賛の言葉を述べる"
+    },
+    {
+      "it": "un elogio sincero",
+      "ja": "心からの称賛"
+    },
+    {
+      "it": "un elogio pubblico",
+      "ja": "公の場での称賛"
+    },
+    {
+      "it": "ricevere numerosi elogi",
+      "ja": "多くの称賛を受ける"
+    },
+    {
+      "it": "suscitare elogi",
+      "ja": "称賛を呼ぶ"
+    },
+    {
+      "it": "essere degno di elogio",
+      "ja": "称賛に値する"
+    },
+    {
+      "it": "elogio funebre",
+      "ja": "故人をたたえる弔辞・追悼演説"
+    },
+    {
+      "it": "parole di elogio",
+      "ja": "称賛の言葉"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Il direttore ha rivolto un elogio pubblico a tutta la squadra.",
+      "ja": "責任者はチーム全員を公の場で称賛しました。"
+    },
+    {
+      "it": "Il suo lavoro ha ricevuto numerosi elogi dalla critica.",
+      "ja": "彼女の作品は批評家から多くの称賛を受けました。"
+    },
+    {
+      "it": "La sua capacità di mantenere la calma è degna di elogio.",
+      "ja": "彼の冷静さを保つ能力は称賛に値します。"
+    },
+    {
+      "it": "Non gli ha fatto un semplice complimento, ma un vero elogio delle sue capacità.",
+      "ja": "彼女は単に褒めただけでなく、彼の能力を心から称賛しました。"
+    },
+    {
+      "it": "Il professore ha fatto l’elogio della precisione e della semplicità.",
+      "ja": "教授は正確さと簡潔さの価値を称賛しました。"
+    },
+    {
+      "it": "Durante la cerimonia è stato pronunciato un commovente elogio funebre.",
+      "ja": "式典では、心を打つ弔辞が述べられました。"
+    },
+    {
+      "it": "Il progetto ha suscitato elogi anche al di fuori dell’azienda.",
+      "ja": "そのプロジェクトは社外からも称賛を集めました。"
+    },
+    {
+      "it": "Questo libro è un elogio della libertà e della responsabilità individuale.",
+      "ja": "この本は自由と個人の責任をたたえる作品です。"
+    }
+  ]
 }
 ]
