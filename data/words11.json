@@ -4396,5 +4396,656 @@
       "ja": "裁判所は文書に関する虚偽があったかどうかを判断しなければなりません。"
     }
   ]
-}
+},
+{
+  "id": "inganno",
+  "sid": "2026-00470",
+  "word": "inganno",
+  "ipa": "/iŋˈɡanno/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "inganni",
+    "pattern": "trarre qualcuno in inganno / cadere in un inganno / scoprire o svelare un inganno / ottenere qualcosa con l’inganno / essere vittima di un inganno"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "relationships",
+      "business",
+      "law",
+      "media",
+      "crime",
+      "perception"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "相手に誤ったことを信じさせるための行為・策略、欺き",
+      "虚偽の情報・外見・約束などを使って人を誤信させること",
+      "利益を得たり責任を逃れたりするために仕組まれた企み",
+      "人を欺くために用いられる手段・わな・からくり",
+      "真実だと思っていたものが実際には誤りだったという錯覚・思い違い",
+      "感覚・外見・印象などが現実を正しく伝えないこと",
+      "恋愛・人間関係などにおける裏切りや偽り",
+      "法律・契約上、相手を誤認させて意思決定に影響を与える詐欺的行為"
+    ],
+    "it": [
+      "Azione o artificio con cui si induce qualcuno a credere qualcosa di falso.",
+      "Comportamento che sfrutta informazioni, apparenze o promesse false per trarre una persona in errore.",
+      "Manovra organizzata per ottenere un vantaggio o sottrarsi a una responsabilità.",
+      "Mezzo, trucco o espediente impiegato per raggirare qualcuno.",
+      "Errore di valutazione prodotto da qualcosa che appare diverso dalla realtà.",
+      "Illusione provocata dai sensi, dall’aspetto o da un’impressione fuorviante.",
+      "Falsità o tradimento all’interno di un rapporto personale o sentimentale.",
+      "In ambito giuridico e contrattuale, condotta diretta a provocare una falsa rappresentazione della realtà."
+    ]
+  },
+
+  "nuance": {
+    "ja": "ingannoは、単なる虚偽の言葉ではなく、人を誤らせる目的で行われる行為・仕組み全体を表す。bugiaやmenzognaは主に「うそとして述べられた内容」、frodeは財産的・法的な利益を得るための不正、truffaは被害者から金銭などをだまし取る具体的な詐欺に重点がある。ingannoはより広く、偽装、策略、恋愛上の裏切り、目の錯覚にも使える。定型表現trarre in ingannoは「誤信させる」、cadere nell’ingannoは「策略に引っかかる」を意味する。",
+    "it": "Inganno non indica soltanto una frase falsa, ma l’intero comportamento o meccanismo mediante il quale qualcuno viene tratto in errore. Bugia e menzogna riguardano soprattutto ciò che viene detto; frode sottolinea un illecito compiuto per ottenere un vantaggio; truffa indica spesso un reato concreto diretto a sottrarre denaro o beni. Inganno è più ampio e può riferirsi anche a un travestimento, a un’illusione dei sensi o a un tradimento affettivo."
+  },
+
+  "etymology": {
+    "ja": "動詞ingannare「だます」から派生した名詞である。ingannareは俗ラテン語の再建形*ingannāreにさかのぼるとされるが、そのさらに古い起源については諸説がある。ラテン語gannīre「うなる、嘲るような声を出す」との関連を指摘する説もあり、人をからかい、誤らせるという意味へ発達したと考えられている。同じ語族にはingannare、ingannevole、disingannoがある。",
+    "it": "È un nome derivato dal verbo ingannare. Quest’ultimo viene generalmente ricondotto a una forma del latino volgare ricostruita come *ingannāre, la cui origine più remota è discussa. È stato accostato anche al latino gannīre, «guaiolare, schernire», dal quale potrebbe essersi sviluppata l’idea di deridere e trarre in errore. Alla stessa famiglia appartengono ingannevole, ingannatore e disinganno."
+  },
+
+  "minimal": [
+    {
+      "word": "inganno",
+      "ja": "相手に誤ったことを信じさせるための行為・策略・仕組み",
+      "it": "azione o artificio mediante il quale qualcuno viene indotto a credere qualcosa di falso"
+    },
+    {
+      "word": "bugia",
+      "ja": "日常会話で使われる、意図的に述べられた個別のうそ",
+      "it": "affermazione intenzionalmente falsa, comune nella lingua quotidiana"
+    },
+    {
+      "word": "frode",
+      "ja": "不正な利益を得るために行われる、法律上問題となる計画的な欺き",
+      "it": "inganno illecito organizzato per ottenere un vantaggio economico o giuridico"
+    },
+    {
+      "word": "truffa",
+      "ja": "人をだまして金銭・財産などを交付させる具体的な詐欺",
+      "it": "raggiro con cui si induce una persona a consegnare denaro o altri beni"
+    },
+    {
+      "word": "illusione",
+      "ja": "現実と異なる知覚・期待・思い込みで、必ずしも誰かの悪意を伴わない",
+      "it": "percezione o speranza non corrispondente alla realtà, senza necessaria intenzione altrui di ingannare"
+    }
+  ],
+
+  "synonyms": [
+    "raggiro",
+    "frode",
+    "imbroglio",
+    "trappola",
+    "artificio",
+    "illusione"
+  ],
+
+  "equivalents": {
+    "en": [
+      "deception",
+      "deceit",
+      "trick",
+      "fraud"
+    ],
+    "de": [
+      "Täuschung",
+      "Betrug",
+      "Trug",
+      "Irreführung"
+    ],
+    "fr": [
+      "tromperie",
+      "duperie",
+      "ruse",
+      "fraude"
+    ],
+    "es": [
+      "engaño",
+      "fraude",
+      "ardid",
+      "trampa"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "trarre qualcuno in inganno",
+      "ja": "誰かを誤信させる・だます"
+    },
+    {
+      "it": "cadere nell’inganno",
+      "ja": "策略に引っかかる"
+    },
+    {
+      "it": "essere vittima di un inganno",
+      "ja": "欺きの被害者になる"
+    },
+    {
+      "it": "scoprire un inganno",
+      "ja": "欺きを見破る"
+    },
+    {
+      "it": "svelare un inganno",
+      "ja": "策略の真相を暴く"
+    },
+    {
+      "it": "organizzare un inganno",
+      "ja": "人をだます企みを仕組む"
+    },
+    {
+      "it": "ottenere qualcosa con l’inganno",
+      "ja": "欺いて何かを手に入れる"
+    },
+    {
+      "it": "un inganno ben organizzato",
+      "ja": "巧妙に仕組まれた欺き"
+    },
+    {
+      "it": "un inganno evidente",
+      "ja": "見え透いた策略"
+    },
+    {
+      "it": "un inganno dei sensi",
+      "ja": "感覚による錯覚"
+    },
+    {
+      "it": "un’apparenza ingannevole",
+      "ja": "人を惑わせる外見"
+    },
+    {
+      "it": "senza inganno",
+      "ja": "偽りなく・ごまかしなく"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "La sua spiegazione mi ha tratto in inganno.",
+      "ja": "彼の説明によって私は誤ったことを信じてしまいました。"
+    },
+    {
+      "it": "Si è accorto dell’inganno prima di firmare il contratto.",
+      "ja": "彼は契約書に署名する前に策略に気づきました。"
+    },
+    {
+      "it": "La vittima è stata convinta con l’inganno a versare il denaro.",
+      "ja": "被害者はだまされて金銭を振り込むよう説得されました。"
+    },
+    {
+      "it": "Dietro quella promessa si nascondeva un inganno.",
+      "ja": "その約束の裏には欺きが隠されていました。"
+    },
+    {
+      "it": "Non è stata una semplice bugia, ma un inganno preparato con cura.",
+      "ja": "それは単なるうそではなく、周到に準備された策略でした。"
+    },
+    {
+      "it": "A volte la prospettiva crea un inganno dei sensi.",
+      "ja": "遠近法によって感覚上の錯覚が生じることがあります。"
+    },
+    {
+      "it": "Le apparenze possono trarre in inganno.",
+      "ja": "外見は人を惑わせることがあります。"
+    },
+    {
+      "it": "Ha scoperto che il loro rapporto era basato sull’inganno.",
+      "ja": "彼女は二人の関係が偽りの上に成り立っていたことを知りました。"
+    }
+  ]
+},
+{
+  "id": "primavera",
+  "sid": "2026-00471",
+  "word": "primavera",
+  "ipa": "/primaˈvɛra/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "primavere",
+    "pattern": "in primavera / a primavera / nella primavera del + anno / la primavera scorsa o prossima / primavera di + rinascita o cambiamento"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "weather",
+      "nature",
+      "travel",
+      "planning",
+      "culture",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "冬と夏の間に位置し、気温が上がり植物が成長する季節、春",
+      "春に当たる数か月またはその期間",
+      "春らしい暖かさ・光・花・新緑などに特徴付けられる気候や雰囲気",
+      "生命・活動・希望などが再び盛んになる時期",
+      "人の若さ・青春・人生の初期を表す文学的な比喩",
+      "政治・社会・文化などが自由化・刷新・再生へ向かう時期",
+      "複数形primavereで、文学的・親しみのある表現として人の年齢"
+    ],
+    "it": [
+      "Stagione compresa tra l’inverno e l’estate, caratterizzata dall’aumento delle temperature e dalla ripresa della vegetazione.",
+      "Periodo dell’anno corrispondente ai mesi primaverili.",
+      "Clima o atmosfera caratterizzati da tepore, luce, fioritura e nuova vegetazione.",
+      "Periodo di rinascita, ripresa o rinnovamento della vita e delle attività.",
+      "In senso letterario, giovinezza o fase iniziale e vitale dell’esistenza.",
+      "Periodo di rinnovamento politico, sociale o culturale.",
+      "Al plurale, in uso letterario o scherzoso, anni di età di una persona."
+    ]
+  },
+
+  "nuance": {
+    "ja": "季節一般として「春に」と言う場合は通常in primaveraを使う。特定の年の春にはnella primavera del 2026、過去・次の春にはla primavera scorsa、la prossima primaveraと言う。a primaveraも可能だが、in primaveraのほうが日常的で中立的である。primaveraは単なる暦上の季節だけでなく、自然や社会の「再生・新しい始まり」を象徴する。文学的にはavere venti primavereで「20歳である」と表現できる。",
+    "it": "Per indicare la stagione in generale si usa normalmente in primavera. Con un riferimento determinato si dice nella primavera del 2026, la primavera scorsa o la prossima primavera. Anche a primavera è possibile, ma in primavera è più comune e neutro. Primavera simboleggia spesso la rinascita, la giovinezza e un nuovo inizio. Nell’espressione letteraria o scherzosa avere venti primavere, il plurale indica gli anni di età."
+  },
+
+  "etymology": {
+    "ja": "俗ラテン語の表現prima veraに由来する。これは「最初の・早い」を表すprimaと、ラテン語ver、属格veris「春」に由来するveraから成り、語源的には「春の初め」を意味した。やがて二語が一語として定着し、春という季節全体を表すようになった。イタリア語ver（詩語の「春」）、primaverile「春の」、スペイン語primaveraも同じ系統に属する。",
+    "it": "Deriva dall’espressione del latino volgare prima vera, formata da prima e da una forma di ver, veris, «primavera». L’espressione significava originariamente «la prima parte della primavera» e finì poi per indicare l’intera stagione. Alla stessa famiglia appartengono primaverile e il poetico ver; anche lo spagnolo primavera continua la medesima formazione."
+  },
+
+  "minimal": [
+    {
+      "word": "primavera",
+      "ja": "冬と夏の間にあり、暖かさが戻って植物が成長し始める季節",
+      "it": "stagione tra inverno ed estate, caratterizzata dal ritorno del caldo e dalla ripresa della vegetazione"
+    },
+    {
+      "word": "estate",
+      "ja": "春の後、秋の前に位置する一年で最も暑い季節",
+      "it": "stagione più calda dell’anno, compresa tra la primavera e l’autunno"
+    },
+    {
+      "word": "autunno",
+      "ja": "夏の後、冬の前に位置し、気温が下がり落葉が進む季節",
+      "it": "stagione tra estate e inverno, caratterizzata dalla diminuzione delle temperature e dalla caduta delle foglie"
+    },
+    {
+      "word": "rinascita",
+      "ja": "衰えや停止の後に、生命・活動・希望などが再び盛んになること",
+      "it": "ripresa della vita, dell’attività o della speranza dopo un periodo di declino"
+    },
+    {
+      "word": "giovinezza",
+      "ja": "人が若く、成長・活力・可能性に満ちている人生の時期",
+      "it": "periodo della vita caratterizzato da giovane età, crescita ed energia"
+    }
+  ],
+
+  "synonyms": [
+    "stagione primaverile",
+    "bella stagione",
+    "rinascita",
+    "risveglio",
+    "giovinezza"
+  ],
+
+  "equivalents": {
+    "en": [
+      "spring",
+      "springtime",
+      "rebirth"
+    ],
+    "de": [
+      "Frühling",
+      "Frühjahr",
+      "Wiedergeburt"
+    ],
+    "fr": [
+      "printemps",
+      "renouveau",
+      "renaissance"
+    ],
+    "es": [
+      "primavera",
+      "renacimiento",
+      "renovación"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "in primavera",
+      "ja": "春に"
+    },
+    {
+      "it": "la primavera scorsa",
+      "ja": "昨年の春・この前の春"
+    },
+    {
+      "it": "la prossima primavera",
+      "ja": "来春・次の春"
+    },
+    {
+      "it": "all’inizio della primavera",
+      "ja": "春の初めに"
+    },
+    {
+      "it": "alla fine della primavera",
+      "ja": "春の終わりに"
+    },
+    {
+      "it": "una giornata di primavera",
+      "ja": "春の一日"
+    },
+    {
+      "it": "un clima primaverile",
+      "ja": "春らしい気候"
+    },
+    {
+      "it": "l’arrivo della primavera",
+      "ja": "春の訪れ"
+    },
+    {
+      "it": "i primi segni della primavera",
+      "ja": "春の最初の兆し"
+    },
+    {
+      "it": "la primavera della vita",
+      "ja": "人生の春・青春"
+    },
+    {
+      "it": "una nuova primavera",
+      "ja": "新しい再生の時代"
+    },
+    {
+      "it": "avere venti primavere",
+      "ja": "20歳である"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "In primavera i giorni diventano più lunghi.",
+      "ja": "春になると日が長くなります。"
+    },
+    {
+      "it": "La prossima primavera visiteremo la Toscana.",
+      "ja": "来春、私たちはトスカーナを訪れる予定です。"
+    },
+    {
+      "it": "Gli alberi cominciano a fiorire all’inizio della primavera.",
+      "ja": "春の初めには木々が花を咲かせ始めます。"
+    },
+    {
+      "it": "Oggi sembra già primavera.",
+      "ja": "今日はもう春のようです。"
+    },
+    {
+      "it": "Ho comprato una giacca leggera per la primavera.",
+      "ja": "私は春用の薄手の上着を買いました。"
+    },
+    {
+      "it": "Il giardino si riempie di colori con l’arrivo della primavera.",
+      "ja": "春の訪れとともに庭は色彩に満ちます。"
+    },
+    {
+      "it": "Dopo anni difficili, il paese sperava in una nuova primavera.",
+      "ja": "困難な年月の後、その国は新しい再生の時代を望んでいました。"
+    },
+    {
+      "it": "La protagonista aveva appena diciotto primavere.",
+      "ja": "その主人公はまだ18歳になったばかりでした。"
+    }
+  ]
+},
+{
+  "id": "estate",
+  "sid": "2026-00472",
+  "word": "estate",
+  "ipa": "/eˈstate/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "estati",
+    "pattern": "in estate / d’estate / durante l’estate / la scorsa o prossima estate / nell’estate del + anno / estate di + luogo o attività"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "weather",
+      "travel",
+      "holidays",
+      "nature",
+      "planning",
+      "culture"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "春と秋の間に位置し、一般に一年で最も気温が高い季節、夏",
+      "夏に当たる数か月またはその期間",
+      "学校・仕事などの夏季休暇が行われる時期",
+      "旅行・海水浴・野外活動などが盛んになる季節",
+      "暑さ・強い日差し・長い昼などに特徴付けられる気候や雰囲気",
+      "特定の年または場所で経験した夏の期間・出来事",
+      "比喩的・文学的に、人生・活動・文明などが最も成熟し栄える時期"
+    ],
+    "it": [
+      "Stagione compresa tra la primavera e l’autunno, generalmente la più calda dell’anno.",
+      "Periodo dell’anno corrispondente ai mesi estivi.",
+      "Periodo nel quale si svolgono normalmente le vacanze scolastiche o lavorative.",
+      "Stagione associata ai viaggi, al mare e alle attività all’aperto.",
+      "Clima o atmosfera caratterizzati da caldo, luce intensa e giornate lunghe.",
+      "Periodo estivo di un determinato anno o vissuto in un particolare luogo.",
+      "In senso figurato o letterario, fase di piena maturità e massimo sviluppo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "「夏に」はin estateとd’estateの両方で表せる。in estateは季節という期間に焦点を置き、Partirò in estate「夏に出発する」のように予定にも使われる。d’estateは毎年の習慣や夏に一般的な現象を表しやすく、D’estate fa caldo「夏は暑い」となる。特定の夏にはnell’estate del 2026、過去・次の夏にはl’estate scorsa、la prossima estateを使う。estateは女性名詞なので、定冠詞はl’estate、複数形はle estatiとなる。",
+    "it": "Per indicare la stagione si usano sia in estate sia d’estate. In estate mette spesso in rilievo il periodo in cui qualcosa avviene, anche in riferimento a un progetto futuro: Partirò in estate. D’estate è particolarmente naturale per abitudini e fenomeni che si ripetono ogni anno: D’estate fa caldo. Per un’estate determinata si dice nell’estate del 2026, l’estate scorsa o la prossima estate. Il nome è femminile: l’estate, le estati."
+  },
+
+  "etymology": {
+    "ja": "ラテン語aestas、属格aestatis「夏、暑い季節」に由来する。これはaestus「熱、暑さ、沸騰、潮の動き」と同じ語族に属し、夏の強い熱を表す語であった。イタリア語estivo「夏の」、estivale「夏季の」、estazione「夏眠」なども同じ語族に属する。",
+    "it": "Deriva dal latino aestas, aestatis, «estate, stagione calda», appartenente alla stessa famiglia di aestus, «calore, ardore, ribollimento». Il significato fondamentale è quindi legato al caldo caratteristico della stagione. Alla stessa famiglia appartengono estivo, estivale ed estivazione."
+  },
+
+  "minimal": [
+    {
+      "word": "estate",
+      "ja": "春と秋の間に位置し、通常一年で最も暑い季節",
+      "it": "stagione tra primavera e autunno, generalmente la più calda dell’anno"
+    },
+    {
+      "word": "primavera",
+      "ja": "冬の後、夏の前に位置し、気温が上がり植物が成長する季節",
+      "it": "stagione tra inverno ed estate, caratterizzata dalla ripresa della vegetazione"
+    },
+    {
+      "word": "autunno",
+      "ja": "夏の後、冬の前に位置し、気温が下がり落葉が進む季節",
+      "it": "stagione tra estate e inverno, caratterizzata dal calo delle temperature"
+    },
+    {
+      "word": "vacanza",
+      "ja": "仕事・学校などを休み、旅行や休養に使う期間",
+      "it": "periodo di sospensione dal lavoro o dallo studio dedicato al riposo o al viaggio"
+    },
+    {
+      "word": "caldo",
+      "ja": "気温・物体・身体などが高い温度を持つ状態",
+      "it": "condizione caratterizzata da una temperatura elevata"
+    }
+  ],
+
+  "synonyms": [
+    "stagione estiva",
+    "bella stagione",
+    "periodo estivo",
+    "stagione calda"
+  ],
+
+  "equivalents": {
+    "en": [
+      "summer",
+      "summertime",
+      "summer season"
+    ],
+    "de": [
+      "Sommer",
+      "Sommerzeit",
+      "warme Jahreszeit"
+    ],
+    "fr": [
+      "été",
+      "saison estivale",
+      "belle saison"
+    ],
+    "es": [
+      "verano",
+      "época estival",
+      "temporada de verano"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "in estate",
+      "ja": "夏に"
+    },
+    {
+      "it": "d’estate",
+      "ja": "夏には・夏になると"
+    },
+    {
+      "it": "durante l’estate",
+      "ja": "夏の間に"
+    },
+    {
+      "it": "l’estate scorsa",
+      "ja": "昨夏・この前の夏"
+    },
+    {
+      "it": "la prossima estate",
+      "ja": "来夏・次の夏"
+    },
+    {
+      "it": "all’inizio dell’estate",
+      "ja": "夏の初めに"
+    },
+    {
+      "it": "alla fine dell’estate",
+      "ja": "夏の終わりに"
+    },
+    {
+      "it": "una calda giornata d’estate",
+      "ja": "暑い夏の一日"
+    },
+    {
+      "it": "le vacanze estive",
+      "ja": "夏休み"
+    },
+    {
+      "it": "una località estiva",
+      "ja": "夏の保養地"
+    },
+    {
+      "it": "il caldo dell’estate",
+      "ja": "夏の暑さ"
+    },
+    {
+      "it": "l’estate di San Martino",
+      "ja": "晩秋に一時的に戻る暖かな天候"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "In estate andiamo spesso al mare.",
+      "ja": "夏には私たちはよく海へ行きます。"
+    },
+    {
+      "it": "D’estate le giornate sono più lunghe.",
+      "ja": "夏は日が長くなります。"
+    },
+    {
+      "it": "La prossima estate visiteremo la Sicilia.",
+      "ja": "来夏、私たちはシチリアを訪れる予定です。"
+    },
+    {
+      "it": "L’estate scorsa ha fatto molto caldo.",
+      "ja": "昨夏は非常に暑くなりました。"
+    },
+    {
+      "it": "Durante l’estate molti uffici modificano il proprio orario.",
+      "ja": "夏の間、多くの事務所が営業時間を変更します。"
+    },
+    {
+      "it": "Abbiamo trascorso una splendida estate in montagna.",
+      "ja": "私たちは山ですばらしい夏を過ごしました。"
+    },
+    {
+      "it": "Alla fine dell’estate le serate cominciano a diventare più fresche.",
+      "ja": "夏の終わりには、夕方が涼しくなり始めます。"
+    },
+    {
+      "it": "Quella fu l’estate più importante della sua giovinezza.",
+      "ja": "それは彼女の青春時代で最も重要な夏でした。"
+    }
+  ]
+}  
 ]
