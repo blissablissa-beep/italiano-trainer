@@ -3519,5 +3519,228 @@
       "ja": "私たちを誘惑に陥らせず、悪からお救いください。"
     }
   ]
+},
+{
+  "id": "desiderio",
+  "sid": "2026-00466",
+  "word": "desiderio",
+  "ipa": "/deziˈdɛrjo/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "desideri",
+    "pattern": "avere il desiderio di + infinito / provare o sentire il desiderio di + infinito / desiderio di + nome / desiderio che + congiuntivo / esprimere o esaudire un desiderio"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "emotions",
+      "relationships",
+      "planning",
+      "work",
+      "personal_growth",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "何かを手に入れたい、実現したい、経験したいという願望",
+      "ある行動をしたいという内面的な欲求",
+      "将来実現してほしいと願う事柄・望み",
+      "人・場所・過去の経験などに再び触れたいという思い",
+      "目標・成功・知識などを強く求める気持ち",
+      "他者に対して抱く愛情的・身体的な欲望",
+      "誕生日・祈り・物語などで表明される願い",
+      "複数形desideriで、個人が抱くさまざまな希望・要求"
+    ],
+    "it": [
+      "Volontà di ottenere, realizzare o vivere qualcosa considerato piacevole o importante.",
+      "Impulso interiore a compiere una determinata azione.",
+      "Cosa che si spera possa avverarsi in futuro.",
+      "Sentimento che spinge a voler rivedere una persona, un luogo o un’esperienza.",
+      "Aspirazione intensa verso un obiettivo, il successo, la conoscenza o un cambiamento.",
+      "Attrazione affettiva o fisica rivolta verso un’altra persona.",
+      "Augurio o richiesta formulati in occasioni simboliche, nelle preghiere o nei racconti.",
+      "Al plurale, insieme delle aspirazioni, delle preferenze e delle richieste di una persona."
+    ]
+  },
+
+  "nuance": {
+    "ja": "desiderioは、日常的な欲求から人生上の大きな願望まで幅広く使える。vogliaはより口語的で一時的・具体的な「～したい気分」を表し、Ho voglia di un caffèのように使う。desiderioはより持続的・内面的または改まった響きを持ち、Il mio desiderio è vivere in Italiaのように人生の希望にも適する。aspirazioneは努力して到達しようとする長期的な目標、bisognoは満たす必要のある「必要」、tentazioneは抵抗すべき理由を伴う誘惑を表す。",
+    "it": "Desiderio può riferirsi tanto a una semplice volontà quanto a un’aspirazione profonda e duratura. Voglia è generalmente più colloquiale, immediata e concreta: Ho voglia di un caffè. Desiderio può avere un tono più interiore o formale ed è adatto anche a progetti di vita. Aspirazione mette in rilievo un obiettivo elevato verso il quale si tende; bisogno indica una necessità; tentazione implica invece una ragione per resistere all’impulso."
+  },
+
+  "etymology": {
+    "ja": "ラテン語desiderium「願望、憧れ、喪失感」に由来し、動詞desiderare「望む、欠けていると感じる」と同じ語族に属する。desiderareは伝統的にde-とsidus、属格sideris「星、星座」に関連付けられ、「星を観察できないことから、待ち望む・欠如を感じる」という意味が生じたと説明される。ただし、このさらに古い形成過程には不確かな点もある。同じ語族にはdesiderare、desiderabile、indesideratoがある。",
+    "it": "Deriva dal latino desiderium, «desiderio, rimpianto, mancanza», appartenente alla famiglia di desiderare. Quest’ultimo è tradizionalmente collegato a sidus, sideris, «stella, costellazione», con l’idea di avvertire l’assenza di ciò che si attende osservando il cielo; l’esatta formazione antica resta tuttavia discussa. Alla stessa famiglia appartengono desiderare, desiderabile e indesiderato."
+  },
+
+  "minimal": [
+    {
+      "word": "desiderio",
+      "ja": "何かを得たい、実現したい、または経験したいという内面的な願望",
+      "it": "volontà interiore di ottenere, realizzare o vivere qualcosa"
+    },
+    {
+      "word": "voglia",
+      "ja": "ある物が欲しい、または何かをしたいという比較的一時的で口語的な気持ち",
+      "it": "desiderio immediato e spesso temporaneo, espresso soprattutto nella lingua quotidiana"
+    },
+    {
+      "word": "aspirazione",
+      "ja": "努力によって将来達成しようとする、長期的で高い目標",
+      "it": "desiderio duraturo rivolto a un obiettivo elevato da raggiungere"
+    },
+    {
+      "word": "bisogno",
+      "ja": "生活・健康・目的などのために満たす必要がある要求",
+      "it": "necessità che deve essere soddisfatta per vivere, stare bene o raggiungere uno scopo"
+    },
+    {
+      "word": "tentazione",
+      "ja": "控えるべき理由があるにもかかわらず何かをしたくなる誘惑",
+      "it": "desiderio al quale si ritiene opportuno o necessario resistere"
+    }
+  ],
+
+  "synonyms": [
+    "voglia",
+    "aspirazione",
+    "volontà",
+    "brama",
+    "anelito",
+    "auspicio"
+  ],
+
+  "equivalents": {
+    "en": [
+      "desire",
+      "wish",
+      "longing",
+      "want"
+    ],
+    "de": [
+      "Wunsch",
+      "Verlangen",
+      "Sehnsucht",
+      "Begehren"
+    ],
+    "fr": [
+      "désir",
+      "souhait",
+      "envie",
+      "aspiration"
+    ],
+    "es": [
+      "deseo",
+      "anhelo",
+      "ganas",
+      "aspiración"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "avere il desiderio di fare qualcosa",
+      "ja": "何かをしたいという願望を持つ"
+    },
+    {
+      "it": "sentire un forte desiderio",
+      "ja": "強い願望を感じる"
+    },
+    {
+      "it": "provare il desiderio di cambiare",
+      "ja": "変わりたいという気持ちを抱く"
+    },
+    {
+      "it": "esprimere un desiderio",
+      "ja": "願いを口にする"
+    },
+    {
+      "it": "formulare un desiderio",
+      "ja": "願いを言葉にする"
+    },
+    {
+      "it": "esaudire un desiderio",
+      "ja": "願いをかなえる"
+    },
+    {
+      "it": "realizzare un desiderio",
+      "ja": "望みを実現する"
+    },
+    {
+      "it": "soddisfare un desiderio",
+      "ja": "欲求を満たす"
+    },
+    {
+      "it": "un desiderio profondo",
+      "ja": "心からの深い願い"
+    },
+    {
+      "it": "un desiderio irrefrenabile",
+      "ja": "抑えきれない欲求"
+    },
+    {
+      "it": "il desiderio di libertà",
+      "ja": "自由への願望"
+    },
+    {
+      "it": "l’oggetto del desiderio",
+      "ja": "欲望・憧れの対象"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Ho sempre avuto il desiderio di visitare la Sicilia.",
+      "ja": "私は以前からずっとシチリアを訪れたいと思っていました。"
+    },
+    {
+      "it": "Il suo più grande desiderio è diventare medico.",
+      "ja": "彼女の最大の望みは医師になることです。"
+    },
+    {
+      "it": "Prima di spegnere le candeline, esprimi un desiderio.",
+      "ja": "ろうそくの火を消す前に、願い事をしてください。"
+    },
+    {
+      "it": "Finalmente sono riuscito a realizzare uno dei miei desideri.",
+      "ja": "ようやく私は自分の願いの一つを実現できました。"
+    },
+    {
+      "it": "Sentiva un forte desiderio di tornare nella città in cui era nato.",
+      "ja": "彼は自分が生まれた町へ戻りたいと強く感じていました。"
+    },
+    {
+      "it": "Rispettiamo il suo desiderio che la riunione rimanga riservata.",
+      "ja": "会議を非公開にしてほしいという彼女の希望を尊重します。"
+    },
+    {
+      "it": "Il desiderio di imparare è più importante della paura di sbagliare.",
+      "ja": "学びたいという気持ちは、間違いへの恐れよりも重要です。"
+    },
+    {
+      "it": "Non ogni desiderio può essere esaudito immediatamente.",
+      "ja": "すべての願いがすぐにかなえられるわけではありません。"
+    }
+  ]
 }
 ]
