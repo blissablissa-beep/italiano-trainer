@@ -5475,5 +5475,2415 @@
       "ja": "出生数の減少は、しばしば「人口の冬」と表現されます。"
     }
   ]
+},
+{
+  "id": "casa",
+  "sid": "2026-00475",
+  "word": "casa",
+  "ipa": "/ˈkaza/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "case",
+    "pattern": "essere, stare, andare o tornare a casa / uscire di casa / lavorare da casa / in casa / a casa di + persona / casa + aggettivo o specificazione"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "family",
+      "daily_life",
+      "real_estate",
+      "work",
+      "business",
+      "travel"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人が生活するための建物・住宅、家",
+      "自分または他人が暮らしている場所、家庭・自宅",
+      "家族とともに営まれる生活や家庭環境",
+      "集合住宅の一戸・住居・部屋を含む生活空間",
+      "特定の家族・家系、特に歴史上の王家・名家",
+      "商品を製造・販売する企業・商社・ブランド",
+      "出版社・ファッション会社・映画製作会社などの事業体",
+      "スポーツで、選手やチームが本拠地とする側・場所",
+      "占星術で、人生の特定分野を表す十二の区画の一つ"
+    ],
+    "it": [
+      "Edificio o struttura destinati all’abitazione delle persone.",
+      "Luogo nel quale una persona vive abitualmente, considerato come ambiente domestico.",
+      "Vita familiare e insieme dei rapporti che si svolgono nell’ambiente domestico.",
+      "Spazio abitativo, compreso anche un appartamento all’interno di un edificio.",
+      "Famiglia o stirpe, soprattutto con riferimento a dinastie e famiglie storiche.",
+      "Impresa, azienda o marchio che produce e commercializza determinati beni.",
+      "Società editoriale, casa di moda, casa cinematografica o altra organizzazione produttiva.",
+      "Nello sport, luogo o squadra che gioca sul proprio campo.",
+      "In astrologia, ciascuno dei dodici settori nei quali viene suddiviso il cielo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "casaは建物としての「家」と、安心して生活する場所としての「家庭・自宅」の両方を表す。a casaは「家に・家で」、andare a casaは「帰宅する」、essere a casaは「在宅している」となり、通常この用法では冠詞を付けない。in casaは家の内部や家庭内での状態をやや強調し、da casaは「家から」または「在宅で」を表す。houseに近い建物を明確に示す場合はcasa、より形式的な「住居」はabitazione、集合住宅の一戸はappartamentoが使われる。",
+    "it": "Casa può indicare sia l’edificio sia il luogo affettivo e familiare nel quale si vive. Nelle espressioni a casa, andare a casa, tornare a casa e restare a casa non si usa normalmente l’articolo. In casa mette spesso in rilievo l’interno dell’abitazione o l’ambiente domestico; da casa indica provenienza oppure lavoro svolto a distanza. Abitazione è più formale e tecnico, mentre appartamento indica specificamente un’unità abitativa all’interno di un edificio."
+  },
+
+  "etymology": {
+    "ja": "ラテン語casa「小屋、粗末な住居、農家」に由来する。古典ラテン語で一般的な「家」はdomusだったが、話し言葉ではcasaが次第に広く使われるようになり、ロマンス諸語で一般的な「家」を表す語となった。同じ語族にはcasetta「小さな家」、casale「農家・集落」、casalingo「家庭の」、casalinga「主婦」がある。スペイン語・ポルトガル語のcasaも同じ起源を持つ。",
+    "it": "Deriva dal latino casa, «capanna, abitazione rustica». Nel latino classico il termine più generale per la casa era domus, ma nella lingua parlata casa si diffuse progressivamente fino a diventare la parola comune nelle lingue romanze. Alla stessa famiglia appartengono casetta, casale, casalingo e casalinga. Anche lo spagnolo e il portoghese casa hanno la stessa origine."
+  },
+
+  "minimal": [
+    {
+      "word": "casa",
+      "ja": "人が生活する建物、または自分が暮らし家庭生活を営む場所",
+      "it": "edificio destinato all’abitazione oppure luogo domestico nel quale una persona vive"
+    },
+    {
+      "word": "abitazione",
+      "ja": "人が居住するための場所を表す、比較的形式的・技術的な語",
+      "it": "termine formale o tecnico per un luogo destinato alla residenza"
+    },
+    {
+      "word": "appartamento",
+      "ja": "集合住宅などの建物内にある独立した一戸の住居",
+      "it": "unità abitativa indipendente situata normalmente all’interno di un edificio"
+    },
+    {
+      "word": "domicilio",
+      "ja": "法律・行政上の連絡や活動の本拠として定められた住所・居所",
+      "it": "luogo stabilito come sede principale degli affari e degli interessi di una persona"
+    },
+    {
+      "word": "famiglia",
+      "ja": "親子・夫婦・親族などの関係で結ばれた人々",
+      "it": "insieme di persone unite da rapporti di parentela, matrimonio o convivenza"
+    }
+  ],
+
+  "synonyms": [
+    "abitazione",
+    "dimora",
+    "alloggio",
+    "domicilio",
+    "famiglia",
+    "azienda"
+  ],
+
+  "equivalents": {
+    "en": [
+      "house",
+      "home",
+      "household",
+      "company"
+    ],
+    "de": [
+      "Haus",
+      "Zuhause",
+      "Haushalt",
+      "Unternehmen"
+    ],
+    "fr": [
+      "maison",
+      "chez-soi",
+      "foyer",
+      "entreprise"
+    ],
+    "es": [
+      "casa",
+      "hogar",
+      "vivienda",
+      "empresa"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "essere a casa",
+      "ja": "家にいる・在宅している"
+    },
+    {
+      "it": "andare a casa",
+      "ja": "家へ帰る"
+    },
+    {
+      "it": "tornare a casa",
+      "ja": "帰宅する"
+    },
+    {
+      "it": "restare a casa",
+      "ja": "家にとどまる"
+    },
+    {
+      "it": "uscire di casa",
+      "ja": "家を出る・外出する"
+    },
+    {
+      "it": "lavorare da casa",
+      "ja": "在宅勤務をする"
+    },
+    {
+      "it": "comprare casa",
+      "ja": "家を購入する"
+    },
+    {
+      "it": "cercare casa",
+      "ja": "住む家を探す"
+    },
+    {
+      "it": "sentirsi a casa",
+      "ja": "我が家にいるようにくつろぐ"
+    },
+    {
+      "it": "a casa di qualcuno",
+      "ja": "誰かの家で・家へ"
+    },
+    {
+      "it": "casa editrice",
+      "ja": "出版社"
+    },
+    {
+      "it": "casa di moda",
+      "ja": "ファッションブランド・服飾会社"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Oggi resto a casa perché sono stanco.",
+      "ja": "今日は疲れているので家にいます。"
+    },
+    {
+      "it": "A che ora torni a casa?",
+      "ja": "何時に家へ帰りますか。"
+    },
+    {
+      "it": "Stiamo cercando una casa più grande per la nostra famiglia.",
+      "ja": "私たちは家族のために、より大きな家を探しています。"
+    },
+    {
+      "it": "Ieri abbiamo cenato a casa di alcuni amici.",
+      "ja": "昨日、私たちは友人たちの家で夕食を取りました。"
+    },
+    {
+      "it": "Lavoro da casa due giorni alla settimana.",
+      "ja": "私は週に2日在宅勤務をしています。"
+    },
+    {
+      "it": "Grazie della vostra accoglienza: mi sono sentito subito a casa.",
+      "ja": "温かく迎えてくださりありがとうございます。すぐに我が家のようにくつろげました。"
+    },
+    {
+      "it": "Il romanzo è stato pubblicato da una piccola casa editrice.",
+      "ja": "その小説は小規模な出版社から刊行されました。"
+    },
+    {
+      "it": "La casa reale ha annunciato ufficialmente la nascita del bambino.",
+      "ja": "王室はその子供の誕生を正式に発表しました。"
+    }
+  ]
+},
+{
+  "id": "appartamento",
+  "sid": "2026-00476",
+  "word": "appartamento",
+  "ipa": "/appartaˈmento/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "appartamenti",
+    "pattern": "vivere o abitare in un appartamento / comprare o affittare un appartamento / appartamento di + dimensione / appartamento con + locale o attrezzatura / appartamento al + piano"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "home",
+      "real_estate",
+      "renting",
+      "travel",
+      "family",
+      "daily_life"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "集合住宅・建物の内部に設けられた独立した一戸の住居",
+      "居間・寝室・台所・浴室など複数の空間から成る居住区画",
+      "購入または賃貸によって使用されるマンション・アパートの一室",
+      "建物内で一つの世帯が独立して生活できるように区切られた空間",
+      "ホテル・別荘などにある、複数の部屋と生活設備を備えた滞在用区画",
+      "歴史的な宮殿・大邸宅などで、特定の人物が使用する一続きの私室"
+    ],
+    "it": [
+      "Unità abitativa indipendente situata all’interno di un edificio comprendente più abitazioni.",
+      "Insieme di locali destinati alla vita domestica, come soggiorno, camere, cucina e bagno.",
+      "Abitazione acquistata o presa in affitto all’interno di un palazzo o di un condominio.",
+      "Spazio separato nel quale può vivere autonomamente una singola famiglia.",
+      "Alloggio turistico o alberghiero dotato di più ambienti e attrezzature domestiche.",
+      "In un palazzo storico, insieme di stanze private riservate a una determinata persona."
+    ]
+  },
+
+  "nuance": {
+    "ja": "appartamentoは建物内の独立した一戸を指し、日本語の「マンションの一室」「アパートの一室」に相当する。casaは建物としての一戸建てにも集合住宅内の住居にも使え、さらに「家庭・我が家」という感情的な意味を持つ。condominioは通常、複数のappartamentiを含む建物、またはその共同所有・管理制度を指し、個々の住戸そのものではない。ワンルームはmonolocale、寝室が一つある二室型の住居は通常bilocaleと呼ばれる。",
+    "it": "Appartamento indica una singola unità abitativa all’interno di un edificio. Casa è più ampio: può indicare sia un edificio indipendente sia l’abitazione e l’ambiente familiare in cui si vive. Condominio designa normalmente l’edificio composto da più unità oppure il sistema di comproprietà e amministrazione, non il singolo appartamento. Un monolocale possiede un solo ambiente principale; un bilocale comprende normalmente una zona giorno e una camera."
+  },
+
+  "etymology": {
+    "ja": "動詞appartare「分ける、離れた場所に置く」に接尾辞-mentoを加えて形成された。appartareはaとparte「部分、離れた側」に由来する。もともとは建物内で他の空間から分けられた部屋の集合、特に宮殿などの私室を意味し、そこから独立した住居区画を表す現在の意味が発達した。英語apartmentとフランス語appartementも同じ語族に属する。",
+    "it": "Deriva da appartare con il suffisso -mento. Appartare è formato da a e parte e significa originariamente «separare, mettere in disparte». Appartamento indicava quindi un insieme di stanze separate e riservate, specialmente nei palazzi, e passò poi a designare un’unità abitativa autonoma. Appartengono alla stessa famiglia il francese appartement e l’inglese apartment."
+  },
+
+  "minimal": [
+    {
+      "word": "appartamento",
+      "ja": "集合住宅などの建物内にある、独立した一戸の住居",
+      "it": "unità abitativa autonoma situata all’interno di un edificio"
+    },
+    {
+      "word": "casa",
+      "ja": "人が暮らす建物・住居、または家庭や我が家という生活空間",
+      "it": "edificio o luogo domestico nel quale una persona vive"
+    },
+    {
+      "word": "condominio",
+      "ja": "複数の住戸を含む共同住宅、またはその共同所有・管理制度",
+      "it": "edificio con più unità immobiliari oppure insieme dei proprietari e relativo sistema di gestione"
+    },
+    {
+      "word": "monolocale",
+      "ja": "一つの主要な居室に台所設備などを備えたワンルーム住宅",
+      "it": "appartamento formato da un unico ambiente principale, oltre al bagno"
+    },
+    {
+      "word": "stanza",
+      "ja": "壁・床・天井によって区切られた、建物内部の一つの部屋",
+      "it": "singolo ambiente delimitato all’interno di un edificio o di un appartamento"
+    }
+  ],
+
+  "synonyms": [
+    "alloggio",
+    "abitazione",
+    "unità abitativa",
+    "casa",
+    "abitazione condominiale"
+  ],
+
+  "equivalents": {
+    "en": [
+      "apartment",
+      "flat",
+      "suite",
+      "residential unit"
+    ],
+    "de": [
+      "Wohnung",
+      "Apartment",
+      "Wohneinheit"
+    ],
+    "fr": [
+      "appartement",
+      "logement",
+      "suite"
+    ],
+    "es": [
+      "apartamento",
+      "piso",
+      "vivienda"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "vivere in un appartamento",
+      "ja": "集合住宅の一室で暮らす"
+    },
+    {
+      "it": "affittare un appartamento",
+      "ja": "アパート・マンションの一室を借りる、または貸す"
+    },
+    {
+      "it": "prendere un appartamento in affitto",
+      "ja": "住居を賃借する"
+    },
+    {
+      "it": "comprare un appartamento",
+      "ja": "マンションなどの一室を購入する"
+    },
+    {
+      "it": "cercare un appartamento",
+      "ja": "住む部屋を探す"
+    },
+    {
+      "it": "visitare un appartamento",
+      "ja": "購入・賃借候補の住居を内見する"
+    },
+    {
+      "it": "arredare un appartamento",
+      "ja": "住居に家具をそろえる"
+    },
+    {
+      "it": "un appartamento spazioso",
+      "ja": "広々とした住居"
+    },
+    {
+      "it": "un appartamento ammobiliato",
+      "ja": "家具付きの住居"
+    },
+    {
+      "it": "un appartamento al terzo piano",
+      "ja": "4階にある住居"
+    },
+    {
+      "it": "un appartamento con balcone",
+      "ja": "バルコニー付きの住居"
+    },
+    {
+      "it": "un appartamento in centro",
+      "ja": "市内中心部にある住居"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Viviamo in un piccolo appartamento vicino alla stazione.",
+      "ja": "私たちは駅の近くにある小さなマンションの一室で暮らしています。"
+    },
+    {
+      "it": "Sto cercando un appartamento con due camere da letto.",
+      "ja": "私は寝室が二つある住居を探しています。"
+    },
+    {
+      "it": "Hanno comprato un appartamento al quinto piano.",
+      "ja": "彼らは6階の住居を購入しました。"
+    },
+    {
+      "it": "L’appartamento è ammobiliato e dispone di un ampio balcone.",
+      "ja": "その住居は家具付きで、広いバルコニーがあります。"
+    },
+    {
+      "it": "Prima di firmare il contratto, abbiamo visitato l’appartamento due volte.",
+      "ja": "契約書に署名する前に、私たちはその住居を2回内見しました。"
+    },
+    {
+      "it": "L’affitto dell’appartamento comprende le spese per l’acqua.",
+      "ja": "その住居の家賃には水道料金が含まれています。"
+    },
+    {
+      "it": "Il condominio comprende venti appartamenti e un cortile comune.",
+      "ja": "その共同住宅には20戸の住居と共用の中庭があります。"
+    },
+    {
+      "it": "Per le vacanze abbiamo affittato un appartamento con cucina.",
+      "ja": "休暇のために、私たちは台所付きの滞在用住居を借りました。"
+    }
+  ]
+},
+{
+  "id": "condominio",
+  "sid": "2026-00477",
+  "word": "condominio",
+  "ipa": "/kondoˈminjo/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "condomini",
+    "pattern": "vivere o abitare in un condominio / il condominio di + indirizzo / amministrare un condominio / assemblea o spese di condominio / regolamento del condominio"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "legal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "home",
+      "real_estate",
+      "law",
+      "administration",
+      "neighborhood",
+      "finance",
+      "daily_life"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "複数の独立した住戸・事務所などから成る共同住宅・建物",
+      "各住戸は個別に所有され、階段・屋根・入口などは共同所有される不動産形態",
+      "一つの建物内の住戸所有者全体によって構成される共同体",
+      "建物の共用部分を共同で管理する区分所有関係",
+      "法律上、同一の物に対して複数人が共同で所有権を有する状態",
+      "建物の管理・修繕・費用負担などを扱う組織または制度",
+      "文脈により、共同住宅に住む住民たちの集合"
+    ],
+    "it": [
+      "Edificio composto da più appartamenti o unità immobiliari indipendenti.",
+      "Forma di proprietà nella quale le singole unità appartengono a proprietari diversi e alcune parti sono comuni.",
+      "Insieme dei proprietari delle unità immobiliari situate nello stesso edificio.",
+      "Rapporto di comproprietà e gestione delle parti comuni di un edificio.",
+      "In diritto, situazione nella quale più persone esercitano diritti di proprietà sullo stesso bene.",
+      "Organizzazione che amministra manutenzione, lavori e spese delle parti comuni.",
+      "Per estensione, insieme delle persone che abitano in un edificio condominiale."
+    ]
+  },
+
+  "nuance": {
+    "ja": "condominioは個々の住戸ではなく、通常は複数のappartamentiを含む建物全体、またはその区分所有・共同管理制度を指す。「マンションの一室」はun appartamento、建物全体はun condominioとなる。palazzoも複数階の大きな建物を表せるが、所有・管理関係には焦点を置かない。condominioとcondominoは別語で、condominioは共同住宅・区分所有制度、condòminoはその住戸所有者または構成員を表す。",
+    "it": "Condominio non indica normalmente il singolo appartamento, ma l’intero edificio oppure il rapporto di proprietà e gestione delle parti comuni. Si vive in un appartamento situato in un condominio. Palazzo descrive soprattutto un edificio di una certa dimensione, senza mettere necessariamente in rilievo la comproprietà. Condominio va distinto da condòmino: il primo indica l’edificio o il sistema di comproprietà, il secondo uno dei proprietari che ne fanno parte."
+  },
+
+  "etymology": {
+    "ja": "後期・中世ラテン語condominium「共同支配、共同所有」に由来し、con-「共同で」とdominium「所有権、支配権」から成る。dominiumはdominus「主人、所有者」と同じ語族に属する。語源的には「複数人による共同所有」を意味し、現代イタリア語では特に、個別所有部分と共用部分を持つ建物の所有・管理制度を表す。同じ語族にはdominio、dominare、condòminoがある。",
+    "it": "Deriva dal latino tardo e medievale condominium, formato da con-, «insieme», e dominium, «proprietà, signoria». Dominium appartiene alla famiglia di dominus, «padrone, proprietario». Il significato originario è quindi quello di una proprietà esercitata congiuntamente da più persone. Alla stessa famiglia appartengono dominio, dominare e condòmino."
+  },
+
+  "minimal": [
+    {
+      "word": "condominio",
+      "ja": "複数の独立した住戸と共同所有部分から成る建物、またはその区分所有制度",
+      "it": "edificio con unità di proprietà separata e parti comuni, oppure relativo sistema di comproprietà"
+    },
+    {
+      "word": "appartamento",
+      "ja": "共同住宅などの建物内にある独立した一戸の住居",
+      "it": "singola unità abitativa autonoma situata all’interno di un edificio"
+    },
+    {
+      "word": "condòmino",
+      "ja": "共同住宅の住戸を所有し、区分所有関係を構成する人",
+      "it": "proprietario di un’unità immobiliare che partecipa al condominio"
+    },
+    {
+      "word": "palazzo",
+      "ja": "複数階から成る比較的大きな建物、または歴史的・豪華な建築物",
+      "it": "edificio di notevoli dimensioni o costruzione storica e prestigiosa"
+    },
+    {
+      "word": "comproprietà",
+      "ja": "同一の物を複数の人が共同で所有する法的状態",
+      "it": "situazione giuridica nella quale un bene appartiene congiuntamente a più persone"
+    }
+  ],
+
+  "synonyms": [
+    "edificio condominiale",
+    "stabile",
+    "palazzo",
+    "comproprietà",
+    "proprietà comune"
+  ],
+
+  "equivalents": {
+    "en": [
+      "condominium",
+      "apartment building",
+      "co-ownership",
+      "homeowners’ association"
+    ],
+    "de": [
+      "Mehrfamilienhaus",
+      "Wohnungseigentümergemeinschaft",
+      "Miteigentum"
+    ],
+    "fr": [
+      "copropriété",
+      "immeuble en copropriété",
+      "syndicat des copropriétaires"
+    ],
+    "es": [
+      "condominio",
+      "comunidad de propietarios",
+      "copropiedad"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "vivere in un condominio",
+      "ja": "共同住宅で暮らす"
+    },
+    {
+      "it": "amministrare un condominio",
+      "ja": "共同住宅を管理する"
+    },
+    {
+      "it": "amministratore di condominio",
+      "ja": "マンション・共同住宅の管理者"
+    },
+    {
+      "it": "assemblea di condominio",
+      "ja": "区分所有者総会"
+    },
+    {
+      "it": "regolamento di condominio",
+      "ja": "共同住宅の管理規約"
+    },
+    {
+      "it": "spese di condominio",
+      "ja": "共同住宅の共益費・管理費"
+    },
+    {
+      "it": "pagare le spese condominiali",
+      "ja": "共益費・管理費を支払う"
+    },
+    {
+      "it": "parti comuni del condominio",
+      "ja": "共同住宅の共用部分"
+    },
+    {
+      "it": "riunione condominiale",
+      "ja": "区分所有者・住民の会合"
+    },
+    {
+      "it": "lavori condominiali",
+      "ja": "共用部分の工事"
+    },
+    {
+      "it": "un grande condominio",
+      "ja": "大規模な共同住宅"
+    },
+    {
+      "it": "lite condominiale",
+      "ja": "共同住宅内の住民・所有者間の争い"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Viviamo in un condominio di sei piani.",
+      "ja": "私たちは6階建ての共同住宅に住んでいます。"
+    },
+    {
+      "it": "Il nostro appartamento si trova in un condominio costruito negli anni Novanta.",
+      "ja": "私たちの住居は1990年代に建てられた共同住宅内にあります。"
+    },
+    {
+      "it": "Le spese di condominio comprendono la pulizia delle scale.",
+      "ja": "共益費には階段の清掃費が含まれています。"
+    },
+    {
+      "it": "L’amministratore ha convocato un’assemblea di condominio.",
+      "ja": "管理者は区分所有者総会を招集しました。"
+    },
+    {
+      "it": "Il tetto e le scale sono parti comuni del condominio.",
+      "ja": "屋根と階段は共同住宅の共用部分です。"
+    },
+    {
+      "it": "I condòmini hanno approvato i lavori di manutenzione dell’ascensore.",
+      "ja": "区分所有者たちはエレベーターの保守工事を承認しました。"
+    },
+    {
+      "it": "Il regolamento di condominio vieta di lasciare biciclette nell’ingresso.",
+      "ja": "管理規約では入口に自転車を置くことが禁止されています。"
+    },
+    {
+      "it": "Il rumore è una delle cause più comuni delle liti condominiali.",
+      "ja": "騒音は共同住宅内の争いで最も一般的な原因の一つです。"
+    }
+  ]
+},
+{
+  "id": "scuola",
+  "sid": "2026-00478",
+  "word": "scuola",
+  "ipa": "/ˈskwɔla/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "scuole",
+    "pattern": "andare, essere o tornare a scuola / frequentare una scuola / iscriversi a scuola / scuola di + materia o attività / scuola + aggettivo / fare scuola"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "education",
+      "family",
+      "childhood",
+      "work",
+      "training",
+      "culture",
+      "history"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "子供や若者に教育を行う機関、学校",
+      "授業・教育活動が行われる建物や施設",
+      "学校で行われる学習・教育活動",
+      "国・地域における学校教育の制度全体",
+      "音楽・語学・運転など特定の技能を教える教育機関",
+      "共通する思想・理論・方法を受け継ぐ学派・学統",
+      "共通する様式を持つ芸術家・作家などの一団、流派",
+      "人間の人格・能力を形成する経験や環境",
+      "fare scuolaの形で、模範となって後の人々に大きな影響を与えること"
+    ],
+    "it": [
+      "Istituzione destinata all’istruzione e all’educazione di bambini e giovani.",
+      "Edificio o struttura nella quale si svolgono le lezioni.",
+      "Attività di studio, insegnamento e formazione svolta in un istituto scolastico.",
+      "Insieme delle istituzioni e dell’organizzazione dell’istruzione di un paese.",
+      "Istituto che insegna una lingua, un’arte, la guida o un’altra abilità specifica.",
+      "Gruppo di studiosi uniti da una teoria, un metodo o una tradizione comune.",
+      "Gruppo di artisti o autori caratterizzati da uno stile comune.",
+      "Esperienza o ambiente capaci di formare il carattere e le capacità di una persona.",
+      "Nell’espressione fare scuola, diventare un modello e influenzare sviluppi successivi."
+    ]
+  },
+
+  "nuance": {
+    "ja": "「通学する・学校にいる」という一般的な意味では、通常冠詞なしでandare a scuola、essere a scuolaと言う。特定の学校を訪れる場合はandare alla scuola del quartiereのように冠詞を使える。frequentare la scuolaは「学校に通って教育を受ける」、frequentare una scuola di musicaは「音楽学校に通う」を意味する。istitutoは特定の教育機関をやや形式的に指し、classeは生徒の集団または教室、lezioneは個々の授業を表す。",
+    "it": "Quando si parla genericamente della frequenza scolastica, si dice andare a scuola ed essere a scuola senza articolo. L’articolo compare quando si identifica una scuola determinata: andare alla scuola del quartiere. Frequentare la scuola significa seguire regolarmente l’istruzione; frequentare una scuola di musica indica invece un istituto specializzato. Istituto è più formale, classe indica il gruppo degli alunni o l’aula e lezione una singola attività didattica."
+  },
+
+  "etymology": {
+    "ja": "ラテン語schola「学校、講義、学派」を経て、古代ギリシア語skholḗ「余暇、自由時間、学問」に由来する。古代ギリシアでは、日常の労働から解放された時間を思索・議論・学習に使ったことから、「余暇」を表す語が「学問・学校」を意味するようになった。同じ語源から英語school、ドイツ語Schule、フランス語école、スペイン語escuelaが生まれた。",
+    "it": "Deriva dal latino schola, «scuola, lezione, gruppo di studiosi», a sua volta dal greco antico skholḗ, che significava originariamente «tempo libero, ozio» e poi «studio, discussione, scuola». Il passaggio semantico riflette l’uso del tempo libero per l’apprendimento e la riflessione. Dalla stessa origine derivano l’inglese school, il tedesco Schule, il francese école e lo spagnolo escuela."
+  },
+
+  "minimal": [
+    {
+      "word": "scuola",
+      "ja": "子供や若者への教育を行う機関、またはそこで行われる教育活動",
+      "it": "istituzione destinata all’istruzione oppure attività educativa che vi si svolge"
+    },
+    {
+      "word": "istituto",
+      "ja": "教育・研究など特定の目的を持つ組織・施設を表す比較的形式的な語",
+      "it": "organizzazione o struttura dedicata all’istruzione, alla ricerca o a un altro scopo specifico"
+    },
+    {
+      "word": "classe",
+      "ja": "同じ授業を受ける生徒の集団、またはその教室",
+      "it": "gruppo di alunni che studiano insieme oppure aula nella quale seguono le lezioni"
+    },
+    {
+      "word": "lezione",
+      "ja": "教師が生徒に一定の内容を教える一回の授業",
+      "it": "singola attività durante la quale un insegnante trasmette conoscenze agli studenti"
+    },
+    {
+      "word": "università",
+      "ja": "高等教育・専門研究を行い、学位を授与する教育機関",
+      "it": "istituzione di istruzione superiore e ricerca che rilascia titoli accademici"
+    }
+  ],
+
+  "synonyms": [
+    "istituto scolastico",
+    "istituto",
+    "centro di formazione",
+    "indirizzo",
+    "corrente",
+    "tradizione"
+  ],
+
+  "equivalents": {
+    "en": [
+      "school",
+      "educational institution",
+      "school of thought",
+      "tradition"
+    ],
+    "de": [
+      "Schule",
+      "Lehranstalt",
+      "Denkschule",
+      "Richtung"
+    ],
+    "fr": [
+      "école",
+      "établissement scolaire",
+      "courant",
+      "tradition"
+    ],
+    "es": [
+      "escuela",
+      "centro educativo",
+      "corriente",
+      "tradición"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "andare a scuola",
+      "ja": "学校へ通う・学校へ行く"
+    },
+    {
+      "it": "essere a scuola",
+      "ja": "学校にいる"
+    },
+    {
+      "it": "frequentare la scuola",
+      "ja": "学校に通って教育を受ける"
+    },
+    {
+      "it": "iscriversi a una scuola",
+      "ja": "学校へ入学登録する"
+    },
+    {
+      "it": "lasciare la scuola",
+      "ja": "学校を辞める・下校する"
+    },
+    {
+      "it": "scuola dell’infanzia",
+      "ja": "幼稚園・就学前教育機関"
+    },
+    {
+      "it": "scuola primaria",
+      "ja": "小学校"
+    },
+    {
+      "it": "scuola secondaria",
+      "ja": "中等学校"
+    },
+    {
+      "it": "scuola pubblica",
+      "ja": "公立学校"
+    },
+    {
+      "it": "scuola privata",
+      "ja": "私立学校"
+    },
+    {
+      "it": "scuola di lingua",
+      "ja": "語学学校"
+    },
+    {
+      "it": "fare scuola",
+      "ja": "模範となり、後世・他者に影響を与える"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "I bambini vanno a scuola dal lunedì al venerdì.",
+      "ja": "子供たちは月曜日から金曜日まで学校へ通います。"
+    },
+    {
+      "it": "Mia figlia comincerà la scuola primaria il prossimo anno.",
+      "ja": "娘は来年、小学校へ入学します。"
+    },
+    {
+      "it": "La scuola si trova vicino alla stazione.",
+      "ja": "その学校は駅の近くにあります。"
+    },
+    {
+      "it": "Mi sono iscritto a una scuola di lingua italiana.",
+      "ja": "私はイタリア語学校に申し込みました。"
+    },
+    {
+      "it": "Oggi le scuole sono chiuse a causa della neve.",
+      "ja": "今日は雪のため学校が休校になっています。"
+    },
+    {
+      "it": "La scuola deve insegnare non soltanto conoscenze, ma anche responsabilità.",
+      "ja": "学校は知識だけでなく、責任も教えなければなりません。"
+    },
+    {
+      "it": "Il filosofo apparteneva a una scuola di pensiero molto influente.",
+      "ja": "その哲学者は非常に影響力のある思想学派に属していました。"
+    },
+    {
+      "it": "Il suo metodo innovativo ha fatto scuola in tutta Europa.",
+      "ja": "彼の革新的な方法はヨーロッパ全体で模範となり、大きな影響を与えました。"
+    }
+  ]
+},
+{
+  "id": "mercato",
+  "sid": "2026-00479",
+  "word": "mercato",
+  "ipa": "/merˈkato/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "mercati",
+    "pattern": "andare o comprare al mercato / mercato di + prodotto o settore / mercato nazionale o internazionale / entrare, operare o competere nel mercato / mettere o essere sul mercato"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "economic"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "shopping",
+      "daily_life",
+      "business",
+      "economics",
+      "finance",
+      "real_estate",
+      "employment",
+      "sport"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "商人が食品・衣類・日用品などを販売する市場・市",
+      "屋外または屋内に複数の露店・売り場が集まった商業空間",
+      "商品・サービスの売り手と買い手が取引を行う経済的な仕組み",
+      "特定の商品・産業・地域における需要と供給の総体",
+      "企業が商品・サービスを販売する対象地域・顧客層",
+      "株式・債券・通貨などが取引される金融市場",
+      "住宅・土地などが売買・賃貸される不動産市場",
+      "求職者と雇用者の間で労働力が取引される労働市場",
+      "スポーツで選手の獲得・移籍が行われる期間または活動",
+      "非合法・非公式に商品が取引される仕組み"
+    ],
+    "it": [
+      "Luogo nel quale più venditori offrono alimenti, vestiti e altri prodotti.",
+      "Spazio aperto o coperto formato da bancarelle e punti di vendita.",
+      "Sistema economico nel quale venditori e compratori scambiano beni e servizi.",
+      "Insieme della domanda e dell’offerta relative a un prodotto, un settore o un territorio.",
+      "Area geografica o gruppo di clienti ai quali un’impresa offre i propri prodotti.",
+      "Ambito nel quale vengono negoziati titoli, obbligazioni, valute e altri strumenti finanziari.",
+      "Insieme delle compravendite e delle locazioni di case, terreni e altri immobili.",
+      "Sistema nel quale si incontrano domanda e offerta di lavoro.",
+      "Nello sport, periodo e attività relativi all’acquisto, alla vendita o al trasferimento dei giocatori.",
+      "Sistema illegale o non ufficiale di compravendita di determinati beni."
+    ]
+  },
+
+  "nuance": {
+    "ja": "日常語のmercatoは、複数の売り手が集まる市場を指し、andare al mercato「市場へ行く」と言う。negozioは通常、一つの事業者が営業する個別の店舗、supermercatoは食料品などを扱う大規模な小売店である。経済用語ではmercatoは具体的な場所を必要とせず、売り手・買い手・需要・供給から成る取引領域を表す。essere sul mercatoは商品が「市販されている」、mettere sul mercatoは「市場へ投入する」という意味になる。",
+    "it": "Nel linguaggio quotidiano mercato indica un luogo con più venditori e bancarelle: si dice andare al mercato. Negozio è normalmente un singolo esercizio commerciale, mentre supermercato è un grande punto vendita organizzato in reparti. In economia, mercato non richiede un luogo fisico e indica l’insieme degli scambi, della domanda e dell’offerta. Essere sul mercato significa essere disponibile per la vendita; mettere sul mercato significa iniziare a commercializzare un prodotto."
+  },
+
+  "etymology": {
+    "ja": "ラテン語mercatus「取引、市場」に由来し、動詞mercari「商売する、売買する」の派生語である。mercariはmerx、属格mercis「商品、商売の品」と同じ語族に属する。同じ語源からmercante「商人」、merce「商品」、commercio「商業」、mercatoの形容詞mercantileが生まれた。英語market、フランス語marché、スペイン語mercadoも同じラテン語系統に属する。",
+    "it": "Deriva dal latino mercatus, «commercio, mercato», nome formato dal verbo mercari, «commerciare». Mercari appartiene alla famiglia di merx, mercis, «merce». Alla stessa famiglia appartengono mercante, merce, commercio e mercantile. Anche l’inglese market, il francese marché e lo spagnolo mercado risalgono alla medesima base latina."
+  },
+
+  "minimal": [
+    {
+      "word": "mercato",
+      "ja": "複数の売り手が商品を販売する場所、または需要と供給から成る取引の仕組み",
+      "it": "luogo con più venditori oppure sistema economico formato da domanda, offerta e scambi"
+    },
+    {
+      "word": "negozio",
+      "ja": "通常、一つの事業者が商品・サービスを販売する個別の店舗",
+      "it": "singolo esercizio commerciale nel quale un’attività vende beni o servizi"
+    },
+    {
+      "word": "supermercato",
+      "ja": "食品・日用品などを部門別に販売する大型の小売店",
+      "it": "grande punto vendita organizzato in reparti, soprattutto per alimenti e prodotti quotidiani"
+    },
+    {
+      "word": "fiera",
+      "ja": "商品・産業・文化などをテーマとして一定期間開催される大規模な展示・販売会",
+      "it": "manifestazione periodica nella quale vengono esposti o venduti prodotti di uno o più settori"
+    },
+    {
+      "word": "commercio",
+      "ja": "商品・サービスを売買・流通させる経済活動",
+      "it": "attività economica di acquisto, vendita e distribuzione di beni e servizi"
+    }
+  ],
+
+  "synonyms": [
+    "piazza",
+    "commercio",
+    "settore",
+    "domanda",
+    "bazar",
+    "area commerciale"
+  ],
+
+  "equivalents": {
+    "en": [
+      "market",
+      "marketplace",
+      "market sector",
+      "trade"
+    ],
+    "de": [
+      "Markt",
+      "Marktplatz",
+      "Absatzmarkt",
+      "Handel"
+    ],
+    "fr": [
+      "marché",
+      "place du marché",
+      "secteur",
+      "commerce"
+    ],
+    "es": [
+      "mercado",
+      "plaza de mercado",
+      "sector",
+      "comercio"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "andare al mercato",
+      "ja": "市場へ行く"
+    },
+    {
+      "it": "fare la spesa al mercato",
+      "ja": "市場で食料品などを買う"
+    },
+    {
+      "it": "mercato all’aperto",
+      "ja": "青空市場・屋外市場"
+    },
+    {
+      "it": "mercato locale",
+      "ja": "地域市場"
+    },
+    {
+      "it": "mercato internazionale",
+      "ja": "国際市場"
+    },
+    {
+      "it": "mercato del lavoro",
+      "ja": "労働市場"
+    },
+    {
+      "it": "mercato immobiliare",
+      "ja": "不動産市場"
+    },
+    {
+      "it": "mercato finanziario",
+      "ja": "金融市場"
+    },
+    {
+      "it": "quota di mercato",
+      "ja": "市場占有率・マーケットシェア"
+    },
+    {
+      "it": "mettere un prodotto sul mercato",
+      "ja": "製品を市場へ投入する"
+    },
+    {
+      "it": "prezzo di mercato",
+      "ja": "市場価格"
+    },
+    {
+      "it": "mercato nero",
+      "ja": "闇市場・非合法市場"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Ogni sabato compriamo frutta e verdura al mercato.",
+      "ja": "私たちは毎週土曜日に市場で果物と野菜を買います。"
+    },
+    {
+      "it": "Il mercato del quartiere apre molto presto la mattina.",
+      "ja": "近所の市場は朝早く開きます。"
+    },
+    {
+      "it": "L’azienda vuole entrare nel mercato europeo.",
+      "ja": "その会社は欧州市場へ参入しようとしています。"
+    },
+    {
+      "it": "La domanda di abitazioni ha fatto aumentare i prezzi del mercato immobiliare.",
+      "ja": "住宅需要によって不動産市場の価格が上昇しました。"
+    },
+    {
+      "it": "Questo prodotto sarà messo sul mercato il prossimo autunno.",
+      "ja": "この製品は来秋に発売されます。"
+    },
+    {
+      "it": "La società ha aumentato la propria quota di mercato.",
+      "ja": "その会社は市場占有率を高めました。"
+    },
+    {
+      "it": "I giovani incontrano diverse difficoltà nel mercato del lavoro.",
+      "ja": "若者は労働市場でさまざまな困難に直面しています。"
+    },
+    {
+      "it": "La polizia ha scoperto un mercato nero di prodotti contraffatti.",
+      "ja": "警察は模倣品の闇市場を発見しました。"
+    }
+  ]
+},
+{
+  "id": "mercato",
+  "sid": "2026-00479",
+  "word": "mercato",
+  "ipa": "/merˈkato/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "mercati",
+    "pattern": "andare o comprare al mercato / mercato di + prodotto o settore / mercato nazionale o internazionale / entrare, operare o competere nel mercato / mettere o essere sul mercato"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "economic"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "shopping",
+      "daily_life",
+      "business",
+      "economics",
+      "finance",
+      "real_estate",
+      "employment",
+      "sport"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "商人が食品・衣類・日用品などを販売する市場・市",
+      "屋外または屋内に複数の露店・売り場が集まった商業空間",
+      "商品・サービスの売り手と買い手が取引を行う経済的な仕組み",
+      "特定の商品・産業・地域における需要と供給の総体",
+      "企業が商品・サービスを販売する対象地域・顧客層",
+      "株式・債券・通貨などが取引される金融市場",
+      "住宅・土地などが売買・賃貸される不動産市場",
+      "求職者と雇用者の間で労働力が取引される労働市場",
+      "スポーツで選手の獲得・移籍が行われる期間または活動",
+      "非合法・非公式に商品が取引される仕組み"
+    ],
+    "it": [
+      "Luogo nel quale più venditori offrono alimenti, vestiti e altri prodotti.",
+      "Spazio aperto o coperto formato da bancarelle e punti di vendita.",
+      "Sistema economico nel quale venditori e compratori scambiano beni e servizi.",
+      "Insieme della domanda e dell’offerta relative a un prodotto, un settore o un territorio.",
+      "Area geografica o gruppo di clienti ai quali un’impresa offre i propri prodotti.",
+      "Ambito nel quale vengono negoziati titoli, obbligazioni, valute e altri strumenti finanziari.",
+      "Insieme delle compravendite e delle locazioni di case, terreni e altri immobili.",
+      "Sistema nel quale si incontrano domanda e offerta di lavoro.",
+      "Nello sport, periodo e attività relativi all’acquisto, alla vendita o al trasferimento dei giocatori.",
+      "Sistema illegale o non ufficiale di compravendita di determinati beni."
+    ]
+  },
+
+  "nuance": {
+    "ja": "日常語のmercatoは、複数の売り手が集まる市場を指し、andare al mercato「市場へ行く」と言う。negozioは通常、一つの事業者が営業する個別の店舗、supermercatoは食料品などを扱う大規模な小売店である。経済用語ではmercatoは具体的な場所を必要とせず、売り手・買い手・需要・供給から成る取引領域を表す。essere sul mercatoは商品が「市販されている」、mettere sul mercatoは「市場へ投入する」という意味になる。",
+    "it": "Nel linguaggio quotidiano mercato indica un luogo con più venditori e bancarelle: si dice andare al mercato. Negozio è normalmente un singolo esercizio commerciale, mentre supermercato è un grande punto vendita organizzato in reparti. In economia, mercato non richiede un luogo fisico e indica l’insieme degli scambi, della domanda e dell’offerta. Essere sul mercato significa essere disponibile per la vendita; mettere sul mercato significa iniziare a commercializzare un prodotto."
+  },
+
+  "etymology": {
+    "ja": "ラテン語mercatus「取引、市場」に由来し、動詞mercari「商売する、売買する」の派生語である。mercariはmerx、属格mercis「商品、商売の品」と同じ語族に属する。同じ語源からmercante「商人」、merce「商品」、commercio「商業」、mercatoの形容詞mercantileが生まれた。英語market、フランス語marché、スペイン語mercadoも同じラテン語系統に属する。",
+    "it": "Deriva dal latino mercatus, «commercio, mercato», nome formato dal verbo mercari, «commerciare». Mercari appartiene alla famiglia di merx, mercis, «merce». Alla stessa famiglia appartengono mercante, merce, commercio e mercantile. Anche l’inglese market, il francese marché e lo spagnolo mercado risalgono alla medesima base latina."
+  },
+
+  "minimal": [
+    {
+      "word": "mercato",
+      "ja": "複数の売り手が商品を販売する場所、または需要と供給から成る取引の仕組み",
+      "it": "luogo con più venditori oppure sistema economico formato da domanda, offerta e scambi"
+    },
+    {
+      "word": "negozio",
+      "ja": "通常、一つの事業者が商品・サービスを販売する個別の店舗",
+      "it": "singolo esercizio commerciale nel quale un’attività vende beni o servizi"
+    },
+    {
+      "word": "supermercato",
+      "ja": "食品・日用品などを部門別に販売する大型の小売店",
+      "it": "grande punto vendita organizzato in reparti, soprattutto per alimenti e prodotti quotidiani"
+    },
+    {
+      "word": "fiera",
+      "ja": "商品・産業・文化などをテーマとして一定期間開催される大規模な展示・販売会",
+      "it": "manifestazione periodica nella quale vengono esposti o venduti prodotti di uno o più settori"
+    },
+    {
+      "word": "commercio",
+      "ja": "商品・サービスを売買・流通させる経済活動",
+      "it": "attività economica di acquisto, vendita e distribuzione di beni e servizi"
+    }
+  ],
+
+  "synonyms": [
+    "piazza",
+    "commercio",
+    "settore",
+    "domanda",
+    "bazar",
+    "area commerciale"
+  ],
+
+  "equivalents": {
+    "en": [
+      "market",
+      "marketplace",
+      "market sector",
+      "trade"
+    ],
+    "de": [
+      "Markt",
+      "Marktplatz",
+      "Absatzmarkt",
+      "Handel"
+    ],
+    "fr": [
+      "marché",
+      "place du marché",
+      "secteur",
+      "commerce"
+    ],
+    "es": [
+      "mercado",
+      "plaza de mercado",
+      "sector",
+      "comercio"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "andare al mercato",
+      "ja": "市場へ行く"
+    },
+    {
+      "it": "fare la spesa al mercato",
+      "ja": "市場で食料品などを買う"
+    },
+    {
+      "it": "mercato all’aperto",
+      "ja": "青空市場・屋外市場"
+    },
+    {
+      "it": "mercato locale",
+      "ja": "地域市場"
+    },
+    {
+      "it": "mercato internazionale",
+      "ja": "国際市場"
+    },
+    {
+      "it": "mercato del lavoro",
+      "ja": "労働市場"
+    },
+    {
+      "it": "mercato immobiliare",
+      "ja": "不動産市場"
+    },
+    {
+      "it": "mercato finanziario",
+      "ja": "金融市場"
+    },
+    {
+      "it": "quota di mercato",
+      "ja": "市場占有率・マーケットシェア"
+    },
+    {
+      "it": "mettere un prodotto sul mercato",
+      "ja": "製品を市場へ投入する"
+    },
+    {
+      "it": "prezzo di mercato",
+      "ja": "市場価格"
+    },
+    {
+      "it": "mercato nero",
+      "ja": "闇市場・非合法市場"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Ogni sabato compriamo frutta e verdura al mercato.",
+      "ja": "私たちは毎週土曜日に市場で果物と野菜を買います。"
+    },
+    {
+      "it": "Il mercato del quartiere apre molto presto la mattina.",
+      "ja": "近所の市場は朝早く開きます。"
+    },
+    {
+      "it": "L’azienda vuole entrare nel mercato europeo.",
+      "ja": "その会社は欧州市場へ参入しようとしています。"
+    },
+    {
+      "it": "La domanda di abitazioni ha fatto aumentare i prezzi del mercato immobiliare.",
+      "ja": "住宅需要によって不動産市場の価格が上昇しました。"
+    },
+    {
+      "it": "Questo prodotto sarà messo sul mercato il prossimo autunno.",
+      "ja": "この製品は来秋に発売されます。"
+    },
+    {
+      "it": "La società ha aumentato la propria quota di mercato.",
+      "ja": "その会社は市場占有率を高めました。"
+    },
+    {
+      "it": "I giovani incontrano diverse difficoltà nel mercato del lavoro.",
+      "ja": "若者は労働市場でさまざまな困難に直面しています。"
+    },
+    {
+      "it": "La polizia ha scoperto un mercato nero di prodotti contraffatti.",
+      "ja": "警察は模倣品の闇市場を発見しました。"
+    }
+  ]
+},
+{
+  "id": "supermercato",
+  "sid": "2026-00480",
+  "word": "supermercato",
+  "ipa": "/supermerˈkato/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "supermercati",
+    "pattern": "andare o fare la spesa al supermercato / comprare qualcosa al supermercato / supermercato di + quartiere o catena / reparto del supermercato / supermercato aperto fino a + ora"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "shopping",
+      "food",
+      "daily_life",
+      "home",
+      "work",
+      "business",
+      "travel"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "食品・飲料・日用品などを部門別に販売する大型の小売店、スーパーマーケット",
+      "客が商品を自分で選び、通常は集中レジで支払うセルフサービス式の店舗",
+      "生鮮食品・加工食品・家庭用品などを一か所で購入できる商業施設",
+      "特定の企業・小売チェーンによって運営される食料品中心の店舗",
+      "地域住民が日常の買い物に利用する比較的大規模な販売店",
+      "比喩的に、非常に多様な商品・情報・選択肢が集められた場所"
+    ],
+    "it": [
+      "Grande negozio al dettaglio che vende alimenti, bevande e prodotti di uso quotidiano organizzati in reparti.",
+      "Punto vendita a libero servizio nel quale i clienti scelgono direttamente i prodotti e pagano alle casse.",
+      "Struttura commerciale in cui si possono acquistare nello stesso luogo prodotti freschi, confezionati e articoli per la casa.",
+      "Negozio alimentare appartenente spesso a una catena della grande distribuzione.",
+      "Punto vendita di dimensioni medio-grandi utilizzato abitualmente per la spesa quotidiana o settimanale.",
+      "In senso figurato, luogo o sistema che offre una quantità molto ampia e varia di prodotti, informazioni o possibilità."
+    ]
+  },
+
+  "nuance": {
+    "ja": "supermercatoは、食品や日用品をセルフサービス方式で販売する比較的大きな店舗を指す。mercatoは複数の露店・売り手が集まる市場、negozioは個別の店舗を表す。ipermercatoはsupermercatoよりさらに大規模で、衣類・家電など食品以外の商品も広く扱う。discountは品目やサービスを絞って低価格を重視する店舗である。「スーパーへ行く」はandare al supermercato、「スーパーで買う」はcomprare al supermercatoと言う。",
+    "it": "Supermercato indica un punto vendita medio-grande, generalmente a libero servizio, dedicato soprattutto agli alimenti e ai prodotti quotidiani. Mercato riunisce più venditori o bancarelle; negozio è un singolo esercizio commerciale. Ipermercato è più grande e offre un’ampia scelta di prodotti non alimentari. Discount indica un punto vendita orientato principalmente ai prezzi bassi e a un assortimento più selezionato."
+  },
+
+  "etymology": {
+    "ja": "接頭辞super-「上に、超えて、大規模な」とmercato「市場」を組み合わせた20世紀の語である。英語supermarketの影響を受け、従来の個別店舗や市場より大規模で、幅広い商品をセルフサービスで販売する新しい小売形態を表すために定着した。mercatoはラテン語mercatus「取引、市場」に由来する。",
+    "it": "È un composto novecentesco formato da super- e mercato, diffuso sotto l’influenza dell’inglese supermarket. Il termine nacque per indicare una forma di vendita più ampia e organizzata rispetto al tradizionale negozio, caratterizzata dal libero servizio e da un vasto assortimento. Mercato deriva dal latino mercatus, «commercio, mercato»."
+  },
+
+  "minimal": [
+    {
+      "word": "supermercato",
+      "ja": "食品・飲料・日用品などをセルフサービスで販売する比較的大きな小売店",
+      "it": "punto vendita medio-grande a libero servizio, dedicato soprattutto ad alimenti e prodotti quotidiani"
+    },
+    {
+      "word": "mercato",
+      "ja": "複数の売り手・露店が集まって商品を販売する場所、または経済的な取引領域",
+      "it": "luogo con più venditori oppure sistema economico nel quale si incontrano domanda e offerta"
+    },
+    {
+      "word": "negozio",
+      "ja": "一つの事業者が商品・サービスを販売する個別の店舗",
+      "it": "singolo esercizio commerciale nel quale vengono venduti beni o servizi"
+    },
+    {
+      "word": "ipermercato",
+      "ja": "食品に加えて衣類・家電なども幅広く扱う、郊外型の非常に大きな店舗",
+      "it": "punto vendita molto grande che offre alimenti e numerosi prodotti non alimentari"
+    },
+    {
+      "word": "discount",
+      "ja": "品目やサービスを絞り、低価格での販売を重視する店舗",
+      "it": "punto vendita che privilegia prezzi bassi, costi contenuti e un assortimento selezionato"
+    }
+  ],
+
+  "synonyms": [
+    "supermarket",
+    "punto vendita",
+    "grande magazzino alimentare",
+    "negozio alimentare",
+    "esercizio commerciale"
+  ],
+
+  "equivalents": {
+    "en": [
+      "supermarket",
+      "grocery store",
+      "food store"
+    ],
+    "de": [
+      "Supermarkt",
+      "Lebensmittelmarkt",
+      "Verbrauchermarkt"
+    ],
+    "fr": [
+      "supermarché",
+      "magasin d’alimentation",
+      "grande surface"
+    ],
+    "es": [
+      "supermercado",
+      "tienda de alimentación",
+      "autoservicio"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "andare al supermercato",
+      "ja": "スーパーマーケットへ行く"
+    },
+    {
+      "it": "fare la spesa al supermercato",
+      "ja": "スーパーで食料品などを買う"
+    },
+    {
+      "it": "comprare qualcosa al supermercato",
+      "ja": "スーパーで何かを買う"
+    },
+    {
+      "it": "un supermercato vicino a casa",
+      "ja": "自宅近くのスーパー"
+    },
+    {
+      "it": "un supermercato aperto ventiquattr’ore su ventiquattro",
+      "ja": "24時間営業のスーパー"
+    },
+    {
+      "it": "il parcheggio del supermercato",
+      "ja": "スーパーの駐車場"
+    },
+    {
+      "it": "il carrello del supermercato",
+      "ja": "スーパーのショッピングカート"
+    },
+    {
+      "it": "la cassa del supermercato",
+      "ja": "スーパーのレジ"
+    },
+    {
+      "it": "il reparto ortofrutta",
+      "ja": "青果売り場"
+    },
+    {
+      "it": "il banco dei prodotti freschi",
+      "ja": "生鮮食品売り場"
+    },
+    {
+      "it": "una catena di supermercati",
+      "ja": "スーパーマーケットチェーン"
+    },
+    {
+      "it": "un prodotto da supermercato",
+      "ja": "スーパーで一般的に販売される商品"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Devo andare al supermercato a comprare il pane e il latte.",
+      "ja": "パンと牛乳を買いにスーパーへ行かなければなりません。"
+    },
+    {
+      "it": "Facciamo la spesa al supermercato una volta alla settimana.",
+      "ja": "私たちは週に一度スーパーで食料品などを買います。"
+    },
+    {
+      "it": "Il supermercato vicino a casa chiude alle nove.",
+      "ja": "自宅近くのスーパーは9時に閉店します。"
+    },
+    {
+      "it": "La farina si trova nel terzo corridoio del supermercato.",
+      "ja": "小麦粉はスーパーの3番目の通路にあります。"
+    },
+    {
+      "it": "Al reparto ortofrutta ho comprato pomodori, mele e patate.",
+      "ja": "青果売り場でトマト、リンゴ、ジャガイモを買いました。"
+    },
+    {
+      "it": "C’era una lunga fila alla cassa del supermercato.",
+      "ja": "スーパーのレジには長い列ができていました。"
+    },
+    {
+      "it": "Questa catena di supermercati vende molti prodotti locali.",
+      "ja": "このスーパーマーケットチェーンでは地元の商品を数多く販売しています。"
+    },
+    {
+      "it": "Abbiamo lasciato la macchina nel parcheggio del supermercato.",
+      "ja": "私たちはスーパーの駐車場に車を置きました。"
+    }
+  ]
+},
+{
+  "id": "bar",
+  "sid": "2026-00481",
+  "word": "bar",
+  "ipa": "/bar/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞・不変化名詞",
+      "it": "sostantivo maschile invariabile"
+    },
+    "gender": "masculine",
+    "plural": "bar",
+    "invariable": true,
+    "pattern": "il bar / i bar / andare o fermarsi al bar / prendere qualcosa al bar / bar con + servizio / bar di + luogo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "food",
+      "coffee",
+      "daily_life",
+      "social",
+      "travel",
+      "nightlife"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "コーヒー・飲料・菓子・軽食などをカウンターまたはテーブルで提供する飲食店",
+      "朝食や休憩のために立ち寄る、イタリアの日常的なカフェ",
+      "ワイン・ビール・カクテルなどの酒類を提供する店",
+      "駅・空港・ホテル・会社などの内部に設置された飲食コーナー",
+      "飲食物を注文・受け取るカウンター、特に英語の影響を受けた用法",
+      "海岸・プール・施設などに付属する小規模な飲食店",
+      "物理学・工学で圧力を表す単位バール"
+    ],
+    "it": [
+      "Locale pubblico nel quale si servono caffè, bevande, dolci e pasti leggeri al banco o ai tavoli.",
+      "Locale frequentato quotidianamente per la colazione, una pausa o un caffè.",
+      "Esercizio nel quale vengono serviti anche vino, birra, cocktail e altre bevande alcoliche.",
+      "Punto di ristoro situato all’interno di una stazione, un aeroporto, un albergo o un’azienda.",
+      "Banco presso il quale si ordinano e si ricevono le consumazioni, soprattutto per influenza dell’inglese.",
+      "Piccolo locale di ristoro collegato a una spiaggia, una piscina o un’altra struttura.",
+      "Unità di misura della pressione impiegata in ambito tecnico."
+    ]
+  },
+
+  "nuance": {
+    "ja": "イタリアのbarは、酒を飲む夜の店だけではなく、朝に立ったままエスプレッソを飲んだり、cornettoで朝食を取ったりする日常的な店である。そのため英語圏のbarよりも、日本語の「カフェ・喫茶店」に近い場合が多い。caffèまたはcaffetteriaはコーヒーを中心とする店、pubはビールなどを飲みながら長く過ごす店、locale notturnoは夜間の娯楽・飲食店を表す。飲食店としても圧力単位としても複数形は変化せず、i bar、due barとなる。",
+    "it": "In Italia il bar non è soltanto un locale serale dedicato agli alcolici. È soprattutto un esercizio quotidiano nel quale si prende rapidamente un espresso, si fa colazione con un cornetto o si consuma un pasto leggero. Caffetteria mette maggiormente in rilievo il caffè; pub indica un locale nel quale si bevono soprattutto birra e alcolici, spesso restando più a lungo. Bar è invariabile: il bar, i bar, due bar."
+  },
+
+  "etymology": {
+    "ja": "英語barを通じてイタリア語に入った語である。英語barは古フランス語barre「横木、柵、仕切り」に由来し、さらに後期ラテン語barraと関連する。酒場で客と酒瓶・店員を隔てる横長のカウンターがbarと呼ばれ、そこから店全体を表すようになった。圧力単位barはギリシア語barys「重い」をもとに20世紀初頭に作られた別系統の専門語である。",
+    "it": "Nel significato di locale, proviene dall’inglese bar, a sua volta dall’antico francese barre, «sbarra, barriera», collegato al latino tardo barra. La parola indicava inizialmente il banco che separava i clienti dalle bevande e passò poi a designare l’intero esercizio. Il bar come unità di pressione è invece un termine tecnico moderno formato sulla base del greco barýs, «pesante»."
+  },
+
+  "minimal": [
+    {
+      "word": "bar",
+      "ja": "コーヒー・飲料・菓子・軽食などを提供する、イタリアの日常的な飲食店",
+      "it": "locale quotidiano nel quale si servono caffè, bevande, dolci e pasti leggeri"
+    },
+    {
+      "word": "caffetteria",
+      "ja": "コーヒーや温かい飲み物を中心に提供するカフェ・喫茶店",
+      "it": "locale specializzato soprattutto nella preparazione e nel servizio del caffè"
+    },
+    {
+      "word": "pub",
+      "ja": "ビールなどの酒類を中心に提供し、比較的長く滞在する飲食店",
+      "it": "locale informale dedicato soprattutto alla birra e alle bevande alcoliche"
+    },
+    {
+      "word": "ristorante",
+      "ja": "客がテーブルで料理を注文し、食事を取ることを中心とする飲食店",
+      "it": "locale nel quale si servono pasti completi principalmente ai tavoli"
+    },
+    {
+      "word": "pasticceria",
+      "ja": "ケーキ・焼き菓子などを製造・販売し、店内飲食もできることがある店",
+      "it": "negozio o locale specializzato nella produzione e vendita di dolci"
+    }
+  ],
+
+  "synonyms": [
+    "caffè",
+    "caffetteria",
+    "locale",
+    "punto di ristoro",
+    "mescita"
+  ],
+
+  "equivalents": {
+    "en": [
+      "café",
+      "coffee bar",
+      "bar",
+      "snack bar"
+    ],
+    "de": [
+      "Café",
+      "Bar",
+      "Kaffeebar",
+      "Imbiss"
+    ],
+    "fr": [
+      "café",
+      "bar",
+      "buvette"
+    ],
+    "es": [
+      "bar",
+      "cafetería",
+      "café"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "andare al bar",
+      "ja": "バール・カフェへ行く"
+    },
+    {
+      "it": "fermarsi al bar",
+      "ja": "バールに立ち寄る"
+    },
+    {
+      "it": "prendere un caffè al bar",
+      "ja": "バールでコーヒーを飲む"
+    },
+    {
+      "it": "fare colazione al bar",
+      "ja": "バールで朝食を取る"
+    },
+    {
+      "it": "bere qualcosa al bar",
+      "ja": "バールで何かを飲む"
+    },
+    {
+      "it": "incontrarsi al bar",
+      "ja": "バールで待ち合わせる"
+    },
+    {
+      "it": "il bancone del bar",
+      "ja": "バールのカウンター"
+    },
+    {
+      "it": "il proprietario del bar",
+      "ja": "バールの店主"
+    },
+    {
+      "it": "un bar affollato",
+      "ja": "混雑したバール"
+    },
+    {
+      "it": "un bar aperto fino a tardi",
+      "ja": "夜遅くまで営業するバール"
+    },
+    {
+      "it": "il bar della stazione",
+      "ja": "駅構内のバール"
+    },
+    {
+      "it": "bar sulla spiaggia",
+      "ja": "海辺の飲食店・ビーチバー"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Ogni mattina prendo un caffè al bar vicino all’ufficio.",
+      "ja": "毎朝、私は職場近くのバールでコーヒーを飲みます。"
+    },
+    {
+      "it": "Abbiamo fatto colazione al bar con cappuccino e cornetto.",
+      "ja": "私たちはバールでカプチーノとコルネットの朝食を取りました。"
+    },
+    {
+      "it": "Ci incontriamo davanti al bar della stazione alle nove.",
+      "ja": "9時に駅のバールの前で待ち合わせましょう。"
+    },
+    {
+      "it": "Al banco il caffè costa meno che al tavolo.",
+      "ja": "カウンターでは、コーヒーはテーブル席より安くなります。"
+    },
+    {
+      "it": "Questo bar serve anche panini e piatti caldi.",
+      "ja": "このバールではサンドイッチや温かい料理も提供しています。"
+    },
+    {
+      "it": "Dopo il lavoro siamo andati al bar a bere qualcosa.",
+      "ja": "仕事の後、私たちは何か飲むためにバールへ行きました。"
+    },
+    {
+      "it": "Il bar dell’aeroporto è aperto ventiquattr’ore su ventiquattro.",
+      "ja": "空港のバールは24時間営業です。"
+    },
+    {
+      "it": "La pressione degli pneumatici deve essere di circa due bar.",
+      "ja": "タイヤの空気圧は約2バールでなければなりません。"
+    }
+  ]
+},
+{
+  "id": "ristorante",
+  "sid": "2026-00482",
+  "word": "ristorante",
+  "ipa": "/ristoˈrante/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "ristoranti",
+    "pattern": "andare, mangiare o cenare al ristorante / prenotare un tavolo al ristorante / ristorante di + tipo di cucina / ristorante con + caratteristica / aprire o gestire un ristorante"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "food",
+      "conversation",
+      "travel",
+      "tourism",
+      "business",
+      "celebrations",
+      "hospitality"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "客が料理を注文し、主にテーブルで食事を取る飲食店、レストラン",
+      "前菜・第一の皿・第二の皿・デザートなどの食事を提供する店",
+      "特定の国・地域・料理形式に専門化した飲食店",
+      "ホテル・商業施設・駅などの内部に設けられた食事施設",
+      "料理人・給仕係などがサービスを提供する外食施設",
+      "高級料理・創作料理などを提供する格式の高い飲食店",
+      "そのレストランを経営する事業または組織"
+    ],
+    "it": [
+      "Locale pubblico nel quale i clienti ordinano e consumano pasti serviti principalmente ai tavoli.",
+      "Esercizio che offre pasti completi composti, per esempio, da antipasti, primi, secondi e dolci.",
+      "Locale specializzato nella cucina di un paese, di una regione o di una particolare tradizione.",
+      "Struttura per la ristorazione situata all’interno di un albergo, un centro commerciale o una stazione.",
+      "Esercizio nel quale cuochi e personale di sala preparano e servono i pasti.",
+      "Locale elegante o di alto livello dedicato alla cucina raffinata o creativa.",
+      "Attività economica e organizzazione che gestiscono il servizio di ristorazione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "ristoranteは、客がテーブルで料理を注文し、まとまった食事を取る店を表す最も一般的な語である。trattoriaは伝統的に家庭的な郷土料理を比較的気軽に提供する店、osteriaはもともとワインと簡単な料理を出す宿・酒場だったが、現在は洗練された店名にも使われる。barはコーヒー・飲料・軽食を中心とする。イタリアのレストランでは、料理代とは別にcoperto「席料・テーブルサービス料」が加算されることがある。",
+    "it": "Ristorante è il termine generale per un locale nel quale si consumano pasti completi serviti ai tavoli. Trattoria indica tradizionalmente un esercizio più semplice e familiare, spesso dedicato alla cucina locale. Osteria era in origine un luogo che offriva vino e piatti essenziali, ma oggi il nome può essere usato anche da locali raffinati. Bar è orientato soprattutto a caffè, bevande e pasti leggeri. In molti ristoranti italiani il conto può comprendere il coperto."
+  },
+
+  "etymology": {
+    "ja": "フランス語restaurantからイタリア語に入った語である。restaurantはもともと「体力を回復させるもの」を意味し、18世紀のフランスで滋養のあるスープなどを指した。やがて、そのような料理を提供する店そのものを表すようになった。フランス語restaurer「回復させる」はラテン語restaurare「再建する、元に戻す」に由来する。同じ語族にはristorare、ristoro、ristorazioneがある。",
+    "it": "È entrato in italiano dal francese restaurant, che indicava originariamente qualcosa capace di ristorare e restituire le forze, in particolare un brodo nutriente. Nel Settecento il termine passò a designare il locale nel quale tali preparazioni venivano servite. Il francese restaurer deriva dal latino restaurare, «ricostruire, ristabilire». Alla stessa famiglia italiana appartengono ristorare, ristoro e ristorazione."
+  },
+
+  "minimal": [
+    {
+      "word": "ristorante",
+      "ja": "客が料理を注文し、主にテーブルでまとまった食事を取る飲食店",
+      "it": "locale nel quale vengono preparati e serviti pasti completi principalmente ai tavoli"
+    },
+    {
+      "word": "trattoria",
+      "ja": "家庭的な郷土料理を比較的気軽な雰囲気で提供する伝統的な飲食店",
+      "it": "locale tradizionalmente semplice e familiare, spesso specializzato nella cucina locale"
+    },
+    {
+      "word": "osteria",
+      "ja": "もともとはワインと簡単な料理を提供した店で、現在は幅広い形態を持つ飲食店",
+      "it": "locale originariamente dedicato al vino e a piatti semplici, oggi caratterizzato da livelli molto diversi"
+    },
+    {
+      "word": "bar",
+      "ja": "コーヒー・飲料・菓子・軽食などを提供する日常的な飲食店",
+      "it": "locale dedicato soprattutto a caffè, bevande, dolci e pasti leggeri"
+    },
+    {
+      "word": "pizzeria",
+      "ja": "ピザの調理・提供を中心とする飲食店",
+      "it": "locale specializzato principalmente nella preparazione e nel servizio della pizza"
+    }
+  ],
+
+  "synonyms": [
+    "locale",
+    "trattoria",
+    "osteria",
+    "ristorazione",
+    "esercizio di ristorazione"
+  ],
+
+  "equivalents": {
+    "en": [
+      "restaurant",
+      "dining establishment",
+      "eatery"
+    ],
+    "de": [
+      "Restaurant",
+      "Gaststätte",
+      "Speiselokal"
+    ],
+    "fr": [
+      "restaurant",
+      "établissement de restauration",
+      "table"
+    ],
+    "es": [
+      "restaurante",
+      "casa de comidas",
+      "establecimiento de restauración"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "andare al ristorante",
+      "ja": "レストランへ行く"
+    },
+    {
+      "it": "mangiare al ristorante",
+      "ja": "レストランで食事をする"
+    },
+    {
+      "it": "cenare al ristorante",
+      "ja": "レストランで夕食を取る"
+    },
+    {
+      "it": "prenotare un tavolo",
+      "ja": "テーブルを予約する"
+    },
+    {
+      "it": "aprire un ristorante",
+      "ja": "レストランを開業する"
+    },
+    {
+      "it": "gestire un ristorante",
+      "ja": "レストランを経営する"
+    },
+    {
+      "it": "ristorante italiano",
+      "ja": "イタリア料理店"
+    },
+    {
+      "it": "ristorante di pesce",
+      "ja": "魚介料理専門のレストラン"
+    },
+    {
+      "it": "ristorante tipico",
+      "ja": "郷土料理を提供する典型的な店"
+    },
+    {
+      "it": "ristorante stellato",
+      "ja": "星を獲得した高級レストラン"
+    },
+    {
+      "it": "ristorante a conduzione familiare",
+      "ja": "家族経営のレストラン"
+    },
+    {
+      "it": "il conto del ristorante",
+      "ja": "レストランの会計・勘定書"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Stasera ceniamo in un ristorante vicino all’albergo.",
+      "ja": "今夜、私たちはホテル近くのレストランで夕食を取ります。"
+    },
+    {
+      "it": "Vorrei prenotare un tavolo per due persone alle otto.",
+      "ja": "8時に2人用のテーブルを予約したいのですが。"
+    },
+    {
+      "it": "Questo ristorante è famoso per i suoi piatti di pesce.",
+      "ja": "このレストランは魚料理で有名です。"
+    },
+    {
+      "it": "Il ristorante era pieno, quindi abbiamo dovuto aspettare.",
+      "ja": "レストランは満席だったので、私たちは待たなければなりませんでした。"
+    },
+    {
+      "it": "Hanno aperto un piccolo ristorante a conduzione familiare.",
+      "ja": "彼らは小さな家族経営のレストランを開きました。"
+    },
+    {
+      "it": "Nel conto del ristorante era incluso anche il coperto.",
+      "ja": "レストランの勘定には席料も含まれていました。"
+    },
+    {
+      "it": "Il ristorante dell’albergo serve la colazione dalle sette.",
+      "ja": "ホテルのレストランでは7時から朝食を提供しています。"
+    },
+    {
+      "it": "Prima di scegliere un ristorante, abbiamo letto alcune recensioni.",
+      "ja": "レストランを選ぶ前に、私たちはいくつかのレビューを読みました。"
+    }
+  ]
+},
+{
+  "id": "trattoria",
+  "sid": "2026-00483",
+  "word": "trattoria",
+  "ipa": "/trattoˈria/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "trattorie",
+    "pattern": "andare, mangiare o cenare in trattoria / una trattoria di + luogo / trattoria con + caratteristica / aprire o gestire una trattoria / trattoria a conduzione familiare"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "food",
+      "conversation",
+      "travel",
+      "tourism",
+      "family",
+      "local_culture",
+      "hospitality"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "家庭的・伝統的な料理を比較的気軽な雰囲気で提供する飲食店、トラットリア",
+      "地域の食材や郷土料理を中心に提供する小規模な料理店",
+      "家族経営であることの多い、簡素で親しみやすい飲食店",
+      "決まった献立や日替わり料理を提供する庶民的な店",
+      "旅行者よりも地域住民が日常的に利用する伝統的な食堂",
+      "現代では、伝統料理や家庭的な雰囲気を強調するレストランの名称"
+    ],
+    "it": [
+      "Locale che offre piatti tradizionali e casalinghi in un ambiente generalmente semplice e informale.",
+      "Piccolo esercizio di ristorazione dedicato soprattutto alla cucina locale.",
+      "Locale spesso gestito da una famiglia e caratterizzato da un’atmosfera accogliente.",
+      "Esercizio popolare che può proporre un menu limitato o piatti del giorno.",
+      "Luogo frequentato abitualmente dagli abitanti della zona per consumare pasti tradizionali.",
+      "Nell’uso contemporaneo, denominazione scelta da ristoranti che vogliono sottolineare tradizione e familiarità."
+    ]
+  },
+
+  "nuance": {
+    "ja": "trattoriaは伝統的に、ristoranteより小規模で気取らず、郷土料理や家庭料理を比較的手頃な価格で提供する店を指す。osteriaはもともとワインと簡単な料理を出す宿・酒場だったが、両者の境界は現在では明確ではない。現代ではtrattoriaを店名やイメージとして用いる高級店もあるため、名称だけで価格帯や格式を断定することはできない。「トラットリアで食べる」は通常mangiare in trattoriaと言う。",
+    "it": "Tradizionalmente la trattoria è più piccola, informale ed economica del ristorante e propone cucina casalinga o regionale. L’osteria era in origine un locale dedicato soprattutto al vino e a piatti semplici, ma oggi il confine tra osteria e trattoria non è sempre netto. Alcuni locali raffinati scelgono trattoria come denominazione per evocare tradizione e familiarità; il nome non garantisce quindi necessariamente prezzi bassi. Si dice normalmente mangiare in trattoria."
+  },
+
+  "etymology": {
+    "ja": "古いイタリア語のtrattore「客に食事を提供する者、料理店の主人」から派生した語で、trattoreは動詞trattareの特定の用法と関係する。trattareはラテン語tractare「扱う、取り扱う」に由来する。客を迎え、食事を用意してもてなす場所という意味から、家庭的な料理店を表すtrattoriaが成立した。",
+    "it": "Deriva da trattore, termine un tempo usato anche per indicare chi gestiva un locale e forniva pasti agli avventori. Trattore è collegato al verbo trattare, dal latino tractare, «maneggiare, occuparsi di». Dal significato di occuparsi dei clienti e servirli si è sviluppato quello di esercizio dedicato alla preparazione di pasti semplici."
+  },
+
+  "minimal": [
+    {
+      "word": "trattoria",
+      "ja": "郷土料理・家庭料理を気軽な雰囲気で提供する伝統的な飲食店",
+      "it": "locale tradizionalmente semplice e informale, dedicato alla cucina casalinga o regionale"
+    },
+    {
+      "word": "ristorante",
+      "ja": "客が料理を注文し、主にテーブルでまとまった食事を取る一般的なレストラン",
+      "it": "termine generale per un locale nel quale vengono serviti pasti completi ai tavoli"
+    },
+    {
+      "word": "osteria",
+      "ja": "もともとはワインと簡単な料理を提供した店で、現在は多様な形態を持つ飲食店",
+      "it": "locale originariamente dedicato al vino e a piatti semplici, oggi molto variabile per stile e livello"
+    },
+    {
+      "word": "tavola calda",
+      "ja": "調理済みの温かい料理をカウンター形式などで手早く提供する飲食店",
+      "it": "locale che serve rapidamente piatti caldi già pronti o preparati per il servizio"
+    },
+    {
+      "word": "agriturismo",
+      "ja": "農場に滞在し、その土地の料理や農業体験を楽しめる観光施設",
+      "it": "azienda agricola che offre ospitalità e spesso pasti preparati con prodotti locali"
+    }
+  ],
+
+  "synonyms": [
+    "osteria",
+    "ristorante familiare",
+    "locale tipico",
+    "taverna",
+    "casa di cucina"
+  ],
+
+  "equivalents": {
+    "en": [
+      "trattoria",
+      "family restaurant",
+      "traditional eatery",
+      "informal restaurant"
+    ],
+    "de": [
+      "Trattoria",
+      "Speiselokal",
+      "familiengeführtes Restaurant",
+      "Gaststätte"
+    ],
+    "fr": [
+      "trattoria",
+      "restaurant familial",
+      "restaurant traditionnel"
+    ],
+    "es": [
+      "trattoria",
+      "casa de comidas",
+      "restaurante familiar"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "mangiare in trattoria",
+      "ja": "トラットリアで食事をする"
+    },
+    {
+      "it": "cenare in trattoria",
+      "ja": "トラットリアで夕食を取る"
+    },
+    {
+      "it": "andare in trattoria",
+      "ja": "トラットリアへ行く"
+    },
+    {
+      "it": "prenotare un tavolo in trattoria",
+      "ja": "トラットリアの席を予約する"
+    },
+    {
+      "it": "una trattoria tipica",
+      "ja": "典型的な郷土料理店"
+    },
+    {
+      "it": "una trattoria tradizionale",
+      "ja": "伝統的なトラットリア"
+    },
+    {
+      "it": "una trattoria di quartiere",
+      "ja": "地域住民が利用する近所のトラットリア"
+    },
+    {
+      "it": "una trattoria a conduzione familiare",
+      "ja": "家族経営のトラットリア"
+    },
+    {
+      "it": "una piccola trattoria",
+      "ja": "小さなトラットリア"
+    },
+    {
+      "it": "la cucina della trattoria",
+      "ja": "トラットリアの料理"
+    },
+    {
+      "it": "il menu della trattoria",
+      "ja": "トラットリアのメニュー"
+    },
+    {
+      "it": "gestire una trattoria",
+      "ja": "トラットリアを経営する"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Abbiamo pranzato in una piccola trattoria vicino alla piazza.",
+      "ja": "私たちは広場近くの小さなトラットリアで昼食を取りました。"
+    },
+    {
+      "it": "Questa trattoria serve piatti tipici della cucina toscana.",
+      "ja": "このトラットリアではトスカーナ料理の郷土料理を提供しています。"
+    },
+    {
+      "it": "La trattoria è gestita dalla stessa famiglia da tre generazioni.",
+      "ja": "そのトラットリアは3世代にわたって同じ家族が経営しています。"
+    },
+    {
+      "it": "Il menu della trattoria cambia secondo la stagione.",
+      "ja": "そのトラットリアのメニューは季節に応じて変わります。"
+    },
+    {
+      "it": "Ci hanno consigliato una trattoria frequentata soprattutto dagli abitanti del quartiere.",
+      "ja": "主に地域住民が利用するトラットリアを勧められました。"
+    },
+    {
+      "it": "La sala era semplice, ma la cucina era eccellente.",
+      "ja": "店内は簡素でしたが、料理はすばらしいものでした。"
+    },
+    {
+      "it": "Prima di andare in trattoria, abbiamo prenotato un tavolo per quattro.",
+      "ja": "トラットリアへ行く前に、私たちは4人用の席を予約しました。"
+    },
+    {
+      "it": "Non tutte le trattorie sono economiche: alcune offrono una cucina molto raffinata.",
+      "ja": "すべてのトラットリアが安価とは限らず、非常に洗練された料理を提供する店もあります。"
+    }
+  ]
+},
+{
+  "id": "osteria",
+  "sid": "2026-00484",
+  "word": "osteria",
+  "ipa": "/osteˈria/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "osterie",
+    "pattern": "andare, mangiare o bere in osteria / un’osteria di + luogo / osteria con + cucina o servizio / aprire o gestire un’osteria / osteria a conduzione familiare"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "traditional",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "food",
+      "wine",
+      "conversation",
+      "travel",
+      "tourism",
+      "history",
+      "local_culture"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "伝統的にワインなどの酒と簡単な料理を提供した庶民的な店、居酒屋・酒場",
+      "地域の料理と飲み物を気軽な雰囲気で提供する小規模な飲食店",
+      "かつて旅人に食事・飲み物、ときには宿泊場所も提供した施設",
+      "地域住民が集まり、飲食しながら交流する社交の場",
+      "素朴で伝統的な内装や料理を特徴とする店",
+      "現代では、伝統性を強調するレストランまたは高級料理店の名称"
+    ],
+    "it": [
+      "Locale popolare che tradizionalmente serviva soprattutto vino e piatti semplici.",
+      "Piccolo esercizio nel quale si offrono bevande e cucina locale in un ambiente informale.",
+      "In passato, luogo che forniva ai viaggiatori cibo, vino e talvolta alloggio.",
+      "Luogo di incontro nel quale gli abitanti della zona mangiano, bevono e socializzano.",
+      "Locale caratterizzato da arredamento, atmosfera e cucina di tipo rustico o tradizionale.",
+      "Nell’uso contemporaneo, denominazione adottata anche da ristoranti raffinati che richiamano la tradizione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "osteriaはもともと、ワインを中心に簡単な料理を提供し、ときには旅人を泊める店だった。trattoriaは伝統的に食事、特に家庭料理・郷土料理を中心とし、osteriaは飲み物と人々の交流により重点があった。しかし現代では両者の境界は曖昧で、osteriaという名称の高級店や星付き店も存在する。そのため店名だけで料理の水準・価格・格式を判断することはできない。",
+    "it": "L’osteria offriva originariamente soprattutto vino, piatti semplici e talvolta alloggio ai viaggiatori. La trattoria era invece più direttamente orientata ai pasti e alla cucina casalinga. Nell’uso moderno la distinzione è meno netta: esistono osterie popolari, ristoranti raffinati e persino locali stellati che portano questo nome. La denominazione da sola non consente quindi di stabilire livello e prezzo del locale."
+  },
+
+  "etymology": {
+    "ja": "oste「宿屋・酒場の主人」に、場所や営業を表す接尾辞-eriaを加えて形成された。osteはラテン語hospes、属格hospitis「客、旅人を迎える主人」にさかのぼり、ospite「客・もてなす側」、ospedale「病院」、ospitalità「歓待」と同じ語族に属する。語源的には、旅人を迎えて食事や宿を提供する場所を意味した。",
+    "it": "Deriva da oste con il suffisso -eria, che indica il luogo o l’attività. Oste risale al latino hospes, hospitis, parola che indicava sia l’ospite sia chi lo accoglieva. Alla stessa famiglia appartengono ospite, ospitale, ospitalità e ospedale. Etimologicamente, l’osteria era quindi il luogo nel quale l’oste accoglieva e rifocillava i viaggiatori."
+  },
+
+  "minimal": [
+    {
+      "word": "osteria",
+      "ja": "もともとワインと簡単な料理を提供した庶民的な酒場で、現在は伝統料理店にも使われる語",
+      "it": "locale originariamente dedicato al vino e a piatti semplici, oggi usato anche per ristoranti tradizionali o raffinati"
+    },
+    {
+      "word": "trattoria",
+      "ja": "家庭料理・郷土料理を気軽な雰囲気で提供する伝統的な飲食店",
+      "it": "locale tradizionalmente semplice e familiare, dedicato soprattutto alla cucina locale"
+    },
+    {
+      "word": "ristorante",
+      "ja": "客が料理を注文し、主にテーブルでまとまった食事を取る一般的な飲食店",
+      "it": "termine generale per un locale nel quale vengono serviti pasti completi ai tavoli"
+    },
+    {
+      "word": "taverna",
+      "ja": "酒と料理を提供する素朴な店、または地下などにある伝統的な飲食店",
+      "it": "locale rustico, spesso situato in ambienti bassi o sotterranei, nel quale si servono vino e cibo"
+    },
+    {
+      "word": "enoteca",
+      "ja": "多数のワインを販売・試飲・提供することを中心とする専門店",
+      "it": "locale specializzato nella vendita, degustazione e somministrazione di vini"
+    }
+  ],
+
+  "synonyms": [
+    "taverna",
+    "trattoria",
+    "locanda",
+    "mescita",
+    "bettola",
+    "locale tipico"
+  ],
+
+  "equivalents": {
+    "en": [
+      "osteria",
+      "tavern",
+      "wine bar",
+      "traditional inn"
+    ],
+    "de": [
+      "Osteria",
+      "Weinschenke",
+      "Wirtshaus",
+      "Gaststätte"
+    ],
+    "fr": [
+      "osteria",
+      "taverne",
+      "auberge",
+      "bar à vin"
+    ],
+    "es": [
+      "ostería",
+      "taberna",
+      "mesón",
+      "casa de comidas"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "andare in osteria",
+      "ja": "オステリアへ行く"
+    },
+    {
+      "it": "mangiare in osteria",
+      "ja": "オステリアで食事をする"
+    },
+    {
+      "it": "bere vino in osteria",
+      "ja": "オステリアでワインを飲む"
+    },
+    {
+      "it": "aprire un’osteria",
+      "ja": "オステリアを開業する"
+    },
+    {
+      "it": "gestire un’osteria",
+      "ja": "オステリアを経営する"
+    },
+    {
+      "it": "un’osteria tradizionale",
+      "ja": "伝統的なオステリア"
+    },
+    {
+      "it": "un’antica osteria",
+      "ja": "古くからあるオステリア"
+    },
+    {
+      "it": "un’osteria di paese",
+      "ja": "村・地方のオステリア"
+    },
+    {
+      "it": "un’osteria con cucina",
+      "ja": "料理を提供するオステリア"
+    },
+    {
+      "it": "un’osteria a conduzione familiare",
+      "ja": "家族経営のオステリア"
+    },
+    {
+      "it": "l’insegna dell’osteria",
+      "ja": "オステリアの看板"
+    },
+    {
+      "it": "l’atmosfera dell’osteria",
+      "ja": "オステリアの雰囲気"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Abbiamo cenato in un’antica osteria del centro.",
+      "ja": "私たちは旧市街にある老舗のオステリアで夕食を取りました。"
+    },
+    {
+      "it": "L’osteria serve vini locali e pochi piatti tradizionali.",
+      "ja": "そのオステリアでは地元のワインと少数の伝統料理を提供しています。"
+    },
+    {
+      "it": "Un tempo i viaggiatori potevano mangiare e dormire nelle osterie.",
+      "ja": "かつて旅人はオステリアで食事をし、宿泊することもできました。"
+    },
+    {
+      "it": "Gli abitanti del paese si incontravano ogni sera all’osteria.",
+      "ja": "村の住民たちは毎晩オステリアに集まっていました。"
+    },
+    {
+      "it": "L’atmosfera era semplice e accogliente, come in una vecchia osteria.",
+      "ja": "昔のオステリアのように、素朴で居心地のよい雰囲気でした。"
+    },
+    {
+      "it": "Questa osteria è famosa per la pasta fatta in casa.",
+      "ja": "このオステリアは自家製パスタで有名です。"
+    },
+    {
+      "it": "Il nome osteria non significa necessariamente che il locale sia economico.",
+      "ja": "オステリアという名称だからといって、その店が必ず安価であるとは限りません。"
+    },
+    {
+      "it": "Hanno trasformato una vecchia locanda in un’osteria moderna.",
+      "ja": "彼らは古い宿屋を現代的なオステリアへ改装しました。"
+    }
+  ]
 }  
 ]
