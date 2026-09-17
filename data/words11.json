@@ -3742,5 +3742,440 @@
       "ja": "すべての願いがすぐにかなえられるわけではありません。"
     }
   ]
+},
+{
+  "id": "menzogna",
+  "sid": "2026-00467",
+  "word": "menzogna",
+  "ipa": "/menˈdzoɲɲa/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "menzogne",
+    "pattern": "dire, raccontare o inventare una menzogna / credere a una menzogna / scoprire o smascherare una menzogna / vivere nella menzogna / una menzogna su + persona o fatto"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "relationships",
+      "politics",
+      "media",
+      "law",
+      "ethics",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "真実ではないと知りながら、他人に真実として伝える虚偽・うそ",
+      "人を欺くために作られた事実と異なる発言や説明",
+      "真実を隠したり責任を逃れたりするための偽り",
+      "社会・政治・宣伝などで広められる虚偽の主張",
+      "現実とは異なる見せかけ・虚構・偽りの状態",
+      "文学・思想上で、真実と対立する虚偽という抽象的な概念",
+      "menzogna pietosaの形で、相手を傷つけないためにつく善意のうそ"
+    ],
+    "it": [
+      "Affermazione contraria alla verità, pronunciata sapendo che è falsa.",
+      "Racconto o spiegazione inventati con l’intenzione di ingannare qualcuno.",
+      "Falsità impiegata per nascondere un fatto o sottrarsi a una responsabilità.",
+      "Notizia o affermazione falsa diffusa nella società, nella politica o nella propaganda.",
+      "Finzione o apparenza costruita in contrasto con la realtà.",
+      "In filosofia e letteratura, falsità considerata come concetto opposto alla verità.",
+      "Nell’espressione menzogna pietosa, falsità detta con l’intenzione di evitare a qualcuno una sofferenza."
+    ]
+  },
+
+  "nuance": {
+    "ja": "menzognaとbugiaはいずれも「うそ」だが、bugiaは日常会話で最も一般的で、子供の小さなうそにも使える。menzognaはより改まった、重く非難的な響きを持ち、意図的な欺瞞、重大な虚偽、政治的・道徳的な文脈に適する。falsitàは発言が事実に反しているという性質や、人物の不誠実さを表し、ingannoは虚偽を用いて相手をだます行為・策略に重点を置く。",
+    "it": "Menzogna e bugia indicano entrambe qualcosa di falso detto intenzionalmente, ma bugia è la parola più comune nella conversazione quotidiana e può riferirsi anche a una falsità poco grave. Menzogna ha spesso un tono più solenne, severo o moralmente negativo ed è adatta a falsità importanti, sistematiche o pubbliche. Falsità può indicare sia la non verità di un’affermazione sia la mancanza di sincerità; inganno mette invece in rilievo l’azione organizzata per trarre qualcuno in errore."
+  },
+
+  "etymology": {
+    "ja": "俗ラテン語の再建形*mentiōniaまたはこれに近い形に由来し、ラテン語mentīri「うそをつく」と同じ語族に属する。真実ではないことを意図的に述べるという意味を受け継いでいる。同じ語族にはイタリア語mentire「うそをつく」、mentitore「うそつき」、mendace「虚偽の」がある。",
+    "it": "Deriva da una forma del latino volgare ricostruita come *mentionia o *mentiōnia, appartenente alla famiglia del latino mentīri, «mentire». La parola conserva quindi l’idea di un’affermazione consapevolmente contraria alla verità. Alla stessa famiglia appartengono mentire, mentitore e mendace."
+  },
+
+  "minimal": [
+    {
+      "word": "menzogna",
+      "ja": "相手を欺くために、事実ではないと知りながら述べる重大または意図的なうそ",
+      "it": "affermazione consapevolmente falsa, spesso considerata grave o moralmente negativa"
+    },
+    {
+      "word": "bugia",
+      "ja": "日常会話で使われる一般的な「うそ」で、小さな虚偽にも用いられる",
+      "it": "termine quotidiano e generale per una cosa falsa detta intenzionalmente"
+    },
+    {
+      "word": "falsità",
+      "ja": "発言・情報が真実でないこと、または人の不誠実さ",
+      "it": "carattere non vero di un’affermazione oppure mancanza di sincerità"
+    },
+    {
+      "word": "inganno",
+      "ja": "相手に誤った事実を信じさせるための行為・策略",
+      "it": "azione o artificio con cui si induce qualcuno a credere qualcosa di falso"
+    },
+    {
+      "word": "finzione",
+      "ja": "現実には存在しないことを作り上げ、または現実を装うこと",
+      "it": "creazione o rappresentazione di qualcosa che non corrisponde alla realtà"
+    }
+  ],
+
+  "synonyms": [
+    "bugia",
+    "falsità",
+    "fandonia",
+    "invenzione",
+    "mistificazione",
+    "inganno"
+  ],
+
+  "equivalents": {
+    "en": [
+      "lie",
+      "falsehood",
+      "untruth",
+      "deception"
+    ],
+    "de": [
+      "Lüge",
+      "Unwahrheit",
+      "Täuschung"
+    ],
+    "fr": [
+      "mensonge",
+      "fausseté",
+      "tromperie"
+    ],
+    "es": [
+      "mentira",
+      "falsedad",
+      "engaño"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "dire una menzogna",
+      "ja": "うそをつく"
+    },
+    {
+      "it": "raccontare una menzogna",
+      "ja": "作り話・うそを語る"
+    },
+    {
+      "it": "inventare una menzogna",
+      "ja": "うそをでっち上げる"
+    },
+    {
+      "it": "credere a una menzogna",
+      "ja": "うそを信じる"
+    },
+    {
+      "it": "scoprire una menzogna",
+      "ja": "うそを見抜く・発見する"
+    },
+    {
+      "it": "smascherare una menzogna",
+      "ja": "虚偽を暴く"
+    },
+    {
+      "it": "nascondere una menzogna",
+      "ja": "うそを隠す"
+    },
+    {
+      "it": "diffondere una menzogna",
+      "ja": "虚偽を広める"
+    },
+    {
+      "it": "una menzogna evidente",
+      "ja": "明白なうそ"
+    },
+    {
+      "it": "una menzogna ben costruita",
+      "ja": "巧妙に作られたうそ"
+    },
+    {
+      "it": "una menzogna pietosa",
+      "ja": "相手を傷つけないための善意のうそ"
+    },
+    {
+      "it": "vivere nella menzogna",
+      "ja": "偽りの中で生きる"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Mi ha detto una menzogna per nascondere ciò che era successo.",
+      "ja": "彼は起きたことを隠すために私にうそをつきました。"
+    },
+    {
+      "it": "Una piccola bugia può trasformarsi in una grave menzogna.",
+      "ja": "小さなうそが重大な虚偽に発展することがあります。"
+    },
+    {
+      "it": "Il giornalista ha raccolto le prove necessarie per smascherare la menzogna.",
+      "ja": "その記者は虚偽を暴くために必要な証拠を集めました。"
+    },
+    {
+      "it": "Non capisco come abbia potuto credere a una menzogna così evidente.",
+      "ja": "彼がどうしてあれほど明白なうそを信じられたのか分かりません。"
+    },
+    {
+      "it": "La notizia si è rivelata una menzogna costruita per danneggiare l’azienda.",
+      "ja": "そのニュースは会社に損害を与えるために作られた虚偽だと判明しました。"
+    },
+    {
+      "it": "Continuare a vivere nella menzogna gli causava una profonda sofferenza.",
+      "ja": "偽りの中で生き続けることは、彼に深い苦しみを与えていました。"
+    },
+    {
+      "it": "Le menzogne ripetute hanno distrutto la fiducia tra loro.",
+      "ja": "繰り返されたうそが、二人の間の信頼を壊しました。"
+    },
+    {
+      "it": "A volte una menzogna pietosa nasce dal desiderio di proteggere qualcuno.",
+      "ja": "善意のうそは、ときに誰かを守りたいという気持ちから生まれます。"
+    }
+  ]
+},
+{
+  "id": "bugia",
+  "sid": "2026-00468",
+  "word": "bugia",
+  "ipa": "/buˈdʒia/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "bugie",
+    "pattern": "dire o raccontare una bugia a qualcuno / mentire su qualcosa / scoprire una bugia / credere a una bugia / una bugia su + persona o fatto"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "family",
+      "relationships",
+      "education",
+      "work",
+      "media",
+      "ethics"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "真実ではないと知りながら他人に伝えること、うそ",
+      "事実を隠したり責任を逃れたりするための虚偽の発言",
+      "人を驚かせる、安心させる、からかうなどの目的で作った話",
+      "子供が叱られるのを避けるためなどにつく小さなうそ",
+      "情報・説明・約束などに含まれる意図的な虚偽",
+      "bugia biancaまたはbugia a fin di beneの形で、相手を傷つけないための善意のうそ",
+      "別語源の古い用法で、取っ手の付いた背の低いろうそく立て"
+    ],
+    "it": [
+      "Affermazione non vera pronunciata sapendo che è falsa.",
+      "Falsità detta per nascondere un fatto o evitare una responsabilità.",
+      "Racconto inventato per sorprendere, tranquillizzare, prendere in giro o ingannare qualcuno.",
+      "Piccola falsità detta, per esempio, da un bambino per evitare un rimprovero.",
+      "Informazione, spiegazione o promessa intenzionalmente contraria alla realtà.",
+      "Nelle espressioni bugia bianca e bugia a fin di bene, falsità detta per non ferire o per proteggere qualcuno.",
+      "Con diversa origine etimologica, piccolo candeliere basso tradizionalmente dotato di manico."
+    ]
+  },
+
+  "nuance": {
+    "ja": "bugiaは日常会話で「うそ」を表す最も一般的な語である。小さなうそにも重大なうそにも使えるが、menzognaと比べると通常は口語的で重々しさが少ない。menzognaは政治的・道徳的な非難や、意図的・組織的な虚偽を強調する場合に適する。イタリア語では「うそをつく」はdire una bugiaまたはmentireと言い、fare una bugiaとは通常言わない。嘘を信じる対象には前置詞aを使い、credere a una bugiaとなる。",
+    "it": "Bugia è la parola quotidiana più comune per indicare una falsità intenzionale. Può riferirsi sia a una piccola falsità sia a qualcosa di grave, ma ha generalmente un tono meno solenne di menzogna. Menzogna è frequente quando si vuole sottolineare la gravità morale, politica o sistematica della falsità. Si dice dire o raccontare una bugia, non normalmente fare una bugia. Con credere si usa la preposizione a: credere a una bugia."
+  },
+
+  "etymology": {
+    "ja": "「うそ」を意味するbugiaは、古プロヴァンス語bauzia「欺瞞、詐欺」に由来するとされ、さらに古いゲルマン語系の語との関連が考えられている。一方、「背の低いろうそく立て」を意味するbugiaは別語源で、現在のアルジェリアにある都市ブージー、イタリア語名Bugia、現在のBéjaïaに由来する。この都市はかつて蜜ろうの交易で知られていたため、その地名がろうそくやろうそく立てに結び付いた。",
+    "it": "Nel significato di «menzogna», bugia risale generalmente all’antico provenzale bauzia, «inganno, frode», probabilmente collegato a una base germanica. Il significato di «piccolo candeliere» ha invece un’origine distinta: deriva da Bugia, nome italiano della città algerina oggi chiamata Béjaïa, un tempo nota nel commercio della cera. I due significati sono quindi omonimi di diversa origine."
+  },
+
+  "minimal": [
+    {
+      "word": "bugia",
+      "ja": "日常会話で使われる一般的な「うそ」で、小さな虚偽にも用いられる",
+      "it": "affermazione intenzionalmente falsa, espressa con il termine più comune nella lingua quotidiana"
+    },
+    {
+      "word": "menzogna",
+      "ja": "意図的・重大・組織的な虚偽を表しやすい、比較的重く改まった語",
+      "it": "falsità spesso presentata come grave, deliberata o moralmente condannabile"
+    },
+    {
+      "word": "falsità",
+      "ja": "発言や情報が真実に反すること、または人の不誠実さ",
+      "it": "carattere non vero di un’affermazione oppure mancanza di sincerità"
+    },
+    {
+      "word": "inganno",
+      "ja": "相手に誤ったことを信じさせるための行為・策略",
+      "it": "azione o artificio mediante il quale si induce qualcuno in errore"
+    },
+    {
+      "word": "scherzo",
+      "ja": "楽しませたり驚かせたりするための冗談・いたずら",
+      "it": "azione o parola destinata a divertire o sorprendere, senza necessariamente voler ingannare seriamente"
+    }
+  ],
+
+  "synonyms": [
+    "menzogna",
+    "falsità",
+    "fandonia",
+    "invenzione",
+    "balla",
+    "frottola"
+  ],
+
+  "equivalents": {
+    "en": [
+      "lie",
+      "fib",
+      "untruth",
+      "white lie"
+    ],
+    "de": [
+      "Lüge",
+      "Flunkerei",
+      "Notlüge"
+    ],
+    "fr": [
+      "mensonge",
+      "menterie",
+      "mensonge pieux"
+    ],
+    "es": [
+      "mentira",
+      "embuste",
+      "mentira piadosa"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "dire una bugia",
+      "ja": "うそをつく"
+    },
+    {
+      "it": "raccontare una bugia",
+      "ja": "うそを語る"
+    },
+    {
+      "it": "inventare una bugia",
+      "ja": "うそをでっち上げる"
+    },
+    {
+      "it": "credere a una bugia",
+      "ja": "うそを信じる"
+    },
+    {
+      "it": "scoprire una bugia",
+      "ja": "うそを見抜く・発見する"
+    },
+    {
+      "it": "smascherare una bugia",
+      "ja": "うそを暴く"
+    },
+    {
+      "it": "confessare una bugia",
+      "ja": "うそをついたことを白状する"
+    },
+    {
+      "it": "una piccola bugia",
+      "ja": "ちょっとしたうそ"
+    },
+    {
+      "it": "una bugia evidente",
+      "ja": "見え透いたうそ"
+    },
+    {
+      "it": "una bugia bianca",
+      "ja": "害のない小さなうそ"
+    },
+    {
+      "it": "una bugia a fin di bene",
+      "ja": "善意のうそ"
+    },
+    {
+      "it": "avere le gambe corte",
+      "ja": "うそはすぐにばれるということ"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Perché mi hai detto una bugia?",
+      "ja": "どうして私にうそをついたのですか。"
+    },
+    {
+      "it": "Il bambino ha inventato una bugia per evitare il rimprovero.",
+      "ja": "その子供は叱られるのを避けるためにうそをでっち上げました。"
+    },
+    {
+      "it": "Non credo alla sua storia: sembra una bugia.",
+      "ja": "私は彼の話を信じません。うそのように思えます。"
+    },
+    {
+      "it": "Prima o poi tutte le bugie vengono scoperte.",
+      "ja": "遅かれ早かれ、どんなうそも明らかになります。"
+    },
+    {
+      "it": "Gli ho detto una piccola bugia per non rovinargli la sorpresa.",
+      "ja": "彼へのサプライズを台無しにしないために、私はちょっとしたうそをつきました。"
+    },
+    {
+      "it": "Era una bugia a fin di bene, ma avrei preferito conoscere la verità.",
+      "ja": "それは善意のうそでしたが、私は真実を知りたかったです。"
+    },
+    {
+      "it": "Una bugia ne richiede spesso un’altra per essere nascosta.",
+      "ja": "一つのうそを隠すために、さらに別のうそが必要になることはよくあります。"
+    },
+    {
+      "it": "Le bugie hanno le gambe corte.",
+      "ja": "うそは長続きせず、すぐにばれるものです。"
+    }
+  ]
 }
 ]
