@@ -8097,5 +8097,3080 @@
       "ja": "カンティーナはワインを製造し、エノテカは通常、それを選定して販売します。"
     }
   ]
-}
+},
+{
+  "id": "cantina",
+  "sid": "2026-00487",
+  "word": "cantina",
+  "ipa": "/kanˈtina/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "cantine",
+    "pattern": "scendere, conservare o mettere qualcosa in cantina / cantina di + edificio o produttore / cantina con + caratteristica / visitare una cantina / vino prodotto dalla cantina"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "technical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "home",
+      "wine",
+      "food",
+      "storage",
+      "agriculture",
+      "business",
+      "tourism"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "住宅・建物の地下または半地下にある食品・飲料・物品の保管室",
+      "ワインを低温・暗所で保管し熟成させる貯蔵庫、ワインセラー",
+      "ブドウを加工してワインを醸造・熟成・瓶詰めする施設",
+      "ワインを製造・販売する企業・生産者、ワイナリー",
+      "レストラン・ホテルなどが保有するワインの保管場所と在庫",
+      "共同でブドウを加工・販売する生産者組合・協同醸造所",
+      "集合住宅で各住戸に割り当てられる地下収納区画"
+    ],
+    "it": [
+      "Locale sotterraneo o seminterrato utilizzato per conservare alimenti, bevande e altri oggetti.",
+      "Ambiente fresco e buio destinato alla conservazione e all’invecchiamento del vino.",
+      "Struttura nella quale l’uva viene trasformata e il vino viene prodotto, affinato e imbottigliato.",
+      "Azienda o produttore che realizza e commercializza vino.",
+      "Locale e insieme delle bottiglie di vino possedute da un ristorante, un albergo o un privato.",
+      "Cooperativa nella quale più produttori conferiscono l’uva per la produzione e la vendita del vino.",
+      "Spazio di deposito situato nel seminterrato di un condominio e assegnato a un appartamento."
+    ]
+  },
+
+  "nuance": {
+    "ja": "cantinaは家庭では地下の収納室を指し、ワインが置かれているとは限らない。ワインの文脈では、貯蔵庫だけでなく、ワインを製造する施設・会社全体も表す。enotecaは主にワインを選定・販売・試飲提供する店であり、通常は生産施設ではない。vineriaはワインを店内で飲むことを中心とする飲食店である。英語canteenに似ているが、イタリア語で社員食堂・学食はmensaであり、cantinaとは言わない。",
+    "it": "In ambito domestico, cantina indica un locale sotterraneo usato come deposito e non necessariamente destinato al vino. Nel settore vinicolo può indicare sia il luogo di conservazione sia l’azienda produttrice. Un’enoteca seleziona, vende o serve vini, ma normalmente non li produce. Una vineria è orientata soprattutto al consumo sul posto. Nonostante la somiglianza con l’inglese canteen, la mensa scolastica o aziendale non si chiama cantina."
+  },
+
+  "etymology": {
+    "ja": "後期ラテン語cantina「地下室、貯蔵室」に由来する。さらに古い形成過程については確定していないが、涼しい場所に食料や飲料を保管する空間を指す語として中世以降広く使われた。ワインを貯蔵する場所から、ワインを製造する施設・企業そのものを表す意味が発達した。同じ語からcantiniere「貯蔵庫係・ワイン管理者」が派生している。",
+    "it": "Deriva dal latino tardo cantina, «locale sotterraneo, deposito», la cui origine più remota non è del tutto certa. Il termine indicava un ambiente fresco destinato alla conservazione di alimenti e bevande. Dal luogo nel quale veniva custodito il vino si è sviluppato il significato di struttura e azienda che lo producono. Dalla stessa parola deriva cantiniere."
+  },
+
+  "minimal": [
+    {
+      "word": "cantina",
+      "ja": "地下の収納室、ワインの貯蔵庫、またはワインを製造する施設・企業",
+      "it": "locale sotterraneo, deposito per il vino oppure azienda che lo produce"
+    },
+    {
+      "word": "enoteca",
+      "ja": "ワインを専門的に選定し、販売・試飲・提供する店または施設",
+      "it": "negozio o locale specializzato nella selezione, vendita e degustazione del vino"
+    },
+    {
+      "word": "vineria",
+      "ja": "複数のワインをグラスなどで店内提供することを中心とする飲食店",
+      "it": "locale dedicato soprattutto alla mescita e al consumo del vino"
+    },
+    {
+      "word": "taverna",
+      "ja": "素朴な酒場、または住宅の地下・半地下にある団らん用の部屋",
+      "it": "locale rustico che serve vino e cibo oppure ambiente domestico destinato alla convivialità"
+    },
+    {
+      "word": "mensa",
+      "ja": "学校・会社などで多くの人に食事を提供する食堂",
+      "it": "locale nel quale vengono serviti pasti agli studenti, ai dipendenti o ad altre comunità"
+    }
+  ],
+
+  "synonyms": [
+    "cella vinaria",
+    "deposito",
+    "seminterrato",
+    "azienda vinicola",
+    "casa vinicola",
+    "produttore di vino"
+  ],
+
+  "equivalents": {
+    "en": [
+      "cellar",
+      "wine cellar",
+      "winery",
+      "storage room"
+    ],
+    "de": [
+      "Keller",
+      "Weinkeller",
+      "Weingut",
+      "Winzergenossenschaft"
+    ],
+    "fr": [
+      "cave",
+      "cave à vin",
+      "domaine viticole",
+      "chai"
+    ],
+    "es": [
+      "bodega",
+      "cava",
+      "sótano",
+      "empresa vinícola"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "scendere in cantina",
+      "ja": "地下の収納室へ下りる"
+    },
+    {
+      "it": "conservare il vino in cantina",
+      "ja": "ワインを貯蔵庫で保管する"
+    },
+    {
+      "it": "mettere qualcosa in cantina",
+      "ja": "何かを地下収納室に入れる"
+    },
+    {
+      "it": "una cantina fresca e buia",
+      "ja": "涼しく暗い貯蔵庫"
+    },
+    {
+      "it": "una cantina ben fornita",
+      "ja": "ワインを豊富にそろえたセラー"
+    },
+    {
+      "it": "visitare una cantina",
+      "ja": "ワイナリーを見学する"
+    },
+    {
+      "it": "una cantina vinicola",
+      "ja": "ワイン醸造所"
+    },
+    {
+      "it": "una cantina a conduzione familiare",
+      "ja": "家族経営のワイナリー"
+    },
+    {
+      "it": "cantina sociale",
+      "ja": "協同組合方式のワイナリー"
+    },
+    {
+      "it": "la produzione della cantina",
+      "ja": "ワイナリーの生産品・生産活動"
+    },
+    {
+      "it": "degustazione in cantina",
+      "ja": "ワイナリーでの試飲"
+    },
+    {
+      "it": "vino imbottigliato in cantina",
+      "ja": "ワイナリーで瓶詰めされたワイン"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Conserviamo le bottiglie di vino in cantina.",
+      "ja": "私たちはワインのボトルを地下の貯蔵室で保管しています。"
+    },
+    {
+      "it": "Devo scendere in cantina a prendere una sedia.",
+      "ja": "椅子を取りに地下収納室へ下りなければなりません。"
+    },
+    {
+      "it": "Ogni appartamento dispone di una piccola cantina.",
+      "ja": "各住戸には小さな地下収納区画があります。"
+    },
+    {
+      "it": "Durante il viaggio abbiamo visitato una cantina toscana.",
+      "ja": "旅行中、私たちはトスカーナのワイナリーを見学しました。"
+    },
+    {
+      "it": "La cantina produce soprattutto vino rosso.",
+      "ja": "そのワイナリーでは主に赤ワインを生産しています。"
+    },
+    {
+      "it": "Il vino viene lasciato maturare in cantina per diversi anni.",
+      "ja": "そのワインは貯蔵庫で数年間熟成されます。"
+    },
+    {
+      "it": "Il ristorante possiede una cantina con più di mille bottiglie.",
+      "ja": "そのレストランは1,000本を超えるワインを保有するセラーを備えています。"
+    },
+    {
+      "it": "Una cantina produce il vino, mentre un’enoteca normalmente lo seleziona e lo vende.",
+      "ja": "カンティーナはワインを製造し、エノテカは通常、それを選定して販売します。"
+    }
+  ]
+},
+{
+  "id": "vineria",
+  "sid": "2026-00488",
+  "word": "vineria",
+  "ipa": "/vineˈria/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "vinerie",
+    "pattern": "andare, bere o mangiare in vineria / una vineria con + servizio / vineria specializzata in + tipo di vino / aprire o gestire una vineria"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "specialized"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "wine",
+      "food",
+      "social",
+      "nightlife",
+      "travel",
+      "tourism",
+      "tasting"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "複数のワインをグラスまたはボトルで店内提供する飲食店、ワインバー",
+      "ワインを中心に、チーズ・ハム・軽食なども提供する店",
+      "特定の地域・品種・生産者のワインを試飲できる店",
+      "ワインの販売と店内での提供を組み合わせた専門店",
+      "地域住民や旅行者がワインを飲みながら交流する場所",
+      "歴史的・地域的用法で、ワインを販売する店または酒屋"
+    ],
+    "it": [
+      "Locale nel quale si servono diversi vini al bicchiere o in bottiglia.",
+      "Esercizio dedicato soprattutto al vino, accompagnato spesso da formaggi, salumi e piatti leggeri.",
+      "Locale nel quale è possibile degustare vini di determinate regioni, varietà o aziende.",
+      "Negozio specializzato che unisce la vendita delle bottiglie alla somministrazione sul posto.",
+      "Luogo di incontro nel quale abitanti e visitatori bevono vino e socializzano.",
+      "In usi storici o regionali, negozio destinato alla vendita del vino."
+    ]
+  },
+
+  "nuance": {
+    "ja": "vineriaはワインを店内で飲むことに重点を置くため、英語のwine barに近い。enotecaはワインの専門的な選定・販売・試飲を行う場所を広く表し、持ち帰り販売だけの店にも使える。cantinaはワインの貯蔵庫または醸造所、osteriaはワインに加えて伝統料理と庶民的な交流を重視する。実際にはenoteca、vineria、wine barという名称の境界は明確ではなく、店が自らのイメージに応じて選ぶ場合も多い。",
+    "it": "Vineria mette in rilievo soprattutto il consumo del vino sul posto ed è quindi vicina all’inglese wine bar. Enoteca è più ampio e può indicare anche un negozio dedicato esclusivamente alla selezione e alla vendita di bottiglie. Cantina è un deposito o un’azienda produttrice; osteria associa tradizionalmente il vino a cucina semplice e convivialità popolare. Nell’uso commerciale moderno, i confini tra enoteca, vineria e wine bar non sono sempre precisi."
+  },
+
+  "etymology": {
+    "ja": "vino「ワイン」に、店・営業・活動の場所を表す接尾辞-eriaを加えて形成された語である。vinoはラテン語vinum「ワイン」に由来し、さらに古代ギリシア語oînosなどと同じ古い地中海・インド・ヨーロッパ語圏の語族に属する。語源的にvineriaは「ワインを扱う店・場所」を意味する。同じ形成にはbirreria「ビール店」、libreria「書店」、pizzeria「ピザ店」などがある。",
+    "it": "È formata da vino e dal suffisso -eria, che indica un’attività commerciale o il luogo nel quale essa si svolge. Vino deriva dal latino vinum, appartenente a un’antica famiglia lessicale condivisa con il greco oînos e con parole simili di numerose lingue. Etimologicamente, vineria significa quindi «luogo nel quale si vende o si serve vino»."
+  },
+
+  "minimal": [
+    {
+      "word": "vineria",
+      "ja": "複数のワインをグラスなどで店内提供することを中心とするワインバー",
+      "it": "locale dedicato soprattutto alla mescita, alla degustazione e al consumo del vino"
+    },
+    {
+      "word": "enoteca",
+      "ja": "ワインを専門的に選定し、販売・試飲・提供する店または施設",
+      "it": "negozio o locale specializzato nella selezione, vendita e degustazione del vino"
+    },
+    {
+      "word": "cantina",
+      "ja": "ワインを保管する貯蔵庫、またはワインを製造する醸造所・企業",
+      "it": "locale per la conservazione del vino oppure azienda che lo produce"
+    },
+    {
+      "word": "osteria",
+      "ja": "伝統的にワインと簡単な料理を提供してきた庶民的な飲食店",
+      "it": "locale tradizionale dedicato al vino, alla cucina semplice e alla convivialità"
+    },
+    {
+      "word": "bar",
+      "ja": "コーヒー・飲料・酒類・軽食などを幅広く提供する日常的な飲食店",
+      "it": "locale che serve caffè, bevande alcoliche e analcoliche, dolci e pasti leggeri"
+    }
+  ],
+
+  "synonyms": [
+    "wine bar",
+    "enoteca",
+    "mescita",
+    "bar a vini",
+    "negozio di vini"
+  ],
+
+  "equivalents": {
+    "en": [
+      "wine bar",
+      "wine shop",
+      "wine tavern"
+    ],
+    "de": [
+      "Weinbar",
+      "Weinstube",
+      "Weinschenke",
+      "Vinothek"
+    ],
+    "fr": [
+      "bar à vin",
+      "cave à manger",
+      "débit de vin"
+    ],
+    "es": [
+      "bar de vinos",
+      "vinoteca",
+      "taberna de vinos"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "andare in vineria",
+      "ja": "ワインバーへ行く"
+    },
+    {
+      "it": "bere un bicchiere in vineria",
+      "ja": "ワインバーでワインを一杯飲む"
+    },
+    {
+      "it": "degustare vini in vineria",
+      "ja": "ワインバーでワインを試飲する"
+    },
+    {
+      "it": "mangiare in vineria",
+      "ja": "ワインバーで食事をする"
+    },
+    {
+      "it": "aprire una vineria",
+      "ja": "ワインバーを開業する"
+    },
+    {
+      "it": "gestire una vineria",
+      "ja": "ワインバーを経営する"
+    },
+    {
+      "it": "una vineria moderna",
+      "ja": "現代的なワインバー"
+    },
+    {
+      "it": "una piccola vineria",
+      "ja": "小さなワインバー"
+    },
+    {
+      "it": "una vineria con cucina",
+      "ja": "料理も提供するワインバー"
+    },
+    {
+      "it": "la selezione della vineria",
+      "ja": "ワインバーの品ぞろえ"
+    },
+    {
+      "it": "il proprietario della vineria",
+      "ja": "ワインバーの店主"
+    },
+    {
+      "it": "un tagliere della vineria",
+      "ja": "ワインバーで提供されるハム・チーズなどの盛り合わせ"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Dopo il lavoro ci siamo fermati in una vineria.",
+      "ja": "仕事の後、私たちはワインバーに立ち寄りました。"
+    },
+    {
+      "it": "La vineria propone molti vini al bicchiere.",
+      "ja": "そのワインバーでは多くのワインをグラスで提供しています。"
+    },
+    {
+      "it": "Abbiamo ordinato un tagliere di formaggi e salumi.",
+      "ja": "私たちはチーズとハム類の盛り合わせを注文しました。"
+    },
+    {
+      "it": "Questa vineria è specializzata nei vini dell’Italia meridionale.",
+      "ja": "このワインバーは南イタリアのワインを専門にしています。"
+    },
+    {
+      "it": "Il proprietario della vineria ci ha consigliato un vino locale.",
+      "ja": "ワインバーの店主が地元のワインを勧めてくれました。"
+    },
+    {
+      "it": "La vineria vende anche bottiglie da portare a casa.",
+      "ja": "そのワインバーでは持ち帰り用のボトルも販売しています。"
+    },
+    {
+      "it": "La sera la piccola vineria diventa molto affollata.",
+      "ja": "夜になると、その小さなワインバーは大変混雑します。"
+    },
+    {
+      "it": "Un’enoteca può limitarsi alla vendita, mentre una vineria è normalmente orientata al consumo sul posto.",
+      "ja": "エノテカは販売だけを行う場合がありますが、ヴィネリアは通常、店内で飲むことを中心としています。"
+    }
+  ]
+},
+{
+  "id": "vento",
+  "sid": "2026-00489",
+  "word": "vento",
+  "ipa": "/ˈvɛnto/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "venti",
+    "pattern": "c’è, soffia o tira vento / vento da + direzione / vento di + intensità o cambiamento / andare controvento o sottovento / al vento / con il vento"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "literary",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "weather",
+      "nature",
+      "travel",
+      "navigation",
+      "sport",
+      "energy",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "気圧差などによって大気が移動する現象、風",
+      "特定の方向・強さを持って吹く空気の流れ",
+      "航海・飛行・スポーツなどに影響を与える空気の動き",
+      "換気・機械などによって生じる空気の流れ",
+      "風力発電などで利用される自然エネルギー",
+      "比喩的に、社会・政治・文化などに生じる新しい傾向や変化",
+      "人や物を有利または不利な方向へ動かす状況・勢い",
+      "慣用表現で、むなしさ・不安定さ・自由・遠方などを象徴するもの"
+    ],
+    "it": [
+      "Movimento dell’aria nell’atmosfera causato principalmente da differenze di pressione.",
+      "Corrente d’aria caratterizzata da una determinata direzione e intensità.",
+      "Movimento dell’aria che influenza la navigazione, il volo e varie attività sportive.",
+      "Corrente d’aria prodotta dalla ventilazione o da un apparecchio.",
+      "Risorsa naturale utilizzata per la produzione di energia.",
+      "In senso figurato, nuova tendenza o cambiamento nella società, nella politica o nella cultura.",
+      "Circostanza o forza che favorisce oppure ostacola una persona o un’attività.",
+      "Nelle espressioni idiomatiche, simbolo di instabilità, vanità, libertà o lontananza."
+    ]
+  },
+
+  "nuance": {
+    "ja": "ventoは実際に動いている空気を表し、ariaは人が呼吸する空気・大気・雰囲気を広く指す。brezzaは心地よい弱い風、rafficaは短時間に急に強く吹く風、buferaは激しい風を伴う嵐である。「風がある」はC’è vento、「風が吹く」はSoffia il ventoまたはTira ventoと言う。比喩表現avere il vento in poppaは「物事が順調に進む」、gettare al ventoは「努力・機会などをむだにする」を意味する。",
+    "it": "Vento indica aria in movimento, mentre aria è il termine generale per la sostanza che si respira, l’atmosfera o l’ambiente. Brezza è un vento leggero e gradevole; raffica è un aumento improvviso e breve dell’intensità; bufera è una tempesta caratterizzata da vento violento. Si dice C’è vento per descrivere la condizione atmosferica e Il vento soffia o Tira vento per il movimento. Avere il vento in poppa significa attraversare un periodo favorevole."
+  },
+
+  "etymology": {
+    "ja": "ラテン語ventus「風」に由来し、さらにインド・ヨーロッパ祖語の「吹く」を表す古い語根にさかのぼる。英語wind、ドイツ語Windとは遠い同系語である。同じラテン語系統にはventoso「風の強い」、ventilare「風を通す」、ventilatore「扇風機」、ventoから作られたcontrovento「向かい風に」などがある。",
+    "it": "Deriva dal latino ventus, «vento», risalente a un’antica radice indoeuropea con il significato di «soffiare». Sono lontanamente affini l’inglese wind e il tedesco Wind. Alla famiglia italiana appartengono ventoso, ventilare, ventilatore, controvento e sottovento."
+  },
+
+  "minimal": [
+    {
+      "word": "vento",
+      "ja": "気圧差などによって大気中を移動する空気の流れ",
+      "it": "movimento dell’aria nell’atmosfera, caratterizzato da direzione e intensità"
+    },
+    {
+      "word": "aria",
+      "ja": "地球を覆い、人や動物が呼吸する気体、または場所の雰囲気",
+      "it": "miscela di gas che circonda la Terra oppure atmosfera percepita in un luogo"
+    },
+    {
+      "word": "brezza",
+      "ja": "海辺・夕方などに吹く、弱く心地よい風",
+      "it": "vento leggero e generalmente gradevole"
+    },
+    {
+      "word": "raffica",
+      "ja": "突然、短時間だけ強く吹く一陣の風",
+      "it": "aumento improvviso e di breve durata dell’intensità del vento"
+    },
+    {
+      "word": "bufera",
+      "ja": "激しい風を伴い、ときに雨・雪をもたらす荒天・嵐",
+      "it": "tempesta caratterizzata da vento molto forte, talvolta accompagnato da pioggia o neve"
+    }
+  ],
+
+  "synonyms": [
+    "corrente d’aria",
+    "brezza",
+    "soffio",
+    "folata",
+    "raffica"
+  ],
+
+  "equivalents": {
+    "en": [
+      "wind",
+      "air current",
+      "breeze",
+      "trend"
+    ],
+    "de": [
+      "Wind",
+      "Luftzug",
+      "Brise",
+      "Strömung"
+    ],
+    "fr": [
+      "vent",
+      "courant d’air",
+      "brise",
+      "tendance"
+    ],
+    "es": [
+      "viento",
+      "corriente de aire",
+      "brisa",
+      "tendencia"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "c’è vento",
+      "ja": "風がある・風が吹いている"
+    },
+    {
+      "it": "il vento soffia",
+      "ja": "風が吹く"
+    },
+    {
+      "it": "un vento forte",
+      "ja": "強い風"
+    },
+    {
+      "it": "un vento leggero",
+      "ja": "弱い風"
+    },
+    {
+      "it": "una raffica di vento",
+      "ja": "一陣の強風"
+    },
+    {
+      "it": "vento contrario",
+      "ja": "向かい風"
+    },
+    {
+      "it": "vento favorevole",
+      "ja": "追い風・好都合な風"
+    },
+    {
+      "it": "energia del vento",
+      "ja": "風のエネルギー"
+    },
+    {
+      "it": "la rosa dei venti",
+      "ja": "方位図・風配図"
+    },
+    {
+      "it": "avere il vento in poppa",
+      "ja": "順風満帆である"
+    },
+    {
+      "it": "gettare qualcosa al vento",
+      "ja": "努力・機会などをむだにする"
+    },
+    {
+      "it": "un vento di cambiamento",
+      "ja": "変革の風・変化の兆し"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Oggi c’è molto vento.",
+      "ja": "今日は風がとても強いです。"
+    },
+    {
+      "it": "Il vento soffia da nord e porta aria fredda.",
+      "ja": "北から風が吹き、冷たい空気を運んできます。"
+    },
+    {
+      "it": "Una forte raffica di vento ha chiuso la porta.",
+      "ja": "強い一陣の風でドアが閉まりました。"
+    },
+    {
+      "it": "La barca avanzava lentamente controvento.",
+      "ja": "船は向かい風の中をゆっくり進んでいました。"
+    },
+    {
+      "it": "Il vento produce una parte crescente dell’energia del paese.",
+      "ja": "風力は、その国のエネルギーのうち増加しつつある一部を生み出しています。"
+    },
+    {
+      "it": "Dopo anni difficili, l’azienda sembra avere il vento in poppa.",
+      "ja": "困難な年月の後、その会社は順調に進んでいるようです。"
+    },
+    {
+      "it": "Non voglio gettare al vento tutto il lavoro fatto finora.",
+      "ja": "これまで行ってきた仕事をすべてむだにしたくありません。"
+    },
+    {
+      "it": "Nel paese cominciava a soffiare un vento di cambiamento.",
+      "ja": "その国では変革の風が吹き始めていました。"
+    }
+  ]
+},
+{
+  "id": "aria",
+  "sid": "2026-00490",
+  "word": "aria",
+  "ipa": "/ˈarja/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "arie",
+    "pattern": "l’aria / prendere o respirare aria / aria di + luogo o qualità / avere un’aria + aggettivo / aria da + persona o situazione / un’aria di + compositore o opera"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "literary",
+      "musical"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "weather",
+      "health",
+      "home",
+      "emotions",
+      "music",
+      "travel"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "地球を覆い、人間や動物が呼吸する気体、空気",
+      "特定の場所にある空気の状態・質",
+      "屋内に対する屋外・戸外",
+      "ある場所・集団・状況に感じられる雰囲気・気配",
+      "人の顔・態度から受ける印象・表情・様子",
+      "これから何かが起こりそうだと感じさせる兆候",
+      "オペラなどで一人の歌手が歌う独立した旋律的な独唱曲、アリア",
+      "人が見せる気取った態度・尊大な振る舞い",
+      "空調・圧縮など技術的に処理された空気",
+      "慣用表現で、計画の失敗・環境の変更・自由な空間などを表す"
+    ],
+    "it": [
+      "Miscela di gas che circonda la Terra e che uomini e animali respirano.",
+      "Qualità o condizione dell’atmosfera presente in un determinato luogo.",
+      "Spazio esterno contrapposto all’interno di un edificio.",
+      "Atmosfera o impressione percepita in un luogo, in un gruppo o in una situazione.",
+      "Aspetto o espressione che una persona mostra attraverso il viso e il comportamento.",
+      "Segnale o sensazione che fa prevedere un evento o un cambiamento.",
+      "Composizione melodica per voce solista, soprattutto all’interno di un’opera.",
+      "Atteggiamento affettato, presuntuoso o superiore.",
+      "Aria sottoposta a raffreddamento, compressione o altro trattamento tecnico.",
+      "Nelle espressioni idiomatiche, elemento associato al fallimento di un progetto, al cambiamento di ambiente o allo spazio libero."
+    ]
+  },
+
+  "nuance": {
+    "ja": "ariaはその場に存在する空気そのものを表し、ventoは動いている空気、つまり「風」を表す。Ho bisogno d’ariaは「新鮮な空気が必要だ」、C’è ventoは「風が吹いている」となる。avere un’aria stancaは「疲れた様子をしている」、c’è aria di festaは「祝いの雰囲気がある」という意味である。複数形arieは複数のアリア、またはdarsi delle arie「偉そうに振る舞う」のような表現で使われる。",
+    "it": "Aria indica la sostanza presente nell’atmosfera, mentre vento è aria in movimento. Ho bisogno d’aria esprime la necessità di respirare o uscire; C’è vento descrive invece una condizione atmosferica. Avere un’aria stanca significa mostrare un aspetto stanco; c’è aria di festa indica un’atmosfera festosa. Il plurale arie è comune per più composizioni musicali e nell’espressione darsi delle arie."
+  },
+
+  "etymology": {
+    "ja": "ラテン語aer、対格aera「空気、大気」を経て、古代ギリシア語aḗr「空気、霧、下層の空」に由来する。イタリア語では「空気」から、場所の雰囲気、人の外見・態度、さらに歌の旋律という意味が発達した。音楽用語ariaはイタリア語から英語・ドイツ語・フランス語などへ国際的に広まった。同じ語族にはaereo、aerare、aerazioneがある。",
+    "it": "Deriva dal latino aer, accusativo aera, a sua volta dal greco antico aḗr, «aria, atmosfera, nebbia». Dal significato fisico si sono sviluppati quelli di atmosfera, aspetto e modo di presentarsi. Il termine musicale aria si è diffuso dall’italiano in numerose lingue europee. Alla stessa famiglia appartengono aereo, aerare e aerazione."
+  },
+
+  "minimal": [
+    {
+      "word": "aria",
+      "ja": "地球を覆い、人や動物が呼吸する気体、または場所・人から感じられる雰囲気",
+      "it": "miscela di gas che si respira oppure atmosfera e impressione percepite in un luogo o in una persona"
+    },
+    {
+      "word": "vento",
+      "ja": "方向と強さを持って移動している空気の流れ",
+      "it": "aria in movimento, caratterizzata da una determinata direzione e intensità"
+    },
+    {
+      "word": "atmosfera",
+      "ja": "天体を覆う気体の層、または場所・状況から感じられる全体的な雰囲気",
+      "it": "involucro gassoso di un pianeta oppure impressione complessiva prodotta da un ambiente"
+    },
+    {
+      "word": "aspetto",
+      "ja": "人・物が外からどのように見えるかという外見・様子",
+      "it": "modo nel quale una persona o una cosa si presenta alla vista"
+    },
+    {
+      "word": "melodia",
+      "ja": "一定のまとまりと表現を持って連続する音の流れ",
+      "it": "successione organizzata di suoni che forma una linea musicale riconoscibile"
+    }
+  ],
+
+  "synonyms": [
+    "atmosfera",
+    "ambiente",
+    "aspetto",
+    "espressione",
+    "melodia",
+    "atteggiamento"
+  ],
+
+  "equivalents": {
+    "en": [
+      "air",
+      "atmosphere",
+      "appearance",
+      "aria"
+    ],
+    "de": [
+      "Luft",
+      "Atmosphäre",
+      "Aussehen",
+      "Arie"
+    ],
+    "fr": [
+      "air",
+      "atmosphère",
+      "allure",
+      "air d’opéra"
+    ],
+    "es": [
+      "aire",
+      "atmósfera",
+      "aspecto",
+      "aria"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "respirare aria fresca",
+      "ja": "新鮮な空気を吸う"
+    },
+    {
+      "it": "prendere una boccata d’aria",
+      "ja": "外へ出て新鮮な空気を吸う"
+    },
+    {
+      "it": "all’aria aperta",
+      "ja": "屋外で"
+    },
+    {
+      "it": "cambiare aria",
+      "ja": "環境・場所を変えて気分転換する"
+    },
+    {
+      "it": "aria condizionata",
+      "ja": "空調・冷房"
+    },
+    {
+      "it": "aria compressa",
+      "ja": "圧縮空気"
+    },
+    {
+      "it": "avere un’aria stanca",
+      "ja": "疲れた様子をしている"
+    },
+    {
+      "it": "avere l’aria di sapere tutto",
+      "ja": "何でも知っているような顔をする"
+    },
+    {
+      "it": "c’è aria di festa",
+      "ja": "祝いの雰囲気がある"
+    },
+    {
+      "it": "darsi delle arie",
+      "ja": "気取る・偉そうに振る舞う"
+    },
+    {
+      "it": "mandare tutto all’aria",
+      "ja": "計画などをすべて台無しにする"
+    },
+    {
+      "it": "un’aria d’opera",
+      "ja": "オペラのアリア"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Apri la finestra: qui dentro manca l’aria.",
+      "ja": "窓を開けてください。ここは空気がこもっています。"
+    },
+    {
+      "it": "Usciamo a prendere una boccata d’aria.",
+      "ja": "外へ出て少し新鮮な空気を吸いましょう。"
+    },
+    {
+      "it": "In primavera ci piace mangiare all’aria aperta.",
+      "ja": "春には私たちは屋外で食事をするのが好きです。"
+    },
+    {
+      "it": "Hai un’aria stanca: hai dormito bene?",
+      "ja": "疲れた様子ですね。よく眠れましたか。"
+    },
+    {
+      "it": "In città c’era già aria di festa.",
+      "ja": "町にはすでに祝いの雰囲気がありました。"
+    },
+    {
+      "it": "L’aria condizionata del ristorante era troppo forte.",
+      "ja": "レストランの冷房は効きすぎていました。"
+    },
+    {
+      "it": "Un cambiamento improvviso ha mandato all’aria tutti i nostri programmi.",
+      "ja": "突然の変更によって私たちの予定はすべて台無しになりました。"
+    },
+    {
+      "it": "Il soprano ha cantato una celebre aria di Puccini.",
+      "ja": "そのソプラノ歌手はプッチーニの有名なアリアを歌いました。"
+    }
+  ]
+},
+{
+  "id": "brezza",
+  "sid": "2026-00491",
+  "word": "brezza",
+  "ipa": "/ˈbrettsa/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "brezze",
+    "pattern": "soffia o si alza una brezza / una brezza da + direzione / brezza di + luogo, tempo o cambiamento / essere rinfrescato dalla brezza"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "literary",
+      "meteorological"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "weather",
+      "nature",
+      "travel",
+      "sea",
+      "navigation",
+      "literature",
+      "leisure"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "弱く穏やかに吹く風、そよ風",
+      "暑い日に涼しさをもたらす心地よい風",
+      "海岸で海と陸の温度差によって生じる比較的規則的な風",
+      "海から陸へ昼間に吹く海風",
+      "陸から海へ夜間に吹く陸風",
+      "航海・気象上、一定の弱い強さを持つ風",
+      "比喩的に、わずかな変化・新鮮さ・希望をもたらすもの"
+    ],
+    "it": [
+      "Vento leggero e moderato.",
+      "Corrente d’aria piacevole che porta freschezza, soprattutto nelle giornate calde.",
+      "Vento locale abbastanza regolare prodotto dalla differenza di temperatura tra terra e mare.",
+      "Vento che durante il giorno soffia dal mare verso la terra.",
+      "Vento che durante la notte soffia dalla terra verso il mare.",
+      "In meteorologia e navigazione, vento di intensità relativamente debole.",
+      "In senso figurato, lieve segnale di novità, freschezza, speranza o cambiamento."
+    ]
+  },
+
+  "nuance": {
+    "ja": "brezzaは通常、ventoより弱く穏やかで、心地よい風を表す。brezza marinaは昼間に海から陸へ吹く海風、brezza di terraは夜間に陸から海へ吹く陸風である。folataは突然吹く短い風、rafficaは急に強くなる風、refoloは細く短い一吹きの風を表す。文学的にはuna brezza di novitàのように、状況に新鮮さをもたらす小さな変化にも使われる。",
+    "it": "Brezza indica normalmente un vento più debole, regolare e gradevole di un generico vento. La brezza marina soffia di giorno dal mare verso la terra; la brezza di terra soffia normalmente di notte in direzione opposta. Folata indica un soffio improvviso e breve, raffica un aumento improvviso e più intenso, mentre refolo è un piccolo soffio localizzato. Figuratamente, una brezza di novità porta un lieve senso di rinnovamento."
+  },
+
+  "etymology": {
+    "ja": "ロマンス諸語に広く見られる語で、フランス語brise、スペイン語・ポルトガル語brisaなどと関連するが、さらに古い起源については確定していない。航海や海岸の風を表す語として広まり、イタリア語では弱く穏やかな風一般を意味するようになった。英語breezeも同じロマンス語系の語から取り入れられた。",
+    "it": "Appartiene a una famiglia diffusa nelle lingue romanze, alla quale sono collegati il francese brise e lo spagnolo e portoghese brisa. L’origine più remota non è del tutto certa. Il termine si diffuse nel linguaggio marittimo e passò poi a indicare generalmente un vento leggero. Anche l’inglese breeze è stato preso da una forma romanza della stessa famiglia."
+  },
+
+  "minimal": [
+    {
+      "word": "brezza",
+      "ja": "弱く穏やかに吹き、しばしば涼しさをもたらす心地よい風",
+      "it": "vento leggero e generalmente piacevole che può portare freschezza"
+    },
+    {
+      "word": "vento",
+      "ja": "方向と強さを持って移動する空気全般を表す中立的な語",
+      "it": "termine generale per l’aria in movimento, di qualsiasi direzione e intensità"
+    },
+    {
+      "word": "folata",
+      "ja": "突然吹いて短時間で弱まる一吹きの風",
+      "it": "soffio di vento improvviso e di breve durata"
+    },
+    {
+      "word": "raffica",
+      "ja": "短時間に風速が急激に増す、強い一陣の風",
+      "it": "aumento improvviso, breve e spesso violento dell’intensità del vento"
+    },
+    {
+      "word": "refolo",
+      "ja": "限られた範囲を通り抜ける、細く短い一吹きの風",
+      "it": "piccolo soffio d’aria breve e localizzato"
+    }
+  ],
+
+  "synonyms": [
+    "venticello",
+    "soffio",
+    "auretta",
+    "refolo",
+    "vento leggero"
+  ],
+
+  "equivalents": {
+    "en": [
+      "breeze",
+      "light wind",
+      "sea breeze"
+    ],
+    "de": [
+      "Brise",
+      "Lüftchen",
+      "leichter Wind"
+    ],
+    "fr": [
+      "brise",
+      "brise légère",
+      "vent léger"
+    ],
+    "es": [
+      "brisa",
+      "viento suave",
+      "brisa marina"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "soffia una brezza",
+      "ja": "そよ風が吹く"
+    },
+    {
+      "it": "si alza una brezza",
+      "ja": "そよ風が吹き始める"
+    },
+    {
+      "it": "una brezza leggera",
+      "ja": "軽いそよ風"
+    },
+    {
+      "it": "una brezza fresca",
+      "ja": "涼しいそよ風"
+    },
+    {
+      "it": "una brezza piacevole",
+      "ja": "心地よいそよ風"
+    },
+    {
+      "it": "brezza marina",
+      "ja": "海から陸へ吹く海風"
+    },
+    {
+      "it": "brezza di terra",
+      "ja": "陸から海へ吹く陸風"
+    },
+    {
+      "it": "brezza mattutina",
+      "ja": "朝のそよ風"
+    },
+    {
+      "it": "brezza serale",
+      "ja": "夕方のそよ風"
+    },
+    {
+      "it": "rinfrescato dalla brezza",
+      "ja": "そよ風で涼しくなった"
+    },
+    {
+      "it": "sentire la brezza sul viso",
+      "ja": "顔にそよ風を感じる"
+    },
+    {
+      "it": "una brezza di novità",
+      "ja": "新鮮な変化の気配"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Dal mare soffiava una brezza fresca.",
+      "ja": "海から涼しいそよ風が吹いていました。"
+    },
+    {
+      "it": "Una leggera brezza muoveva le tende.",
+      "ja": "軽いそよ風がカーテンを揺らしていました。"
+    },
+    {
+      "it": "Ci siamo seduti sulla terrazza per goderci la brezza serale.",
+      "ja": "私たちは夕方のそよ風を楽しむためにテラスへ座りました。"
+    },
+    {
+      "it": "La brezza marina rendeva più sopportabile il caldo.",
+      "ja": "海風のおかげで暑さが少し過ごしやすくなっていました。"
+    },
+    {
+      "it": "Al tramonto si è alzata una brezza piacevole.",
+      "ja": "日没時に心地よいそよ風が吹き始めました。"
+    },
+    {
+      "it": "Sentiva la brezza sul viso mentre camminava lungo la spiaggia.",
+      "ja": "海岸を歩きながら、彼女は顔にそよ風を感じていました。"
+    },
+    {
+      "it": "Di notte la brezza di terra soffia normalmente verso il mare.",
+      "ja": "夜間には通常、陸風が海へ向かって吹きます。"
+    },
+    {
+      "it": "Le nuove idee hanno portato una brezza di novità nell’azienda.",
+      "ja": "新しい考えが会社に新鮮な変化の気配をもたらしました。"
+    }
+  ]
+},
+{
+  "id": "raffica",
+  "sid": "2026-00492",
+  "word": "raffica",
+  "ipa": "/ˈraffika/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "raffiche",
+    "pattern": "una raffica di + vento, colpi, domande o critiche / soffiare a raffiche / sparare a raffica / colpire qualcuno con una raffica / a raffica"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "meteorological",
+      "military",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "weather",
+      "nature",
+      "navigation",
+      "news",
+      "military",
+      "conversation",
+      "sport"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "短時間に風速が急激に増す強い一陣の風、突風",
+      "間隔を置きながら繰り返し吹く強風の一回",
+      "自動火器などから短時間に連続して発射される弾丸・銃撃",
+      "質問・批判・侮辱などが短時間に次々と発せられること",
+      "拍手・得点・電話・通知などが立て続けに起こること",
+      "a rafficaの形で、休みなく連続して・矢継ぎ早に",
+      "比喩的に、突然かつ集中的に押し寄せる出来事や反応"
+    ],
+    "it": [
+      "Aumento improvviso, breve e intenso della velocità del vento.",
+      "Singolo colpo di vento forte all’interno di una successione discontinua.",
+      "Serie di proiettili sparati rapidamente da un’arma automatica.",
+      "Successione rapida di domande, critiche, offese o altre espressioni verbali.",
+      "Serie ravvicinata di applausi, gol, telefonate, notifiche o altri eventi.",
+      "Nella locuzione a raffica, in successione molto rapida e quasi senza interruzione.",
+      "In senso figurato, insieme improvviso e concentrato di eventi o reazioni."
+    ]
+  },
+
+  "nuance": {
+    "ja": "rafficaは、風速が短時間に急激に強くなる現象を表す。folataも「一陣の風」だが、必ずしも強くなく、風が一時的に吹き抜けることに重点がある。rafficaはより強く、気象情報・航海・航空でも用いられる。銃器についてはuna raffica di mitra「機関銃の一斉射撃」、比喩的にはuna raffica di domande「矢継ぎ早の質問」と言う。副詞句a rafficaは「立て続けに」を意味する。",
+    "it": "Raffica indica un aumento rapido e generalmente intenso del vento. Folata può essere anche più leggera e mette soprattutto in rilievo la breve durata del soffio; raffica suggerisce spesso maggiore forza ed è comune nel linguaggio meteorologico, nautico e aeronautico. In ambito militare indica una serie di colpi automatici. Figuratamente, una raffica di domande è una successione di domande poste senza lasciare tempo per rispondere."
+  },
+
+  "etymology": {
+    "ja": "語源は完全には確定していない。海事・軍事の語彙として比較的新しく広まり、突然激しく起こる風や連続射撃を表すようになったと考えられている。動詞rafficarе「突風が吹く」、形容詞rafficoso「突風を伴う」が同じ語族に属する。風の突発性から、銃弾や言葉などの急速な連続を表す比喩用法が発達した。",
+    "it": "L’origine della parola non è del tutto certa. Il termine si è diffuso soprattutto nel linguaggio marittimo e militare per indicare prima un colpo di vento violento e poi una serie rapida di colpi d’arma da fuoco. Dall’idea di una manifestazione improvvisa e concentrata si sono sviluppati gli usi figurati. Alla stessa famiglia appartengono rafficare e rafficoso."
+  },
+
+  "minimal": [
+    {
+      "word": "raffica",
+      "ja": "風速が短時間に急激に増す強い突風、または物事の急速な連続",
+      "it": "aumento improvviso e intenso del vento oppure rapida successione di colpi o eventi"
+    },
+    {
+      "word": "folata",
+      "ja": "突然吹いて短時間で弱まる一吹きの風で、必ずしも強くない",
+      "it": "soffio di vento improvviso e breve, non necessariamente molto intenso"
+    },
+    {
+      "word": "brezza",
+      "ja": "弱く穏やかに吹き、通常は心地よく感じられる風",
+      "it": "vento leggero, regolare e generalmente piacevole"
+    },
+    {
+      "word": "vento",
+      "ja": "方向と強さを持って移動する空気全般を表す一般語",
+      "it": "termine generale per l’aria in movimento, di qualsiasi intensità"
+    },
+    {
+      "word": "bufera",
+      "ja": "激しい風を伴い、ときに雨・雪ももたらす荒天・嵐",
+      "it": "tempesta caratterizzata da vento violento, spesso accompagnato da pioggia o neve"
+    }
+  ],
+
+  "synonyms": [
+    "folata",
+    "colpo di vento",
+    "scarica",
+    "salva",
+    "serie",
+    "successione"
+  ],
+
+  "equivalents": {
+    "en": [
+      "gust",
+      "burst",
+      "burst of fire",
+      "barrage"
+    ],
+    "de": [
+      "Windböe",
+      "Böe",
+      "Feuerstoß",
+      "Salve"
+    ],
+    "fr": [
+      "rafale",
+      "bourrasque",
+      "rafale de tirs",
+      "salve"
+    ],
+    "es": [
+      "ráfaga",
+      "racha",
+      "ráfaga de disparos",
+      "andanada"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "una raffica di vento",
+      "ja": "一陣の強風・突風"
+    },
+    {
+      "it": "forti raffiche",
+      "ja": "強い突風"
+    },
+    {
+      "it": "raffiche improvvise",
+      "ja": "突然の突風"
+    },
+    {
+      "it": "il vento soffia a raffiche",
+      "ja": "風が断続的に強く吹く"
+    },
+    {
+      "it": "essere colpito da una raffica",
+      "ja": "突風・一斉射撃を受ける"
+    },
+    {
+      "it": "una raffica di mitra",
+      "ja": "機関銃の一斉射撃"
+    },
+    {
+      "it": "sparare a raffica",
+      "ja": "連続して発砲する"
+    },
+    {
+      "it": "una raffica di domande",
+      "ja": "矢継ぎ早の質問"
+    },
+    {
+      "it": "una raffica di critiche",
+      "ja": "相次ぐ激しい批判"
+    },
+    {
+      "it": "una raffica di applausi",
+      "ja": "立て続けに起こる拍手"
+    },
+    {
+      "it": "una raffica di gol",
+      "ja": "短時間に相次ぐ得点"
+    },
+    {
+      "it": "ricevere messaggi a raffica",
+      "ja": "メッセージを立て続けに受け取る"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Una forte raffica di vento ha rovesciato alcune sedie.",
+      "ja": "強い突風が何脚かの椅子を倒しました。"
+    },
+    {
+      "it": "Il vento soffiava a raffiche lungo la costa.",
+      "ja": "海岸沿いでは風が断続的に強く吹いていました。"
+    },
+    {
+      "it": "Sono previste raffiche superiori agli ottanta chilometri orari.",
+      "ja": "時速80キロを超える突風が予想されています。"
+    },
+    {
+      "it": "Una raffica improvvisa ha reso difficile controllare la barca.",
+      "ja": "突然の突風によって船の操縦が困難になりました。"
+    },
+    {
+      "it": "Nella notte abbiamo sentito una raffica di colpi.",
+      "ja": "夜中に私たちは連続する銃声を聞きました。"
+    },
+    {
+      "it": "I giornalisti gli hanno rivolto una raffica di domande.",
+      "ja": "記者たちは彼に矢継ぎ早に質問を浴びせました。"
+    },
+    {
+      "it": "Dopo l’annuncio il governo ha ricevuto una raffica di critiche.",
+      "ja": "発表後、政府には批判が相次ぎました。"
+    },
+    {
+      "it": "Appena ho acceso il telefono, ho ricevuto notifiche a raffica.",
+      "ja": "電話の電源を入れるとすぐに、通知が立て続けに届きました。"
+    }
+  ]
+},
+{
+  "id": "folata",
+  "sid": "2026-00493",
+  "word": "folata",
+  "ipa": "/foˈlata/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "folate",
+    "pattern": "una folata di + vento, aria, freddo, fumo o profumo / essere investito da una folata / entrare con una folata / arrivare a folate"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "literary",
+      "figurative"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "weather",
+      "nature",
+      "home",
+      "travel",
+      "smell",
+      "emotions",
+      "narration"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "突然吹き、短時間で弱まる一吹きの風",
+      "開いた窓・扉などから一時的に流れ込む空気",
+      "風とともに運ばれてくる冷気・暖気",
+      "一時的に押し寄せる煙・匂い・香り",
+      "短い間だけ急に強く感じられる感情・記憶・活力",
+      "断続的に繰り返し到来する風や空気の流れ",
+      "比喩的に、状況へ突然入り込む新鮮さ・不安・熱意など"
+    ],
+    "it": [
+      "Soffio di vento improvviso e di breve durata.",
+      "Corrente d’aria che entra temporaneamente attraverso una porta o una finestra.",
+      "Massa di aria fredda o calda trasportata per un breve momento dal vento.",
+      "Quantità di fumo, odore o profumo portata improvvisamente dall’aria.",
+      "Manifestazione improvvisa e breve di un’emozione, un ricordo o un’energia.",
+      "Corrente d’aria che si presenta in modo discontinuo e ripetuto.",
+      "In senso figurato, improvvisa sensazione di freschezza, inquietudine o entusiasmo."
+    ]
+  },
+
+  "nuance": {
+    "ja": "folataは突然現れて短時間で消える風に重点を置き、必ずしも非常に強いとは限らない。rafficaは通常、風速が急激に増す強い突風で、気象・航海・航空などの技術的文脈にも適する。refoloはfolataよりさらに細く弱い、限られた場所を通る一吹きの風である。folataはuna folata di profumo「一筋の香り」のように、風が運ぶ冷気・煙・匂いにも自然に使える。",
+    "it": "Folata mette in rilievo l’arrivo improvviso e la breve durata di un soffio d’aria, senza implicare necessariamente una grande intensità. Raffica indica generalmente un aumento più forte della velocità del vento ed è comune anche nel linguaggio meteorologico e nautico. Refolo è ancora più debole e localizzato. Folata si combina naturalmente anche con freddo, fumo, odore e profumo, elementi trasportati per un momento dall’aria."
+  },
+
+  "etymology": {
+    "ja": "動詞folare「風が吹く」に、動作・一回の出来事を表す接尾辞-ataを加えて形成された語と考えられている。folareは、空気を送り出す道具を表したラテン語follis「ふいご、空気を入れた袋」と関連付けられる。語源的には、ふいごから押し出される空気のような一吹きを表す。同じラテン語follisからsoffiareとの意味的関連を持つ語も発達した。",
+    "it": "È generalmente considerata una formazione da folare, «soffiare», con il suffisso -ata, che può indicare una singola manifestazione di un’azione. Folare viene tradizionalmente collegato al latino follis, «mantice, sacco pieno d’aria». L’immagine originaria sarebbe quindi quella di una quantità d’aria spinta fuori improvvisamente, come da un mantice."
+  },
+
+  "minimal": [
+    {
+      "word": "folata",
+      "ja": "突然吹き始め、短時間で通り過ぎる一吹きの風",
+      "it": "soffio di vento improvviso e breve, non necessariamente molto intenso"
+    },
+    {
+      "word": "raffica",
+      "ja": "風速が短時間に急激に増す、比較的強い突風",
+      "it": "aumento improvviso, breve e generalmente intenso della velocità del vento"
+    },
+    {
+      "word": "brezza",
+      "ja": "弱く穏やかに吹き、通常は心地よく感じられる風",
+      "it": "vento leggero, regolare e generalmente piacevole"
+    },
+    {
+      "word": "refolo",
+      "ja": "限られた場所を通り抜ける、細く弱い一吹きの風",
+      "it": "piccolo soffio d’aria debole, breve e localizzato"
+    },
+    {
+      "word": "corrente d’aria",
+      "ja": "窓・扉・通路などを通って継続的に流れる空気",
+      "it": "movimento d’aria relativamente continuo tra ambienti o aperture"
+    }
+  ],
+
+  "synonyms": [
+    "soffio",
+    "colpo di vento",
+    "refolo",
+    "raffica",
+    "ventata"
+  ],
+
+  "equivalents": {
+    "en": [
+      "gust",
+      "puff",
+      "waft",
+      "blast"
+    ],
+    "de": [
+      "Windstoß",
+      "Luftstoß",
+      "Hauch",
+      "Schwall"
+    ],
+    "fr": [
+      "coup de vent",
+      "bouffée",
+      "souffle",
+      "rafale"
+    ],
+    "es": [
+      "ráfaga",
+      "soplo",
+      "bocanada",
+      "golpe de viento"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "una folata di vento",
+      "ja": "一吹きの風"
+    },
+    {
+      "it": "una folata d’aria",
+      "ja": "一時的に流れ込む空気"
+    },
+    {
+      "it": "una folata improvvisa",
+      "ja": "突然の一吹き"
+    },
+    {
+      "it": "una folata fredda",
+      "ja": "冷たい一吹き"
+    },
+    {
+      "it": "una folata di aria calda",
+      "ja": "一時的に流れ込む暖気"
+    },
+    {
+      "it": "una folata di freddo",
+      "ja": "急に流れ込む冷気"
+    },
+    {
+      "it": "una folata di fumo",
+      "ja": "風に乗って流れてくる煙"
+    },
+    {
+      "it": "una folata di profumo",
+      "ja": "一筋の香り"
+    },
+    {
+      "it": "essere investito da una folata",
+      "ja": "突風・空気の一吹きを受ける"
+    },
+    {
+      "it": "la porta si apre con una folata",
+      "ja": "風の一吹きで扉が開く"
+    },
+    {
+      "it": "il vento arriva a folate",
+      "ja": "風が断続的に吹いてくる"
+    },
+    {
+      "it": "una folata di entusiasmo",
+      "ja": "突然湧き上がる一時的な熱意"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Una folata di vento ha fatto cadere i fogli dal tavolo.",
+      "ja": "一吹きの風で書類がテーブルから落ちました。"
+    },
+    {
+      "it": "Quando ha aperto la porta, è entrata una folata d’aria fredda.",
+      "ja": "彼がドアを開けると、冷たい空気がさっと流れ込みました。"
+    },
+    {
+      "it": "Una folata improvvisa ha spento la candela.",
+      "ja": "突然の一吹きがろうそくの火を消しました。"
+    },
+    {
+      "it": "Dalla cucina arrivò una folata di profumo.",
+      "ja": "台所からよい香りがさっと流れてきました。"
+    },
+    {
+      "it": "Una folata di fumo ci ha costretti a chiudere la finestra.",
+      "ja": "煙が一時的に流れ込んできたため、私たちは窓を閉めなければなりませんでした。"
+    },
+    {
+      "it": "Il vento arrivava a folate, alternandosi a momenti di calma.",
+      "ja": "風は断続的に吹き、静かな時間と交互に訪れていました。"
+    },
+    {
+      "it": "Fu investito da una folata di aria calda appena uscì dall’edificio.",
+      "ja": "建物を出た途端、彼は熱い空気の一吹きを受けました。"
+    },
+    {
+      "it": "La notizia provocò una breve folata di entusiasmo nell’ufficio.",
+      "ja": "その知らせによって、職場には一時的に熱意が湧き上がりました。"
+    }
+  ]
+},
+{
+  "id": "refolo",
+  "sid": "2026-00494",
+  "word": "refolo",
+  "ipa": "/ˈrɛfolo/",
+  "level": "B2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "男性名詞",
+      "it": "sostantivo maschile"
+    },
+    "gender": "masculine",
+    "plural": "refoli",
+    "pattern": "un refolo di + vento, aria, freddo o profumo / entrare o passare come un refolo / sentire un refolo / essere sfiorato da un refolo"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "literary",
+      "regional"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "weather",
+      "nature",
+      "home",
+      "narration",
+      "smell",
+      "emotions",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "細く弱く、短時間だけ吹く一筋の風",
+      "窓・扉・隙間などを通り抜けるわずかな空気の流れ",
+      "皮膚に一瞬だけ感じられる冷気・涼気",
+      "風に乗って短時間だけ漂ってくる匂い・香り",
+      "比喩的に、心に一瞬生じる恐怖・希望・記憶などの感情",
+      "状況にわずかな変化や新鮮さを与える兆し",
+      "声・音・光などが細く一瞬だけ届く様子を表す文学的用法"
+    ],
+    "it": [
+      "Piccolo soffio di vento debole e di breve durata.",
+      "Lieve corrente d’aria che passa attraverso una porta, una finestra o una fessura.",
+      "Soffio fresco o freddo percepito per un momento sulla pelle.",
+      "Piccola quantità di odore o profumo trasportata dall’aria.",
+      "In senso figurato, sentimento di paura, speranza o ricordo avvertito improvvisamente e per poco tempo.",
+      "Lieve segnale di cambiamento o freschezza introdotto in una situazione.",
+      "In uso letterario, presenza sottile e momentanea di una voce, un suono o una luce."
+    ]
+  },
+
+  "nuance": {
+    "ja": "refoloはfolataよりも弱く、細く、限られた範囲で感じられる一吹きを表す。folataは窓や扉から流れ込む、よりはっきりした短い風、rafficaは風速が急激に増す強い突風である。spifferoは閉じた窓・扉などの隙間から入り続ける不快な隙間風を指すことが多い。refoloは文学的描写にも適し、un refolo di speranzaのように、かすかな感情や変化の兆しを表せる。",
+    "it": "Refolo indica un soffio più debole, sottile e localizzato di una folata. Folata è un colpo d’aria breve ma più chiaramente percepibile; raffica è generalmente più intensa. Spiffero indica spesso una corrente fastidiosa e relativamente continua che entra attraverso una fessura. Refolo è frequente anche nella descrizione letteraria e in espressioni figurate come un refolo di speranza."
+  },
+
+  "etymology": {
+    "ja": "北イタリア、特にヴェネト地方の語形を通じて標準イタリア語に入ったと考えられている。語源は完全には確定していないが、folare「風が吹く」およびfolata「一吹きの風」と関連付けられる。これらはラテン語follis「ふいご、空気を入れた袋」にさかのぼる可能性がある。もともとは局地的に吹く小さな風を表した。",
+    "it": "È generalmente considerato un termine entrato nell’italiano attraverso varietà settentrionali, in particolare venete. L’origine più remota non è del tutto certa, ma viene collegato a folare e folata, termini relativi al soffiare del vento, probabilmente appartenenti alla famiglia del latino follis, «mantice, sacco pieno d’aria». Indicava originariamente un piccolo soffio locale."
+  },
+
+  "minimal": [
+    {
+      "word": "refolo",
+      "ja": "限られた場所を通り抜け、一瞬だけ感じられる細く弱い風",
+      "it": "piccolo soffio d’aria debole, breve e localizzato"
+    },
+    {
+      "word": "folata",
+      "ja": "突然吹いて短時間で通り過ぎる、比較的はっきりした一吹きの風",
+      "it": "soffio di vento improvviso e breve, generalmente più percepibile di un refolo"
+    },
+    {
+      "word": "raffica",
+      "ja": "風速が短時間に急激に増す、比較的強い突風",
+      "it": "aumento improvviso, breve e intenso della velocità del vento"
+    },
+    {
+      "word": "brezza",
+      "ja": "弱く穏やかに継続して吹き、通常は心地よく感じられる風",
+      "it": "vento leggero, abbastanza regolare e generalmente piacevole"
+    },
+    {
+      "word": "spiffero",
+      "ja": "窓・扉・壁などの隙間から入り込む、通常は不快な隙間風",
+      "it": "corrente d’aria fastidiosa che passa attraverso una fessura o una chiusura imperfetta"
+    }
+  ],
+
+  "synonyms": [
+    "soffio",
+    "venticello",
+    "auretta",
+    "filo d’aria",
+    "folata leggera"
+  ],
+
+  "equivalents": {
+    "en": [
+      "puff of air",
+      "light gust",
+      "breath of wind",
+      "waft"
+    ],
+    "de": [
+      "Lufthauch",
+      "Luftzug",
+      "leichter Windstoß"
+    ],
+    "fr": [
+      "souffle d’air",
+      "léger courant d’air",
+      "petite bouffée"
+    ],
+    "es": [
+      "soplo de aire",
+      "leve corriente",
+      "ráfaga suave"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "un refolo di vento",
+      "ja": "一筋の弱い風"
+    },
+    {
+      "it": "un refolo d’aria",
+      "ja": "わずかな空気の流れ"
+    },
+    {
+      "it": "un refolo fresco",
+      "ja": "一筋の涼風"
+    },
+    {
+      "it": "un refolo freddo",
+      "ja": "一筋の冷気"
+    },
+    {
+      "it": "sentire un refolo",
+      "ja": "わずかな風を感じる"
+    },
+    {
+      "it": "essere sfiorato da un refolo",
+      "ja": "一筋の風にそっと触れられる"
+    },
+    {
+      "it": "un refolo dalla finestra",
+      "ja": "窓から入る一筋の風"
+    },
+    {
+      "it": "un refolo di profumo",
+      "ja": "一筋の香り"
+    },
+    {
+      "it": "un refolo di fumo",
+      "ja": "細く流れてくる煙"
+    },
+    {
+      "it": "un refolo di paura",
+      "ja": "一瞬よぎる恐怖"
+    },
+    {
+      "it": "un refolo di speranza",
+      "ja": "かすかな希望"
+    },
+    {
+      "it": "un refolo di novità",
+      "ja": "わずかな新鮮さ・変化の兆し"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Dalla finestra aperta entrava un refolo d’aria fresca.",
+      "ja": "開いた窓から一筋の涼しい空気が入ってきました。"
+    },
+    {
+      "it": "Un refolo di vento fece muovere appena la tenda.",
+      "ja": "わずかな風がカーテンをほんの少し動かしました。"
+    },
+    {
+      "it": "Sentì un refolo freddo sulla nuca.",
+      "ja": "彼女はうなじに一筋の冷気を感じました。"
+    },
+    {
+      "it": "Un refolo di profumo arrivò dal giardino.",
+      "ja": "庭から一筋の香りが漂ってきました。"
+    },
+    {
+      "it": "La candela tremò per un leggero refolo d’aria.",
+      "ja": "わずかな空気の流れで、ろうそくの炎が揺れました。"
+    },
+    {
+      "it": "Quando udì quel rumore, provò un refolo di paura.",
+      "ja": "その音を聞いたとき、彼は一瞬恐怖を感じました。"
+    },
+    {
+      "it": "La notizia accese in lui un refolo di speranza.",
+      "ja": "その知らせは彼の心にかすかな希望をともしました。"
+    },
+    {
+      "it": "Le nuove idee hanno portato un refolo di novità in un ambiente molto tradizionale.",
+      "ja": "新しい考えが、非常に伝統的な環境へわずかな新鮮さをもたらしました。"
+    }
+  ]
+},
+{
+  "id": "perche",
+  "sid": "2026-00495",
+  "word": "perché",
+  "ipa": "/perˈke/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "conjunction",
+    "label": {
+      "ja": "疑問副詞・接続詞・男性名詞的用法",
+      "it": "avverbio interrogativo, congiunzione e uso sostantivato maschile"
+    },
+    "invariable": true,
+    "pattern": "perché + domanda? / verbo + perché + frase / perché + indicativo per la causa / perché + congiuntivo per lo scopo / il perché / ecco perché"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "questions",
+      "explanation",
+      "argumentation",
+      "education",
+      "work",
+      "writing"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "理由・原因を直接尋ねる「なぜ・どうして」",
+      "間接疑問文で、ある事柄の理由が何であるかを示す「なぜ～なのか」",
+      "行動・出来事の理由を説明する「なぜなら・～だから」",
+      "判断・発言などの根拠を示す「～ので・～ため」",
+      "接続法を伴い、行為の目的を表す「～するように・～するために」",
+      "名詞的に、出来事の理由・原因「理由・わけ」",
+      "ecco perchéの形で、前述の事情から生じる結論「だから・そういうわけで」",
+      "非難・驚き・不満などを込めて理由を問いただす表現"
+    ],
+    "it": [
+      "Introduce una domanda diretta sulla causa o sul motivo di qualcosa.",
+      "Introduce una domanda indiretta relativa alla ragione di un fatto.",
+      "Come congiunzione causale, presenta il motivo di un’azione o di un evento.",
+      "Introduce la giustificazione di un giudizio, una decisione o un’affermazione.",
+      "Con il congiuntivo, può introdurre lo scopo per il quale viene compiuta un’azione.",
+      "Come sostantivo, indica la causa, la ragione o la spiegazione di qualcosa.",
+      "Nell’espressione ecco perché, introduce una conclusione derivata da quanto precede.",
+      "Può esprimere sorpresa, protesta o richiesta insistente di una spiegazione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "perchéは疑問の「なぜ」と答えの「なぜなら」の両方に使われる。Perché sei qui?は理由を尋ね、Sono qui perché devo parlartiは理由を説明する。原因を表すperchéは通常直説法を伴う。目的を表す場合は接続法を使い、Te lo spiego perché tu possa capire「君が理解できるように説明する」となるが、日常語ではaffinchéやper + 不定詞もよく使われる。正書法では常にperchéと鋭アクセントを付け、percheと書くのは誤りである。",
+    "it": "Perché serve sia per domandare il motivo sia per fornire una spiegazione. Perché sei qui? è interrogativo; Sono qui perché devo parlarti è causale. Nel valore causale regge normalmente l’indicativo. Quando introduce uno scopo, può reggere il congiuntivo: Te lo spiego perché tu possa capire. In quest’ultimo uso sono comuni anche affinché e, quando il soggetto è lo stesso, per con l’infinito. La grafia corretta richiede sempre l’accento acuto finale: perché."
+  },
+
+  "etymology": {
+    "ja": "前置詞per「～のために・～によって」とche「何・～ということ」が結合したper cheに由来する。語源的には「何のために」「どの理由によって」という構造で、そこから理由を尋ねる「なぜ」と、理由を提示する「～だから」の両方の機能が発達した。古くは二語で書かれることもあったが、現代標準語では一語のperchéと書く。",
+    "it": "Deriva dall’unione della preposizione per e di che, originariamente nella sequenza per che. Il significato letterale era vicino a «per quale cosa» o «per quale ragione». Da questa struttura si sono sviluppati sia il valore interrogativo di «per quale motivo» sia quello causale di «per il fatto che». Nell’italiano moderno si scrive in un’unica parola con accento acuto: perché."
+  },
+
+  "minimal": [
+    {
+      "word": "perché",
+      "ja": "理由を尋ねる「なぜ」、または理由を説明する「～だから」",
+      "it": "introduce una domanda sul motivo oppure la spiegazione di una causa"
+    },
+    {
+      "word": "poiché",
+      "ja": "既知または明白な理由を提示する、やや文章語的な「～なので」",
+      "it": "congiunzione causale, spesso più formale, che presenta una ragione come nota o evidente"
+    },
+    {
+      "word": "siccome",
+      "ja": "通常は文頭で理由を先に提示する「～なので・～だから」",
+      "it": "congiunzione causale posta frequentemente all’inizio della frase"
+    },
+    {
+      "word": "affinché",
+      "ja": "接続法を伴い、目的を明確に示す「～するように」",
+      "it": "congiunzione finale che introduce con il congiuntivo lo scopo di un’azione"
+    },
+    {
+      "word": "perciò",
+      "ja": "原因ではなく、その結果・結論を示す「それゆえ・だから」",
+      "it": "avverbio che introduce una conseguenza o conclusione, non la causa"
+    }
+  ],
+
+  "synonyms": [
+    "per quale motivo",
+    "per quale ragione",
+    "poiché",
+    "dato che",
+    "in quanto",
+    "affinché"
+  ],
+
+  "equivalents": {
+    "en": [
+      "why",
+      "because",
+      "so that",
+      "the reason"
+    ],
+    "de": [
+      "warum",
+      "weil",
+      "damit",
+      "der Grund"
+    ],
+    "fr": [
+      "pourquoi",
+      "parce que",
+      "afin que",
+      "la raison"
+    ],
+    "es": [
+      "por qué",
+      "porque",
+      "para que",
+      "el porqué"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "perché no?",
+      "ja": "なぜだめなの・いいじゃないか"
+    },
+    {
+      "it": "perché mai?",
+      "ja": "一体なぜ"
+    },
+    {
+      "it": "chiedere perché",
+      "ja": "理由を尋ねる"
+    },
+    {
+      "it": "spiegare perché",
+      "ja": "理由を説明する"
+    },
+    {
+      "it": "capire perché",
+      "ja": "なぜなのか理解する"
+    },
+    {
+      "it": "non sapere perché",
+      "ja": "なぜなのか分からない"
+    },
+    {
+      "it": "dimmi perché",
+      "ja": "なぜなのか教えて"
+    },
+    {
+      "it": "solo perché",
+      "ja": "単に～だからというだけで"
+    },
+    {
+      "it": "proprio perché",
+      "ja": "まさに～だからこそ"
+    },
+    {
+      "it": "anche perché",
+      "ja": "～という理由もあるので"
+    },
+    {
+      "it": "ecco perché",
+      "ja": "だから・そういうわけで"
+    },
+    {
+      "it": "il perché di qualcosa",
+      "ja": "何かの理由・わけ"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Perché sei arrivato così tardi?",
+      "ja": "どうしてこんなに遅く到着したのですか。"
+    },
+    {
+      "it": "Non so perché la riunione sia stata annullata.",
+      "ja": "なぜ会議が中止されたのか分かりません。"
+    },
+    {
+      "it": "Sono rimasto a casa perché ero stanco.",
+      "ja": "疲れていたので家にいました。"
+    },
+    {
+      "it": "Chiudi la finestra, perché fuori fa freddo.",
+      "ja": "外は寒いので、窓を閉めてください。"
+    },
+    {
+      "it": "Te lo spiego lentamente perché tu possa capire tutto.",
+      "ja": "あなたがすべて理解できるように、ゆっくり説明します。"
+    },
+    {
+      "it": "Il treno era in ritardo; ecco perché non sono arrivato in tempo.",
+      "ja": "列車が遅れていました。だから時間どおりに到着できなかったのです。"
+    },
+    {
+      "it": "Vorrei conoscere il perché della sua decisione.",
+      "ja": "彼女がその決定をした理由を知りたいです。"
+    },
+    {
+      "it": "Non devi accettare la proposta solo perché tutti gli altri sono d’accordo.",
+      "ja": "ほかの全員が賛成しているというだけで、その提案を受け入れる必要はありません。"
+    }
+  ]
+},
+{
+  "id": "poiche",
+  "sid": "2026-00496",
+  "word": "poiché",
+  "ipa": "/poiˈke/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "conjunction",
+    "label": {
+      "ja": "理由を表す接続詞・古風な時間接続詞",
+      "it": "congiunzione causale e, in uso antico, temporale"
+    },
+    "invariable": true,
+    "pattern": "poiché + indicativo, frase principale / frase principale, poiché + indicativo / poiché non + verbo / anticamente: poiché + fatto compiuto"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "written",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "explanation",
+      "argumentation",
+      "business",
+      "education",
+      "law",
+      "academic",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "ある判断・行動の理由を提示する「～なので・～だから」",
+      "話し手と聞き手にとって既知または明白とされる原因を示す「～である以上」",
+      "文頭で理由を先に述べ、その後に結果・判断を導く「～なので」",
+      "説明文・論説文などで論理的な根拠を提示する「～であるから」",
+      "相手が認めると想定される事実から結論を導く「～なのだから」",
+      "古風・文学的用法で、ある出来事の後を示す「～した後で・～してから」"
+    ],
+    "it": [
+      "Introduce la causa o il motivo di una decisione, un giudizio o un evento.",
+      "Presenta una ragione considerata nota, evidente o condivisa dagli interlocutori.",
+      "Posto all’inizio della frase, espone prima la causa e successivamente la conseguenza.",
+      "Nel linguaggio espositivo e argomentativo, introduce il fondamento logico di una conclusione.",
+      "Permette di ricavare una conseguenza da un fatto che si presume accettato.",
+      "In uso antico o letterario, può significare «dopo che» o «una volta che»."
+    ]
+  },
+
+  "nuance": {
+    "ja": "poichéはperchéと同様に原因を表すが、perchéより文章語的・論理的に響くことが多い。特に文頭で理由を先に提示する用法が自然で、Poiché piove, resteremo a casa「雨なので家にいる」となる。siccomeも文頭で理由を示すが、より会話的である。原因を表すpoichéは通常直説法を伴う。現代語では基本的に理由を表し、古い文章に見られる時間的な「～した後で」は通常dopo cheで表す。",
+    "it": "Poiché esprime una causa come perché, ma ha spesso un tono più scritto, formale o argomentativo. È particolarmente naturale all’inizio della frase: Poiché piove, resteremo a casa. Siccome svolge una funzione simile, ma è più comune nella conversazione. Poiché causale regge normalmente l’indicativo. Il valore temporale antico di «dopo che» è oggi generalmente espresso con dopo che."
+  },
+
+  "etymology": {
+    "ja": "副詞poi「その後」と接続詞cheが結合した語である。poiはラテン語post「後に」に由来する。もともとは「その後に～」「～した後で」という時間関係を表したが、先に起きた事柄を後の結果の理由として捉えることから、「～なので」という原因・理由の意味が発達した。現代標準語では一語でpoichéと書き、語末に鋭アクセントを付ける。",
+    "it": "Deriva dall’unione di poi e che. Poi continua il latino post, «dopo». La costruzione indicava originariamente una successione temporale, vicina a «dopo che». Poiché un fatto precedente può essere interpretato come causa di quello successivo, si è sviluppato il moderno valore causale. Oggi si scrive in un’unica parola con accento acuto: poiché."
+  },
+
+  "minimal": [
+    {
+      "word": "poiché",
+      "ja": "既知・明白な理由を提示する、やや文章語的な「～なので」",
+      "it": "congiunzione causale, spesso scritta o formale, che presenta una ragione come nota o evidente"
+    },
+    {
+      "word": "perché",
+      "ja": "理由を尋ねる「なぜ」と、理由を説明する「～だから」の両方に使われる",
+      "it": "introduce sia una domanda sul motivo sia una spiegazione causale"
+    },
+    {
+      "word": "siccome",
+      "ja": "通常は文頭で理由を先に示す、会話的な「～なので」",
+      "it": "congiunzione causale comune nella lingua parlata e collocata spesso all’inizio"
+    },
+    {
+      "word": "dato che",
+      "ja": "前提となる事実を示して「～であることを考えると」と理由を述べる",
+      "it": "locuzione che introduce una causa presentata come fatto acquisito"
+    },
+    {
+      "word": "giacché",
+      "ja": "既知の理由を示す、poichéに近い改まった「～なので」",
+      "it": "congiunzione causale vicina a poiché, spesso di tono formale o letterario"
+    }
+  ],
+
+  "synonyms": [
+    "perché",
+    "siccome",
+    "dato che",
+    "dal momento che",
+    "visto che",
+    "giacché"
+  ],
+
+  "equivalents": {
+    "en": [
+      "since",
+      "as",
+      "because",
+      "given that"
+    ],
+    "de": [
+      "da",
+      "weil",
+      "zumal",
+      "angesichts der Tatsache, dass"
+    ],
+    "fr": [
+      "puisque",
+      "comme",
+      "étant donné que"
+    ],
+    "es": [
+      "puesto que",
+      "ya que",
+      "dado que",
+      "como"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "poiché è necessario",
+      "ja": "必要なので"
+    },
+    {
+      "it": "poiché è possibile",
+      "ja": "可能なので"
+    },
+    {
+      "it": "poiché non è possibile",
+      "ja": "不可能なので"
+    },
+    {
+      "it": "poiché sappiamo che",
+      "ja": "私たちは～と知っているので"
+    },
+    {
+      "it": "poiché si tratta di",
+      "ja": "～に関する事柄なので"
+    },
+    {
+      "it": "poiché la situazione è cambiata",
+      "ja": "状況が変化したので"
+    },
+    {
+      "it": "poiché non vi sono prove",
+      "ja": "証拠がないので"
+    },
+    {
+      "it": "poiché il termine è scaduto",
+      "ja": "期限が過ぎたので"
+    },
+    {
+      "it": "poiché tutti erano d’accordo",
+      "ja": "全員が賛成していたので"
+    },
+    {
+      "it": "poiché dipende da",
+      "ja": "～に左右されるので"
+    },
+    {
+      "it": "tanto più poiché",
+      "ja": "なおさら～なので"
+    },
+    {
+      "it": "proprio poiché",
+      "ja": "まさに～であるからこそ"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Poiché piove, resteremo a casa.",
+      "ja": "雨が降っているので、私たちは家にいます。"
+    },
+    {
+      "it": "Poiché il treno era in ritardo, siamo arrivati dopo le nove.",
+      "ja": "列車が遅れていたので、私たちは9時過ぎに到着しました。"
+    },
+    {
+      "it": "La richiesta non può essere accolta, poiché il termine è già scaduto.",
+      "ja": "期限がすでに過ぎているため、その申請は認められません。"
+    },
+    {
+      "it": "Poiché tutti erano d’accordo, la proposta è stata approvata.",
+      "ja": "全員が賛成していたので、その提案は承認されました。"
+    },
+    {
+      "it": "Dobbiamo esaminare nuovamente il documento, poiché contiene alcuni errori.",
+      "ja": "その文書にはいくつか誤りがあるため、改めて確認しなければなりません。"
+    },
+    {
+      "it": "Poiché non vi sono prove sufficienti, non possiamo trarre una conclusione definitiva.",
+      "ja": "十分な証拠がないので、最終的な結論を出すことはできません。"
+    },
+    {
+      "it": "Proprio poiché la decisione è importante, non dobbiamo avere fretta.",
+      "ja": "まさに重要な決定だからこそ、急ぐべきではありません。"
+    },
+    {
+      "it": "Poiché ebbe terminato il lavoro, lasciò l’ufficio.",
+      "ja": "仕事を終えると、彼は職場を出ました。"
+    }
+  ]
+},
+{
+  "id": "siccome",
+  "sid": "2026-00497",
+  "word": "siccome",
+  "ipa": "/ˈsikkome/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "conjunction",
+    "label": {
+      "ja": "理由を表す接続詞・古風な比較接続詞",
+      "it": "congiunzione causale e, in uso antico, comparativa"
+    },
+    "invariable": true,
+    "pattern": "siccome + indicativo, frase principale / siccome non + verbo, frase principale / anticamente: siccome + termine di paragone"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "spoken"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "explanation",
+      "daily_life",
+      "work",
+      "education",
+      "narration",
+      "argumentation"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "文頭で行動・出来事の理由を先に提示する「～なので・～だから」",
+      "話し手と聞き手の双方が理解できる事情を原因として示す「～であるから」",
+      "ある事実を前提として、その結果や判断を導く「～という事情なので」",
+      "日常会話で自分の選択・行動を説明する「～だから」",
+      "古風・文学的用法で、同一性・類似性を表す「～のように・～と同じく」"
+    ],
+    "it": [
+      "Introduce, spesso all’inizio della frase, la causa di un’azione o di un evento.",
+      "Presenta come motivo una circostanza comprensibile o condivisa dagli interlocutori.",
+      "Pone un fatto come premessa dalla quale deriva una conseguenza o una decisione.",
+      "Nella lingua quotidiana, introduce la spiegazione di una scelta o di un comportamento.",
+      "In uso antico o letterario, può esprimere somiglianza o identità con il significato di «come»."
+    ]
+  },
+
+  "nuance": {
+    "ja": "siccomeは、原因節を文頭に置いてから結果を述べる構造で特に自然である。Siccome ero stanco, sono tornato a casa「疲れていたので帰宅した」のように使う。perchéは結果を先に述べ、その後で理由を付け加える場合に自然で、Sono tornato a casa perché ero stancoとなる。poichéも文頭に置けるが、siccomeより文章語的・論理的に響く。原因を表すsiccomeは通常直説法を伴う。",
+    "it": "Siccome è particolarmente naturale quando la proposizione causale precede quella principale: Siccome ero stanco, sono tornato a casa. Perché è spesso preferito quando si enuncia prima il fatto e poi la spiegazione: Sono tornato a casa perché ero stanco. Poiché può occupare la stessa posizione di siccome, ma ha generalmente un tono più scritto o argomentativo. Siccome causale regge normalmente l’indicativo."
+  },
+
+  "etymology": {
+    "ja": "副詞sìとcomeが結合した語である。sìはラテン語sic「そのように」、comeはラテン語quomodo「どのように」に由来する。もともとは「そのように、～と同じように」という比較の意味を持っていた。ある状況が「そのようである以上」と前提を示す用法から、理由を表す「～なので」という現代の意味が発達した。",
+    "it": "Deriva dall’unione di sì e come. Sì continua il latino sic, «così», mentre come deriva dal latino quomodo, «in quale modo». Il significato originario era comparativo, vicino a «così come». Dalla presentazione di una circostanza come fatto acquisito si è sviluppato il moderno valore causale di «dal momento che»."
+  },
+
+  "minimal": [
+    {
+      "word": "siccome",
+      "ja": "通常は文頭で理由を先に示す、会話で一般的な「～なので」",
+      "it": "congiunzione causale comune nella conversazione, posta generalmente all’inizio della frase"
+    },
+    {
+      "word": "perché",
+      "ja": "理由を尋ねる「なぜ」と、結果の後に理由を説明する「～だから」",
+      "it": "introduce una domanda sul motivo oppure una causa, spesso dopo la proposizione principale"
+    },
+    {
+      "word": "poiché",
+      "ja": "既知・明白な理由を論理的に提示する、やや文章語的な「～なので」",
+      "it": "congiunzione causale di tono spesso più scritto o formale"
+    },
+    {
+      "word": "dato che",
+      "ja": "前提となる事実を示して理由を述べる「～であることを考えると」",
+      "it": "locuzione che presenta una causa come fatto acquisito o premessa"
+    },
+    {
+      "word": "perciò",
+      "ja": "原因ではなく、その結果・結論を導く「だから・それゆえ」",
+      "it": "avverbio che introduce la conseguenza di un fatto precedentemente espresso"
+    }
+  ],
+
+  "synonyms": [
+    "poiché",
+    "dato che",
+    "visto che",
+    "dal momento che",
+    "giacché",
+    "considerato che"
+  ],
+
+  "equivalents": {
+    "en": [
+      "since",
+      "as",
+      "because",
+      "given that"
+    ],
+    "de": [
+      "da",
+      "weil",
+      "zumal",
+      "angesichts der Tatsache, dass"
+    ],
+    "fr": [
+      "comme",
+      "puisque",
+      "étant donné que"
+    ],
+    "es": [
+      "como",
+      "ya que",
+      "puesto que",
+      "dado que"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "siccome è tardi",
+      "ja": "時間が遅いので"
+    },
+    {
+      "it": "siccome piove",
+      "ja": "雨が降っているので"
+    },
+    {
+      "it": "siccome fa freddo",
+      "ja": "寒いので"
+    },
+    {
+      "it": "siccome sono stanco",
+      "ja": "疲れているので"
+    },
+    {
+      "it": "siccome non ho tempo",
+      "ja": "時間がないので"
+    },
+    {
+      "it": "siccome non lo sapevo",
+      "ja": "それを知らなかったので"
+    },
+    {
+      "it": "siccome hai ragione",
+      "ja": "あなたの言うとおりなので"
+    },
+    {
+      "it": "siccome tutti erano d’accordo",
+      "ja": "全員が賛成していたので"
+    },
+    {
+      "it": "siccome il treno è in ritardo",
+      "ja": "列車が遅れているので"
+    },
+    {
+      "it": "siccome la situazione è cambiata",
+      "ja": "状況が変わったので"
+    },
+    {
+      "it": "siccome dipende da noi",
+      "ja": "私たち次第なので"
+    },
+    {
+      "it": "siccome si tratta di",
+      "ja": "～に関する事柄なので"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Siccome piove, resteremo a casa.",
+      "ja": "雨が降っているので、私たちは家にいます。"
+    },
+    {
+      "it": "Siccome ero stanco, sono andato a letto presto.",
+      "ja": "疲れていたので、私は早く寝ました。"
+    },
+    {
+      "it": "Siccome non abbiamo molto tempo, prendiamo un taxi.",
+      "ja": "あまり時間がないので、タクシーに乗りましょう。"
+    },
+    {
+      "it": "Siccome il ristorante era pieno, abbiamo cenato in una trattoria.",
+      "ja": "レストランが満席だったので、私たちはトラットリアで夕食を取りました。"
+    },
+    {
+      "it": "Siccome non conoscevo la strada, ho chiesto informazioni.",
+      "ja": "道を知らなかったので、私は案内を求めました。"
+    },
+    {
+      "it": "Siccome tutti erano d’accordo, abbiamo approvato la proposta.",
+      "ja": "全員が賛成していたので、私たちはその提案を承認しました。"
+    },
+    {
+      "it": "Siccome domani devo lavorare, stasera non farò tardi.",
+      "ja": "明日は仕事をしなければならないので、今夜は遅くまで起きていません。"
+    },
+    {
+      "it": "Siccome la situazione è cambiata, dobbiamo modificare il programma.",
+      "ja": "状況が変わったので、私たちは予定を変更しなければなりません。"
+    }
+  ]
+},
+{
+  "id": "percio",
+  "sid": "2026-00498",
+  "word": "perciò",
+  "ipa": "/perˈtʃɔ/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "結果・結論を表す副詞・接続副詞",
+      "it": "avverbio conclusivo e connettivo"
+    },
+    "invariable": true,
+    "pattern": "causa; perciò + conseguenza / frase, e perciò + frase / perciò non + verbo / proprio perciò / anche perciò"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "written"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "explanation",
+      "argumentation",
+      "work",
+      "education",
+      "business",
+      "writing"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "前述の原因から生じる結果を示す「だから・それゆえ」",
+      "述べられた事情を根拠として結論を導く「したがって」",
+      "ある理由によって行動・判断が必要となることを示す「そのため」",
+      "複数の文・節を論理的な原因と結果の関係で結ぶ",
+      "proprio perciòの形で、その理由こそが結論を導くことを強調する「まさにそれゆえ」",
+      "e perciòの形で、前の内容に直接続く結果を示す「そしてそのため」"
+    ],
+    "it": [
+      "Introduce una conseguenza derivata da una causa espressa in precedenza.",
+      "Presenta una conclusione fondata sulle circostanze già indicate.",
+      "Segnala che una decisione o un’azione è necessaria per il motivo precedentemente esposto.",
+      "Collega proposizioni o periodi in un rapporto logico di causa e conseguenza.",
+      "Nell’espressione proprio perciò, sottolinea che è precisamente quella ragione a produrre la conclusione.",
+      "Nella sequenza e perciò, presenta una conseguenza direttamente collegata alla frase precedente."
+    ]
+  },
+
+  "nuance": {
+    "ja": "perciòは理由そのものではなく、その理由から生じる結果を表す。Sono stanco, perciò vado a casaでは「疲れている」が原因、perciò以下の「帰宅する」が結果である。perchéを使う場合はVado a casa perché sono stancoのように、結果の後で理由を示す。quindiは非常に近く、会話でも文章でも広く使われる。pertantoはより形式的、dunqueは結論・推論を強く意識させ、alloraは会話で判断や次の行動を示す場合に多い。",
+    "it": "Perciò non introduce la causa, ma la conseguenza che ne deriva. In Sono stanco, perciò vado a casa, la stanchezza è la causa e il ritorno a casa è il risultato. Con perché l’ordine logico può essere espresso come Vado a casa perché sono stanco. Quindi è quasi equivalente e molto comune; pertanto è più formale; dunque mette spesso in rilievo una conclusione logica; allora è frequente nella conversazione per introdurre una decisione o il passo successivo."
+  },
+
+  "etymology": {
+    "ja": "前置詞per「～のために・～によって」と代名詞ciò「それ、そのこと」が結合した語で、語源的には「そのことによって・その理由のために」を意味する。ciòはラテン語ecce hoc「見よ、これ」に由来するとされる。原因となる「そのこと」を受けて結果を示す表現として定着した。現代標準語では一語でperciòと書き、語末に抑音アクセントを付ける。",
+    "it": "Deriva dall’unione della preposizione per e del pronome ciò, con il significato letterale di «per questa cosa, per questo motivo». Ciò viene generalmente ricondotto al latino ecce hoc, «ecco questo». La locuzione si è unita graficamente ed è diventata un avverbio che introduce una conseguenza. La grafia moderna richiede l’accento grave finale: perciò."
+  },
+
+  "minimal": [
+    {
+      "word": "perciò",
+      "ja": "前に述べた原因から生じる結果・結論を示す「だから・それゆえ」",
+      "it": "introduce una conseguenza o conclusione derivata da quanto detto in precedenza"
+    },
+    {
+      "word": "perché",
+      "ja": "結果の理由・原因を説明する「～だから」、または理由を尋ねる「なぜ」",
+      "it": "introduce la causa di un fatto oppure una domanda sul motivo"
+    },
+    {
+      "word": "quindi",
+      "ja": "結果・結論・次の段階を幅広く示す一般的な「したがって・それから」",
+      "it": "introduce una conseguenza, una conclusione oppure la fase successiva di una sequenza"
+    },
+    {
+      "word": "pertanto",
+      "ja": "論理的な結論を示す、比較的形式的な「したがって」",
+      "it": "avverbio conclusivo di tono formale che introduce una conseguenza logica"
+    },
+    {
+      "word": "dunque",
+      "ja": "推論の結論や話のまとめを示す「それゆえ・つまり・さて」",
+      "it": "introduce una conclusione logica, una sintesi o la ripresa del discorso"
+    }
+  ],
+
+  "synonyms": [
+    "quindi",
+    "pertanto",
+    "dunque",
+    "di conseguenza",
+    "per questo",
+    "per tale motivo"
+  ],
+
+  "equivalents": {
+    "en": [
+      "therefore",
+      "so",
+      "thus",
+      "for that reason"
+    ],
+    "de": [
+      "deshalb",
+      "daher",
+      "folglich",
+      "darum"
+    ],
+    "fr": [
+      "donc",
+      "c’est pourquoi",
+      "par conséquent",
+      "ainsi"
+    ],
+    "es": [
+      "por eso",
+      "por lo tanto",
+      "así que",
+      "por consiguiente"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "e perciò",
+      "ja": "そしてそのため"
+    },
+    {
+      "it": "perciò non",
+      "ja": "そのため～ない"
+    },
+    {
+      "it": "proprio perciò",
+      "ja": "まさにそれゆえ"
+    },
+    {
+      "it": "anche perciò",
+      "ja": "その理由もあって"
+    },
+    {
+      "it": "solo perciò",
+      "ja": "その理由だけで"
+    },
+    {
+      "it": "forse perciò",
+      "ja": "おそらくそのため"
+    },
+    {
+      "it": "perciò è necessario",
+      "ja": "したがって必要である"
+    },
+    {
+      "it": "perciò dobbiamo",
+      "ja": "そのため私たちは～しなければならない"
+    },
+    {
+      "it": "perciò ho deciso",
+      "ja": "そのため私は決めた"
+    },
+    {
+      "it": "perciò non posso",
+      "ja": "そのため私は～できない"
+    },
+    {
+      "it": "perciò è importante",
+      "ja": "それゆえ重要である"
+    },
+    {
+      "it": "perciò ne consegue che",
+      "ja": "したがって～ということになる"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Sono stanco, perciò torno a casa.",
+      "ja": "疲れているので、家へ帰ります。"
+    },
+    {
+      "it": "Pioveva molto, perciò abbiamo annullato la gita.",
+      "ja": "雨が激しく降っていたので、私たちは遠足を中止しました。"
+    },
+    {
+      "it": "Il termine è già scaduto; perciò la richiesta non può essere accolta.",
+      "ja": "期限はすでに過ぎています。したがって、その申請は認められません。"
+    },
+    {
+      "it": "Non conoscevo la strada e perciò ho chiesto informazioni.",
+      "ja": "道を知らなかったので、案内を求めました。"
+    },
+    {
+      "it": "La decisione è importante; proprio perciò non dobbiamo avere fretta.",
+      "ja": "その決定は重要です。まさにそれゆえ、急ぐべきではありません。"
+    },
+    {
+      "it": "Il ristorante era pieno, perciò siamo andati in una trattoria.",
+      "ja": "レストランが満席だったので、私たちはトラットリアへ行きました。"
+    },
+    {
+      "it": "Mancano ancora alcuni documenti; perciò è necessario rinviare la riunione.",
+      "ja": "まだいくつかの書類が不足しています。そのため、会議を延期する必要があります。"
+    },
+    {
+      "it": "Non basta ripetere un’affermazione; perciò dobbiamo fornire delle prove.",
+      "ja": "主張を繰り返すだけでは不十分です。したがって、証拠を示さなければなりません。"
+    }
+  ]
+},
+{
+  "id": "quindi",
+  "sid": "2026-00499",
+  "word": "quindi",
+  "ipa": "/ˈkwindi/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "結果・時間・談話の展開を表す副詞・接続副詞",
+      "it": "avverbio conclusivo, temporale e testuale"
+    },
+    "invariable": true,
+    "pattern": "causa; quindi + conseguenza / prima..., quindi... / e quindi? / quindi + verbo / frase, quindi, frase"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "explanation",
+      "sequence",
+      "argumentation",
+      "work",
+      "education",
+      "narration"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "前述の原因から生じる結果を示す「したがって・だから」",
+      "推論・説明から導かれる結論を示す「つまり・それゆえ」",
+      "一連の行動で次に起こることを示す「それから・次に」",
+      "時間的な順序において、ある出来事の後を示す「その後」",
+      "説明・議論をまとめ、次の要点へ進むための「では・さて」",
+      "Quindi?またはE quindi?の形で、結論・続き・重要性を尋ねる「それで？」",
+      "相手の発言から確認できる内容を導く「ということは」",
+      "話し言葉で、考えながら発言をつなぐ談話標識"
+    ],
+    "it": [
+      "Introduce una conseguenza derivata da una causa precedentemente espressa.",
+      "Presenta una conclusione ricavata da un ragionamento o da una spiegazione.",
+      "Indica l’azione o la fase successiva all’interno di una sequenza.",
+      "Esprime posteriorità temporale rispetto a un evento precedente.",
+      "Serve a riassumere un discorso o a passare al punto successivo.",
+      "Nelle domande Quindi? ed E quindi?, chiede la conclusione, il seguito o la rilevanza di quanto detto.",
+      "Introduce una deduzione da confermare con il significato di «ciò significa che».",
+      "Nella lingua parlata, funziona come segnale discorsivo mentre si organizza il pensiero."
+    ]
+  },
+
+  "nuance": {
+    "ja": "quindiはperciòと同じく結果を示せるが、より用途が広く、「次に・それから」という時間的順序にも使える。Piove, quindi resto a casaでは「だから」、Prima mangiamo, quindi partiamoでは「それから」となる。perciòは原因と結果の関係により集中し、poiは主に時間的な順序を示す。dunqueは推論の結論や話のまとめ、alloraは会話での判断・反応・次の行動を示すことが多い。E quindi?は語調によっては「それがどうしたの？」という挑戦的な響きを持つ。",
+    "it": "Quindi può introdurre una conseguenza come perciò, ma ha un uso più ampio e può indicare anche successione temporale. Piove, quindi resto a casa è conclusivo; Prima mangiamo, quindi partiamo è temporale. Perciò si concentra maggiormente sul rapporto di causa e conseguenza; poi indica soprattutto successione; dunque introduce spesso una conclusione ragionata; allora è comune nelle reazioni e nelle decisioni conversazionali. E quindi? può risultare provocatorio se pronunciato con tono polemico."
+  },
+
+  "etymology": {
+    "ja": "ラテン語の表現eccum inde「そこから、そこより」に由来するとされる。indeは「そこから・その後」を意味した。場所の「そこから」という意味から、時間的な「その後」、さらに論理的な「そこから導かれて・したがって」という意味が発達した。古いイタリア語では場所を表す用法も見られたが、現代語では主に結果・結論・順序を示す。",
+    "it": "Viene generalmente ricondotto alla locuzione latina eccum inde, «ecco da lì, da quel luogo». Inde significava «da lì» e anche «in seguito». Dal valore spaziale si sviluppò quello temporale di «poi» e successivamente quello logico di «da ciò, pertanto». Nell’italiano moderno prevalgono i valori conclusivo, consequenziale e temporale."
+  },
+
+  "minimal": [
+    {
+      "word": "quindi",
+      "ja": "結果・結論を示す「したがって」、または順序を示す「次に・それから」",
+      "it": "introduce una conseguenza, una conclusione oppure la fase successiva di una sequenza"
+    },
+    {
+      "word": "perciò",
+      "ja": "前述の原因から直接生じる結果を示す「そのため・それゆえ」",
+      "it": "introduce soprattutto una conseguenza causata da quanto detto in precedenza"
+    },
+    {
+      "word": "poi",
+      "ja": "行動・出来事の時間的な順序を示す「その後・それから」",
+      "it": "indica principalmente posteriorità o successione nel tempo"
+    },
+    {
+      "word": "dunque",
+      "ja": "推論の結論・話のまとめ・再開を示す「それゆえ・さて」",
+      "it": "introduce una conclusione logica, una sintesi o la ripresa del discorso"
+    },
+    {
+      "word": "allora",
+      "ja": "その時点、または会話での反応・判断・次の行動を示す「それなら・では」",
+      "it": "indica un momento passato oppure introduce una reazione, una decisione o il passo successivo"
+    }
+  ],
+
+  "synonyms": [
+    "perciò",
+    "pertanto",
+    "dunque",
+    "di conseguenza",
+    "poi",
+    "per questo"
+  ],
+
+  "equivalents": {
+    "en": [
+      "therefore",
+      "so",
+      "then",
+      "next"
+    ],
+    "de": [
+      "also",
+      "daher",
+      "folglich",
+      "dann"
+    ],
+    "fr": [
+      "donc",
+      "alors",
+      "ensuite",
+      "par conséquent"
+    ],
+    "es": [
+      "entonces",
+      "por lo tanto",
+      "así que",
+      "luego"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "e quindi",
+      "ja": "そしてそのため・そして次に"
+    },
+    {
+      "it": "quindi non",
+      "ja": "したがって～ない"
+    },
+    {
+      "it": "quindi possiamo",
+      "ja": "したがって私たちは～できる"
+    },
+    {
+      "it": "quindi dobbiamo",
+      "ja": "したがって私たちは～しなければならない"
+    },
+    {
+      "it": "quindi significa che",
+      "ja": "ということは～を意味する"
+    },
+    {
+      "it": "quindi è possibile",
+      "ja": "したがって可能である"
+    },
+    {
+      "it": "quindi è necessario",
+      "ja": "したがって必要である"
+    },
+    {
+      "it": "prima..., quindi...",
+      "ja": "まず～、次に～"
+    },
+    {
+      "it": "da allora in quindi",
+      "ja": "古語で、その時以降"
+    },
+    {
+      "it": "quindi in conclusione",
+      "ja": "したがって結論として"
+    },
+    {
+      "it": "quindi?",
+      "ja": "それで？"
+    },
+    {
+      "it": "e quindi?",
+      "ja": "それでどうしたの？・それから？"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Piove, quindi resteremo a casa.",
+      "ja": "雨が降っているので、私たちは家にいます。"
+    },
+    {
+      "it": "Il termine è scaduto, quindi non possiamo accettare la richiesta.",
+      "ja": "期限が過ぎているので、その申請を受け入れることはできません。"
+    },
+    {
+      "it": "Prima visitiamo il museo, quindi andiamo al ristorante.",
+      "ja": "まず美術館を訪れ、それからレストランへ行きます。"
+    },
+    {
+      "it": "Non hai ricevuto alcuna risposta; quindi significa che dobbiamo aspettare.",
+      "ja": "まだ何の返事も受け取っていません。ということは、待たなければならないということです。"
+    },
+    {
+      "it": "La prova non è sufficiente; non possiamo quindi trarre una conclusione definitiva.",
+      "ja": "証拠が不十分です。したがって、最終的な結論を出すことはできません。"
+    },
+    {
+      "it": "Hai già prenotato il ristorante? — Sì. — Quindi è tutto pronto.",
+      "ja": "「もうレストランを予約しましたか」「はい」「では、すべて準備できていますね」"
+    },
+    {
+      "it": "Prima aggiungi la farina, quindi mescoli lentamente.",
+      "ja": "まず小麦粉を加え、次にゆっくり混ぜます。"
+    },
+    {
+      "it": "Non vuoi venire con noi? E quindi, che cosa farai?",
+      "ja": "私たちと一緒に来たくないのですか。それでは、どうするつもりですか。"
+    }
+  ]
+},
+{
+  "id": "cioe",
+  "sid": "2026-00500",
+  "word": "cioè",
+  "ipa": "/tʃoˈɛ/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "説明・言い換え・訂正を表す副詞・談話標識",
+      "it": "avverbio esplicativo, riformulativo e segnale discorsivo"
+    },
+    "invariable": true,
+    "pattern": "affermazione, cioè + spiegazione / cioè a dire + frase / e cioè / cioè? / cioè, volevo dire... / non..., cioè..."
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "spoken"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "explanation",
+      "clarification",
+      "correction",
+      "education",
+      "work",
+      "argumentation"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "前の語句・内容をより明確に説明する「つまり・すなわち」",
+      "一般的な内容を具体的な語句に置き換える「具体的には」",
+      "専門語・曖昧な表現などを分かりやすく言い換える「言い換えると」",
+      "自分の発言を訂正・修正する「というより・つまり言いたいのは」",
+      "相手の発言の意味を確認する「つまり～ということ？」",
+      "Cioè?の形で、さらに説明を求める「どういう意味？」",
+      "会話で考える時間を確保し、発言をつなぐ「ええと・つまり」",
+      "驚き・困惑・反論などを込めて、相手の意図を問い返す表現"
+    ],
+    "it": [
+      "Introduce una spiegazione più chiara di quanto è stato appena detto.",
+      "Specifica concretamente il contenuto di un’affermazione generale.",
+      "Riformula un termine tecnico o ambiguo con parole più comprensibili.",
+      "Permette al parlante di correggere o modificare parzialmente ciò che ha detto.",
+      "Introduce una domanda con la quale si verifica la corretta interpretazione delle parole altrui.",
+      "Usato da solo nella domanda Cioè?, richiede una spiegazione ulteriore.",
+      "Nella lingua parlata, può servire a prendere tempo e organizzare il discorso.",
+      "Può esprimere sorpresa, perplessità o opposizione rispetto a quanto appena ascoltato."
+    ]
+  },
+
+  "nuance": {
+    "ja": "cioèは説明・言い換えを表す非常に一般的な語で、文章でも会話でも使われる。ossiaとvale a direも「すなわち」を意味するが、ossiaはやや文章語的、vale a direは明示的で改まった響きを持つ。会話ではcioèを発言の修正や間をつなぐ言葉として繰り返すことがあるが、過度に使うと話が不明瞭に聞こえる。単独のCioè?は「具体的にどういう意味？」と説明を求める表現である。",
+    "it": "Cioè è il connettivo più comune per spiegare, precisare o riformulare un contenuto. Ossia ha spesso un tono più scritto, mentre vale a dire è più esplicito e talvolta formale. Nel parlato cioè può servire anche a correggersi o a prendere tempo, ma un uso eccessivo può diventare un intercalare. Usato da solo, Cioè? equivale a «Che cosa vuoi dire esattamente?»."
+  },
+
+  "etymology": {
+    "ja": "指示代名詞ciò「それ、そのこと」と動詞essere「～である」の三人称単数形èが結合した語で、語源的には「それは～である」を意味する。ciòは一般にラテン語ecce hoc「見よ、これ」に由来するとされ、èはラテン語estに由来する。二語が一体化し、前の内容を説明・定義する副詞となった。現代語では一語でcioèと書き、語末に抑音アクセントを付ける。",
+    "it": "Deriva dall’unione del pronome ciò e della forma verbale è, con il significato letterale di «ciò è». Ciò viene generalmente ricondotto al latino ecce hoc, «ecco questo», mentre è continua il latino est. La sequenza si è unita ed è diventata un avverbio usato per spiegare o definire quanto precede. Si scrive cioè con accento grave finale."
+  },
+
+  "minimal": [
+    {
+      "word": "cioè",
+      "ja": "前の内容を説明・具体化・訂正する「つまり・すなわち・というか」",
+      "it": "introduce una spiegazione, una precisazione o una riformulazione"
+    },
+    {
+      "word": "ossia",
+      "ja": "二つの表現が同じ内容を指すことを示す、やや文章語的な「すなわち」",
+      "it": "introduce un’espressione equivalente con un tono spesso più scritto"
+    },
+    {
+      "word": "vale a dire",
+      "ja": "前の内容を明示的に説明し直す「すなわち・言い換えると」",
+      "it": "locuzione esplicita che introduce una definizione o una riformulazione"
+    },
+    {
+      "word": "in altre parole",
+      "ja": "同じ内容を別の表現で分かりやすく述べる「別の言葉で言えば」",
+      "it": "introduce lo stesso contenuto espresso con parole differenti"
+    },
+    {
+      "word": "quindi",
+      "ja": "言い換えではなく、前の内容から結果・結論を導く「したがって」",
+      "it": "introduce una conseguenza o conclusione, non una semplice riformulazione"
+    }
+  ],
+
+  "synonyms": [
+    "ossia",
+    "vale a dire",
+    "ovvero",
+    "in altre parole",
+    "più precisamente",
+    "per meglio dire"
+  ],
+
+  "equivalents": {
+    "en": [
+      "that is",
+      "namely",
+      "I mean",
+      "in other words"
+    ],
+    "de": [
+      "das heißt",
+      "nämlich",
+      "ich meine",
+      "mit anderen Worten"
+    ],
+    "fr": [
+      "c’est-à-dire",
+      "à savoir",
+      "je veux dire",
+      "autrement dit"
+    ],
+    "es": [
+      "es decir",
+      "o sea",
+      "quiero decir",
+      "en otras palabras"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "e cioè",
+      "ja": "すなわち・具体的には"
+    },
+    {
+      "it": "cioè a dire",
+      "ja": "すなわち・言い換えると"
+    },
+    {
+      "it": "cioè?",
+      "ja": "どういう意味？"
+    },
+    {
+      "it": "cioè, vuoi dire che...?",
+      "ja": "つまり～という意味ですか"
+    },
+    {
+      "it": "cioè, in altre parole",
+      "ja": "つまり、別の言葉で言えば"
+    },
+    {
+      "it": "cioè, più precisamente",
+      "ja": "つまり、より正確には"
+    },
+    {
+      "it": "cioè, per esempio",
+      "ja": "つまり、例えば"
+    },
+    {
+      "it": "non oggi, cioè domani",
+      "ja": "今日ではなく、つまり明日"
+    },
+    {
+      "it": "uno solo, cioè il direttore",
+      "ja": "ただ一人、すなわち責任者"
+    },
+    {
+      "it": "il contrario, cioè",
+      "ja": "その反対、つまり"
+    },
+    {
+      "it": "volevo dire, cioè",
+      "ja": "言いたかったのは、つまり"
+    },
+    {
+      "it": "che cosa significa, cioè?",
+      "ja": "つまり、どういう意味ですか"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Partiremo dopodomani, cioè venerdì.",
+      "ja": "私たちは明後日、つまり金曜日に出発します。"
+    },
+    {
+      "it": "Il nome è invariabile, cioè non cambia al plurale.",
+      "ja": "その名詞は不変化です。つまり、複数形でも形が変わりません。"
+    },
+    {
+      "it": "Serve un documento d’identità, cioè il passaporto o la carta d’identità.",
+      "ja": "身分証明書、すなわちパスポートまたは身分証カードが必要です。"
+    },
+    {
+      "it": "Non possiamo accettare la richiesta, cioè, non nelle condizioni attuali.",
+      "ja": "その申請を受け入れることはできません。というより、現在の条件では受け入れられません。"
+    },
+    {
+      "it": "Cioè, vuoi dire che la riunione è stata annullata?",
+      "ja": "つまり、会議が中止されたということですか。"
+    },
+    {
+      "it": "Non ho capito. — Cioè?",
+      "ja": "「理解できませんでした」「具体的にどういう意味ですか」"
+    },
+    {
+      "it": "Il problema riguarda tutti, cioè sia i dipendenti sia i dirigenti.",
+      "ja": "その問題は全員、すなわち従業員と管理職の双方に関係します。"
+    },
+    {
+      "it": "Vorrei qualcosa di leggero, cioè un’insalata o una zuppa.",
+      "ja": "軽いもの、つまりサラダかスープが欲しいです。"
+    }
+  ]
+}  
 ]
