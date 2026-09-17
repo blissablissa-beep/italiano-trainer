@@ -6582,234 +6582,6 @@
   ]
 },
 {
-  "id": "mercato",
-  "sid": "2026-00479",
-  "word": "mercato",
-  "ipa": "/merˈkato/",
-  "level": "A1",
-  "frequency": "very_common",
-
-  "grammar": {
-    "pos": "noun",
-    "label": {
-      "ja": "男性名詞",
-      "it": "sostantivo maschile"
-    },
-    "gender": "masculine",
-    "plural": "mercati",
-    "pattern": "andare o comprare al mercato / mercato di + prodotto o settore / mercato nazionale o internazionale / entrare, operare o competere nel mercato / mettere o essere sul mercato"
-  },
-
-  "usage": {
-    "register": [
-      "neutral",
-      "formal",
-      "economic"
-    ],
-    "medium": [
-      "spoken",
-      "written"
-    ],
-    "situations": [
-      "shopping",
-      "daily_life",
-      "business",
-      "economics",
-      "finance",
-      "real_estate",
-      "employment",
-      "sport"
-    ]
-  },
-
-  "meaning": {
-    "ja": [
-      "商人が食品・衣類・日用品などを販売する市場・市",
-      "屋外または屋内に複数の露店・売り場が集まった商業空間",
-      "商品・サービスの売り手と買い手が取引を行う経済的な仕組み",
-      "特定の商品・産業・地域における需要と供給の総体",
-      "企業が商品・サービスを販売する対象地域・顧客層",
-      "株式・債券・通貨などが取引される金融市場",
-      "住宅・土地などが売買・賃貸される不動産市場",
-      "求職者と雇用者の間で労働力が取引される労働市場",
-      "スポーツで選手の獲得・移籍が行われる期間または活動",
-      "非合法・非公式に商品が取引される仕組み"
-    ],
-    "it": [
-      "Luogo nel quale più venditori offrono alimenti, vestiti e altri prodotti.",
-      "Spazio aperto o coperto formato da bancarelle e punti di vendita.",
-      "Sistema economico nel quale venditori e compratori scambiano beni e servizi.",
-      "Insieme della domanda e dell’offerta relative a un prodotto, un settore o un territorio.",
-      "Area geografica o gruppo di clienti ai quali un’impresa offre i propri prodotti.",
-      "Ambito nel quale vengono negoziati titoli, obbligazioni, valute e altri strumenti finanziari.",
-      "Insieme delle compravendite e delle locazioni di case, terreni e altri immobili.",
-      "Sistema nel quale si incontrano domanda e offerta di lavoro.",
-      "Nello sport, periodo e attività relativi all’acquisto, alla vendita o al trasferimento dei giocatori.",
-      "Sistema illegale o non ufficiale di compravendita di determinati beni."
-    ]
-  },
-
-  "nuance": {
-    "ja": "日常語のmercatoは、複数の売り手が集まる市場を指し、andare al mercato「市場へ行く」と言う。negozioは通常、一つの事業者が営業する個別の店舗、supermercatoは食料品などを扱う大規模な小売店である。経済用語ではmercatoは具体的な場所を必要とせず、売り手・買い手・需要・供給から成る取引領域を表す。essere sul mercatoは商品が「市販されている」、mettere sul mercatoは「市場へ投入する」という意味になる。",
-    "it": "Nel linguaggio quotidiano mercato indica un luogo con più venditori e bancarelle: si dice andare al mercato. Negozio è normalmente un singolo esercizio commerciale, mentre supermercato è un grande punto vendita organizzato in reparti. In economia, mercato non richiede un luogo fisico e indica l’insieme degli scambi, della domanda e dell’offerta. Essere sul mercato significa essere disponibile per la vendita; mettere sul mercato significa iniziare a commercializzare un prodotto."
-  },
-
-  "etymology": {
-    "ja": "ラテン語mercatus「取引、市場」に由来し、動詞mercari「商売する、売買する」の派生語である。mercariはmerx、属格mercis「商品、商売の品」と同じ語族に属する。同じ語源からmercante「商人」、merce「商品」、commercio「商業」、mercatoの形容詞mercantileが生まれた。英語market、フランス語marché、スペイン語mercadoも同じラテン語系統に属する。",
-    "it": "Deriva dal latino mercatus, «commercio, mercato», nome formato dal verbo mercari, «commerciare». Mercari appartiene alla famiglia di merx, mercis, «merce». Alla stessa famiglia appartengono mercante, merce, commercio e mercantile. Anche l’inglese market, il francese marché e lo spagnolo mercado risalgono alla medesima base latina."
-  },
-
-  "minimal": [
-    {
-      "word": "mercato",
-      "ja": "複数の売り手が商品を販売する場所、または需要と供給から成る取引の仕組み",
-      "it": "luogo con più venditori oppure sistema economico formato da domanda, offerta e scambi"
-    },
-    {
-      "word": "negozio",
-      "ja": "通常、一つの事業者が商品・サービスを販売する個別の店舗",
-      "it": "singolo esercizio commerciale nel quale un’attività vende beni o servizi"
-    },
-    {
-      "word": "supermercato",
-      "ja": "食品・日用品などを部門別に販売する大型の小売店",
-      "it": "grande punto vendita organizzato in reparti, soprattutto per alimenti e prodotti quotidiani"
-    },
-    {
-      "word": "fiera",
-      "ja": "商品・産業・文化などをテーマとして一定期間開催される大規模な展示・販売会",
-      "it": "manifestazione periodica nella quale vengono esposti o venduti prodotti di uno o più settori"
-    },
-    {
-      "word": "commercio",
-      "ja": "商品・サービスを売買・流通させる経済活動",
-      "it": "attività economica di acquisto, vendita e distribuzione di beni e servizi"
-    }
-  ],
-
-  "synonyms": [
-    "piazza",
-    "commercio",
-    "settore",
-    "domanda",
-    "bazar",
-    "area commerciale"
-  ],
-
-  "equivalents": {
-    "en": [
-      "market",
-      "marketplace",
-      "market sector",
-      "trade"
-    ],
-    "de": [
-      "Markt",
-      "Marktplatz",
-      "Absatzmarkt",
-      "Handel"
-    ],
-    "fr": [
-      "marché",
-      "place du marché",
-      "secteur",
-      "commerce"
-    ],
-    "es": [
-      "mercado",
-      "plaza de mercado",
-      "sector",
-      "comercio"
-    ]
-  },
-
-  "collocations": [
-    {
-      "it": "andare al mercato",
-      "ja": "市場へ行く"
-    },
-    {
-      "it": "fare la spesa al mercato",
-      "ja": "市場で食料品などを買う"
-    },
-    {
-      "it": "mercato all’aperto",
-      "ja": "青空市場・屋外市場"
-    },
-    {
-      "it": "mercato locale",
-      "ja": "地域市場"
-    },
-    {
-      "it": "mercato internazionale",
-      "ja": "国際市場"
-    },
-    {
-      "it": "mercato del lavoro",
-      "ja": "労働市場"
-    },
-    {
-      "it": "mercato immobiliare",
-      "ja": "不動産市場"
-    },
-    {
-      "it": "mercato finanziario",
-      "ja": "金融市場"
-    },
-    {
-      "it": "quota di mercato",
-      "ja": "市場占有率・マーケットシェア"
-    },
-    {
-      "it": "mettere un prodotto sul mercato",
-      "ja": "製品を市場へ投入する"
-    },
-    {
-      "it": "prezzo di mercato",
-      "ja": "市場価格"
-    },
-    {
-      "it": "mercato nero",
-      "ja": "闇市場・非合法市場"
-    }
-  ],
-
-  "examples": [
-    {
-      "it": "Ogni sabato compriamo frutta e verdura al mercato.",
-      "ja": "私たちは毎週土曜日に市場で果物と野菜を買います。"
-    },
-    {
-      "it": "Il mercato del quartiere apre molto presto la mattina.",
-      "ja": "近所の市場は朝早く開きます。"
-    },
-    {
-      "it": "L’azienda vuole entrare nel mercato europeo.",
-      "ja": "その会社は欧州市場へ参入しようとしています。"
-    },
-    {
-      "it": "La domanda di abitazioni ha fatto aumentare i prezzi del mercato immobiliare.",
-      "ja": "住宅需要によって不動産市場の価格が上昇しました。"
-    },
-    {
-      "it": "Questo prodotto sarà messo sul mercato il prossimo autunno.",
-      "ja": "この製品は来秋に発売されます。"
-    },
-    {
-      "it": "La società ha aumentato la propria quota di mercato.",
-      "ja": "その会社は市場占有率を高めました。"
-    },
-    {
-      "it": "I giovani incontrano diverse difficoltà nel mercato del lavoro.",
-      "ja": "若者は労働市場でさまざまな困難に直面しています。"
-    },
-    {
-      "it": "La polizia ha scoperto un mercato nero di prodotti contraffatti.",
-      "ja": "警察は模倣品の闇市場を発見しました。"
-    }
-  ]
-},
-{
   "id": "supermercato",
   "sid": "2026-00480",
   "word": "supermercato",
@@ -7885,5 +7657,445 @@
       "ja": "彼らは古い宿屋を現代的なオステリアへ改装しました。"
     }
   ]
-}  
+},
+{
+  "id": "taverna",
+  "sid": "2026-00485",
+  "word": "taverna",
+  "ipa": "/taˈvɛrna/",
+  "level": "A2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "taverne",
+    "pattern": "andare, mangiare o bere in una taverna / taverna con + servizio / taverna di + luogo o epoca / trasformare il seminterrato in taverna / scendere in taverna"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "traditional",
+      "literary"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "food",
+      "wine",
+      "travel",
+      "history",
+      "home",
+      "leisure",
+      "literature"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "酒類と簡単な料理を提供する素朴で伝統的な酒場・食堂",
+      "木製家具などを備え、古風・田舎風の雰囲気を持つ飲食店",
+      "歴史的に、旅人や地域住民に酒・食事・ときには宿を提供した施設",
+      "古代ローマで商品・飲食物を販売した通り沿いの小規模な店",
+      "住宅の地下・半地下などに設けられた食事・団らん・娯楽用の部屋",
+      "ワインの保管・試飲や友人との食事に使う家庭内の素朴な空間",
+      "文学・物語・ゲームなどに登場する、旅人や冒険者が集まる酒場"
+    ],
+    "it": [
+      "Locale rustico e tradizionale nel quale si servono vino, altre bevande e piatti semplici.",
+      "Esercizio di ristorazione caratterizzato spesso da arredamento in legno e atmosfera antica o rurale.",
+      "Storicamente, luogo che offriva bevande, cibo e talvolta alloggio a viaggiatori e abitanti.",
+      "Nell’antica Roma, piccolo locale aperto sulla strada nel quale si vendevano merci, cibi o bevande.",
+      "Locale domestico situato generalmente al piano seminterrato e destinato a pasti, incontri e svago.",
+      "Ambiente della casa utilizzato per conservare il vino, organizzare cene o ricevere amici.",
+      "Nella narrativa e nei giochi, luogo di incontro per viaggiatori, mercanti e avventurieri."
+    ]
+  },
+
+  "nuance": {
+    "ja": "飲食店としてのtavernaは、osteriaよりもさらに古風・素朴・物語的な響きを持つことがある。osteriaはイタリアの伝統的なワインと料理の店、pubは英語圏風のビール中心の店を連想させる。現代イタリア語では、tavernaは住宅の地下・半地下に設けた団らん用の部屋も表し、暖炉・大きなテーブル・簡易キッチンなどを備えることがある。この家庭内の語義では飲食店ではない。",
+    "it": "Come locale pubblico, taverna può avere una sfumatura più rustica, antica o narrativa di osteria. Osteria richiama maggiormente la tradizione italiana del vino e della cucina locale; pub evoca un locale di modello britannico dedicato soprattutto alla birra. Nell’uso domestico italiano, taverna indica anche un ambiente seminterrato attrezzato per mangiare, ricevere amici e trascorrere il tempo libero: in questo caso non è un esercizio commerciale."
+  },
+
+  "etymology": {
+    "ja": "ラテン語taberna「小屋、店、酒場、宿」に由来する。古代ローマのtabernaは道路に面した小規模な商店・作業場・飲食店を広く指した。音韻変化によって語中のbがvとなり、イタリア語tavernaが成立した。同じラテン語からフランス語taverne、英語tavern、スペイン語tabernaが生まれた。tabernacolo「聖櫃・小祠」も「小屋」を表す同じ語族に属する。",
+    "it": "Deriva dal latino taberna, «capanna, bottega, locanda, osteria». Nell’antica Roma la taberna era un piccolo locale aperto sulla strada e poteva funzionare come negozio, officina o luogo di ristoro. Attraverso il passaggio fonetico di b a v si è sviluppata la forma italiana taverna. Dalla stessa base derivano il francese taverne, l’inglese tavern, lo spagnolo taberna e tabernacolo."
+  },
+
+  "minimal": [
+    {
+      "word": "taverna",
+      "ja": "酒と簡単な料理を提供する素朴な酒場、または住宅の地下にある団らん用の部屋",
+      "it": "locale rustico che serve vino e cibo oppure ambiente domestico seminterrato destinato alla convivialità"
+    },
+    {
+      "word": "osteria",
+      "ja": "もともとワインと簡単な料理を提供し、現在は伝統料理店にも使われる語",
+      "it": "locale tradizionale dedicato al vino e alla cucina semplice, oggi anche ristorante raffinato"
+    },
+    {
+      "word": "trattoria",
+      "ja": "家庭料理・郷土料理を気軽な雰囲気で提供する伝統的な飲食店",
+      "it": "locale informale dedicato soprattutto alla cucina casalinga o regionale"
+    },
+    {
+      "word": "pub",
+      "ja": "ビールを中心に酒類や軽食を提供する英語圏風の飲食店",
+      "it": "locale di modello britannico dedicato soprattutto alla birra e ad altre bevande"
+    },
+    {
+      "word": "cantina",
+      "ja": "ワイン・食品などを保管する地下室、またはワインの製造・販売所",
+      "it": "locale destinato alla conservazione del vino e degli alimenti oppure azienda vinicola"
+    }
+  ],
+
+  "synonyms": [
+    "osteria",
+    "bettola",
+    "locanda",
+    "mescita",
+    "sala rustica",
+    "locale seminterrato"
+  ],
+
+  "equivalents": {
+    "en": [
+      "tavern",
+      "inn",
+      "rustic pub",
+      "basement recreation room"
+    ],
+    "de": [
+      "Taverne",
+      "Schenke",
+      "Wirtshaus",
+      "Hobbykeller"
+    ],
+    "fr": [
+      "taverne",
+      "auberge",
+      "salle aménagée au sous-sol"
+    ],
+    "es": [
+      "taberna",
+      "mesón",
+      "bodega",
+      "sala en el sótano"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "andare in taverna",
+      "ja": "酒場・地下の団らん室へ行く"
+    },
+    {
+      "it": "mangiare in una taverna",
+      "ja": "酒場で食事をする"
+    },
+    {
+      "it": "bere vino in taverna",
+      "ja": "酒場でワインを飲む"
+    },
+    {
+      "it": "una taverna rustica",
+      "ja": "田舎風の素朴な酒場"
+    },
+    {
+      "it": "una taverna medievale",
+      "ja": "中世風・中世の酒場"
+    },
+    {
+      "it": "una vecchia taverna",
+      "ja": "古い酒場"
+    },
+    {
+      "it": "il proprietario della taverna",
+      "ja": "酒場の主人"
+    },
+    {
+      "it": "l’atmosfera della taverna",
+      "ja": "酒場の雰囲気"
+    },
+    {
+      "it": "trasformare il seminterrato in taverna",
+      "ja": "半地下室を団らん用の部屋へ改装する"
+    },
+    {
+      "it": "arredare la taverna",
+      "ja": "地下の団らん室に家具を備える"
+    },
+    {
+      "it": "cenare in taverna",
+      "ja": "地下の団らん室で夕食を取る"
+    },
+    {
+      "it": "una taverna con camino",
+      "ja": "暖炉付きの団らん室・酒場"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "I viaggiatori si fermarono in una taverna lungo la strada.",
+      "ja": "旅人たちは街道沿いの酒場に立ち寄りました。"
+    },
+    {
+      "it": "La taverna serve vino locale e piatti molto semplici.",
+      "ja": "その酒場では地元のワインと非常に簡素な料理を提供しています。"
+    },
+    {
+      "it": "Il locale è arredato come una taverna medievale.",
+      "ja": "その店は中世の酒場のように内装されています。"
+    },
+    {
+      "it": "Nell’antica Roma molte tabernae si aprivano direttamente sulla strada.",
+      "ja": "古代ローマでは、多くの店舗が道路へ直接面していました。"
+    },
+    {
+      "it": "Abbiamo trasformato il seminterrato in una taverna con cucina e camino.",
+      "ja": "私たちは半地下室を台所と暖炉のある団らん室に改装しました。"
+    },
+    {
+      "it": "A Natale tutta la famiglia cena nella taverna di casa.",
+      "ja": "クリスマスには家族全員が自宅の地下の団らん室で夕食を取ります。"
+    },
+    {
+      "it": "In taverna conservano alcune bottiglie di vino e un grande tavolo di legno.",
+      "ja": "地下の団らん室にはワイン数本と大きな木製テーブルが置かれています。"
+    },
+    {
+      "it": "Nel racconto gli avventurieri si incontrano in una taverna del porto.",
+      "ja": "物語の中で冒険者たちは港の酒場に集まります。"
+    }
+  ]
+},  
+{
+  "id": "enoteca",
+  "sid": "2026-00486",
+  "word": "enoteca",
+  "ipa": "/enoˈtɛka/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "noun",
+    "label": {
+      "ja": "女性名詞",
+      "it": "sostantivo femminile"
+    },
+    "gender": "feminine",
+    "plural": "enoteche",
+    "pattern": "andare o bere in enoteca / comprare vino in un’enoteca / enoteca con + servizio / enoteca specializzata in + prodotto / enoteca di + luogo o regione"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "specialized"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "wine",
+      "shopping",
+      "food",
+      "travel",
+      "tourism",
+      "tasting",
+      "culture"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "多数のワインを専門的に販売する店、ワインショップ",
+      "ワインをグラスまたはボトルで提供し、店内で飲めるワインバー",
+      "ワインの試飲・紹介・販売を行う専門施設",
+      "特定の地域・生産者・年代のワインを収集・展示する場所",
+      "地域のワイン文化や生産者を紹介する公共的・文化的施設",
+      "ワインに合うチーズ・ハム・軽食なども提供する飲食店",
+      "個人・施設が保有する、体系的に選ばれたワインのコレクション"
+    ],
+    "it": [
+      "Negozio specializzato nella vendita di un’ampia selezione di vini.",
+      "Locale nel quale è possibile consumare vino al bicchiere o in bottiglia.",
+      "Struttura specializzata nella degustazione, presentazione e vendita del vino.",
+      "Luogo nel quale vengono raccolti ed esposti vini di determinate regioni, aziende o annate.",
+      "Istituzione culturale o promozionale dedicata ai vini e ai produttori di un territorio.",
+      "Locale che accompagna il vino con formaggi, salumi e altri piatti leggeri.",
+      "Collezione organizzata di vini appartenente a una persona o a un’istituzione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "enotecaはワインを専門的に選び、販売・試飲・提供する場所である。店によって、持ち帰り販売を中心とするワインショップ、店内で飲めるワインバー、地域のワインを紹介する文化施設など形態が異なる。cantinaはワインを保管する地下室、またはワインを製造する醸造所を表す。vineriaは店内でワインを飲む場所という性格が強く、osteriaはワインだけでなく伝統的な料理と社交にも重点を置く。",
+    "it": "Enoteca può indicare un negozio di vendita, un wine bar oppure una struttura culturale dedicata alla promozione dei vini. La funzione precisa dipende dal locale. Cantina indica il luogo di conservazione del vino oppure l’azienda che lo produce. Vineria mette maggiormente in rilievo il consumo del vino sul posto. Osteria associa tradizionalmente il vino a piatti semplici e alla convivialità."
+  },
+
+  "etymology": {
+    "ja": "ギリシア語系の結合要素eno-「ワイン」と-teca「収納場所、保管施設」を組み合わせた語である。eno-は古代ギリシア語oînos「ワイン」、-tecaはthḗkē「容器、置き場所、保管庫」に由来する。語源的には「ワインを収集・保管する場所」を意味する。同じ構成を持つ語にはbiblioteca「図書館」、pinacoteca「絵画館」、discoteca「レコード収蔵庫・ディスコ」がある。",
+    "it": "È formata dagli elementi di origine greca eno-, da oînos, «vino», e -teca, da thḗkē, «contenitore, deposito, luogo di conservazione». Etimologicamente significa quindi «luogo nel quale si raccolgono e si conservano vini». Presentano lo stesso secondo elemento biblioteca, pinacoteca e discoteca."
+  },
+
+  "minimal": [
+    {
+      "word": "enoteca",
+      "ja": "ワインを専門的に選び、販売・試飲・提供する店または施設",
+      "it": "negozio o locale specializzato nella selezione, vendita e degustazione del vino"
+    },
+    {
+      "word": "cantina",
+      "ja": "ワインを保管する地下室、またはワインを製造する醸造所・企業",
+      "it": "locale per la conservazione del vino oppure azienda che lo produce"
+    },
+    {
+      "word": "vineria",
+      "ja": "複数のワインをグラスなどで店内提供することを中心とした飲食店",
+      "it": "locale dedicato soprattutto alla mescita e al consumo del vino"
+    },
+    {
+      "word": "osteria",
+      "ja": "伝統的にワインと簡単な料理を提供した庶民的な飲食店",
+      "it": "locale tradizionale dedicato al vino, ai piatti semplici e alla convivialità"
+    },
+    {
+      "word": "wine bar",
+      "ja": "ワインを店内で楽しむことを中心とする現代的な飲食店",
+      "it": "locale moderno specializzato nel servizio e nella degustazione di vini"
+    }
+  ],
+
+  "synonyms": [
+    "vineria",
+    "wine bar",
+    "negozio di vini",
+    "rivendita di vini",
+    "mescita",
+    "raccolta di vini"
+  ],
+
+  "equivalents": {
+    "en": [
+      "wine shop",
+      "wine bar",
+      "wine library",
+      "wine collection"
+    ],
+    "de": [
+      "Vinothek",
+      "Weinhandlung",
+      "Weinbar",
+      "Weinsammlung"
+    ],
+    "fr": [
+      "œnothèque",
+      "cave à vins",
+      "bar à vin",
+      "collection de vins"
+    ],
+    "es": [
+      "vinoteca",
+      "tienda de vinos",
+      "bar de vinos",
+      "colección de vinos"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "andare in enoteca",
+      "ja": "エノテカ・ワイン専門店へ行く"
+    },
+    {
+      "it": "comprare vino in enoteca",
+      "ja": "ワイン専門店でワインを買う"
+    },
+    {
+      "it": "bere un bicchiere in enoteca",
+      "ja": "エノテカでワインを一杯飲む"
+    },
+    {
+      "it": "degustare vini in enoteca",
+      "ja": "エノテカでワインを試飲する"
+    },
+    {
+      "it": "aprire un’enoteca",
+      "ja": "エノテカを開業する"
+    },
+    {
+      "it": "gestire un’enoteca",
+      "ja": "エノテカを経営する"
+    },
+    {
+      "it": "un’enoteca specializzata",
+      "ja": "専門性の高いワインショップ"
+    },
+    {
+      "it": "un’enoteca regionale",
+      "ja": "地域のワインを紹介する専門施設"
+    },
+    {
+      "it": "la selezione dell’enoteca",
+      "ja": "エノテカがそろえるワインの品ぞろえ"
+    },
+    {
+      "it": "il proprietario dell’enoteca",
+      "ja": "エノテカの店主"
+    },
+    {
+      "it": "una degustazione in enoteca",
+      "ja": "エノテカでの試飲会"
+    },
+    {
+      "it": "un’enoteca con cucina",
+      "ja": "料理も提供するエノテカ"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Ho comprato questa bottiglia in un’enoteca del centro.",
+      "ja": "私はこのボトルを市内中心部のワイン専門店で買いました。"
+    },
+    {
+      "it": "L’enoteca offre più di trecento vini italiani.",
+      "ja": "そのエノテカでは300種類を超えるイタリアワインを扱っています。"
+    },
+    {
+      "it": "Prima di cena abbiamo bevuto un bicchiere di vino in enoteca.",
+      "ja": "夕食前に、私たちはエノテカでワインを一杯飲みました。"
+    },
+    {
+      "it": "Il personale dell’enoteca ci ha consigliato un vino adatto al pesce.",
+      "ja": "エノテカの店員が魚に合うワインを勧めてくれました。"
+    },
+    {
+      "it": "Sabato l’enoteca organizzerà una degustazione di vini siciliani.",
+      "ja": "土曜日に、そのエノテカではシチリアワインの試飲会が開催されます。"
+    },
+    {
+      "it": "L’enoteca serve anche formaggi, salumi e piccoli piatti.",
+      "ja": "そのエノテカではチーズ、ハム類、小皿料理も提供しています。"
+    },
+    {
+      "it": "L’enoteca regionale promuove i produttori del territorio.",
+      "ja": "地域エノテカは地元の生産者を紹介しています。"
+    },
+    {
+      "it": "Una cantina produce il vino, mentre un’enoteca normalmente lo seleziona e lo vende.",
+      "ja": "カンティーナはワインを製造し、エノテカは通常、それを選定して販売します。"
+    }
+  ]
+}
 ]
