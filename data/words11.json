@@ -11606,5 +11606,1246 @@
       "ja": "私は慎重さ、というより正確には、危険に対する自覚と呼びたいです。"
     }
   ]
-}
+},
+{
+  "id": "comunque",
+  "sid": "2026-00503",
+  "word": "comunque",
+  "ipa": "/koˈmuŋkwe/",
+  "level": "B1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "副詞・接続詞的用法",
+      "it": "avverbio e congiunzione"
+    },
+    "invariable": true,
+    "pattern": "comunque, + frase / verbo + comunque / comunque + soggetto + congiuntivo / comunque sia / comunque vada"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "decision",
+      "argumentation",
+      "business",
+      "narration"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "事情や結果にかかわらず結論・行動は変わらない、いずれにせよ・どのみち",
+      "不利な事情を認めたうえで、それでも成り立つことを述べる、それでも・とはいえ",
+      "話の流れを戻したり、まとめたりする、ともかく・それはさておき",
+      "接続法を伴って、方法や成り行きがどうであっても、どのように～しても",
+      "comunque sia・comunque vadaの形で、どうであれ・どうなろうとも"
+    ],
+    "it": [
+      "Indica che una decisione o una conclusione resta valida indipendentemente dalle circostanze.",
+      "Introduce un fatto che rimane vero nonostante una difficoltà o un’obiezione.",
+      "Riprende il filo del discorso o introduce una conclusione: in ogni caso, ad ogni modo.",
+      "Seguito dal congiuntivo, significa in qualunque modo o indipendentemente da come si svolga un fatto.",
+      "Nelle espressioni comunque sia e comunque vada, significa qualunque sia la situazione o l’esito."
+    ]
+  },
+
+  "nuance": {
+    "ja": "文頭のComunque, parto domaniは、直前の話を踏まえて「いずれにせよ、明日出発する」と結論を述べる。文中のIl viaggio è costoso, ma voglio comunque partireでは、費用という難点があっても「それでも出発したい」という意味になる。comunqueは話題を戻す「ともかく」にも使える。comunque tu la pensi「あなたがどう考えようとも」のように節を導く場合、通常は接続法を使う。quindiが理由から導かれる結果を示すのに対し、comunqueは事情が異なっても結論が維持されることを示す。",
+    "it": "All’inizio della frase, Comunque, parto domani presenta una conclusione che resta valida dopo quanto si è detto. In Il viaggio è costoso, ma voglio comunque partire, l’avverbio sottolinea che la difficoltà non cambia la decisione. Nel parlato può anche servire a tornare all’argomento principale. Quando introduce una proposizione come comunque tu la pensi, è normalmente seguito dal congiuntivo. Quindi presenta una conseguenza; comunque indica che una conclusione resta valida anche considerando circostanze diverse."
+  },
+
+  "etymology": {
+    "ja": "come「どのように」と、不定の意味を加える要素-unqueから成る。もともとの「どのような仕方であっても」という意味から、「事情がどうであれ」「いずれにせよ」、さらに先行する話を受けた「それでも」という用法が生まれた。-unqueはqualunque「どんな～でも」やovunque「どこでも」にも見られる。",
+    "it": "È composto da come e dall’elemento -unque, che conferisce un valore indefinito. Dal significato di «in qualunque modo» si sono sviluppati gli usi di «in ogni caso» e «nonostante ciò». Lo stesso elemento -unque compare anche in qualunque e ovunque."
+  },
+
+  "minimal": [
+    {
+      "word": "comunque",
+      "ja": "事情にかかわらず結論が変わらない「いずれにせよ」、または「それでも」",
+      "it": "indica che una conclusione resta valida in ogni caso o nonostante una difficoltà"
+    },
+    {
+      "word": "quindi",
+      "ja": "前に述べた理由から導かれる結果・結論を示す「したがって」",
+      "it": "introduce una conseguenza ricavata da ciò che precede"
+    },
+    {
+      "word": "tuttavia",
+      "ja": "先行する内容と対立する事柄を示す、やや改まった「しかしながら」",
+      "it": "introduce un’opposizione rispetto a quanto appena detto, spesso con tono più formale"
+    },
+    {
+      "word": "in ogni caso",
+      "ja": "想定されるどの場合にも結論が当てはまる「いずれにせよ」",
+      "it": "sottolinea che una conclusione vale in tutte le situazioni considerate"
+    },
+    {
+      "word": "lo stesso",
+      "ja": "会話で、障害があっても行動する「それでも・やはり」",
+      "it": "nel parlato indica che si fa qualcosa nonostante un ostacolo"
+    }
+  ],
+
+  "synonyms": [
+    "in ogni caso",
+    "ad ogni modo",
+    "in ogni modo",
+    "tuttavia",
+    "nondimeno",
+    "lo stesso"
+  ],
+
+  "equivalents": {
+    "en": [
+      "anyway",
+      "in any case",
+      "nevertheless",
+      "however"
+    ],
+    "de": [
+      "jedenfalls",
+      "auf jeden Fall",
+      "trotzdem",
+      "wie auch immer"
+    ],
+    "fr": [
+      "de toute façon",
+      "en tout cas",
+      "quand même",
+      "quoi qu’il en soit"
+    ],
+    "es": [
+      "de todos modos",
+      "en cualquier caso",
+      "aun así",
+      "sea como sea"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "comunque sia",
+      "ja": "どうであれ・いずれにせよ"
+    },
+    {
+      "it": "comunque vada",
+      "ja": "結果がどうなろうとも"
+    },
+    {
+      "it": "comunque tu la pensi",
+      "ja": "あなたがどう考えようとも"
+    },
+    {
+      "it": "comunque la si guardi",
+      "ja": "どういう見方をしても"
+    },
+    {
+      "it": "è comunque possibile",
+      "ja": "それでも可能である"
+    },
+    {
+      "it": "resta comunque il problema",
+      "ja": "それでも問題は残る"
+    },
+    {
+      "it": "decidere comunque di partire",
+      "ja": "それでも出発することに決める"
+    },
+    {
+      "it": "provare comunque",
+      "ja": "それでも試してみる"
+    },
+    {
+      "it": "andare avanti comunque",
+      "ja": "何があっても続ける"
+    },
+    {
+      "it": "comunque, torniamo al punto",
+      "ja": "ともかく、本題に戻りましょう"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Non so se pioverà; comunque, porterò l’ombrello.",
+      "ja": "雨が降るかは分かりませんが、いずれにせよ傘を持っていきます。"
+    },
+    {
+      "it": "Il biglietto costa molto, ma voglio comunque andare al concerto.",
+      "ja": "チケットは高いですが、それでもコンサートに行きたいです。"
+    },
+    {
+      "it": "Abbiamo poco tempo. Possiamo comunque tentare di risolvere il problema.",
+      "ja": "時間はあまりありません。それでも問題の解決を試みることはできます。"
+    },
+    {
+      "it": "Comunque tu la pensi, vorrei ascoltare la tua opinione.",
+      "ja": "あなたがどのように考えていても、その意見を聞きたいです。"
+    },
+    {
+      "it": "Comunque vada l’esame, hai studiato con impegno.",
+      "ja": "試験の結果がどうなろうとも、あなたは熱心に勉強しました。"
+    },
+    {
+      "it": "Comunque sia, dobbiamo prendere una decisione entro oggi.",
+      "ja": "いずれにせよ、今日中に決断しなければなりません。"
+    },
+    {
+      "it": "Comunque, torniamo alla questione principale.",
+      "ja": "ともかく、主要な問題に戻りましょう。"
+    }
+  ]
+},
+{
+  "id": "tuttavia",
+  "sid": "2026-00504",
+  "word": "tuttavia",
+  "ipa": "/tuttaˈvia/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "conjunction",
+    "label": {
+      "ja": "逆接・譲歩を表す接続詞・副詞",
+      "it": "congiunzione e avverbio avversativo o concessivo"
+    },
+    "invariable": true,
+    "pattern": "frase; tuttavia, + frase / soggetto + tuttavia + verbo / sebbene + congiuntivo, tuttavia + frase"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "argumentation",
+      "explanation",
+      "business",
+      "academic",
+      "narration"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "先に述べた事情から予想されることと異なる事実を示す、しかしながら・それでも",
+      "不利な点や制約を認めながら、別の判断や行動を述べる、とはいえ",
+      "前の主張を全面的には否定せず、補足や留保を加える、もっとも・ただし",
+      "古い文章語では、絶えず・引き続き"
+    ],
+    "it": [
+      "Introduce un fatto diverso da quello che le circostanze precedenti farebbero prevedere.",
+      "Ammette una difficoltà o un limite, ma presenta una decisione o un risultato che resta valido.",
+      "Aggiunge una precisazione o una riserva a quanto appena affermato.",
+      "Nell’uso antico o letterario, significa continuamente o ancora."
+    ]
+  },
+
+  "nuance": {
+    "ja": "tuttaviaは、二つの内容の間にある逆接を明確に示す。Il viaggio è costoso; tuttavia, partiremo「旅行は高くつく。しかし、それでも出発する」のように、文章や改まった説明でよく使われる。会話ではperòのほうが軽く自然なことが多い。comunqueには「いずれにせよ」「ともかく」という結論・話題転換の用法もあるが、tuttaviaの中心は「しかしながら」という逆接である。tuttavia自体は後続の動詞に接続法を要求しない。Sebbene sia costoso, tuttavia partiremoでは、接続法siaを要求するのはsebbeneである。",
+    "it": "Tuttavia mette in evidenza un contrasto tra quanto precede e ciò che segue. È frequente nella scrittura e nelle spiegazioni argomentate; nel parlato però risulta spesso più immediato. Comunque può anche significare «in ogni caso» o servire a riprendere il discorso, mentre tuttavia esprime soprattutto un’opposizione concessiva. Da solo non richiede il congiuntivo: in Sebbene sia costoso, tuttavia partiremo, il congiuntivo dipende da sebbene."
+  },
+
+  "etymology": {
+    "ja": "tutta「すべての」とvia「道・行程」から成る。古くは時間の経過に沿って「ずっと、絶えず」という意味でも使われた。現代では、事情があってもなお別の事実が成り立つことを示す「しかしながら」が中心的な意味になっている。",
+    "it": "È composto da tutta e via. Nell’uso antico poteva significare «continuamente, sempre», con riferimento a qualcosa che prosegue nel tempo. Nell’italiano moderno prevale il valore avversativo o concessivo di «nondimeno, con tutto ciò»."
+  },
+
+  "minimal": [
+    {
+      "word": "tuttavia",
+      "ja": "前の内容と対立する事実や判断を示す、やや改まった「しかしながら」",
+      "it": "introduce un fatto in contrasto con quanto precede, spesso in un registro curato"
+    },
+    {
+      "word": "però",
+      "ja": "日常会話でも広く使う「しかし・でも」",
+      "it": "esprime un contrasto ed è molto comune anche nella conversazione"
+    },
+    {
+      "word": "comunque",
+      "ja": "事情にかかわらない「いずれにせよ」や、難点があっても「それでも」",
+      "it": "indica che qualcosa resta valido in ogni caso o nonostante una difficoltà"
+    },
+    {
+      "word": "nondimeno",
+      "ja": "tuttaviaに近い、文章語的な「それにもかかわらず」",
+      "it": "equivale a tuttavia, con un tono generalmente più letterario o formale"
+    },
+    {
+      "word": "invece",
+      "ja": "二つの人・物・状況の違いを対比する「一方で・それに対して」",
+      "it": "contrappone due persone, fatti o situazioni mettendone in rilievo la differenza"
+    }
+  ],
+
+  "synonyms": [
+    "però",
+    "nondimeno",
+    "ciononostante",
+    "eppure",
+    "comunque",
+    "con tutto ciò"
+  ],
+
+  "equivalents": {
+    "en": [
+      "however",
+      "nevertheless",
+      "nonetheless",
+      "yet"
+    ],
+    "de": [
+      "jedoch",
+      "dennoch",
+      "allerdings",
+      "gleichwohl"
+    ],
+    "fr": [
+      "cependant",
+      "toutefois",
+      "néanmoins",
+      "pourtant"
+    ],
+    "es": [
+      "sin embargo",
+      "no obstante",
+      "con todo",
+      "aun así"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "tuttavia, è possibile",
+      "ja": "しかしながら、それは可能である"
+    },
+    {
+      "it": "tuttavia, non basta",
+      "ja": "しかし、それだけでは足りない"
+    },
+    {
+      "it": "tuttavia, resta un problema",
+      "ja": "しかしながら、問題が一つ残る"
+    },
+    {
+      "it": "tuttavia, occorre prudenza",
+      "ja": "とはいえ、慎重さが必要である"
+    },
+    {
+      "it": "tuttavia, bisogna considerare",
+      "ja": "ただし、考慮する必要がある"
+    },
+    {
+      "it": "tuttavia, va precisato che",
+      "ja": "ただし、～という点は明確にしておく必要がある"
+    },
+    {
+      "it": "è tuttavia necessario",
+      "ja": "それでも必要である"
+    },
+    {
+      "it": "rimane tuttavia difficile",
+      "ja": "それでもなお難しい"
+    },
+    {
+      "it": "non si può tuttavia escludere",
+      "ja": "しかし、除外することはできない"
+    },
+    {
+      "it": "sebbene sia difficile, tuttavia",
+      "ja": "難しいとはいえ、それでも"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Il viaggio è costoso; tuttavia, abbiamo deciso di partire.",
+      "ja": "旅行にはお金がかかります。しかし、それでも出発することにしました。"
+    },
+    {
+      "it": "La spiegazione è chiara. Tuttavia, manca un esempio concreto.",
+      "ja": "説明は明快です。ただし、具体例が一つ欠けています。"
+    },
+    {
+      "it": "Abbiamo fatto progressi; il problema, tuttavia, non è ancora risolto.",
+      "ja": "私たちは前進しました。しかし、問題はまだ解決していません。"
+    },
+    {
+      "it": "La proposta presenta alcuni rischi. Ritengo tuttavia che valga la pena esaminarla.",
+      "ja": "その提案にはいくつかのリスクがあります。それでも、検討する価値はあると思います。"
+    },
+    {
+      "it": "Sebbene fosse stanco, volle tuttavia partecipare alla riunione.",
+      "ja": "疲れていたにもかかわらず、彼は会議への参加を望みました。"
+    },
+    {
+      "it": "Il termine è scaduto. Non si può tuttavia escludere una proroga.",
+      "ja": "期限は過ぎました。しかし、延長の可能性を排除することはできません。"
+    },
+    {
+      "it": "Il ristorante è piccolo; tuttavia, riesce ad accogliere molti clienti.",
+      "ja": "そのレストランは小さいですが、それでも多くの客を迎え入れています。"
+    }
+  ]
+},
+{
+  "id": "invece",
+  "sid": "2026-00505",
+  "word": "invece",
+  "ipa": "/inˈvetʃe/",
+  "level": "A2",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "対比を表す副詞・invece diを用いる代替表現",
+      "it": "avverbio di contrasto; con invece di esprime sostituzione"
+    },
+    "invariable": true,
+    "pattern": "frase, invece + frase / soggetto + invece + verbo / invece di + nome o infinito / invece del, della, dei, delle + nome"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "comparison",
+      "choice",
+      "daily_life",
+      "business",
+      "argumentation"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "二つの人・物・状況の違いを示す、一方で・それに対して",
+      "予想や予定とは異なる結果を示す、ところが・実際には",
+      "ほかの人とは異なる自分の行動や考えを示す、私はそれに対して",
+      "invece di + 名詞の形で、～の代わりに",
+      "invece di + 不定詞の形で、～する代わりに・～せずに"
+    ],
+    "it": [
+      "Contrappone persone, cose o situazioni mettendone in evidenza la differenza.",
+      "Introduce un risultato diverso da quello previsto o atteso.",
+      "Mette in contrasto il comportamento o l’opinione di una persona con quello di altre.",
+      "Nella costruzione invece di seguita da un nome, indica una persona o una cosa che ne sostituisce un’altra.",
+      "Nella costruzione invece di seguita da un infinito, indica un’azione compiuta al posto di un’altra."
+    ]
+  },
+
+  "nuance": {
+    "ja": "inveceは「Aはこうだが、Bはそれと違う」という対比に適している。Io bevo caffè, lei invece preferisce il tèなら「私はコーヒーを飲むが、彼女は一方で紅茶を好む」となる。tuttaviaは先の事情に反する結果を示す「しかしながら」で、inveceほど二者の対比に重点を置かない。invece diは「～の代わりに」という別の重要な形で、invece del treno「列車の代わりに」、invece di aspettare「待つ代わりに」のように使う。名詞に定冠詞が付く場合はdiと冠詞が結合する。",
+    "it": "Invece è particolarmente adatto a mettere a confronto due elementi: Io bevo caffè, lei invece preferisce il tè. Tuttavia introduce soprattutto un fatto contrario a quanto ci si potrebbe aspettare; invece evidenzia spesso la differenza tra due persone, scelte o situazioni. La costruzione invece di esprime sostituzione e può precedere un nome o un infinito: invece del treno, invece di aspettare. Davanti a un articolo determinativo, di si unisce all’articolo."
+  },
+
+  "etymology": {
+    "ja": "前置詞inと名詞vece「代わり、立場」から成る。veceはラテン語vicem「交替、代わりに」にさかのぼる。「～の代わりに」という意味から、別の人・物・行動を示し、さらに二つの状況を対比する用法にも広がった。",
+    "it": "È formato dalla preposizione in e dal sostantivo vece, «posto, funzione svolta al posto di qualcuno o qualcosa». Vece risale al latino vicem, «alternanza, sostituzione». Dal valore di «al posto di» si è sviluppato anche l’uso che contrappone due fatti o comportamenti."
+  },
+
+  "minimal": [
+    {
+      "word": "invece",
+      "ja": "二つの事柄の違いを示す「一方で」。invece diなら「～の代わりに」",
+      "it": "contrappone due elementi; nella costruzione invece di indica sostituzione"
+    },
+    {
+      "word": "tuttavia",
+      "ja": "前の内容から予想されることと異なる事実を示す「しかしながら」",
+      "it": "introduce un fatto che contrasta con quanto precede"
+    },
+    {
+      "word": "però",
+      "ja": "会話でも一般的な逆接の「しかし・でも」",
+      "it": "esprime un’opposizione ed è comune nella lingua parlata"
+    },
+    {
+      "word": "al posto di",
+      "ja": "人・物・行動に代わるものを示す「～の代わりに」",
+      "it": "indica ciò che sostituisce una persona, una cosa o un’azione"
+    },
+    {
+      "word": "anziché",
+      "ja": "選ばれなかった行動・選択肢との対比を示す「～するよりも・～ではなく」",
+      "it": "introduce l’azione o l’alternativa che non viene scelta"
+    }
+  ],
+
+  "synonyms": [
+    "al contrario",
+    "per contro",
+    "al posto di",
+    "in luogo di",
+    "anziché"
+  ],
+
+  "equivalents": {
+    "en": [
+      "instead",
+      "on the other hand",
+      "whereas",
+      "instead of"
+    ],
+    "de": [
+      "dagegen",
+      "hingegen",
+      "stattdessen",
+      "anstelle von"
+    ],
+    "fr": [
+      "en revanche",
+      "au contraire",
+      "à la place",
+      "au lieu de"
+    ],
+    "es": [
+      "en cambio",
+      "por el contrario",
+      "en lugar de",
+      "en vez de"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "io invece",
+      "ja": "それに対して私は"
+    },
+    {
+      "it": "lui invece",
+      "ja": "一方、彼は"
+    },
+    {
+      "it": "lei invece",
+      "ja": "一方、彼女は"
+    },
+    {
+      "it": "invece di",
+      "ja": "～の代わりに"
+    },
+    {
+      "it": "invece del treno",
+      "ja": "列車の代わりに"
+    },
+    {
+      "it": "invece della macchina",
+      "ja": "車の代わりに"
+    },
+    {
+      "it": "invece di andare",
+      "ja": "行く代わりに"
+    },
+    {
+      "it": "invece di aspettare",
+      "ja": "待つ代わりに"
+    },
+    {
+      "it": "invece di rispondere",
+      "ja": "答える代わりに"
+    },
+    {
+      "it": "volevo uscire, invece",
+      "ja": "外出したかったが、実際には"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Io preferisco il caffè, mentre mia moglie preferisce invece il tè.",
+      "ja": "私はコーヒーが好きですが、一方で妻は紅茶のほうが好きです。"
+    },
+    {
+      "it": "Marco è arrivato presto; Luca, invece, è arrivato in ritardo.",
+      "ja": "マルコは早く着きました。一方、ルカは遅れて着きました。"
+    },
+    {
+      "it": "Pensavo che oggi piovesse; invece c’è il sole.",
+      "ja": "今日は雨が降ると思っていました。ところが、晴れています。"
+    },
+    {
+      "it": "Volevo prendere il treno, ma invece sono andato in pullman.",
+      "ja": "列車に乗るつもりでしたが、実際には長距離バスで行きました。"
+    },
+    {
+      "it": "Invece del treno, abbiamo preso il traghetto.",
+      "ja": "列車の代わりに、私たちはフェリーに乗りました。"
+    },
+    {
+      "it": "Invece di uscire, siamo rimasti a casa.",
+      "ja": "外出する代わりに、私たちは家にいました。"
+    },
+    {
+      "it": "Invece di rispondere alla domanda, ha cambiato argomento.",
+      "ja": "質問に答える代わりに、彼は話題を変えました。"
+    }
+  ]
+},
+{
+  "id": "pero",
+  "sid": "2026-00506",
+  "word": "però",
+  "ipa": "/peˈrɔ/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "conjunction",
+    "label": {
+      "ja": "逆接の接続詞・副詞的用法・感嘆的用法",
+      "it": "congiunzione avversativa, uso avverbiale e interiettivo"
+    },
+    "invariable": true,
+    "pattern": "frase, però + frase / però, + frase / soggetto + però + verbo / frase + però / Però!"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "comparison",
+      "opinion",
+      "argumentation",
+      "surprise"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "先に述べたことと対立する内容を導く、しかし・でも",
+      "良い点や悪い点を認めたうえで、別の面を付け加える、ただし・とはいえ",
+      "相手の発言に対する反論や留保を示す、でも",
+      "文中や文末に置いて、対立・留保を補足する、それでも・しかし",
+      "感嘆的に用いて、意外な事実への驚きや感心を表す、おや・これは驚いた"
+    ],
+    "it": [
+      "Introduce un’affermazione in contrasto con quanto precede.",
+      "Aggiunge una precisazione o una riserva dopo aver riconosciuto un aspetto positivo o negativo.",
+      "Esprime un’obiezione o un’esitazione rispetto a ciò che è stato detto.",
+      "Può essere collocato all’interno o alla fine della frase per sottolineare il contrasto.",
+      "Con intonazione esclamativa, esprime sorpresa o ammirazione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "peròはma「しかし」に近いが、文頭だけでなく文中や文末にも置ける。È caro, però è buono「高いけれど、おいしい」、È caro; è buono, però「高い。おいしいけれどね」のように、位置によって強調される部分が変わる。tuttaviaはより改まった文章で使いやすい。「ma però」も会話では聞かれるが、改まった文章では通常どちらか一方を選ぶ。単独のPerò!は、文脈と抑揚によって驚きや感心を表す。語源上は「それゆえ」の意味を持っていたが、現代の基本義は逆接である。",
+    "it": "Però è vicino a ma, ma può comparire anche all’interno o alla fine della frase: È caro, però è buono; È caro; è buono, però. Tuttavia è spesso più adatto a un testo formale o argomentativo. La combinazione ma però si sente nel parlato, mentre nella scrittura curata si preferisce generalmente una sola delle due parole. Usato da solo con intonazione esclamativa, Però! può esprimere sorpresa o ammirazione. Il significato originario di «per questo» non è quello principale nell’italiano di oggi."
+  },
+
+  "etymology": {
+    "ja": "ラテン語per hoc「このために、それゆえ」に由来する。古いイタリア語には「それゆえ・したがって」の用法もあったが、現代語では意味が変化し、「しかし・それでも」という逆接が中心となった。現在のperòを語源から「だから」と訳さないよう注意したい。",
+    "it": "Deriva dal latino per hoc, «per questo». In passato poteva avere valore conclusivo, vicino a «perciò». Nell’italiano contemporaneo prevale invece il valore avversativo di «ma, tuttavia»."
+  },
+
+  "minimal": [
+    {
+      "word": "però",
+      "ja": "会話にも文章にも使え、文中・文末にも置ける「でも・しかし」",
+      "it": "esprime un contrasto e può occupare diverse posizioni nella frase"
+    },
+    {
+      "word": "ma",
+      "ja": "二つの内容を直接結ぶ、最も基本的な「しかし」",
+      "it": "è la congiunzione avversativa più generale e collega direttamente due elementi"
+    },
+    {
+      "word": "tuttavia",
+      "ja": "前の内容と対立する事実を示す、やや改まった「しかしながら」",
+      "it": "introduce un contrasto con un tono generalmente più formale"
+    },
+    {
+      "word": "invece",
+      "ja": "人・物・状況の違いを際立たせる「一方で・それに対して」",
+      "it": "mette soprattutto a confronto persone, cose o situazioni differenti"
+    },
+    {
+      "word": "comunque",
+      "ja": "事情にかかわらない「いずれにせよ」や、難点があっても「それでも」",
+      "it": "indica che qualcosa resta valido in ogni caso o nonostante una difficoltà"
+    }
+  ],
+
+  "synonyms": [
+    "ma",
+    "tuttavia",
+    "eppure",
+    "nondimeno",
+    "ciononostante"
+  ],
+
+  "equivalents": {
+    "en": [
+      "but",
+      "however",
+      "though",
+      "yet"
+    ],
+    "de": [
+      "aber",
+      "jedoch",
+      "allerdings",
+      "doch"
+    ],
+    "fr": [
+      "mais",
+      "cependant",
+      "pourtant",
+      "quand même"
+    ],
+    "es": [
+      "pero",
+      "sin embargo",
+      "no obstante",
+      "aunque"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "sì, però",
+      "ja": "そうだけれど、でも"
+    },
+    {
+      "it": "però è vero",
+      "ja": "しかし、それは本当だ"
+    },
+    {
+      "it": "però non basta",
+      "ja": "しかし、それだけでは足りない"
+    },
+    {
+      "it": "però c’è un problema",
+      "ja": "ただ、一つ問題がある"
+    },
+    {
+      "it": "però bisogna considerare",
+      "ja": "ただし、考慮する必要がある"
+    },
+    {
+      "it": "è difficile, però",
+      "ja": "でも、難しい"
+    },
+    {
+      "it": "mi piace, però",
+      "ja": "でも、気に入っている"
+    },
+    {
+      "it": "non è male, però",
+      "ja": "でも、悪くない"
+    },
+    {
+      "it": "aspetta, però",
+      "ja": "でも、ちょっと待って"
+    },
+    {
+      "it": "Però!",
+      "ja": "おや！・これは驚いた！"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Vorrei venire, però oggi non ho tempo.",
+      "ja": "行きたいのですが、今日は時間がありません。"
+    },
+    {
+      "it": "Il ristorante è piccolo, però si mangia molto bene.",
+      "ja": "そのレストランは小さいですが、料理はとてもおいしいです。"
+    },
+    {
+      "it": "Capisco la tua idea. C’è però un problema.",
+      "ja": "あなたの考えは分かります。ただ、一つ問題があります。"
+    },
+    {
+      "it": "Non sono d’accordo con tutto; la proposta mi interessa, però.",
+      "ja": "すべてに賛成ではありません。でも、その提案には興味があります。"
+    },
+    {
+      "it": "Possiamo partire domani. Prima, però, dobbiamo prenotare i biglietti.",
+      "ja": "明日出発できます。ただし、その前に切符を予約しなければなりません。"
+    },
+    {
+      "it": "«Il biglietto costa cento euro.» «Però! Pensavo costasse molto meno.»",
+      "ja": "「切符は100ユーロです」「えっ！ もっとずっと安いと思っていました」"
+    },
+    {
+      "it": "Non era preparato; ha fatto un buon lavoro, però.",
+      "ja": "彼は準備ができていませんでした。それでも、よい仕事をしました。"
+    }
+  ]
+},
+{
+  "id": "ma",
+  "sid": "2026-00507",
+  "word": "ma",
+  "ipa": "/ma/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "conjunction",
+    "label": {
+      "ja": "逆接の接続詞・強調表現の構成要素・名詞的用法",
+      "it": "congiunzione avversativa, elemento di espressioni enfatiche e uso sostantivato"
+    },
+    "invariable": true,
+    "pattern": "frase + ma + frase / non A, ma B / non solo A, ma anche B / ma + domanda o esclamazione / un ma, dei ma"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "informal",
+      "formal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "comparison",
+      "correction",
+      "argumentation",
+      "surprise"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "二つの内容を対立させる、しかし・でも",
+      "予想した結果とは違う事実を導く、しかし",
+      "先の表現を訂正し、正しい表現を示す、～ではなく…",
+      "non solo ... ma ancheの形で、二つの要素を加える、～だけでなく…も",
+      "疑問文や感嘆文の文頭で、驚き・反論・念押しを強める",
+      "名詞的に、反論・異議・ためらい"
+    ],
+    "it": [
+      "Collega due affermazioni o elementi in opposizione tra loro.",
+      "Introduce un fatto diverso dal risultato che ci si sarebbe aspettati.",
+      "Corregge un’espressione precedente e presenta quella ritenuta appropriata.",
+      "Nella costruzione non solo ... ma anche, aggiunge un secondo elemento al primo.",
+      "All’inizio di domande ed esclamazioni, può rafforzare sorpresa, obiezione o insistenza.",
+      "Come sostantivo, indica un’obiezione, una riserva o un’esitazione."
+    ]
+  },
+
+  "nuance": {
+    "ja": "maは二つの語句や文を直接結ぶ、最も基本的な逆接の接続詞である。È piccolo ma comodo「小さいが快適だ」のように使う。Non voglio il tè, ma il caffèでは、茶を否定してコーヒーへ訂正する。peròも「しかし」を表すが、文中や文末に置くことができる点で位置の自由度が高い。Ma dai!やMa perché?のmaは、単純に「しかし」と訳すより、驚きや問いの強さとして捉えると自然である。名詞のun ma、dei maは「異議・難色」を意味する。",
+    "it": "Ma è la congiunzione più generale per collegare direttamente due elementi in contrasto: È piccolo ma comodo. In Non voglio il tè, ma il caffè, il secondo elemento corregge il primo. Però può svolgere una funzione simile, ma può comparire anche all’interno o alla fine della frase. In esclamazioni come Ma dai! e domande come Ma perché?, ma contribuisce soprattutto all’intonazione di sorpresa o di obiezione. Come sostantivo, un ma o dei ma indica riserve e obiezioni."
+  },
+
+  "etymology": {
+    "ja": "ラテン語magis「より多く、むしろ」に由来する。「こちらよりむしろあちら」という対比の意味から、イタリア語の逆接「しかし」が発達した。同じラテン語magisからは、イタリア語のmaiも生じている。ただし、現代語のma「しかし」とmai「決して～ない・これまでに」は用法が異なる。",
+    "it": "Deriva dal latino magis, «più, piuttosto». Il valore di «piuttosto» ha favorito lo sviluppo della funzione avversativa, che contrappone un elemento a un altro. Anche mai risale al latino magis, pur avendo acquisito nell’italiano moderno una funzione diversa."
+  },
+
+  "minimal": [
+    {
+      "word": "ma",
+      "ja": "二つの内容を直接結ぶ、最も基本的な「しかし・でも」",
+      "it": "collega direttamente due elementi o affermazioni in contrasto"
+    },
+    {
+      "word": "però",
+      "ja": "「しかし・でも」。文中や文末にも置ける",
+      "it": "esprime un contrasto e può comparire anche all’interno o alla fine della frase"
+    },
+    {
+      "word": "tuttavia",
+      "ja": "文章や改まった説明で使いやすい「しかしながら」",
+      "it": "introduce un contrasto con un tono generalmente più formale"
+    },
+    {
+      "word": "invece",
+      "ja": "人・物・状況を比べる「一方で・それに対して」",
+      "it": "mette in rilievo la differenza tra persone, cose o situazioni"
+    },
+    {
+      "word": "e",
+      "ja": "対立を示さず、二つの要素を加える「そして・～と」",
+      "it": "collega elementi aggiungendoli l’uno all’altro"
+    }
+  ],
+
+  "synonyms": [
+    "però",
+    "tuttavia",
+    "eppure",
+    "nondimeno",
+    "bensì"
+  ],
+
+  "equivalents": {
+    "en": [
+      "but",
+      "yet",
+      "however",
+      "rather"
+    ],
+    "de": [
+      "aber",
+      "doch",
+      "sondern",
+      "jedoch"
+    ],
+    "fr": [
+      "mais",
+      "cependant",
+      "pourtant",
+      "plutôt"
+    ],
+    "es": [
+      "pero",
+      "sino",
+      "sin embargo"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "sì, ma",
+      "ja": "そうだけれど、でも"
+    },
+    {
+      "it": "non A, ma B",
+      "ja": "AではなくB"
+    },
+    {
+      "it": "non solo A, ma anche B",
+      "ja": "AだけでなくBも"
+    },
+    {
+      "it": "piccolo ma comodo",
+      "ja": "小さいが快適な"
+    },
+    {
+      "it": "difficile ma possibile",
+      "ja": "難しいが可能な"
+    },
+    {
+      "it": "ma dai!",
+      "ja": "えっ、本当に！・まさか！"
+    },
+    {
+      "it": "ma certo!",
+      "ja": "もちろん！"
+    },
+    {
+      "it": "ma perché?",
+      "ja": "でも、どうして？"
+    },
+    {
+      "it": "ma come?",
+      "ja": "えっ、どうして？・どういうこと？"
+    },
+    {
+      "it": "ma insomma!",
+      "ja": "もう、何なんですか！"
+    },
+    {
+      "it": "senza tanti ma",
+      "ja": "あれこれ異議を唱えずに"
+    },
+    {
+      "it": "non c’è ma che tenga",
+      "ja": "反論の余地はない"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Vorrei uscire, ma oggi piove.",
+      "ja": "外出したいのですが、今日は雨が降っています。"
+    },
+    {
+      "it": "Ho chiamato Marco, ma non ha risposto.",
+      "ja": "マルコに電話しましたが、彼は出ませんでした。"
+    },
+    {
+      "it": "La camera è piccola ma luminosa.",
+      "ja": "その部屋は小さいですが、明るいです。"
+    },
+    {
+      "it": "Non prenderò il treno, ma il pullman.",
+      "ja": "列車ではなく、長距離バスに乗ります。"
+    },
+    {
+      "it": "Parla non solo italiano, ma anche tedesco.",
+      "ja": "彼女はイタリア語だけでなく、ドイツ語も話します。"
+    },
+    {
+      "it": "Ma perché non me l’hai detto prima?",
+      "ja": "でも、どうしてもっと早く教えてくれなかったのですか。"
+    },
+    {
+      "it": "«Ho incontrato il nostro vecchio insegnante a Roma.» «Ma dai! Come sta?»",
+      "ja": "「ローマで昔の先生に会ったよ」「えっ、本当？ お元気だった？」"
+    },
+    {
+      "it": "Dobbiamo decidere oggi, senza tanti ma e se.",
+      "ja": "あれこれ異議や条件を付けずに、今日決めなければなりません。"
+    }
+  ]
+},
+{
+  "id": "dolce",
+  "sid": "2026-00508",
+  "word": "dolce",
+  "ipa": "/ˈdoltʃe/",
+  "level": "A1",
+  "frequency": "very_common",
+
+  "grammar": {
+    "pos": "adjective",
+    "label": {
+      "ja": "形容詞・男性名詞",
+      "it": "aggettivo e sostantivo maschile"
+    },
+    "adjectiveForms": [
+      "dolce",
+      "dolci"
+    ],
+    "gender": "masculine",
+    "plural": "dolci",
+    "pattern": "nome + dolce / dolce + nome / essere dolce / un dolce / i dolci / dolce come + nome"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "food",
+      "cooking",
+      "relationships",
+      "weather",
+      "description"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "砂糖や蜂蜜のような味がする、甘い",
+      "刺激や辛さが強くなく、味が穏やかな",
+      "人の性格・態度・表情などが優しい、愛情深い",
+      "声・音・香りなどが柔らかく心地よい",
+      "気候・風などが穏やかな、温暖な",
+      "坂や動きなどが緩やかな、急ではない",
+      "acqua dolceの形で、海水に対する淡水の",
+      "男性名詞として、甘い菓子・デザート",
+      "男性名詞として、甘い味・甘いもの全般"
+    ],
+    "it": [
+      "Che ha un sapore simile a quello dello zucchero o del miele.",
+      "Di sapore delicato, non forte né piccante.",
+      "Di persona, atteggiamento o espressione, affettuoso e gentile.",
+      "Di voce, suono o profumo, delicato e piacevole.",
+      "Di clima o vento, mite e gradevole.",
+      "Di pendenza o movimento, graduale e non brusco.",
+      "Nell’espressione acqua dolce, non salato come l’acqua del mare.",
+      "Come sostantivo maschile, preparazione dolce mangiata come dessert o fuori pasto.",
+      "Come sostantivo maschile, sapore dolce o insieme degli alimenti dolci."
+    ]
+  },
+
+  "nuance": {
+    "ja": "形容詞dolceは男女同形で、単数はdolce、複数はdolciとなる。Un tè dolceは「甘いお茶」、una persona dolceは「優しい人」で、何について述べるかによって訳が変わる。vino dolceは糖分を感じる「甘口のワイン」を指す。一方、acqua dolceは「甘い水」ではなく「淡水」である。名詞のun dolceはケーキなどの「お菓子」や食後の「デザート」を指し、i dolciは菓子類全般にも使える。dessertは食後の一皿を指す語で、dolceのほうが広い。",
+    "it": "Come aggettivo, dolce ha la stessa forma al maschile e al femminile singolare; al plurale diventa dolci. Può descrivere un sapore, una persona, una voce o un clima, assumendo sfumature diverse secondo il nome. Un vino dolce ha un gusto zuccherino; acqua dolce indica invece l’acqua non salata di fiumi e laghi. Come sostantivo, un dolce è una preparazione zuccherata, spesso servita a fine pasto. Al plurale, i dolci può indicare anche i prodotti dolciari in generale."
+  },
+
+  "etymology": {
+    "ja": "ラテン語dulcis「甘い、心地よい」に由来する。味覚の「甘い」という意味に加え、人柄や音などについて「優しい、快い」という比喩的な意味でも使われるようになった。同じラテン語に由来する語にはイタリア語dolcezza「甘さ・優しさ」、フランス語doux、スペイン語dulceがある。",
+    "it": "Deriva dal latino dulcis, «dolce, gradevole». Accanto al significato riferito al sapore, la parola ha sviluppato usi figurati relativi a persone, suoni e sensazioni piacevoli. Alla stessa famiglia appartiene dolcezza; sono affini anche il francese doux e lo spagnolo dulce."
+  },
+
+  "minimal": [
+    {
+      "word": "dolce",
+      "ja": "味なら「甘い」、人柄なら「優しい」。名詞では菓子・デザート",
+      "it": "indica un sapore zuccherino o una qualità gradevole; come nome indica un alimento dolce"
+    },
+    {
+      "word": "zuccherato",
+      "ja": "砂糖を加えて甘くした",
+      "it": "reso dolce mediante l’aggiunta di zucchero"
+    },
+    {
+      "word": "delicato",
+      "ja": "味・香り・感触などの刺激が強くない、繊細な",
+      "it": "di intensità lieve e non aggressiva, soprattutto riferito a sapori o sensazioni"
+    },
+    {
+      "word": "tenero",
+      "ja": "人や態度について、愛情深い・優しい",
+      "it": "affettuoso e sensibile nei rapporti con gli altri"
+    },
+    {
+      "word": "dessert",
+      "ja": "食事の最後に出されるデザート",
+      "it": "portata dolce servita alla fine di un pasto"
+    }
+  ],
+
+  "synonyms": [
+    "zuccherato",
+    "soave",
+    "mite",
+    "tenero",
+    "gentile",
+    "dessert"
+  ],
+
+  "equivalents": {
+    "en": [
+      "sweet",
+      "gentle",
+      "mild",
+      "dessert"
+    ],
+    "de": [
+      "süß",
+      "sanft",
+      "mild",
+      "Nachtisch"
+    ],
+    "fr": [
+      "sucré",
+      "doux",
+      "délicat",
+      "dessert"
+    ],
+    "es": [
+      "dulce",
+      "suave",
+      "tierno",
+      "postre"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "un sapore dolce",
+      "ja": "甘い味"
+    },
+    {
+      "it": "un vino dolce",
+      "ja": "甘口のワイン"
+    },
+    {
+      "it": "una persona dolce",
+      "ja": "優しい人"
+    },
+    {
+      "it": "una voce dolce",
+      "ja": "優しい声・柔らかな声"
+    },
+    {
+      "it": "un sorriso dolce",
+      "ja": "優しいほほえみ"
+    },
+    {
+      "it": "un clima dolce",
+      "ja": "穏やかな気候"
+    },
+    {
+      "it": "una salita dolce",
+      "ja": "緩やかな上り坂"
+    },
+    {
+      "it": "acqua dolce",
+      "ja": "淡水・真水"
+    },
+    {
+      "it": "preparare un dolce",
+      "ja": "お菓子を作る"
+    },
+    {
+      "it": "prendere un dolce",
+      "ja": "デザートを注文する・食べる"
+    },
+    {
+      "it": "dolce al cucchiaio",
+      "ja": "スプーンで食べるクリーム状のデザート"
+    },
+    {
+      "it": "il dolce far niente",
+      "ja": "何もせず、のんびり過ごす楽しみ"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Queste fragole sono molto dolci.",
+      "ja": "このイチゴはとても甘いです。"
+    },
+    {
+      "it": "Preferisci il vino dolce o quello secco?",
+      "ja": "甘口のワインと辛口のワインでは、どちらが好きですか。"
+    },
+    {
+      "it": "Mia nonna è una persona dolce e paziente.",
+      "ja": "祖母は優しく、辛抱強い人です。"
+    },
+    {
+      "it": "Parlava con una voce dolce per tranquillizzare il bambino.",
+      "ja": "彼女は子供を安心させるため、優しい声で話しました。"
+    },
+    {
+      "it": "In primavera qui soffia un vento dolce.",
+      "ja": "ここでは春になると穏やかな風が吹きます。"
+    },
+    {
+      "it": "Questo pesce vive in acqua dolce.",
+      "ja": "この魚は淡水に生息しています。"
+    },
+    {
+      "it": "Per il compleanno di mia moglie ho preparato un dolce.",
+      "ja": "妻の誕生日にお菓子を作りました。"
+    },
+    {
+      "it": "Dopo cena prendiamo un dolce?",
+      "ja": "夕食のあと、デザートを食べませんか。"
+    }
+  ]
+}  
 ]
