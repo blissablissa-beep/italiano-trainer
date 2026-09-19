@@ -11172,5 +11172,439 @@
       "ja": "軽いもの、つまりサラダかスープが欲しいです。"
     }
   ]
-}  
+},
+{
+  "id": "ossia",
+  "sid": "2026-00501",
+  "word": "ossia",
+  "ipa": "/osˈsia/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "conjunction",
+    "label": {
+      "ja": "説明・同格・訂正を表す接続詞",
+      "it": "congiunzione esplicativa, dichiarativa e correttiva"
+    },
+    "invariable": true,
+    "pattern": "termine, ossia + equivalente o spiegazione / frase, ossia + precisazione / ossia detto in altri termini / non..., ossia..."
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "written"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "explanation",
+      "definition",
+      "argumentation",
+      "education",
+      "business",
+      "law",
+      "academic"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "前の語句と同じ内容を別の表現で示す「すなわち・つまり」",
+      "専門語・抽象語などの意味をより明確に説明する「言い換えると」",
+      "一般的な内容を具体的な名称・事例によって特定する「具体的には」",
+      "前の表現をより正確な表現へ修正する「というより・正確には」",
+      "二つの名称・分類・表現が同じ対象を指すことを示す",
+      "説明文・法律文・学術文などで定義や同格関係を導く",
+      "古い構成上の意味を残し、文脈により「または、より正確に言えば」に近い関係を示す"
+    ],
+    "it": [
+      "Introduce un’espressione equivalente a quella precedente.",
+      "Spiega con parole più chiare un termine tecnico, astratto o ambiguo.",
+      "Precisa un contenuto generale mediante un nome, una categoria o un esempio concreto.",
+      "Corregge quanto precede sostituendolo con una formulazione più esatta.",
+      "Indica che due nomi, classificazioni o espressioni si riferiscono alla stessa realtà.",
+      "Nei testi espositivi, giuridici e accademici, introduce una definizione o un’apposizione.",
+      "Per la sua formazione originaria, può conservare una sfumatura vicina a «o, per meglio dire»."
+    ]
+  },
+
+  "nuance": {
+    "ja": "ossiaはcioèとほぼ同義だが、会話的な間投詞としては使われにくく、文章で定義・同格・正確な言い換えを示す場合に適する。cioèはCioè?「どういう意味？」や、話しながら考えるつなぎ言葉としても使えるが、通常Ossia?とは言わない。ovveroも近いが、法律文では「すなわち」と「または」の両方に解釈され得る場合がある。ossiaは通常、前後の表現が同じ対象・内容を指すことを示す。",
+    "it": "Ossia è quasi sinonimo di cioè, ma è meno usato come intercalare e più adatto a definizioni e riformulazioni precise, soprattutto nello scritto. Cioè può essere usato da solo nella domanda Cioè? e come segnale discorsivo; normalmente non si usa Ossia? nello stesso modo. Ovvero è simile, ma in alcuni testi, specialmente giuridici, può significare sia «cioè» sia «oppure». Ossia indica normalmente equivalenza o precisazione."
+  },
+
+  "etymology": {
+    "ja": "選択を表す接続詞o「または」と、動詞essere「～である」の接続法現在三人称単数siaが結合したo siaに由来する。語源的には「または、それであるとすれば」「別の言い方をすれば」という構造である。二つ目の表現を第一の表現に代えて示すことから、「すなわち・言い換えると」という説明・同格の意味が発達し、現代語では一語のossiaと書く。",
+    "it": "Deriva dall’unione della congiunzione o e della forma sia, congiuntivo presente di essere. La sequenza o sia significava originariamente «oppure sia», introducendo una seconda formulazione in sostituzione o precisazione della prima. Da questa funzione si è sviluppato il significato moderno di «cioè, in altre parole». Oggi si scrive normalmente in un’unica parola: ossia."
+  },
+
+  "minimal": [
+    {
+      "word": "ossia",
+      "ja": "前の表現と同じ内容を、より明確・正確な表現で示す「すなわち」",
+      "it": "introduce una formulazione equivalente, più chiara o più precisa"
+    },
+    {
+      "word": "cioè",
+      "ja": "説明・具体化・訂正に加え、会話のつなぎにも使われる一般的な「つまり」",
+      "it": "introduce spiegazioni e correzioni ed è molto comune anche come segnale nel parlato"
+    },
+    {
+      "word": "ovvero",
+      "ja": "「すなわち」のほか、文脈によって「または」も表し得る語",
+      "it": "può introdurre un’equivalenza oppure, secondo il contesto, un’alternativa"
+    },
+    {
+      "word": "vale a dire",
+      "ja": "前の内容を明示的に説明し直す「すなわち・言い換えると」",
+      "it": "locuzione che introduce esplicitamente una definizione o una riformulazione"
+    },
+    {
+      "word": "in altre parole",
+      "ja": "同じ内容を別の言葉で分かりやすく述べる「別の言葉で言えば」",
+      "it": "introduce lo stesso concetto espresso con parole differenti"
+    }
+  ],
+
+  "synonyms": [
+    "cioè",
+    "vale a dire",
+    "ovvero",
+    "in altre parole",
+    "per meglio dire",
+    "più precisamente"
+  ],
+
+  "equivalents": {
+    "en": [
+      "that is",
+      "namely",
+      "in other words",
+      "or rather"
+    ],
+    "de": [
+      "das heißt",
+      "nämlich",
+      "mit anderen Worten",
+      "oder vielmehr"
+    ],
+    "fr": [
+      "c’est-à-dire",
+      "à savoir",
+      "autrement dit",
+      "ou plutôt"
+    ],
+    "es": [
+      "es decir",
+      "o sea",
+      "en otras palabras",
+      "o mejor dicho"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "ossia",
+      "ja": "すなわち・言い換えると"
+    },
+    {
+      "it": "ossia a dire",
+      "ja": "すなわち・別の言い方をすれば"
+    },
+    {
+      "it": "ossia, in altre parole",
+      "ja": "すなわち、別の言葉で言えば"
+    },
+    {
+      "it": "ossia, più precisamente",
+      "ja": "すなわち、より正確には"
+    },
+    {
+      "it": "ossia, per meglio dire",
+      "ja": "すなわち、より適切に言えば"
+    },
+    {
+      "it": "ossia il fatto che",
+      "ja": "すなわち～という事実"
+    },
+    {
+      "it": "ossia ciò che",
+      "ja": "すなわち～するもの・こと"
+    },
+    {
+      "it": "ossia quello che",
+      "ja": "すなわち～するもの・こと"
+    },
+    {
+      "it": "ossia nel caso in cui",
+      "ja": "すなわち～の場合には"
+    },
+    {
+      "it": "uno solo, ossia",
+      "ja": "ただ一つ、すなわち"
+    },
+    {
+      "it": "due elementi, ossia",
+      "ja": "二つの要素、すなわち"
+    },
+    {
+      "it": "la causa principale, ossia",
+      "ja": "主な原因、すなわち"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Partiremo dopodomani, ossia venerdì.",
+      "ja": "私たちは明後日、すなわち金曜日に出発します。"
+    },
+    {
+      "it": "Il contratto riguarda due parti, ossia il venditore e l’acquirente.",
+      "ja": "その契約は二者、すなわち売主と買主に関係します。"
+    },
+    {
+      "it": "Il nome è invariabile, ossia non cambia al plurale.",
+      "ja": "その名詞は不変化です。すなわち、複数形でも形が変わりません。"
+    },
+    {
+      "it": "Il problema principale è economico, ossia riguarda la mancanza di fondi.",
+      "ja": "主な問題は経済的なもの、すなわち資金不足に関するものです。"
+    },
+    {
+      "it": "La decisione spetta al titolare, ossia alla persona che possiede il diritto.",
+      "ja": "決定権は権利者、すなわちその権利を所有する人にあります。"
+    },
+    {
+      "it": "Serve il consenso unanime, ossia l’accordo di tutti.",
+      "ja": "全員一致の同意、すなわち全員の賛成が必要です。"
+    },
+    {
+      "it": "La riunione è stata rinviata, ossia, più precisamente, spostata a lunedì.",
+      "ja": "会議は延期されました。より正確には、月曜日へ変更されました。"
+    },
+    {
+      "it": "Dobbiamo verificare il requisito essenziale, ossia l’uso effettivo del marchio.",
+      "ja": "私たちは本質的な要件、すなわち商標の実際の使用を確認しなければなりません。"
+    }
+  ]
+},
+{
+  "id": "ovvero",
+  "sid": "2026-00502",
+  "word": "ovvero",
+  "ipa": "/ovˈvɛro/",
+  "level": "B2",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "conjunction",
+    "label": {
+      "ja": "説明・言い換え・選択を表す接続詞",
+      "it": "congiunzione esplicativa, riformulativa e disgiuntiva"
+    },
+    "invariable": true,
+    "pattern": "parola o frase + ovvero + spiegazione o riformulazione / A, ovvero B / soprattutto nel linguaggio formale: A ovvero B"
+  },
+
+  "usage": {
+    "register": [
+      "neutral",
+      "formal",
+      "legal"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "explanation",
+      "definition",
+      "reformulation",
+      "business",
+      "law",
+      "administration",
+      "academic"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "直前の語句をより明確に説明する、すなわち・つまり",
+      "同じ内容を別の表現で言い換える、言い換えれば",
+      "直前の表現を訂正または限定して、より正確な表現を導く、というより",
+      "二つの名称・表現が同じ対象を指すことを示す、別名",
+      "特に法律・行政文書で選択肢を結ぶ、または・あるいは",
+      "二つの可能性や手段のどちらかを示す、もしくは"
+    ],
+    "it": [
+      "Introduce una spiegazione più chiara di ciò che precede, con il significato di cioè.",
+      "Presenta la stessa idea formulata con parole diverse.",
+      "Corregge o precisa un’espressione precedente, con il valore di o meglio.",
+      "Collega due denominazioni riferite alla stessa persona, cosa o nozione.",
+      "Specialmente nel linguaggio giuridico e amministrativo, può collegare due alternative con il significato di oppure.",
+      "Introduce una possibilità o un mezzo alternativo rispetto a quello già menzionato."
+    ]
+  },
+
+  "nuance": {
+    "ja": "ovveroの最も一般的な機能は、前の内容を説明・言い換えすることであり、cioèやossiaに近い。Il capoluogo, ovvero la città principale della regioneでは「州都、すなわちその州の中心都市」となる。一方、法律・行政文書ではoppure「または」の意味でも使われるため、文脈によっては同格的な説明なのか選択肢なのかが曖昧になる。一般的な会話では、説明にはcioè、選択にはoppureのほうが明確で自然なことが多い。直前の言葉を修正する場合にはovvero「というより、より正確には」と訳せる。",
+    "it": "Ovvero introduce normalmente una spiegazione o una riformulazione ed è vicino a cioè e ossia. Può anche precisare o correggere quanto appena detto, assumendo il valore di o meglio. Nel linguaggio giuridico, burocratico e talvolta letterario può però avere valore disgiuntivo e significare oppure. Questa doppia funzione può produrre ambiguità: nel linguaggio comune è spesso preferibile usare cioè per una spiegazione e oppure per un’alternativa."
+  },
+
+  "etymology": {
+    "ja": "接続詞o「または」と形容詞・副詞vero「真の、実際の」が結び付いた表現に由来する。語源的には「あるいは、より正確に言えば」「または本当のところ」という意味を持ち、そこから説明・訂正を導く「すなわち」と、選択肢を示す「または」の二つの機能が発達した。veroはラテン語vērus「真実の」に由来する。",
+    "it": "Nasce dall’unione di o e vero, con il senso originario di «o, per dire il vero» oppure «o più precisamente». Da questa funzione correttiva si è sviluppato il valore esplicativo di «cioè, ossia», mentre si è conservato anche il valore disgiuntivo di «oppure», particolarmente frequente nella lingua giuridica. Vero deriva dal latino vērus, «vero, autentico»."
+  },
+
+  "minimal": [
+    {
+      "word": "ovvero",
+      "ja": "前の内容を説明・言い換えし、形式的な文脈では選択肢を示すこともある",
+      "it": "introduce una spiegazione o una riformulazione e, in usi formali, può anche indicare un’alternativa"
+    },
+    {
+      "word": "cioè",
+      "ja": "説明・具体化・訂正に広く使われる、日常語として最も一般的な「つまり」",
+      "it": "introduce comunemente una spiegazione, una precisazione o una correzione"
+    },
+    {
+      "word": "ossia",
+      "ja": "内容を同じ意味の別表現で明確に言い換える「すなわち」",
+      "it": "presenta una formulazione equivalente che chiarisce quanto precede"
+    },
+    {
+      "word": "oppure",
+      "ja": "二つ以上の可能性から選択肢を示す、明確な「または」",
+      "it": "collega possibilità alternative in modo chiaramente disgiuntivo"
+    },
+    {
+      "word": "vale a dire",
+      "ja": "前の内容を詳しく説明する、やや明示的な「言い換えれば」",
+      "it": "introduce in modo esplicito una spiegazione o una formulazione equivalente"
+    }
+  ],
+
+  "synonyms": [
+    "cioè",
+    "ossia",
+    "vale a dire",
+    "in altre parole",
+    "o meglio",
+    "oppure"
+  ],
+
+  "equivalents": {
+    "en": [
+      "that is",
+      "namely",
+      "in other words",
+      "or rather",
+      "or"
+    ],
+    "de": [
+      "das heißt",
+      "nämlich",
+      "mit anderen Worten",
+      "oder vielmehr",
+      "oder"
+    ],
+    "fr": [
+      "c’est-à-dire",
+      "à savoir",
+      "autrement dit",
+      "ou plutôt",
+      "ou"
+    ],
+    "es": [
+      "es decir",
+      "o sea",
+      "en otras palabras",
+      "o mejor dicho",
+      "o"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "ovvero sia",
+      "ja": "すなわち・つまり"
+    },
+    {
+      "it": "ovvero, in altre parole",
+      "ja": "すなわち、別の言葉で言えば"
+    },
+    {
+      "it": "ovvero, più precisamente",
+      "ja": "より正確に言えば"
+    },
+    {
+      "it": "ovvero, per meglio dire",
+      "ja": "より適切に言えば"
+    },
+    {
+      "it": "A, ovvero B",
+      "ja": "A、すなわちB／AまたはB"
+    },
+    {
+      "it": "il titolare, ovvero il suo rappresentante",
+      "ja": "権利者、またはその代理人"
+    },
+    {
+      "it": "per iscritto, ovvero per via elettronica",
+      "ja": "書面または電子的手段で"
+    },
+    {
+      "it": "un sinonimo, ovvero una parola di significato simile",
+      "ja": "同義語、すなわち意味の似た語"
+    },
+    {
+      "it": "la capitale, ovvero la sede del governo",
+      "ja": "首都、すなわち政府の所在地"
+    },
+    {
+      "it": "l’imputato, ovvero la persona sottoposta a processo",
+      "ja": "被告人、すなわち裁判を受ける者"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "La fotosintesi, ovvero il processo con cui le piante trasformano la luce in energia, è essenziale per la vita.",
+      "ja": "光合成、すなわち植物が光をエネルギーに変える過程は、生命に不可欠です。"
+    },
+    {
+      "it": "Dobbiamo individuare la causa del problema, ovvero ciò che impedisce al sistema di funzionare.",
+      "ja": "問題の原因、つまりシステムの動作を妨げているものを特定しなければなりません。"
+    },
+    {
+      "it": "La riunione si terrà nella sede centrale, ovvero nell’edificio di via Roma.",
+      "ja": "会議は本社、すなわちローマ通りにある建物で開催されます。"
+    },
+    {
+      "it": "Il progetto è stato rinviato, ovvero, più precisamente, sospeso fino a nuovo ordine.",
+      "ja": "その計画は延期、より正確には、追って通知があるまで停止されました。"
+    },
+    {
+      "it": "La domanda può essere presentata personalmente ovvero tramite un rappresentante.",
+      "ja": "申請は本人または代理人を通じて提出できます。"
+    },
+    {
+      "it": "Il pagamento deve essere effettuato con bonifico ovvero con carta di credito.",
+      "ja": "支払いは銀行振込またはクレジットカードで行わなければなりません。"
+    },
+    {
+      "it": "Il termine è ambiguo: può indicare un obbligo, ovvero una semplice raccomandazione?",
+      "ja": "その用語は曖昧です。義務を表しているのでしょうか、それとも単なる推奨でしょうか。"
+    },
+    {
+      "it": "Preferisco parlare di prudenza, ovvero, per meglio dire, di consapevolezza del rischio.",
+      "ja": "私は慎重さ、というより正確には、危険に対する自覚と呼びたいです。"
+    }
+  ]
+}
 ]
