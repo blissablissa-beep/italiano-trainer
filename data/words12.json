@@ -1,1 +1,132 @@
-[]
+[
+{
+  "id": "subito",
+  "sid": "2026-00528",
+  "word": "subito",
+  "ipa": "/ˈsubito/",
+  "level": "A1",
+  "frequency": "very_common",
+  "grammar": {
+    "pos": "adverb",
+    "label": {
+      "ja": "副詞。別語として、subireの過去分詞と文語的な形容詞もある",
+      "it": "avverbio; la stessa grafia è anche participio passato di subire e aggettivo letterario"
+    },
+    "invariable": true,
+    "pattern": "verbo + subito / subito + verbo / subito prima o dopo + evento / Subito! come risposta"
+  },
+  "usage": {
+    "register": ["neutral"],
+    "medium": ["spoken", "written"],
+    "situations": ["conversation", "time", "requests", "work", "travel", "daily_life"]
+  },
+  "meaning": {
+    "ja": [
+      "時間を置かずに、すぐに・直ちに",
+      "ごく短い時間で、すぐに",
+      "subito primaの形で、直前に",
+      "subito dopoの形で、直後に",
+      "呼びかけや依頼への返事として、すぐにします",
+      "寄り道や途中の段階を経ずに、直接"
+    ],
+    "it": [
+      "Senza aspettare, immediatamente.",
+      "Nel giro di pochissimo tempo.",
+      "Nell'espressione subito prima, immediatamente prima di un fatto.",
+      "Nell'espressione subito dopo, immediatamente dopo un fatto.",
+      "Come risposta a una richiesta, indica la disponibilità a fare immediatamente qualcosa.",
+      "Senza tappe o passaggi intermedi, direttamente."
+    ]
+  },
+  "nuance": {
+    "ja": "subitoは行動や出来事が始まるまでの間隔の短さを強調する。prestoは「早く」だけでなく、時刻が早いことや「まもなく」も表せる。immediatamenteはsubitoよりやや改まった言い方。Torno subitoは「すぐ戻ります」だが、実際に何分以内かを厳密に約束する表現ではない。なお、Ha subito capitoのsubitoは「すぐに」/ˈsubito/、Ha subito un dannoのsubitoはsubireの過去分詞「被った」/suˈbito/である。",
+    "it": "Subito sottolinea che tra un momento di riferimento e un'azione passa pochissimo tempo. Presto può riferirsi anche a un'ora anticipata o a un futuro vicino; immediatamente ha spesso un tono più formale. Torno subito è una formula comune, non una promessa di un intervallo misurato con precisione. In Ha subito capito la parola è l'avverbio /ˈsubito/; in Ha subito un danno è il participio di subire, /suˈbito/."
+  },
+  "etymology": {
+    "ja": "副詞subitoはラテン語subitō「突然に、すぐに」に由来し、形容詞subitus「突然の」と関係する。ラテン語subīre「近づく、下に入る」とも語源的につながるが、現代イタリア語の動詞subireの過去分詞subitoとはアクセントの位置が異なる。",
+    "it": "L'avverbio deriva dal latino subitō, legato all'aggettivo subitus, «improvviso». Questa famiglia è collegata al latino subīre. Nell'italiano moderno, il participio passato subito del verbo subire si distingue dall'avverbio per la posizione dell'accento."
+  },
+  "minimal": [
+    {
+      "word": "subito",
+      "ja": "時間を置かずに行動する、または出来事が起こる「すぐに」",
+      "it": "indica un'azione o un evento senza attesa"
+    },
+    {
+      "word": "presto",
+      "ja": "早い時刻・速さ・近い未来を幅広く表す",
+      "it": "può indicare un'ora anticipata, rapidità o un momento futuro vicino"
+    },
+    {
+      "word": "immediatamente",
+      "ja": "「直ちに」を表す、やや改まった副詞",
+      "it": "equivale spesso a subito, con un tono generalmente più formale"
+    },
+    {
+      "word": "appena",
+      "ja": "ある出来事が起きた直後や、「たった今」を表す",
+      "it": "colloca un fatto immediatamente dopo un altro o nel passato molto recente"
+    },
+    {
+      "word": "all'istante",
+      "ja": "その場で直ちに、即座に",
+      "it": "sottolinea che qualcosa avviene senza alcun indugio"
+    }
+  ],
+  "synonyms": ["immediatamente", "all'istante", "senza indugio", "prontamente"],
+  "equivalents": {
+    "en": ["immediately", "right away", "at once"],
+    "de": ["sofort", "gleich", "unverzüglich"],
+    "fr": ["tout de suite", "immédiatement", "aussitôt"],
+    "es": ["enseguida", "inmediatamente", "ahora mismo"]
+  },
+  "collocations": [
+    {"it": "tornare subito", "ja": "すぐに戻る"},
+    {"it": "arrivare subito", "ja": "すぐに到着する"},
+    {"it": "rispondere subito", "ja": "すぐに返事をする"},
+    {"it": "partire subito", "ja": "すぐに出発する"},
+    {"it": "capire subito", "ja": "すぐに理解する"},
+    {"it": "subito prima", "ja": "直前に"},
+    {"it": "subito dopo", "ja": "直後に"},
+    {"it": "subito dopo la riunione", "ja": "会議の直後に"},
+    {"it": "da subito", "ja": "初めからすぐに、直ちに"},
+    {"it": "subito pronto", "ja": "すぐに準備できる・出来上がる"},
+    {"it": "subito subito", "ja": "今すぐ、ただちに〈強調〉"},
+    {"it": "Subito!", "ja": "すぐにします！"}
+  ],
+  "examples": [
+    {
+      "it": "Torno subito.",
+      "ja": "すぐに戻ります。"
+    },
+    {
+      "it": "Se hai una domanda, chiamami subito.",
+      "ja": "質問があれば、すぐに電話してください。"
+    },
+    {
+      "it": "Ha capito subito il problema.",
+      "ja": "彼女はすぐに問題を理解しました。"
+    },
+    {
+      "it": "La farmacia è subito dopo il ponte.",
+      "ja": "薬局は橋を渡ってすぐの所にあります。"
+    },
+    {
+      "it": "Ci siamo parlati subito prima della riunione.",
+      "ja": "私たちは会議の直前に話しました。"
+    },
+    {
+      "it": "«Puoi chiudere la finestra?» «Subito!»",
+      "ja": "「窓を閉めてもらえますか」「すぐに！」"
+    },
+    {
+      "it": "Dalla stazione siamo venuti subito qui.",
+      "ja": "私たちは駅から寄り道せず、直接ここへ来ました。"
+    },
+    {
+      "it": "Ha subito un danno durante il viaggio.",
+      "ja": "彼・彼女は旅行中に損害を被りました。"
+    }
+  ]
+}  
+]
