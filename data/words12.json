@@ -1,4 +1,457 @@
 [
+  {
+    "id": "estroverso",
+    "sid": "2026-00511",
+    "word": "estroverso",
+    "ipa": "/estroˈvɛrso/",
+    "level": "B1",
+    "frequency": "common",
+    "grammar": {
+      "pos": "adjective",
+      "label": {
+        "ja": "形容詞・名詞的用法",
+        "it": "aggettivo e uso sostantivato"
+      },
+      "forms": ["estroverso", "estroversa", "estroversi", "estroverse"],
+      "pattern": "essere estroverso / persona o carattere estroverso / un estroverso, un'estroversa"
+    },
+    "usage": {
+      "register": ["neutral"],
+      "medium": ["spoken", "written"],
+      "situations": ["conversation", "personality", "relationships", "work", "education"]
+    },
+    "meaning": {
+      "ja": [
+        "関心が外界や他者に向かいやすい、外向的な",
+        "人と積極的に交流し、自分を表現しやすい",
+        "名詞的に、外向的な人"
+      ],
+      "it": [
+        "Di persona, orientata verso il mondo esterno e le relazioni con gli altri.",
+        "Incline a comunicare e a partecipare alle attività sociali.",
+        "Come sostantivo, persona dal carattere estroverso."
+      ]
+    },
+    "nuance": {
+      "ja": "estroversoは、他者や外の出来事に関心を向け、交流に積極的な性格を表す。socievoleは人付き合いのしやすさ、espansivoは親しみや感情を外に表す温かさに重点がある。反対語のintroversoは内面に関心を向けやすい性格を表し、必ずしもtimido「人前で気後れする」と同じではない。性格を表す語なので、一度よく話しただけでその人をestroversoと決めるわけではない。",
+      "it": "Estroverso descrive un orientamento abituale verso le persone e la realtà esterna. Socievole sottolinea la facilità nei rapporti sociali; espansivo il modo spontaneo e caloroso di esprimere sentimenti. Introverso indica un orientamento più rivolto alla propria interiorità e non equivale necessariamente a timido. L'aggettivo descrive un tratto del carattere, non un singolo episodio di conversazione."
+    },
+    "etymology": {
+      "ja": "estrovertere「外へ向ける」の過去分詞に由来する。estro-は「外へ」、-vertereは「向きを変える」に関係し、語構成上は「外へ向けられた」という意味である。心理学で用いられる「外向性」の概念とも結び付いている。",
+      "it": "Deriva dal participio passato di estrovertere, formato da estro-, «verso l'esterno», e vertere, «volgere». Il termine è legato anche all'uso psicologico di estroversione."
+    },
+    "minimal": [
+      {
+        "word": "estroverso",
+        "ja": "関心が外界や人との交流に向かいやすい",
+        "it": "orientato verso il mondo esterno e le relazioni"
+      },
+      {
+        "word": "introverso",
+        "ja": "関心を自分の内面に向けやすい",
+        "it": "orientato maggiormente verso la propria interiorità"
+      },
+      {
+        "word": "socievole",
+        "ja": "人付き合いを好み、人と打ち解けやすい",
+        "it": "incline a stare in compagnia e a instaurare rapporti"
+      },
+      {
+        "word": "espansivo",
+        "ja": "親しみや感情を率直かつ温かく表す",
+        "it": "manifesta apertamente e con calore i propri sentimenti"
+      },
+      {
+        "word": "timido",
+        "ja": "人前や慣れない場面で気後れしやすい",
+        "it": "prova esitazione o imbarazzo nelle situazioni sociali"
+      }
+    ],
+    "synonyms": ["socievole", "aperto", "comunicativo", "espansivo"],
+    "equivalents": {
+      "en": ["extroverted", "outgoing"],
+      "de": ["extrovertiert", "kontaktfreudig"],
+      "fr": ["extraverti", "sociable"],
+      "es": ["extrovertido", "sociable"]
+    },
+    "collocations": [
+      {"it": "una persona estroversa", "ja": "外向的な人"},
+      {"it": "un ragazzo estroverso", "ja": "外向的な若者"},
+      {"it": "una ragazza estroversa", "ja": "外向的な若い女性"},
+      {"it": "un carattere estroverso", "ja": "外向的な性格"},
+      {"it": "una personalità estroversa", "ja": "外向的な人格"},
+      {"it": "essere molto estroverso", "ja": "とても外向的である"},
+      {"it": "diventare più estroverso", "ja": "以前より社交的になる"},
+      {"it": "sembrare estroverso", "ja": "外向的に見える"},
+      {"it": "estroverso e socievole", "ja": "外向的で人付き合いがよい"}
+    ],
+    "examples": [
+      {
+        "it": "Mia sorella è estroversa e fa amicizia facilmente.",
+        "ja": "姉は外向的で、すぐに友達ができます。"
+      },
+      {
+        "it": "Marco ha un carattere estroverso e ama conoscere persone nuove.",
+        "ja": "マルコは外向的な性格で、新しい人と知り合うのが好きです。"
+      },
+      {
+        "it": "Durante la riunione è sembrata molto estroversa.",
+        "ja": "会議中、彼女はとても外向的に見えました。"
+      },
+      {
+        "it": "Un collega estroverso ha iniziato la conversazione.",
+        "ja": "外向的な同僚が会話を始めました。"
+      },
+      {
+        "it": "Si può essere estroversi e avere comunque bisogno di momenti da soli.",
+        "ja": "外向的でも、一人で過ごす時間が必要なことはあります。"
+      },
+      {
+        "it": "Rispetto a prima, è diventato più estroverso.",
+        "ja": "彼は以前より外向的になりました。"
+      }
+    ]
+  },
+  {
+    "id": "espansivo",
+    "sid": "2026-00512",
+    "word": "espansivo",
+    "ipa": "/espanˈsivo/",
+    "level": "B1",
+    "frequency": "common",
+    "grammar": {
+      "pos": "adjective",
+      "label": {
+        "ja": "形容詞・名詞的用法",
+        "it": "aggettivo e uso sostantivato"
+      },
+      "forms": ["espansivo", "espansiva", "espansivi", "espansive"],
+      "pattern": "essere espansivo / carattere o persona espansiva / mostrarsi espansivo con qualcuno / forza espansiva"
+    },
+    "usage": {
+      "register": ["neutral", "technical"],
+      "medium": ["spoken", "written"],
+      "situations": ["conversation", "personality", "relationships", "family", "science"]
+    },
+    "meaning": {
+      "ja": [
+        "感情や親しみを率直に、温かく表す",
+        "人に対して愛情や歓迎の気持ちを積極的に示す",
+        "物理的・技術的な文脈で、外へ広がる・膨張する"
+      ],
+      "it": [
+        "Di persona, incline a manifestare spontaneamente sentimenti e affetto.",
+        "Caloroso e aperto nel modo di accogliere o trattare gli altri.",
+        "In senso fisico o tecnico, che tende a espandersi."
+      ]
+    },
+    "nuance": {
+      "ja": "espansivoは人の感情表現の豊かさに焦点がある。estroversoは性格として外界や交流に向かう傾向、socievoleは人付き合いを好む傾向を表す。人当たりがよくても感情表現は控えめな人には、socievoleが合い、espansivoは必ずしも当てはまらない。物理的なforza espansivaは「膨張力」で、人柄とは別の用法である。",
+      "it": "Espansivo mette in rilievo la manifestazione spontanea e calorosa delle emozioni. Estroverso descrive più in generale l'orientamento verso il mondo esterno; socievole la disposizione a frequentare altre persone. Chi ama la compagnia ma esprime poco i propri sentimenti può essere socievole senza essere particolarmente espansivo. Nell'espressione tecnica forza espansiva il termine si riferisce invece all'espansione fisica."
+    },
+    "etymology": {
+      "ja": "espandere「広げる、拡張する」と同じ語族に属し、ラテン語expandereにさかのぼる。expandereはex-「外へ」とpandere「広げる」から成る。物が外へ広がる意味から、人が感情を外へ表す意味にも使われる。",
+      "it": "Appartiene alla famiglia di espandere, dal latino expandere, formato da ex-, «verso fuori», e pandere, «allargare». Dal significato fisico di espansione deriva l'uso figurato riferito all'espressione dei sentimenti."
+    },
+    "minimal": [
+      {
+        "word": "espansivo",
+        "ja": "愛情や感情を外へ率直かつ温かく表す",
+        "it": "manifesta spontaneamente e con calore affetto e sentimenti"
+      },
+      {
+        "word": "estroverso",
+        "ja": "関心が外界や人との交流に向かいやすい",
+        "it": "tende a rivolgersi al mondo esterno e agli altri"
+      },
+      {
+        "word": "socievole",
+        "ja": "人付き合いを好み、人と親しくなりやすい",
+        "it": "ama la compagnia e instaura facilmente rapporti"
+      },
+      {
+        "word": "affettuoso",
+        "ja": "愛情を持ち、優しく表す",
+        "it": "prova ed esprime affetto verso qualcuno"
+      },
+      {
+        "word": "riservato",
+        "ja": "感情や私的なことをあまり表に出さない",
+        "it": "manifesta con discrezione i propri sentimenti"
+      }
+    ],
+    "synonyms": ["caloroso", "affettuoso", "aperto", "estroverso"],
+    "equivalents": {
+      "en": ["expressive", "warm", "outgoing", "expansive"],
+      "de": ["offenherzig", "herzlich", "expansiv"],
+      "fr": ["expansif", "chaleureux"],
+      "es": ["expansivo", "efusivo", "afectuoso"]
+    },
+    "collocations": [
+      {"it": "una persona espansiva", "ja": "感情表現が豊かな人"},
+      {"it": "un carattere espansivo", "ja": "感情を率直に表す性格"},
+      {"it": "un temperamento espansivo", "ja": "開放的で温かな気質"},
+      {"it": "una bambina espansiva", "ja": "愛情表現が豊かな女の子"},
+      {"it": "essere espansivo con gli amici", "ja": "友人に親しみを率直に示す"},
+      {"it": "mostrarsi espansivo", "ja": "親しみを積極的に示す"},
+      {"it": "diventare più espansivo", "ja": "感情を以前より表に出すようになる"},
+      {"it": "un saluto espansivo", "ja": "温かく親しみのこもった挨拶"},
+      {"it": "la forza espansiva del gas", "ja": "気体の膨張力"}
+    ],
+    "examples": [
+      {
+        "it": "Mia zia è espansiva e abbraccia sempre tutti.",
+        "ja": "叔母は愛情表現が豊かで、いつも皆を抱きしめます。"
+      },
+      {
+        "it": "Con gli amici è espansivo, ma al lavoro è più riservato.",
+        "ja": "彼は友人には親しみを率直に示しますが、職場ではもっと控えめです。"
+      },
+      {
+        "it": "La bambina ha accolto gli ospiti con un saluto espansivo.",
+        "ja": "その女の子は、温かく親しみのこもった挨拶で客を迎えました。"
+      },
+      {
+        "it": "È socievole, anche se non è molto espansiva.",
+        "ja": "彼女は人付き合いがよいですが、感情を大きく表すほうではありません。"
+      },
+      {
+        "it": "Col tempo è diventato più espansivo con la sua famiglia.",
+        "ja": "時がたつにつれ、彼は家族に対して以前より愛情を表すようになりました。"
+      },
+      {
+        "it": "L'esperimento mostra la forza espansiva del gas.",
+        "ja": "その実験は気体の膨張力を示しています。"
+      }
+    ]
+  }
+  {
+    "id": "estroverso",
+    "sid": "2026-00511",
+    "word": "estroverso",
+    "ipa": "/estroˈvɛrso/",
+    "level": "B1",
+    "frequency": "common",
+    "grammar": {
+      "pos": "adjective",
+      "label": {
+        "ja": "形容詞・名詞的用法",
+        "it": "aggettivo e uso sostantivato"
+      },
+      "forms": ["estroverso", "estroversa", "estroversi", "estroverse"],
+      "pattern": "essere estroverso / persona o carattere estroverso / un estroverso, un'estroversa"
+    },
+    "usage": {
+      "register": ["neutral"],
+      "medium": ["spoken", "written"],
+      "situations": ["conversation", "personality", "relationships", "work", "education"]
+    },
+    "meaning": {
+      "ja": [
+        "関心が外界や他者に向かいやすい、外向的な",
+        "人と積極的に交流し、自分を表現しやすい",
+        "名詞的に、外向的な人"
+      ],
+      "it": [
+        "Di persona, orientata verso il mondo esterno e le relazioni con gli altri.",
+        "Incline a comunicare e a partecipare alle attività sociali.",
+        "Come sostantivo, persona dal carattere estroverso."
+      ]
+    },
+    "nuance": {
+      "ja": "estroversoは、他者や外の出来事に関心を向け、交流に積極的な性格を表す。socievoleは人付き合いのしやすさ、espansivoは親しみや感情を外に表す温かさに重点がある。反対語のintroversoは内面に関心を向けやすい性格を表し、必ずしもtimido「人前で気後れする」と同じではない。性格を表す語なので、一度よく話しただけでその人をestroversoと決めるわけではない。",
+      "it": "Estroverso descrive un orientamento abituale verso le persone e la realtà esterna. Socievole sottolinea la facilità nei rapporti sociali; espansivo il modo spontaneo e caloroso di esprimere sentimenti. Introverso indica un orientamento più rivolto alla propria interiorità e non equivale necessariamente a timido. L'aggettivo descrive un tratto del carattere, non un singolo episodio di conversazione."
+    },
+    "etymology": {
+      "ja": "estrovertere「外へ向ける」の過去分詞に由来する。estro-は「外へ」、-vertereは「向きを変える」に関係し、語構成上は「外へ向けられた」という意味である。心理学で用いられる「外向性」の概念とも結び付いている。",
+      "it": "Deriva dal participio passato di estrovertere, formato da estro-, «verso l'esterno», e vertere, «volgere». Il termine è legato anche all'uso psicologico di estroversione."
+    },
+    "minimal": [
+      {
+        "word": "estroverso",
+        "ja": "関心が外界や人との交流に向かいやすい",
+        "it": "orientato verso il mondo esterno e le relazioni"
+      },
+      {
+        "word": "introverso",
+        "ja": "関心を自分の内面に向けやすい",
+        "it": "orientato maggiormente verso la propria interiorità"
+      },
+      {
+        "word": "socievole",
+        "ja": "人付き合いを好み、人と打ち解けやすい",
+        "it": "incline a stare in compagnia e a instaurare rapporti"
+      },
+      {
+        "word": "espansivo",
+        "ja": "親しみや感情を率直かつ温かく表す",
+        "it": "manifesta apertamente e con calore i propri sentimenti"
+      },
+      {
+        "word": "timido",
+        "ja": "人前や慣れない場面で気後れしやすい",
+        "it": "prova esitazione o imbarazzo nelle situazioni sociali"
+      }
+    ],
+    "synonyms": ["socievole", "aperto", "comunicativo", "espansivo"],
+    "equivalents": {
+      "en": ["extroverted", "outgoing"],
+      "de": ["extrovertiert", "kontaktfreudig"],
+      "fr": ["extraverti", "sociable"],
+      "es": ["extrovertido", "sociable"]
+    },
+    "collocations": [
+      {"it": "una persona estroversa", "ja": "外向的な人"},
+      {"it": "un ragazzo estroverso", "ja": "外向的な若者"},
+      {"it": "una ragazza estroversa", "ja": "外向的な若い女性"},
+      {"it": "un carattere estroverso", "ja": "外向的な性格"},
+      {"it": "una personalità estroversa", "ja": "外向的な人格"},
+      {"it": "essere molto estroverso", "ja": "とても外向的である"},
+      {"it": "diventare più estroverso", "ja": "以前より社交的になる"},
+      {"it": "sembrare estroverso", "ja": "外向的に見える"},
+      {"it": "estroverso e socievole", "ja": "外向的で人付き合いがよい"}
+    ],
+    "examples": [
+      {
+        "it": "Mia sorella è estroversa e fa amicizia facilmente.",
+        "ja": "姉は外向的で、すぐに友達ができます。"
+      },
+      {
+        "it": "Marco ha un carattere estroverso e ama conoscere persone nuove.",
+        "ja": "マルコは外向的な性格で、新しい人と知り合うのが好きです。"
+      },
+      {
+        "it": "Durante la riunione è sembrata molto estroversa.",
+        "ja": "会議中、彼女はとても外向的に見えました。"
+      },
+      {
+        "it": "Un collega estroverso ha iniziato la conversazione.",
+        "ja": "外向的な同僚が会話を始めました。"
+      },
+      {
+        "it": "Si può essere estroversi e avere comunque bisogno di momenti da soli.",
+        "ja": "外向的でも、一人で過ごす時間が必要なことはあります。"
+      },
+      {
+        "it": "Rispetto a prima, è diventato più estroverso.",
+        "ja": "彼は以前より外向的になりました。"
+      }
+    ]
+  },
+  {
+    "id": "espansivo",
+    "sid": "2026-00512",
+    "word": "espansivo",
+    "ipa": "/espanˈsivo/",
+    "level": "B1",
+    "frequency": "common",
+    "grammar": {
+      "pos": "adjective",
+      "label": {
+        "ja": "形容詞・名詞的用法",
+        "it": "aggettivo e uso sostantivato"
+      },
+      "forms": ["espansivo", "espansiva", "espansivi", "espansive"],
+      "pattern": "essere espansivo / carattere o persona espansiva / mostrarsi espansivo con qualcuno / forza espansiva"
+    },
+    "usage": {
+      "register": ["neutral", "technical"],
+      "medium": ["spoken", "written"],
+      "situations": ["conversation", "personality", "relationships", "family", "science"]
+    },
+    "meaning": {
+      "ja": [
+        "感情や親しみを率直に、温かく表す",
+        "人に対して愛情や歓迎の気持ちを積極的に示す",
+        "物理的・技術的な文脈で、外へ広がる・膨張する"
+      ],
+      "it": [
+        "Di persona, incline a manifestare spontaneamente sentimenti e affetto.",
+        "Caloroso e aperto nel modo di accogliere o trattare gli altri.",
+        "In senso fisico o tecnico, che tende a espandersi."
+      ]
+    },
+    "nuance": {
+      "ja": "espansivoは人の感情表現の豊かさに焦点がある。estroversoは性格として外界や交流に向かう傾向、socievoleは人付き合いを好む傾向を表す。人当たりがよくても感情表現は控えめな人には、socievoleが合い、espansivoは必ずしも当てはまらない。物理的なforza espansivaは「膨張力」で、人柄とは別の用法である。",
+      "it": "Espansivo mette in rilievo la manifestazione spontanea e calorosa delle emozioni. Estroverso descrive più in generale l'orientamento verso il mondo esterno; socievole la disposizione a frequentare altre persone. Chi ama la compagnia ma esprime poco i propri sentimenti può essere socievole senza essere particolarmente espansivo. Nell'espressione tecnica forza espansiva il termine si riferisce invece all'espansione fisica."
+    },
+    "etymology": {
+      "ja": "espandere「広げる、拡張する」と同じ語族に属し、ラテン語expandereにさかのぼる。expandereはex-「外へ」とpandere「広げる」から成る。物が外へ広がる意味から、人が感情を外へ表す意味にも使われる。",
+      "it": "Appartiene alla famiglia di espandere, dal latino expandere, formato da ex-, «verso fuori», e pandere, «allargare». Dal significato fisico di espansione deriva l'uso figurato riferito all'espressione dei sentimenti."
+    },
+    "minimal": [
+      {
+        "word": "espansivo",
+        "ja": "愛情や感情を外へ率直かつ温かく表す",
+        "it": "manifesta spontaneamente e con calore affetto e sentimenti"
+      },
+      {
+        "word": "estroverso",
+        "ja": "関心が外界や人との交流に向かいやすい",
+        "it": "tende a rivolgersi al mondo esterno e agli altri"
+      },
+      {
+        "word": "socievole",
+        "ja": "人付き合いを好み、人と親しくなりやすい",
+        "it": "ama la compagnia e instaura facilmente rapporti"
+      },
+      {
+        "word": "affettuoso",
+        "ja": "愛情を持ち、優しく表す",
+        "it": "prova ed esprime affetto verso qualcuno"
+      },
+      {
+        "word": "riservato",
+        "ja": "感情や私的なことをあまり表に出さない",
+        "it": "manifesta con discrezione i propri sentimenti"
+      }
+    ],
+    "synonyms": ["caloroso", "affettuoso", "aperto", "estroverso"],
+    "equivalents": {
+      "en": ["expressive", "warm", "outgoing", "expansive"],
+      "de": ["offenherzig", "herzlich", "expansiv"],
+      "fr": ["expansif", "chaleureux"],
+      "es": ["expansivo", "efusivo", "afectuoso"]
+    },
+    "collocations": [
+      {"it": "una persona espansiva", "ja": "感情表現が豊かな人"},
+      {"it": "un carattere espansivo", "ja": "感情を率直に表す性格"},
+      {"it": "un temperamento espansivo", "ja": "開放的で温かな気質"},
+      {"it": "una bambina espansiva", "ja": "愛情表現が豊かな女の子"},
+      {"it": "essere espansivo con gli amici", "ja": "友人に親しみを率直に示す"},
+      {"it": "mostrarsi espansivo", "ja": "親しみを積極的に示す"},
+      {"it": "diventare più espansivo", "ja": "感情を以前より表に出すようになる"},
+      {"it": "un saluto espansivo", "ja": "温かく親しみのこもった挨拶"},
+      {"it": "la forza espansiva del gas", "ja": "気体の膨張力"}
+    ],
+    "examples": [
+      {
+        "it": "Mia zia è espansiva e abbraccia sempre tutti.",
+        "ja": "叔母は愛情表現が豊かで、いつも皆を抱きしめます。"
+      },
+      {
+        "it": "Con gli amici è espansivo, ma al lavoro è più riservato.",
+        "ja": "彼は友人には親しみを率直に示しますが、職場ではもっと控えめです。"
+      },
+      {
+        "it": "La bambina ha accolto gli ospiti con un saluto espansivo.",
+        "ja": "その女の子は、温かく親しみのこもった挨拶で客を迎えました。"
+      },
+      {
+        "it": "È socievole, anche se non è molto espansiva.",
+        "ja": "彼女は人付き合いがよいですが、感情を大きく表すほうではありません。"
+      },
+      {
+        "it": "Col tempo è diventato più espansivo con la sua famiglia.",
+        "ja": "時がたつにつれ、彼は家族に対して以前より愛情を表すようになりました。"
+      },
+      {
+        "it": "L'esperimento mostra la forza espansiva del gas.",
+        "ja": "その実験は気体の膨張力を示しています。"
+      }
+    ]
+  }
+],  
 {
   "id": "subito",
   "sid": "2026-00528",
