@@ -12847,5 +12847,429 @@
       "ja": "夕食のあと、デザートを食べませんか。"
     }
   ]
+},
+{
+  "id": "tenero",
+  "sid": "2026-00509",
+  "word": "tenero",
+  "ipa": "/ˈtɛnero/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "adjective",
+    "label": {
+      "ja": "形容詞・一部に名詞的用法",
+      "it": "aggettivo, con alcuni usi sostantivati"
+    },
+    "adjectiveForms": [
+      "tenero",
+      "tenera",
+      "teneri",
+      "tenere"
+    ],
+    "pattern": "nome + tenero, tenera, teneri o tenere / essere tenero con + persona / in tenera età / c’è del tenero tra + persone"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "food",
+      "cooking",
+      "relationships",
+      "family",
+      "description"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "肉や野菜などが硬くなく、切ったり噛んだりしやすい、柔らかい",
+      "植物の芽などが生えたばかりで、まだ柔らかい・若い",
+      "人の年齢が非常に若い、幼い",
+      "人が愛情深く、優しく接する",
+      "言葉・視線・行為などに愛情や思いやりがこもっている",
+      "人が感動しやすい、情に厚い",
+      "厳しく扱わず、寛大な",
+      "c’è del teneroの形で、人と人の間に恋愛感情がある"
+    ],
+    "it": [
+      "Di carne, verdure o altri alimenti, facile da tagliare e masticare perché non duro.",
+      "Di germogli e piante, giovane e ancora morbido.",
+      "Di una persona o di un periodo della vita, molto giovane.",
+      "Di una persona, affettuoso e premuroso nei rapporti con gli altri.",
+      "Di parole, sguardi o gesti, pieno di affetto e tenerezza.",
+      "Facile a commuoversi.",
+      "Indulgente, poco severo verso qualcuno.",
+      "Nell’espressione c’è del tenero, riferito a un sentimento amoroso tra due persone."
+    ]
+  },
+
+  "nuance": {
+    "ja": "teneroは、硬さを表す場合と感情を表す場合の両方で使う。Una carne teneraは「柔らかく噛みやすい肉」、uno sguardo teneroは「愛情のこもったまなざし」である。morbidoも「柔らかい」だが、触れたときの柔らかさに広く使える。dolceは「甘い」のほかに人の穏やかで優しい印象も表すが、teneroは愛情・いたわりや、見た人の心を動かす感じがより前面に出る。essere tenero con qualcunoは「～に優しく接する」。一方、essere troppo tenero con qualcunoは「～に甘すぎる」という批判にもなる。",
+    "it": "Tenero può descrivere una consistenza fisica oppure un atteggiamento affettuoso. Una carne tenera è facile da masticare; uno sguardo tenero esprime affetto. Morbido si riferisce più generalmente alla sensazione di cedevolezza al tatto. Dolce può descrivere una persona gentile e mite; tenero mette spesso maggiormente in rilievo l’affetto, la premura o la commozione che una persona suscita. Essere tenero con qualcuno significa trattarlo con affetto, ma essere troppo tenero con qualcuno può indicare un’eccessiva indulgenza."
+  },
+
+  "etymology": {
+    "ja": "ラテン語tener「柔らかい、繊細な、若い」に由来する。物理的に「硬くない」という意味から、幼いものや傷つきやすいものを表し、さらに人の態度・感情について「優しい、愛情深い」という意味でも使われるようになった。イタリア語tenerezza「優しさ、愛情のこもった感情」も同じ語族に属する。",
+    "it": "Deriva dal latino tener, «morbido, delicato, giovane». Al significato fisico di ciò che non è duro si sono affiancati gli usi riferiti alla giovane età e ai sentimenti affettuosi. Alla stessa famiglia appartiene tenerezza."
+  },
+
+  "minimal": [
+    {
+      "word": "tenero",
+      "ja": "食べ物なら噛みやすく柔らかい。人や態度なら愛情深い",
+      "it": "indica una consistenza non dura oppure un atteggiamento pieno di affetto"
+    },
+    {
+      "word": "morbido",
+      "ja": "触れると柔らかく、圧力で形が変わりやすい",
+      "it": "cedevole e piacevole al tatto, riferito a molti tipi di materiali"
+    },
+    {
+      "word": "dolce",
+      "ja": "味が甘い、または人柄・声などが穏やかで優しい",
+      "it": "di sapore zuccherino oppure, figuratamente, gentile e gradevole"
+    },
+    {
+      "word": "affettuoso",
+      "ja": "相手への愛情を態度や言葉に表す",
+      "it": "che manifesta apertamente affetto verso qualcuno"
+    },
+    {
+      "word": "fragile",
+      "ja": "壊れたり傷ついたりしやすい",
+      "it": "facile a rompersi o a subire un danno"
+    }
+  ],
+
+  "synonyms": [
+    "morbido",
+    "soffice",
+    "delicato",
+    "affettuoso",
+    "premuroso",
+    "indulgente"
+  ],
+
+  "equivalents": {
+    "en": [
+      "tender",
+      "soft",
+      "affectionate",
+      "young"
+    ],
+    "de": [
+      "zart",
+      "weich",
+      "liebevoll",
+      "jung"
+    ],
+    "fr": [
+      "tendre",
+      "moelleux",
+      "affectueux",
+      "jeune"
+    ],
+    "es": [
+      "tierno",
+      "blando",
+      "cariñoso",
+      "joven"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "carne tenera",
+      "ja": "柔らかい肉"
+    },
+    {
+      "it": "verdure tenere",
+      "ja": "柔らかい野菜"
+    },
+    {
+      "it": "teneri germogli",
+      "ja": "柔らかい若芽"
+    },
+    {
+      "it": "in tenera età",
+      "ja": "幼いころに"
+    },
+    {
+      "it": "un cuore tenero",
+      "ja": "情に厚い心"
+    },
+    {
+      "it": "uno sguardo tenero",
+      "ja": "愛情のこもったまなざし"
+    },
+    {
+      "it": "un sorriso tenero",
+      "ja": "優しさのこもったほほえみ"
+    },
+    {
+      "it": "parole tenere",
+      "ja": "愛情のこもった言葉"
+    },
+    {
+      "it": "un tenero abbraccio",
+      "ja": "優しく愛情のこもった抱擁"
+    },
+    {
+      "it": "essere tenero con qualcuno",
+      "ja": "誰かに優しく接する"
+    },
+    {
+      "it": "essere troppo tenero con qualcuno",
+      "ja": "誰かに甘すぎる"
+    },
+    {
+      "it": "c’è del tenero tra loro",
+      "ja": "二人の間には恋愛感情がある"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "La carne è tenera e si taglia facilmente.",
+      "ja": "その肉は柔らかく、簡単に切れます。"
+    },
+    {
+      "it": "Per questa insalata scegli le foglie più tenere.",
+      "ja": "このサラダには、より柔らかい葉を選んでください。"
+    },
+    {
+      "it": "Ha cominciato a studiare musica in tenera età.",
+      "ja": "彼女は幼いころに音楽の勉強を始めました。"
+    },
+    {
+      "it": "Il nonno ha rivolto al bambino un sorriso tenero.",
+      "ja": "祖父はその子に愛情のこもったほほえみを向けました。"
+    },
+    {
+      "it": "È sempre molto tenera con i suoi nipoti.",
+      "ja": "彼女はいつも孫たちにとても優しく接します。"
+    },
+    {
+      "it": "Non essere troppo tenero con lui: deve assumersi le sue responsabilità.",
+      "ja": "彼に甘くしすぎないでください。彼は自分の責任を負わなければなりません。"
+    },
+    {
+      "it": "Quel messaggio mi ha commosso: ho un cuore tenero.",
+      "ja": "そのメッセージに心を動かされました。私は情にもろいのです。"
+    },
+    {
+      "it": "Secondo me c’è del tenero tra quei due.",
+      "ja": "私の見るところ、あの二人の間には恋愛感情があります。"
+    }
+  ]
+},
+{
+  "id": "socievole",
+  "sid": "2026-00510",
+  "word": "socievole",
+  "ipa": "/soˈtʃevole/",
+  "level": "B1",
+  "frequency": "common",
+
+  "grammar": {
+    "pos": "adjective",
+    "label": {
+      "ja": "形容詞",
+      "it": "aggettivo"
+    },
+    "adjectiveForms": [
+      "socievole",
+      "socievoli"
+    ],
+    "pattern": "persona + socievole / essere socievole / essere socievole con + persona / animale socievole"
+  },
+
+  "usage": {
+    "register": [
+      "neutral"
+    ],
+    "medium": [
+      "spoken",
+      "written"
+    ],
+    "situations": [
+      "conversation",
+      "relationships",
+      "personality",
+      "work",
+      "family",
+      "animals"
+    ]
+  },
+
+  "meaning": {
+    "ja": [
+      "人と一緒にいることや交流することを好む、社交的な",
+      "初対面の相手とも気楽に話し、打ち解けやすい",
+      "集団の中で自然に過ごし、人とのつきあいを楽しむ",
+      "人に対して親しみやすく、感じよく接する",
+      "動物について、人やほかの動物と接することを好む・なつきやすい"
+    ],
+    "it": [
+      "Che ama stare in compagnia e avere rapporti con altre persone.",
+      "Che si trova a proprio agio anche con persone appena conosciute.",
+      "Che partecipa volentieri alla vita di gruppo e alla conversazione.",
+      "Affabile e gradevole nei rapporti con gli altri.",
+      "Di un animale, incline a stare con le persone o con altri animali."
+    ]
+  },
+
+  "nuance": {
+    "ja": "socievoleは、人との交流を好み、一緒にいて自然に振る舞える性質を表す。estroverso「外向的な」は、より広い性格傾向を指す。cordialeは相手への応対が温かく礼儀正しいことに重点があり、必ずしも交流を積極的に求めるとは限らない。amichevoleは態度や関係が友好的であることを表す。socievoleは人に加えて、un gatto socievole「人なつこい猫」のように動物にも使える。単数形は男女ともsocievole、複数形はsocievoliである。",
+    "it": "Socievole descrive chi ama la compagnia e si trova facilmente a proprio agio con gli altri. Estroverso indica una tendenza più ampia della personalità. Cordiale riguarda soprattutto il modo caloroso e cortese di trattare qualcuno, mentre amichevole descrive un atteggiamento o un rapporto improntato all’amicizia. Socievole può riferirsi anche agli animali: un gatto socievole cerca volentieri il contatto con le persone. La forma singolare è uguale per i due generi; il plurale è socievoli."
+  },
+
+  "etymology": {
+    "ja": "ラテン語sociābilis「人と結び付きやすい、交際を好む」にさかのぼり、イタリア語では語尾が-evoleの形になった。語根にはsocius「仲間」があり、società「社会」、socio「仲間・会員」、sociabile「社交的な」も同じ語族に属する。中心にあるのは「仲間とともにいる」という考え方である。",
+    "it": "Risale al latino sociābilis, collegato al verbo sociāre, «unire, associare»; la forma italiana presenta la terminazione -evole. Alla base della famiglia si trova socius, «compagno». Sono parole affini socio, società e sociabile."
+  },
+
+  "minimal": [
+    {
+      "word": "socievole",
+      "ja": "人との交流や同席を好み、打ち解けやすい",
+      "it": "ama la compagnia e si trova facilmente a proprio agio con gli altri"
+    },
+    {
+      "word": "estroverso",
+      "ja": "関心や感情を外へ向け、人との交流に積極的な性格の",
+      "it": "di persona generalmente aperta verso l’esterno e incline a esprimersi"
+    },
+    {
+      "word": "cordiale",
+      "ja": "相手に温かく礼儀正しく接する",
+      "it": "caloroso e cortese nel modo di trattare gli altri"
+    },
+    {
+      "word": "amichevole",
+      "ja": "態度や関係が友好的な",
+      "it": "che mostra amicizia o disponibilità nei rapporti"
+    },
+    {
+      "word": "riservato",
+      "ja": "自分の考えや感情をあまり表に出さない、控えめな",
+      "it": "che tende a non esprimere facilmente pensieri e sentimenti personali"
+    }
+  ],
+
+  "synonyms": [
+    "sociabile",
+    "estroverso",
+    "affabile",
+    "cordiale",
+    "aperto",
+    "compagnone"
+  ],
+
+  "equivalents": {
+    "en": [
+      "sociable",
+      "outgoing",
+      "gregarious"
+    ],
+    "de": [
+      "gesellig",
+      "kontaktfreudig",
+      "umgänglich"
+    ],
+    "fr": [
+      "sociable",
+      "avenant",
+      "ouvert"
+    ],
+    "es": [
+      "sociable",
+      "abierto",
+      "extrovertido"
+    ]
+  },
+
+  "collocations": [
+    {
+      "it": "una persona socievole",
+      "ja": "社交的な人"
+    },
+    {
+      "it": "un carattere socievole",
+      "ja": "社交的な性格"
+    },
+    {
+      "it": "un bambino socievole",
+      "ja": "人とすぐ打ち解ける子供"
+    },
+    {
+      "it": "essere molto socievole",
+      "ja": "とても社交的である"
+    },
+    {
+      "it": "essere poco socievole",
+      "ja": "あまり社交的ではない"
+    },
+    {
+      "it": "essere socievole con tutti",
+      "ja": "誰に対しても気さくに接する"
+    },
+    {
+      "it": "diventare più socievole",
+      "ja": "以前より人づきあいがよくなる"
+    },
+    {
+      "it": "apparire socievole",
+      "ja": "社交的に見える"
+    },
+    {
+      "it": "un gatto socievole",
+      "ja": "人なつこい猫"
+    },
+    {
+      "it": "socievole per natura",
+      "ja": "生まれつき社交的な"
+    }
+  ],
+
+  "examples": [
+    {
+      "it": "Mia sorella è molto socievole e fa amicizia facilmente.",
+      "ja": "姉はとても社交的で、すぐに友達を作ります。"
+    },
+    {
+      "it": "Anche se non conosceva nessuno, si è mostrato socievole per tutta la serata.",
+      "ja": "彼は誰も知らなかったのに、夕方から夜にかけてずっと気さくに振る舞いました。"
+    },
+    {
+      "it": "Da piccolo ero timido, ma con gli anni sono diventato più socievole.",
+      "ja": "子供のころは内気でしたが、年齢を重ねて人づきあいがよくなりました。"
+    },
+    {
+      "it": "È socievole con tutti, anche con i nuovi colleghi.",
+      "ja": "彼女は新しい同僚も含め、誰に対しても気さくです。"
+    },
+    {
+      "it": "Il nuovo vicino sembra una persona socievole.",
+      "ja": "新しい隣人は社交的な人に見えます。"
+    },
+    {
+      "it": "Questo gatto è socievole e si lascia accarezzare anche dagli ospiti.",
+      "ja": "この猫は人なつこく、お客さんにも撫でさせてくれます。"
+    },
+    {
+      "it": "Non essere molto socievole non significa essere scortese.",
+      "ja": "あまり社交的でないことは、失礼であることを意味しません。"
+    }
+  ]
 }  
 ]
