@@ -1265,7 +1265,8 @@ Promise.all(
     "./data/words8.json",
     "./data/words9.json",
     "./data/words10.json",
-    "./data/words11.json"
+    "./data/words11.json",
+    "./data/words12.json"
   ].map(path =>
     fetch(
       `${path}?v=3`,
